@@ -1,0 +1,7 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#6a1b9a"/>
+  <text x="600" y="220" text-anchor="middle" font-size="52" font-weight="900" fill="white" font-family="Pretendard, sans-serif">넷플릭스 한국 드라마</text>
+  <text x="600" y="310" text-anchor="middle" font-size="60" font-weight="900" fill="#87CEEB" font-family="Pretendard, sans-serif">역대 시청률 TOP 10</text>
+  <text x="600" y="400" text-anchor="middle" font-size="32" font-weight="700" fill="#FFD700" font-family="Pretendard, sans-serif">숫자로 증명하는 K-드라마의 위상</text>
+  <text x="600" y="500" text-anchor="middle" font-size="24" fill="rgba(255,255,255,0.7)" font-family="Pretendard, sans-serif">R의 필름공장 | 2026 데이터 기준</text>
+</svg>

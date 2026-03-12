@@ -1,0 +1,6 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#6a1b9a"/>
+  <text x="600" y="230" text-anchor="middle" fill="white" font-size="60" font-weight="bold" font-family="sans-serif">한국 드라마 역대 시청률</text>
+  <text x="600" y="330" text-anchor="middle" fill="#FFD700" font-size="64" font-weight="bold" font-family="sans-serif">TOP 20</text>
+  <text x="600" y="430" text-anchor="middle" fill="white" font-size="40" font-family="sans-serif">드라마 | 지상파+케이블</text>
+</svg>

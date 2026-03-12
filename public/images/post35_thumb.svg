@@ -1,0 +1,6 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1a73e8"/>
+  <text x="600" y="230" text-anchor="middle" fill="white" font-size="68" font-weight="bold" font-family="sans-serif">SF 영화 추천 2026</text>
+  <text x="600" y="330" text-anchor="middle" fill="#FFD700" font-size="58" font-weight="bold" font-family="sans-serif">우주와 미래 명작 15선</text>
+  <text x="600" y="430" text-anchor="middle" fill="white" font-size="40" font-family="sans-serif">영화추천 | 사이언스 픽션</text>
+</svg>

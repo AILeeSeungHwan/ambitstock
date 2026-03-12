@@ -1,0 +1,7 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#4a148c"/>
+  <text x="600" y="240" text-anchor="middle" font-size="48" font-weight="800" fill="white" font-family="Pretendard, sans-serif">브리저튼 시즌4 평점</text>
+  <text x="600" y="320" text-anchor="middle" font-size="36" font-weight="700" fill="#87CEEB" font-family="Pretendard, sans-serif">IMDB 8화 평점: 9.2</text>
+  <text x="600" y="400" text-anchor="middle" font-size="30" fill="rgba(255,255,255,0.8)" font-family="Pretendard, sans-serif">시즌 평균: 8.1 | 역대 최고 시즌</text>
+  <text x="600" y="480" text-anchor="middle" font-size="24" fill="rgba(255,255,255,0.5)" font-family="Pretendard, sans-serif">글로벌 시청 시간 1억 4천만 시간 (첫 주)</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0d47a1"/>
+  <text x="600" y="220" text-anchor="middle" fill="white" font-size="52" font-weight="bold" font-family="sans-serif">OTT 플랫폼 비교</text>
+  <text x="600" y="320" text-anchor="middle" fill="#87CEEB" font-size="42" font-family="sans-serif">넷플릭스 | 쿠팡 | 디즈니+</text>
+  <text x="600" y="410" text-anchor="middle" fill="#FFD700" font-size="38" font-family="sans-serif">티빙 | 웨이브</text>
+  <text x="600" y="490" text-anchor="middle" fill="white" font-size="32" font-family="sans-serif">가격과 콘텐츠 비교 분석</text>
+</svg>

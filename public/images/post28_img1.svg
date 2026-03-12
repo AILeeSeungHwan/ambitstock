@@ -1,0 +1,6 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1a1a1a"/>
+  <text x="600" y="250" text-anchor="middle" fill="#e53935" font-size="72" font-weight="bold" font-family="sans-serif">무서움 등급 5/5</text>
+  <text x="600" y="370" text-anchor="middle" fill="white" font-size="48" font-weight="bold" font-family="sans-serif">진짜 혼자 보면 안 됩니다</text>
+  <text x="600" y="460" text-anchor="middle" fill="#666" font-size="36" font-family="sans-serif">심약자 절대 주의</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1a73e8"/>
+  <text x="600" y="230" text-anchor="middle" fill="white" font-size="68" font-weight="bold" font-family="sans-serif">크리스토퍼 놀란</text>
+  <text x="600" y="330" text-anchor="middle" fill="#FFD700" font-size="62" font-weight="bold" font-family="sans-serif">영화 추천 순위</text>
+  <text x="600" y="430" text-anchor="middle" fill="white" font-size="44" font-family="sans-serif">최고작은? | 영화추천</text>
+</svg>

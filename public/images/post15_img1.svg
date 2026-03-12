@@ -1,0 +1,5 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#4a148c"/>
+  <text x="600" y="280" text-anchor="middle" fill="white" font-size="60" font-weight="bold" font-family="sans-serif">특수관 체험 비교</text>
+  <text x="600" y="380" text-anchor="middle" fill="#FFD700" font-size="48" font-family="sans-serif">가격 &amp; 좌석 분석</text>
+</svg>

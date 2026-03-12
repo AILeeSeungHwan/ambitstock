@@ -1,0 +1,10 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0d0d1a"/>
+  <text x="600" y="160" text-anchor="middle" font-size="40" font-weight="800" fill="#FFD700" font-family="Pretendard, sans-serif">둠스데이 확정 출연진</text>
+  <text x="600" y="240" text-anchor="middle" font-size="28" fill="white" font-family="Pretendard, sans-serif">로버트 다우니 주니어 (닥터 둠)</text>
+  <text x="600" y="290" text-anchor="middle" font-size="28" fill="white" font-family="Pretendard, sans-serif">크리스 헴스워스 · 마크 러팔로 · 톰 홀랜드</text>
+  <text x="600" y="340" text-anchor="middle" font-size="28" fill="white" font-family="Pretendard, sans-serif">베네딕트 컴버배치 · 브리 라슨 · 앤서니 마키</text>
+  <text x="600" y="390" text-anchor="middle" font-size="28" fill="white" font-family="Pretendard, sans-serif">플로렌스 퓨 · 페드로 파스칼</text>
+  <text x="600" y="470" text-anchor="middle" font-size="24" font-weight="700" fill="#FFD700" font-family="Pretendard, sans-serif">감독: 루소 형제 (인피니티 워 · 엔드게임)</text>
+  <text x="600" y="560" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.4)" font-family="Pretendard, sans-serif">R의 필름공장 | 마블 완전정복 시리즈</text>
+</svg>

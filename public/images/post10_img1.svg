@@ -1,0 +1,17 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0d0d1a"/>
+  <text x="600" y="80" text-anchor="middle" font-size="36" font-weight="800" fill="#FFD700" font-family="Pretendard, sans-serif">MCU 필수 시청 10편 로드맵</text>
+  <text x="150" y="160" font-size="24" font-weight="700" fill="white" font-family="Pretendard, sans-serif">1. 아이언맨 (2008)</text>
+  <text x="600" y="160" font-size="24" font-weight="700" fill="white" font-family="Pretendard, sans-serif">2. 캡틴 아메리카 (2011)</text>
+  <text x="150" y="220" font-size="24" font-weight="700" fill="white" font-family="Pretendard, sans-serif">3. 어벤져스 (2012)</text>
+  <text x="600" y="220" font-size="24" font-weight="700" fill="white" font-family="Pretendard, sans-serif">4. 윈터 솔져 (2014)</text>
+  <text x="150" y="280" font-size="24" font-weight="700" fill="white" font-family="Pretendard, sans-serif">5. 가디언즈 (2014)</text>
+  <text x="600" y="280" font-size="24" font-weight="700" fill="white" font-family="Pretendard, sans-serif">6. 시빌 워 (2016)</text>
+  <text x="150" y="340" font-size="24" font-weight="700" fill="white" font-family="Pretendard, sans-serif">7. 라그나로크 (2017)</text>
+  <text x="600" y="340" font-size="24" font-weight="700" fill="#FFD700" font-family="Pretendard, sans-serif">8. 인피니티 워 (2018)</text>
+  <text x="150" y="400" font-size="24" font-weight="700" fill="#FFD700" font-family="Pretendard, sans-serif">9. 엔드게임 (2019)</text>
+  <text x="600" y="400" font-size="24" font-weight="700" fill="white" font-family="Pretendard, sans-serif">10. 노 웨이 홈 (2021)</text>
+  <line x1="100" y1="460" x2="1100" y2="460" stroke="rgba(255,215,0,0.3)" stroke-width="2"/>
+  <text x="600" y="510" text-anchor="middle" font-size="22" fill="rgba(255,255,255,0.7)" font-family="Pretendard, sans-serif">이 10편만 보면 MCU의 핵심 스토리 완벽 이해!</text>
+  <text x="600" y="580" text-anchor="middle" font-size="18" fill="rgba(255,255,255,0.4)" font-family="Pretendard, sans-serif">R의 필름공장 | 마블 완전정복 시리즈</text>
+</svg>

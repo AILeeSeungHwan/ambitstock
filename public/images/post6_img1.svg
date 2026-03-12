@@ -1,0 +1,18 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0d0d1a"/>
+  <text x="600" y="80" text-anchor="middle" font-size="36" font-weight="800" fill="#FFD700" font-family="Pretendard, sans-serif">MCU 개봉 타임라인 2025-2027</text>
+  <line x1="600" y1="120" x2="600" y2="550" stroke="rgba(255,215,0,0.3)" stroke-width="3"/>
+  <circle cx="600" cy="160" r="10" fill="#FFD700"/>
+  <text x="630" y="168" font-size="22" font-weight="700" fill="white" font-family="Pretendard, sans-serif">2025.02 캡틴 아메리카: 브레이브 뉴 월드</text>
+  <circle cx="600" cy="220" r="10" fill="#FFD700"/>
+  <text x="630" y="228" font-size="22" font-weight="700" fill="white" font-family="Pretendard, sans-serif">2025.05 썬더볼츠*</text>
+  <circle cx="600" cy="280" r="10" fill="#FFD700"/>
+  <text x="630" y="288" font-size="22" font-weight="700" fill="white" font-family="Pretendard, sans-serif">2025.07 판타스틱 4: 퍼스트 스텝</text>
+  <circle cx="600" cy="360" r="14" fill="#e50914"/>
+  <text x="630" y="368" font-size="24" font-weight="900" fill="#FFD700" font-family="Pretendard, sans-serif">2026.05 어벤져스: 둠스데이</text>
+  <circle cx="600" cy="420" r="10" fill="#FFD700"/>
+  <text x="630" y="428" font-size="22" font-weight="700" fill="white" font-family="Pretendard, sans-serif">2026.11 블레이드</text>
+  <circle cx="600" cy="500" r="14" fill="#e50914"/>
+  <text x="630" y="508" font-size="24" font-weight="900" fill="#FFD700" font-family="Pretendard, sans-serif">2027.05 어벤져스: 시크릿 워즈</text>
+  <text x="600" y="590" text-anchor="middle" font-size="18" fill="rgba(255,255,255,0.4)" font-family="Pretendard, sans-serif">R의 필름공장 | 2026년 3월 기준</text>
+</svg>

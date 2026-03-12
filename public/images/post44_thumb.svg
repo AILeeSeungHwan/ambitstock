@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#6a1b9a"/>
+  <text x="600" y="250" font-family="Arial, sans-serif" font-size="68" font-weight="bold" fill="white" text-anchor="middle">한국 사극 드라마 추천</text>
+  <text x="600" y="350" font-family="Arial, sans-serif" font-size="52" fill="#FFD700" text-anchor="middle">TOP 10</text>
+  <text x="600" y="440" font-family="Arial, sans-serif" font-size="36" fill="rgba(255,255,255,0.7)" text-anchor="middle">역사를 재미있게 배우는 방법</text>
+</svg>

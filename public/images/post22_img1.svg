@@ -1,0 +1,6 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#ffd700"/>
+  <text x="600" y="250" text-anchor="middle" fill="#1a1a2e" font-size="64" font-weight="bold" font-family="sans-serif">OSCAR BEST PICTURE</text>
+  <text x="600" y="360" text-anchor="middle" fill="#1a1a2e" font-size="48" font-weight="bold" font-family="sans-serif">입문자 관람 순서 가이드</text>
+  <text x="600" y="450" text-anchor="middle" fill="#333" font-size="36" font-family="sans-serif">포레스트 검프 → 타이타닉 → 기생충</text>
+</svg>

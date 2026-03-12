@@ -1,0 +1,6 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#e53935"/>
+  <text x="600" y="230" text-anchor="middle" fill="white" font-size="64" font-weight="bold" font-family="sans-serif">한국 영화 해외 반응</text>
+  <text x="600" y="330" text-anchor="middle" fill="#FFD700" font-size="58" font-weight="bold" font-family="sans-serif">외국인이 충격받은 작품들</text>
+  <text x="600" y="430" text-anchor="middle" fill="white" font-size="40" font-family="sans-serif">해외반응후기 | 실제 댓글 모음</text>
+</svg>

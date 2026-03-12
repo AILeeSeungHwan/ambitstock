@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0d47a1"/>
+  <text x="600" y="250" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="white" text-anchor="middle">90분 이하 영화 추천</text>
+  <text x="600" y="350" font-family="Arial, sans-serif" font-size="42" fill="#87CEEB" text-anchor="middle">짧은 러닝타임, 긴 여운</text>
+  <text x="600" y="430" font-family="Arial, sans-serif" font-size="30" fill="rgba(255,255,255,0.6)" text-anchor="middle">Short but Powerful Movies</text>
+</svg>

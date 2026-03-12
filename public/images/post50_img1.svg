@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1565c0"/>
+  <text x="600" y="250" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="white" text-anchor="middle">평점 사이트별 비교 분석</text>
+  <text x="600" y="350" font-family="Arial, sans-serif" font-size="40" fill="#87CEEB" text-anchor="middle">사이트마다 평점 기준이 다르다</text>
+  <text x="600" y="430" font-family="Arial, sans-serif" font-size="30" fill="rgba(255,255,255,0.6)" text-anchor="middle">IMDB | Rotten Tomatoes | Watcha</text>
+</svg>
