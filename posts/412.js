@@ -1,0 +1,126 @@
+const post = {
+  id: 412,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8C%8C%EB%AC%98-%EC%98%A4%EC%BB%AC%ED%8A%B8-%EB%9C%BB%EA%B3%BC-%EC%9E%A5%EC%9E%AC%ED%98%84%EC%84%B8%EA%B3%84%EA%B4%80-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-%EA%B0%9C%EB%B4%89%ED%9B%84-%EA%B4%80%EA%B0%9D%EC%88%98-%EC%8A%A4%ED%8F%AC%ED%8F%AC%ED%95%A8-%ED%9B%84%EA%B8%B0-%EC%A0%95%EB%B3%B4-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%A6%AC%EB%B7%B0-%EA%B2%B0%EB%A7%90-%ED%95%B4%EC%84%9D-%EC%A0%84%EC%9E%91-OTT-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4',
+      text: '[영화 파묘 오컬트 뜻 반일논란] 명작에 때 아닌 정치색 전쟁 - 스포포함 결말 해석 리뷰 현재상'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8C%8C%EB%AC%98-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EB%B0%8F-%ED%8B%B0%EC%A0%80-%EC%98%88%EA%B3%A0%ED%8E%B8-%ED%95%B4%EC%99%B8%EB%B0%98%EC%9D%91-%ED%8C%8C%EB%AC%98-%EB%9C%BB-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC%EA%B3%BC-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%98%81%EC%96%B4%EC%A0%9C%EB%AA%A9-Exhuma-%EB%9C%BB-2%EC%9B%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91',
+      text: '[영화 파묘 개봉일 및 티저 예고편 해외반응] - 파묘 뜻 등장인물과 포스터 영어제목 Exhuma 뜻 2월'
+    },
+    {
+      type: 'intro',
+      html: '<p style=&quot;text-align: left;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>역대 영화 박스오피스 관객 수 흥행 순위 TOP20</b></span>으로 확인해보는 영화 추천입니다.</p><p style=&quot;text-align: left;&quot;>영화조아 누누티비 티비나무와 같은 불법 스트리밍 사이트도 있지만, 정당히 OTT 구독료로 시청가능한 OTT 사이트로 정리하였습니다.</p><p style=&quot;text-align: left;&quot;>모든 데이터는 영화관입장권통합전상망에서 가져온 공식데이터입니다. 순위는 역순으로 정리하였습니다. </p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post412_thumb.svg',
+      alt: 'TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위',
+      caption: 'TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1158&quot; data-origin-width=&quot;1584&quot;><span data-alt=&quot;역대 영화 박스오피스 흥행 순위 TOP 20&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cR3edI/btsIhyNDn5k/AAAAAAAAAAAAAAAAAAAAAADS8qNq82JI-UmGMjD16D0cnnf2rEySDzpqtvZw1D-o/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DJkRkl5x6fnw%2Bx8kcA6aAJxM%2FLI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cR3edI/btsIhyNDn5k/AAAAAAAAAAAAAAAAAAAAAADS8qNq82JI-UmGMjD16D0cnnf2rEySDzpqtvZw1D-o/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DJkRkl5x6fnw%2Bx8kcA6aAJxM%2FLI%3D&quot;></span><figcaption>역대 영화 박스오피스 흥행 순위 TOP 20</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>개봉일: 2024-04-24<br>매출액: 110,006,281,919원<br>관객 수: 11,497,882명<br/>상영관 수: 2,980<br/>상영 횟수: 374,783<br/>출연진: 마동석, 손석구, 김무열, 최귀화 </br></br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><b>범죄도시4 다시보기 보는곳 OTT</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #ffffff; color: #7f7f7f; text-align: start;&quot;>6월 초 VOD출시, 10월 중순 OTT 출시 예상 </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #ffffff; color: #7f7f7f; text-align: start;&quot;>OTT 플랫폼은 디즈니플러스</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>개봉일: 2016-07-20<br/>매출액: 93,188,170,548원<br/>관객 수: 11,567,816명<br/>상영관 수: 1,788<br/>상영 횟수: 151,535<br/>출연진: 공유, 정유미, 마동석, 김수안</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>부산행 다시보기 보는곳 OTT: 넷플릭스</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>개봉일: 2024-02-22<br/>매출액: 115,144,180,214원<br/>관객 수: 11,913,077명<br/>상영관 수: 2,367<br/>상영 횟수: 364,855<br/>출연진: 최민식, 김고은, 유해진, 이도현</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>파묘 다시보기 보는곳 OTT: 넷플릭스 7월15일 공개 예정</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>개봉일: 2017-08-02<br/>매출액: 95,872,359,149원<br/>관객 수: 12,189,800명<br/>상영관 수: 1,906<br/>상영 횟수: 184,228<br/>출연진: 송강호, 토마스 크레취만, 유해진, 류준열</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>택시운전사 다시보기 보는곳 OTT: 넷플릭스 왓챠 웨이브 티빙</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>개봉일: 2018-08-01<br/>매출액: 102,689,349,539원<br/>관객 수: 12,278,010명<br/>상영관 수: 2,235<br/>상영 횟수: 180,750<br/>출연진: 하정우, 주지훈, 김향기, 마동석</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>신과함께-인과 연 다시보기 보는곳 OTT: 넷플릭스 왓챠 웨이브 티빙</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>개봉일: 2012-09-13<br/>매출액: 88,913,283,469원<br/>관객 수: 12,324,062명<br/>상영관 수: 1,001<br/>상영 횟수: 203,464<br/>출연진: 이병헌, 류승룡, 한효주, 김인권</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>신과함께-인과 연 다시보기 보는곳 OTT: 넷플릭스 왓챠 티빙</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>개봉일: 2022-05-18<br/>매출액: 131,298,796,478원<br/>관객 수: 12,693,415명<br/>상영관 수: 2,521<br/>상영 횟수: 355,768<br/>출연진: 마동석, 손석구, 최귀화, 허동원</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>범죄도시2 다시보기 보는곳 OTT: 디즈니플러스</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>개봉일: 2015-07-22<br/>매출액: 98,472,466,681원<br/>관객 수: 12,707,330명<br/>상영관 수: 1,519<br/>상영 횟수: 175,332<br/>출연진: 전지현, 이정재, 하정우, 오달수</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>신과함께-인과 연 다시보기 보는곳 OTT: 넷플릭스 왓챠 웨이브 티빙</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>개봉일: 2019-05-23<br/>매출액: 109,041,960,039원<br/>관객 수: 12,797,927명<br/>상영관 수: 1,409<br/>상영 횟수: 284,820<br/>출연진: 메나 마수드, 나오미 스콧, 윌 스미스, 마르완 켄자리</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>알라딘 다시보기 보는곳 OTT: 디즈니 플러스</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>개봉일: 2013-01-23<br/>매출액: 91,437,620,170원<br/>관객 수: 12,812,186명<br/>상영관 수: 866<br/>상영 횟수: 167,014<br/>출연진: 류승룡, 갈소원, 오달수, 박신혜</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>7번방의 선물 다시보기 보는곳 OTT: 넷플릭스</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p style=&quot;text-align: center;&quot;>2부에서 계속됩니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

@@ -1,0 +1,159 @@
+const post = {
+  id: 212,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-2024%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%88%9C%EC%9C%84-TOP-7',
+      text: '넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
+    },
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>11월 최고 기대작 영화 글래디에이터 2입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>2000년대 명작 영화 중 하나인 글래디에이터의 후속작으로, 제작 소식만으로 많은 이들의 기대감과 더불어 전편의 명성에 먹칠하는 것은 아닐지에 대한 걱정이 함께 공존한 화제작입니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>이번 포스팅에서는 현재 로튼 토마토에서 공개된 평론가 평점과 후기 관람평, 그리고 글래디에이터의 제목 뜻과 의미를 함께 알아보겠습니다. 이 포스팅을 통해 영화 시청에 도움이 되시길 바랍니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post212_thumb.svg',
+      alt: '글래디에이터 2 평점 관람평 후기 제목 뜻 의미 | 로튼 토마토 평론가 반응은?',
+      caption: '글래디에이터 2 평점 관람평 후기 제목 뜻 의미 | 로튼 토마토 평론가 반응은?'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p>글래디에이터는 고대 로마에서 &quot;검투사&quot;를 뜻하는 말로, 주로 검이나 창 같은 무기를 들고 싸우는 전사들을 가리킵니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>글래디에이터들은 로마 제국의 원형 경기장(콜로세움 등)에서 사람들 앞에서 목숨을 걸고 싸우며, 이러한 전투는 군중을 위한 오락으로 여겨졌습니다. 검투사들은 주로 죄수나 전쟁 포로, 노예 출신이었지만, 때로는 자유 시민이나 로마의 귀족들이 명예와 명성을 위해 자원하기도 했습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>오늘날에는 용감하게 싸우는 사람이나 역경에 맞서 싸우는 사람을 비유적으로 &quot;글래디에이터&quot;라고 부르기도 합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>글래디에이터 2 로튼 토마토 평점입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;578&quot; data-origin-width=&quot;1508&quot;><span data-alt=&quot;글래디에이터 2 로튼토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b40N6w/btsKE1tPzWk/AAAAAAAAAAAAAAAAAAAAAP7yB7ql7eexs6CSRk-HyS3wnkYgZsTDKg6xQm90z2Yy/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3X8%2FJMo4IPdajQ1z58gH9xKniBs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b40N6w/btsKE1tPzWk/AAAAAAAAAAAAAAAAAAAAAP7yB7ql7eexs6CSRk-HyS3wnkYgZsTDKg6xQm90z2Yy/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3X8%2FJMo4IPdajQ1z58gH9xKniBs%3D&quot;></span><figcaption>글래디에이터 2 로튼토마토 평점</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 76%, 관람객 평점은 아직 집계되지 않았습니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>걸작이라 칭하기에는 어렵지만 아직 관람객 평점이 기록되지 않은 바, 그 결과가 나왔을 때 더욱 자세한 평가를 할 수 있을 것 같습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그렇다면 평론가들은 영화를 어떻게 보았을지, 평론가들의 관람평 후기를 알아보도록 하겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 글래디에이터 2 평론가 결말 후기 관람평입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Emma Badame - 평점 없음</span></i><br>영화 <i>Gladiator II</i>의 가장 큰 매력은 그 대서사적 여정이다. 이 점에서 이 영화는 훌륭하게 연기된 후속작으로서 부족함이 없다. 작은 결점들이 있지만, 관람하기에는 충분히 가치가 있다.</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Joanna Langfield - 평점 없음</span></i><br/>이 영화는 확실히 영화적 향연이다. 시각적으로 즐거운 경험이지만, 더 많은 것을 갈망하게 만들 수 있다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Peter Gray - 평점 3.5/5</span></i><br/>원작과 비슷한 내러티브를 따르지만, 캠프적인 감수성 <i>(어떤 것 안에 들어있는 이중적 의미를 빠르게 캐치하는 감수성을 의미함)</i>이 이를 보완하여 친숙함을 넘어서게 만든다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Erin Free - 평점 18/20</span></i><br/>이 영화는 대형 스크린에서의 오락적인 즐거움 그 자체이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Kelechi Ehenulo - 평점 4/5</span></i><br/>그의 최고작은 아니지만, 리들리 스콧의 복귀는 주목할 만하다. 그는 여전히 시청자를 시각적으로 매료시키고 흥분시킬 수 있는 힘을 가지고 있음을 입증했다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Carla Hay - 평점 없음</span></i><br/><i>Gladiator II</i>는 2000년작 <i>Gladiator</i>만큼 감정적으로 강렬하지는 않지만, 예상되는 대규모 전투 장면과 충분히 능숙한 연기를 보여준다. 그러나 얕은 캐릭터와 가짜 같은 짐승들의 전투씬이 예측 가능한 이야기의 일부를 차지한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Christina Newland - 평점 4/5</span></i><br/>24년이 지나 리들리 스콧은 드물게도 원작에 걸맞은 후속작을 만들어냈다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Radheyan Simonpillai - 평점 없음</span></i><br/>CGI로 재현된 콜로세움 안에서 코끼리, 원숭이, 상어, 전함들이 난무하지만, 리들리 스콧은 이를 어떻게 다뤄야 할지 몰라 혼란스럽다. 결국 이는 단지 서로 싸우는 픽셀들일뿐이고, 인간적인 긴장감은 사라졌다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Joshua Starnes - 평점 7.5/10</span></i><br/><i>Gladiator II</i>는 반전과 큰 규모감으로 볼만하지만, 원작을 반복하는 점을 무시하지 않고 과감히 다루고 있다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Preston Barta - 평점 2.5/5</span></i><br/><i>Gladiator II</i>는 어느 정도 즐길 수 있는 부분이 있지만, 원작의 톤과 캐릭터 발전을 벗어나 지나치게 관객을 끌어들이려는 후속작의 경향이 보인다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Robert Kojder - 평점 2.5/5</span></i><br/>이야기가 부실하고 진지하게 받아들이기 어렵다. 일부의 기발한 아이디어가 있을지라도 이 영화는 결국 상어들에게 먹히고 잊힐 운명이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Hannah Lodge - 평점 없음</span></i><br/><i>Gladiator II</i>는 이상할 때만 제대로 작동한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Damien Straker - 평점 2.5/5</span></i><br/><i>Gladiator II</i>는 전작보다 더 크고 시끄럽고 분열적이지만, 더 나아지지는 않았다. 강력해 보이지만 감정이 결여되어 있으며, 끔찍한 결말로 끝을 맺는다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Eric Goldman - 평점 8/10</span></i><br/>사람들이 <i>Gladiator</i>의 후속작에 대해 우려했지만, 영화는 그 존재 이유를 정당화했다. 처음에는 원작과 비슷할 것 같지만, 사실은 다른 이야기를 하고 있다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Darryl Griffiths - 평점 4/5</span></i><br/><i>Gladiator II</i>는 분명히 맥시무스가 없지만, 그 대신 거대한 규모로 상쾌한 이어지는 이야기로 이를 잘 보완하고 있다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Leigh Paatsch - 평점 3/5</span></i><br/>영화는 여전히 사람들을 즐겁게 하고 웃기며 쉽게 주의를 분산시킬 수 있는 능력을 가지고 있지만, 진정으로 독창적이거나 기억에 남을 만한 것들을 전달하는 데는 어려움을 겪는다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>전체적으로 긍정적인 평가가 다수를 차지하고 있는 글래디에이터 2 평론가 관람평 후기입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화관에서 꼭 볼만한 가치가 있는 작품이므로 영화관에서 반드시 시청해 보시길 바랍니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7</b></span></p>'
+    },
+    {
+      type: 'ending',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

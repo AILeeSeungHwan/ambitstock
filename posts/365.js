@@ -1,0 +1,133 @@
+const post = {
+  id: 365,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/2024%EB%85%84-%EB%A7%88%EB%B8%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EC%88%9C%EC%9C%BC%EB%A1%9C-%EC%B4%9D-%EC%A0%95%EB%A6%AC-feat-%EB%94%94%EC%A6%88%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EA%B3%B5%EA%B0%9C-%EC%98%88%EC%A0%95',
+      text: '2024년 마블 개봉 예정작 개봉일 순으로 총 정리 feat. 디즈니플러스 시리즈 공개 예정'
+    },
+    {
+      type: 'intro',
+      html: '<p>2025년 디즈니 플러스에서 새로운 아이언맨이 등장합니다.</p><p>그리고 우리의 기대와는 다른 모습으로 시작합니다.</p><p><span style=&quot;background-color: #01ff51;&quot;><b>흑인 여성 아이언맨입니다.</b></span></p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post365_thumb.svg',
+      alt: '[마블 뉴스] 차기 아이언맨은 흑인 여성이다 - 디즈니 플러스 시리즈 아이언 하트 공개 논란 두가지',
+      caption: '[마블 뉴스] 차기 아이언맨은 흑인 여성이다 - 디즈니 플러스 시리즈 아이언 하트 공개 논란 두가지'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p>디즈니의 정치적 올바름이 아이언맨에게도 손을 뻗어 흑인 여성 아이언맨으로 등장합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이미 여러 MCU 팬들 사이에서는 큰 논란이 되었던 부분으로</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #781b33;&quot;><b>어벤저스 토니 스타크(로버트 다우니 주니어)의 아이언맨이 죽고 MCU 몰락의 시작이라 외쳤던 이유가 이것입니다. </b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이미 마블은 차기 아이언맨을 위한 빌드업을 마친 상태입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>와칸다 포레버에서 등장한 리리 윌리엄스(배우 <span style=&quot;color: #333333; text-align: start;&quot;>도미니크 손<span>)</span></span>가 그것이죠.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>빠르게 <span style=&quot;background-color: #01ff51;&quot;><b>차기 아이언맨 아이언 하트에 대한 두가지 논란 확인</b></span>해보도록 하겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif; background-color: #f3c000;&quot;><b>리리 윌리엄스의 탄생</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>차기 아이언맨 리리 윌리엄스는 2016년 마블 코믹스에서 처음 등장하였고,</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;><span style=&quot;color: #1a5490;&quot;><b>15세의 천재 소녀로, 토니 스타크(아이언맨)의 빈자리를 채우며 아이언하트라는 새로운 슈퍼히어로로 활동</b></span>을 시작합니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>일부 팬들과 비평가들은 <span style=&quot;color: #781b33;&quot;><b>아이언맨 캐릭터의 대체자로서 등장한 리리가 충분한 서사적 준비가 되지 않았다는 비판을 제기</b></span>했습니다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>또한, 마블이 <span style=&quot;color: #781b33;&quot;><b>다양한 인종과 성별을 가진 캐릭터들을 내세우기 위해 지나치게 노력을 기울이고 있다는 비판</b></span>도 있었습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif; background-color: #f3c000;&quot;><b>정체성과 배경</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>리리 윌리엄스는 아프리카계 미국인 여성으로, <span style=&quot;color: #1a5490;&quot;><b>그녀의 등장은 다양한 인종과 성별의 대표성을 반영하려는 마블의 시도로 평가</b></span>받았습니다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>하지만 이와 관련하여, <span style=&quot;color: #781b33;&quot;><b>리리가 충분한 내러티브 배경 없이 주요 캐릭터로서의 자리를 차지했다는 지적</b></span>도 있었습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>비교적 최근에 디즈니의 정치적올바름이 이슈가 되었지만</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이미 마블 코믹스에서는 2016년에 리리 윌리엄스를 등장시키며 논란이 있었음을 알 수 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif; background-color: #f3c000;&quot;><b>시리즈 제작 발표 이후</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>디즈니+ 시리즈 ‘아이언하트’의 제작이 발표된 이후, 팬들 사이에서는 기대와 함께 우려의 목소리도 있었습니다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>시리즈가 마블 시네마틱 유니버스(MCU) 내에서 <span style=&quot;color: #781b33;&quot;><b>리리를 어떻게 표현할지</b></span>에 대한 관심이 많았습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif; background-color: #f3c000;&quot;><b>정치적 요소와 표현의 문제</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>일부 비평가들은 마블이 \'아이언하트\' 시리즈에서 <span style=&quot;color: #781b33;&quot;><b>정치적 메시지를 과도하게 전달하려 할 수 있다고 우려</b></span>했습니다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;><b><span style=&quot;color: #781b33;&quot;>리리 윌리엄스의 배경이 사회적 이슈와 연관될 가능성이 있다는 점</span></b>에서 논란이 있었습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>이러한 논란은 다양한 팬덤의 반응을 나타내며, </span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>작품이 공개된 후에도 관련된 논의가 계속될 것으로 보입니다.</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>흑인 인어공주를 통해 세상의 모든 이슈 통채로 <b><a href=&quot;https://ambitstock.com/117&quot; title=&quot;영화 트위스터스 해외 평론가 반응&quot;>트위스터스</a> </b>를 몰고왔던 전적이 있던 디즈니이기에, </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>아이언하트는 과연 어떻게 풀어갈 것인지 지켜보아야겠습니다.</span></p>'
+    },
+    {
+      type: 'ending',
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>아이언하트는 2025년 중 디즈니플러스에서 공개될 예정입니다.</span></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

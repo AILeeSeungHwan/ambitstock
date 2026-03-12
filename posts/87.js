@@ -1,0 +1,140 @@
+const post = {
+  id: 87,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p>2025년 3월 26일에 개봉한 영화 승부, 아마도 올해 상반기 모두가 기다리던 한국영화였을 것입니다. 연기로는 누구도 욕할 수 없는 둘, 이병헌과 유아인이 주연을 맡았으며, 개봉 이후 박스오피스 1위를 유지하며 흥행을 이어가고 있습니다. 현재 4월 3일까지 누적 관객 수는 약 92만 명으로 좋은 성적을 거두고 있습니다.</p><p>이번 포스팅에서는 영화 승부의 줄거리, 그리고 현재 긍정적인 평가와 부정적인 평가, 이동진평론가의 평점과 평가까지 종합적으로 알아보도록 하겠습니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post87_thumb.svg',
+      alt: '승부(The Match) 1위 이병헌 유아인 결말 후기 이동진 평점 <조훈현 이창호 실화>',
+      caption: '승부(The Match) 1위 이병헌 유아인 결말 후기 이동진 평점 <조훈현 이창호 실화>'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '함께 보면 좋은 콘텐츠',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/2025%EB%85%84-%ED%95%9C%EA%B5%AD-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '2025년 넷플릭스 한국 영화 추천 개봉예정작 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '영화 승부 줄거리',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p>영화 \'승부\'는 대한민국 바둑의 전설 조훈현(이병헌)과 그의 제자 이창호(유아인) 사이의 복잡한 관계와 그들의 대결을 중심으로 전개됩니다. 조훈현은 바둑계의 살아있는 전설로 군림하지만, 그의 제자인 이창호가 급성장하며 스승의 자리를 위협합니다. 영화는 두 사람의 스승과 제자 관계, 그리고 그들 사이의 경쟁과 갈등을 섬세하게 그려내며, 바둑이라는 게임을 통해 인생과 승부의 의미를 볼 수 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<div><center><a href=&quot;https://www.imdb.com/title/tt13498824/?ref_=fn_all_ttl_1&quot; title=&quot;승부 해외 평점은?&quot;><button class=&quot;btn-hover color-8&quot;>승부 해외 평점 보러 가기 👉</button></a></center></div>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><b>영화 승부 해외 평점이 궁금하시다면??</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=top_sly.hst&amp;fbm=0&amp;acr=1&amp;acq=%EC%8A%B9%EB%B6%80+&amp;qdt=0&amp;ie=utf8&amp;query=%EC%98%81%ED%99%94+%EC%8A%B9%EB%B6%80+%EC%98%88%EB%A7%A4&quot; title=&quot;영화 승부 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 승부 바로 보러 가기👉</button></a></center></div>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><b>위 링크를 통해</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><b>바로 시청하러 가보세요</b></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '영화 승부 후기',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 영화 승부 입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>내용에 스포는 크게 없기에 바로 이어서 확인해 보시길 바랍니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section4',
+      text: '해외 평론가 긍정적인 평가',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'body',
+      html: '<p>\'승부\'는 이병헌과 유아인의 뛰어난 연기력으로 많은 찬사를 받고 있습니다. 특히 이병헌은 조훈현 9단의 복잡한 내면을 섬세하게 표현하며 관객들의 감정을 이끌어냅니다. 한 관객은 &quot;이병헌의 연기는 역시 기대를 저버리지 않는다. 바둑에 대한 지식이 없어도 그의 감정선이 그대로 전달된다&quot;고 전했습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>또한, 영화의 스토리 전개와 연출에 대한 긍정적인 반응도 많습니다. 바둑이라는 전문적인 소재를 다루면서도 비전문가들도 쉽게 이해할 수 있도록 구성되었으며, 스승과 제자의 관계를 깊이 있게 그려내 감동을 자아냈다는 평가입니다. 한 평론가는 &quot;바둑판 위의 긴장감이 스크린을 통해 고스란히 전달된다. 스포츠 영화의 새로운 지평을 열었다&quot;고 언급했습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이러한 호응에 힘입어 \'승부\'는 개봉 첫 주말에 박스오피스 1위를 차지하며 흥행 면에서도 성공을 거두고 있습니다. 관객들은 &quot;오랜만에 몰입해서 본 영화&quot;, &quot;배우들의 연기가 일품이다&quot; 등의 반응을 보이며, 입소문을 통해 관람을 권유하는 분위기입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=top_sly.hst&amp;fbm=0&amp;acr=1&amp;acq=%EC%8A%B9%EB%B6%80+&amp;qdt=0&amp;ie=utf8&amp;query=%EC%98%81%ED%99%94+%EC%8A%B9%EB%B6%80+%EC%98%88%EB%A7%A4&quot; title=&quot;영화 승부 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>영화 승부 보러가기 👉</button></a></center></div>'
+    },
+    {
+      type: 'h2',
+      id: 'section5',
+      text: '영화 승부 부정적인 평가',
+      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
+    },
+    {
+      type: 'body',
+      html: '<p>반면, 일부 관객들은 영화의 전개 방식과 캐릭터 표현에 아쉬움을 표명하고 있습니다. 특히, 바둑 경기의 묘사가 단조롭고 반복적이라는 지적이 있습니다. 한 관객은 &quot;초반에는 흥미로웠지만, 중반 이후로는 비슷한 패턴의 경기 장면이 이어져 지루함을 느꼈다&quot;고 말했습니다. 또한, 스승과 제자의 갈등이 예상 가능한 방향으로 흘러가며, 클리셰에 의존했다는 의견도 있습니다. 한 평론가는 &quot;인물 간의 갈등이 깊이 있게 다뤄지지 않아 감정 이입이 어려웠다&quot;고 평가했습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>더불어, 유아인 배우의 개인적인 논란이 영화에 대한 몰입을 방해했다는 의견도 제기되었습니다. 일부 관객들은 &quot;배우의 사생활 문제가 떠올라 영화에 집중하기 어려웠다&quot;고 토로했습니다. 이러한 부정적인 반응에도 불구하고, \'승부\'는 다양한 해석과 토론을 불러일으키며 관객들의 관심을 받고 있습니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section6',
+      text: '영화 승부 이동진 평론가 평점 후기',
+      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
+    },
+    {
+      type: 'body',
+      html: '<p>영화 평론가 이동진은 \'승부\'에 대해 별점 3점을 부여하며, &quot;전설적인 순간을 고스란히 살려낸 배우들이 감탄스럽다&quot;는 평을 남기며 배우들의 연기력이 영화의 주요한 강점임이라 평가하였습니다. 그러나 별점 3점은 그의 평가 기준에서 중간 정도의 점수로, 작품성에 대한 아쉬움도 내포되어 있는 것으로 해석됩니다. 이러한 평가는 관객들에게 영화 선택 시 참고할 만한 지표가 될 수 있습니다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=top_sly.hst&amp;fbm=0&amp;acr=1&amp;acq=%EC%8A%B9%EB%B6%80+&amp;qdt=0&amp;ie=utf8&amp;query=%EC%98%81%ED%99%94+%EC%8A%B9%EB%B6%80+%EC%98%88%EB%A7%A4&quot; style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: -webkit-center;&quot;> 승부 바로 보러 가기👉</a></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs><linearGradient id="bg428" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#e53935"/><stop offset="100%" style="stop-color:#e53935dd"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#bg428)" rx="0"/>
+  <rect x="40" y="40" width="1120" height="550" rx="20" fill="rgba(0,0,0,0.15)"/>
+  <text x="600" y="160" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="600" font-family="Pretendard, -apple-system, sans-serif">해외반응후기</text>
+    <text x="600" y="280" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="bold" font-family="Pretendard, -apple-system, sans-serif">[시리즈 개봉 전 볼만한 영화 추</text>
+    <text x="600" y="340" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="bold" font-family="Pretendard, -apple-system, sans-serif">천] 콰이어트 플레이스 재밌나요?</text>
+  <text x="600" y="520" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="22" font-family="Pretendard, -apple-system, sans-serif">R의 필름공장 · ambitstock.com</text>
+</svg>

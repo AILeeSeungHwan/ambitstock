@@ -1,0 +1,173 @@
+const post = {
+  id: 188,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 11월 22일 넷플릭스 개봉예정영화 조이의 탄생 (영어제목 : 조이 ) 관람평점 후기입니다.</b></span></p><p>현재 로튼토마토에서 높은 평가를 받은 작품으로 넷플릭스에서 22일 시청 가능합니다.</p><p>과연 <b>어떠한 점이 평론가들의 좋은 평가로 이어질 수 있었는지 </b>확인해 보도록 하겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1538&quot; data-origin-width=&quot;1440&quot;><span data-alt=&quot;넷플릭스 영화 추천 조이의 탄생&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/doVojn/btsKPHaMqPt/AAAAAAAAAAAAAAAAAAAAAMVaq8p-eciKtlxQKY44X1FZEwOZaiT0rUt3FXfgl8f9/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TmfjxMBTIy4vJqf6Xt6Hv7LdNKQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/doVojn/btsKPHaMqPt/AAAAAAAAAAAAAAAAAAAAAMVaq8p-eciKtlxQKY44X1FZEwOZaiT0rUt3FXfgl8f9/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TmfjxMBTIy4vJqf6Xt6Hv7LdNKQ%3D&quot;></span><figcaption>넷플릭스 영화 추천 조이의 탄생</figcaption> </figure> </p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post188_thumb.svg',
+      alt: '조이의 탄생 JOY 평점 관람평 결말 후기 해외 반응 <넷플릭스 영화 추천>',
+      caption: '조이의 탄생 JOY 평점 관람평 결말 후기 해외 반응 <넷플릭스 영화 추천>'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '함께 보면 좋은 콘텐츠',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '조이의 탄생 로튼 토마토 평론가 평점',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>조이의 탄생 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;620&quot; data-origin-width=&quot;1868&quot;><span data-alt=&quot;조이의 탄생 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/k5FA4/btsKQbCnfFq/AAAAAAAAAAAAAAAAAAAAACo_SHgDoyn7sLZkDb2YqVl7AceAnWteSRJJFbV0Xi3-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K6SXS98gucMVTIpp1i3qgmWodJo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/k5FA4/btsKQbCnfFq/AAAAAAAAAAAAAAAAAAAAACo_SHgDoyn7sLZkDb2YqVl7AceAnWteSRJJFbV0Xi3-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K6SXS98gucMVTIpp1i3qgmWodJo%3D&quot;></span><figcaption>조이의 탄생 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 87%, 관객 평점은 아직 기록되지 않았습니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>같은 날인 22일 공개 되는 피아노 레슨과 함께 90점에 육박하는 높은 점수를 기록하고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<div><center><a href=&quot;https://ambitstock.com/313&quot; title=&quot;피아노 레슨 보러가기&quot;><button class=&quot;primary&quot;>피아노 레슨 보러가기</button></a></center></div>'
+    },
+    {
+      type: 'body',
+      html: '<p>어떠한 부분의 평론가들의 좋은 평점을 이끌었는지<b> 조이의 탄생 결말후기 관람평</b> 확인해 보겠습니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '조이의 탄생 평론가 결말후기 관람평',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>피아노 레슨 평론가 결말후기 관람평입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Robert Kojder - 평점 3/5</span></i><br>산만한 내러티브를 진정성과 Thomasin McKenzie와 Bill Nighy의 감동적인 연기로 극복한다.</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Dulcie Pearce - 평점 3/5</span></i><br/>조이의 탄생은 부드럽고 볼 만한 드라마다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Tom Shone - 평점 3/5</span></i><br/>누가 알았겠는가? Nighy가 펼치는 제왕절개 장면이 계절감을 불러일으키는 즐거운 요소로 등장한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Brian Viner - 평점 4/5</span></i><br/>이 영화의 도전은 초기 IVF 연구의 복잡성을 오늘날의 관객에게 쉽게 전달하는 것이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이 영화는 진지한 의학 용어와 이야기에 진정성을 부여하는 균형을 잘 잡고 있다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Justine Elias - 평점 4/5</span></i><br/>46년이 지난 지금, Brown 아기의 출생이 얼마나 혁명적이었는지 기억하기는 어렵지만, 조이의 탄생은 여전히 시의적절한 작품이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Jim Vorel - 평점 6.7/10</span></i><br/>최소한 조이의 탄생은 새로운 생명을 가능하게 만든 인간의 창의력과 헌신이 얼마나 기적적인지를 상기시킨다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Tim Stevens - 평점 없음</span></i><br/>&quot;Joy&quot;는 상처 입고 반항적인 심장을 지닌 영화다. 그것은 치유를 제공하지는 않지만, 이전의 고난과 승리에 대한 마음을 다잡게 하는 영화다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Peter Bradshaw - 평점 3/5</span></i><br/>의료의 혁신이었지만, 수십 년에 걸친 고군분투와 저조한 자금, 미디어의 비난, 개인적인 고통을 겪은 후에 나온 결과물이란 점에서 영화는 시청할 수 있지만 다소 기능적인 느낌을 준다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>때로는 연극을 영화로 각색한 듯한 느낌이 든다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Steve Morrissey - 평점 3/5</span></i><br/>이 영화는 다소 아늑한 느낌이 있지만 Richard Curtis 스타일의 유머가 돋보인다. 연기는 모두 훌륭하며, 특히 Joanna Scanlan과 Tanya Moodie의 연기가 두드러진다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Sarah Manvel - 평점 없음</span></i><br/>Jean에 대한 그들의 전문적인 존경심은 기쁨을 주며, 남녀가 함께 일하는 영화에서 여전히 보기 드문 부분이다. 여성의 감정에 관한 지루한 클리셰가 그것을 거의 압도하려 했다는 것이 아쉽다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Amelia Harvey - 평점 3/5</span></i><br/>영화는 다소 부드럽게 다가가긴 했지만, 수백만 명의 사람들이 자녀를 갖는 목표를 달성하도록 도운 여성들이 희생한 희망과 몸을 감안했을 때, 이 영화는 좀 더 강력한 메시지를 전해야 했다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Tom Davidson - 평점 2/5</span></i><br/>조이의 탄생은 중간 정도의 영화로 타협을 결정한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>많은 부분에서 관객을 겨냥한 음악과 이야기 전개가 지나치게 직설적이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Tim Robey - 평점 2/5</span></i><br/>조이의 탄생은 가장 기본적인 역사 교훈을 다루고 있지만, 잘못된 점들을 연결하는 인상적인 습관을 가지고 있다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Emily Zemler - 평점 3/4</span></i><br/>화려한 영화는 아니지만, 빈티지한 미학이 때로 불필요하게 우울하게 느껴지기도 하지만, 과거와 현재의 관심사를 동시에 포용하는 좋은 이야기로 만든다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Jack Martin - 평점 3/5</span></i><br/>조이의 탄생은 매우 호감 가는 영화로, 전 세계 가족들에게 기적적인 일을 해냈음에도 불구하고 여전히 비난을 받는 대상이 된 주제를 다룬다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Damon Wise - 평점 없음</span></i><br/>중심적인 조합에서 분명히 화학작용이 있지만, 오프비트 친구 영화처럼 보인다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이는 Bill Nighy가 맡은 산부인과 의사 Patrick Steptoe의 등장으로 강조된다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이상으로 영화 피아노 레슨 로튼 토마토 해외 평론가 관람평 결말후기 포스팅 마칩니다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p>감사합니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

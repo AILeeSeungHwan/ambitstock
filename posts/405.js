@@ -1,0 +1,96 @@
+const post = {
+  id: 405,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p>넷플릭스 영화 가족이라서 문제입니다 ( 영어제목 : A Family Affair 뜻 가족의 일)가 공개되었습니다.</p><p>니콜 키드먼, 잭 애프론, 조이 킹 주연의 이 영화, 볼만할까요?</p><p>로튼 토마토 해외 평점 및 리뷰 반응을 통해서 확인해보도록 하겠습니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post405_thumb.svg',
+      alt: '넷플릭스 영화 <가족이라서 문제입니다> 볼만한 영화인가? 해외 평점 리뷰 반응',
+      caption: '넷플릭스 영화 <가족이라서 문제입니다> 볼만한 영화인가? 해외 평점 리뷰 반응'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1202&quot; data-origin-width=&quot;950&quot;><span data-alt=&quot;넷플릭스 영화 가족이라서 문제입니다.&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/9dzAB/btsIkzk4pLf/AAAAAAAAAAAAAAAAAAAAANxXNAy-sqsbgsbkbUTu708tr0sViX-Jvhk8tQk_GBP5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pYjNU%2Bqp%2Btyw0Ney%2Fp4ygnHubbw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/9dzAB/btsIkzk4pLf/AAAAAAAAAAAAAAAAAAAAANxXNAy-sqsbgsbkbUTu708tr0sViX-Jvhk8tQk_GBP5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pYjNU%2Bqp%2Btyw0Ney%2Fp4ygnHubbw%3D&quot;></span><figcaption>넷플릭스 영화 가족이라서 문제입니다.</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1470&quot; data-origin-width=&quot;2210&quot;><span data-alt=&quot;넷플릭스 영화 가족이라서 문제입니다 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cMTtTC/btsIkiwI70M/AAAAAAAAAAAAAAAAAAAAAEBBHCG68vNxj-5wqTaaozVOlpc4GXcXTTvOyS7T5hGY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4GCLLI0c4WP4ikAUrJvByHjfjVk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cMTtTC/btsIkiwI70M/AAAAAAAAAAAAAAAAAAAAAEBBHCG68vNxj-5wqTaaozVOlpc4GXcXTTvOyS7T5hGY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4GCLLI0c4WP4ikAUrJvByHjfjVk%3D&quot;></span><figcaption>넷플릭스 영화 가족이라서 문제입니다 평점</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>몇몇 최고의 로맨틱 코미디는 가볍고 무의미하지만 웃음을 자아낸다. \'가족이라서 문제입니다\'는 그런 작품이며 아름답다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>가족이라서 문제입니다 는 가벼운 주중 감상에 적합한 작품으로, 와인 한 잔과 함께 즐길 수 있다. 그렇지 않다면 세 잔은 필요할 것이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>킹의 캐릭터는 짜증, 분노, 혐오 세 가지 모드만 존재한다. 영화 제목을 \'The Longest Eye Roll\'로 바꿀 수도 있을 정도다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>가족이라서 문제입니다는 이 사람들이 왜 함께 있어야 하는지조차 설명하지 않는다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>대단하지는 않지만, 주연 배우들의 탄탄한 연기로 인해 즐거운 오락을 제공한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>일반적인 넷플릭스 오리지널보다는 낫지만, 큰 차이는 아니다. 주말에 가볍게 웃고 싶다면 괜찮은 선택이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;1170&quot; data-origin-width=&quot;1730&quot;><span data-alt=&quot;넷플릭스 영화 가족이라서 문제입니다.&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/c0w2Zk/btsIix97gRm/AAAAAAAAAAAAAAAAAAAAANl3jt3--9JJaMJOFBq7zc4DDe6LSeT4K5qsZKSXae6Z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=orun82cG%2Bz4uUP6PLIBzuoyC2Ow%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/c0w2Zk/btsIix97gRm/AAAAAAAAAAAAAAAAAAAAANl3jt3--9JJaMJOFBq7zc4DDe6LSeT4K5qsZKSXae6Z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=orun82cG%2Bz4uUP6PLIBzuoyC2Ow%3D&quot;></span><figcaption>넷플릭스 영화 가족이라서 문제입니다.</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화에는 에로티시즘도 유머도 없다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화 너란 개념 (\'The Idea of You\')가 나이 차 로맨스를 진지하게 다루다 실패한 것처럼, \'가족이라서 문제입니다\'는 웃음을 위해 얕은 캐릭터들로 시트콤 수준의 연기를 보여준다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>모두가 원하는 것을 얻는 이 판타지는 주연 배우들 간의 케미가 부족해 어색하고 불편하게 만들어졌다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>카리스마 있는 주연에도 불구하고 전반적으로 인상적이지 않다. 줄거리가 평범하고 독창성이 부족하다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>에프론, 키드먼, 킹의 연기 호흡은 좋으나, 진지한 가족 드라마와 가벼운 로맨틱 코미디를 동시에 시도하며 어느 쪽도 잘 해내지 못한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>니콜 키드먼과 캐시 베이츠의 연기조차도 진부한 클리셰에서 벗어나지 못해 영화의 매력을 살리지 못한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;1202&quot; data-origin-width=&quot;1512&quot;><span data-alt=&quot;넷플릭스 영화 가족이라서 문제입니다.&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/blmoXA/btsIkiqkUQa/AAAAAAAAAAAAAAAAAAAAAL_9qMxOH2PachEs4Qg4TH3wu4pFctMBk9JFW1sxJa4x/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ykJlUGqriaNkfcXwvd8RjaYxTdg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/blmoXA/btsIkiqkUQa/AAAAAAAAAAAAAAAAAAAAAL_9qMxOH2PachEs4Qg4TH3wu4pFctMBk9JFW1sxJa4x/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ykJlUGqriaNkfcXwvd8RjaYxTdg%3D&quot;></span><figcaption>넷플릭스 영화 가족이라서 문제입니다.</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>재미없어서 문제입니다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p>비 추천. 정말 킬링타임용으로 주말에 볼 게 없다면 시청하시길 추천합니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

@@ -1,0 +1,209 @@
+const post = {
+  id: 139,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p>오징어 게임 시즌 2 해외 반응 결말 평가 <시리즈 3편 제작 확정> - 넷플릭스 드라마 추천 현재상영작</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post139_thumb.svg',
+      alt: '오징어 게임 시즌 2 해외 반응 결말 평가 <시리즈 3편 제작 확정> - 넷플릭스 드라마 추천 현재상영작',
+      caption: '오징어 게임 시즌 2 해외 반응 결말 평가 <시리즈 3편 제작 확정> - 넷플릭스 드라마 추천 현재상영작'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '오징어 게임 시즌 2 해외 반응 평가 - 시리즈 3편 줄거리 예상',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p>드디어 2024년 12월 26일 목요일, 넷플릭스 시리즈 <b>\'오징어 게임\' 시즌 2가 전 세계에 공개</b>되었습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이번 시즌은 복수를 다짐하며 게임에 재참가하는 성기훈(이정재)과 그를 맞이하는 프런트맨(이병헌)의 치열한 대결, 그리고 새롭게 시작되는 게임을 중심으로 전개됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1324&quot; data-origin-width=&quot;2080&quot;><span data-alt=&quot;오징어 게임 시즌 2&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b6Wm4U/btsLzFu5wsH/AAAAAAAAAAAAAAAAAAAAAB6xNiaIBRBlq-IO00HDizrpDKWjrbXCu_hOVbH3-JLm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mDH7RD9zQBELdDgiM413T6WG2H0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b6Wm4U/btsLzFu5wsH/AAAAAAAAAAAAAAAAAAAAAB6xNiaIBRBlq-IO00HDizrpDKWjrbXCu_hOVbH3-JLm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mDH7RD9zQBELdDgiM413T6WG2H0%3D&quot;></span><figcaption>오징어 게임 시즌 2</figcaption> </figure> <figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1530&quot; data-origin-width=&quot;1850&quot;><span data-alt=&quot;오징어 게임 시즌 2&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bjJjOF/btsLxjNECCl/AAAAAAAAAAAAAAAAAAAAAC-1V4U8TpKv5gKRVmUymxuqw9Vr5dqH1vYyTXsaMLbH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=6JCo9Wx2iRYip3nk7Ro7so%2FS6Ss%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bjJjOF/btsLxjNECCl/AAAAAAAAAAAAAAAAAAAAAC-1V4U8TpKv5gKRVmUymxuqw9Vr5dqH1vYyTXsaMLbH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=6JCo9Wx2iRYip3nk7Ro7so%2FS6Ss%3D&quot;></span><figcaption>오징어 게임 시즌 2</figcaption> </figure> </p>'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '오징어 게임 시즌 2 스포없는 줄거리',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p>넷플릭스 시리즈 <b>\'오징어 게임\' 시즌 2</b>는 시즌 1의 결말에서 복수를 다짐했던 성기훈(이정재)이 다시 게임에 참가하며 시작됩니다. 시즌 1에서 게임의 실체를 알게 된 성기훈은 경마장이나 전전하며 생존을 위해, 그저 큰돈을 벌기 위해 게임에 참가했던 과거와 달리, 이번에는 자신의 의지로 게임에 뛰어들어 이를 끝내기 위한 복수를 다짐합니다. 시즌 2는 기훈을 중심으로 프론트맨(이병헌)과 대립이 주축을 이룹니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이번 시즌에서는 이전과는 다른 새로운 참가자들이 등장합니다. 최근 <b>지드래곤과 빅뱅의 컴백으로 다시한번 회자되어, 논란과 기대가 공존하는 TOP 최승현의 출연</b>, <b>임시완, 양동근 등 이미 증명된 연기실력을 지닌 배우진들의 출연하며</b>, 이들은 각기 다른 배경과 사연을 가지고 있으며, 게임 내에서 동맹을 맺거나 서로를 배신하며 긴장감을 더합니다. 특히, 시즌 2에서는 시즌1때와 마찬가지로 참가자들간의 관계와 심리를 더욱 깊게 다루며, 그들이 처한 절박한 상황이 각자의 선택과 행동에 어떤 영향을 미치는지 실제 우리의 삶에서 볼 수 있는 모든 인간유형들의 악하고도 정당한 그 모습들을 함께 지켜보실 수 있을 것 입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>게임의 구성 역시 시즌 1보다 한층 복잡하고 치밀하게 설계되었습니다. 시즌 2에서는 총 6개의 새로운 게임이 등장하며, 게임의 난이도와 위험성이 점점 높아지는 방식으로 진행됩니다. 첫 번째 게임에서는 참가자들에게 신뢰와 협동의 중요성을 시험하지만, 이는 동시에 동료를 배신할 수밖에 없는 딜레마를 안깁니다. 게임이 진행될수록 참가자들은 점점 더 개인적인 욕망과 생존 본능에 의해 움직이게 되고, 이 과정에서 게임의 잔혹함이 극대화됩니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '오징어 게임 시즌 2 해외 반응 평가는?',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<h3>미국의 유명 영화 평론가 그레이스 랜돌프</h3>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>황동혁 감독은<br>현재 최고의 연출가 중 하나</br></span></b></span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>작품 공개 전부터 해외 평론가들의 호평이 이어졌습니다. 미국의 유명 영화 평론가 그레이스 랜돌프는 &quot;\'오징어 게임\' 시즌 2가 제작된다고 했을 때 상상하기 힘들었지만, 시즌 2를 모두 본 지금은 속편을 더 만들어도 될 것 같다&quot;며, &quot;1편의 이야기를 천재적이고 의미 있게 확장한 역대급 속편이다. 엄청난 반전들이 있고, 황동혁 감독은 현재 최고의 연출가 중 하나&quot;라고 극찬했습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1318&quot; data-origin-width=&quot;2362&quot;><span data-alt=&quot;오징어 게임 시즌 2 해외 반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bIMTjm/btsLx94J5GU/AAAAAAAAAAAAAAAAAAAAAN9Ha5lHcr4wGiFqfG29uU6-oW31deKbh5JJin3BGA96/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ugCAnhMCW2Z%2Bz63usl3MmDOK5Qo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bIMTjm/btsLx94J5GU/AAAAAAAAAAAAAAAAAAAAAN9Ha5lHcr4wGiFqfG29uU6-oW31deKbh5JJin3BGA96/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ugCAnhMCW2Z%2Bz63usl3MmDOK5Qo%3D&quot;></span><figcaption>오징어 게임 시즌 2 해외 반응</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>MPA 인증 엔터테인먼트 저널리스트 라마</h3>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>전작보다 훨씬 강렬한 시즌 2</span></b></span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>또한, MPA 인증 엔터테인먼트 저널리스트 라마는 &quot;\'오징어 게임\' 시즌 2는 전작보다 훨씬 강렬하다. 이정재가 다시금 강렬한 연기를 펼쳤다&quot;고 평가했습니다. 이처럼 해외 평론가들의 긍정적인 평가가 이어지며, 시즌 2에 대한 기대감이 높아지고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1318&quot; data-origin-width=&quot;2362&quot;><span data-alt=&quot;오징어 게임 시즌 2 해외 반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bEgF1i/btsLwMiuucn/AAAAAAAAAAAAAAAAAAAAAIqR0mrKu221BAxLw7ivntiYDMzxfIg8U0SZt7zvAarv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mRZyQcTuq2%2B9DgUSX0E190HSojA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bEgF1i/btsLwMiuucn/AAAAAAAAAAAAAAAAAAAAAIqR0mrKu221BAxLw7ivntiYDMzxfIg8U0SZt7zvAarv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mRZyQcTuq2%2B9DgUSX0E190HSojA%3D&quot;></span><figcaption>오징어 게임 시즌 2 해외 반응</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%EB%85%BC%EB%9E%80%EC%9D%98-%EC%98%A4%EC%A7%95%EC%96%B4-%EA%B2%8C%EC%9E%84-%EC%8B%9C%EC%A6%8C-2-3-%EA%B3%B5%EA%B0%9C%EC%9D%BC-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%B0%9C%ED%91%9C-%EC%A0%84%EC%9E%91-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EC%B6%9C%EC%97%B0%EC%A7%84-%ED%83%91-%EB%B3%B5%EA%B7%80-%EC%9E%91%ED%92%88-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%B6%94%EC%B2%9C&quot; rel=&quot;noopener&quot; title=&quot;오징어 게임 시즌 1 해외 반응&quot;>오징어게임 1 해외 반응</a></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%85%BC%EB%9E%80%EC%9D%98-%EC%98%A4%EC%A7%95%EC%96%B4-%EA%B2%8C%EC%9E%84-%EC%8B%9C%EC%A6%8C-2-3-%EA%B3%B5%EA%B0%9C%EC%9D%BC-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%B0%9C%ED%91%9C-%EC%A0%84%EC%9E%91-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EC%B6%9C%EC%97%B0%EC%A7%84-%ED%83%91-%EB%B3%B5%EA%B7%80-%EC%9E%91%ED%92%88-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%B6%94%EC%B2%9C',
+      text: '오징어 게임 시즌 2 개봉일 줄거리 발표 출연진 전작 해외 반응과 시즌 3 예고'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section4',
+      text: '오징어 게임 시즌 2 스포포함 줄거리 결말',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'body',
+      html: '<p>프론트맨의 과거와 그가 게임에 가담하게 된 배경도 시즌 2에서 조금씩 드러납니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>그는 단순한 게임 관리자 이상의 역할을 수행하며, 자신의 과거와 연결된 비밀을 숨기고 있습니다. 기훈은 프론트맨과의 대립을 통해 <b>게임의 배후 세력과 이들의 목적</b>에 점차 접근하게 됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>시즌 후반부에서는 참가자들이 남은 마지막 두 게임을 치르며 극한의 상황에 처하게 됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>마지막 게임에서는 기훈과 프론트맨의 대결이 절정에 달하며, 이 과정에서 기훈은 자신이 중요하게 여기는 가치와 생존 사이에서 갈등하게 됩니다. 결말에서는 프론트맨과의 대립이 일단락되지만, <b>게임의 설계자인 VIP 세력과 그들의 전 세계적인 영향력</b>이 드러나며 새로운 갈등의 씨앗이 뿌려집니다. 성기훈은 이 조직을 완전히 무너뜨리기 위해 끝까지 싸울 것을 다짐하며 시즌 3의 서막을 알립니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>시즌 2는 시즌 1에서 제기된 많은 떡밥들을 회수하며, 게임의 배경과 구조를 더 깊이 파고들어 이야기를 확장시킵니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>시즌 내내 숨 막히는 긴장감과 예상치 못한 반전들이 이어지며, 시청자들에게 강렬한 몰입감을 선사합니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section5',
+      text: '오징어 게임 시즌 3 제작 확정 !',
+      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
+    },
+    {
+      type: 'body',
+      html: '<p>한편, \'오징어 게임\' 시즌 3의 제작도 확정되었습니다. 황동혁 감독은 시즌 3가 시리즈의 피날레가 될 것이라고 밝혔습니다. 그는 &quot;이 이야기는 시즌 3로 피날레 되는 이야기가 맞다. 제가 하고 싶은 이야기를 이 작품을 통해 다 했다&quot;고 전하며, 시즌 4의 가능성에 대해서는 선을 그었습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>시즌 3는 2025년 공개를 목표로 제작 중이며, 시즌 2와 이어지는 이야기가 펼쳐질 예정입니다. 황 감독은 시즌 2와 3를 한 호흡에 쓴 이야기로, 중간에 큰 변곡점이 있어 두 시즌으로 나누어 선보이게 되었다고 설명했습니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section6',
+      text: '오징어 게임 시즌 3 예상 줄거리',
+      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
+    },
+    {
+      type: 'body',
+      html: '<p>시즌 3는 성기훈이 게임의 배후 세력에 더욱 깊이 파고들어 조직의 최상층부를 겨냥하는 내용을 다룰 것으로 예상됩니다. 프론트맨과의 대립은 끝났지만, 게임의 진짜 설계자인 \'VIP\'와의 대결이 본격화됩니다. 시즌 2에서 밝혀지지 않은 몇 가지 미스터리, 특히 게임의 존재 이유와 VIP들의 정체는 시즌 3의 주요 스토리로 전개될 것입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>또한, 새로운 참가자들과 게임이 추가되며 이야기는 더욱 확장될 예정입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>황동혁 감독은 시즌 3가 \'오징어게임\' 시리즈의 피날레가 될 것이라고 밝혀, 성기훈의 최후와 게임의 종말에 대한 결말이 나올 가능성이 높습니다. 시즌 2에서 살아남은 일부 캐릭터들도 다시 등장해 중요한 역할을 할 것으로 보입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>\'오징어 게임\' 시즌 2는 오늘부터 넷플릭스를 통해 시청할 수 있으며, 시즌 3는 내년에 공개될 예정입니다. 시즌 2에 대한 해외 평론가들의 호평과 함께, 시즌 3에 대한 기대감도 높아지고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>더 자세한 해외 반응을 확인하고 싶다면, R의 필름공장 즐겨찾기 후 공개되는 해외 평론가 반응과 해외시청자 반응 확인해보세요.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section7',
+      text: '함께 보면 좋은 콘텐츠',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'ending',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%AF%B8%ED%82%A4-17-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9B%90%EC%9E%91-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%ED%95%B4%EC%84%9D-2025%EB%85%84-%EC%B5%9C%EA%B3%A0-%EA%B8%B0%EB%8C%80%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%98%81%ED%99%94',
+      text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

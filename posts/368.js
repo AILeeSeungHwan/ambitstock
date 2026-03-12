@@ -1,0 +1,122 @@
+const post = {
+  id: 368,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EB%A7%8C%EC%A0%90%EC%9E%91%EC%97%90%EC%84%9C-%EC%B0%BE%EB%8A%94-%EC%9D%B8%EC%83%9D%EC%98%81%ED%99%94-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EC%B2%AD%EA%B0%80%EB%8A%A5-%EC%88%98%EC%83%81%EC%9E%91%ED%92%88',
+      text: '넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상'
+    },
+    {
+      type: 'intro',
+      html: '<p>2024년 8월 7일 개봉 예정인 영화 <b>이오 카피타노 ( 영어제목 : IO Capitano ) 해외 평론가 평점 반응</b>입니다.</p><p>영화 이오 카피타노는 2023년 베네치아 영화제 황금사자상 경쟁후보작이고 제96회(2024년) 아카데미상 국제영화상 후보작이며,</p><p><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;><b>제80회(2023년) 베네치아 영화제 은사자상 감독상 수상작</b></span>입니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post368_thumb.svg',
+      alt: '[명작 영화 추천] 8월에 찾아오는 감독상 수상작품 | 영화 이오 카피타노 뜻 해외 평론가 평점',
+      caption: '[명작 영화 추천] 8월에 찾아오는 감독상 수상작품 | 영화 이오 카피타노 뜻 해외 평론가 평점'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #01ff51;&quot;>그냥 우리가 이 바다 한가운데서 죽길 바라는 거죠?</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>사촌 무사와 함께 가수의 꿈을 품고 고향을 떠나 유럽행을 결심한 10대 소년<span> </span><span style=&quot;background-color: #ffffff;&quot;>세이두</span>.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그러나 국경 너머엔<span> </span><b><span style=&quot;background-color: #01ff51;&quot;>사막, 리비아 구금 시설, 바다의 위협</span></b><span> </span>등 생과 사를 넘나드는 끔찍한 현실만이 겹겹이 기다리고 있는데.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화 제목 이오 카피타노 뜻과 의미는 <span style=&quot;background-color: #01ff51;&quot;><b>이탈리아 어로 \'나는 선장이다\'</b></span>입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>어린 나이에 선장으로서 많은 이들을 책임지기 위한 무모한 첫 항해를 하는 주인공처럼,</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>세상을 향해 도전하는 모든 이들을 응원하는 영화</b></span>가 될 것입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>해외 평론가는 영화 이오 카피타노 어떻게 보았는지 로튼 토마토 평점 살펴보겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;492&quot; data-origin-width=&quot;1512&quot;><span data-alt=&quot;이오 카피타노 로튼토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cH0YIm/btsIRWnCuW3/AAAAAAAAAAAAAAAAAAAAACCfcMe5apcuYtAVKfQqwj-fafS_gd4Jwyz_0ElQQaGx/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=YHcPXx12%2FPvZ5VWByWtHuXxjedI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cH0YIm/btsIRWnCuW3/AAAAAAAAAAAAAAAAAAAAACCfcMe5apcuYtAVKfQqwj-fafS_gd4Jwyz_0ElQQaGx/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=YHcPXx12%2FPvZ5VWByWtHuXxjedI%3D&quot;></span><figcaption>이오 카피타노 로튼토마토 평점</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>로튼토마토 이오 카피타노 평점</b>입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;><b>평론가 점수는 96%로, 100명 중 96명이 좋은 작품이라 평했다는 의미</b></span>입니다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>엄청나게 높은 점수로, 이와 더불어 신선도 보증마크도 획득하며 이전에 보지 못한 신선한 영화임을 증명하고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #ffffff; background-color: #ef5369;&quot;>관람객 평점은 그보단 낮은 89%</span>이지만,</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>다른 영화들의 평점에 비교해 보았을 때 굉장히 높은 평점을 기록하였습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>다음은 IMDB 평점입니다.</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>총 평점 표본 12,000 명 중 7.6점</b></span>으로 준수한 평점이나,</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>로튼토마토보다는 낮은 점수를 기록하고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>인기순위는 3,612등으로, 작년 개봉작품인만큼 순위는 떨어지는 모습입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1292&quot; data-origin-width=&quot;1352&quot;><span data-alt=&quot;이오 카피타노 로튼토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bYOZJt/btsIS9mjXwX/AAAAAAAAAAAAAAAAAAAAAAh_XQjCJndowLfONI8kBI4jG3cDdeyQbLmzoVkbbku0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qY%2BgshfVIp%2FRmG4aCJOKniCTPTM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bYOZJt/btsIS9mjXwX/AAAAAAAAAAAAAAAAAAAAAAh_XQjCJndowLfONI8kBI4jG3cDdeyQbLmzoVkbbku0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qY%2BgshfVIp%2FRmG4aCJOKniCTPTM%3D&quot;></span><figcaption>이오 카피타노 로튼토마토 평점</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;><b>영화의 평점 분포는 10점 보다는 7,8점의 평점</b></span>이 많습니다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>수상작들이 어느정도 난해한 요소, 지루한 면모도 가지고 있는 부분이 있기 때문에, </b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>그저 재미로 시청하기에는 모호한 부분이 있을 것으로 예상됩니다.</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>평점 표본 국가 순위는 이탈리아, 미국, 영국, 브라질, 네덜란드 순입니다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>다음 포스팅에서는 평론가 반응 및 후기 살펴보겠습니다.</b></span></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

@@ -1,0 +1,182 @@
+const post = {
+  id: 361,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/2024%EB%85%84-%EB%A7%88%EB%B8%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EC%88%9C%EC%9C%BC%EB%A1%9C-%EC%B4%9D-%EC%A0%95%EB%A6%AC-feat-%EB%94%94%EC%A6%88%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EA%B3%B5%EA%B0%9C-%EC%98%88%EC%A0%95',
+      text: '2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
+    },
+    {
+      type: 'intro',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>어벤져스 둠스데이 시리즈 5부작 포스팅 2편입니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>이번 편에서는 <span style=&quot;background-color: #f3c000;&quot;><b>닥터 둠 타노스 티어와 능력치 비교, 그리고 닥터 둠이 빌런이 된 배경</b></span>에 대해서 전해드립니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;982&quot; data-origin-width=&quot;980&quot;><span data-alt=&quot;어벤져스5 둠스데이 완벽정리 시리즈&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/YmgSq/btsIV4xMUxE/AAAAAAAAAAAAAAAAAAAAACB0BSlQlg0sVLv-b4fXBM94KCqKq_aCr7FgkAjKZN0l/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K68%2BXjJULva6gE%2F7KXxQg%2Bk4Luw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/YmgSq/btsIV4xMUxE/AAAAAAAAAAAAAAAAAAAAACB0BSlQlg0sVLv-b4fXBM94KCqKq_aCr7FgkAjKZN0l/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K68%2BXjJULva6gE%2F7KXxQg%2Bk4Luw%3D&quot;></span><figcaption>어벤져스5 둠스데이 완벽정리 시리즈</figcaption> </figure> </p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post361_thumb.svg',
+      alt: '어벤져스5 둠스데이 닥터 둠 타노스 티어 비교 | 그가 빌런이 된 과거배경 -2',
+      caption: '어벤져스5 둠스데이 닥터 둠 타노스 티어 비교 | 그가 빌런이 된 과거배경 -2'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #333333;&quot;>닥터 둠, 본명 빅터 본 둠(Victor Von Doom)은 동유럽의 가상 국가 라트베리아에서 태어났습니다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #333333;&quot;>그는 가난한 집안 환경과 불평등한 사회 구조 속에서 성장하였으나 <span style=&quot;background-color: #01ff51;&quot;><b>타고난 지능과 기술적 재능</b></span>을 가지고 있었고, <span style=&quot;background-color: #ffffff;&quot;>어머니 신타(Synthia)는 마법의 힘을 지닌 마녀였지만, 라트베리아의 국왕에게 맞서기 위해 강력한 주문을 사용하다가 악마에게 영혼을 빼앗깁니다. </span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #333333;&quot;>이로 인해<span style=&quot;background-color: #01ff51;&quot;> <b>빅터는 어머니의 영혼을 되찾기 위해 마법에 깊은 관심</b></span>을 가지게 되었습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1048&quot; data-origin-width=&quot;696&quot;><span data-alt=&quot;어벤져스5 둠스데이 완벽정리 시리즈&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cTo98T/btsIUjbWKqT/AAAAAAAAAAAAAAAAAAAAAHG01IW4ron_JRiHpYFQJgDq5XDjMYQDLN_hC3RayUzi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3fWbkCDB73fonl7Llv0Nkx%2FoErE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cTo98T/btsIUjbWKqT/AAAAAAAAAAAAAAAAAAAAAHG01IW4ron_JRiHpYFQJgDq5XDjMYQDLN_hC3RayUzi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3fWbkCDB73fonl7Llv0Nkx%2FoErE%3D&quot;></span><figcaption>어벤져스5 둠스데이 완벽정리 시리즈</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #333333;&quot;>빅터의 아버지 베르나르드 본 둠(Bernard Von Doom)은 의사였지만, 빅터와 함께 <span style=&quot;background-color: #01ff51;&quot;><b>라트베리아의 혹독한 겨울을 피하려다 동사</b></span>하게 되었습니다. 이 사건으로 라트베리아, </span><span style=&quot;color: #333333;&quot;>특히 <span style=&quot;background-color: #01ff51;&quot;><b>폭군 국왕에 대한 복수심</b></span>을 품게 됩니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #781b33;&quot;><b>그러던중 천재적인 지능</b></span><span style=&quot;color: #333333;&quot;><span style=&quot;color: #781b33;&quot;><b>과 기술적 재능을 지닌 빅터를 눈여겨 보던 미국 정부는 빅터에게 전쟁무기를 개발하는 조건으로 미국에서 공부할 기회를 제공</b></span>했습니다. 그는 <span style=&quot;background-color: #ffffff;&quot;>리드 리처즈(미스터 판타스틱)와 함께 콜롬비아 대학교에서 학문을 탐구하며 뛰어난 성과를 거두었습니다. </span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;776&quot; data-origin-width=&quot;814&quot;><span data-alt=&quot;어벤져스5 둠스데이 완벽정리 시리즈&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/0lEiD/btsIXG5coJP/AAAAAAAAAAAAAAAAAAAAALOuiK-2dRYCFKYfpo_O1YavVgVqceuJzrvtW_BedGpk/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sKH95tHv2iw0Lf9z2WRHiVLpDY0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/0lEiD/btsIXG5coJP/AAAAAAAAAAAAAAAAAAAAALOuiK-2dRYCFKYfpo_O1YavVgVqceuJzrvtW_BedGpk/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sKH95tHv2iw0Lf9z2WRHiVLpDY0%3D&quot;></span><figcaption>어벤져스5 둠스데이 완벽정리 시리즈</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #333333;&quot;><span style=&quot;background-color: #ffffff;&quot;>그러나<span> </span><span style=&quot;background-color: #01ff51;&quot;><b>빅터는 어머니의 영혼을 되찾기 위해 차원 간의 통로를 여는 실험을 시도하다가 큰 사고</b></span>를 겪게 됩니다.</span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>이 실험은 실패로 끝났으며, 그 과정에서 빅터는 얼굴에 심각한 화상</b></span>을 입었습니다. ( 어벤져스5 공식 합류 날 로다주가 가면을 쓰고 있었던 이유. 닥터 둠은 화상을 가리기 위해 가면을 벗지 않는다. )</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그는 자신의 실패를 리드 리처즈의 탓으로 돌리며 그를 증오하게 되었고, 세상에 대한 복수심이 또 한번 증폭되는 계기가 됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>현재의 과학 기술을 뛰어넘는 지식과 재능, 그리고 마법역량을 지닌 빅터 본 둠은 라트베리아로 돌아가 국왕을 몰아내고 자신이 통치자가 됩니다. 이곳에서 그는<span> </span><span style=&quot;color: #781b33;&quot;><b>외부세계와 단절된 자신만의 국가를 만들어나가기 시작하며 새로운 정체성인 &quot;닥터 둠&quot;을 확립</b></span>하게 됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1048&quot; data-origin-width=&quot;696&quot;><span data-alt=&quot;어벤져스5 둠스데이 완벽정리 시리즈&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/l0Spt/btsIUsfuyyQ/AAAAAAAAAAAAAAAAAAAAABRQ4Aurr1IXJfbkWPFNeLOoqELooseXaPjO_LOED7Ey/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=q9VRRZ1yj%2FwmmnuQV0tgOxjSCbM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/l0Spt/btsIUsfuyyQ/AAAAAAAAAAAAAAAAAAAAABRQ4Aurr1IXJfbkWPFNeLOoqELooseXaPjO_LOED7Ey/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=q9VRRZ1yj%2FwmmnuQV0tgOxjSCbM%3D&quot;></span><figcaption>어벤져스5 둠스데이 완벽정리 시리즈</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>과학과 마법을 결합한 강력한 능력으로 <span style=&quot;color: #333333; background-color: #ffffff;&quot;>라트베리아를 통치하던 닥터둠</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #781b33; background-color: #ffffff;&quot;><b>자신의 국가만으로는 만족하지 못한 그는 세계 정복을 꿈꾸기 시작하며, </b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #781b33; background-color: #ffffff;&quot;><b>이를 막으려는 어벤져스 히어로들과의 싸움이 시작</b></span><span style=&quot;color: #781b33;&quot;><b>됩니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이전 시리즈에서 다루었듯, 빌런으로서 여러 악행 ( 비브라늄 탈취를 위한 와칸다 침공, 판타스틱 4와의 분쟁, 세계정복 시도를 막는 어벤져스와의 전투 등 ) 을 저질러 오던 닥터둠은 <b><span style=&quot;background-color: #01ff51;&quot;>2015년 마블의 주요 이벤트<span style=&quot;color: #000000;&quot;><span> </span>&quot;Secret Wars&quot; 이후 전례 없는 변화를 겪었습니다.</span></span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>그는 <span style=&quot;background-color: #01ff51;&quot;><b>멀티버스의 충돌로 인해 모든 현실이 붕괴되는 가운데 &quot;갓 둠&quot;이라는 신적인 존재로 변모</b></span>했습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>새로운 세계인 배틀월드를 창조하고 자신을 그곳의 절대적인 통치자가 됩니다. 이 과정에서 그는 우주적 능력과 지식을 흡수하여 더욱 강력해졌습니다. ( 우주적 존재 비욘더즈를 상대로 이겨 힘을 흡수하였으나, 사실은 몰큘맨이 힘을 흡수하여 닥터 둠에게 힘을 공급하고 있던 것, 내용이 길어지므로 다음 기회에 다뤄볼 예정 - R의 필름공장 )</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;952&quot; data-origin-width=&quot;886&quot;><span data-alt=&quot;어벤져스5 둠스데이 닥터둠 과거배경&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wRADi/btsIUg0Jeg2/AAAAAAAAAAAAAAAAAAAAAK7FgUFj_PqmrPX_jo3sFhXet8dzNC70LH5yd5XYOrZ_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=G%2BLTqK%2B9G%2BdZvMG1X6U%2BLjzTNWg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wRADi/btsIUg0Jeg2/AAAAAAAAAAAAAAAAAAAAAK7FgUFj_PqmrPX_jo3sFhXet8dzNC70LH5yd5XYOrZ_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=G%2BLTqK%2B9G%2BdZvMG1X6U%2BLjzTNWg%3D&quot;></span><figcaption>어벤져스5 둠스데이 닥터둠 과거배경</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><b>그러던 닥터 둠은 자신이 저지른 과거의 악행을 뉘우치고 새롭게 태어나기로 결심</b></span>합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>얼굴의 흉터가 회복되었고, 평화로운 삶을 추구하며 자신의 지능을 인류를 위한 목적으로 사용하기로 결정했습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>인퍼머스 아이언맨 시리즈에서 그는 고인이 된 토니 스타크(아이언맨)의 역할을 대신하며, 그의 기술과 유산을 이어받아 새로운 아이언맨으로서 활동하게 됩니다. 이로 인해 그는 <span style=&quot;background-color: #01ff51;&quot;><b>인퍼머스 아이언맨이라는 새로운 아이덴티티</b></span>를 취하게 되었습니다. <b><span style=&quot;background-color: #01ff51;&quot;>이 원작 내용이 우리가 기대하는 로버트 다우니 주니어 닥터 둠의 아이언맨 복귀</span></b>입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1260&quot; data-origin-width=&quot;944&quot;><span data-alt=&quot;어벤져스5 둠스데이 닥터둠 과거배경&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dLijhD/btsIWVfYZKx/AAAAAAAAAAAAAAAAAAAAAPrzZ09_eHgh6Nn_KYs-0xocL9Oi0OdsUN4FkD38XuJV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Tar1yVpEmsv3mP%2FgjqLqJE9sKqE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dLijhD/btsIWVfYZKx/AAAAAAAAAAAAAAAAAAAAAPrzZ09_eHgh6Nn_KYs-0xocL9Oi0OdsUN4FkD38XuJV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Tar1yVpEmsv3mP%2FgjqLqJE9sKqE%3D&quot;></span><figcaption>어벤져스5 둠스데이 닥터둠 과거배경</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이 시기에 둠은 자신이 과거의 잘못을 보상하려는 의지로 여러 슈퍼 빌런들을 사냥하며, 세계를 보호하기 위한 노력을 기울였습니다. <span style=&quot;color: #781b33;&quot;><b>하지만, 그의 과거는 그를 계속 따라다녔고, 사람들은 그를 완전히 신뢰하지 않았습니다. </b></span>이는 둠에게 큰 도전이 되었으며, 그가 진정으로 히어로로 거듭나기 위해 많은 고난을 겪게 만들었습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>이처럼 닥터 둠의 여정은 하나로 단정할 수 없는 그의 성격과 다면적인 동기들, 그리고 그가 가진 엄청난 능력들로 인해 끊임없이 진화해 왔습니다. 불우한 환경에서 분노와 학살, 그리고 좌절, 그 후 빌런이 된 삶과 회개와 영웅으로의 삶, 그는 단순한 악당 그 이상의 존재로, 영웅과 악당의 경계를 넘나드는 캐릭터입니다.</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;690&quot; data-origin-width=&quot;761&quot;><span data-alt=&quot;어벤져스5 둠스데이 닥터둠 과거배경&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lJRpj/btsIYax7uM7/AAAAAAAAAAAAAAAAAAAAAJfBtfLGB1BhaLorGZzSWIhJ-gzsvgCpFYRv2gS3GlYd/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=l8GEpLZKlxCv77FgJXDFSzTFTVE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lJRpj/btsIYax7uM7/AAAAAAAAAAAAAAAAAAAAAJfBtfLGB1BhaLorGZzSWIhJ-gzsvgCpFYRv2gS3GlYd/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=l8GEpLZKlxCv77FgJXDFSzTFTVE%3D&quot;></span><figcaption>어벤져스5 둠스데이 닥터둠 과거배경</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>때문에 그의 행동은 단순한 악행을 넘어서 복잡한 철학적 질문을 제기할 수 있습니다.</b> </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그가 추구하는 것은 단순한 정복이 아닌,<span style=&quot;color: #781b33;&quot;> </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><b>자신이 생각하는 \'최선의 질서\'를 구현</b></span>하는 것이기 때문에<span> </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #333333; text-align: start;&quot;>이러한 비슷한 사상을 지녔던 어벤져스2의 울트론과 어벤져스 4의 타노스를 잇는<span><b><span style=&quot;color: #781b33;&quot;> 뚜렷한 이상과 실행력을 지닌 빌런</span></b>이 될 것입니다.</span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;color: #781b33;&quot;>울트론이 추구하는 질서는 인류를 멸하는 것이기에 당연히 악이었고,</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;color: #781b33;&quot;> 타노스가 우주의 절반을 지워버리는 것 또한 악이었습니다. </span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>하지만 \'울트론 타노스, 당신들이 옳았습니다..\' 라는 밈이 유행했던 것처럼, </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>그들의 꿈이 때론 <span style=&quot;background-color: #01ff51;&quot;>절</span>대악, 절대적인 빌런은 아닐지도 모릅니다.</b></span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1156&quot; data-origin-width=&quot;1092&quot;><span data-alt=&quot;어벤져스5 둠스데이 닥터둠 과거배경&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bGQnUt/btsIV6P60Hc/AAAAAAAAAAAAAAAAAAAAALmGSbJJd0eMaHxcna_YSTYscK5SzlCJXdzozqQv54LH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kFovrSJdCfBOUWFPIah%2FXtdChXs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bGQnUt/btsIV6P60Hc/AAAAAAAAAAAAAAAAAAAAALmGSbJJd0eMaHxcna_YSTYscK5SzlCJXdzozqQv54LH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kFovrSJdCfBOUWFPIah%2FXtdChXs%3D&quot;></span><figcaption>어벤져스5 둠스데이 닥터둠 과거배경</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>앞으로 나올 어벤져스5 둠스데이에서 닥터둠.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>그는 영웅일까요 빌런일까요</b></span></p>'
+    },
+    {
+      type: 'ending',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>어벤져스 둠스데이 시리즈 3편에서 이어집니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

@@ -1,0 +1,230 @@
+const post = {
+  id: 138,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p>체크인 한양 출연진 등장인물관계도 영어제목 뜻 - 해외 반응 평점 채널 A 드라마(배인혁 김지은 정건주 박재찬)</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post138_thumb.svg',
+      alt: '체크인 한양 출연진 등장인물관계도 영어제목 뜻 - 해외 반응 평점 채널 A 드라마(배인혁 김지은 정건주 박재찬)',
+      caption: '체크인 한양 출연진 등장인물관계도 영어제목 뜻 - 해외 반응 평점 채널 A 드라마(배인혁 김지은 정건주 박재찬)'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '체크인 한양 출연진 인물관계도 해외 반응 평점',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '체크인 한양 줄거리 출연진',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&lt;체크인 한양&gt;은 조선 시대 최고의 영빈관, 영천루에서 네 명의 인턴(?)들이 각자 다른 이유로 일하게 되는 이야기다. 이들은 서로 부딪히고, 때로는 도와가며 조금씩 변해가는데, 그 과정이 재밌고 흥미롭게 그려진다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>이은/이은호 - 배인혁</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>이은</b>은 사실 조선의 왕자다. 하지만 자신의 신분을 숨기고 ‘이은호’라는 이름으로 영천루에서 일하기 시작한다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>평범한 사람들의 삶을 경험해보고 싶은 마음에서 시작한 것이다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;color: #781b33; font-family: \'Noto Serif KR\';&quot;><b>“무엄하다! <br>내가 경거망동 말라 했거늘!”</br></b></span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>천방주와 병판에게 휘둘리는 무기력한 왕 이현위의 아들, 왕자 무영군 이은.  </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>용천루의 태상방주에게 휘둘리는 왕실을 구하고자 황동금시를 찾으러 천방주가 주인으로 있는 조선 최대의 객주 ‘용천루’에 이은호라는 이름으로 잠입한다. 하지만 교육사환임에도 “무엄하다”라는 말이 입에 붙어 있는 이은호는 궁궐에서의 버릇을 고치지 못해 교관 눈 밖에 나는데. 게다가 홍덕수라는 왈짜 같은 녀석과 자꾸만 얽힌다.  </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>그런데, 홍덕수의 속저고리 아래에 그토록 찾던 황동금시가 번쩍이고 있다?! 황동금시를 얻어 천방주가 숨긴 치부책을 찾아내야 하는 무영군. 황동금시를 갖기 위해 홍덕수 옆에 꼭 붙어 있어야겠다고 마음먹는다. 그런데 왜 자꾸 홍덕수에게 마음이 쓰이는지 혼란스럽다.  과연 이은은 자신의 정체를 들키지 않고 정식사환이 되어 권력의 비밀을 알아낼 수 있을까?</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>홍재원/홍덕수 - 김지은</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>홍덕수</b>는 여자인데 남장하고 영천루에 들어간다. 그녀는 영천루의 총지배인이 되는 게 목표다. 그래서 누구보다 열심히 일하고, 자신의 능력을 보여주려고 애쓴다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;color: #781b33; font-family: \'Noto Serif KR\';&quot;><b>“사나이 홍덕수, <br>나의 목표는 용천루다” </br></b></span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><span style=&quot;font-family: \'Noto Serif KR\';&quot;>부족한 거 하나 없이 곱게 자란 아가씨 홍재온은 아버지의 죽음 이후 그의 유언대로 남장여자 홍덕수로 살아왔다. 아버지가 남긴 유품 황동금시를 품고.  사나이 홍덕수의 목표는 오직 하나, 용천루에 들어가 아버지의 죽음에 관련된 비밀을 찾는 것. 성별을 숨기고 교육사환으로 들어오는 것까지도 쉽지 않았는데, 같은 조가 된 동료사환 이은호가 자꾸만 악연으로 엮인다. 자신의 정체를 의심하는 듯 주변에서 얼쩡거리는 이은호.  과연 홍덕수는 그의 방해 아닌 방해 속에서 무사히 정식사환이 되어 아버지의 죽음과 황동금시에 얽힌 비밀을 찾을 수 있을까?</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>천준화 - 정건주</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>천준화</b>는 영천루의 후계자지만, 사실 경영에 전혀 관심이 없다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>아버지의 강요로 어쩔 수 없이 일하게 되는데, 점점 상황이 변하면서 자기 생각도 달라지게 된다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;color: #781b33; font-family: \'Noto Serif KR\';&quot;><b>“우리 한 배를 타고<br/>폭풍우를 건너 보세”</b></span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>딱 벌어진 어깨에 귀티 나는 외모, 그리고 언제나 엽전이 붙는 사주를 지닌 용천루 태상방주의 아들.  </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>용천루의 상속자임에도 객주 경영에 관심이 없어 한량처럼 청나라에서 유학 생활을 했지만, 아버지의 불호령에 억지로 용천루에 교육사환으로 들어온다. 어차피 제 것이 될 용천루인지라 교육생 생활도 그냥저냥 놀면서 지내면 되겠거니 했는데, 홍덕수라는 조그맣고 재미난 녀석이 옆에 있으면 심심할 일이 없다. 같은 방을 쓰게 된 동료들과 ‘하오나 4인방’으로 묶이며 그들에게 진심이 된 천준화.  과연 밑바닥부터 올라와야 한다는 천방주의 계획대로 정식사환이 되는 첫 관문을 통과할 수 있을까?</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>고수라 - 박재찬</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>고수라</b>는 몰락한 가문을 다시 일으키려고 영천루에서 일하기 시작한다. 그의 목표는 정규직으로 승진해서 가족을 재건하는 것이다. 그래서 그의 목표를 이루기 위해 치열하게 노력한다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;>“하오나! <br/>그것은 옳지 않습니다!”</span></b></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>옳고 그른 걸 소신 있게 판단하고 행동하는 조선의 바른 생활 청년.  오래전에 망한 자신의 가문을 제 손으로 다시 일으켜 세우고자 \'용천루 드림\'을 품고 교육사환으로 입성한다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>가문을 일으켜 세우려면 반드시 정식사환이 되어 성공해야만 하는데, 하필이면 엮이는 놈들이 용천루 최고의 골칫거리 3인 은호, 덕수, 준화다. 성공하려면 이 녀석들과 친해지면 안 될 것 같지만, 어느새 그들과 한방을 쓰며 우정을 나누게 된다.  과연 고수라는 이들과의 우정도 지키면서 정식사환이 될 수 있을까?</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>이 네 명이 서로 다른 이유로 영천루에서 일하면서, 각자의 비밀도 알게 되고 점차 변해간다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>처음엔 서로 다른 점이 많지만, 결국은 각자 마음을 터놓고 진심으로 돕고 응원하게 되는 이야기, 체크인 한양!</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>채널 A 체크인 한양 공식 홈페이지 참고</span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '체크인 한양 등장인물 관계도',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section4',
+      text: '체크인 한양 영어제목 뜻',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;><b>체크인 한양<br/><span>Check in Hanyang</span></b></span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>체크인 한양의 영어제목은 한국 제목과 그대로 Check in Hanyang 입니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;체크인&quot;은 주로 호텔, 공항, 기차역 등에서 사용되는 용어로, 예약한 곳에 도착하여 본인의 정보를 확인하고 공식적으로 입장하거나 이용을 시작하는 과정을 의미합니다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>예를 들어, 호텔에서는 체크인 시 본인 신분을 확인하고 객실 키를 받거나, <b>공항에서는 비행기 탑승을 위해 항공권을 확인하는 과정이 체크인에 해당</b>하죠.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>일반적으로, 체크인은 예약한 서비스나 시설에 대한 사용을 시작하는 첫 단계로 볼 수 있습니다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>즉 체크인 한양은 드라마의 배경이 되는 영천루, 더 큰 배경의 한양에서의 삶을 4명의 주 캐릭터를 통해 시작하는 모습을 그리는 뜻</b>이라 볼 수 있습니다.</span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section5',
+      text: '체크인 한양 해외 평점',
+      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; background-color: #f3c000;&quot;><span><b>체크인 한양 해외 평점입니다.</b></span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>약 4,352명의 표본에서 7.9점이라는 높은 평점을 기록하며 좋은 반응</b>을 이끌었습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>한국에서도 시청률 상승과 더불어 좋은 평가를 받고 있지만 성균관 스캔들과 비교하며 다운그레이드 된 아류작이라는 평가도 받고 있는 작품입니다. 해외에서의 리뷰들은 대부분 긍정적인 리뷰들이 확인됩니다. 공개된지 얼마 안된 작품이기 때문에, 국내 반응들을 추후 더 살펴보아야 겠습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>다음 포스팅에서 드라마 체크인 한양의 해외 시청자 후기 반응 리뷰 살펴보도록 하겠습니다.</span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section6',
+      text: '함께 보면 좋은 콘텐츠',
+      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
+    },
+    {
+      type: 'ending',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></span></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%ED%95%B4%EB%A6%AC%ED%8F%AC%ED%84%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C-%EC%B6%94%EC%B2%9C-%ED%8F%89%EC%A0%90-TOP-8',
+      text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

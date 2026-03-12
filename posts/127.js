@@ -1,0 +1,445 @@
+const post = {
+  id: 127,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p>현재상영작 영화 예매 순위 관객수 2025년 1월 TOP10</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post127_thumb.svg',
+      alt: '현재상영작 영화 예매 순위 관객수 2025년 1월 TOP10',
+      caption: '현재상영작 영화 예매 순위 관객수 2025년 1월 TOP10'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '2025년 1월 현재상영작 영화 예매 순위 총정리',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p>2025년 1월 현재상영작 영화 예매 순위 총정리 포스팅입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>각 작품의 자세한 정보와 후기, 평점을 포함하여 포스팅으로 준비하였습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>포스팅 마지막 2025년 1월 개봉예정영화 총정리도 함께 확인해 보시길 바랍니다.</b></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '10위 러브레터',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p>10위는 러브레터입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>2025년 1월 1일 재개봉하는 영화로 예매율 2.6%를 차지하였습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>러브레터 줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p>중학교 시절, 같은 반에 같은 이름을 가진 남자애가 있었습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>그리고 10년이 지난 어느 날, 잊고 있던 그 남자애의 연인에게서 뜻밖의 편지가 도착했습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>&quot;잘 지내고 있나요? 저는 잘 지내고 있습니다.&quot;</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>편지에 답장을 보내며 그저 무심코 일어난 일이었죠. 그러나 그때는 몰랐습니다. 내가 떠나보낸 첫사랑이 누구였는지를 깨닫게 될 줄은... 2025년 1월, &lt;러브레터&gt;를 기억하는 모든 이들에게 묻습니다. &quot;아직도 그리움이 마음속 깊이 남아 있나요?&quot;</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '9위 모아나 2',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p>9위는 모아나 2 입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>2024년 11월 27일 개봉하였으며 예매율 2.7%를 기록하였습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>모아나 2 줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p>선조들로부터 뜻밖의 부름을 받은 ‘모아나’.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>부족의 파멸을 막기 위해 전설적인 영웅 ‘마우이’와 새로운 선원들과 함께</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>숨겨진 고대 섬의 저주를 풀기 위한 위험천만한 모험을 떠나는 스펙터클한 오션 어드벤처</p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%AA%A8%EC%95%84%EB%82%98-2-%EB%9C%BB-%EC%9D%98%EB%AF%B8-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%9B%84%EA%B8%B0-%EA%B4%80%EB%9E%8C%ED%8F%89-%EA%B8%B0%EB%8C%80%EB%B3%B4%EB%8B%A4-%EA%B1%B1%EC%A0%95%EC%9D%B4-%EC%95%9E%EC%84%9C%EB%8A%94-%EB%94%94%EC%A6%88%EB%8B%88-%EC%8B%A0%EC%9E%91-%EC%98%81%ED%99%94',
+      text: '모아나 2 뜻 의미 시사회 후기 관람평 | 기대보다 걱정이 앞서는 디즈니 신작 영화'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section4',
+      text: '8위 뽀로로 극장판 바닷속 대모험',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'body',
+      html: '<p>8위는 뽀로로 극장판 바닷속 대모험 입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>2025년 01월 01일 새해 첫날 개봉하며 예매율 2.8%를 기록중입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1522&quot; data-origin-width=&quot;1076&quot;><span data-alt=&quot;현재상영작 순위 뽀로로 극장판 바닷속 대모험&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/c9jDU6/btsLyVzTEMU/AAAAAAAAAAAAAAAAAAAAALd9n-IkjlgdUHiF6Wsv4LVmaCx7jpqfVi_rctMHSA66/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XKt5hyIi5X7vRTmLbHbLBUmVWgg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/c9jDU6/btsLyVzTEMU/AAAAAAAAAAAAAAAAAAAAALd9n-IkjlgdUHiF6Wsv4LVmaCx7jpqfVi_rctMHSA66/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XKt5hyIi5X7vRTmLbHbLBUmVWgg%3D&quot;></span><figcaption>현재상영작 순위 뽀로로 극장판 바닷속 대모험</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>뽀로로 극장판 바닷속 대모험 줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p>“대장님처럼 훌륭한 영웅이 되고 싶어요!”</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>바다를 지키는 수호자 ‘레드헌터스’의 리더, ‘머록’ 대장을 따라 바다 속의 위협을 물리치기 위한 모험을 떠난 뽀로로와 친구들.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>하지만 거대한 괴물 ‘시터스’가 뽀로로와 친구들이 타고 있던 잠수함을 삼켜버리고, ‘머록’ 대장의 도움으로 간신히 탈출한 뽀로로와 ‘크롱’은 친구들을 구하기 위해 ‘시터스’와의 최후의 결전을 펼칠 준비를 한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>그러나 신비로운 소녀 ‘마린’이 등장해 그들의 계획을 방해하며, 바다 속에 숨겨진 비밀이 점차 드러나기 시작하는데…</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>과연, 뽀로로와 친구들은 이 비밀을 밝혀내고 진정한 ‘씨 가디언즈’로 거듭날 수 있을까?</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section5',
+      text: '7위는 위키드',
+      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
+    },
+    {
+      type: 'body',
+      html: '<p>7위는 위키드 입니다. 두개의 파트로 나뉘는 영화로 2024년 연말 최고의 화제작이라고 생각됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>2024년 11월 20일 개봉하였고 현재도 예매율 3.2%를 유지중입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>위키드 줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p>자신의 진정한 능력을 아직 깨닫지 못한 ‘엘파바’(신시아 에리보)와 자신이 누구인지를 모르는 ‘글린다’(아리아나 그란데). 두 사람은 서로 다른 배경을 가진 채, 마법처럼 특별한 우정을 쌓아간다. 그러던 중, ‘마법사’의 초청을 받아 에메랄드 시티로 향하게 되며, 두 사람은 예기치 못한 위기와 모험에 휘말리게 된다. 마법 같은 운명에 이끌리며, 그들은 세상을 날아오를 수 있는 힘을 발견하게 될까?</p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%9C%84%ED%82%A4%EB%93%9C-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%9B%84%EA%B8%B0-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EA%B0%80-%EB%B0%98%EC%9D%91-%EC%95%84%EB%A6%AC%EC%95%84%EB%82%98-%EA%B7%B8%EB%9E%80%EB%8D%B0-%EC%99%84%EB%B2%BD%ED%9E%88-%EC%96%B4%EC%9A%B8%EB%A6%B0%EB%8B%A4-%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91',
+      text: '위키드 시사회 후기 관람평 | 해외 평론가 평가 반응 아리아나 그란데 &quot;완벽히 어울린다&quot; 현재상'
+    },
+    {
+      type: 'h2',
+      id: 'section6',
+      text: '6위 무파사: 라이온 킹',
+      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
+    },
+    {
+      type: 'body',
+      html: '<p>6위는 무파사: 라이온 킹 입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>2024년 12월 18일 개봉 후 61만명의 관객수를 기록하고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>작품에 대한 평가는 좋으나 영화산업 전반의 침체기때문인지 기대에 미치지 못하는 관객수입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1534&quot; data-origin-width=&quot;1076&quot;><span data-alt=&quot;현재상영작 순위 무파사: 라이온 킹&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cHRZ6m/btsLzsj0Lnm/AAAAAAAAAAAAAAAAAAAAAE4FxfJkVc2Z_jBjQLOXtm0PVZFNL1pfy2Z5o6uXRo1m/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hHIAyGNZkecAvedCpX8fOUPO%2Bdg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cHRZ6m/btsLzsj0Lnm/AAAAAAAAAAAAAAAAAAAAAE4FxfJkVc2Z_jBjQLOXtm0PVZFNL1pfy2Z5o6uXRo1m/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hHIAyGNZkecAvedCpX8fOUPO%2Bdg%3D&quot;></span><figcaption>현재상영작 순위 무파사: 라이온 킹</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>무파사: 라이온 킹 줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p>‘라이온 킹’ 탄생 30주년을 기념한 작품으로, 외로운 고아에서 전설적인 왕으로 거듭난 ‘무파사’의 숨겨진 이야기가 드러난다! 길을 잃고 혼자가 된 새끼 사자 ‘무파사’는 광활한 야생을 떠돌던 중, 왕의 혈통이자 예정된 후계자 ‘타카(스카)’와 우연히 만난다. 마치 친형제처럼 끈끈한 우애를 나누며 함께 자란 두 사자는 운명을 개척하기 위해 거대한 여정을 떠난다. 그러나 한 치 앞을 알 수 없는 적들의 위협 속에서 두 형제의 끈끈했던 유대에 금이 가기 시작하고, 예상치 못한 위기까지 맞닥뜨리게 된다…</p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%AC%B4%ED%8C%8C%EC%82%AC-%EB%9D%BC%EC%9D%B4%EC%98%A8-%ED%82%B9-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%9B%84%EA%B8%B0-%ED%8F%AC%ED%86%A0-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%94%94%EC%A6%88%EB%8B%88-%EC%8B%A4%EC%82%AC%ED%99%94-%EC%98%81%ED%99%94',
+      text: '무파사: 라이온 킹 시사회 정보 관람평 후기 포토 줄거리 내용 <디즈니 실사화 영화>'
+    },
+    {
+      type: 'h2',
+      id: 'section7',
+      text: '5위는 수퍼 소닉 3',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p>5위는 수퍼 소닉 3입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>뽀로로와 마찬가지로 2025년 새해 1월 1일 개봉하는 영화로 아이들과 함께 시청하기 좋은 영화 중 하나입니다. 현재 예매율은 4.6%입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1534&quot; data-origin-width=&quot;1076&quot;><span data-alt=&quot;현재 상영작 순위 수퍼 소닉 3&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/6pRs7/btsLAzbB0qB/AAAAAAAAAAAAAAAAAAAAAMXpsnGT48kT_8C3CL5dF6hNQiItOiIRleT9uea6Z2Mz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QGtsFJHzYDj2YJmdrofMx00C%2F1M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/6pRs7/btsLAzbB0qB/AAAAAAAAAAAAAAAAAAAAAMXpsnGT48kT_8C3CL5dF6hNQiItOiIRleT9uea6Z2Mz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QGtsFJHzYDj2YJmdrofMx00C%2F1M%3D&quot;></span><figcaption>현재 상영작 순위 수퍼 소닉 3</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>수퍼 소닉 3 줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>“더 빠르고 더 강해야만 한다!” </span></b></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>초특급 히어로 소닉과 사상 최강의 라이벌 섀도우의 수퍼 빅 매치가 펼쳐진다! 평화로운 일상을 보내던 소닉은, 50년간 잠들어 있던 비밀 병기 ‘섀도우’가 탈주하자 세계 수호 통합 부대(약칭 세.수.통)에 의해 극비 소집된다. 분노와 복수심에 불타는 섀도우는 소닉의 초고속 스피드와 너클즈의 최강 펀치를 단숨에 제압한다. 세상을 지배하려는 닥터 로보트닉과 그의 할아버지 제럴드 박사는 섀도우의 카오스 에너지를 이용해 인류를 정복하려 한다. 초특급 히어로 소닉과 사상 최강의 라이벌 섀도우! 전 세계를 파괴하려는 섀도우를 막기 위한 파워업 액션 어드벤처가 시작된다!</p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%88%98%ED%8D%BC-%EC%86%8C%EB%8B%89-3-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%8F%AC%ED%86%A0-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EA%B4%80%EA%B0%9D-%EA%B7%B9%EC%B0%AC-%EB%B0%98%EC%9D%91-%EC%98%81%ED%99%94',
+      text: '수퍼 소닉 3 관람평 포토 시사회 결말 후기 < 로튼 토마토 평론가 관객 극찬 반응 영화 >'
+    },
+    {
+      type: 'h2',
+      id: 'section8',
+      text: '4위 시빌 워: 분열의 시대',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p>4위는 시빌 워: 분열의 시대 입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>2024년 12월 31일 개봉하며 예매율은 5.0%를 기록하고 있습니다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1534&quot; data-origin-width=&quot;1076&quot;><span data-alt=&quot;현재상영작 순위 시빌 워: 분열의 시대&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/UYehq/btsLz4XMNBu/AAAAAAAAAAAAAAAAAAAAABCdPYUEq-bCepPAtowtoGUK3dlq3NE-M4m-s8x2phNE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GxHXMxKZFoqjhhXC4rLLXAb7Tq8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/UYehq/btsLz4XMNBu/AAAAAAAAAAAAAAAAAAAAABCdPYUEq-bCepPAtowtoGUK3dlq3NE-M4m-s8x2phNE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GxHXMxKZFoqjhhXC4rLLXAb7Tq8%3D&quot;></span><figcaption>현재상영작 순위 시빌 워: 분열의 시대</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>시빌 워: 분열의 시대 줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>“세상이 둘로 갈라졌다. <br>당신은 어느 편인가?”<br/></br></span></b></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>극단적 분열로 역사상 최악의 내전이 벌어진 미국. 연방 정부의 무차별 폭격과 서로를 향한 총탄이 빗발치는 상황 속에서 기자 ‘리(커스틴 던스트)’와 ‘조엘(와그너 모라)’, ‘새미(스티븐 핸더슨)’, 그리고 ‘제시(케일리 스페니)’는 대통령을 인터뷰하기 위해 워싱턴으로 향한다. 내 편이 아니라면 바로 적이 되는 숨 막히는 현실, 이들은 전쟁의 순간을 누구보다 생생하게 마주하게 된다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>이것은 영화가 아니다. 진짜 공포다!</span></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%8B%9C%EB%B9%8C-%EC%9B%8C-%EB%B6%84%EC%97%B4%EC%9D%98-%EC%8B%9C%EB%8C%80-%EC%A0%95%EB%B3%B4-%EC%B6%9C%EC%97%B0%EC%A7%84-%EA%B4%80%EB%9E%8C%ED%8F%89-%EB%9C%BB-%ED%95%B4%EC%84%9D-%ED%8F%AC%ED%86%A0-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%8B%A0%EC%84%A0%EB%8F%84-%EB%B3%B4%EC%A6%9D',
+      text: '시빌 워: 분열의 시대 정보 출연진 관람평 뜻 해석 포토 < 로튼 토마토 평론가 평점 신선도 보증!'
+    },
+    {
+      type: 'h2',
+      id: 'section9',
+      text: '3위 소방관',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p>3위는 소방관입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>2024년 말 개봉한 영화중 선방한 한국영화가 거의 없었는데 320만이라는 관객수와 높은 평점을 얻으며 좋은 평가를 받고 있는 작품입니다. 2024년 12월 4일 개봉하였으며 예매율은 5.2%입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>소방관 줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p>살리기 위해, 살아남기 위해 하루하루가 마지막 현장인 소방관 팀은 열악한 환경 속에서도 화재 진압과 전원 구조라는 단 하나의 목표로 의기투합한다. 어느 날, 다급하게 119 신고 전화로 홍제동에 화재가 발생했다는 긴급 상황이 접수되자 팀원들은 위기를 직감하는데… 누군가의 가족, 친구, 사랑하는 사람. 우리가 기억해야 할 그 이름. &lt;소방관&gt;. 2001년 가장 빛났던 그들의 이야기를 기억하겠습니다.</p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91-%EC%86%8C%EB%B0%A9%EA%B4%80-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B4%80%EB%9E%8C%ED%8F%89-%EB%A6%AC%EB%B7%B0-%ED%8F%AC%ED%86%A0-%ED%99%8D%EC%A0%9C%EB%8F%99-%ED%99%94%EC%9E%AC-%EC%8B%A4%ED%99%94%EA%B8%B0%EB%B0%98-%EC%98%81%ED%99%94',
+      text: '현재상영작 소방관 시사회 관람평 리뷰 포토 < 홍제동 화재 실화기반 영화 >'
+    },
+    {
+      type: 'h2',
+      id: 'section10',
+      text: '2위 보고타: 마지막 기회의 땅',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'body',
+      html: '<p>2위는 보고타: 마지막 기회의 땅 입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>2024년 12월 31일 개봉하며 예매율은 18.6%를 기록중입니다. 보고타 라는 제목의 뜻은 콜롬비아의 수도 이름이며, 제목과 줄거리, 시사회 후기와 같은 자세한 내용은 아래 포스팅을 통해 확인하실 수 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1534&quot; data-origin-width=&quot;1076&quot;><span data-alt=&quot;현재상영작 순위 보고타: 마지막 기회의 땅&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/vBuOv/btsLBJ5G7eL/AAAAAAAAAAAAAAAAAAAAAJM1ur_qAID6xjlf1cDai5F-liBZaouLg4wLZHRlgLZ4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BDh1k0sa6keCLgbvolQEzk7xLPc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/vBuOv/btsLBJ5G7eL/AAAAAAAAAAAAAAAAAAAAAJM1ur_qAID6xjlf1cDai5F-liBZaouLg4wLZHRlgLZ4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BDh1k0sa6keCLgbvolQEzk7xLPc%3D&quot;></span><figcaption>현재상영작 순위 보고타: 마지막 기회의 땅</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>보고타: 마지막 기회의 땅 줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>희망 없는 인생, <br/>기회는 바로 그 곳에 있었다. </span></b></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>1997년 IMF의 후폭풍을 피하지 못한 국희(송중기)와 가족들은 지구 반대편 콜롬비아 보고타로 향한다. 낯선 땅에서 살아남기 위해, 한인 상인회의 권력을 쥔 박병장(권해효) 밑에서 일을 시작한 국희. 성실함으로 박병장의 눈에 띈 국희는 박병장의 테스트로 의류 밀수 현장에 가담하게 되고, 콜롬비아 세관에게 걸릴 위기 상황 속에서 목숨 걸고 박병장의 물건을 지켜내며 박병장은 물론 통관 브로커 수영(이희준)에게도 강렬하게 존재감을 각인시킨다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>곧 수영이 국희에게 위험한 제안을 하고, 이를 눈치 챈 박병장 또한 새로운 계획을 세우며 국희를 시험에 들게 한다. 본인의 선택으로 보고타 한인 사회의 판도를 바꿀 수 있음을 체감한 국희는 점점 더 큰 성공을 열망하게 되는데…</p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%B3%B4%EA%B3%A0%ED%83%80-%EB%A7%88%EC%A7%80%EB%A7%89-%EA%B8%B0%ED%9A%8C%EC%9D%98-%EB%95%85-%EA%B4%80%EB%9E%8C%ED%8F%89-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%9B%84%EA%B8%B0-%ED%8F%AC%ED%86%A0-%EC%BD%9C%EB%A1%AC%EB%B9%84%EC%95%84-%ED%95%B4%EC%99%B8-%EC%B4%AC%EC%98%81-%ED%98%84%EC%A7%80-%EB%B0%98%EC%9D%91%EC%9D%80',
+      text: '보고타: 마지막 기회의 땅 관람평 시사회 후기 포토 < 콜롬비아 해외 촬영 현지 반응은? >'
+    },
+    {
+      type: 'h2',
+      id: 'section11',
+      text: '1위 하얼빈',
+      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
+    },
+    {
+      type: 'body',
+      html: '<p>현재 상영작 1위는 하얼빈입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>2024년 연말 최고의 화제작으로 평가받는 영화로 엄청난 속도로 100만 관객수를 넘어섰고 개봉 일주일이 안된 현재 300만에 근접해 가는 관객수를 기록중에 있습니다. 2024년 12월 24일 개봉하였으며 예매율은 36.7%이며 앞으로 또 하나의 한국 천만영화가 등장할 수 있을것 같습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>하얼빈 줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p>1908년 함경북도 신아산에서 안중근이 이끄는 독립군들은 일본군과의 전투에서 큰 승리를 거둔다. 대한의군 참모중장 안중근은 만국공법에 따라 전쟁포로인 일본인들을 풀어주게 되고, 이 사건으로 인해 독립군 사이에서는 안중근에 대한 의심과 함께 균열이 일기 시작한다. 1년 후, 블라디보스토크에는 안중근을 비롯해 우덕순, 김상현, 공부인, 최재형, 이창섭 등 빼앗긴 나라를 되찾기 위해 마음을 함께하는 이들이 모이게 된다. 이토 히로부미가 러시아와 협상을 위해 하얼빈으로 향한다는 소식을 접한 안중근과 독립군들은 하얼빈으로 향하고, 내부에서 새어 나간 이들의 작전 내용을 입수한 일본군들의 추격이 시작되는데… 하얼빈을 향한 단 하나의 목표, 늙은 늑대를 처단하라.</p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%ED%95%98%EC%96%BC%EB%B9%88-%EC%B2%9C%EB%A7%8C%EC%98%81%ED%99%94%EB%90%98%EB%82%98-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%EB%B0%98%EC%9D%91-%EC%8A%A4%ED%8F%AC-%ED%8F%AC%ED%95%A8-%EC%98%81%ED%99%94-%EC%98%88%EB%A7%A4-%EC%88%9C%EC%9C%84-1%EC%9C%84-%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91',
+      text: '<하얼빈 천만영화되나> 결말 후기 해외 평론가 로튼 토마토 반응 스포 포함 영화 예매 순위 1위'
+    },
+    {
+      type: 'h2',
+      id: 'section12',
+      text: '2025년 1월 개봉예정영화 총정리',
+      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
+    },
+    {
+      type: 'body',
+      html: '<p>2025년 1월 개봉예정영화 총정리 입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/2025%EB%85%84-1%EC%9B%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%88%9C%EC%9C%84-TOP10&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10</a></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/2025%EB%85%84-1%EC%9B%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%88%9C%EC%9C%84-TOP10',
+      text: '2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/2025%EB%85%84-1%EC%9B%94-%ED%95%9C%EA%B5%AD-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EA%B8%B0%EB%8C%80%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC-TOP-5&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5</a></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/2025%EB%85%84-1%EC%9B%94-%ED%95%9C%EA%B5%AD-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EA%B8%B0%EB%8C%80%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC-TOP-5',
+      text: '2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5'
+    },
+    {
+      type: 'body',
+      html: '<p>이상으로 현재상영작 영화 예매 순위 포스팅을 마칩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>감사합니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section13',
+      text: '함께 보면 좋은 콘텐츠',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'ending',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%97%AD%EB%8C%80-%EC%98%81%ED%99%94-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%EA%B4%80%EA%B0%9D-%EC%88%98-%ED%9D%A5%ED%96%89-%EC%88%9C%EC%9C%84-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-%EB%B3%B4%EB%8A%94-%EA%B3%B3-%EC%B4%9D%EC%A0%95%EB%A6%AC-2%EB%B6%80',
+      text: '역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

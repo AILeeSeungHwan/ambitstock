@@ -1,0 +1,201 @@
+const post = {
+  id: 85,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p style=&quot;color: #333333; font-size: 16px; line-height: 1.7;&quot;>세계적인 거장 박찬욱 감독이 신작 <i>어쩔수가없다 (No Other Choice)</i>로 돌아왔습니다.</p><p style=&quot;color: #333333; font-size: 16px; line-height: 1.7;&quot;>이번 영화는 실직한 가장 만수의 몰락을 통해 남성성, 가족의 의미, 사회적 압박이라는 주제를 다루며 블랙코미디와 스릴러의 경계를 넘나듭니다. 이병헌은 웃음과 비극을 동시에 담아낸 연기로 또 한 번 극찬을 받고 있으며, 당연하게도 모두가 기다리는 박찬욱 감독의 작품이기에, 많은 이들이 개봉날만을 기다리고 있습니다.</p><p style=&quot;color: #333333; font-size: 16px; line-height: 1.7;&quot;>특히 이번 작품은 공개 직후부터 해외 평론가들로부터 폭넓은 관심과 호평을 받으며, 전작 <i>헤어질 결심</i>과 비교될 정도로 주목받고 있습니다. 본 포스팅에서는 영화 줄거리와 출연진 소개에 이어, 전 세계 주요 영화 매체와 평론가들이 전한 생생한 반응과 후기를 함께 살펴보겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/A36VQ/btsQpEZaqPK/AAAAAAAAAAAAAAAAAAAAAOzQJo4phxdtbHJG9ODJ_5N1xIzox2l-5YgwuswfyGGB/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JEp0NJHZT4lxqQZNF4Bcc1qj0Gw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/A36VQ/btsQpEZaqPK/AAAAAAAAAAAAAAAAAAAAAOzQJo4phxdtbHJG9ODJ_5N1xIzox2l-5YgwuswfyGGB/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JEp0NJHZT4lxqQZNF4Bcc1qj0Gw%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post85_thumb.svg',
+      alt: '어쩔수가없다 개봉일 해외 평론가 반응 관람평 후기 [박찬욱 감독 신작]',
+      caption: '어쩔수가없다 개봉일 해외 평론가 반응 관람평 후기 [박찬욱 감독 신작]'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '영화 줄거리',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start; font-size: 16px;&quot;>평범한 가장 만수(이병헌)는 갑작스러운 실직으로 인해 삶의 균형을 잃게 된다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start; font-size: 16px;&quot;>그는 가족을 지켜내려는 본능과 사회적 기대 사이에서 점점 무너져가며, 예상치 못한 폭력적 선택의 길로 들어선다. <i>어쩔 수 없다</i>는 “일과 남성성, 그리고 가족의 의미”라는 질문을 유머와 블랙코미디, 서스펜스적 요소로 풀어낸다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1827&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cJWxcz/btsQm03NBtM/AAAAAAAAAAAAAAAAAAAAAJSVlWteYd51G1aY9U2AzsJXTOd0m2KNMR0PE2VhyZ_g/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lyEMTPxHlKkJ7FgELOS8So3d9mc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cJWxcz/btsQm03NBtM/AAAAAAAAAAAAAAAAAAAAAJSVlWteYd51G1aY9U2AzsJXTOd0m2KNMR0PE2VhyZ_g/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lyEMTPxHlKkJ7FgELOS8So3d9mc%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '출연진과 감독',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<ul style=&quot;color: #333333; font-size: 16px; line-height: 1.6;&quot;> <li><b>감독</b>: 박찬욱 (Chan-wook Park)</li> <li><b>주연</b>: 이병헌 손예진</li> <li><b>출연</b>: 박희순 이성민 엄혜란 차승원 유연석 윤가이</li> </ul>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #555; font-size: 15px;&quot;>박찬욱 감독은 <i>올드보이</i>, <i>아가씨</i>, <i>헤어질 결심</i> 등 세계적으로 인정받는 작품들을 연출해온 거장으로, 이번 작품에서는 블랙코미디적 풍자와 사회적 메시지를 더욱 과감하게 녹여냈다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;305&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bvM7do/btsQoKFytW6/AAAAAAAAAAAAAAAAAAAAAOjmEciE6MyN8NVI3AdGrl-hRUlG30ALrFG5Y8nGETWI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=APvyGYq4KR8rTM2LXfAmjVUQmv4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bvM7do/btsQoKFytW6/AAAAAAAAAAAAAAAAAAAAAOjmEciE6MyN8NVI3AdGrl-hRUlG30ALrFG5Y8nGETWI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=APvyGYq4KR8rTM2LXfAmjVUQmv4%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '어쩔수가없다 해외 평론가들의 평가 후기',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>영화 어쩔수가없다 로튼토마토 해외 평론가 후기를 알아보도록 하겠습니다.</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Mattie Lucas - 평점 3/4</b><br>팬들은 이 사랑스러운 곰과 그의 가족과 함께하는 두 시간을 분명히 즐길 것이다.</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>다만 이번 모험은 이전 작품들이 보여준 높은 완성도에는 미치지 못하였다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Travis Hopson (Punch Drunk Critics)</b><br>“박찬욱은 충격적인 폭력과 블랙 유머를 effortlessly 섞어내며, 일자리를 잃은 남성에게 남성성이란 무엇인가를 탐구한다.” (평점: 4/5 | 2025-09-05)</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Rachel Ho (Exclaim!)</b><br/>“박 감독의 영화는 언제나 어둠 속에서도 유머를 찾았지만, <i>어쩔 수 없다</i>만큼 유머러스했던 적은 없었다.” (평점: 9/10 | 2025-09-05)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;720&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dcP59q/btsQmftDoVV/AAAAAAAAAAAAAAAAAAAAAKkDiTt8AuZ7cstCJPWdV7DTf46m6SSmzAaLIpYlCarI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VE%2BISF2M3ugZHJnteN3TjZXa4rk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dcP59q/btsQmftDoVV/AAAAAAAAAAAAAAAAAAAAAKkDiTt8AuZ7cstCJPWdV7DTf46m6SSmzAaLIpYlCarI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VE%2BISF2M3ugZHJnteN3TjZXa4rk%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Nicolas Rapold (Sight &amp; Sound, TOP CRITIC)</b><br/>“<i>어쩔 수 없다</i>는 이미 <i>헤어질 결심</i>에 필적할 평가를 얻고 있으며, 인간 경제학이 폭주하는 시대에 더욱 설득력 있는 이야기로 다가온다.” (2025-09-04)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Hoai-Tran Bui (Inverse)</b><br/>“박찬욱의 가장 유쾌한 영화이자 풍자극으로, 가진 자들이 모든 것을 잃어버릴 수 있는 허망함과 그것을 지키기 위해 발버둥치는 절박함을 경쾌하게 풀어낸다.” (2025-09-04)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Hannah Strong (Little White Lies, TOP CRITIC)</b><br/>“비극과 희극 사이의 긴장을 완벽히 표현해낸 이병헌의 연기는 마스터클래스라 할 만하다.” (2025-09-01)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;720&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/8zevb/btsQmasfw2d/AAAAAAAAAAAAAAAAAAAAAPG7bTza-ZbVHpqqX4CZJFJZ12EQ9OYAlRpTWMbzacq7/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Fj62tAfFsCvtaDrk0U%2FUZqBOKvA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/8zevb/btsQmasfw2d/AAAAAAAAAAAAAAAAAAAAAPG7bTza-ZbVHpqqX4CZJFJZ12EQ9OYAlRpTWMbzacq7/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Fj62tAfFsCvtaDrk0U%2FUZqBOKvA%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Stefania Sarrubba (The Skinny)</b><br/>“남성들이 가장의 역할에 매달리다 무너져가는 과정을 탐구한다. 만수의 도덕적 추락을 우아하게 그려내며, 결말은 여성들에게 맡겨진다.” (평점: 4/5 | 2025-09-01)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Serena Seghedoni (Loud and Clear Reviews)</b><br/>“이병헌은 최고의 연기를 선보이며, 인류애의 상실을 경고하는 블랙 코미디 스릴러를 완성한다.” (평점: 4/5 | 2025-08-31)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>James Mottram (Radio Times)</b><br/>“박찬욱 영화 중 가장 넓고 덜 미묘하지만 여전히 활기찬 여정을 선사한다.” (평점: 3/5 | 2025-08-30)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;852&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/zcoWz/btsQnGjDYmX/AAAAAAAAAAAAAAAAAAAAAH21BxSVXXWM7QOAQliqr9fksRbO9P6SnyeT_5QGwsJI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=V4Cat7c5OQ%2BLhjx3vo7J%2BvwlJPM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/zcoWz/btsQnGjDYmX/AAAAAAAAAAAAAAAAAAAAAH21BxSVXXWM7QOAQliqr9fksRbO9P6SnyeT_5QGwsJI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=V4Cat7c5OQ%2BLhjx3vo7J%2BvwlJPM%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Nicholas Barber (BBC.com, TOP CRITIC)</b><br/>“박찬욱의 가장 유머러스하면서도 가장 인간적인 영화. 폭력적이면서도 따뜻하다.” (평점: 5/5 | 2025-08-30)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Jordan Ruimy (World of Reel)</b><br/>“풍자극이자 폭력 스릴러, 가족 멜로드라마이자 희극. 영화는 스스로의 논리에 충실하다.” (평점: B | 2025-08-30)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>David Rooney (The Hollywood Reporter, TOP CRITIC)</b><br/>“완벽하진 않지만, ‘부족한 박찬욱 영화’조차 다른 감독들의 최고작보다 뛰어나다.” (2025-08-30)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;853&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bPetrw/btsQmhLMyhK/AAAAAAAAAAAAAAAAAAAAABTG4IzR8XjTQsNW9QL2Q2tt9LvSGjU3OFZF8U-CIq1p/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=14w%2B%2FlY4L7ha4EpFbO%2B2qM16erQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bPetrw/btsQmhLMyhK/AAAAAAAAAAAAAAAAAAAAABTG4IzR8XjTQsNW9QL2Q2tt9LvSGjU3OFZF8U-CIq1p/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=14w%2B%2FlY4L7ha4EpFbO%2B2qM16erQ%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>John Bleasdale (Time Out, TOP CRITIC)</b><br/>“짜장면보다 더 까만 유머로 빚어진 이 영화는 박찬욱의 마스터피스일지도 모른다.” (평점: 5/5 | 2025-08-30)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Adam Solomons (AwardsWatch)</b><br/>“전형적인 한국적 정서가 담겼다. 가족 해체에 대한 불안, 미국 패권에 대한 회의, 분단과 전쟁의 상처까지.” (평점: B+ | 2025-08-29)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Martin Tsai (Critic\'s Notebook)</b><br/>“코스타 가브라스와 달리 박찬욱은 주인공을 더 노동자 계급적으로 묘사했다. ‘오징어 게임’의 악역으로 뛰어난 이병헌을 택한 것도 탁월하다.” (2025-08-29)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;852&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/chhznM/btsQmrUN2DA/AAAAAAAAAAAAAAAAAAAAAMvRusMHg8fSc6z--HjEzhJioQoySqrsMd-CeU8Zc8w7/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pXZ%2F4TyR8yL55lQMZmDVRHgFRVk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/chhznM/btsQmrUN2DA/AAAAAAAAAAAAAAAAAAAAAMvRusMHg8fSc6z--HjEzhJioQoySqrsMd-CeU8Zc8w7/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pXZ%2F4TyR8yL55lQMZmDVRHgFRVk%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Dallas King (Flick Feast)</b><br/>“유머러스하면서도 따뜻하고 동시에 섬뜩하다. 박찬욱의 신작은 보지 않고는 못 배길 작품.” (평점: 4/5 | 2025-08-29)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Nicholas Bell (IONCINEMA.com)</b><br/>“AI에 의존하는 취업 시장 속에서 위험한 환상을 좇는 주인공을 그린 네오 누아르. 박찬욱의 노련한 이야기 전개가 돋보인다.” (평점: 4/5 | 2025-08-29)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Steve Pond (TheWrap, TOP CRITIC)</b><br/>“봉준호의 <i>기생충</i>만큼 사회 풍자와 폭력을 절묘하게 섞진 못했지만, 여전히 충분히 강렬하다.” (2025-08-29)</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Damon Wise (Deadline Hollywood Daily)</b><br/>“<i>어쩔 수 없다</i>는 봉준호의 <i>기생충</i>에 대한 박찬욱의 응답처럼 느껴지는 작품.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이병헌의 가장 놀라운 연기를 담았다.” (2025-08-29)</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section4',
+      text: '함께 보면 좋은 콘텐츠',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'ending',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

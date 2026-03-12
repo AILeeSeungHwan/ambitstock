@@ -1,0 +1,184 @@
+const post = {
+  id: 439,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>2022년 한국에서 최고의 인기를 끌며 백상예술대상을 수상한, <b><span style=&quot;background-color: #f3c000;&quot;>박은빈 주연 드라마 이상한 변호사 우영우 해외 반응 및 평점 리뷰</span></b>입니다. 총 16부작의 이상한 변호사 우영우는 2022년 06월 29일부터 2022년 08월 18일까지 ENA에서 방영하였고, 방영당시 넷플릭스에서 TV쇼 부문 비영어권 영어권 모두 1위를 차지하였습니다.</span></p><p><span style=&quot;color: #781b33;&quot;><b>이상한 변호사 우영우는 현재 넷플릭스에서 시청가능합니다.</b> </span></p><p><span style=&quot;color: #000000;&quot;>해외 반응과 평점리뷰 살펴보겠습니다.</span></p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post439_thumb.svg',
+      alt: '[해외 반응 평점 이상한 변호사 우영우 표절한 일본 드라마 논란] 박은빈 주연 OTT 넷플릭스 드라마 추천',
+      caption: '[해외 반응 평점 이상한 변호사 우영우 표절한 일본 드라마 논란] 박은빈 주연 OTT 넷플릭스 드라마 추천'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>넷플릭스 시리즈 선산 볼만할까?</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>해외 반응과 평점리뷰</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>넷플릭스 시리즈 살인자ㅇ난감</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>어떻게 읽어야 하는지 궁금하다면</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;356&quot; data-origin-width=&quot;945&quot;><span data-alt=&quot;로튼토마토 이상한 변호사 우영우&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/sejh6/btsEEFQW3LE/AAAAAAAAAAAAAAAAAAAAAOuN51E0sC-Du4eQNdtWjUo-nI3WkSbFlLCLzD5094HV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jCHr4EYp46Q%2BWOxJlNULskDbtFs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/sejh6/btsEEFQW3LE/AAAAAAAAAAAAAAAAAAAAAOuN51E0sC-Du4eQNdtWjUo-nI3WkSbFlLCLzD5094HV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jCHr4EYp46Q%2BWOxJlNULskDbtFs%3D&quot;></span><figcaption>로튼토마토 이상한 변호사 우영우</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가 평점 100%, 관객 평점 94%의 박은빈 주연 이상한 변호사 우영우(영어제목: Extraordinary Attorney Woo)입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>해외 평론가 평점과 리뷰 살펴보겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>Charles Hartford - But Why Tho? A Geek Community</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ <b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★</b></span></b> <b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★</b></span></b> <b>☆</b><span> </span></b></span></b></span><span style=&quot;color: #333333;&quot;><b>9.0/10.0</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>이상한 변호사 우영우 시즌 1은 매력적인 주연과 함께 멋지고, 진심 어린, 흥미로운 여정을 그린다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>Kristian M. Lin - Fort Worth Weekly</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>미국은 물론이고 어느 나라도 우 변호사 같은 드라마를 만든 적이 없다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>Jae-Ha Kim - Jae-Ha Kim</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★<span> </span><b>☆</b><span> </span></b></span></b></span><span style=&quot;color: #333333;&quot;><b>3.5/4.0</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>스토리라인도 탄탄했고, 배우들의 연기도 캐릭터에 생기를 불어넣는 역할을 훌륭하게 해냈습니다. 박은빈은 자폐증 변호사를 파격적으로 연기해 호평을 받았다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>Hannah Brown - Jerusalem Post</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>이 작품의 작가들은 이번 에피소드와 나머지 시즌 동안 받을 모든 상을 받을 자격이 있습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>Patricio - Féminis Clarín</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>연역적 논리, 감정, 유머, 법적 절차 및 도덕적 딜레마를 결합하여 시청자들을 사로잡습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>Polly Conway - Common Sense Media</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ <b><span style=&quot;color: #f3c000;&quot;><b>★</b></span></b><span> </span><b>☆</b><span> </span></b></span></b></span><span style=&quot;color: #333333;&quot;><b>4.0/5.0</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>이 매력적인 한국 시리즈는 10대와 20대를 위한 법정 드라마를 소개하는 훌륭한 작품입니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>TOP CRITIC</span></b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>Brad Newsome - </span><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>Sydney Morning Herald</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>엔터적 요소의 드라마에서 기대하지 못할 기쁨을 줍니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;541&quot; data-origin-width=&quot;1264&quot;><span data-alt=&quot;IMDB 이상한 변호사 우영우&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bwyEWk/btsED20djws/AAAAAAAAAAAAAAAAAAAAAAgfxS8q8o8YYwJjVePKuxzPr4VQU4GpOfrN_vLcFJ3V/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q8Ljw%2Fv8aBlb5lSAZQyDn0AVcn0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bwyEWk/btsED20djws/AAAAAAAAAAAAAAAAAAAAAAgfxS8q8o8YYwJjVePKuxzPr4VQU4GpOfrN_vLcFJ3V/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q8Ljw%2Fv8aBlb5lSAZQyDn0AVcn0%3D&quot;></span><figcaption>IMDB 이상한 변호사 우영우</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>평점 8.6/10</span></b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>IMDB 탑건: 매버릭 평점입니다. 2022년 공개된 작품이나, 여전히 IMDB 인기도 순위 85위에 올라있습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>아래 데이터를 통해 탑건: 매버릭의 평점분포 알아보겠습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;616&quot; data-origin-width=&quot;848&quot;><span data-alt=&quot;IMDB 이상한 변호사 우영우&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/oCY2P/btsED5CwaQu/AAAAAAAAAAAAAAAAAAAAAD6moz7XAsnoMUjHHLRVz_0spWfLIqNOwEoOfXACXUgM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=l3Re3cuiycv6ruR%2B7ftvPnDcG6A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/oCY2P/btsED5CwaQu/AAAAAAAAAAAAAAAAAAAAAD6moz7XAsnoMUjHHLRVz_0spWfLIqNOwEoOfXACXUgM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=l3Re3cuiycv6ruR%2B7ftvPnDcG6A%3D&quot;></span><figcaption>IMDB 이상한 변호사 우영우</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>데이터 표본은 미국, 영국, 인도, 브라질, 캐나다 순입니다. </span><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>데이터 총표본수는 2만 5천 이상입니다. 10점대 평점이 주를 이루며 대부분의 해외 시청자들에게 좋은 평가를 받은 것으로 나타납니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #f3c000; color: #000000;&quot;>현재 일본에서 방영 중인 NTV \'주방의 아리스\'가 우영우 캐릭터의 콘셉트 및 배경설정과 줄거리를 표절하였다는 논란이 있습니다.</span></b>  ‘주방의 아리스’는 자폐 스펙트럼을 가진 천재요리사 아리스가 요리를 통해 주변이들의 마음을 치유해 주는 이야기를 그렸습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>우영우와 마찬가지로 홀아버지 밑에서 성장하였다는 주인공의 배경, 장애를 가졌지만 뛰어난 업무수행력을 지닌 여성, 동료 코세이와 연인관계로 발전하는 점, 괴롭힘을 당할 때 도와주는 친구 미츠자와 카즈사, 주인공의 과거를 아는 제약회사 CEO 딸 고죠 마키코의 등장 등, ‘이상한 변호사 우영우’와 유사한 점들이 많다는 점이 표절논란의 중심에 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이상한 변호사 우영우의 제작사 에이스토리 측은 방송을 좀 더 지켜보겠다는 신중한 입장을 내놓았습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\'; color: #000000;&quot;><b>2024년 개봉 예정작 영화 추천입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>영화 파묘 개봉일 확정!</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>24년 2월 22일 개봉 전 살펴보기</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>영화 조커 2: 폴리 아 되 개봉정보</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>그리고 조커 1 해외 반응</b> </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>영화 미키 17 개봉정보와</b></span></p>'
+    },
+    {
+      type: 'ending',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>봉준호 감독 </b><b>기생충 해외 반응</b></span></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

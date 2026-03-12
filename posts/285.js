@@ -1,0 +1,139 @@
+const post = {
+  id: 285,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC%EC%95%84%EB%90%98-%EC%98%88%EB%A7%A4-%ED%95%A0%EC%A7%80-%EB%A7%90%EC%A7%80-%EC%A0%95%ED%95%B4%EB%93%9C%EB%A6%BC-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%85%B8-%EC%8A%A4%ED%8F%AC-%EB%A6%AC%EB%B7%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
+    },
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 슈퍼/맨: 더 크리스토퍼 리브 스토리 (영어제목 : Super/Man: The Christopher Reeve Story) 평론가 시사회 후기 반응입니다.</b></span></p><p>아직 개봉 전 작품이지만 시사회를 다녀온 평론가들의 평점과 후기가 공개되었습니다.</p><p>로튼토마토 평론가들의 평점과 후기를 한국어로 의역하여 전달해 드리도록 하겠습니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post285_thumb.svg',
+      alt: '슈퍼/맨: 더 크리스토퍼 리브 스토리 개봉 해외 평론가 시사회 후기반응',
+      caption: '슈퍼/맨: 더 크리스토퍼 리브 스토리 개봉 해외 평론가 시사회 후기반응'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>시사회 후기 리뷰 살펴보겠습니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Sheraz Farooqi (CinemaDebate) 평점: 4/5</b><br>크리스토퍼 리브의 삶을 헌사한 강력한 다큐멘터리였다. 슈퍼맨으로서의 그의 여정과 척수 손상 치료 연구를 위한 그의 투쟁을 아름답고도 균형 있게 다루었다. </br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Rachel Leishman (The Mary Sue) 평점: 5/5</b><br/>이 작품은 리브가 누구였는지를 몰랐던 이들에게는 그가 누구인지에 대한 다큐멘터리 정도겠지만, 나에게는 그가 우리와 마찬가지로 인간이었지만 비범한 일을 해냈음을 상기시켜 주었다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1236&quot; data-origin-width=&quot;2480&quot;><span data-alt=&quot;슈퍼맨 크리스토퍼 리브 스토리 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/QAOBl/btsJEObldmp/AAAAAAAAAAAAAAAAAAAAALjkcEjQ_YDEm6cR8AYWV8jVJiZkWLU9VhZOtZBSG-xJ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=55z5TmZFcVaw3bC%2BbQ8l9qniVE4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/QAOBl/btsJEObldmp/AAAAAAAAAAAAAAAAAAAAALjkcEjQ_YDEm6cR8AYWV8jVJiZkWLU9VhZOtZBSG-xJ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=55z5TmZFcVaw3bC%2BbQ8l9qniVE4%3D&quot;></span><figcaption>슈퍼맨 크리스토퍼 리브 스토리 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Mark Johnson (Awards Daily)</b><br/>이 영화는 영웅이란 무엇인가에 대해 탐구하였다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>리브에게 영웅은 압도적인 장애물에도 불구하고 강인함을 찾는 사람이었다. 나에게는 그것이 바로 크리스토퍼 리브였다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1236&quot; data-origin-width=&quot;2480&quot;><span data-alt=&quot;슈퍼맨 크리스토퍼 리브 스토리 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/d06gOb/btsJGjuAW0Q/AAAAAAAAAAAAAAAAAAAAADfjhNiRsQHlSvtylUuAtSLe-qPFLPXCESYGjbpxwGG1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pIh53VPGMeASCNv2DgdX32EFbFc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/d06gOb/btsJGjuAW0Q/AAAAAAAAAAAAAAAAAAAAADfjhNiRsQHlSvtylUuAtSLe-qPFLPXCESYGjbpxwGG1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pIh53VPGMeASCNv2DgdX32EFbFc%3D&quot;></span><figcaption>슈퍼맨 크리스토퍼 리브 스토리 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Christopher Llewellyn Reed (Film Festival Today) 평점: 5/5</b><br/>최고의 슈퍼히어로는 자신의 연약함과 두려움에도 불구하고 여전히 용감할 수 있는 사람이라 하였다. 이 다큐멘터리에서 만나는 영웅들은 모두 불사신은 아니었지만, 모두 용감하였다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1236&quot; data-origin-width=&quot;2480&quot;><span data-alt=&quot;슈퍼맨 크리스토퍼 리브 스토리 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cb4M4o/btsJFqVkx9i/AAAAAAAAAAAAAAAAAAAAAB3CXD3om3QjXmuHaqSUlA01Dwn6r8q5d3X6RukhSKhS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2uSHknG4ndRYHaLfmlixECE6lWo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cb4M4o/btsJFqVkx9i/AAAAAAAAAAAAAAAAAAAAAB3CXD3om3QjXmuHaqSUlA01Dwn6r8q5d3X6RukhSKhS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2uSHknG4ndRYHaLfmlixECE6lWo%3D&quot;></span><figcaption>슈퍼맨 크리스토퍼 리브 스토리 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Alex Papaioannou (InSession Film) 평점: A</b><br/>크리스토퍼 리브는 슈퍼히어로의 본질을 완벽하게 구현한 인물이었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이 다큐멘터리는 그의 천부적인 카리스마와 도덕적 나침반을 제대로 담아냈다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1236&quot; data-origin-width=&quot;2480&quot;><span data-alt=&quot;슈퍼맨 크리스토퍼 리브 스토리 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/clY3M5/btsJEUCxqg1/AAAAAAAAAAAAAAAAAAAAAJaBBbcLKf6u9NEXSYzoQum8fqW3L0cLW04HEac3-tID/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kfMnkeu2sOJju36FaByuwqi09yE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/clY3M5/btsJEUCxqg1/AAAAAAAAAAAAAAAAAAAAAJaBBbcLKf6u9NEXSYzoQum8fqW3L0cLW04HEac3-tID/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kfMnkeu2sOJju36FaByuwqi09yE%3D&quot;></span><figcaption>슈퍼맨 크리스토퍼 리브 스토리 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Steven Prokopy (Third Coast Review) 평점: 3.5/4</b><br/>크리스토퍼 리브는 슈퍼맨을 연기한 것에 대해 부끄러워하지 않았고, 그를 넘어 장애인 인권 운동가 및 줄기세포 연구의 초기 옹호자로 알려지기를 원했다고 묘사하였다. 이 다큐멘터리는 리브의 더 넓은 인생을 균형 있게 담아냈다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1554&quot; data-origin-width=&quot;1042&quot;><span data-alt=&quot;슈퍼맨 크리스토퍼 리브 스토리 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bhrXlm/btsJGhcuZ0u/AAAAAAAAAAAAAAAAAAAAALUkWWPkpa2jBwAiFp5I4Nx2a3FVoSJMMkE12zMt-iCs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Kq83%2FoNBm7%2BXTUBBPUFxIVZHmv4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bhrXlm/btsJGhcuZ0u/AAAAAAAAAAAAAAAAAAAAALUkWWPkpa2jBwAiFp5I4Nx2a3FVoSJMMkE12zMt-iCs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Kq83%2FoNBm7%2BXTUBBPUFxIVZHmv4%3D&quot;></span><figcaption>슈퍼맨 크리스토퍼 리브 스토리 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Dennis Schwartz (Dennis Schwartz Movie Reviews) 평점: A-</b><br/>솔직하게 만들어진 다큐멘터리로, 잘 제작되고 설득력 있는 작품이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1236&quot; data-origin-width=&quot;2480&quot;><span data-alt=&quot;슈퍼맨 크리스토퍼 리브 스토리 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bYm6jQ/btsJF6950Ew/AAAAAAAAAAAAAAAAAAAAAHuaQtNzG85ooM_FzvB8q3CkKFGeh3l6Be_OnglemfVx/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XhuR%2BDGrE6RkEsDSp5nFTtCQpO4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bYm6jQ/btsJF6950Ew/AAAAAAAAAAAAAAAAAAAAAHuaQtNzG85ooM_FzvB8q3CkKFGeh3l6Be_OnglemfVx/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XhuR%2BDGrE6RkEsDSp5nFTtCQpO4%3D&quot;></span><figcaption>슈퍼맨 크리스토퍼 리브 스토리 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Cody Dericks (Next Best Picture) 평점: 7/10</b><br/>감독들이 리브의 삶의 여러 방면을 명확한 이야기로 엮어내는 데 성공했다. 지상적인 내용이었지만, 감동적인 음악과 인상적인 우주적 애니메이션 덕분에 주제적으로는 하늘로 날아오르는 듯한 느낌을 주었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1554&quot; data-origin-width=&quot;1572&quot;><span data-alt=&quot;슈퍼맨 크리스토퍼 리브 스토리 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bzDMca/btsJEU3Cgio/AAAAAAAAAAAAAAAAAAAAAMKNViV7xbm9M0uqJHGMMLAi7gzWHLO3hPoIn79XqNqH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=5sw8v36teI05EEVppBgNpcoHmhM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bzDMca/btsJEU3Cgio/AAAAAAAAAAAAAAAAAAAAAMKNViV7xbm9M0uqJHGMMLAi7gzWHLO3hPoIn79XqNqH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=5sw8v36teI05EEVppBgNpcoHmhM%3D&quot;></span><figcaption>슈퍼맨 크리스토퍼 리브 스토리 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Ed Gibbs (Time Out) 평점: 4/5</b><br/>이 영화가 특히 잘 해낸 것은 무엇보다도 \'강철의 사나이\'를 하나의 가정적인 인물로 그려냈다는 점이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>리브는 재능 있고 열정적인 배우이자, 아버지와 남편으로서 올바른 일을 하려 했고, 결국 해냈다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1554&quot; data-origin-width=&quot;1572&quot;><span data-alt=&quot;슈퍼맨 크리스토퍼 리브 스토리 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b4ohE5/btsJGi3weR6/AAAAAAAAAAAAAAAAAAAAALrqoDUYbPI2Ha_WN5nsrdyV8GnzayhNqBMief5jIpcu/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qfIMl5kBRLwnekIG9%2Fhbheho8Wo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b4ohE5/btsJGi3weR6/AAAAAAAAAAAAAAAAAAAAALrqoDUYbPI2Ha_WN5nsrdyV8GnzayhNqBMief5jIpcu/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qfIMl5kBRLwnekIG9%2Fhbheho8Wo%3D&quot;></span><figcaption>슈퍼맨 크리스토퍼 리브 스토리 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Dan Mecca (The Film Stage) 평점: B</b><br/>영화가 다소 직선적이고 감성적으로 조작된 부분이 있을 수 있지만, 리브의 긍정적인 이미지와 그가 설립한 재단 덕분에 이 작품을 좋아하지 않기란 어려웠다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이상으로 슈퍼맨 크리스토프 리브 이야기 평론가 시사회 후기 마칩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>원하시는 콘텐츠나 영화 후기가 있으시면 댓글로 남겨주세요.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>감사합니다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

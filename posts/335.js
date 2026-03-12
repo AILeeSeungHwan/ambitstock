@@ -1,0 +1,68 @@
+const post = {
+  id: 335,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시리즈 \'아무도 없는 숲속에서\'가 24년 8월 23일 공개됩니다.</b></span></p><p>시사회를 통해 1화부터 4화까지 이미 시청한 관객분들과 평론가들의 후기 추천평을 전해드리겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1114&quot; data-origin-width=&quot;754&quot;><span data-alt=&quot;넷플릭스 시리즈 추천 아무도 없는 숲속에서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/n8frW/btsJeBPhqNg/AAAAAAAAAAAAAAAAAAAAAKQlNFfyp_YJWj6lfguBnpjiBquI0xrGYZy0flQK38Sn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pfGxDgH%2Bm3EOe72mh4%2BpY30vq8M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/n8frW/btsJeBPhqNg/AAAAAAAAAAAAAAAAAAAAAKQlNFfyp_YJWj6lfguBnpjiBquI0xrGYZy0flQK38Sn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pfGxDgH%2Bm3EOe72mh4%2BpY30vq8M%3D&quot;></span><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post335_thumb.svg',
+      alt: '넷플릭스 시리즈 추천 아무도 없는 숲속에서 평론가 후기 추천평가',
+      caption: '넷플릭스 시리즈 추천 아무도 없는 숲속에서 평론가 후기 추천평가'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p>넷플릭스 시리즈 <b>&lt;아무도 없는 숲속에서&gt;</b>는 한적하고 평화로웠던 숲 속의 펜션에 예기치 않게 찾아온 미스터리한 인물로 인해 일상이 무너지고, 사건이 발생하는 이야기를 그린 서스펜스 스릴러입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>8부작으로 구성되어 있으며, 모완일 감독이 연출을 맡았습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>김윤석이 17년 만에 드라마에 복귀하며 펜션 주인 ‘영하’ 역을 맡았고, 고민시는 의문의 젊은 여성 ‘성아’로 출연합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>윤계상과 이정은도 주요 배역으로 등장해 긴장감 넘치는 이야기를 전개해 나갑니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>넷플릭스 시리즈 아무도 없는 숲속에서 평론가 추천평을 전해드립니다.</b><b></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;742&quot; data-origin-width=&quot;754&quot;><span data-alt=&quot;넷플릭스 시리즈 추천 아무도 없는 숲속에서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/mdW6s/btsJdGw4RsC/AAAAAAAAAAAAAAAAAAAAAM3kNQLiTrgGnszhz7gZSoee7uh375pq-We8WZ7-cguZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nRb25A2ingYKXZ6GPzg%2BFAv3Rx8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/mdW6s/btsJdGw4RsC/AAAAAAAAAAAAAAAAAAAAAM3kNQLiTrgGnszhz7gZSoee7uh375pq-We8WZ7-cguZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nRb25A2ingYKXZ6GPzg%2BFAv3Rx8%3D&quot;></span><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>이동진 평론가의 추천작품은 실패하지 않기 때문에</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;>꼭 시청해야할 이유를 제공합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;742&quot; data-origin-width=&quot;754&quot;><span data-alt=&quot;넷플릭스 시리즈 추천 아무도 없는 숲속에서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cdmlZL/btsJd6vxxEX/AAAAAAAAAAAAAAAAAAAAAIQ4BZ290Wj2quqU3XFFknerlSnjcmUG3H3Eirh-9Y5T/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ovsDRQU2CbSYGeREkfGayoxmP%2BQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cdmlZL/btsJd6vxxEX/AAAAAAAAAAAAAAAAAAAAAIQ4BZ290Wj2quqU3XFFknerlSnjcmUG3H3Eirh-9Y5T/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ovsDRQU2CbSYGeREkfGayoxmP%2BQ%3D&quot;></span><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;742&quot; data-origin-width=&quot;754&quot;><span data-alt=&quot;넷플릭스 시리즈 추천 아무도 없는 숲속에서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/s6DHF/btsJeOVcPVU/AAAAAAAAAAAAAAAAAAAAAPjRB90XUfIpbUhQKnVXdXboC1TpACI0udJLISQm4oQS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4%2FPmkKYS%2FpfRUPxGEJAVf5v%2Fowc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/s6DHF/btsJeOVcPVU/AAAAAAAAAAAAAAAAAAAAAPjRB90XUfIpbUhQKnVXdXboC1TpACI0udJLISQm4oQS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4%2FPmkKYS%2FpfRUPxGEJAVf5v%2Fowc%3D&quot;></span><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;742&quot; data-origin-width=&quot;754&quot;><span data-alt=&quot;넷플릭스 시리즈 추천 아무도 없는 숲속에서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lm93W/btsJdbj1LVI/AAAAAAAAAAAAAAAAAAAAAHyuUNizGirI8BrwrFrYpIzFzn358_-fZJcYW7Ivo-tS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LKRkOpL9DkRrCbtB%2BH%2FnFM6d0GY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lm93W/btsJdbj1LVI/AAAAAAAAAAAAAAAAAAAAAHyuUNizGirI8BrwrFrYpIzFzn358_-fZJcYW7Ivo-tS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LKRkOpL9DkRrCbtB%2BH%2FnFM6d0GY%3D&quot;></span><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
+    },
+    {
+      type: 'ending',
+      html: '<p>아무도 없는 숲속에서 해외 평점과 후기반응, 평론가 평점 포스팅으로 돌아오겠습니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

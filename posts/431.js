@@ -1,0 +1,157 @@
+const post = {
+  id: 431,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>\'Hierarchy\'는 2024년 6월 7일 넷플릭스에서 첫 공개된 오리지널 드라마로, 총 7부작으로 이루어져 있습니다. 상위 0.01%의 엘리트들이 모여있는 고등학교를 배경으로 벌어지는 복수와 로맨스를 다루고 있습니다.</span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>드라마 제목 <b><span style=&quot;background-color: #f3c000;&quot;>\'하이라키\' (Hierarchy)의 뜻</span></b>은 조직이나 집단 내 계층적인 구조를 의미합니다. 이 제목은 드라마에서 상위 엘리트들 사이의 복잡한 관계와 권력 구조를 상징적으로 나타내고 있습니다.</span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>드라마 \'하이라키\'는 비밀을 품은 전학생 정재이가 엘리트 고등학교에 입학하면서 그들 사이에 균열이 생기고 벌어지는 이야기를 담고 있습니다. 소수가 질서이자 법으로 군림하는 주신고에 입학한 정재이가 중심이 되어, 엘리트들의 비밀과 복수가 얽힌 이야기를 풀어냅니다. </span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>그렇다면 현재 넷플릭스 한국 순위 1위, 전체 순위 6위, 비영어권 순위 2위의 드라마 하이라키 해외 반응 살펴보도록 하겠습니다.</span></p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post431_thumb.svg',
+      alt: '[드라마 하이라키 뜻 해외 평점 반응과 리뷰] 넷플릭스 순위권 시리즈 추천',
+      caption: '[드라마 하이라키 뜻 해외 평점 반응과 리뷰] 넷플릭스 순위권 시리즈 추천'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: 'IMDb 리뷰',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000; background-color: #ffffff;&quot;><b>IMDb 평점: 7.5/10</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote style=&quot;background-color: #fcfcfc; text-align: left;&quot;> <ul style=&quot;list-style-type: circle;&quot;> <ul style=&quot;list-style-type: circle;&quot;> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;> <b>Erik Davis, Fandango</b>: <span style=&quot;color: #ffd700;&quot;>★★★★☆</span> <br>&quot;훌륭한 연기와 흥미진진한 스토리라인으로 시청자들을 사로잡는다.&quot; <br><br/></br></br></span></li> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;> <b>Simon Thompson, Forbes</b>: <span style=&quot;color: #ffd700;&quot;>★★★☆☆</span> <br/>&quot;엘리트 고등학교의 복잡한 인간 관계를 잘 그려냈다.&quot; <br/><br/></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #456771;&quot;><span style=&quot;color: #456771;&quot;> <b>Therese Lacson, Collider</b>: <span style=&quot;color: #ffd700;&quot;>★★★☆☆</span> <br/>&quot;스토리가 다소 예상 가능하지만, 캐릭터들이 이를 충분히 보완한다.&quot;<br/></span></span><span style=&quot;color: #456771;&quot;><br/></span></span></li> </ul> </ul> <figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;579&quot; data-origin-width=&quot;857&quot;><span data-alt=&quot;넷플릭스 드라마 하이라키&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cixmKk/btsH1hrlOtQ/AAAAAAAAAAAAAAAAAAAAAFKjJijXhUsOZ8J4_1M-ZrUVlOAAeCjls5QigtXRZBaQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Fhcb2VpaAFP4DZW5WSRhc0dX%2BEs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cixmKk/btsH1hrlOtQ/AAAAAAAAAAAAAAAAAAAAAFKjJijXhUsOZ8J4_1M-ZrUVlOAAeCjls5QigtXRZBaQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Fhcb2VpaAFP4DZW5WSRhc0dX%2BEs%3D&quot;></span><figcaption>넷플릭스 드라마 하이라키</figcaption> </figure> <p><br/><br/></p> <ul style=&quot;list-style-type: circle;&quot;> <ul style=&quot;list-style-type: circle;&quot;> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;> <b>John Nguyen, Nerd Reactor</b>: <span style=&quot;color: #ffd700;&quot;>★★★★☆</span> <br/>&quot;화려한 비주얼과 함께 전개되는 드라마틱한 이야기.&quot; <br/><br/></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #456771;&quot;><span style=&quot;color: #456771;&quot;> <b>David Crow, Den of Geek</b>: <span style=&quot;color: #ffd700;&quot;>★★★★☆</span> <br/>&quot;학생들 사이의 권력 다툼이 현실감 있게 그려졌다.&quot; <br/></span></span><span style=&quot;color: #456771;&quot;><br/></span></span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #456771;&quot;><span style=&quot;color: #456771;&quot;> <b>Isaki, AsianWiki</b>: <span style=&quot;color: #ffd700;&quot;>★★☆☆☆<br/></span> &quot;너무 예측 가능하고, 캐릭터들이 부족하다.&quot;<br/><br/></span></span><span style=&quot;color: #456771;&quot;><br/></span></span></li> </ul> </ul> <figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;576&quot; data-origin-width=&quot;864&quot;><span data-alt=&quot;넷플릭스 드라마 하이라키&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cwxVbD/btsH0iEMSas/AAAAAAAAAAAAAAAAAAAAACKIUk27v9O5mwNqYW32N9Xb9lenRjcbFSEIe_dTaQPH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=BEFXn4cUfQy%2FR0ORu5FwrNioISU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cwxVbD/btsH0iEMSas/AAAAAAAAAAAAAAAAAAAAACKIUk27v9O5mwNqYW32N9Xb9lenRjcbFSEIe_dTaQPH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=BEFXn4cUfQy%2FR0ORu5FwrNioISU%3D&quot;></span><figcaption>넷플릭스 드라마 하이라키</figcaption> </figure> <p><br/><br/></p> <ul style=&quot;list-style-type: circle;&quot;> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;> <b>Hari_yike, AsianWiki</b>: <span style=&quot;color: #ffd700;&quot;>★☆☆☆☆</span> <br/>&quot;과대평가된 작품, 1화부터 끊어버렸다.&quot; <br/><br/></span></li> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;> <b>Anie, AsianWiki</b>: <span style=&quot;color: #ffd700;&quot;>★★★☆☆</span> <br/>&quot;전반적으로 혼란스럽고, 각 인물의 목적이 모호하다.&quot; <br/><br/></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;> <b>Ema, AsianWiki</b>: <span style=&quot;color: #ffd700;&quot;>★★☆☆☆</span> <br/>&quot;주인공들의 연기가 냉담하고 몰입할 수 없었다.&quot; <br/><br/></span></li> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;> <b>Hyewon, AsianWiki</b>: <span style=&quot;color: #ffd700;&quot;>★★★☆☆</span> <br/>&quot;부유한 아이들처럼 보이지 않는다.&quot; <br/><br/><br/></span></li> </ul> <figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;574&quot; data-origin-width=&quot;864&quot;><span data-alt=&quot;넷플릭스 드라마 하이라키&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dIOcze/btsHZ7jbseM/AAAAAAAAAAAAAAAAAAAAAJdXQx7mMJIo5Rfqk1VRj9rmXktvME__HZo3qKbktq5J/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oDqnysg1hf3Tnalb99PMo24aX7U%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dIOcze/btsHZ7jbseM/AAAAAAAAAAAAAAAAAAAAAJdXQx7mMJIo5Rfqk1VRj9rmXktvME__HZo3qKbktq5J/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oDqnysg1hf3Tnalb99PMo24aX7U%3D&quot;></span><figcaption>넷플릭스 드라마 하이라키</figcaption> </figure> </blockquote>'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: 'IMDb 리뷰 통계',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; background-color: #ffffff;&quot;><b><span style=&quot;color: #000000;&quot;> 총 리뷰 개수: 20개 </span></b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote style=&quot;background-color: #fcfcfc; text-align: left;&quot;> <ul style=&quot;list-style-type: disc;&quot;> <ul style=&quot;list-style-type: disc;&quot;> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;>긍정 리뷰: 8개, 평균 평점: 7.75/10</span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;>부정 리뷰: 8개, 평균 평점: 4.0/10</span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;>중립 리뷰: 4개, 평균 평점: 5.0/10</span></li> </ul> </ul> </blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #000000;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>드라마 하이라키의 총 리뷰 수는 20개 이며, 각 리뷰들의 감정분석 결과 긍정 8개, 부정 8개, 중립 4개의 리뷰를 기록하고 있습니다. 전체적으로 좋은 평은 아니며, 호불호가 극명하게 갈리는 모습입니다.</span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '주요 등장인물 및 배우',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>정재이 (Jung Jae-i)</b><b></b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;530&quot; data-origin-width=&quot;790&quot;><span data-alt=&quot;넷플릭스 드라마 하이라키 정재이&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/GB39p/btsHZJQuZby/AAAAAAAAAAAAAAAAAAAAACR0tnufU07jdmwN5tHUsggGMLt_Nr7daXn-ntFUZ7CB/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OCIBoE%2FoVwxNDq2RizAlE%2BKULhk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/GB39p/btsHZJQuZby/AAAAAAAAAAAAAAAAAAAAACR0tnufU07jdmwN5tHUsggGMLt_Nr7daXn-ntFUZ7CB/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OCIBoE%2FoVwxNDq2RizAlE%2BKULhk%3D&quot;></span><figcaption>넷플릭스 드라마 하이라키 정재이</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>배우</b>: 노정의 (Roh Jeong-eui)</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b>: 학교에서 가장 인기 있는 소녀로, 주신고등학교에서 상위 계층을 대표합니다. 아름답고 똑똑하며, 뛰어난 리더십으로 많은 학생들에게 존경받고 있습니다.</span></li> </ul>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>김리안 (Kim Ri-an)</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;530&quot; data-origin-width=&quot;796&quot;><span data-alt=&quot;넷플릭스 드라마 하이라키 김리안&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bSWqXZ/btsH0195p0O/AAAAAAAAAAAAAAAAAAAAAD_svVx6EgX5Xff-hJeM0LKIAi-kxtpb36cGpU_YOtt-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2%2Fkucij0%2FfLOXGwvSB%2BlQ%2FK6bvk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bSWqXZ/btsH0195p0O/AAAAAAAAAAAAAAAAAAAAAD_svVx6EgX5Xff-hJeM0LKIAi-kxtpb36cGpU_YOtt-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2%2Fkucij0%2FfLOXGwvSB%2BlQ%2FK6bvk%3D&quot;></span><figcaption>넷플릭스 드라마 하이라키 김리안</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>배우</b>: 김재원 (Kim Jae-won)</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b>: 주신고등학교의 \'왕\'으로 불리며, 강한 카리스마와 리더십을 지닌 인물입니다. 그의 권력은 학교 내에서 절대적이며, 많은 학생들이 그를 따릅니다.<b></b></span></li> </ul>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>윤헤라 (Yun He-ra)</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;530&quot; data-origin-width=&quot;795&quot;><span data-alt=&quot;넷플릭스 드라마 하이라키 윤헤라&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/FEuaH/btsH0XzZ6gj/AAAAAAAAAAAAAAAAAAAAAGDRuzuZDdEFU7UDyouCUh6leq2yZPKCpQw9cuYbZWwp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=W9D7sbbwfmaXqZOwZZJAbT75XZ8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/FEuaH/btsH0XzZ6gj/AAAAAAAAAAAAAAAAAAAAAGDRuzuZDdEFU7UDyouCUh6leq2yZPKCpQw9cuYbZWwp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=W9D7sbbwfmaXqZOwZZJAbT75XZ8%3D&quot;></span><figcaption>넷플릭스 드라마 하이라키 윤헤라</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>배우</b>: 지혜원 (Ji Hye-won)</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b>: 학교 내에서 \'여왕\'으로 불리며, 재이와 함께 상위 계층을 이루고 있습니다. 그녀는 냉정하고 계산적인 성격으로, 항상 자신의 이익을 최우선으로 생각합니다.<b></b></span></li> </ul>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>이우진 (Lee U-jin)</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;526&quot; data-origin-width=&quot;792&quot;><span data-alt=&quot;넷플릭스 드라마 하이라키 이우진&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cf3rdz/btsH1DHF5pJ/AAAAAAAAAAAAAAAAAAAAAK4pLO-Q7BhepLIKIo7QP14rmqppsGt_blqwvFSdsOqm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FapxJArs720B8fXRk8ETnLdTWTU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cf3rdz/btsH1DHF5pJ/AAAAAAAAAAAAAAAAAAAAAK4pLO-Q7BhepLIKIo7QP14rmqppsGt_blqwvFSdsOqm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FapxJArs720B8fXRk8ETnLdTWTU%3D&quot;></span><figcaption>넷플릭스 드라마 하이라키 이우진</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>배우</b>: 이원정 (Lee Won-jung)</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b>: 신비로운 전학생으로, 그의 등장으로 인해 학교 내 질서에 균열이 생깁니다. 우진의 배경은 잘 알려져 있지 않지만, 그의 행동은 많은 학생들의 관심을 끌고 있습니다.<b></b></span></li> </ul>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>강하 (Kang Ha)</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;527&quot; data-origin-width=&quot;788&quot;><span data-alt=&quot;넥플릭스 드라마 하이라키 강하&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ZE8q7/btsH02OHFUh/AAAAAAAAAAAAAAAAAAAAANqwl5skfSE-FSANAYsw4ge52KPFuoAh2cmYw8WHOGqU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tf2JBJRIu9h%2BidfS75%2FFadpnHuM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ZE8q7/btsH02OHFUh/AAAAAAAAAAAAAAAAAAAAANqwl5skfSE-FSANAYsw4ge52KPFuoAh2cmYw8WHOGqU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tf2JBJRIu9h%2BidfS75%2FFadpnHuM%3D&quot;></span><figcaption>넥플릭스 드라마 하이라키 강하</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>배우</b>: 이채민 (Lee Chae-min)</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b>: 중산층 가정에서 전학 온 학생으로, 엘리트 학생들 사이에서 자신의 자리를 찾기 위해 노력합니다. 그의 등장으로 인해 학교 내 여러 갈등이 발생합니다.</span></li> </ul>'
+    },
+    {
+      type: 'body',
+      html: '<h3>제작 정보</h3>'
+    },
+    {
+      type: 'body',
+      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독</b>: 배현진 (Bae Hyeon-jin)</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>작가</b>: 추혜미 (Chu Hye-mi)</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>개봉일</b>: 2024년 6월 7일</span></li> </ul>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section4',
+      text: '넷플릭스 시리즈 추천',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;120&quot; data-origin-width=&quot;647&quot;><a href=&quot;https://ambitstock.com/33&quot; target=&quot;&quot; title=&quot;넷플릭스 선산&quot;></a><figcaption>넷플릭스 선산</figcaption> </figure> <figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;119&quot; data-origin-width=&quot;647&quot;><a href=&quot;https://ambitstock.com/32&quot; target=&quot;&quot; title=&quot;살인자난감&quot;></a><figcaption>넷플릭스 살인자난감</figcaption> </figure> </p>'
+    },
+    {
+      type: 'h2',
+      id: 'section5',
+      text: '2024년 개봉 예정작 추천',
+      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;121&quot; data-origin-width=&quot;649&quot;><a href=&quot;https://ambitstock.com/12&quot; target=&quot;&quot; title=&quot;영화 조커2&quot;></a><figcaption>영화 조커2 개봉정보 및 조커1 홰외 반응</figcaption> </figure> <figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;118&quot; data-origin-width=&quot;652&quot;><a href=&quot;https://ambitstock.com/9&quot; target=&quot;&quot; title=&quot;영화 미키17 정보 및 기생충 해외반응&quot;></a><figcaption>영화 미키17 정보 및 기생충 해외반응</figcaption> </figure> </p>'
+    },
+    {
+      type: 'h2',
+      id: 'section6',
+      text: '출처',
+      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
+    },
+    {
+      type: 'ending',
+      html: '<ul style=&quot;list-style-type: disc; color: #333333; text-align: start;&quot;> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;https://www.imdb.com/title/tt1396484/&quot; style=&quot;color: #456771;&quot;>IMDb</a>: 하이라키 드라마 정보 및 리뷰</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;https://asianwiki.com/Hierarchy&quot; style=&quot;color: #456771;&quot;>AsianWiki</a>: 하이라키 드라마 정보 및 리뷰</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;https://www.koimoi.com&quot; style=&quot;color: #456771;&quot;>Koimoi</a>: 하이라키 관련 뉴스</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;https://www.jazminemedia.com&quot; style=&quot;color: #456771;&quot;>JazmineMedia</a>: 하이라키 관련 뉴스</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;https://www.spoilerus.com&quot; style=&quot;color: #456771;&quot;>Spoiler US</a>: 하이라키 관련 뉴스</span></li> </ul>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

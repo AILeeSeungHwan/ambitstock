@@ -1,0 +1,167 @@
+const post = {
+  id: 251,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC%EC%95%84%EB%90%98-%EC%98%88%EB%A7%A4-%ED%95%A0%EC%A7%80-%EB%A7%90%EC%A7%80-%EC%A0%95%ED%95%B4%EB%93%9C%EB%A6%BC-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%85%B8-%EC%8A%A4%ED%8F%AC-%EB%A6%AC%EB%B7%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
+    },
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>강동원 박정민 차승원 주연 넷플릭스 영화 추천 \'전, 란\'의 해외 평론가 결말 후기반응입니다.</b></span></p><p>이전 포스팅을 통하여 영화 전,란의 뜻과 의미 해석, 영어제목과 평점을 알아보았습니다. 생각보다 해외에서 낮은 평점을 기록한 영화 전,란의 평론가와 시청자 후기를 바탕으로 어떠한 점이 해외 시청자들에게 외면받았는지 알아보도록 하겠습니다.</p><p>먼저 영화 <span style=&quot;background-color: #f3c000;&quot;><b>전,란 해외 평론가의 결말 후기반응</b></span> 알아보도록 하겠습니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post251_thumb.svg',
+      alt: '넷플릭스 영화 추천 전,란 결말 후기반응 로튼 토마토 해외 평론가 관람평 정보',
+      caption: '넷플릭스 영화 추천 전,란 결말 후기반응 로튼 토마토 해외 평론가 관람평 정보'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;834&quot; data-origin-width=&quot;555&quot;><span data-alt=&quot;영화 전,란 해외 평론가 결말 후기 반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/5SUfB/btsJ34xhPfZ/AAAAAAAAAAAAAAAAAAAAAPYSWTA7WYBUhX2WIakoC0jjYnlQPHLdR6plVOdeh_HW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=IrVUPF484X9u6q7MWkFzydTSQck%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/5SUfB/btsJ34xhPfZ/AAAAAAAAAAAAAAAAAAAAAPYSWTA7WYBUhX2WIakoC0jjYnlQPHLdR6plVOdeh_HW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=IrVUPF484X9u6q7MWkFzydTSQck%3D&quot;></span><figcaption>영화 전,란 해외 평론가 결말 후기 반응</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f6e199;&quot;><i>Casey Chong - 3/5</i></span><br>박찬욱이 제작한 역사 드라마, 검술 장면은 꽤 잘 만들었지만 이야기 전개가 고르지 못하였다.</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f6e199;&quot;><i>Diego Batlle - 3.5/5</i></span><br>영화가 섬세함, 뉘앙스, 심리적 깊이가 부족하다고 할지라도, 강렬한 전투 장면, 다채로운 맨손 격투 안무, 그리고 유머들로 이를 보완하였다.</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f6e199;&quot;>Jake Tropila - Rotten (점수 없음)</span></i><br/>대형 예산의 제작 가치를 자랑하고 화려한 검술 장면을 많이 담고 있지만, 영화는 자주 <b>\'김 감독의 평범함을 추구하는 연출\'</b>에 의해 날카로움을 잃고 말았다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f6e199;&quot;>David Ehrlich - B-</span></i><br/>감독 김은 두 시간 동안 수많은 사지를 절단하며 즐거움을 선사했으나, 너무 많은 신체를 해체하면서 영화의 중심을 놓치는 순간이 종종 있었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f6e199;&quot;>James Marsh - 3/5</span></i><br/>김 감독은 시각적으로 세련된 연출을 보여주었고, 주성림의 아름다운 촬영과 함께 수많은 참수 장면과 피가 낭자한 검술 장면을 멋지게 그려냈다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>평론가들은 높진 않지만 꽤 나쁘지 않은 평점과 후기반응을 남긴 것을 알 수 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>그렇다면 이번에는 <span style=&quot;background-color: #9feec3;&quot;><b>일반 해외 시청자들의 결말 후기 반응</b></span>을 살펴보겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><i><span style=&quot;background-color: #f6e199;&quot;>영화를 위한 영화 - 8/10</span></i></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화가 일부 캐릭터의 악행을 과장하고 두 주인공의 우정에 대한 설명이 부족한 부분이 있었지만, 장르에 이미 흥미를 가진 사람들에게는 매우 좋은 작품이었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>훌륭한 격투 안무, 좋은 촬영, 전반적으로 재미있었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>스타일을 중시한 영화였고, CGI 사용이 과하지 않아 더 인상적이었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>2시간이 아깝지 않은 영화였다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><i><span style=&quot;background-color: #f6e199;&quot;> 가벼운 액션 영화 - 6/10</span></i></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>액션이 잘 구현되었고, 스토리는 어느 정도의 긴박감을 주었으며, 배우들은 캐릭터에 생동감을 불어넣었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>하지만 기대를 낮춘다면 어느 정도 즐거움을 얻을 수 있을 것이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><i><span style=&quot;background-color: #f6e199;&quot;> <span style=&quot;color: #333333; text-align: start;&quot;>완벽하지는 않지만 즐길 만한 영화</span> - 6/10</span></i></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>아름다운 배경과 좋은 연기가 돋보였으며, 스토리는 독창적이지 않지만 쉽게 이해할 수 있었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>CGI는 적게 사용되었고, 눈에 거슬리지 않았다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>빠른 전개로 인해 집중하지 않으면 스토리의 일부를 놓칠 수 있었지만, 액션은 창의적이고 잔인했다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>배우들의 연기가 이 영화를 더욱 즐길 수 있게 만들었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f6e199;&quot;><b> 단순한 오락을 원한다면 이 영화는 그 필요를 충족시킬 것 - 9/10</b></span></i><br/>영화는 16세기 말의 한국을 배경으로 검술 액션을 중심으로 한 이야기였으며, 일부 사회적, 정치적 요소가 섞여 있었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>스토리는 직선적이고 액션 중심이었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>스토리가 독창적이거나 기억에 남을 만한 것은 아니었지만, 충분히 재미있었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>특히 안개 속의 3자 전투 장면이 인상적이었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f6e199;&quot;><b><i>엉망인 장면 전환과 연출, 혼란스러운 이야기 흐름  - 4/10</i></b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>스토리는 단순하고 예측 가능했으며, 캐릭터 개발은 짜증스럽고 깊이가 없다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>코믹 요소를 시도했지만 혼란스러웠고 재미있지 않았다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>전체적으로 영화는 지루하고 재미가 없었다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>좋지 않은 연출로 인해 만족스럽지 못한 영화였다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이상으로 해외 평론가, 시청자의 영화 \'전, 란\' 시청결말 후기반응 포스팅 마무리하겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>감사합니다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

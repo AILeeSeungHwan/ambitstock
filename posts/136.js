@@ -1,0 +1,306 @@
+const post = {
+  id: 136,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p>2025년 넷플릭스 한국 영화 추천 개봉예정작 총정리!</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post136_thumb.svg',
+      alt: '2025년 넷플릭스 한국 영화 추천 개봉예정작 총정리!',
+      caption: '2025년 넷플릭스 한국 영화 추천 개봉예정작 총정리!'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '2025년 넷플릭스 한국 영화 추천 개봉예정작 총정리',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;>2025년 넷플릭스 뭐 보지?</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #5e5e64; background-color: #ffffff;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>넷플릭스 공개 예정인 한국 영화를 추천해 드립니다.</b></span></span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>각 작품에 대한 포스터와 영화의 줄거리, 그리고 감독의 영화에 대한 인터뷰를 함께 소개해드리겠습니다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000; background-color: #ffffff;&quot;><b>해당 포스팅은 넷플릭스 공식 홈페이지의 2025년 공개예정 한국영화감독 인터뷰를 참고하여 작성하였습니다.</b></span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;946&quot; data-origin-width=&quot;1418&quot;><span data-alt=&quot;2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/sl5AA/btsLyT21ZoN/AAAAAAAAAAAAAAAAAAAAANlvpIopmONL4P_o2pNAyWxyFaq096p7-SE6SmZcrIS5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vBXP6koU0u%2ForSq1RcTZzT0lN04%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/sl5AA/btsLyT21ZoN/AAAAAAAAAAAAAAAAAAAAANlvpIopmONL4P_o2pNAyWxyFaq096p7-SE6SmZcrIS5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vBXP6koU0u%2ForSq1RcTZzT0lN04%3D&quot;></span><figcaption>2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;><br>순서는 순위와 관계없습니다.</br></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>탄탄한 필모로 입증된 &lt;계시록&gt; 연상호 감독, &lt;굿뉴스&gt; 변성현 감독부터 새로운 장르적 스타일을 선보일 &lt;대홍수&gt; 김병우 감독, &lt;84제곱미터&gt; 김태준 감독, 신인 감독의 향연, &lt;고백의 역사&gt; 남궁선 감독, &lt;사마귀&gt; 이태성 감독, &lt;이 별에 필요한&gt; 한지원 감독</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이번 넷플릭스 한국영화 개봉예정작 시리즈는 총두 개의 포스팅으로 전달드리겠습니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '1. 계시록 (Revelations)',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1004&quot; data-origin-width=&quot;1524&quot;><span data-alt=&quot;2025년 넷플릭스 영화 추천 한국영화 계시록&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bPlDWr/btsLBIrS2rN/AAAAAAAAAAAAAAAAAAAAAMUQRSmo4wT5iiU5wJpZYy9xAsTZSy8aIyTg_yHrXeBA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SfMzoQv%2F55Jj3DK00ScktEK7kgc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bPlDWr/btsLBIrS2rN/AAAAAAAAAAAAAAAAAAAAAMUQRSmo4wT5iiU5wJpZYy9xAsTZSy8aIyTg_yHrXeBA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SfMzoQv%2F55Jj3DK00ScktEK7kgc%3D&quot;></span><figcaption>2025년 넷플릭스 영화 추천 한국영화 계시록</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>장르</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span>스릴러, 오컬트, 호러</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;>실종 사건의 범인을 단죄하는 것이 신의 계시라 믿는 목사와, 죽은 동생의 환영에 시달리는 실종 사건 담당 형사가 각자의 믿음을 좇으며 벌어지는 이야기</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>출연진</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;>류준열 신현빈 한지현</span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;974&quot; data-origin-width=&quot;1508&quot;><span data-alt=&quot;2025년 넷플릭스 영화 추천 한국영화 계시록&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/7gMB2/btsLACzbTKS/AAAAAAAAAAAAAAAAAAAAAJugGK41JGnZm8KKCp1H1s2aY989I1JsZGB58qp19Qdd/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KbchMEffJI9SaEYVWB%2FfEvNH2xI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/7gMB2/btsLACzbTKS/AAAAAAAAAAAAAAAAAAAAAJugGK41JGnZm8KKCp1H1s2aY989I1JsZGB58qp19Qdd/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KbchMEffJI9SaEYVWB%2FfEvNH2xI%3D&quot;></span><figcaption>2025년 넷플릭스 영화 추천 한국영화 계시록</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>CG를 쓰지 않는<br>영화를 해보고 싶었다</br></span></b></span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<h3>감독:연상호</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>연상호 감독은<span> </span><i>지옥</i><span> </span>시리즈,<span> </span><i>기생수: 더 그레이</i>의 연출과<span> </span><i>선산</i>의 제작자로 넷플릭스와 연이어 호흡을 맞춰온 바 있습니다. 그는 “<i>부산행</i><span> </span>이후 CG가 많은 영화들을 해왔는데, CG를 쓰지 않는 영화를 해보고 싶었다.<span> </span><i>계시록</i>은 그전에 작업했던 방식과 다른 작업 방식의 영화일 것 같다. 시네마적인 무언가를 해보고 싶다는 생각을 했다. 넷플릭스에서 시네마적인 방식으로 만드는 영화는 어떤 모습일까, 시청자들이 어떻게 볼까라는 생각을 가지고 작업했다”라고 말했습니다. 넷플릭스를 통해 새로운 방식으로 작품을 선보일 것으로 기대됩니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>연상호 감독의 연니버스</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;>연상호 감독은 <i>사이비</i>, <i>지옥</i> 시리즈 등으로 연니버스(연상호 유니버스)라는 세계관을 구축해 온 감독으로, <i>계시록</i>의 제작 확정과 동시에 큰 화제를 모았다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>류준열, 신현빈 배우와의 호흡</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;>연상호 감독은 “류준열 배우는 대사 한 마디, 한 마디를 완벽하게 체화해서 대사를 하려고 집요하게 노력하는 배우고, 신현빈 배우는 작품을 대하는 태도가 진지하고 몰입력이 좋다. 두 배우의 리얼한 감정을 담아내기 위해 노력했다”라며 두 배우와의 호흡에 대한 만족감을 드러냈습니다. 또한, 작품을 통해 보여줄 배우들의 열연을 예고했습니다.</span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '2. 고백의 역사Love Untangled(2025)',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;974&quot; data-origin-width=&quot;1518&quot;><span data-alt=&quot;2025년 넷플릭스 영화 추천 한국영화 고백의 역사&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ALIaI/btsLADLDcVS/AAAAAAAAAAAAAAAAAAAAALfJ8Ofr5XDoBWDnq-37A7y4HLOjj0cbqvxHyNSsA2d0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8lKYA1nSG5KmYogv2tLaTk0UV5U%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ALIaI/btsLADLDcVS/AAAAAAAAAAAAAAAAAAAAALfJ8Ofr5XDoBWDnq-37A7y4HLOjj0cbqvxHyNSsA2d0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8lKYA1nSG5KmYogv2tLaTk0UV5U%3D&quot;></span><figcaption>2025년 넷플릭스 영화 추천 한국영화 고백의 역사</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>장르</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span>로맨스, 청춘, 시대극</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;>1998년, 열아홉 소녀 박세리가 일생일대의 고백을 앞두고 평생의 콤플렉스인 악성 곱슬머리를 펴기 위한 작전을 계획하던 중, 전학생 한윤석과 얽히며 벌어지는 청춘 로맨스.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>출연진</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;>공명, 신은수, 차우민, 윤상현, 강미나</span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1006&quot; data-origin-width=&quot;1538&quot;><span data-alt=&quot;2025년 넷플릭스 영화 추천 한국영화 고백의 역사&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cxt5yQ/btsLzZVZm2H/AAAAAAAAAAAAAAAAAAAAAC5KlEMU8kpTCNaLM62yWw6Fc8xSQppewUNSXg7SKCGH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Njzsr4tsOVw8VrO4nhHCnBINGXE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cxt5yQ/btsLzZVZm2H/AAAAAAAAAAAAAAAAAAAAAC5KlEMU8kpTCNaLM62yWw6Fc8xSQppewUNSXg7SKCGH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Njzsr4tsOVw8VrO4nhHCnBINGXE%3D&quot;></span><figcaption>2025년 넷플릭스 영화 추천 한국영화 고백의 역사</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>맑고, 즐겁고, 에너지가 있는 <br/>배우들로 캐스팅했는데, <br/>그 캐릭터를 연기하기 위해 <br/>태어난 사람들 같다</span></b></span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<h3>감독:남궁선</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>남궁선 감독은 <i>세상의 끝</i>, <i>십 개월의 미래</i> 등 다양한 작품으로 감각적인 연출력을 인정받은 감독입니다. &quot;<i>고백의 역사</i>는 아직 세상에 순수하고 좋은 것들이 남아있다는 것을 보여주고 싶다. 맑고, 즐겁고, 에너지가 있는 배우들로 캐스팅했는데, 그 캐릭터를 연기하기 위해 태어난 사람들 같다. 기대해 주셔도 좋을 것 같다&quot;며 청춘 배우들이 그려낼 싱그러운 매력을 예고했습니다.</span></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section4',
+      text: '3. 굿뉴스Good News(2025)',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;984&quot; data-origin-width=&quot;1528&quot;><span data-alt=&quot;2025년 넷플릭스 영화 추천 한국영화 굿뉴스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ymtqP/btsLz2k4G4m/AAAAAAAAAAAAAAAAAAAAAJ4EYUp37L-C7In-YsXkf-d3Izyj3ARrau5j6vCE9Ki_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sFTjJsK0TFTYQQDf2IIerYaPWrM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ymtqP/btsLz2k4G4m/AAAAAAAAAAAAAAAAAAAAAJ4EYUp37L-C7In-YsXkf-d3Izyj3ARrau5j6vCE9Ki_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sFTjJsK0TFTYQQDf2IIerYaPWrM%3D&quot;></span><figcaption>2025년 넷플릭스 영화 추천 한국영화 굿뉴스</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>장르</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span>재난, 스릴러, 느와르, 범죄, 액션, 시대극</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;>1970년, 무슨 수를 써서라도 납치된 비행기를 착륙시키고자 한 자리에 모인 사람들의 수상한 작전을 그린 영화.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>출연진</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;>설경구, 홍경, 류승범</span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;984&quot; data-origin-width=&quot;1528&quot;><span data-alt=&quot;2025년 넷플릭스 영화 추천 한국영화 굿뉴스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bve9iG/btsLAXDm7GW/AAAAAAAAAAAAAAAAAAAAALU8x3M0scbs92qG1yl8Zt8WGw14NqysDsjEMb5QygGy/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=D5vOXb%2FLtHLBHsmXGVw7TfRGGeo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bve9iG/btsLAXDm7GW/AAAAAAAAAAAAAAAAAAAAALU8x3M0scbs92qG1yl8Zt8WGw14NqysDsjEMb5QygGy/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=D5vOXb%2FLtHLBHsmXGVw7TfRGGeo%3D&quot;></span><figcaption>2025년 넷플릭스 영화 추천 한국영화 굿뉴스</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span>감독:변성현</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>변성현 감독은 <i>불한당</i>, <i>길복순</i> 등 매 작품마다 개성 강한 스토리로 사랑을 받아왔습니다. 그는 이번 작품에 대해 “<i>불한당</i>이라는 영화로 처음 만나서 설경구 배우를 빳빳하게 펴겠다는 일념이었다면, 이제 다시 심하게 구기고 싶다는 욕심이 들었다. 이번에 제대로 구겨볼 생각이다”라며 설경구와의 네 번째 호흡에 대한 기대를 고조시켰습니다.</span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section5',
+      text: '4. 대홍수Good News(2025)',
+      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;734&quot; data-origin-width=&quot;1528&quot;><span data-alt=&quot;2025년 넷플릭스 영화 추천 한국영화 대홍수&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/mRLBo/btsLA7Mvlvw/AAAAAAAAAAAAAAAAAAAAADsk2LcWRqgy35nHZqjIwbKY44lc7vXLkFhr_jSce9K6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lF4TBbQ2wTnJNLbuP%2Bl2qJkUENQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/mRLBo/btsLA7Mvlvw/AAAAAAAAAAAAAAAAAAAAADsk2LcWRqgy35nHZqjIwbKY44lc7vXLkFhr_jSce9K6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lF4TBbQ2wTnJNLbuP%2Bl2qJkUENQ%3D&quot;></span><figcaption>2025년 넷플릭스 영화 추천 한국영화 대홍수</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>장르</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span>재난, SF</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>줄거리</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;>대홍수가 덮친 지구의 마지막 날, 인류가 살아남을 수 있는 마지막 희망을 건 이들이 물에 잠겨가는 아파트 속에서 벌이는 사투를 그린 SF 재난 블록버스터 영화.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>출연진</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;>김다미, 박해수</span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>감독:김병우</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>김병우 감독은 <i>더 테러 라이브</i>, <i>PMC: 더 벙커</i>로 극한의 상황과 그 속의 인물들을 치밀하고 생동감 있게 담아내며 관객들의 찬사를 받았습니다. 그는 <i>대홍수</i>에 대해 “이 영화는 재난으로 끝나지 않는다. 복잡할 수도 있고 단순할 수도 있는 이야기를 재난이라는 장르를 통해 시작해 보자는 게 최초의 생각이었다. 후반 작업을 하면서도 시청자들이 어떻게 볼지 두근두근하다”라고 말하며 차별화된 매력을 선보일 것에 대한 설레는 마음을 전했습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>두 번째 포스팅에서 계속됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><a href=&quot;https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-2025%EB%85%84-%ED%95%9C%EA%B5%AD-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC&quot; rel=&quot;noopener&quot; title=&quot;개봉예정작 2부&quot;>2024.12.29 - [영화/영화 정보] - 넷플릭스 영화 추천 시리즈 2025년 한국 개봉예정작 총정리! - 2부</a></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-2025%EB%85%84-%ED%95%9C%EA%B5%AD-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '넷플릭스 영화 추천 시리즈 2025년 한국 개봉예정작 총정리!'
+    },
+    {
+      type: 'h2',
+      id: 'section6',
+      text: '함께 보면 좋은 콘텐츠',
+      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
+    },
+    {
+      type: 'ending',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%AF%B8%ED%82%A4-17-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9B%90%EC%9E%91-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%ED%95%B4%EC%84%9D-2025%EB%85%84-%EC%B5%9C%EA%B3%A0-%EA%B8%B0%EB%8C%80%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%98%81%ED%99%94',
+      text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

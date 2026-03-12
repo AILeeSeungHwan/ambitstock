@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs><linearGradient id="bg468" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#e53935"/><stop offset="100%" style="stop-color:#e53935dd"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#bg468)" rx="0"/>
+  <rect x="40" y="40" width="1120" height="550" rx="20" fill="rgba(0,0,0,0.15)"/>
+  <text x="600" y="160" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="600" font-family="Pretendard, -apple-system, sans-serif">해외반응후기</text>
+    <text x="600" y="240" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="bold" font-family="Pretendard, -apple-system, sans-serif">[개봉 예정작 영화 미키17 개봉</text>
+    <text x="600" y="300" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="bold" font-family="Pretendard, -apple-system, sans-serif">일 티저 예고편] 봉준호 해외 평</text>
+    <text x="600" y="360" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="bold" font-family="Pretendard, -apple-system, sans-serif">점 반응 시리즈 1탄 기생충, 넷</text>
+  <text x="600" y="520" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="22" font-family="Pretendard, -apple-system, sans-serif">R의 필름공장 · ambitstock.com</text>
+</svg>

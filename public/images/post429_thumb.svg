@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs><linearGradient id="bg429" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#e53935"/><stop offset="100%" style="stop-color:#e53935dd"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#bg429)" rx="0"/>
+  <rect x="40" y="40" width="1120" height="550" rx="20" fill="rgba(0,0,0,0.15)"/>
+  <text x="600" y="160" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="600" font-family="Pretendard, -apple-system, sans-serif">해외반응후기</text>
+    <text x="600" y="240" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="bold" font-family="Pretendard, -apple-system, sans-serif">인사이드 아웃 2 뜻 의미, 해외</text>
+    <text x="600" y="300" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="bold" font-family="Pretendard, -apple-system, sans-serif"> 평점 반응 분석 - 쿠키 굿즈 </text>
+    <text x="600" y="360" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="bold" font-family="Pretendard, -apple-system, sans-serif">새로운 감정 등 모든 정보 총정리</text>
+  <text x="600" y="520" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="22" font-family="Pretendard, -apple-system, sans-serif">R의 필름공장 · ambitstock.com</text>
+</svg>

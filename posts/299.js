@@ -1,0 +1,126 @@
+const post = {
+  id: 299,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%82%98%EC%9A%B0-%EC%9C%A0-%EC%94%A8%EB%AF%B8-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EA%B2%B0%EB%A7%90-%ED%95%B4%EC%84%9D-%EB%A7%88%EC%88%A0%EC%9D%B4-%EC%95%84%EB%8B%88%EA%B3%A0-%EB%A7%88%EB%B2%95%EC%9D%B4%EB%8B%A4',
+      text: '넷플릭스 영화 추천 나우 유 씨미 제목 뜻 줄거리 내용 결말 해석 | 마술이 아니고 마법이다'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%82%98%EC%9A%B0-%EC%9C%A0-%EC%94%A8%EB%AF%B8-%EC%8B%9C%EB%A6%AC%EC%A6%88-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%9B%84%EA%B8%B0-%ED%9B%84%EC%86%8D%EC%9E%91%EA%B9%8C%EC%A7%80-%EC%B4%9D%EC%A0%95%EB%A6%AC-1-1',
+      text: '넷플릭스 영화 추천 나우 유 씨미 시리즈 해외 평점 평론가 후기 후속작까지 총정리! 1-1'
+    },
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 나우 유 씨미 시리즈 1-2편, 나우 유 씨미: 마술 사기단의 해외 평론가 후기입니다.</b></span></p><p>지난 포스팅에서 나우 유 씨미 뜻과 줄거리, 결말 해석, 평점을 알아보았습니다.</p><p>이번 포스팅에서 로튼 토마토에서 낮은 평점을 기록하고 있는 이유에 대해, 평론가 후기 살펴보며 알아보겠습니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post299_thumb.svg',
+      alt: '나우 유 씨미 영화 해외 평론가 로튼 토마토 후기 총정리',
+      caption: '나우 유 씨미 영화 해외 평론가 로튼 토마토 후기 총정리'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><b>나우 유 씨미 해외 평론가 후기 알아보도록 하겠습니다.</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1232&quot; data-origin-width=&quot;1838&quot;><span data-alt=&quot;나우 유 씨미 해외 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/9HJqG/btsJDPUBqMG/AAAAAAAAAAAAAAAAAAAAAI0UM0VtItk15E5-petDniqf1aBCE5PBbnNybHGV8Kyn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mtHw7wSw6wKPC9W1XOPw9puEDIE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/9HJqG/btsJDPUBqMG/AAAAAAAAAAAAAAAAAAAAAI0UM0VtItk15E5-petDniqf1aBCE5PBbnNybHGV8Kyn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mtHw7wSw6wKPC9W1XOPw9puEDIE%3D&quot;></span><figcaption>나우 유 씨미 해외 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Brian Eggert</b> | 2/4<br>올스타 캐스팅으로 일시적인 즐거움을 줄 수 있지만, 영화의 자주 반복되는 대사 &quot;더 가까이 볼수록, 덜 보게 될 것이다&quot;는 결국 사실로 드러난다.</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Keith Garlington</b> | 2.5/5<br/>줄거리에 많은 구멍이 있으며, 일부 캐릭터들은 너무 형편없이 쓰였다. 마술, 이 영화의 강점이 되어야 할 부분이 관객을 놀라게 하지는 못한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1232&quot; data-origin-width=&quot;1838&quot;><span data-alt=&quot;나우 유 씨미 해외 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/baw2Fm/btsJC0iy2i9/AAAAAAAAAAAAAAAAAAAAAMWWMeD0Zsz1Dv-5IqXqcxGqLe7ZPRrUU9nkb01I4Cvm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=B%2FqojSRZM2kRRcGgfmQTXgTJ%2F1g%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/baw2Fm/btsJC0iy2i9/AAAAAAAAAAAAAAAAAAAAAMWWMeD0Zsz1Dv-5IqXqcxGqLe7ZPRrUU9nkb01I4Cvm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=B%2FqojSRZM2kRRcGgfmQTXgTJ%2F1g%3D&quot;></span><figcaption>나우 유 씨미 해외 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>James Croot</b> | 4.5/5<br/>마술은 단지 주인공들의 직업에만 국한되지 않고, 이 복잡하고 매력적인 2013년 관객을 사로잡는 영화에 전반적으로 깔려 있다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Mike Massie</b> | 5/10<br/>이 영화는 스스로를 지나치게 똑똑하게 보이려고 하지만, 결국 그 자체의 한계에 부딪친다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Kelechi Ehenulo</b> | 2/5<br/>마술을 할 줄 알았다면 좋았을 텐데. 그랬다면 내 첫 번째 마술은 이 영화를 내 머릿속에서 지우는 것이었을 것이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1232&quot; data-origin-width=&quot;1838&quot;><span data-alt=&quot;나우 유 씨미 해외 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/btl5bU/btsJDTP9ppm/AAAAAAAAAAAAAAAAAAAAADDJ5w8QgUTvQaD90bS5Tqr4XUIOI7YDcubmjLNLTWqx/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ZjIKhyLqW%2FnpKd53RSMc3OTZ8qY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/btl5bU/btsJDTP9ppm/AAAAAAAAAAAAAAAAAAAAADDJ5w8QgUTvQaD90bS5Tqr4XUIOI7YDcubmjLNLTWqx/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ZjIKhyLqW%2FnpKd53RSMc3OTZ8qY%3D&quot;></span><figcaption>나우 유 씨미 해외 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Damond Fudge</b><br/>Now You See Me는 여름철 팝콘 무비다. 슈퍼 영화는 아니지만, 몇 시간 동안은 꽤나 즐겁다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Leslie Combemale</b><br/>이 영화는 위험하지만 천재적인 캐스팅이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Micheal Compton</b> | B<br/>재미있는 여름 영화. 재능 있는 배우들과 트위스트가 가미된 이야기로, 순간적으로는 즐거움을 주는 적당한 오락물이지만 깊이 생각하면 다소 불합리한 면이 있다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1134&quot; data-origin-width=&quot;1752&quot;><span data-alt=&quot;나우 유 씨미 해외 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/G4HBX/btsJEmYClQD/AAAAAAAAAAAAAAAAAAAAADwXnb_6a51gy0lyH_STgJ33IvtNhSNMUqs3icF5tsMg/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FA6y6Ro7GWHr%2F5IGDKYRwD2Qq%2Bs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/G4HBX/btsJEmYClQD/AAAAAAAAAAAAAAAAAAAAADwXnb_6a51gy0lyH_STgJ33IvtNhSNMUqs3icF5tsMg/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FA6y6Ro7GWHr%2F5IGDKYRwD2Qq%2Bs%3D&quot;></span><figcaption>나우 유 씨미 해외 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Shubhra Gupta</b> | 2.5/5<br/>마술 트릭들은 꽤나 화려하다. 특히 Fisher가 거대한 거품 안에서 관객들 위로 떠오르는 장면이 그렇다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>그러나 영화는 좀 더 예리함이 필요했으며, 그랬다면 정말 좋은 영화가 되었을 것이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Lee Cassanell</b> | 3/5<br/>일부는 마지막 반전까지 이 쇼를 즐길 수 있겠지만, 크레딧이 올라갈 때쯤엔 감독과 각본가들이 더 이상 꺼낼 모자나 토끼가 없어서 관객의 머리를 반으로 잘라버린 것처럼 느껴질 것이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Abbie Bernstein</b> | B+<br/>대부분의 빠르게 전개되는 영화들은 설명할 말만 많고, 대부분의 액션 영화들이 뻔한 스토리라인을 따라가는 요즘, 나우 유 씨미는 놀라운 반전, 폭발적인 액션, 그리고 흥미진진한 전개로 꽤 생기 넘치는 영화다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1134&quot; data-origin-width=&quot;1752&quot;><span data-alt=&quot;나우 유 씨미 해외 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ph2pI/btsJDaFhP1A/AAAAAAAAAAAAAAAAAAAAANYOnrWXvtbMc-OVTOePaRjbtvBzZrTh5xd3AylS2CXm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OkFKqGzxmuzZyXoLbDrOZR%2FblaI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ph2pI/btsJDaFhP1A/AAAAAAAAAAAAAAAAAAAAANYOnrWXvtbMc-OVTOePaRjbtvBzZrTh5xd3AylS2CXm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OkFKqGzxmuzZyXoLbDrOZR%2FblaI%3D&quot;></span><figcaption>나우 유 씨미 해외 평론가 후기</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Kelly Jane Torrance</b> | 4/4<br/>보기 드문 영화. 두뇌를 마비시키지 않고 관객을 즐겁게 만드는 여름 영화.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Kent Garrison</b> | F-<br/>영화 역사상 최악의 반전 중 하나에 의존하며, 그 반전은 영화가 쌓아온 모든 것을 지워버린다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Deborah Krieger</b><br/>이 영화는 순수한 오락을 위해 주인공들의 깊은 캐릭터화를 희생하고, 그 결과 영화는 매력적인 외형만 남긴다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>여기까지 나우 유 씨미 해외 후기 포스팅 마무리하겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>다음 시리즈에서는 나우 유 씨미 2에 대한 평점과 후기 알아보겠습니다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p>감사합니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

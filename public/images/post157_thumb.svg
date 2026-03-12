@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs><linearGradient id="bg157" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#1a73e8"/><stop offset="100%" style="stop-color:#1a73e8dd"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#bg157)" rx="0"/>
+  <rect x="40" y="40" width="1120" height="550" rx="20" fill="rgba(0,0,0,0.15)"/>
+  <text x="600" y="160" text-anchor="middle" fill="#ffd600" font-size="28" font-weight="600" font-family="Pretendard, -apple-system, sans-serif">영화추천</text>
+    <text x="600" y="240" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="bold" font-family="Pretendard, -apple-system, sans-serif">영화 하얼빈 개봉 정보 출연진 줄</text>
+    <text x="600" y="300" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="bold" font-family="Pretendard, -apple-system, sans-serif">거리 결말 후기 &lt; 2024년 1</text>
+    <text x="600" y="360" text-anchor="middle" fill="#ffffff" font-size="44" font-weight="bold" font-family="Pretendard, -apple-system, sans-serif">2월 기대되는 한국 독립운동 개봉</text>
+  <text x="600" y="520" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="22" font-family="Pretendard, -apple-system, sans-serif">R의 필름공장 · ambitstock.com</text>
+</svg>

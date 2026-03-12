@@ -1,0 +1,96 @@
+const post = {
+  id: 367,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p><br>영화 이오 카피타노 평론가 후기 리뷰입니다.</br></p><p>첫번째 포스팅을 통해 영화 이오 카피타노의 기본 정보들과 제목 뜻, 평론가 평점을 먼저 확인해보시길 바랍니다.</p><p><b>Matt Brunson</b><span> </span><span style=&quot;color: #999999;&quot;>Film Frenzy</span></p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post367_thumb.svg',
+      alt: '당신의 오늘을 감사함으로 채울 영화 이오 카피타노 해외 평론가 후기 리뷰',
+      caption: '당신의 오늘을 감사함으로 채울 영화 이오 카피타노 해외 평론가 후기 리뷰'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>3/4</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>3.5/4</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>B+</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>3/5</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>5/5</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>3.5/4</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아침이 밝으면, 우리는 일상적인 일을 시작한다. 눈을 뜨고, 출근 준비를 하며 하루를 시작한다. 버스나 지하철에서 사람들의 얼굴을 스쳐 지나가며, 우리는 때때로 이러한 일상이 당연하다고 생각한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><b>매일 반복되는 일상 속에서 때로는 지루함을 느끼고, 불평을 늘어놓는다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;color: #781b33;&quot;>가끔은 모든 것이 귀찮다.</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;color: #781b33;&quot;>아아 왜 이리도 인생은 괴로운 것인가?</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>하지만 우리가 매일 경험하는 이 일상이, 누군가에겐 간절히 바라던 꿈일 수도 있다. 건강한 몸으로 걸어 다니는 것, 안전한 집에서 잠을 자는 것, 혹은 사랑하는 사람과의 평범한 하루를 보내는 것. 우리가 때로는 당연하게 여기는 것들이 다른 누군가에게는 그토록 간절히 바라는 꿈일 수 있다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>뉴스를 통해 전해진 전쟁과 재난의 소식들, 그리고 영화 이오 카피타노를 보며 문득 깨달았다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>우리에게 익숙한 이 안정감과 평화가 얼마나 소중한 것인지.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><b>자신의 나라에서 쫓겨난 난민들, 꿈을 향해 유럽으로 향하는 난민들의 현실, </b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><b>가난으로 인해 배움을 포기해야 하는 아이들, 그리고 사랑하는 사람을 잃은 이들의 이야기. </b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><b>그들에게 일상은 꿈일 뿐이다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><b>진부하지만 우리의 일상에, 감사해야 한다. 그저 평범한 하루, 감사해야만 한다. 그것만으로도 엄청난 축복이다. </b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>누군가의 꿈을 살고 있는 우리는, 그 꿈을 이루기 위해 또 다른 이들이 얼마나 애쓰고 있는지 기억해야 한다. 우리의 일상 속에서도 작은 기쁨과 감사함을 찾고, 더 나은 미래를 위해 서로를 돕는 삶을 살아가야 할 것이다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화<span> </span>리뷰보단 덤덤히 적어내는 나의 일상에 대한 감사 일기이다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

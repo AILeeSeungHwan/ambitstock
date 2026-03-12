@@ -1,0 +1,346 @@
+const post = {
+  id: 141,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;color: #000000;&quot;>볼만한 영화를 찾으시나요.</span></p><p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #5e5e64; background-color: #ffffff;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>이동진 평론가의 별점 다섯개 영화</b></span>로 볼만한 명작 영화 최신작들을 추천합니다.</span></span></p><p><span style=&quot;color: #000000;&quot;>각 작품에 대한 포스터와 이동진 평론가의 담담한 한줄 평, 그리고 영화의 줄거리를 함께 소개해드리겠습니다. </span></p><p><span style=&quot;color: #000000;&quot;><span style=&quot;background-color: #ffffff; text-align: start;&quot;><b>누구나 당연히 알고 있는 명작 영화가 아닌, </b></span><span style=&quot;background-color: #ffffff; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>익히 들어보지 않은, 흔치 않은 작품들만 선별하여 정리</b></span>하였습니다.</span></span></p><p><span style=&quot;color: #000000;&quot;>순서는 순위와 관계없습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;960&quot; data-origin-width=&quot;976&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bjyot9/btsIPZRKUSo/AAAAAAAAAAAAAAAAAAAAAG9I_C9Y6mpa-brpjvjgDHUaI0D0QRFDBHobfGhCZqF4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hhhuxZ%2BVjED8Lejkb7YMLW%2BLILM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bjyot9/btsIPZRKUSo/AAAAAAAAAAAAAAAAAAAAAG9I_C9Y6mpa-brpjvjgDHUaI0D0QRFDBHobfGhCZqF4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hhhuxZ%2BVjED8Lejkb7YMLW%2BLILM%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post141_thumb.svg',
+      alt: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10',
+      caption: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '10. 노 베어스 (2022년)',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1518&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 볼만한 명작 영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/loO3f/btsIPrBfWmm/AAAAAAAAAAAAAAAAAAAAAOCLhg8VTmqyz6SMuxDmNQS-Iqzhcz1zvGJJVV2Yms4z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=D6whFJ2ETRuWcvhViiv6pPm8fzc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/loO3f/btsIPrBfWmm/AAAAAAAAAAAAAAAAAAAAAOCLhg8VTmqyz6SMuxDmNQS-Iqzhcz1zvGJJVV2Yms4z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=D6whFJ2ETRuWcvhViiv6pPm8fzc%3D&quot;></span><figcaption>이동진 평론가 볼만한 명작 영화 추천</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>언제 찍거나 멈출 것인가 <br>어디로 따라갈 것인가,</br></span><br><span style=&quot;font-family: \'Noto Serif KR\';&quot;>때론 그게 영화의 전부.</span></br></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f3c000; color: #000000;&quot;><b><span style=&quot;text-align: start;&quot;>이동진 평론가의 2024년 첫 만점 작품! </span></b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>이란에서 출국 금지 처분을 받은 영화 감독 자파르 파나히는 국경 마을에 머무르며 원격으로 영화 촬영을 진행한다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>그의 영화에는 터키에서 프랑스로 도피하려는 커플이 등장하며, </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>그가 머무는 <span style=&quot;background-color: #f3c000;&quot;><b>마을에는 오랜 관습으로 인해 사랑을 허락받지 못한 연인들이 도피를 계획</b></span>하고 있다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #01ff51; color: #000000;&quot;><b><span style=&quot;text-align: start;&quot;>시간이 지나면서 감독은 마을을 뒤흔드는 사건에 휘말리게 된다.</span></b></span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '9. 애프터썬 (2023년)',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1516&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Q5wIq/btsIQElVjWk/AAAAAAAAAAAAAAAAAAAAANYJSbyU7jzdZslmCLUK6qYS8GThhvnOOn0K-SRj2x3_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qjZVILB8Kn0DJJIwJ2cPRhf%2FCEM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Q5wIq/btsIQElVjWk/AAAAAAAAAAAAAAAAAAAAANYJSbyU7jzdZslmCLUK6qYS8GThhvnOOn0K-SRj2x3_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qjZVILB8Kn0DJJIwJ2cPRhf%2FCEM%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;보지 못한 것을 <br/>어떻게 보여줄 것인가&quot;<br/>에 대한 독창적인 대답들.</span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>아빠와 20여 년 전 함께 떠났던 튀르키예 여행.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>둘만의 추억이 담긴 오래된 캠코더를 꺼내자,</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>그해 여름의 기억이 물결처럼 되살아난다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<div> <h2 style=&quot;box-sizing: border-box; border-right-width: 0px; border-bottom: #000000 2px solid; margin: 10px 0px; border-left: #000000 10px solid; letter-spacing: 1px; line-height: 2; border-top-width: 0px; padding: 3px 5px 3px 5px;&quot;><b>8. 드라이브 마이 카 (2021)</b></h2> </div>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1500&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bb5T0k/btsIP7oChlk/AAAAAAAAAAAAAAAAAAAAAGBZc5oyqaQZWCUB-wlBzR3jddoLiLNpasbLsUSKBL18/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FgIxUKZpVqLYwsFDPqXqaBfsAaM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bb5T0k/btsIP7oChlk/AAAAAAAAAAAAAAAAAAAAAGBZc5oyqaQZWCUB-wlBzR3jddoLiLNpasbLsUSKBL18/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FgIxUKZpVqLYwsFDPqXqaBfsAaM%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>치유와 창작의 핵심은 <br/>어디에 어떻게 귀 기울일 것인가에 <br/>관한 문제라는 경청의 걸작.<br/><br/><br/><br/></span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>아름다움의 상징처럼 보이는 부부 가후쿠와 오토.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>우연히 아내의 외도를 목격한 가후쿠는 그 이유를 묻지 못한 채 갑작스럽게 아내의 죽음을 맞이한다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>2년 후, 히로시마 연극제에서 작품 연출을 맡게 된 가후쿠는 그곳에서 전속 드라이버 미사키를 다시 만난다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>미사키는 묵묵히 가후쿠의 차를 운전하며, 가후쿠는 아내가 남긴 녹음 테이프를 들으며 대사를 연습한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>조용한 차 안에서 두 사람은 점차 서로의 마음을 열게 되고, 각자가 과거의 아픔을 극복하지 못한 것을 알게 된다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>그리고 눈 덮인 홋카이도에서 서로의 깊은 슬픔을 마주하게 된다.</b></span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '7. 에브리씽 에브리웨어 올 앳 원스 (2022년)',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1500&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/brn7Jj/btsIRu36PIH/AAAAAAAAAAAAAAAAAAAAAKKKLnJdK1d6Du27O2KqYHvkcnRv8IIsChd8v6Lsn7s0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=iWROKCpQgDHY1c3YgPDPC79r8rk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/brn7Jj/btsIRu36PIH/AAAAAAAAAAAAAAAAAAAAAKKKLnJdK1d6Du27O2KqYHvkcnRv8IIsChd8v6Lsn7s0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=iWROKCpQgDHY1c3YgPDPC79r8rk%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;> 그 모든 곳에서 <br/>그 모든 것이 <br/>한꺼번에 될 수 있다 해도 <br/>지금 이 순간을.</span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>미국에 이민 와 힘겹게 세탁소를 운영하던 에블린은 세무당국의 조사에 시달리던 어느 날</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>남편의 이혼 요구와 삐딱하게 구는 딸로 인해 대혼</b></span>란에 빠진다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>그 순간 에블린은 <span style=&quot;color: #781b33;&quot;><b>멀티버스 안에서 수천, 수만의 자신이 세상</b></span>을 살아가고 있다는 사실을 알게 되고,</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>그 모든 능력을 빌려와 위기의 세상과 가족을 구해야 하는 운명에 처한다.</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>같이 보면 좋은 컨텐츠</h3>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4%EB%B6%80%ED%84%B0-%EA%B8%80%EB%9E%98%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-2-%EB%8D%B0%EB%93%9C%ED%92%80-3-%EA%B9%8C%EC%A7%80-2024%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%ED%95%B4%EC%99%B8-%EC%98%81%ED%99%94-%EA%B8%B0%EB%8C%80%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EA%B3%B5%EC%8B%9D-%ED%8B%B0%EC%A0%80-%EC%98%88%EA%B3%A0%ED%8E%B8-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%94%94%EC%A6%88%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%ED%95%9C%EA%B5%AD-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C-%EC%88%9C%EC%9C%84-TOP-10',
+      text: '디즈니플러스 오리지널 시리즈 한국 드라마 추천 순위 TOP 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/2024%EB%85%84-2025%EB%85%84-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EA%B3%B5%EA%B0%9C-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%9D%BC%EC%9D%B8%EC%97%85',
+      text: '넷플릭스 영화 추천 2024년-2025년 시청가능 오리지널 작품 공개 계봉 예정작 라인업'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section4',
+      text: '6. 퍼스트 카우 (2019)',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1508&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wi904/btsIPWtYzg4/AAAAAAAAAAAAAAAAAAAAAFfdEBElXVDob50D2leaRB0YOl3uU4VErxQtPWLkpLbR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CaBg5EHU7x%2B9j64QaaKWAH0xhZQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wi904/btsIPWtYzg4/AAAAAAAAAAAAAAAAAAAAAFfdEBElXVDob50D2leaRB0YOl3uU4VErxQtPWLkpLbR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CaBg5EHU7x%2B9j64QaaKWAH0xhZQ%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>우정의 안식처에서 상상하며 <br/>다시 살펴보는 <br/>서부극의 깊은 순간들.</span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>19세기 서부 개척 시대, <span style=&quot;background-color: #f3c000;&quot;><b>사냥꾼들의 식량을 담당하던 쿠키는 표적이 되어 쫓기던 킹 루를 구해준다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;letter-spacing: 0px;&quot;>몇 년 후, 정착한 마을에서 다시 만난 이들은 마을의 유일한 젖소의 우유를 훔쳐 빵을 만들어 돈을 벌기로 결심한다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>&quot;지금이 바로 우리의 기회야.&quot;</b></span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section5',
+      text: '5. 자마 (2017)',
+      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1508&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/kL8rG/btsIP79ZRJW/AAAAAAAAAAAAAAAAAAAAAD5-_00oM50z35lKJA6e-TDc_tksORMeEdXY_r1W81fw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hScErcDU5fPGEiVRVViQJgfz3Bg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/kL8rG/btsIP79ZRJW/AAAAAAAAAAAAAAAAAAAAAD5-_00oM50z35lKJA6e-TDc_tksORMeEdXY_r1W81fw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hScErcDU5fPGEiVRVViQJgfz3Bg%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>중심과 주변, 문명과 야만을 구분짓는 <br/>서구의 근대적 이분법에 <br/>교란과 분산으로 선명하게 맞선다.</span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>18세기 말 스페인 식민지 남미의 한 외딴 지역.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>치안판사 자마는 스페인 국왕의 <span style=&quot;background-color: #f3c000;&quot;><b>전근 발령을 초조하게 기다리지만 몇 년째 소식이 없다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>\'비쿠냐 포르토\'라는 도적떼에 대한 소문이 지역 사회를 공포에 빠뜨리는 가운데,</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>자마는 기약 없는 기다림에 지쳐 육체적 욕망에 빠져드는 것만이 유일한 도피처</b></span>가 된다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section6',
+      text: '4. 그린나이트 (2021년)',
+      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1508&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/zyzz1/btsIPX0IvMF/AAAAAAAAAAAAAAAAAAAAACrD1LmUCWcTh3b0M5kkroRhn5dVd3NDugCQvSIJEwzH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8JABULjdx%2BDuzkToYbZQrOR%2BD5M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/zyzz1/btsIPX0IvMF/AAAAAAAAAAAAAAAAAAAAACrD1LmUCWcTh3b0M5kkroRhn5dVd3NDugCQvSIJEwzH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8JABULjdx%2BDuzkToYbZQrOR%2BD5M%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>집에 돌아와 자리에 누워도 <br/>천장에서 영화가 계속 상영된다.<br/><br/><br/><br/><br/></span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>“녹색 기사의 목을 베어 명예를 지켜라”</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>크리스마스 이브, 아서왕과 원탁의 기사들 앞에 나타난 녹색 기사는 <span style=&quot;background-color: #f3c000;&quot;><b>“가장 용감한 자가 나의 목을 베면 명예와 재물을 주겠다”</b></span>고 제안한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;letter-spacing: 0px;&quot;>단, 1년 후 똑같이 자신의 도끼날을 받으러 오겠다는 조건 하에.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>아서왕의 조카 가웨인은 이 도전에 응하고, 1년 후 5가지 고난의 관문을 통과하는 여정을 시작하게 된다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>전설로 남을 새로운 모험, 명예를 걸고 도전하라!</b></span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section7',
+      text: '3. 이제 그만 끝낼까 해 (2020년)',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1494&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/2XRmb/btsIRNiche6/AAAAAAAAAAAAAAAAAAAAAF95MuPMumuBDBTUM8olRbCKEsdrx_CaWDDEj21I9Eud/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qL4ac7mkJVQ13rLRDMCLp6BBu1s%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/2XRmb/btsIRNiche6/AAAAAAAAAAAAAAAAAAAAAF95MuPMumuBDBTUM8olRbCKEsdrx_CaWDDEj21I9Eud/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qL4ac7mkJVQ13rLRDMCLp6BBu1s%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>파리하게 회귀하는 강박과 슬픔 끝에 <br/>눅눅한 구두점을 향하여.</span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>우리는 언제 만났던 걸까? 언제까지 만나게 될까?</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>새로 사귄 남자친구와 여행을 떠나는 여자.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>그의 부모님이 사는 외딴 농장으로 가는 길,</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>눈에 보이는 모든 것이 흔들린다.</b></span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section8',
+      text: '2. 파벨만스 (2022년)',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1518&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cMZDlp/btsIPk3ig1R/AAAAAAAAAAAAAAAAAAAAAO4gpmNEIRFX9hJww3VMEdnRDe003BBGT4SKzG85GEAH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SD%2B29ZPlPoFPbJiVE2xc5uwrE6M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cMZDlp/btsIPk3ig1R/AAAAAAAAAAAAAAAAAAAAAO4gpmNEIRFX9hJww3VMEdnRDe003BBGT4SKzG85GEAH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SD%2B29ZPlPoFPbJiVE2xc5uwrE6M%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시선이 없다면</span> <span style=&quot;color: #5e5e64;&quot;><span style=&quot;caret-color: #5e5e64; background-color: #ffffff;&quot;>사건도 없다.</span></span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>전 세계가 사랑한 <span style=&quot;background-color: #f3c000;&quot;><b>거장 감독 스티븐 스필버그의 위대한 꿈의 시작!</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>극장에서 처음 스크린을 마주한 순간부터 영화와 사랑에 빠진 소년 ‘새미’(가브리엘 라벨). 아빠 ‘버트’(폴 다노)의 8mm 카메라로 일상의 모든 순간을 담기 위해 열중하던 새미는 <span style=&quot;background-color: #f3c000;&quot;><b>우연히 필름에 포착된 가족의 비밀을 발견하고 충격에 휩싸인다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>진실을 드러내는 필름의 힘을 실감한 새미에게 삶의 크고 작은 변화가 일어나고,</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>엄마 ‘밋지’(미셸 윌리엄스)의 응원으로 영화에 대한 열정은 더욱 뜨거워진다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>영원히 간직하고픈 기억, 영화의 모든 순간과 사랑에 빠진다!</b></span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section9',
+      text: '1. 존 오브 인터레스트 (2023년)',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/7HEFo/btsIQyzn8tC/AAAAAAAAAAAAAAAAAAAAABCrCwLv64rKC3P2057O-dvy6zDYgzCRs9N1QRhbi6ku/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qfEBH25qA7UlkNmv24lvan79A%2F0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/7HEFo/btsIQyzn8tC/AAAAAAAAAAAAAAAAAAAAABCrCwLv64rKC3P2057O-dvy6zDYgzCRs9N1QRhbi6ku/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qfEBH25qA7UlkNmv24lvan79A%2F0%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>이미 다 소화해버린 악에 대하여, <br/>체온으로만 볼 수 있는 선에 관하여.</span></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #ffffff; color: #5e5e64; text-align: start;&quot;><br/>독일 장교 루돌프 회스(크리스티안 프리델)와 그의 <span style=&quot;background-color: #f3c000;&quot;><b>가족이 꿈꾸는 이상향, 아우슈비츠. </b></span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #ffffff; color: #5e5e64; text-align: start;&quot;>아내 헤트비히(산드라 휠러)가 정성스럽게 가꾼 꽃들이 <span style=&quot;background-color: #f3c000;&quot;><b>만발한 정원은 아이들의 웃음소리로 가득</b></span>하다. </span></p>'
+    },
+    {
+      type: 'ending',
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b><span style=&quot;color: #5e5e64; text-align: start;&quot;>그림처럼 아름다운 집에서, 과연 악마는 다른 세상에 사는 것일까?</span></b></span></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

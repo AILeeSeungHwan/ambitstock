@@ -1,0 +1,181 @@
+const post = {
+  id: 401,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EA%B4%B4%EC%88%98-8%ED%98%B8-2%EA%B8%B0-%EC%9B%90%EC%9E%91-%EB%A7%8C%ED%99%94%EC%B1%85-%EB%82%B4%EC%9A%A9-%EC%8A%A4%ED%8F%AC-%ED%8F%AC%ED%95%A8-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%B3%B4-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC',
+      text: '괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!'
+    },
+    {
+      type: 'intro',
+      html: '<p>최애의 아이 시즌2가 드디어 공개되었습니다. </p><p><span style=&quot;background-color: #f3c000;&quot;><b>방영일은 24년 7월 3일이며,</b></span> 당연하게도 공개 이후 압도적인 인기를 몰고 있습니다.</p><p><span style=&quot;color: #000000;&quot;>최애의 아이를 모티브로 밴드 QWER이 탄생한 만큼, 한국에서 엄청난 인기를 끌고 있는 최애의 아이.</span></p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post401_thumb.svg',
+      alt: '최애의 아이 시즌 2기 드디어 공개! 원작 줄거리와 성우진 방영일정 총정리',
+      caption: '최애의 아이 시즌 2기 드디어 공개! 원작 줄거리와 성우진 방영일정 총정리'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;>과연 이번 시즌도 시즌1에 이어 파격적인 전개로 인기를 몰 수 있을지,</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;> \'시즌1보다 못한 최애의 아이 시즌 2 노잼\' 이라는 평가를 받게 될지, </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;>애니메이션 최애의 아이 시즌 2, 일본 현지 시청자들의 반응과 해외 시청자들의 평점 및 반응 리뷰 살펴보겠습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;>먼저 <span style=&quot;background-color: #f3c000;&quot;><b>\'최애의 아이 시즌2\' 기본적인 줄거리 소개</b></span>로 시작하겠습니다.</span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><a href=&quot;https://ambitstock.com/entry/%EA%B4%B4%EC%88%98-8%ED%98%B8-2%EA%B8%B0-%EC%9B%90%EC%9E%91-%EB%A7%8C%ED%99%94%EC%B1%85-%EB%82%B4%EC%9A%A9-%EC%8A%A4%ED%8F%AC-%ED%8F%AC%ED%95%A8-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%B3%B4-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC&quot; rel=&quot;noopener&quot; title=&quot;괴수 8호 2기 줄거리&quot;>괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!</a></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/>『최애의 아이』 시즌 2는 시즌 1의 긴박한 결말 이후, 주인공 아쿠아마린과 루비가 각각 자신들의 목표를 추구하는 이야기를 이어나갑니다. 이 시즌은 두 주인공이 연예계에 더욱 깊이 빠져들어가며 펼쳐지는 스토리를 중심으로 이어집니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>1. 아쿠아마린의 복수</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>아쿠아마린은 어머니 아이를 죽인 범인을 찾기 위해 끊임없이 정보를 수집하고, 연예계 내부의 어두운 진실에 접근합니다. 그는 자신의 연기 능력을 이용해 여러 인물들과 관계를 맺고, 그 과정에서 자신의 인간성도 시험받게 됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><span style=&quot;background-color: #01ff51;&quot;><b>2. 루비의 아이돌 활동</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>루비는 어머니처럼 성공한 아이돌이 되기 위해 열심히 노력합니다. 그녀는 다양한 오디션과 무대를 통해 자신의 재능을 입증하고, 팬들과의 관계를 형성합니다. 하지만 그녀도 연예계의 어두운 면과 맞닥뜨리게 되며, 자신의 꿈을 이루기 위한 길이 얼마나 험난한지 깨닫게 됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><b><span style=&quot;background-color: #01ff51;&quot;>3. 연예계의 현실</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>시즌 2는 연예계의 화려함 뒤에 숨겨진 현실을 더욱 심도 있게 다룹니다. 주인공들이 맞닥뜨리는 문제들은 단순한 개인적인 갈등을 넘어, 연예계 전체의 구조적 문제와도 연관되어 있습니다. 이를 통해 작품은 시청자들에게 사회적 메시지를 전달하고자 합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #01ff51;&quot;>4. 사랑과 우정</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아쿠아마린과 루비는 각각의 여정에서 다양한 사람들을 만나고, 그들과의 관계 속에서 성장해 나갑니다. 이 과정에서 사랑과 우정의 복잡한 감정이 얽히고, 이는 이야기의 긴장감을 높이는 요소로 작용합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><br/><b><span style=&quot;background-color: #01ff51;&quot;>5. 서스펜스와 반전</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>시즌 2는 시즌 1에 이어 서스펜스와 반전 요소가 가득합니다. 아쿠아마린의 복수 계획이 진행될수록, 예상치 못한 사건들이 벌어지며 이야기는 더욱 흥미진진해집니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><span style=&quot;background-color: #01ff55;&quot;><b>1. 호시노 아쿠아마린 (Aquamarine Hoshino)</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/>- 성우: 오오츠카 타케오 (Takeo Otsuka) <br/>- 설명: 어머니의 복수를 위해 연예계에 뛰어든 천재 배우. 냉철한 판단력과 뛰어난 연기력으로 목표를 향해 나아간다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><span style=&quot;background-color: #01ff55;&quot;><b>2. 호시노 루비 (Ruby Hoshino)</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/>- 성우: 이고마 유리에 (Yurie Igoma) <br/>- 설명: 어머니처럼 성공한 아이돌이 되기를 꿈꾸는 소녀. 그녀의 열정과 노력은 많은 이들에게 영감을 준다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><span style=&quot;background-color: #01ff55;&quot;><b>3. 아리마 카나 (Kana Arima)</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/>- 성우: 한 메구미 (Megumi Han) <br/>- 설명: 뛰어난 연기력과 자신감을 지닌 배우로, 아쿠아마린과 여러 사건을 겪으며 성장을 이어간다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><b><span style=&quot;background-color: #01ff55;&quot;>4. 쿠로카와 아카네 (Akane Kurokawa)</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/>- 성우: 이와미 마나카 (Manaka Iwami) <br/>- 설명: 연예계에서 주목받는 배우로, 자신의 연기 능력을 통해 다양한 감정을 표현하는 데 뛰어나다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><span style=&quot;background-color: #01ff55;&quot;><b>5. 메무쵸 (Mem-cho)</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/>- 성우: 오오쿠보 루미 (Rumi Ookubo) <br/>- 설명: 인기 유튜버이자 아이돌로, 특유의 활기와 매력으로 주변 사람들을 사로잡는다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><b><span style=&quot;background-color: #01ff55;&quot;>6. 호시노 아이 (Ai Hoshino)</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>- 성우: 타카하시 리에 (Rie Takahashi) <br/>- 설명: 전설적인 아이돌이자 아쿠아마린과 루비의 어머니. 그녀의 죽음이 이야기의 중요한 출발점이 된다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><b><span style=&quot;background-color: #01ff55;&quot;>7. 미야코 사이토 (Miyako Saito)</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/>- 성우: 린 (Lynn) <br/>- 설명: \'B-Komachi\'의 매니저이자 아쿠아마린과 루비를 돌봐주는 보호자 역할을 한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><b><span style=&quot;background-color: #01ff55;&quot;>8. 이치고 사이토 (Ichigo Saito)</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/>- 성우: 에가와 히사오 (Hisao Egawa) <br/>- 설명: 미야코의 남편이자 \'B-Komachi\'의 공동 매니저로, 다양한 연예계 문제를 해결한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #01ff55;&quot;>1. 히메카와 <span style=&quot;color: #333333; text-align: start;&quot;>타이키 </span>(Taiki Himekawa)</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/>- 성우: 우치야마 코우키 (Kouki Uchiyama) <br/>- 설명: 새로운 연극 \'Tokyo Blade\'의 주요 배우 중 한 명으로, 주인공들과 다양한 갈등과 협력을 이어나간다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><span style=&quot;background-color: #01ff55;&quot;><b>2. 사쿠야 카모시다 (Sakuya Kamoshida)</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/>- 성우: 코바야시 유스케 (Yusuke Kobayashi) <br/>- 설명: \'Tokyo Blade\'의 다른 주요 배우로, 작품 내에서 중요한 역할을 맡는다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>매주 목요일 새로운 에피소드를 시청하실 수 있습니다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>최애의 아이 시즌 2 몇 부작? 총 13부작으로 아래 표를 통해 출시 일정을 확인해 보세요.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;585&quot; data-origin-width=&quot;625&quot;><span data-alt=&quot;최애의 아이 시즌 2기 공개 일정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dFzr5Y/btsIohLyeDQ/AAAAAAAAAAAAAAAAAAAAAI3hRcVbPxSAflumwT2Fl5rkUBrdIHtU0Ar7QVgXGOCK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cTMf4%2FkF%2FTBn5J%2BolDiWSPk%2FVgk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dFzr5Y/btsIohLyeDQ/AAAAAAAAAAAAAAAAAAAAAI3hRcVbPxSAflumwT2Fl5rkUBrdIHtU0Ar7QVgXGOCK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cTMf4%2FkF%2FTBn5J%2BolDiWSPk%2FVgk%3D&quot;></span><figcaption>최애의 아이 시즌 2기 공개 일정</figcaption> </figure> </p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

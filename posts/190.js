@@ -1,0 +1,189 @@
+const post = {
+  id: 190,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 11월 20일 개봉 영화 위키드가 압도적인 평가를 받고 있습니다.</b></span></p><p>예매율 압도적 1위, 해외 평론가 관객으로부터 압도적인 평점과 후기 관람평, 국내 관객분들과 뮤지컬 소설 원작을 좋아하시는 분들에게 까지 극찬이 이어지고 있습니다.</p><p>2부작으로 구성된 영화 위키드, <b>과연 어떠한 평가를 받았는지, 해외 반응과 로튼 토마토 평점을 바탕</b>으로 알아보도록 하겠습니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post190_thumb.svg',
+      alt: '위키드 Wicked 평점 영화 예매 순위 압도적 1위 결말 리뷰 <2024년 최고의 영화>',
+      caption: '위키드 Wicked 평점 영화 예매 순위 압도적 1위 결말 리뷰 <2024년 최고의 영화>'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '함께 보면 좋은 콘텐츠',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EA%B8%80%EB%9E%98%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-%E2%85%A1-2-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%9B%84%EA%B8%B0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EA%B4%80%EB%9E%8C%ED%8F%89-%EB%B0%98%EC%9D%91-11%EC%9B%94-%EA%B0%80%EC%9E%A5-%EA%B8%B0%EB%8C%80%EB%90%98%EB%8A%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EC%98%81%ED%99%94',
+      text: '글래디에이터 Ⅱ 2 시사회 후기 평론가 관람평 반응 11월 가장 기대되는 개봉 예정작 영화'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '위키드 로튼 토마토 평점',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>위키드 Wicked 로튼 토마토 평론가, 관객 평점입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 91%, 관객 평점 99%의 위키드 로튼 토마토 평점입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>두 그룹에게 이렇게 극찬을 받은 영화를 최근에 본 적이 없습니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>특히나 뮤지컬 영화로 최근 개봉작인 조커 2 폴리 아 되의 실패에 이어 개봉한 대작이 이렇게나 성공적인 결과를 얻게 될지는 몰랐네요.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>높은 평점 뿐만 아니라 로튼 토마토 신선도 보증 마크 획득 및 관객 보증 마크까지 획득하며 엄청난 극찬</b>이 이어지고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>해외 후기 확인해 보도록 하겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<div><center><a href=&quot;https://ambitstock.com/303&quot; title=&quot;위키드 뜻 의미 보러가기&quot;><button class=&quot;primary&quot;>위키드 뜻 의미 보러가기</button></a></center></div>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '위키드 해외 평론가 결말후기 관람평',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>위키드 해외 평론가 결말후기 관람평입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Julian Roman - 평점 3.5/5</span></i><br>위키드는 화려한 극적인 각색으로 브로드웨이 쇼의 팬들과 신규 관객 모두를 매료시킬 만한 높은 점수를 기록한다.</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>Cynthia Erivo와 Ariana Grande는 놀라운 케미스트리를 보여주며, 눈을 사로잡는 뮤지컬 넘버에서 강렬한 보컬을 선보인다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Avi Offer - 평점 없음</span></i><br/>위키드는 시각적으로 놀라운 장면과 활기찬 뮤지컬 넘버, 그리고 Cynthia Erivo의 오스카 급 연기를 자랑하지만, 지나치게 길고 산만하며, 스타일이 실질적인 내용보다 앞서는 문제를 안고 있다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>Ariana Grande는 캐스팅에 맞지 않는다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Karl Delossantos - 평점 4/5</span></i><br/>광범위하고 역동적인 뮤지컬 넘버가 화면을 가득 채우고, 빠른 속도와 더 큰-than-life 캐릭터들로 위키드는 자랑스럽고, 거리낌 없이 뮤지컬로서의 특성을 보여준다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Anthony O\'Connor - 평점 16.5/20</span></i><br/>이 영화는 색감, 마법, 춤, 노래를 만끽하는 뮤지컬로, 발걸음이 맞춰지지 않으면 파트너나 애완동물을 괴롭힐 만큼 강렬한 노래들을 선사하며 흥미진진한 이야기를 전개한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Annie Banks - 평점 7.5</span></i><br/>&quot;Wicked&quot;는 대부분 중력을 거스르며, 그 자체로 인기를 얻을 수 있다는 것을 확실히 증명한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Richard Propes - 평점 3.5/4.0</span></i><br/>&quot;Wicked&quot;의 팬들은 걱정할 필요 없다. Chu는 브로드웨이 뮤지컬의 원작에 충실하면서도 캐릭터와 그들의 이야기에서 새로운 차원과 깊이를 추가했다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Rachel Wagner - 평점 없음</span></i><br/>&quot;Wicked&quot;는 2024년 최고의 영화이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Wenlei Ma - 평점 3.5/5</span></i><br/>&quot;Wicked&quot;는 강렬한 감정과 대형 장면들로 가득 차 있으며, 무대보다 화면에서 훨씬 더 효과적으로 다가온다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Odie Henderson - 평점 2.5/4</span></i><br/>위키드의 이 시각적으로 매력적이지 않은 영화 버전에서 내가 가장 큰 문제를 느낀 것은 톤의 변화를 제대로 처리하지 못했다는 것이다. 권위주의와 넓은 코미디가 어울리지 않는 모습이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Tania Lamb - 평점 없음</span></i><br/>위키드는 기쁨을 주며, 관객들에게 긍정적인 영향을 미칠 수 있는 무한한 잠재력을 지닌 영화다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>Cynthia Erivo는 강력한 존재감을 발산한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Peter Gray - 평점 4.5/5</span></i><br/>&quot;Wicked&quot;는 &quot;좋은 적을 주면 사람들이 모인다는 말&quot;처럼, 악당이 등장하든 아니든, 이 매력적이고 화려한 뮤지컬의 중심에서 발생하는 악행이 충분히 대중이 함께 축하할 만한 파트너십임을 증명한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Nagier Chambers - 평점 A</span></i><br/>Ariana Grande와 Cynthia Erivo는 각자 눈부신 솔로 공연을 선보이며 빛나는 순간을 제공하지만, &quot;Wicked&quot;의 진정한 마법은 그들이 화면에서 함께 있을 때 살아난다. 그들의 예술성과 연기가 전율을 일으킨다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Travis Hopson - 평점 4/5</span></i><br/>&quot;Wicked&quot;는 Chu 감독의 뛰어난 재능을 보여주는 놀라운 작품으로, 눈부신 뮤지컬 넘버(중심 곡인 &quot;Defying Gravity&quot;는 대단하다), 놀라운 세계 구축, 그리고 두 명의 마법 같은 연기를 선보인다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Nate Adams - 평점 B+</span></i><br/>&quot;Wicked&quot;는 두 명의 강력한 연기력과 함께 구식 영화 뮤지컬의 Technicolor 화려함을 불러일으키는 대형 마법적 경험이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Randy Myers - 평점 3.5/4</span></i><br/>&quot;Wicked&quot;은 자신의 비전에서 심장과 두뇌, 그리고 용기를 지니고 있다. 그것은 그 자체로 영혼과 정신을 가지고 있으며, 세대에 걸쳐 영화 애호가들을 사로잡을 것이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>David Poland - 평점 없음</span></i><br/>나는 &quot;Wicked&quot;에 대해 애니메이션 영화들처럼 깊은 감동을 느끼지 못했지만, 충분히 아름다웠고 순간순간 즐거웠다. 그러나 더 감동을 느끼고 싶었지만, 그렇지 못했다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Carla Hay - 평점 없음</span></i><br/>위키드는 훌륭한 제작 가치와 재미있는 공연들이 있는 무대 뮤지컬의 매혹적인 영화 버전이다. 그러나 지나치게 긴 영화가 되어 뮤지컬을 좋아하지 않는 사람들에게는 인내를 시험할 것이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Fred Topel - 평점 없음</span></i><br/>위키드는 <span style=&quot;color: #333333; text-align: start;&quot;>최고의<span> 영화인 </span></span>두 개의 &quot;Step Up&quot; 속편을 만든 감독의 작품답게 확실한 뮤지컬이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/>이상으로 영화 위키드 해외 평론가 결말후기 리뷰 포스팅 마칩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>최근에 이 정도로 극찬인 영화가 있었나 싶을 정도의 리뷰입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화관에서 반드시 확인해 보시길 바랍니다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p>감사합니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

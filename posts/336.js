@@ -1,0 +1,136 @@
+const post = {
+  id: 336,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>디즈니 플러스 드라마 폭군( 영어 제목 The Tyrant )의 해외 평점과 후기반응입니다.</b></span></p><p>IMDB와 로튼 토마토에서 확인하였으며, 해외 시청자들은 어떻게 폭군을 보았을 지 알아보겠습니다.</p><p>시즌 1 회수 안된 떡밥 정보와 시즌 2 줄거리 내용 예상은 해당 포스팅을 확인해보세요.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post336_thumb.svg',
+      alt: '디즈니 플러스 드라마 폭군 해외 평점과 인기 순위 극명히 갈린 후기반응',
+      caption: '디즈니 플러스 드라마 폭군 해외 평점과 인기 순위 극명히 갈린 후기반응'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1148&quot; data-origin-width=&quot;956&quot;><span data-alt=&quot;드라마 폭군 해외 평점 후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bGfkNA/btsJb45cGpR/AAAAAAAAAAAAAAAAAAAAADsD_dDwWMPoRmWa290HKISP_D9UsLHXActGCTHbHCQg/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=e94oqDQvlZdQy6TrOzq2qdgUWQs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bGfkNA/btsJb45cGpR/AAAAAAAAAAAAAAAAAAAAADsD_dDwWMPoRmWa290HKISP_D9UsLHXActGCTHbHCQg/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=e94oqDQvlZdQy6TrOzq2qdgUWQs%3D&quot;></span><figcaption>드라마 폭군 해외 평점 후기반응</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>로튼 토마토 폭군 평점입니다.</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>아직 평론가 평점은 확인되지 않은 드라마 폭군입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>관람객 평점은 90%로 준수한 평가를 받고 있습니다.</b> </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>아직 표본이 부족하기 때문에, 충분한 표본이 모이면 새로운 포스팅으로 전달드리겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>IMDB 폭군 평점과 인기 순위 입니다.</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>총 표본 371개, 평점 7점을 기록하고 있으며, </b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>인기순위는 4,504위 상승한 359위로 상당히 높은 랭킹에 올라섰습니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>8월 14일 공개 된 작품이기 때문에, 앞으로 해외 시청자들이 더욱 많이 시청한 이후 순위가 상승하게 될 예정입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이에 대한 평점과 인기 순위도 다른 포스팅에서 전해드리겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>드라마 폭군의 해외 후기반응 </b><b>긍정리뷰와 부정리뷰로 나누어 전해드립니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>완전 극명히 갈린 리뷰이기 때문에, 양극단의 해외 반응을 모두 살펴보실 수 있으실 것 입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1254&quot; data-origin-width=&quot;2136&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 해외 후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/0rg84/btsJbIVFY7k/AAAAAAAAAAAAAAAAAAAAAMv8t6BFAXbxzulB6gTh65DJRcjLXEy3FLlQee0of6oN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DUHeOnCOA1hUEA2OtDkNLK8E01M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/0rg84/btsJbIVFY7k/AAAAAAAAAAAAAAAAAAAAAMv8t6BFAXbxzulB6gTh65DJRcjLXEy3FLlQee0of6oN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DUHeOnCOA1hUEA2OtDkNLK8E01M%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 해외 후기반응</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>어딘가 중간에 위치한 시즌</b> - <i>8/10</i></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>시리즈는 마치 \'마녀 Part 1\'과 \'Part 2\' 사이 어딘가에 위치한 듯한 느낌을 줍니다. \'마녀 Part 1\'의 팬이라면 이 드라마 시리즈를 좋아할 가능성이 큽니다. 다만, 이야기를 따라가려면 집중이 필요하며, 특히 누가 누구와 협력하고 싸우고 있는지 파악하기가 어렵습니다. 전반적으로 짧은 런타임이지만 꽤나 재미있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>뛰어나다, 하지만 마지막 에피소드는...</b> - <i>7/10</i></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>첫 세 에피소드는 대본, 연기, 그리고 스토리 모두 훌륭했습니다. 주인공과 악역들 모두 입체적이며, 예상치 못한 전개로 가득합니다. 하지만 마지막 에피소드에서 다소 실망스러운 부분이 있었습니다. 바이러스가 마치 \'베놈\'과 같은 존재로 등장해 스토리가 다소 흐트러졌습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1254&quot; data-origin-width=&quot;2136&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 해외 후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/I3Nk5/btsJa12H9dw/AAAAAAAAAAAAAAAAAAAAAHEIz0Nxi-UnsMz0Jci6RLKzVXp6QhtHFUvlCzhm6OIK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KZd7ZDZeLVDZRHPyGPLii%2FbB2wo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/I3Nk5/btsJa12H9dw/AAAAAAAAAAAAAAAAAAAAAHEIz0Nxi-UnsMz0Jci6RLKzVXp6QhtHFUvlCzhm6OIK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KZd7ZDZeLVDZRHPyGPLii%2FbB2wo%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 해외 후기반응</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>10점을 주고 싶었지만...</b> - <i>9/10</i></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>감독의 탁월한 비전이 돋보이지만, 첫 세 에피소드에서는 스토리의 전개가 다소 복잡해 이해하기 어려웠습니다. 하지만 뛰어난 연출과 배우들의 열연 덕분에 드라마는 결국 모든 갈등을 잘 마무리합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>비판에 대한 반박</b> - <i>9/10</i></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>한국 드라마와 영화가 올바른 방향으로 나아가고 있다고 생각합니다. 이 시리즈는 독특한 스토리와 훌륭한 연출을 보여주며, 헐리우드의 영향을 받지 않기를 바랍니다. 제작진과 배우들에게 경의를 표합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1254&quot; data-origin-width=&quot;2136&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 해외 후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wMzGv/btsJatk56SX/AAAAAAAAAAAAAAAAAAAAAMasi5RFraj3Q1kx-ipceNMp1j406S_XTN77TilvbNxs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=BVYJWAXB5E4zB137zjuuGAU2CbE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wMzGv/btsJatk56SX/AAAAAAAAAAAAAAAAAAAAAMasi5RFraj3Q1kx-ipceNMp1j406S_XTN77TilvbNxs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=BVYJWAXB5E4zB137zjuuGAU2CbE%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 해외 후기반응</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>잊고 싶은 드라마</b> - <i>1/10</i></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>드라마의 플롯은 완전히 허술합니다. 캐릭터들이 서로를 죽이는 이유도 불분명하며, 모든 장면이 우스꽝스럽게 느껴집니다. 스토리의 진행은 전혀 논리적이지 않으며, 중간에 여러 명의 사람들이 이유 없이 죽어나가는 장면이 반복됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>지루하고 무의미한 폭력</b> - <i>1/10</i></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>스토리가 전혀 없고, 그저 사람들끼리 서로를 죽이는 장면들만 가득합니다. 액션 장면도 매우 단조로워서 시간이 지날수록 지루해집니다. 이 드라마는 제가 본 최악의 한국 드라마 중 하나입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>의미 없는 혼란과 살인</b> - <i>1/10</i></p>'
+    },
+    {
+      type: 'ending',
+      html: '<p>한국 드라마를 좋아하지만, 이 작품은 전혀 이해할 수 없습니다. 캐릭터들이 왜 서로를 죽이는지 알 수 없고, 그 이유조차 제대로 설명되지 않습니다. 액션 장면은 지루하고 반복적이며, 스토리도 없기 때문에 공감할 수 있는 캐릭터도 없습니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

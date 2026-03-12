@@ -1,0 +1,116 @@
+const post = {
+  id: 452,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p>넷플릭스 오리지널 드라마 살인자 ㅇ 난감이 2월 9일 넷플릭스에서 공개 예정입니다.<br>영어 제목은 킬러 역설 (A Killer Paradox)이며, 우리나라 제목인 살인자 ㅇ난감은 어떻게 읽어야 할지 난감하죠.<br><span style=&quot;background-color: #f3c000;&quot;><b>작가님이 직접 밝힌 드라마 살인자 ㅇ 난감 제목 읽는법, 예고편 시청 및 해외 반응 알아보도록 하겠습니다.</b></span><br/> </br></br></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;750&quot; data-origin-width=&quot;1047&quot;><span data-alt=&quot;넷플릭스 드라마 살인자 ㅇ 난감 포스터&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Lt5Ll/btsDHtw9SEX/AAAAAAAAAAAAAAAAAAAAALmTQVjxKXi-NWmLubYIDmseJq12-iVXU8Wz6ZVmWbnU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=H0agXFEcTxhG%2FfPOWdtr9WYsuZk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Lt5Ll/btsDHtw9SEX/AAAAAAAAAAAAAAAAAAAAALmTQVjxKXi-NWmLubYIDmseJq12-iVXU8Wz6ZVmWbnU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=H0agXFEcTxhG%2FfPOWdtr9WYsuZk%3D&quot;></span><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 포스터</figcaption> </figure> </p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 &lt;파묘&gt; 정보</b></span><br/><span style=&quot;color: #666666;&quot;><b>티저 예고편 해외반응이 궁금하다면</b></span></p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post452_thumb.svg',
+      alt: '[넷플릭스 웹툰 원작 드라마 살인장난감? 살인자ㅇ난감? 해외 반응 평점 제목읽는법] 등장인물 최우식 손석구 개봉일 예고편 공개 예정작',
+      caption: '[넷플릭스 웹툰 원작 드라마 살인장난감? 살인자ㅇ난감? 해외 반응 평점 제목읽는법] 등장인물 최우식 손석구 개봉일 예고편 공개 예정작'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 조커 2: 폴리 아 되 정보</b></span><br/><span style=&quot;color: #666666;&quot;><b>조커 1 해외반응이 궁금하다면</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>봉준호 신작 미키 17 정보</b></span><br/><span style=&quot;color: #666666;&quot;><b>기생충 해외반응이 궁금하다면</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p> <br/>해외에 공개된 넷플릭스 드라마 살인자 ㅇ 난감의 트레일러 해외 반응입니다.<br/>괄호는 반응에 대한 좋아요 수를 기록하였습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><br/><span style=&quot;background-color: #f3c000;&quot;><a href=&quot;https://ambitstock.com/48&quot; style=&quot;background-color: #f3c000;&quot;><b>살인장난감 공개 후 해외 평점 및 반응 리뷰 보러가기 </b></a></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;258&quot; data-origin-width=&quot;501&quot;><span data-alt=&quot;넷플릭스 드라마 살인자 ㅇ 난감 최우식&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bCLIqU/btsDLthQWwv/AAAAAAAAAAAAAAAAAAAAADnb4bkBFzQ5qANYYqV_RtPIcroQsVGNnSPOXew_94MY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q38VQ3dtkWkGlast1%2Fxn4r0rAxw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bCLIqU/btsDLthQWwv/AAAAAAAAAAAAAAAAAAAAADnb4bkBFzQ5qANYYqV_RtPIcroQsVGNnSPOXew_94MY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q38VQ3dtkWkGlast1%2Fxn4r0rAxw%3D&quot;></span><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 최우식</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;> @_amaliana ( 302 )</span> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;> @rumjhumgupta7137 ( 16 ) </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;>@lolwtf9267 ( 73 )</span><br/> <br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;551&quot; data-origin-width=&quot;1054&quot;><span data-alt=&quot;넷플릭스 살인자 ㅇ 난감 손석구&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/X3G5f/btsDLunwIRH/AAAAAAAAAAAAAAAAAAAAAMj-vmN6g8tpxShvpzWPFXYthdYg4CJzCOTCJsx5PeFk/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uxVxtbfUUb3vg4zZmg8i5PAVcug%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/X3G5f/btsDLunwIRH/AAAAAAAAAAAAAAAAAAAAAMj-vmN6g8tpxShvpzWPFXYthdYg4CJzCOTCJsx5PeFk/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uxVxtbfUUb3vg4zZmg8i5PAVcug%3D&quot;></span><figcaption>넷플릭스 살인자 ㅇ 난감 손석구</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;> @tempo8785 ( 473 ) </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;> @sanjidashake23 (103)</span><br/> <br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;473&quot; data-origin-width=&quot;950&quot;><span data-alt=&quot;넷플릭스 드라마 살인자 ㅇ 난감 손석구&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cqpcsB/btsDHqmTLm7/AAAAAAAAAAAAAAAAAAAAAO4guUAyncXZgXqRtwjOjhEma-1Djpeep8S5DEuETMwN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3C3QxVjv5DQmHZPlNCq37zioLI4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cqpcsB/btsDHqmTLm7/AAAAAAAAAAAAAAAAAAAAAO4guUAyncXZgXqRtwjOjhEma-1Djpeep8S5DEuETMwN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3C3QxVjv5DQmHZPlNCq37zioLI4%3D&quot;></span><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 손석구</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;> @czennie6 (134) </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;> @inosukehashibira2310 (22) </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;542&quot; data-origin-width=&quot;1053&quot;><span data-alt=&quot;넷플릭스 드라마 살인자 ㅇ 난감 최우식&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/coNrhr/btsDIzXVTAL/AAAAAAAAAAAAAAAAAAAAALK3A1zLptmIUz58Sq_jljC_CIBohIEQqg1rQjngOpKq/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GePiI8L4P9S%2B4cjQW%2FYVKcrY1kc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/coNrhr/btsDIzXVTAL/AAAAAAAAAAAAAAAAAAAAALK3A1zLptmIUz58Sq_jljC_CIBohIEQqg1rQjngOpKq/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GePiI8L4P9S%2B4cjQW%2FYVKcrY1kc%3D&quot;></span><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 최우식</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;> @ainarasoyyo (21)</span><br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;> </span><span style=&quot;color: #9d9d9d;&quot;>@bentucky4324 </span><span style=&quot;color: #9d9d9d;&quot;>(632)</span><span style=&quot;color: #9d9d9d;&quot;></span><br/> <br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;480&quot; data-origin-width=&quot;911&quot;><span data-alt=&quot;넷플릭스 드라마 살인자 ㅇ 난감 최우식&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/P21DF/btsDI9Zf2ba/AAAAAAAAAAAAAAAAAAAAAEGS6rqcNIFugJC-5KPfpwICwRzmhtcbAKLAjxZna3Kx/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CcbQ%2FT6LUL4m75FE8UDTeIicxBM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/P21DF/btsDI9Zf2ba/AAAAAAAAAAAAAAAAAAAAAEGS6rqcNIFugJC-5KPfpwICwRzmhtcbAKLAjxZna3Kx/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CcbQ%2FT6LUL4m75FE8UDTeIicxBM%3D&quot;></span><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 최우식</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p> <br/>아래 영상을 통하여 살인자ㅇ난감 공식 티저 예고편을 확인하실 수 있습니다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p> <br/>작가님이 직접 밝힌 살인자ㅇ난감 제목 읽는 법 알아보겠습니다.<br/> <br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>살인자 오난감, 살인자이응 난감 혹은 살인 장난감</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p> <br/>결국 공식적으로 작가님의 말씀에 읽고 싶은 대로, 본인이 그 상황을 느끼는 대로 읽으면 된다고 합니다.<br/>정답은 없다는 것이죠. <br/>아마 대부분의 사람들은 편히 읽을 수 있는 살인장난감으로 언급하게 될 것입니다.<br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;401&quot; data-origin-width=&quot;600&quot;><span data-alt=&quot;넷플릭스 드라마 살인자ㅇ난감 배우들 ( 왼쪽부터 최우식 손석구 이희준 배우님 )&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/d6nM5L/btsDJhQecxZ/AAAAAAAAAAAAAAAAAAAAAPtNOSgak3iQpWcROGCLb-MSIZPceK7Wt5x0Qov-9qRC/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ioQuG3RlzeERsWeswa5goljNiHs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/d6nM5L/btsDJhQecxZ/AAAAAAAAAAAAAAAAAAAAAPtNOSgak3iQpWcROGCLb-MSIZPceK7Wt5x0Qov-9qRC/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ioQuG3RlzeERsWeswa5goljNiHs%3D&quot;></span><figcaption>넷플릭스 드라마 살인자ㅇ난감 배우들 ( 왼쪽부터 최우식 손석구 이희준 배우님 )</figcaption> </figure> </p>'
+    },
+    {
+      type: 'ending',
+      html: '<p> <br/>이상 살인자ㅇ난감 개봉일, 해외 반응부터 예고편, 제목 읽는 법까지 총정리 마치겠습니다.<br/>감사합니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

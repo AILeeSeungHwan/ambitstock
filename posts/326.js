@@ -1,0 +1,89 @@
+const post = {
+  id: 326,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%98%84%EC%9E%AC-%EC%83%81%EC%98%81%EC%9E%91-%EC%88%9C%EC%9C%84-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EB%A6%AC%EB%B7%B0-%EC%BD%B0%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-3-%EC%B2%AB%EC%A7%B8-%EB%82%A0',
+      text: '영화 콰이어트 플레이스 3 : 첫째 날 해외 평론가 평점 반응 결말 후기'
+    },
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 공포 영화 개봉작 이매지너리의 해외 평점 반응입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>2024년 8월 28일 한국 개봉한 이매니저리 ( IMAGINARY )는 이미 북미에서 3월 8일 개봉하였고, 흥행성적과는 별개로 압도적으로 낮은 평점을 기록하고 있습니다. 이매지너리 외에 한국 공포영화 늘봄가든도 처참한 평점을 기록 중 입니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>이매지너리 해외 평점과 제목 뜻 등 볼만한 영화일지 알아보겠습니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post326_thumb.svg',
+      alt: '영화 이매지너리 뜻 로튼 해외 평점과 반응 | 올해 공포는 다 죽었다',
+      caption: '영화 이매지너리 뜻 로튼 해외 평점과 반응 | 올해 공포는 다 죽었다'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>테넷 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>평론가 평점 24%, 관람객 평점 56%의 이매지너리</b>입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>최근에 본 평점 중 최악중의 최악의 평점을 기록하고 있습니다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가 평점도 로튼, 썩은 토마토의 모습이며, 관람객 평점도 팝콘이 엎어진 그림입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화 이매지너리 IMDB 평점은 4.7점 입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>로튼토마토 관람객 평점보다 더 낮은 평가를 받고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>마찬가지로 최근 IMDB에서 본 평점 중에서 가장 낮은 평점을 기록하고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>4점대 자체를 처음보았다해도 과언이 아닐정도입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화 &quot;이매지너리(Imaginary)&quot;의 제목은 상상(imagination)이라는 개념을 중심으로 만들어졌습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화의 주요 테마인 상상속의 캐릭터를 반영하며, 주인공이 겪는 상상 속의 세계와 현실 사이의 경계를 탐구하는 내용을 담고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>&quot;이매지너리&quot;는 단순히 상상 속에 머물러 있는 것이 아니라, 그 상상력이 현실에 미치는 영향과 그 결과를 다루고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화에서 &lt;이매지너리&gt;는 주인공이나 특정 캐릭터가 만들어낸 상상의 친구나 상황을 의미할 수 있으며, 이러한 상상 속 요소들이 현실에 어떻게 작용하는지를 중심으로 이야기가 전개됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이상 영화 이매지너리 해외 평점 반응과 제목 뜻 의미 포스팅 마칩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>늘봄가든부터 이매지너리까지 올해 개봉하는 공포영화 중 성공작은 없는 것 같습니다. ( 그나마 콰이어트 플레이스 정도..? )</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>다음 포스팅에서 이매지너리 평론가 후기를 다루도록하겠습니다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p>감사합니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

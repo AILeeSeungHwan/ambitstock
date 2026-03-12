@@ -1,0 +1,100 @@
+const post = {
+  id: 312,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>조커 2: 폴리아 되(Joker: Folie à Deux)의 제목 뜻과 의미를 줄거리와 연관하여 자세히 알아보겠습니다.</b></span></p><p>한국 개봉일 2024년 10월 2일 곧 찾아올 영화 조커 2, 조커 1편의 엄청난 임팩트는 여전히 큰 충격을 줄 정도의 여운을 남겼습니다.</p><p>이번 포스팅에서는 폴리아 되 라는 단어의 뜻이 무엇인지, 공개 될 조커 2 폴리아 되 제목과 줄거리사이 어떤 연관성을 가지고 있는지 전체적인 내용들을 살펴보도록 하겠습니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post312_thumb.svg',
+      alt: '조커 2 폴리 아 되 제목 뜻 의미? 줄거리 내용과 연관관계 심층분석',
+      caption: '조커 2 폴리 아 되 제목 뜻 의미? 줄거리 내용과 연관관계 심층분석'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1368&quot; data-origin-width=&quot;1334&quot;><span data-alt=&quot;조커 2 폴리 아 되 제목 뜻 의미&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/tIHMn/btsJwVzYvej/AAAAAAAAAAAAAAAAAAAAAB2wEiDCGD5ZWkZXl7xp55A4FbfofE_zdQ4W0QgtwNmA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DkYuhYbQaHk9Xe3htV9zR95raJ0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/tIHMn/btsJwVzYvej/AAAAAAAAAAAAAAAAAAAAAB2wEiDCGD5ZWkZXl7xp55A4FbfofE_zdQ4W0QgtwNmA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DkYuhYbQaHk9Xe3htV9zR95raJ0%3D&quot;></span><figcaption>조커 2 폴리 아 되 제목 뜻 의미</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>Folie à Deux는 프랑스어로 &quot;공유된 정신 이상&quot; 또는 &quot;공동 정신병&quot;을 의미합니다. 이는 두 명 이상의 사람이 동일한 망상이나 정신적 혼란을 공유하는 현상을 말합니다. 심리학 용어로서, 이 현상은 주로 <b>한 사람의 망상적 사고가 다른 사람에게 전염되어 함께 그 망상을 믿는 상황</b>을 나타냅니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1368&quot; data-origin-width=&quot;1334&quot;><span data-alt=&quot;조커 2 폴리 아 되 제목 뜻 의미&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/zYPQY/btsJwKS1tlm/AAAAAAAAAAAAAAAAAAAAACKorvslyJtY7B6DoeXgKS4uAG0CsZ8jG8PtrkYws1OZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QECTYcCxixUAWitmy%2F0SHcmCP5M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/zYPQY/btsJwKS1tlm/AAAAAAAAAAAAAAAAAAAAACKorvslyJtY7B6DoeXgKS4uAG0CsZ8jG8PtrkYws1OZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QECTYcCxixUAWitmy%2F0SHcmCP5M%3D&quot;></span><figcaption>조커 2 폴리 아 되 제목 뜻 의미</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이 제목은 영화에서 조커(아서 플렉 - 호아킨 피닉스)와 그의 파트너 할리 퀸(레이디 가가)의 관계를 암시합니다. 두 사람은 서로의 혼란스럽고 파괴적인 정신 상태를 공유하며, 이 관계가 영화의 주요 줄거리 중 하나로 다뤄집니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화 조커 2는 전편에서 아서 플렉이 조커로 변신한 후의 이야기를 이어갑니다. 아서가 정신 병원에 갇히게 되고, 그곳에서 할리 퀸을 만나게 됩니다. 할리 퀸은 원래 아서의 치료를 맡은 정신과 의사지만, 점차 그의 망상에 빠져들며 그와 함께 범죄 행위를 저지르는 파트너로 변모하게 됩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1368&quot; data-origin-width=&quot;1334&quot;><span data-alt=&quot;조커 2 폴리 아 되 제목 뜻 의미&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/1VvLR/btsJvQsGEdv/AAAAAAAAAAAAAAAAAAAAAJgzRmqdb9W1Bdb4V2yPaRpUuFO_ib8WDkx9ybNkGotH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wKfWn3naf8U4SlqdiDa8BAfQxWg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/1VvLR/btsJvQsGEdv/AAAAAAAAAAAAAAAAAAAAAJgzRmqdb9W1Bdb4V2yPaRpUuFO_ib8WDkx9ybNkGotH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wKfWn3naf8U4SlqdiDa8BAfQxWg%3D&quot;></span><figcaption>조커 2 폴리 아 되 제목 뜻 의미</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이 과정에서 두 사람은 서로의 혼란스러운 정신 상태가 공유되어 지고, 점점 강화하게 되며, <span style=&quot;background-color: #9feec3;&quot;><b>영화의 제목처럼 두 명이 공유하는 광기의 모습을 보여줍니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화는 뮤지컬 형식을 차용해 아서와 할리 퀸의 정신적 혼란을 더욱 극적으로 표현합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이러한 독특한 형식은 기존의 범죄 스릴러와는 다른 새로운 스타일을 시도했으며, 이로 인해 두 사람의 관계와 광기를 더 깊이 탐구하는 방식으로 진행됩니다. 물론 이러한 방식은 평론가들과 관객들에게 거부감으로 다가올 수 있는 요소가 있기 때문에 어느정도 걱정되는 부분이 있기는 합니다. 인도영화들에서 흔히 볼 수 있는 요소들, 영화 세 얼간이는 많은 이들에게 인생작으로 뽑히면서도 한편으로는 최초에 진입하기 힘든 영화로 유명하죠. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1368&quot; data-origin-width=&quot;1092&quot;><span data-alt=&quot;조커 2 폴리 아 되 제목 뜻 의미&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/5YJi7/btsJuU3In1f/AAAAAAAAAAAAAAAAAAAAACKlzdlnh0TkA4rr1FlFK-ysvJAGViTWuNBOBqDAK1dm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oifl99vHMuWmlgwWW4Z3MRm5JcQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/5YJi7/btsJuU3In1f/AAAAAAAAAAAAAAAAAAAAACKlzdlnh0TkA4rr1FlFK-ysvJAGViTWuNBOBqDAK1dm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oifl99vHMuWmlgwWW4Z3MRm5JcQ%3D&quot;></span><figcaption>조커 2 폴리 아 되 제목 뜻 의미</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이와 관련하여 다음 포스팅에서는 평론가들의 조커 2 폴리아 되 시사회 후기 반응을 알아보도록 하겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>조커는 일반적으로 트럼프 카드의 조커(광대)를 가리키며, 게임에서 어떤 역할로도 사용할 수 있는 자유로운 카드</b></span>입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1150&quot; data-origin-width=&quot;1846&quot;><span data-alt=&quot;조커 2 폴리 아 되 제목 뜻 의미&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/xiGYW/btsJuENJhlc/AAAAAAAAAAAAAAAAAAAAAC2z64nUkoHwAquqFza0Hj_oR86MX2q5fF8nnrsXogE0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=63UV%2FsGzqfZosEEbswo71cSt8Co%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/xiGYW/btsJuENJhlc/AAAAAAAAAAAAAAAAAAAAAC2z64nUkoHwAquqFza0Hj_oR86MX2q5fF8nnrsXogE0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=63UV%2FsGzqfZosEEbswo71cSt8Co%3D&quot;></span><figcaption>조커 2 폴리 아 되 제목 뜻 의미</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이처럼 영화 속에서 조커는 규칙을 무시하고 혼돈을 일으키는 존재로 묘사됩니다. 아서 플렉은 이 조커라는 이름을 통해 사회 규범과 도덕을 거부하고, 자신만의 방식으로 세상을 혼란에 빠뜨리는 인물로 변모합니다. 조커는 자신의 고통과 사회적 소외를 극단적인 방식으로 표현하는 캐릭터로, 그의 웃음 뒤에 감춰진 깊은 절망과 분노를 상징합니다.<br/><br/></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1086&quot; data-origin-width=&quot;1898&quot;><span data-alt=&quot;조커 2 폴리 아 되 제목 뜻 의미&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/3cnKP/btsJwRLdjhg/AAAAAAAAAAAAAAAAAAAAAFNcK_m1TvvdXtfmD8h8TrDnRVvBr1qQgL9whFwELAas/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RQqHbMYhCA7w17KLac5zH4FfD3s%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/3cnKP/btsJwRLdjhg/AAAAAAAAAAAAAAAAAAAAAFNcK_m1TvvdXtfmD8h8TrDnRVvBr1qQgL9whFwELAas/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RQqHbMYhCA7w17KLac5zH4FfD3s%3D&quot;></span><figcaption>조커 2 폴리 아 되 제목 뜻 의미</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화 조커 2는 이러한 조커의 광기와 그에게 영향을 받는 다른 사람들의 변화를 탐구하며, 특히 아서와 할리 퀸의 복잡한 관계를 통해 ‘폴리아 되’라는 제목의 의미를 잘 드러냅니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>조커2 폴리아 되 제목 뜻과 의미에 대해 줄거리 내용과 함께 심층적으로 분석</b></span>해보았습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>다음 포스팅에서는 조커 2 시사회 후기 반응을 전해드리겠습니다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p>감사합니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

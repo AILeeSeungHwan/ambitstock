@@ -1,0 +1,200 @@
+const post = {
+  id: 104,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p><b>현재 넷플릭스에서 시청가능한 영화 도그데이즈 (영어제목 : Dog Days)</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 도그데이즈의 뜻 의미 해석과 함께 해외 평점을 알아보고 볼만한 작품인지 확인해 보도록 하겠습니다.</b></span></p><div><center><a href=&quot;https://www.netflix.com/browse?jbv=81777530&quot; title=&quot;도그데이즈 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>도그데이즈 바로 보러 가기👉</button></a></center></div>'
+    },
+    {
+      type: 'image',
+      src: '/images/post104_thumb.svg',
+      alt: '도그데이즈 영화 줄거리 제목 뜻 해석 해외 평점 <Dog Days 넷플릭스 ON>',
+      caption: '도그데이즈 영화 줄거리 제목 뜻 해석 해외 평점 <Dog Days 넷플릭스 ON>'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '함께 보면 좋은 콘텐츠',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/2025%EB%85%84-%ED%95%9C%EA%B5%AD-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '2025년 넷플릭스 한국 영화 추천 개봉예정작 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '영화 도그데이즈 줄거리',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p><b>깔끔하고 계획적인 성격의 싱글남 ‘민상’(유해진)</b>은 영혼을 쏟아 넣어 산 건물을 <b>세입자 ‘진영’(김서형) 때문에 고생</b>하고 있다. 매일 같이 티격태격하며 스트레스를 받는 민상은 오늘도 동물병원에서 성격이 강한 할머니를 만나게 되는데, 그 할머니는 <b>세계적인 건축가 ‘민서’(윤여정)</b>였다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>진행 중인 프로젝트를 위해 민상은 민서의 도움을 절실히 필요로 하고, <br>그녀에게 잘 보이기 위해 ‘진영’과 그녀의 반려견인 ‘차장님’을 공략하기 시작한다.</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>한편, 민서는 갑작스런 쓰러짐으로 유일한 가족인 반려견 ‘완다’를 잃어버리게 된다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>그녀는 동네의 케이팝 작곡가인 ‘선용’(정성화)과 그의 아내 ‘정아’(김윤진)가 완다를 돌보고 있다는 사실을 모르고, 자신을 구해준 MZ 배달 라이더 ‘진우’(탕준상)와 함께 완다를 찾기 위한 여정을 시작한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>그리고, 선용의 후배이자 밴드 리더인 ‘현’(이현우)은 여친이 자리를 비운 사이, 그녀의 반려견 ‘스팅’을 돌보던 중, 여친의 전남친 ‘다니엘’(다니엘 헤니)이 나타나 혼란에 빠진다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>특별한 단짝 덕분에 엮이게 된 이들에게 펼쳐지는 기분 좋은 갓생 이야기가 이제 시작된다!</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '도그 데이즈 영어제목 뜻 해석',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;></span><span style=&quot;color: #781b33;&quot;>도그 데이즈</span><br/><span style=&quot;color: #781b33;&quot;>Dog Days</span></b></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p>\'도그데이즈\'는 반려견을 통해 다양한 인물들의 삶이 교차하고 변화하는 이야기를 담고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화의 제목인 \'도그데이즈(Dog Days)\'는 예상하시는 것처럼 \'반려견\'과 밀접한 관련이 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<h4><b>1. 반려견과의 관계</b></h4>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화는 반려견을 중심으로 여러 인물들의 이야기가 전개됩니다. 예를 들어, 세계적인 건축가 민서(윤여정 분)는 유일한 가족인 반려견 \'완다\'를 잃어버리고, 배달 라이더 진우(탕준상 분)와 함께 완다를 찾으며 새로운 인연을 맺습니다. 이처럼 <b>반려견은 인물들 간의 관계를 이어주는 매개체로 등장</b>합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<h4><b>2. 여름의 \'Dog Days\'</b></h4>'
+    },
+    {
+      type: 'body',
+      html: '<p>좀 더 다른 의미를 살펴보도록 하겠습니다. \'Dog Days\'는 원래 북반구에서 가장 더운 여름 시기를 의미합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>천문학적으로는 큰개자리(Canis Major)의 별인 시리우스가 <b>태양과 함께 떠오르는 시기</b>를 가리킵니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>이 뜻에서 영화 제목이 <b>인생에서 가장 고되고 힘든 시기, 즉 \'가장 뜨거운 날들\'을 비유적으로 표현</b>할 수 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<h4><b>3. 삶의 고난과 갈등 </b></h4>'
+    },
+    {
+      type: 'body',
+      html: '<p>\'Dog Days\'는 관용적으로 힘들고 고통스러운 시기를 뜻하기도 합니다. 따라서 영화가 <b>인물들이 겪는 갈등, 삶의 고단함, 혹은 감정적으로 뜨거운 순간들을 담고 있다면 제목과 연결</b>될 수 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>예를 들어, 건물주 민상(유해진 분)은 세입자인 수의사 진영(김서형 분)과의 갈등을 겪지만, 반려견을 통해 관계를 회복하고 새로운 시각을 갖게 됩니다. 따라서, 영화 \'도그데이즈\'의 제목은 반려견을 통해 인물들이 겪는 다양한 삶의 이야기와 그 속에서의 성장, 그리고 힘든 시기를 함께 극복해 나가는 과정을 상징적으로 담고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<div><center><a href=&quot;https://www.imdb.com/title/tt30911335/?ref_=nv_sr_srsg_4_tt_8_nm_0_in_0_q_Dog%2520Days&quot; title=&quot;도그 데이즈 해외 평점은?&quot;><button class=&quot;btn-hover color-8&quot;>도그데이즈 해외 평점 보러 가기 👉</button></a></center></div>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><b>영화 도그데이즈 해외 시청자는 어떻게 보았을까?</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><b>평점이 궁금하시다면??</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<div><center><a href=&quot;https://www.netflix.com/browse?jbv=81777530&quot; title=&quot;도그데이즈 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>도그데이즈 바로 보러 가기👉</button></a></center></div>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><b>위 링크를 통해</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><b>삶이 다할때까지 바로 시청하러 가보세요</b></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section4',
+      text: '도그데이즈 해외 시청자 후기',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 영화 도그데이즈 </b></span><span style=&quot;background-color: #9feec3;&quot;><b>해외 시청자 후기입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>다시 보고 싶을 정도로 너무 귀여운 영화</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p>이 영화 정말 좋았어요. 비행기에서 봤는데 너무 귀엽더라고요. 기분 좋고, 재미있고, 깔끔하면서도 약간의 깊이도 있었어요. 이 영화가 얼마나 잘 만들어졌는지 정말 감명받았고, 보는 내내 정말 즐거웠어요. 꼭 보시길 추천드려요. 다시 보고 싶을 정도예요!</p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>윤여정, 유해진 연기가 인상적</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화는 반려동물과 인간 간의 따뜻한 관계를 섬세하게 그려냈다. 윤여정과 유해진의 연기는 특히 인상적이며, 감동적인 스토리가 마음을 울린다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>다소 예측가능</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p>영화의 전개가 다소 예측 가능하고 감성에 치중한 면이 있다. 여러 인물들의 이야기를 다루다 보니 각 캐릭터의 깊이 있는 묘사가 부족하다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<h3>반려동물을 키우는 사람이라면</h3>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>누구나 공감할 수 있는 이야기</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>곳곳에 숨어있는 유머도 좋았고, 감동적인 장면들도 많았다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

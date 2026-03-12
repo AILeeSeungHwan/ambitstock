@@ -1,0 +1,128 @@
+const post = {
+  id: 320,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시청가능 영화 딜리버런스 제목 뜻 의미와 해외 평점 후기반응 알아보겠습니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>최근 공개된 넷플릭스 영화들의 퀄리티에 실망감을 가진 분들이 많으실겁니다. ( 재밌었던 작품이 무엇이었는지 기억이 잘 나지 않음.. )</p><p style=&quot;color: #333333; text-align: start;&quot;>과연 여름맞이 공포영화 딜리버런스의 후기는 어떠한지, 로튼 토마토 평점과 후기 반응을 통해 알아보도록 하겠습니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post320_thumb.svg',
+      alt: '요즘 넷플릭스 영화 왜이래 | 딜리버런스 뜻 의미 해외 평점과 후기 반응 (공포)',
+      caption: '요즘 넷플릭스 영화 왜이래 | 딜리버런스 뜻 의미 해외 평점과 후기 반응 (공포)'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><b>&quot;더 딜리버런스(The Deliverance)&quot;</b>의 제목 Deliverance는 <b>&quot;구원&quot;</b> 또는 <b>&quot;해방&quot;</b>이라는 의미를 담고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>한 싱글맘이 새로운 집으로 이사한 후, 그 집에 존재하는 악령과 싸우며 자신의 신앙과 자녀들을 지키기 위해 고군분투하는 이야기를 다루고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>따라서, 이 제목은 주인공이 악령으로부터 자신과 가족을 구원하려는 과정의 상징적 표현입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>딜리버런스 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가 평점 32%, 관람객 평점 52%의 딜리버런스입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>상당히 낮은 점수의 딜리버런스, 지난 포스팅에서 더 유니온과 비슷한 평점을 기록하고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>최근에 공개된 넷플릭스 오리지널 작품 중 성공한 작품이 있었나 생각해봐야 할 정도로 그 퀄리티와 각본 연출이 실망스럽습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>그렇다면 평론가들의 딜리버런스 후기반응 어떠한지 살펴보겠습니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Emiliano Basile</b> - 5/10<br>안드라 데이와 글렌 클로즈가 \'The Deliverance\'의 중심 역할을 하였음. 두 사람의 화면 상 화학작용과 감정적 깊이 덕분에 영화가 어느 정도 신뢰성을 유지할 수 있었음.</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Jorge Loser</b> - 2.5/5<br>스크립트가 비밀리에 반동적인 것은 아니었으나, 도덕적인 라이프타임 영화로 광고되었으며 복음주의 기업들이 자금을 지원한 것처럼 보였음.</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Jennifer Green</b> - 신선한 평가 (점수 없음)<br/>그럼에도 불구하고, 첫 번째 절의 드라마와 두 번째 절의 공포를 보기 어려운 상황에서 이 영화는 관객을 쉽게 찾을 것임.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Ben Travis</b> - 2/5<br/>잘-intentioned, 안드라 데이의 강력한 연기와 함께 — 그러나 불균형한 인간 드라마는 결국 지루하게 익숙한 공포 장르의 클리셰로 이어짐. \'The Deliverance\'는 전달하는 데 어려움을 겪었음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Shawn Edwards</b> - 4/5<br/>안드라 데이와 글렌 클로즈의 연기가 오스카를 수상하는 것보다 나을 정도로 훌륭하였음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Rodrigo Perez</b> - C<br/>다니엘의 최신작, 공포 영화와 사회 드라마를 혼합하였으나, 과도하고 비참한 \'Push\'와 유사한 경향을 보였음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Christy Lemire</b> - 2/4<br/>\'The Deliverance\'가 장르 영화로 전환되면서 익숙한 공포를 제공하였음.<b></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Jeanine T. Abraham</b> - 0<br/>\'The Deliverance\'는 여러 전형적인 공포 영화 클리셰를 조합하였고, 근로계층 흑인 동네를 배경으로 하였으며, 글렌 클로즈의 21세기 민스트럴식 연기가 포함되었음. 이로 인해 영화는 지루하고 예측 가능하였음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Eddie Harrison</b> - 2/5<br/>\'The Deliverance\'는 고급스러운 쓰레기에 불과하였음. 많은 돈을 들였으나, 전형적인 영화들에서 별로 새로울 것이 없었음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Preston Barta</b> - 신선한 평가 (점수 없음)<br/>가족 드라마의 힘이 영화의 첫 부분을 강하게 끌어당기지만, 후반부에서는 보다 전형적인 악마의 소유 이야기로 방향을 바꾸었음. 다니엘은 중요한 기회를 놓쳤음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Steven Prokopy</b> - 2/4<br/>매력적인 전제에도 불구하고, 내러티브의 악마를 쫓으려다 장르의 클리셰에 휘말리게 되었음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Casey Chong</b> - 2/5<br/>튼튼한 캐스트가 있더라도 이 영화는 가정 드라마와 악마의 소유 공포 스릴러의 실망스럽게 불균형한 혼합을 벗어나지 못하였음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Tim Robey</b> - 1/5<br/>영화는 진부한 작품으로 전락하였음. 그러나 라토야에 대한 헌신으로 자신을 진지하게 여기는 듯하지만, 단순히 복음 진리를 발명하려는 시도를 하였음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Todd Jorgenson</b> - 신선한 평가 (점수 없음)<br/>매력적인 전제에도 불구하고, 내러티브의 악마를 쫓으려다 장르의 클리셰에 휘말리게 되었음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>John Serba</b> - 신선한 평가 (점수 없음)<br/>너무 뻔하고 자극적인 멜로드라마로 가득 차서 오히려 웃음이 나올 정도였음. 이 이야기는 웃음을 유발해야 할 것이 아니라는 점에서 웃음을 참기 어려웠음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Kevin Maher</b> - 3/5<br/>이 영화의 의도는 훌륭하였음. 오래된 장르에 대해 독창성과 열정을 가지고 접근하였으나, 결국에는 다소 단조로워졌음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Abhishek Srivastava</b> - 2.5/5<br/>다른 흑인 공포 영화의 성공을 고려할 때, 이 영화는 새로운 것을 제공할 잠재력이 있었으나, 결국 기대에 미치지 못하였음.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>Sean Collier</b> - 8/10<br/>악마들은 초자연적일 수 있지만, 진짜 공포는 중독, 세대적 트라우마와 경제적 어려움에 있음.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p><b>Elliott Collins</b> - 2.8/5<br/>\'The Deliverance\'는 \'The Exorcist Believer\'가 추구했던 것을 예기치 않게 더 나은 버전으로 제공하였음. 매력적인 캐릭터와 관계에 투자하였지만, 공포를 제공하는 데는 실패하였음.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

@@ -1,0 +1,313 @@
+const post = {
+  id: 472,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #333333; text-align: start;&quot;><span><span style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>&lt;노량:죽음의 바다&gt; 가 금일 누적 관객수 426만명을<i>(24.01.13 기준)</i> </b> <b>기록</b></span>하였습니다. </span></span></span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #333333; text-align: start;&quot;><span><span style=&quot;color: #333333; text-align: start;&quot;>서울의 봄과 함께 역사를 기반으로 한, 흥행을 이어가고 있는 <span style=&quot;color: #333333; text-align: start;&quot;>두 한국영화.</span> </span></span></span><span style=&quot;color: #333333; text-align: start;&quot;><span><span style=&quot;color: #333333; text-align: start;&quot;>이와 더불어 해외에서는 23년 12월 22일 미국 로스앤젤레스 4개관 개봉, 뒤이어 호주와 뉴질랜드에서는 24년 1월 4일 개봉, 캐나다 1월 5일 개봉이 예정되어있습니다. </span></span></span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #333333; text-align: start;&quot;><span><span style=&quot;color: #333333; text-align: start;&quot;>그렇다면 현재까지 &lt;노량:죽음의 바다&gt;에 대한 해외 관객반응은 어떠할까요. 개봉한지 얼마 안된 영화인 만큼 노량과 더불어 이전 작품인 &lt;한산:용의 출현&gt; 의 해외반응, 특히 역사적 관계가 얽힌 일본 관객의 반응도 함께 살펴보도록 하겠습니다.</span></span></span></p><p style=&quot;color: #333333; text-align: start;&quot;>로튼 토마토와 IMDB, filmark 리뷰를 참고하였습니다.<b><span style=&quot;color: #1a5490;&quot;></span></b></p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post472_thumb.svg',
+      alt: '[영화 노량:죽음의 바다 관객수 해외 개봉 반응 리뷰 및 평점] - 이리도 조선에 편리한 이야기 일본 반응? 한산:용의 출현 넷플릭스 다시 보기',
+      caption: '[영화 노량:죽음의 바다 관객수 해외 개봉 반응 리뷰 및 평점] - 이리도 조선에 편리한 이야기 일본 반응? 한산:용의 출현 넷플릭스 다시 보기'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '1. 로튼 토마토 ( Rotten Tomatoes 평론가 리뷰 )',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><b>영화 노량 : 죽음의 바다 해외 평점 및 리뷰</b></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;로튼토마토-노량.JPG&quot; data-origin-height=&quot;319&quot; data-origin-width=&quot;947&quot;><span data-alt=&quot;로튼 토마토 영화 노량:죽음의 바다 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Tgzlz/btsCQ4Rs4BN/AAAAAAAAAAAAAAAAAAAAAF-rRf7pIZfsiE8Dl817M_TMEk4N_hQFfbohzIEwsZIa/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=j9vN7i0l5gr6k%2BAxyrFGBOH9img%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Tgzlz/btsCQ4Rs4BN/AAAAAAAAAAAAAAAAAAAAAF-rRf7pIZfsiE8Dl817M_TMEk4N_hQFfbohzIEwsZIa/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=j9vN7i0l5gr6k%2BAxyrFGBOH9img%3D&quot;></span><figcaption>로튼 토마토 영화 노량:죽음의 바다 평점</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>아직 미국에선 개봉한 관이 얼마 안되어서 인지 평론가 평점으로 측정되는 TOMATOMETER를 확인 할 수 없었습니다. 관람객 평점또한 그 표본은 적지만 영화를 보고 평가한 관객 모두 100점을 부여하며 매우 긍정적으로 작품을 감상한 것으로 보여집니다. 3개의 이순신 시리즈를 모두 본 관객이 많으며, 할리웃 영화와 비교하며 극찬을 남겼습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #666666;&quot;> Avi Offer - NYC Movie Guru </span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #666666;&quot;>Jan 1, 2024</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #333333;&quot;><b><span style=&quot;background-color: #ffffff; text-align: start;&quot;> 감동적이고 스릴 넘치며 짜릿한 광경.</span></b></span> <span style=&quot;background-color: #f3f3f3; color: #2a2c32; text-align: start;&quot;></span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><i><span style=&quot;color: #ef6f53;&quot;>(드디어 로튼 토마토에 노량 평론가 리뷰가 등장하였습니다. * 1월1일 신념기념으로 보고 오신 열정적인 분)</span></i></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><i><span style=&quot;color: #ef6f53;&quot;>&lt;24.01.13 업데이트&gt;</span></i></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #666666;&quot;><i>Panos Kotzathanasis - HanCinema</i></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;color: #f3c000;&quot;>Original S</span><span style=&quot;color: #f3c000;&quot;>core : 7 / 10</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #ffffff; color: #2a2c32; text-align: start; font-family: \'Noto Serif KR\';&quot;>\'명량\'에 비하면 다소 수준은 낮지만 \'노량\'은 흥행의 길에서 약속했던 모든 것을 구현한 작품으로, </span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #ffffff; color: #2a2c32; text-align: start; font-family: \'Noto Serif KR\';&quot;>서사영화 팬들이 좋아할 만한 영화임에 틀림없다. </span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #666666;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>Kate Sánchez - But Why Tho? A Geek Community</span></b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;color: #f3c000;&quot;>Original S</span><span style=&quot;color: #f3c000;&quot;>core : 7.5 / 10</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>기본적으로 Noryang: Deadly Sea는 장르의 모든 측면에서 전쟁 서사시를 구현합니다. 나머지 3부작과 함께 보면 김한민은 이순신의 해군력의 신화적인 부분을 잘 보여줬습니다. </span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;노량 포스터.jpg&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;512&quot;><span data-alt=&quot;영화 노량: 죽음의 바다 포스터&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bfql8X/btsDqk0JI0f/AAAAAAAAAAAAAAAAAAAAAK6SiHvXPfzX8Em21O2iPH3oaFGY2Z1va-y7hT9c0STT/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nBXEHUPy7mSrkFZ2rUAEzADIc0Q%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bfql8X/btsDqk0JI0f/AAAAAAAAAAAAAAAAAAAAAK6SiHvXPfzX8Em21O2iPH3oaFGY2Z1va-y7hT9c0STT/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nBXEHUPy7mSrkFZ2rUAEzADIc0Q%3D&quot;></span><figcaption>영화 노량: 죽음의 바다 포스터</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #666666; font-family: \'Noto Serif KR\';&quot;><b>Ho B - Dec 23, 2023</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;color: #f3c000;&quot;>★ ★ <b><span style=&quot;color: #f3c000;&quot;>★ ★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ </span></b> 5/5</span></b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #333333;&quot;><span style=&quot;background-color: #fdfdfd; text-align: start;&quot;>3부작의 가치 있는 결론입니다. 전투들은 입이 떡 벌어지게 하며, 이러한 종류의 전투씬을 그려낸 할리우드 영화는 없습니다. 최고는 아닐지라도, <span style=&quot;background-color: #fdfdfd; text-align: start;&quot;>의심할 여지 없이 </span>2023년 최고의 영화 중 하나입니다.</span></span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #666666;&quot;><b><span style=&quot;background-color: #fdfdfd; text-align: start;&quot;>Carlos R - Dec 27, 2023</span></b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;color: #f3c000;&quot;>★ ★ <b><span style=&quot;color: #f3c000;&quot;>★ ★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ </span></b><span style=&quot;color: #000000;&quot;> 5/5</span></span></b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: #333333; text-align: start; font-family: \'Noto Serif KR\';&quot;>전 세계 모든 영화관에서 상영되어야 하는 영화입니다. 2023년 최고의 영화입니다. 전투는 1시간 30분 동안 지속되는 장관이고, 화려한 촬영과 함께 좋은 연기를 보여주며, 최고의 삼부작 중 하나인 결말입니다. 이 걸작을 영화관에서 볼 것을 추천합니다.</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><b> 영화 한산 : 용의 출현 해외 평점 및 리뷰 </b></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;328&quot; data-origin-width=&quot;946&quot;><span data-alt=&quot;로튼 토마토 영화 한산:용의 출현 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/LwmV3/btsCTvOxKFF/AAAAAAAAAAAAAAAAAAAAADhqjZ5S5bsrmuxJJtrEZXNS2WMKQjkpZ-PxyDbmG7FP/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wUXJpQaEVnxdNwGkyO9l6uG23GI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/LwmV3/btsCTvOxKFF/AAAAAAAAAAAAAAAAAAAAADhqjZ5S5bsrmuxJJtrEZXNS2WMKQjkpZ-PxyDbmG7FP/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wUXJpQaEVnxdNwGkyO9l6uG23GI%3D&quot;></span><figcaption>로튼 토마토 영화 한산:용의 출현 평점</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #ffffff; color: #2a2c32; text-align: start;&quot;>&lt;한산:용의 출현&gt;의 로튼토마토 평점입니다. 평론가 평점 70%로 나쁘지 않은 성적을 냈고, 관람객 평점은 88%로 긍정적인 평가를 주었습니다. 노량에 리뷰를 남겨준 Ho B와 Carlos R을 찾아보았으나 아쉽게도 한산에는 리뷰를 남기지 않았네요.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>&lt;한산:용의 출현&gt; 평론가 평점입니다. </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #409d00; font-family: \'Noto Serif KR\';&quot;> <b>[Top Critic] Nicolas Rapold - New York Times</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start; font-family: \'Noto Serif KR\';&quot;>군 지도자들의 <span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>너무나도 많은 </span><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>넋나간 표정이,  <span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>전쟁의 영광조차 </span>무능한 것으로 만들어버립니다</span>.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Panos Kotzathanasis 6/10 - HanCinema</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start; font-family: \'Noto Serif KR\';&quot;>&quot;한산: 라이징 드래곤&quot;은 이러한 유형의 영화에 대한 장단점을 모두 가진, 대규모 예산과 블록버스터 형식의 제작이지만, 그 제작 가치와 마지막 전투만으로도 분명히 볼만한 작품입니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;변요한2.jpg&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;834&quot;><span data-alt=&quot;영화 한산:용의 출현 배우 변요한&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bVHjE8/btsDqLjsfOt/AAAAAAAAAAAAAAAAAAAAAFyWpgiVvks3kGczjjHnADiwJj0jyJg_Bm5Yd5zW-96V/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=csn%2FMK0yYO3HMYMd6MbkEVVnAlA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bVHjE8/btsDqLjsfOt/AAAAAAAAAAAAAAAAAAAAAFyWpgiVvks3kGczjjHnADiwJj0jyJg_Bm5Yd5zW-96V/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=csn%2FMK0yYO3HMYMd6MbkEVVnAlA%3D&quot;></span><figcaption>영화 한산:용의 출현 배우 변요한</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Douglas Davidson 3.5/5 - Elements of Madness</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start; font-family: \'Noto Serif KR\';&quot;>... \'한산\'이 휘감는 방식은 마치 전문 체스 선수나 포커 선수들이 머리를 맞대고 자신의 앞에 내어놓는 것을 보는 것처럼 만족감을 남깁니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Avi Offer - NYC Movie Guru</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start; font-family: \'Noto Serif KR\';&quot;>길고 시끄럽고 비디오 게임이나 놀이공원 놀이기구를 타는 것처럼 지친다. 마이클 베이 영화만큼 얕습니다.</span></p>'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '2. IMDB',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;IMDB-노량.JPG&quot; data-origin-height=&quot;516&quot; data-origin-width=&quot;1256&quot;><span data-alt=&quot;IMDB 영화 노량:죽음의 바다 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/OyBYN/btsCMpPQ4lP/AAAAAAAAAAAAAAAAAAAAAKDI0bGOkFvMJLmd3BqxrMjL1GEi6qkg9fKAb7X7wnRS/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XkCKorxlHI0oAbsfWp%2Bp0vh7RM8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/OyBYN/btsCMpPQ4lP/AAAAAAAAAAAAAAAAAAAAAKDI0bGOkFvMJLmd3BqxrMjL1GEi6qkg9fKAb7X7wnRS/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XkCKorxlHI0oAbsfWp%2Bp0vh7RM8%3D&quot;></span><figcaption>IMDB 영화 노량:죽음의 바다 평점</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #1a5490;&quot;><b>평점 8.4/10</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>미국의 영화 정보 모음 사이트인 IMDB 평점입니다. 전 세계 영화사이트 중 압도적 트래픽 유저 수를 보유하고 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>아직 리뷰는 작성되어있지 않으나, 103명 평가 중 8.4점을 기록하며 좋은 평가를 받았습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;>아래 자료를 통해<span> </span></span><span style=&quot;background-color: #fbfbfb; color: #333333; text-align: center;&quot;>영</span><span style=&quot;background-color: #fbfbfb; color: #333333; text-align: center;&quot;>화 &lt;노량:죽음의 바다&gt;</span><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;><span> </span>평점분포를 확인하실 수 있습니다. &lt;데이터 표본 103명&gt;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;IMDB-노량평점분포.JPG&quot; data-origin-height=&quot;651&quot; data-origin-width=&quot;670&quot;><span data-alt=&quot;영화 노량:죽음의 바다 평점 분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cTYUJr/btsCODfLQjT/AAAAAAAAAAAAAAAAAAAAAJXuTDvIFUAcQKrRCC079x3UB_PaheBHHk2PJZfeSSDW/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3nJC3GPgoLnjGJFkHN8Mrf3KMX8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cTYUJr/btsCODfLQjT/AAAAAAAAAAAAAAAAAAAAAJXuTDvIFUAcQKrRCC079x3UB_PaheBHHk2PJZfeSSDW/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3nJC3GPgoLnjGJFkHN8Mrf3KMX8%3D&quot;></span><figcaption>영화 노량:죽음의 바다 평점 분포</figcaption> </figure> </p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '3. Filmarks (일본 평점)',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;filmarks - 한산.JPG&quot; data-origin-height=&quot;422&quot; data-origin-width=&quot;1093&quot;><span data-alt=&quot;영화 한산:용의 출현 일본 평점 및 리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/JWxhk/btsCOzqSnNJ/AAAAAAAAAAAAAAAAAAAAALthntQKqZa5NNarVMLt7__aZ-xdAYdrEU53bP68kHBL/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VRjWS247ahC26joCQ%2FGpf%2BgCj2I%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/JWxhk/btsCOzqSnNJ/AAAAAAAAAAAAAAAAAAAAALthntQKqZa5NNarVMLt7__aZ-xdAYdrEU53bP68kHBL/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VRjWS247ahC26joCQ%2FGpf%2BgCj2I%3D&quot;></span><figcaption>영화 한산:용의 출현 일본 평점 및 리뷰</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>아직 일본에서는 &lt;노량:죽음의 바다&gt;에 대한 평점 및 리뷰가 없습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>&lt;한산:용의 출현&gt;은 일본에서 3.6을 기록하며 한일역사가 얽힌 영화임에도 좋은 평가를 기록하였습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>하지만 역시나 일본 현지에선 민감한 주제일 수 도 있는만큼 부정적인 평가또한 많습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;>아래 자료를 통해<span> </span></span><span style=&quot;background-color: #fbfbfb; color: #333333; text-align: center;&quot;>영</span><span style=&quot;background-color: #fbfbfb; color: #333333; text-align: center;&quot;>화 <span style=&quot;background-color: #fbfbfb; color: #333333; text-align: center;&quot;>&lt;한산:용의 출현&gt;</span> 일본 관람객</span><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;><span> </span>평점분포를 확인하실 수 있습니다. &lt;데이터 표본 283명&gt;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;272&quot; data-origin-width=&quot;703&quot;><span data-alt=&quot;영화 한산:용의 출현 일본 평점 분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bo52M0/btsCTBVu1lq/AAAAAAAAAAAAAAAAAAAAAMtx_TUDlrde29HL5xRnhjpkQaXHnIHQNztYy8IJuaqM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=EEhp4xHF4PKC7NpqMdEju92rgHo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bo52M0/btsCTBVu1lq/AAAAAAAAAAAAAAAAAAAAAMtx_TUDlrde29HL5xRnhjpkQaXHnIHQNztYy8IJuaqM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=EEhp4xHF4PKC7NpqMdEju92rgHo%3D&quot;></span><figcaption>영화 한산:용의 출현 일본 평점 분포</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★<span> </span><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b><span> </span><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b><span> </span>☆ ☆</span><span> </span>3.2/5.0</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>이리도 조선에 편리한 이야기가 있나요? </span><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>의문이네요...</span><br><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>일본 영화보다 전투 장면이 단연 리얼, 일본 지고 있어요. 요로이무샤의 아름다움도 표현할 수 있습니다.근데 전쟁 영화 소재로는 이 정도밖에 없나요? </span><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>와키자카 야스하루, 조선에서는 매우 유명하군요.영화에서는 마지막에 쏘였지만, 이에야스를 따라 장수한 것 같아요. </span><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>지금의 이짜몽 국가를 보고 싶습니다. 의가 없는 나라가 의를 논하지 말아요. </span><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>일본이 모처럼 한자를 퍼뜨렸는데, 이제 읽을 수 없겠네요.</span></br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★<span> </span><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b><span> </span><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b><span> <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b></span></span></b> </span> ☆</span><span> </span>4.0/5.0</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>이거야말로 스펙터클이에요!!</span><br><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>뭐라고 할 수가 없어요, 재밌잖아요!? 라고 목청껏 말하고 싶은 최고의 사극입니다!!!</span><br/><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>나라와 나라가, 호적수끼리 서로의 내부 사정을 안고 존망을 걸고 지략전략을 짜는 한일 전국에마키는, 사극의 가능성을 크게 매료시켜 준 영화였습니다♪︎</span></br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;변요한.jpg&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;768&quot;><span data-alt=&quot;영화 한산:용의 출현 배우 변요한&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bjjYzm/btsDopuVCuI/AAAAAAAAAAAAAAAAAAAAAAw8h6QKz-dOX_mfiKH4zF9LRMuw4_oux1EUGJkdFLl5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nJQ9%2F4YCYsC%2B1XIDTb1ctOGfZAQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bjjYzm/btsDopuVCuI/AAAAAAAAAAAAAAAAAAAAAAw8h6QKz-dOX_mfiKH4zF9LRMuw4_oux1EUGJkdFLl5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nJQ9%2F4YCYsC%2B1XIDTb1ctOGfZAQ%3D&quot;></span><figcaption>영화 한산:용의 출현 배우 변요한</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> ☆ ☆</span><span> </span>3.0/5.0</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>영화음악의 소중함이죠... </span><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>첫 감상입니다.배틀 오션(명량)의 속편입니다.이번에는 전작 감상 시 부족했던 몰입도를 반성하고 자신을 조선 편에 두고 (응원도 하면서) 자세로 임했습니다.음, 그래도 역시 이야기는 즐겁지 않아요.일부 전투 장면만큼은 나름대로 즐길 수 있었습니다.거북선, 뭔가 만화 같은데 실재했나요?즐겁습니다＼(^o^)/</span><br/><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>어쨌든 일본에서는 꽤 귀중한 히데요시 조선 출병 시의 영화 작품이기 때문에 봐두고 손해는 보지 않는 것이 아닐까요?</span><br/><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>탈라레바 이야기는 별로 좋아하지 않지만 히데요시가 조금 더 젊고 진지하게 조선을 가지러 갔다면 전술적, 전략적으로 어떻게 했을까 상상하면 즐겁습니다.그런 작품 보고 싶네요. </span><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>아, 전작과 같다고 할까 제가 보고 온 한국 작품 전체적인 인상인데 배경음악이 너무 본인 존재감을 주장해서 시끄럽고 작품에 맞지 않는 것 같아요. 저만 그런가요?</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★<span> </span><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b><span> <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b> </span>☆ ☆</span><span> 2</span>.7/5.0</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>주역 박해일인데 2017년작 천명의 성의 주역이 훨씬 좋았어요.</span><br/><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>내용도 해상전이 많아서 마지막까지 피곤하네요.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★<span> </span><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b><span> <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b> </span><span> </span>☆ ☆</span><span> </span>2.5/5.0</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>이거 일본인 역은 전혀 더빙이 되어있었는데 목소리 연기까지 보고싶어서요(특히 변요한은) 어딘가에서 그대로 보고싶어요</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★<span> </span><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b><span> </span><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b><span> </span>☆ ☆</span><span> </span>3.8/5.0</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>박진감 넘치는 해전! 배로 만드는 진은 화려하고 볼만합니다!도요토미 히데요시(豊臣秀吉)의 조선 출병은 그다지 모르고 보았지만, 그래도 마지막 싸움에서는 눈이 묶였습니다! </span><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>일본인 역도 한국 배우가 맡았어요.더빙이었지만 입은 일본어의 움직임을 하고 있었기 때문에 제대로 일본어를 외워서 연기했구나, 하고 놀랐습니다!메인인 일본의 사무라이 역에 일본인을 등용해서 한일 합작으로 했다면 더 주목받았을 텐데요.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<blockquote><b> 2024년 최고 기대작 </b></blockquote>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: left;&quot;>2024년 최고 기대작 정보를 끝으로, 영화 노량:죽음의 바다 및 한산:용의 출현 포스팅 마치겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: left;&quot;><b><span style=&quot;color: #000000; background-color: #f3c000;&quot;><a href=&quot;https://ambitstock.com/14&quot; style=&quot;color: #000000; background-color: #f3c000;&quot;>영화 파묘</a></span></b></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/14',
+      text: '[영화 파묘 개봉일 및 티저 예고편 해외반응] - 파묘 뜻 등장인물과 포스터 영어제목 Exhuma 뜻 2월'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: left;&quot;><b><span style=&quot;color: #000000;&quot;><a href=&quot;https://ambitstock.com/12&quot; style=&quot;color: #000000;&quot;><span style=&quot;background-color: #f3c000;&quot;>조커 2: 폴리 아 되</span></a></span></b></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/12',
+      text: '[조커2 영화 개봉일 배우 조커 해외평점과 반응] - 배트맨 할리퀸 합류? 개봉 예정작 (영화 조커 OT'
+    },
+    {
+      type: 'ending',
+      html: '<p><a href=&quot;https://ambitstock.com/9&quot; style=&quot;color: #0070d1;&quot;><u><span style=&quot;background-color: #f3c000; color: #000000;&quot;><b>미키 17</b></span></u></a></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%B4%89%EC%A4%80%ED%98%B8-%EC%8B%9C%EB%A6%AC%EC%A6%88-1%ED%83%84-%EA%B8%B0%EC%83%9D%EC%B6%A9-%EB%AF%B8%ED%82%A417-%EB%B3%B4%EA%B8%B0-%EC%A0%84-%EC%A0%84%EC%9E%91-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0feat-BTS-%EC%86%90%ED%9D%A5%EB%AF%BC-%EB%B4%89%EC%A4%80%ED%98%B8-Lets-Go',
+      text: '[영화 미키17 개봉일 티저 예고편, 개봉전 전작 기생충 해외 평점 반응] 봉준호 시리즈 1탄 - 기생'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

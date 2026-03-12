@@ -1,0 +1,89 @@
+const post = {
+  id: 362,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%80%EC%8A%A4-5-%EB%A9%94%EC%9D%B8-%EB%B9%8C%EB%9F%B0-%EC%BA%89%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%A8%EB%93%A0%EA%B2%83-%ED%9E%88%EC%96%B4%EB%A1%9C%EB%A7%8C-60%EB%AA%85-%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8-%EB%B3%B5%EA%B7%80%EB%8A%94-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91%EA%B3%BC-%EA%B0%9C%EB%B4%89-%EC%A0%95%EB%B3%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0',
+      text: '어벤저스 5 메인 빌런 캉에 대한 모든것, 히어로만 60명 아이언맨 복귀는? - 해외 반응과 개봉 정'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A45-%EB%91%A0%EC%8A%A4%EB%8D%B0%EC%9D%B4-%EB%8B%A5%ED%84%B0-%EB%91%A0-%ED%83%80%EB%85%B8%EC%8A%A4-%ED%8B%B0%EC%96%B4-%EB%B9%84%EA%B5%90-%EA%B7%B8%EA%B0%80-%EB%B9%8C%EB%9F%B0%EC%9D%B4-%EB%90%9C-%EA%B3%BC%EA%B1%B0%EB%B0%B0%EA%B2%BD-2',
+      text: '어벤져스5 둠스데이 닥터 둠 타노스 티어 비교 | 그가 빌런이 된 과거배경 -2'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/2024%EB%85%84-%EB%A7%88%EB%B8%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EC%88%9C%EC%9C%BC%EB%A1%9C-%EC%B4%9D-%EC%A0%95%EB%A6%AC-feat-%EB%94%94%EC%A6%88%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EA%B3%B5%EA%B0%9C-%EC%98%88%EC%A0%95',
+      text: '2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%B6%A9%EA%B2%A9%EC%A0%81-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%BA%A1%ED%8B%B4-%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4-%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8-%EB%8B%A5%ED%84%B0-%EB%91%A0-2025%EB%85%84-%EB%94%94%EC%A6%88%EB%8B%88%EC%9D%98-%EB%A7%88%EB%B8%94-%EB%85%BC%EB%9E%80-%EC%9D%B4%EC%8A%88',
+      text: '충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈'
+    },
+    {
+      type: 'intro',
+      html: '<p><b>R의 필름공장입니다.</b><br> <br><span style=&quot;background-color: #f3c000;&quot;><b>이번 시리즈에서는 어벤져스 둠스데이에 대한 모든 것을 담은 총 다섯 편의 포스팅을 준비</b></span><b>했습니다.</b><br/> <br/><b>현재 포스팅은 시리즈의 첫 번째 글로, </b><br/><b>어벤져스 둠스데이의 전반적인 배경과 닥터 둠에 대한 소개를 다룹니다.</b><br/> </br></br></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1062&quot; data-origin-width=&quot;1066&quot;><span data-alt=&quot;어벤져스 둠스데이 완벽정리 시리즈&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Qk97j/btsIW6vh3pW/AAAAAAAAAAAAAAAAAAAAAN8iWz8cIHuquuF4NxuYmEer7Bu8XhId9tjg6y43uuts/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2G23aQ7ULHqynEGAAb7N2qu7zdU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Qk97j/btsIW6vh3pW/AAAAAAAAAAAAAAAAAAAAAN8iWz8cIHuquuF4NxuYmEer7Bu8XhId9tjg6y43uuts/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2G23aQ7ULHqynEGAAb7N2qu7zdU%3D&quot;></span><figcaption>어벤져스 둠스데이 완벽정리 시리즈</figcaption> </figure> </p><p><br/><b>해당 시리즈는 24년 8월 5일부터 5일간 연재됩니다.</b><br/><b>즐겨찾기, 구독하시면 이후 나오는 포스팅을 바로 확인해보실 수 있습니다.</b><br/> <br/><b></b></p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post362_thumb.svg',
+      alt: '어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1',
+      caption: '어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><b>모든 내용은 원작 코믹스와 마블 공식 홈페이지를 기반으로 제작되었습니다.</b><br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p> <br/><span style=&quot;background-color: #f3c000;&quot;><b>우선 어벤져스5 부제인 둠스데이(영어제목: doomsDay)의 뜻</b></span>을 알아보겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>둠스데이는 영어로 Dooms Day 라 쓰이며 네이버 옥스퍼드 영어 사전에서 확인 할 수 있 듯 <span style=&quot;color: #781b33;&quot;><b>\'최후의 심판일\', 일반적으로는 \'종말의 날\' 또는 \'세계의 종말\'</b></span>을 뜻합니다.<br/> <br/>더 나아가 메인 빌런인 닥터 둠의 이름을 빌려 <span style=&quot;color: #781b33;&quot;><b>\'Doom\'s Day\' \'둠의 날\'로 표현되어 </b></span><span style=&quot;background-color: #01ff51;&quot;><b>멀티버스 전체를 다스리고자 하는 닥터 둠의 위협으로 온 우주의 종말을 초래하는 날 이라는 의미가 담긴 적절한 부제</b></span>입니다.<br/> <br/>그렇다면 닥터 둠이 어떠한 캐릭터이기에 이 세계를 넘어 우주의 종말을 일으키는지 그 배경을 자세히 알아보겠습니다. <br/> <br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p> <br/> <br/> <br/>어벤져스 둠스데이는 마블 시네마틱 유니버스(MCU)의 멀티버스사가 페이지 6의 중요 작품으로, 로버트 다우니 주니어의 닥터 둠이 주요 빌런으로 등장하는 이야기입니다.<br/> <br/><span style=&quot;background-color: #01ff51;&quot;><b>멀티버스를 위협하는 메인빌런 닥터둠이 </b></span><span style=&quot;background-color: #01ff51;&quot;><b>여러 차원에 존재하는 \'히어로들과 빌런들\'와의 전투를 </b></span><span style=&quot;background-color: #01ff51;&quot;><b>중심 스토리라인으로 전개됩니다.</b></span><br/> <br/><span style=&quot;background-color: #ffffff;&quot;>기존에 예정되어 있던 </span><span style=&quot;background-color: #ffffff;&quot;><span style=&quot;color: #781b33;&quot;><b>어벤져스 캉 다이내스티가 정복자 캉 역 조나단 메이저스 배우의 여자친구 폭행사건에 의해 구속되어 하차한 후 </b></span></span><span style=&quot;background-color: #ffffff;&quot;><span style=&quot;color: #781b33;&quot;><b>배우교체가 아닌 메인빌런 자체를 닥터둠으로 변경한 마블.</b></span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p> <br/> <br/><span style=&quot;background-color: #ffffff;&quot;>메인 빌런이 교체되고 둠스데이로 부제를 바꾼 위태로운 MCU의 상황 속 가장 중요한 것은 </span><span style=&quot;background-color: #ffffff;&quot;>결국 바뀐 </span><span style=&quot;background-color: #ffffff; color: #781b33;&quot;><b>메인빌런 닥터둠이 캉보다 매력적인 캐릭터인가, 닥터둠을 맡는 배우가 조나단 이상의 존재감을 뽐 낼 수 있는가</b></span><span style=&quot;background-color: #ffffff;&quot;> 였습니다. </span><br/> <br/><span style=&quot;background-color: #01ff51;&quot;><b>그리고 마블의 로버트 다우니 주니어라는 선택은 모든 팬들의 걱정을 환호로 바꾸었습니다.</b></span><br/> <br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p> <br/> <br/> <br/>원작 코믹스 에서 &quot;시크릿 워즈&quot; 닥터 둠은 <span style=&quot;color: #781b33;&quot;><b>\'갓 엠퍼러 둠\'이라는 이름으로 배틀월드를 통치하며 절대적인 권력을 쥡니다.</b></span><br/> <br/>그는 <span style=&quot;color: #781b33;&quot;><b>멀티버스의 여러 현실을 하나의 세계로 병합</b></span>하고, 자신의 의지에 따라 배틀월드를 통제하려 합니다.<br/>이 과정에서 그는 많은 히어로, 빌런들과 충돌하게 되며, 자신의 목적을 달성하기 위해 어떠한 희생도 불사합니다.<br/> <br/> <br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p> <br/> <br/> <br/><span style=&quot;color: #781b33;&quot;><b>판타스틱4의 기술과 능력을 뺏으려는 시도, 자신의 고향 라트베리아 독재.</b></span><br/><span style=&quot;color: #781b33;&quot;><b>비브라늄 약탈을 위한 와칸다 침공, 비욘더의 힘 탈취시도, 세계 정복 시도.</b></span><br/><span style=&quot;color: #781b33;&quot;><b>우주를 소멸시킬 수도 있는 갤럭투스의 힘 흡수 시도.</b></span><br/> <br/><span style=&quot;background-color: #01ff51;&quot;><b>닥터둠은 끝없는 야망으로 파멸적인 욕심을 보여주는 메인빌런</b></span>의 모습을 보여 왔습니다.<br/> <br/>이러한 닥터 둠의 행보는 앞서 설명하였던 둠스데이의 뜻인 <span style=&quot;background-color: #01ff51;&quot;><b>\'Doom\'s day\' \'둠의 날\'이 닥터 둠의 성향과 행보를 어우르는 완벽한 부제로 읽힐 수 있는 당위성을 부여</b></span>합니다.<br/> <br/> <br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p> <br/> <br/> <br/><b>또한,</b><b> </b><b>&quot;어벤져스 5: 둠스데이&quot;는</b><b> </b><b>&quot;어벤져스: 시크릿 워즈&quot;로 이어지는 중요한 사건을 다루며, 다양한 차원의 히어로들이 힘을 합쳐 멀티버스의 위협에 맞서는 모습을 그릴 것입니다. </b><br/> <br/><b>이 과정에서 </b><span style=&quot;background-color: #01ff51;&quot;><b>닥터 둠과 연관이 많은 판타스틱 4가 합류할 가능성이 굉장히 높으며</b></span><b> 기존 캐릭터들 또한 복귀할 것 입니다. </b><br/><b>그리고 역시나 로버트 다우니 주니어의 닥터 둠과 어벤져스의 대결이 모든 팬들이 원하는 메인 이벤트 일 것입니다.</b><br/> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;872&quot; data-origin-width=&quot;692&quot;><span data-alt=&quot;어벤져스 둠스데이 완벽정리 시리즈&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/oHeaj/btsIVIVmOMQ/AAAAAAAAAAAAAAAAAAAAANoVLWiJppWNheVceRgtxssv_v0OluBwVvb8umFneff3/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=g%2BVjUYKlqKYrIURqBSQXuUP0JW8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/oHeaj/btsIVIVmOMQ/AAAAAAAAAAAAAAAAAAAAANoVLWiJppWNheVceRgtxssv_v0OluBwVvb8umFneff3/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=g%2BVjUYKlqKYrIURqBSQXuUP0JW8%3D&quot;></span><figcaption>어벤져스 둠스데이 완벽정리 시리즈</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p> <br/> <br/>중요한 사실은 2015년부터 2018년까지 이어진 인퍼머스 아이언맨(Infamous Iron Man) <span style=&quot;color: #333333;&quot;>원작 코믹스에서</span><span style=&quot;color: #333333;&quot;> </span>닥터 둠<span style=&quot;color: #1a5490;&quot;>은</span><span style=&quot;color: #333333;&quot;> 그는 자신의 과거를 속죄하고 히어로로서 새로운 길을 걷기 위해 </span><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: #000000;&quot;><b>토니 스타크가 사라진 이후 아이언맨의 갑옷을 입고 히어로로 활동</b></span></span><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: #000000;&quot;><b>하였다는 내용이 존재</b></span></span><span style=&quot;color: #333333;&quot;>한다는 것입니다.</span><br/> <br/><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: #333333;&quot;><b>모습은 다르지만 로버트 다우니 주니어의 아이언 맨 복귀를 기대</b></span></span><span style=&quot;color: #333333;&quot;>하는 말이 팬들 사이에서 나올 수 밖에 없습니다.</span><br/>이에 대한 구체적인 설명은 어벤져스 둠스데이 포스팅 마지막에서 다룰 예정입니다.<br/> </p>'
+    },
+    {
+      type: 'ending',
+      html: '<p><br/><b>여기까지 어벤져스 둠스데이 첫번째 포스팅, 둠스데이의 뜻과 줄거리 내용 포스팅을 마칩니다.</b><br/> <br/><b>다음 포스팅에서는 </b><b>닥터 둠의 과거와 배경 - 빌런이 된 이유와 타노스와 티어비교 알아보겠습니다.</b><br/> </p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

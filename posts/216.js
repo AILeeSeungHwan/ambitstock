@@ -1,0 +1,131 @@
+const post = {
+  id: 216,
+  sections: [
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-2024%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%88%9C%EC%9C%84-TOP-7',
+      text: '넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
+    },
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;background-color: #ffffff;&quot;><b>넷플릭스 영화 순위 돈 무브 볼까 말까 정해드립니다. </b></span></p><p><span style=&quot;background-color: #ffffff;&quot;><b>영화 돈 무브 로튼 토마토 평론가 평점과 후기 입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 돈 무브 로튼토마토 평론가 평점입니다.</b></span></p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post216_thumb.svg',
+      alt: '넷플릭스 영화 순위 돈 무브 볼까 말까? 평점 평론가 결말 후기 관람평',
+      caption: '넷플릭스 영화 순위 돈 무브 볼까 말까? 평점 평론가 결말 후기 관람평'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 73%, 관람객 평점 38%의 영화 돈 무브 평점입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가 평점은 높은 점수를 기록하였지만 관람객 평점은 30점대의 처참한 성적을 기록하였습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>어떠한 점이 상대적으로 높은 평론가 평점을 얻게 되었는지, 평론가 후기 알아보도록 하겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 돈 무브 평론가 결말 후기 관람평입니다. </b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Tom Meek - 평점 2/5</span></i><br>나쁘지 않다...</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Aaron Neuwirth - 평점 6/10</span></i><br>재밌었다. &quot;마비된 상태에서 어떻게 살인마에게서 도망칠 것인가?&quot;라는 아이디어 자체가 짜릿한 스릴러로 적합하다.</br></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>물론 말도 안 되지만, 이 영화는 스스로를 궁지에 몰고 나름대로 탈출구를 찾는다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Paul Mount - 평점 3/5</span></i><br/>\'돈트 무브\'는 겸손하고 꾸밈없는 작은 스릴러로, 머리를 쓰지 않고 90분간 즐길 수 있는 영화로 제격이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Pablo O. Scholz - 평점 4/4</span></i><br/>자리를 뜨지 마라. 영화의 다소 그럴듯하고 받아들일 만한 상황들이 관객을 사로잡는다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Kristian M. Lin - 평점 3/5</span></i><br/>젊은 배우들이 적절한 매력을 더하지만, 너무 익숙한 느낌이 강해 특별히 기대감을 불러일으키기는 어렵다. 그러나 기본적인 구도는 탄탄하다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Emiliano Basile - 평점 6/10</span></i><br/>\'돈 무브\'는 심리 스릴러 장르를 새롭게 창조하진 않지만, 강렬한 경험을 통해 깊이 공감하게 하는 공포를 선사한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Tatat Bunnag - 평점 없음</span></i><br/>익숙한 설정의 적당히 재미있는 스릴러로, 긴장감 있는 순간과 긴박한 추격이 특징이다. 이야기는 복잡성이 부족하며 캐릭터에 깊이를 더하지 못해 잠재력을 충분히 발휘하지 못한다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Murjani Rawls - 평점 없음</span></i><br/>악당이 실수를 할까 하는 기대만으로 끌고 가며, 결국 클라이맥스에 다다르면 긴장감이 식어버린다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Rohan Naahar - 평점 없음</span></i><br/>우울한 여성이 살 의지를 되찾는 이야기는 맞지만, 영적 구루 대신 연쇄살인마가 그녀를 일깨운다. 영화가 감정의 핵심으로 다시 돌아왔을 때는 이미 다 끝나버린 느낌이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Randy Myers - 평점 2.5/4</span></i><br/>긴장감 있는 죄책감을 느끼고 싶다면 이 영화가 제격이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Dustin Rowles - 평점 없음</span></i><br/>궁극적으로는 일회용 작품으로, 잠시 스트리밍 인기를 끌기 위해 만들어졌으며, 곧 잊혀질 운명이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>JK Sooja - 평점 없음</span></i><br/>간단하지만 흥미로운 설정은 때때로 괜찮은 영화를 만들어낼 수 있다. \'돈 무브\'의 설정이 바로 그런 경우이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Peter Debruge - 평점 없음</span></i><br/>눈에 띄게 수준 이하이다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>와챠 피디아 한국 시청자의 반응으로 관람객 후기를 끝 맺도록 하겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>감사합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7</b></span></p>'
+    },
+    {
+      type: 'ending',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

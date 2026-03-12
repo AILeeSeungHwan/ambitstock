@@ -1,0 +1,188 @@
+const post = {
+  id: 408,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p><span style=&quot;letter-spacing: 0px; font-family: \'Noto Serif KR\';&quot;>빈 벤더스 감독, 야쿠쇼 코지 주연의 영화 퍼펙트 데이즈가 한국 개봉을 앞두고 있습니다.</span></p><p><span style=&quot;letter-spacing: 0px; font-family: \'Noto Serif KR\';&quot;>영화 퍼펙트 데이즈의 개봉일은 24년 7월 3일로 한국 영화 탈주와 같은 날 개봉예정이며, 현재 영화 인기 순위 3위에 기록될 만큼 기대작으로 뽑히고 있습니다.</span></p><p><span style=&quot;letter-spacing: 0px; font-family: \'Noto Serif KR\';&quot;>각종 어워드에서<span style=&quot;background-color: #f3c000;&quot;><b> 남우 주연상, 최우수 감독, 최우수 작품상을 수상</b></span>하며 명작의 반열에 오르고 있는 작품입니다.</span></p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post408_thumb.svg',
+      alt: '일상의 아름다움을 그리다 : 영화 퍼펙트 데이즈 | 해외 평론가들의 극찬 반응 리뷰 평점 명작 추천',
+      caption: '일상의 아름다움을 그리다 : 영화 퍼펙트 데이즈 | 해외 평론가들의 극찬 반응 리뷰 평점 명작 추천'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>영화 퍼펙트 데이즈 (영어 제목 : perfect Days 뜻 완벽한 날) 해외 평점 및 평론가 리뷰 반응 살펴보겠습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>영화 퍼펙트 데이즈 로튼토마토 평점입니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점 96%, 관람객 평점 89%</b></span>로 엄청난 호평을 받은 작품입니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>퍼펙트 데이즈 평론가 평점 및 리뷰 반응 살펴보겠습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Rob Gonsalves (Rob\'s Movie Vault):</b><br/><span style=&quot;color: orange;&quot;>★★★★★</span><br/>&quot;Wenders는 Takuma Takasaki와 함께 각본을 공동 집필하며, Hirayama의 일상에서 상당한 아름다움을 발견합니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Jason Blake (Limelight):</b><br/><span style=&quot;color: orange;&quot;></span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;독일 감독은 도쿄의 훌륭한 공중 화장실을 기념하는 이 작품을 통해 도시를 새로운 시각으로 조명합니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>John Serba (Decider):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Hirayama가 세상과 상호 작용하는 것을 보는 것은 매우 즐겁습니다. 정말로 즐겁습니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Sean P. Means (The Movie Cricket):</b><br/><span style=&quot;color: orange;&quot;>★★★★</span><br/>&quot;Perfect Days는 줄거리로 움직이지 않지만, 그럼에도 불구하고 낭비되는 순간이 없습니다. 작은 순간들이 중요하다는 것을 보여주는 영화입니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>KT Mahe (For Your Reference Podcast):</b><br/><span style=&quot;color: orange;&quot;>★★★★★</span><br/>&quot;Perfect Days의 아름다움은 삶의 높고 낮은 순간을 모두 호흡하며 포착하는 자신감에 있습니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Oti (For Your Reference Podcast):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Hirayama의 삶을 엿볼 수 있는 아름다운 영화, \'Perfect Days\'는 미묘한 아름다움, 존재의 본질, 그리고 삶의 작은 기쁨을 기념합니다. 정말 감동적입니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Hugo Hernández Valdivia (Cinexcepción):</b><br/><span style=&quot;color: orange;&quot;>★★★★★</span><br/>&quot;스타일은 사색적이지만, 수동적이지는 않습니다.&quot; [리뷰 원문은 스페인어로 작성]</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Ernesto Diezmartinez (Letras Libres):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;오랜만에 최고 영화로 돌아온 독일 감독은 도쿄를 배경으로 절제되고 미니멀한 시각으로 도시를 다시 방문합니다.&quot; [리뷰 원문은 스페인어로 작성]</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>John McDonald (Australian Financial Review):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Hirayama의 좋은 성격이 그의 선택된 삶의 방식과 관련이 있다는 것을 이해하지만, 그 관계의 메커니즘은 이해하기 어렵습니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Yasser Medina (Cinefilia):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Wenders는 시적인 시각과 감동적인 이야기를 통해 실업, 고독, 그리고 종종 간과되는 일상의 아름다움에 대한 드라마를 구성합니다.&quot; [리뷰 원문은 스페인어로 작성]</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Petr Navovy (Pajiba):</b><br/><span style=&quot;color: orange;&quot;>★★★★★</span><br/>&quot;Perfect Days의 미묘하고 서정적인 아름다움은 오랜 시간 동안 내게 남을 것입니다. 최근 기억에 남는 가장 놀라운 결말 중 하나도 포함되어 있습니다. 이 영화를 꼭 보세요.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Jane Freebury:</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;진지하고 단순한 삶의 리듬을 로드 무비와 결합한 이 느긋한 캐릭터 연구는 베테랑 감독 Wenders의 훌륭한 복귀작입니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Kat Halstead (Common Sense Media):</b><br/><span style=&quot;color: orange;&quot;>★★★★★</span><br/>&quot;Yakusho의 흡인력 있는 연기 덕분에, Wim Wenders의 Perfect Days는 그 이상으로 가치가 있습니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Jason Delgado (Film Threat):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;미의 주관은 보는 사람의 눈에 달려 있습니다. 이 영화는 우리가 삶의 간과된 보석들을 더 잘 감상할 수 있게 해줍니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Filipe Freitas (Always Good Movies):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Ozu의 영화 스타일에서 영감을 받은 Wenders는 미묘한 순환성과 부드러운 맥박이 특징인 서사를 만듭니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Andiee Paviour (Nobody\'s Reading This But Me):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;혼자 있는 사람이 일상의 은혜를 찾는 이야기.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Luke Goodsell (ABC News):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;도쿄 기반의 공동 각본가 Takuma Takasaki와 긴밀히 협력하여 Wenders는 명상적이고 감성적인 후기 시를 만들었습니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Stephen Romei (The Australian):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Yakusho의 놀라운 연기는 이 영화 한 장면에서만 봐도 충분합니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Brett McCracken (The Gospel Coalition):</b><br/><span style=&quot;color: orange;&quot;>★★★★★</span><br/>&quot;Perfect Days는 완벽한 세상의 거짓된 그림을 그리는 것이 아니라, 세상을 바라보는 새로운 방식을 모델로 삼습니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Kristian M. Lin (Fort Worth Weekly):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Yakusho는 도쿄 청소부로서 자신의 삶에 의미를 부여하는 길고 유력한 경력을 가지고 있습니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Frederic and Mary Ann Brussat (Spirituality &amp; Practice):</b><br/><span style=&quot;color: orange;&quot;>★★★★★</span><br/>&quot;도쿄 공중 화장실 청소부의 삶을 그린 완벽한 영화로, Koji Yakusho의 빛나는 연기가 돋보입니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>James Greenberg (culturevulture.net):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;기본으로 축소되고 단순화된 이 영화는 일상의 즐거움을 관찰하고 맛볼 수 있는 시간입니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Eileen Jones (The Jacobin):</b><br/><span style=&quot;color: orange;&quot;>★★☆☆☆</span><br/>&quot;이 영화의 많은 부분은 저에게 깊은 불안감을 줍니다. 저는 이 환상을 잘 알고 있습니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>A.S. Hamrah (n+1):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;이 영화는 일종의 쾌적한 네오리얼리즘을 제공합니다. 생을 떠나 살아가는 한 남자에 대한 이야기입니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Al Alexander (Movies Thru the Spectrum):</b><br/><span style=&quot;color: orange;&quot;>★★★★★</span><br/>&quot;Koji Yakusho가 Cannes 영화제에서 최고 연기상을 수상한 이유를 이 영화에서 확연히 볼 수 있습니다. 최고의 캐릭터 연구 중 하나입니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Ruth Maramis (FlixChatter Film Blog):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;액션 중심의 영화는 많지만, 자신의 삶을 명상하고 작은 순간들에서 기쁨을 찾게 만드는 영화는 드뭅니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Mark Kermode (Kermode and Mayo\'s Take):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;이 영화는 마치 명상과 같습니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Whang Yee Ling (The Straits Times):</b><br/><span style=&quot;color: orange;&quot;>★★★★★</span><br/>&quot;오직 성숙한 대가만이 일상의 아름다움에 대한 이토록 감동적인 명상을 떠올릴 수 있습니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Alex Papaioannou (InSession Film):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Perfect Days는 숨겨진 아름다움을 찾으라고 우리에게 요청합니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Robert Denerstein (Denerstein Unleashed):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;이 영화는 통상의 드라마틱한 터치스톤을 피하고 독창적이고 순수한 시각을 제공합니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Roger Moore (Movie Nation):</b><br/><span style=&quot;color: orange;&quot;>★★★☆☆</span><br/>&quot;Perfect Days를 얼마나 흥미롭게 볼 수 있을지는 청소부라는 직업에 얼마나 많은 내면의 삶을 추가할 수 있는지에 달려 있습니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Robbie Collin (Daily Telegraph):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Wenders의 도쿄에 대한 명백한 애정, 질감에 대한 날카로운 감각, 그리고 클리셰를 피하는 깔끔한 접근은 이 영화가 시간이 지나도 좋은 초상화로 남을 것임을 시사합니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Aaron Neuwirth (We Live Entertainment):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Perfect Days는 미니멀리즘 영화 제작, 매우 내성적이지만 효과적인 연기(올해 최고의 연기 중 하나), 그리고 프로세스에 대한 집중을 보여줍니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Tom Shone (Sunday Times):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;이 영화는 도시를 사랑하는 Wenders의 사랑 시입니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Wendy Ide (Observer):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;이 영화는 새로운 시각뿐만 아니라 새로운 삶의 방식을 제안합니다.&quot;</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Victoria Luxford (City AM):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Perfect Days는 느린 영화로서 큰 소리를 내지 않지만, 함께 할 준비가 된 사람에게는 매력적입니다.&quot;</span></p>'
+    },
+    {
+      type: 'ending',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Joe Friar (Fort Worth Report):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;어떠한 선입견도 버려라. Wim Wenders의 화장실 청소부 드라마는 아름다움 그 자체입니다. 거의 완벽한 영화입니다.&quot;</span></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

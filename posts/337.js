@@ -1,0 +1,132 @@
+const post = {
+  id: 337,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p>단 4부작, 무빙 이후 최고의 디즈니 플러스 드라마로 평가받고 있는 폭군,</p><p><span style=&quot;background-color: #9feec3;&quot;><b>반드시 &quot;폭군 시즌 2&quot;로 돌아와야 하는 남은 떡밥들</b></span>을 전해드립니다.</p><p>굉장히 재밌었던 마녀 1과 처참한 평가에 비해 꽤 볼만했던 마녀 2에 이어 스핀오프 시리즈 폭군은 사실 큰 기대를 하지 않았습니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post337_thumb.svg',
+      alt: '디즈니 플러스 드라마 \'폭군\' 시즌 2: 남은 결말 떡밥으로 보는 시즌 2 스토리 예상',
+      caption: '디즈니 플러스 드라마 \'폭군\' 시즌 2: 남은 결말 떡밥으로 보는 시즌 2 스토리 예상'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p>하지만 2시간의 영화를 길게 늘려 설명할 시간적 여유가 주어진 &quot;드라마 시리즈&quot;는 그 이야기의 깊이가 더욱 풍성해졌습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>답답한 장면없이 시원시원한 전개로 순식간에 4부작을 끝냈습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>그렇게 시즌 1에서 회수되지 않은 주요 떡밥들! </b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>폭군 시즌 2는 이렇게 진행될 것이다. </b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p>함께 알아보겠습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>(업데이트) 폭군 평점과 해외반응 후기 포스팅 추가되었습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1018&quot; data-origin-width=&quot;1068&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 시즌 2&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/XMBsC/btsJbquab3l/AAAAAAAAAAAAAAAAAAAAAFU3cPh0Cvm25CYYrFKr1lClMxq3u9I_krSOH79BKF2N/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1LAyCi20UPuSTgndYHKTcnqvtDc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/XMBsC/btsJbquab3l/AAAAAAAAAAAAAAAAAAAAAFU3cPh0Cvm25CYYrFKr1lClMxq3u9I_krSOH79BKF2N/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1LAyCi20UPuSTgndYHKTcnqvtDc%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 시즌 2</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>사 국장(김주헌)의 이중 첩자 신분이 시즌 1 마지막 결말부에 밝혀졌습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>하지만 이와 관련된 구체적인 진짜 목적, 그리고 배후 세력의 존재에 대한 의문은 풀리지 않은 상태입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>미국에 폭군 프로그램을 뺏기지 않기 위해 자결한 사 국장의 제대로 된 과거 스토리가 &quot;폭군 시즌 2&quot;에서 상세히 다뤄질 것입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>( 이와 더불어 국제적 음모에 대한 내용은 포스팅 마지막 )</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;972&quot; data-origin-width=&quot;1482&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 시즌 2&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/d9YcKY/btsJbNJppIc/AAAAAAAAAAAAAAAAAAAAADgUEfKYBOgzm0L7ClnZ7s_-mWnHZdzULPPsWltA0ULV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=P16nNlQhlkLxlQmsAsbOl%2FkCKXY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/d9YcKY/btsJbNJppIc/AAAAAAAAAAAAAAAAAAAAADgUEfKYBOgzm0L7ClnZ7s_-mWnHZdzULPPsWltA0ULV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=P16nNlQhlkLxlQmsAsbOl%2FkCKXY%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 시즌 2</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>드라마의 중심인 초능력 바이러스는 여전히 실종 상태입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>다양한 인물들이 이 바이러스를 찾기 위해 고군분투했지만, 최종적으로 그 행방이 밝혀지지 않았습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;748&quot; data-origin-width=&quot;810&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 시즌 2&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/l7CuF/btsJaMdBGMw/AAAAAAAAAAAAAAAAAAAAAH1YAyLQYRkw4qMSmpoIvz2UvPYRkFVRO9Z3VvSh_YRH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tUHzfFGgrmSwPR75I%2F%2BydoXSevo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/l7CuF/btsJaMdBGMw/AAAAAAAAAAAAAAAAAAAAAH1YAyLQYRkw4qMSmpoIvz2UvPYRkFVRO9Z3VvSh_YRH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tUHzfFGgrmSwPR75I%2F%2BydoXSevo%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 시즌 2</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>임상(차승원)은 시즌 1 마지막에서 죽은 것으로 보였으나, 사실 살아 있다는 암시가 있었습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>임상의 복수심과 살아남은 이유는 시즌 2에서 중요한 이야기가 될 것입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>처절히 부활한 \'한국의 콜린 퍼스\'를 기대합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1242&quot; data-origin-width=&quot;1558&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 시즌 2&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lw9mx/btsJbMDJbiZ/AAAAAAAAAAAAAAAAAAAAAFgG5uKc_c-Dsqz3TuhTpDgRVrEox7I-Nuc5zuNQVX5l/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mHXWgc3shCZrcvPJgq86XwceGzE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lw9mx/btsJbMDJbiZ/AAAAAAAAAAAAAAAAAAAAAFgG5uKc_c-Dsqz3TuhTpDgRVrEox7I-Nuc5zuNQVX5l/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mHXWgc3shCZrcvPJgq86XwceGzE%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 시즌 2</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>자경(조윤수)의 정체와 그녀가 초능력을 가진 실험 대상 중 하나일 가능성은 시즌 2에서 더 깊이 다뤄질 필요가 있습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1116&quot; data-origin-width=&quot;1424&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 시즌 2&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/mZv8w/btsJaLTlBQc/AAAAAAAAAAAAAAAAAAAAAByZfrjXMPaULolOg1AtwIGUvpTP4sdGg3yFwj5eQI7g/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lJ%2F2YBlce7hnYFVNQvWMYDr%2B9VY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/mZv8w/btsJaLTlBQc/AAAAAAAAAAAAAAAAAAAAAByZfrjXMPaULolOg1AtwIGUvpTP4sdGg3yFwj5eQI7g/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lJ%2F2YBlce7hnYFVNQvWMYDr%2B9VY%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 시즌 2</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>초능력 바이러스와 관련된 국제적 음모는 시즌 1에서 완전히 해소되지 않았습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p>다양한 국가와 기관들이 바이러스를 차지하기 위해 벌이는 음모는 시즌 2에서 더욱 복잡한 이야기를 예고합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1148&quot; data-origin-width=&quot;1714&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 시즌 2&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bGcfYO/btsJam0zBN7/AAAAAAAAAAAAAAAAAAAAAN9LAIwcoVZeaN-ctnVGmL4hBYT5k-oAzmW5ZBFgh3mk/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=L%2F%2FJs4eNEUgMdQzOL7LBqG%2BMzyw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bGcfYO/btsJam0zBN7/AAAAAAAAAAAAAAAAAAAAAN9LAIwcoVZeaN-ctnVGmL4hBYT5k-oAzmW5ZBFgh3mk/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=L%2F%2FJs4eNEUgMdQzOL7LBqG%2BMzyw%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 시즌 2</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p>흥행에 실패했다면 시즌2는 없었겠지만, 앞으로 더 많은 시리즈로 제작될 가능성이 열렸습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>역시 MCU의 디즈니는 이러한 Sci-Fi(Science-Fiction) 초능력 장르를 키우는 것에 진심인 것 같습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>디즈니 플러스 폭군, 박훈정 감독 유니버스의 서막이 시작됩니다.</p>'
+    },
+    {
+      type: 'ending',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>다음 포스팅에서는 폭군 해외 평점과 후기반응 살펴보겠습니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post

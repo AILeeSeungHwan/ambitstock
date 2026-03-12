@@ -1,0 +1,204 @@
+const post = {
+  id: 447,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;>K콘텐츠 한류의 시작, <b><span style=&quot;background-color: #f3c000;&quot;>오징어게임 해외 반응 및 평점 리뷰</span></b>입니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>넷플릭스의 부흥을 이끈 한국 콘텐츠임과 더불어, 공개 이후 다양한 패러디와 유튜브 구독자 1위 미스터 비스트의 실사판, 챌린지 등, 다양한 후속 콘텐츠까지 휩쓸었던 작품입니다.</p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>성기훈 (배우 이정재) </span></b></span></p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post447_thumb.svg',
+      alt: '[해외 반응 오징어게임 평점 리뷰] 시즌2 전설의 귀환 한류 콘텐츠의 시작 공개일 미정 넷플릭스 OTT 드라마 추천',
+      caption: '[해외 반응 오징어게임 평점 리뷰] 시즌2 전설의 귀환 한류 콘텐츠의 시작 공개일 미정 넷플릭스 OTT 드라마 추천'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #333333; text-align: start;&quot;>게임이라는 요소가 주는 재미 뿐만이 아니라,<span> </span></span>작품 자체가 담고 있는 철학, 인간의 가치가 돈과 비교되는 자본주의의 현실 비판, 그 속에서 처량히 빛나는 인간다움. 2021년 9월 17일 시즌1 그리고,<span style=&quot;color: #333333; text-align: start;&quot;><span> </span>드디어 2024년 최고의 기대작 오징어게임 시즌2 공개를 기다리며 오징어게임 시리즈 포스트 시작하겠습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>넷플릭스 시리즈 선산 볼만할까?</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>해외 반응과 평점리뷰</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>넷플릭스 시리즈 살인자ㅇ난감</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>어떻게 읽어야 하는지 궁금하다면</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;281&quot; data-origin-width=&quot;952&quot;><span data-alt=&quot;오징어 게임 로튼토마토 해외 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/csI9jB/btsEoJYTjO5/AAAAAAAAAAAAAAAAAAAAADiub9x-1p8WFnRcoYC6W3InOBvxWfLO6wROLZH1lxUA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DKTW9HAngNxuhia4S9fNR0oIuXQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/csI9jB/btsEoJYTjO5/AAAAAAAAAAAAAAAAAAAAADiub9x-1p8WFnRcoYC6W3InOBvxWfLO6wROLZH1lxUA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DKTW9HAngNxuhia4S9fNR0oIuXQ%3D&quot;></span><figcaption>오징어 게임 로튼토마토 해외 평점</figcaption> </figure> </p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Kavya Christopher - The Times of India</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★ <b>☆</b> </b></span></b></span><span style=&quot;color: #333333;&quot;><b>4.5/5</b></span></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>오징어게임은 논하거나 분석하는 것이 아니라, <span style=&quot;color: #781b33;&quot;><b>경험해야 하는 시리즈</b></span>입니다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>보고 난 후에도 오랫동안 마음에 남을 작품입니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Jae-Ha Kim - Teen Vogue</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ <b><span style=&quot;color: #f3c000;&quot;><b>★</b></span></b> <b><span style=&quot;color: #f3c000;&quot;><b>★ <b><span style=&quot;color: #f3c000;&quot;><b><b><b><span style=&quot;color: #f3c000;&quot;><b><b>☆ <span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b><b><span style=&quot;color: #333333; text-align: start;&quot;>3.5</span></b></b></span></b></span><span style=&quot;color: #333333;&quot;><b>/4</b></span></span></b></b></span></b></b></b></span></b></b></span></b></b></span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>오징어게임은 한국의 역사를 바탕으로 한 사회적 우화이다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>작품에서 게임이라는 요소는 도박과 폭력, 그 이상의 것이 있습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;><b>Jennifer Bisset - CNET</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>좋은 내용을 담고 있는 작품. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>구슬 게임이라고도 불리는 게임이 담긴 에피소드 6은 명작이며, 뛰어난 연기를 보여줍니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>주요 출연진 모두가 놀랍습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>Charles Hartford - But Why Tho? A Geek Community</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★<span><span> </span></span></b></span></b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★<span> <b><span style=&quot;color: #f3c000;&quot;><b>★</b></span></b></span><b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><b>☆</b></b></span></b><span style=&quot;color: #333333; text-align: start; font-family: \'Noto Serif KR\';&quot;> 9</span></b></b></span></b></span><span style=&quot;color: #333333; font-family: \'Noto Serif KR\';&quot;><b>/10</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>오징어 게임은 불평할 것은 거의 없고 감동받을 요소가 즐비합니다. 작품에서 뿜어져 나오는 고어하고 징그러운 피의 양과 감정적 혼란의 깊이가 거슬리지 않는다면, 이 명작을 보지 않을 이유가 없습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; color: #000000; font-family: \'Noto Serif KR\';&quot;> <b>TOP CRITIC</b> </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;><b>Elamin Abdelmahmoud - BuzzFeed News </b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;><b>Squid Game은 당신을 매료시킬 겁니다. </b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;><b>첫 에피소드의 중간을 넘어가며, 당신은 가면을 쓴 악당과 불운한 안티히어로가 가득한 역겨운 세계에 초대될 것입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;><b>Mitchell Chapman - In Review Online</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★<span> </span></b></span></b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★<span> </span><b>☆ <b><span style=&quot;color: #f3c000;&quot;><b><b>☆</b></b></span></b><span style=&quot;color: #333333; text-align: start;&quot;><span> </span></span></b></b></span></b></span><span style=&quot;color: #333333; font-family: \'Noto Serif KR\';&quot;><b>8.5/10</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>&quot;오징어 게임&quot;은 당연히 올해 가장 인기 있는 쇼 중 하나이며 문화적 장벽을 허물고, 시청자에게 다른 방법으로는 접근할 수 없는 전 세계의 걸작을 노출시키는 측면에서, 넷플릭스라는 좋은 스트리밍 플랫폼의 가치를 증명합니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>Kelly Lawler - USA Today</span></b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ <b>☆</b><span> </span></b></span></b></span><span style=&quot;color: #333333; font-family: \'Noto Serif KR\';&quot;><b>3.5/4</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>9부작 시리즈는 본능적이고 원시적이며 시선을 돌릴 수 없는 느낌이 있는데, 이 시리즈는 유혈이 낭자하지만 깊은 심리적 공포와 불안도 함께 전달됩니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>평점 8.0/10</span></b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>IMDB 오징어게임 평점입니다. 2021년 공개된 작품이 여전히 369위에 오르며, 꾸준한 인기를 확인할 수 있습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>명작의 반열에 올라 있는 오징어게임의 시즌2를 기대하는 반응 또한 확인하실 수 있습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>아래 데이터를 통해 오징어게임의 평점분포 알아보겠습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>데이터 표본은 미국, 영국, 인도, 터키, 독일 순이며, 한국데이터가 없이 순수한 해외 반응 평점임을 알 수 있습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>데이터 총표본수는 52만 7천 이상입니다. 참고로 영화 기생충의 평점 표본은 93만 1천입니다. </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>기생충 해외반응이 궁금하신 분은 해당 블로그에 있는 봉준호 차기작 미키 17 정보와 기생충 해외반응 포스팅을 참고하시길 바랍니다. (하단 개봉 예정작)</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\'; color: #000000;&quot;><b>2024년 개봉 예정작 영화 추천입니다.</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>다음 오징어게임 시리즈에서는 시즌2 개봉정보 및 출연진, 예고편 총정리 포스트로 돌아오겠습니다.</span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>영화 파묘 개봉일 확정!</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>24년 2월 22일 개봉 전 살펴보기</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>영화 조커 2: 폴리 아 되 개봉정보</b></span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>그리고 조커 1 해외 반응</b> </span></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>영화 미키 17 개봉정보와</b></span></p>'
+    },
+    {
+      type: 'ending',
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>봉준호 감독 </b><b>기생충 해외 반응</b></span></p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post
