@@ -3,7 +3,7 @@
 # auto-post.sh — 네이버 트렌드 기반 자동 포스팅 파이프라인
 #
 # 파이프라인:
-#   1. 네이버 DataLab API → 자동차/보험 트렌드 키워드 수집
+#   1. 네이버 DataLab API → 영화/OTT 트렌드 키워드 수집
 #   2. 애드센스 CPC 단가 매핑 (고단가 우선 정렬)
 #   3. 기존 포스팅과 중복 제거
 #   4. Claude Code로 포스팅 생성
@@ -29,7 +29,7 @@ LOG_PREFIX="[auto-post $(date '+%Y-%m-%d %H:%M')]"
 TODAY=$(date '+%Y-%m-%d')
 LOG_FILE="$PROJECT_DIR/data/auto-post-log.json"
 
-# 네이버 DataLab API 키 (환경변수 또는 여기에 직접 입력)
+# 네이버 DataLab API 키 (환경변수로 주입)
 NAVER_CLIENT_ID="${NAVER_CLIENT_ID:-YOUR_CLIENT_ID}"
 NAVER_CLIENT_SECRET="${NAVER_CLIENT_SECRET:-YOUR_CLIENT_SECRET}"
 
@@ -41,7 +41,7 @@ echo "$LOG_PREFIX ═══ 파이프라인 시작 ═══"
 # ═══════════════════════════════════════════
 echo "$LOG_PREFIX [1/6] 네이버 트렌드 키워드 수집..."
 
-# 트렌드 검색 키워드 그룹 (자동차/보험 영역)
+# 트렌드 검색 키워드 그룹 (영화/OTT 영역)
 TREND_KEYWORDS_FILE=$(mktemp)
 
 node << 'STEP1' > "$TREND_KEYWORDS_FILE"
@@ -53,14 +53,11 @@ const CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET || 'YOUR_CLIENT_SECRET';
 // 네이버 DataLab 검색어 트렌드 API
 // 우리 영역의 핵심 키워드 그룹
 const keywordGroups = [
-  { groupName: '자동차보험', keywords: ['자동차보험', '자동차보험비교', '다이렉트자동차보험'] },
-  { groupName: '보험료절약', keywords: ['보험료절약', '자동차보험할인', '마일리지보험'] },
-  { groupName: '전기차', keywords: ['전기차', '전기차보조금', '전기차충전'] },
-  { groupName: '중고차', keywords: ['중고차', '중고차시세', '중고차구매'] },
-  { groupName: '장기렌트', keywords: ['장기렌트', '자동차리스', '렌트비교'] },
-  { groupName: '신차', keywords: ['신차', '신차출시', '신차가격'] },
-  { groupName: '운전자보험', keywords: ['운전자보험', '운전자보험추천', '운전자보험비교'] },
-  { groupName: '차량유지비', keywords: ['자동차유지비', '차량관리', '자동차세'] },
+  { groupName: 'OTT플랫폼', keywords: ['넷플릭스', '디즈니플러스', '티빙', '쿠팡플레이', '웨이브'] },
+  { groupName: '추천일반', keywords: ['영화추천', '드라마추천', '애니추천', '볼만한영화'] },
+  { groupName: '장르', keywords: ['스릴러영화', '로맨스드라마', '가족영화', '액션영화', '공포영화'] },
+  { groupName: '작품성', keywords: ['이동진추천', '로튼토마토', 'IMDB평점', '해외반응'] },
+  { groupName: 'OTT운영', keywords: ['넷플릭스요금제', '넷플릭스할인', 'OTT비교'] },
 ];
 
 const endDate = new Date().toISOString().slice(0, 10);
@@ -76,21 +73,21 @@ if (CLIENT_ID === 'YOUR_CLIENT_ID') {
   console.log(JSON.stringify({
     source: 'fallback',
     keywords: [
-      { keyword: '자동차보험비교견적', trend: 95, cpcTier: 'high' },
-      { keyword: '다이렉트자동차보험', trend: 90, cpcTier: 'high' },
-      { keyword: '보험료절약방법', trend: 85, cpcTier: 'high' },
-      { keyword: '운전자보험추천', trend: 80, cpcTier: 'high' },
-      { keyword: '장기렌트견적비교', trend: 75, cpcTier: 'high' },
-      { keyword: '자동차리스장단점', trend: 70, cpcTier: 'medium' },
-      { keyword: '전기차보조금2026', trend: 68, cpcTier: 'medium' },
-      { keyword: '중고차시세조회', trend: 65, cpcTier: 'medium' },
-      { keyword: '전기차충전카드비교', trend: 60, cpcTier: 'medium' },
-      { keyword: '블랙박스추천', trend: 55, cpcTier: 'medium' },
-      { keyword: '하이패스설치', trend: 50, cpcTier: 'low' },
-      { keyword: '신차출시일정', trend: 48, cpcTier: 'low' },
-      { keyword: 'SUV추천', trend: 45, cpcTier: 'low' },
-      { keyword: '자동차세계산', trend: 42, cpcTier: 'medium' },
-      { keyword: '차량유지비비교', trend: 40, cpcTier: 'medium' },
+      { keyword: 'OTT구독비교2026', trend: 95, cpcTier: 'high' },
+      { keyword: '넷플릭스요금제비교', trend: 90, cpcTier: 'high' },
+      { keyword: '디즈니플러스요금제', trend: 85, cpcTier: 'high' },
+      { keyword: 'OTT비교추천', trend: 80, cpcTier: 'high' },
+      { keyword: '넷플릭스할인방법', trend: 75, cpcTier: 'high' },
+      { keyword: '영화추천2026', trend: 70, cpcTier: 'medium' },
+      { keyword: '넷플릭스추천드라마', trend: 68, cpcTier: 'medium' },
+      { keyword: '드라마추천2026', trend: 65, cpcTier: 'medium' },
+      { keyword: '애니추천넷플릭스', trend: 60, cpcTier: 'medium' },
+      { keyword: '볼만한영화추천', trend: 55, cpcTier: 'medium' },
+      { keyword: '해외반응화제작', trend: 50, cpcTier: 'low' },
+      { keyword: 'IMDB평점높은영화', trend: 48, cpcTier: 'low' },
+      { keyword: '로튼토마토추천', trend: 45, cpcTier: 'low' },
+      { keyword: '결말해석스릴러', trend: 42, cpcTier: 'low' },
+      { keyword: '이동진추천영화', trend: 40, cpcTier: 'low' },
     ]
   }));
   process.exit(0);
@@ -119,8 +116,8 @@ const req = https.request(options, (res) => {
       })).sort((a, b) => b.trend - a.trend);
 
       // CPC 티어 매핑
-      const highCpc = ['보험', '렌트', '리스', '대출', '견적'];
-      const medCpc = ['전기차', '중고차', '블랙박스', '유지비', '세금', '자동차세'];
+      const highCpc = ['OTT구독', 'OTT비교', '넷플릭스요금제', '디즈니플러스요금제', '할인'];
+      const medCpc = ['영화추천', '드라마추천', '넷플릭스추천', '애니추천'];
 
       const withCpc = trends.map(t => {
         let cpcTier = 'low';
@@ -222,7 +219,7 @@ echo "$LOG_PREFIX [4/6] Claude Code로 ${KEYWORD_COUNT}개 포스팅 생성..."
 KEYWORDS_JSON=$(cat "$FILTERED_KEYWORDS_FILE")
 
 claude -p "
-당신은 car.ambitstock.com 자동차/보험/모빌리티 블로그의 포스팅 생성기입니다.
+당신은 ambitstock.com 영화/드라마/OTT 블로그 'R의 필름공장'의 포스팅 생성기입니다.
 
 ## 트렌드 키워드 데이터
 $KEYWORDS_JSON
@@ -235,7 +232,7 @@ $KEYWORDS_JSON
 
 ### slug 규칙 (SEO 최적화)
 - 영문 소문자 + 하이픈, 3~6단어
-- 핵심 키워드 반영 (예: car-insurance-mileage-discount-2026)
+- 핵심 키워드 반영 (예: netflix-movie-recommend-2026-march)
 - 연도 포함
 
 ### 파일 구조 (posts/[id].js)
@@ -275,7 +272,7 @@ export default post
   slug: '[seo-keyword-slug]',
   title: '[60자 이내, 키워드 포함 SEO 타이틀]',
   description: '[120자 이내 메타 설명]',
-  category: '[자동차보험|자동차|차량관리|신차정보|중고차|전기차]',
+  category: '[영화추천|드라마|해외반응후기|마블|애니메이션]',
   date: '${TODAY}',
   tags: ['키워드1', '키워드2', ...],
   thumbnail: null,
@@ -283,7 +280,7 @@ export default post
 
 ### sitemap.xml
 public/sitemap.xml에 새 포스팅 URL 추가:
-<url><loc>https://car.ambitstock.com/[slug]/</loc><lastmod>${TODAY}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://ambitstock.com/[slug]/</loc><lastmod>${TODAY}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
 ## 최종 확인
 1. node --check로 모든 JS 파일 검증

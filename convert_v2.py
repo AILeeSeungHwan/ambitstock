@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-car.ambitstock.com 티스토리 → Next.js 변환 스크립트 v2
+ambitstock.com 티스토리 → Next.js 변환 스크립트 v2
 - 정확한 h2→body 구조 보장
 - 이미지명 영문 변환 (포스팅 관련 키워드)
 - SEO 최적화 sections 배열 생성
@@ -19,7 +19,7 @@ from bs4 import BeautifulSoup, NavigableString
 from urllib.parse import urlparse
 
 # ─── 설정 ───
-BASE_URL = 'https://car.ambitstock.com'
+BASE_URL = 'https://ambitstock.com'
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
 POSTS_DIR = os.path.join(PROJECT_DIR, 'posts')
 IMAGES_DIR = os.path.join(PROJECT_DIR, 'public', 'images')
@@ -64,22 +64,14 @@ def slugify(text, max_len=40):
     """한글 텍스트 → 영문 slug (이미지 파일명용)"""
     # 한글 키워드 → 영문 매핑
     kr_to_en = {
-        '자동차보험': 'car-insurance', '보험료': 'premium', '보험': 'insurance',
-        '비교': 'compare', '견적': 'quote', '다이렉트': 'direct',
-        '삼성화재': 'samsung-fire', '현대해상': 'hyundai-marine', '메리츠': 'meritz',
-        'DB손해': 'db-insurance', 'KB손해': 'kb-insurance',
-        '테슬라': 'tesla', '벤츠': 'benz', 'BMW': 'bmw', '아우디': 'audi',
-        '볼보': 'volvo', '렉서스': 'lexus', '현대': 'hyundai', '기아': 'kia',
-        '전기차': 'ev', '하이브리드': 'hybrid', '중고차': 'used-car',
-        '블랙박스': 'dashcam', '하이패스': 'hipass', '경고등': 'warning-light',
-        '엔진': 'engine', '타이어': 'tire', '계기판': 'dashboard',
-        '장기렌트': 'long-term-rent', '리스': 'lease', '할부': 'installment',
-        '보조금': 'subsidy', '충전': 'charging', '배터리': 'battery',
-        '노트북': 'laptop', '게이밍': 'gaming', '추천': 'recommend',
-        '순위': 'ranking', '가격': 'price', '유지비': 'maintenance',
-        '절감': 'saving', '꿀팁': 'tips', '가이드': 'guide',
-        '신차': 'new-car', '판매': 'sales', '외제차': 'imported-car',
-        '세금': 'tax', '자동차세': 'car-tax', '취등록세': 'registration-tax',
+        '영화추천': 'movie-recommendation', '드라마추천': 'drama-recommendation',
+        '넷플릭스': 'netflix', '디즈니플러스': 'disney-plus',
+        '애니메이션': 'animation', '마블': 'marvel',
+        '해외반응': 'overseas-reaction', '결말해석': 'ending-analysis',
+        'OTT': 'ott', '스릴러': 'thriller', '로맨스': 'romance',
+        '액션': 'action', '공포': 'horror',
+        '추천': 'recommend', '순위': 'ranking', '가이드': 'guide',
+        '꿀팁': 'tips', '비교': 'compare',
     }
     result = text.lower().strip()
     for kr, en in sorted(kr_to_en.items(), key=lambda x: -len(x[0])):
@@ -124,7 +116,7 @@ def get_all_post_urls():
         
         found = []
         for a in soup.find_all('a', href=True):
-            m = re.match(r'^(?:https?://car\.ambitstock\.com)?/(\d+)$', a['href'])
+            m = re.match(r'^(?:https?://ambitstock\.com)?/(\d+)$', a['href'])
             if m:
                 full = f'{BASE_URL}/{m.group(1)}'
                 if full not in found and full not in urls:
@@ -155,7 +147,7 @@ def parse_post(url):
     # ── 메타 추출 ──
     og_title = soup.find('meta', property='og:title')
     title = og_title['content'] if og_title else (soup.title.text.strip() if soup.title else f'포스트 {post_id}')
-    title = re.sub(r'\s*[\|·]\s*모빌리티\s*인사이트.*$', '', title).strip()
+    title = re.sub(r'\s*[\|·]\s*R의\s*필름공장.*$', '', title).strip()
     
     og_desc = soup.find('meta', property='og:description') or soup.find('meta', attrs={'name': 'description'})
     description = og_desc['content'][:150] if og_desc else title
@@ -171,10 +163,13 @@ def parse_post(url):
     
     # 카테고리
     cat_el = soup.find(class_=re.compile(r'category'))
-    category = '자동차'
+    category = '영화추천'
     if cat_el:
         ct = cat_el.get_text(strip=True)
-        if 'IT' in ct: category = 'IT 제품'
+        if '드라마' in ct: category = '드라마'
+        elif '애니' in ct: category = '애니메이션'
+        elif '마블' in ct: category = '마블'
+        elif '해외반응' in ct: category = '해외반응후기'
     
     # 태그
     tags = []
@@ -461,9 +456,9 @@ def write_post_js(post_id, sections):
     lines.append('  ]')
     lines.append('}')
     lines.append('')
-    lines.append('export default post')
+    lines.append('module.exports = post')
     lines.append('')
-    
+
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write('\n'.join(lines))
 
@@ -485,7 +480,7 @@ def write_posts_meta(all_meta):
         lines.append('  },')
     lines.append(']')
     lines.append('')
-    lines.append('export default posts')
+    lines.append('module.exports = posts')
     lines.append('')
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write('\n'.join(lines))
@@ -519,7 +514,7 @@ def write_sitemap(all_meta):
 
 def main():
     print('=' * 60)
-    print(' car.ambitstock.com → Next.js 변환 v2')
+    print(' ambitstock.com → Next.js 변환 v2')
     print('=' * 60)
     
     # 16번은 수동 관리 → 건드리지 않음
@@ -547,17 +542,8 @@ def main():
         pid = int(url.rstrip('/').split('/')[-1])
         if pid in SKIP_IDS:
             print(f'⏭️  #{pid} 건너뜀 (수동 관리)')
-            # 메타는 추가
-            all_meta.append({
-                'id': 16,
-                'slug': '16',
-                'title': '자동차보험료 비교견적 사이트 가이드 2026년 TOP 5 | 실사용 기준으로 뽑은 진짜 유용한 곳',
-                'description': '2026년 실사용 기준으로 뽑은 자동차보험 비교견적 사이트 TOP 5. 장단점 총정리.',
-                'category': '자동차보험',
-                'date': '2026-03-11',
-                'tags': ['자동차보험', '비교견적', '보험료절감'],
-                'thumbnail': None,
-            })
+            # 메타는 추가 (수동 관리 포스트 — data/posts.js에서 직접 편집)
+            pass
             continue
         
         try:
@@ -579,19 +565,7 @@ def main():
         with open(post16_path, 'w') as f:
             f.write(post16_backup)
     
-    # 16번 메타 강제 추가 (URL 목록에 없어도)
-    if not any(m['id'] == 16 for m in all_meta):
-        all_meta.append({
-            'id': 16,
-            'slug': '16',
-            'title': '자동차보험료 비교견적 사이트 가이드 2026년 TOP 5 | 실사용 기준으로 뽑은 진짜 유용한 곳',
-            'description': '2026년 실사용 기준으로 뽑은 자동차보험 비교견적 사이트 TOP 5. 장단점 총정리.',
-            'category': '자동차보험',
-            'date': '2026-03-11',
-            'tags': ['자동차보험', '비교견적', '보험료절감'],
-            'thumbnail': None,
-        })
-        print('ℹ️  16번 메타 강제 추가 (URL 목록에 없었음)')
+    # 수동 관리 포스트(SKIP_IDS)는 data/posts.js에서 직접 관리한다
     
     # 메타 + sitemap 생성
     if all_meta:
