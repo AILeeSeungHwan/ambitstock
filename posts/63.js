@@ -1,0 +1,214 @@
+const post = {
+  id: 63,
+  sections: [
+    {
+      type: 'intro',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>넷플릭스에는 수많은 오리지널 영화가 있지만, 시간이 지나도 명작으로 회자되는 작품은 많지 않습니다. 이번 포스팅에서는 단순히 인기가 아니라, 연출·연기·스토리의 완성도로 평가받는 최고의 영화 10편을 선정했습니다. 각 영화는 평단의 호평을 받은 것은 물론, 관객들에게도 큰 울림을 남겼습니다. 지금부터 10위부터 1위까지 역순으로 살펴보겠습니다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post63_thumb.svg',
+      alt: '넷플릭스 영화 추천 TOP 10｜꼭 봐야 할 최고의 명작 모음 (2025 최신)',
+      caption: '넷플릭스 영화 추천 TOP 10｜꼭 봐야 할 최고의 명작 모음 (2025 최신)'
+    },
+    { type: 'toc' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section1',
+      text: '10위. 더 트라이얼 오브 더 시카고 7 (The Trial of the Chicago 7, 2020)',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>1968년 미국 민주당 전당대회에서 벌어진 반전 시위와 정부의 강경 대응, 그리고 그 과정에서 기소된 7인의 피고인 이야기를 다룬 실화 기반 법정 드라마입니다. 감독 애런 소킨은 특유의 빠른 대사와 날카로운 사회 비판으로 긴장감 넘치는 법정 장면을 그려냈습니다. 당시 시대적 혼란을 보여주면서도 현재 사회와 닮아 있는 지점들이 많아 깊은 울림을 줍니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;><b>정의와 자유에 대한 진지한 고민</b>을 던지는 명작입니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section2',
+      text: '9위. 로마 (Roma, 2018)',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>알폰소 쿠아론 감독의 자전적 흑백 영화 <i>로마</i>는 멕시코 시티의 한 가정부 ‘클레오’의 삶을 담담히 따라갑니다. 단순한 개인 이야기를 넘어서 당시 사회 계층과 가족, 사랑과 상실을 아름답게 그려냈습니다. 압도적인 롱테이크와 정교한 미장센은 영화적 예술의 정수를 보여줍니다. 아카데미 감독상과 촬영상, 외국어영화상을 휩쓴 이 작품은 넷플릭스를 통해 전 세계 관객들에게 깊은 감동을 안긴 걸작입니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section3',
+      text: '8위. 비스트 오브 노 네이션 (Beasts of No Nation, 2015)',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;><b>아프리카 내전 속에서 부모를 잃고 소년병이 되어버린 한 아이의 비극적 여정을 그린 작품. </b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>캐리 후쿠나가 감독은 소년의 시선을 통해 전쟁의 잔혹성과 인간성 상실을 강렬하게 드러냅니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>이드리스 엘바는 카리스마 넘치는 군벌 지휘관으로 등장해 깊은 인상을 남깁니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>전쟁의 참혹한 현실을 담담히 보여주는 동시에, 인간성에 대한 질문을 던지는 <b>넷플릭스 초기 명작</b>으로 꼽힙니다.</p>'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    {
+      type: 'h2',
+      id: 'section4',
+      text: '7위. 더 아이리시맨 (The Irishman, 2019)',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>마틴 스코세이지 감독이 연출한 <i>더 아이리시맨</i>은 3시간 반이라는 러닝타임에도 불구하고 몰입도를 잃지 않는 대작입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>프랭크 시런의 시선을 통해 마피아와 정치, 그리고 노년의 고독을 그려낸 이 영화는 범죄 영화의 집대성이라 불립니다. 로버트 드 니로, 알 파치노, 조 페시 같은 전설적 배우들이 총출동해 압도적인 연기를 펼칩니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;><b>죽음과 배신, 우정의 무게를 깊이 탐구한 필수 감상작</b>입니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section5',
+      text: '6위. 피노키오 (Guillermo del Toro\'s Pinocchio, 2022)',
+      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>기예르모 델 토로 감독이 만든 스톱모션 애니메이션 <i>피노키오</i>는 원작 동화를 새롭게 해석한 작품입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>어린이를 위한 이야기가 아니라, 죽음과 상실, 사랑과 성장이라는 보편적 주제를 다루며 성인 관객에게도 깊은 울림을 줍니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>예술적 장인정신으로 완성된 장면 하나하나가 감탄을 자아내며, 아카데미 장편 애니메이션상을 수상하며 역사적 의미를 남겼습니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section6',
+      text: '5위. 파워 오브 독 (The Power of the Dog, 2021)',
+      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;><b>1920년대 몬태나 목장을 배경으로 한 제인 캠피온 감독의 서부극 드라마. </b></p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>거칠고 고독한 목장주 필(베네딕트 컴버배치)이 처제의 아들과 얽히며 벌어지는 심리적 갈등을 다룹니다. 겉으로는 서부극의 외형을 하고 있지만, 내면은 인간의 억압된 욕망과 불안을 세밀하게 파고듭니다. 은근한 긴장감과 강렬한 연출로 아카데미 감독상을 수상한 작품입니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section7',
+      text: '4위. 맹크 (Mank, 2020)',
+      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;><b>데이비드 핀처 감독의 <i>맨크</i>는 고전 명작 &lt;시민 케인&gt;의 각본가 허먼 J. 맨키위츠의 삶을 조명</b>합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>흑백 촬영 기법으로 당시 할리우드의 황금기를 재현했고, 권력과 예술, 창작자의 고뇌를 깊이 있게 탐구했습니다. 정치와 언론, 영화 산업의 어두운 이면을 풍자적으로 드러내며 평단의 극찬을 받았습니다. 영화 예술에 대한 사랑과 동시에 냉혹한 현실을 보여주는 수작입니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section8',
+      text: '3위. 결혼 이야기 (Marriage Story, 2019)',
+      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>노아 바움백 감독의 <i>결혼이야기는</i> <b>결혼과 이혼이라는 보편적 주제를 리얼리티 있게 다룬 드라마</b>입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>아담 드라이버와 스칼렛 요한슨은 부부의 갈등과 사랑, 이별의 감정을 진솔하게 표현했습니다. 현실적이고 가슴 아픈 대사들은 많은 관객에게 공감을 얻었으며, 부부 관계의 복잡성을 세밀하게 보여줍니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>인간관계의 본질을 돌아보게 하는 작품입니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section9',
+      text: '2위. 옥자 (Okja, 2017)',
+      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>봉준호 감독이 연출한 <i>옥자</i>는 <b>넷플릭스 오리지널 영화의 새로운 지평을 연 작품</b>입니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>거대한 슈퍼돼지 ‘옥자’와 시골 소녀 미자의 우정을 중심으로, 다국적 기업의 탐욕과 환경 파괴 문제를 날카롭게 풍자합니다. 틸다 스윈튼, 제이크 질렌할, 안서현 등 개성 강한 배우들이 출연해 독특한 매력을 더했고, 봉준호 특유의 블랙코미디와 드라마적 깊이가 조화를 이루며 관객과 평단 모두에게 강렬한 인상을 남겼습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>칸 영화제 경쟁 부문에 초청되며 넷플릭스 오리지널의 위상을 세계 영화계에 각인시킨 수작입니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section10',
+      text: '1위. 클라우스 (Klaus, 2019)',
+      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>넷플릭스가 선보인 <b>최고의 애니메이션 명작 <i>클라우스</i>는 크리스마스의 기원에 대한 아름다운 상상력을 담은 이야기</b>입니다. 손으로 그린 듯한 따뜻한 2D 스타일과 혁신적인 애니메이션 기법이 결합되어, 눈부신 시각적 완성도를 자랑합니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>우편배달부와 장난감 제작자의 우정, 그리고 아이들에게 기쁨을 주려는 마음이 전 세계 관객의 마음을 울렸습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>가족 영화이자 동시에 인간의 선함과 나눔의 가치를 일깨우는 감동적인 작품으로, 아카데미 애니메이션상 후보에도 오르며 작품성을 인정받았습니다.</p>'
+    },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: #333; font-size: 16px; line-height: 1.8;&quot;>넷플릭스 오리지널 영화 중 가장 많은 사람들에게 “진정한 명작”으로 회자되는 이유가 여기에 있습니다.</p>'
+    },
+    {
+      type: 'h2',
+      id: 'section11',
+      text: '함께 보면 좋은 콘텐츠',
+      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
+    },
+    {
+      type: 'ending',
+      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
+    },
+    {
+      type: 'cta',
+      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%BF%A0%EC%97%94%ED%8B%B4%ED%83%80%EB%9E%80%ED%8B%B0%EB%85%B8-%ED%95%84%EB%AA%A8%EA%B7%B8%EB%9E%98%ED%94%BC-%EC%88%98%EC%83%81%EC%9E%91%ED%92%88-%ED%8F%89%EC%A0%90-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-TOP-9',
+      text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
+    },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+  ]
+}
+
+module.exports = post
