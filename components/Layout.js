@@ -609,7 +609,16 @@ export default function Layout({ children, title, description, onCategoryChange 
   const handleCatSelect = (cat) => {
     setSelectedCat(cat)
     setShowCatMenu(false)
-    if (onCategoryChange) onCategoryChange(cat)
+    if (onCategoryChange) {
+      onCategoryChange(cat)
+    } else {
+      const catObj = CATEGORIES.find(c => c.slug === cat)
+      if (catObj && catObj.label !== '전체') {
+        window.location.href = '/?cat=' + encodeURIComponent(catObj.label)
+      } else {
+        window.location.href = '/'
+      }
+    }
   }
 
   const t = THEMES[themeIdx] || THEMES[0]
