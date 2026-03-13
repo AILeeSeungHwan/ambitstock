@@ -303,10 +303,6 @@ export default function Home({ posts, catCount }) {
               <PostCard key={post.id} post={post} />
             ))}
           </div>
-          <style jsx global>{`
-            @media (max-width: 900px) { .mood-grid { grid-template-columns: repeat(2, 1fr) !important; } }
-            @media (max-width: 500px) { .mood-grid { grid-template-columns: 1fr !important; } }
-          `}</style>
         </section>
       )}
       {selectedMood !== null && moodFiltered.length === 0 && (
@@ -328,10 +324,6 @@ export default function Home({ posts, catCount }) {
             <PostCard key={post.id} post={post} />
           ))}
         </div>
-        <style jsx global>{`
-          @media (max-width: 900px) { .trending-grid { grid-template-columns: repeat(3, 1fr) !important; } }
-          @media (max-width: 600px) { .trending-grid { grid-template-columns: repeat(2, 1fr) !important; } }
-        `}</style>
       </section>
 
       <AdUnit slot="6297515693" format="auto" style={{ marginBottom: 48 }} />
@@ -376,10 +368,6 @@ export default function Home({ posts, catCount }) {
             )
           })}
         </div>
-        <style jsx global>{`
-          @media (max-width: 900px) { .ott-grid { grid-template-columns: repeat(2, 1fr) !important; } }
-          @media (max-width: 500px) { .ott-grid { grid-template-columns: 1fr !important; } }
-        `}</style>
       </section>
 
       {/* ─── 카테고리별 탐색 ─── */}
@@ -411,11 +399,6 @@ export default function Home({ posts, catCount }) {
         )
       })}
 
-      <style jsx global>{`
-        @media (max-width: 900px) { .cat-grid { grid-template-columns: repeat(2, 1fr) !important; } }
-        @media (max-width: 500px) { .cat-grid { grid-template-columns: 1fr !important; } }
-      `}</style>
-
       <AdUnit slot="6297515693" format="auto" style={{ marginBottom: 48 }} />
 
       {/* ─── 전체 글 보기 버튼 ─── */}
@@ -429,6 +412,23 @@ export default function Home({ posts, catCount }) {
           전체 {posts.length}개 포스팅 보기
         </button>
       </section>
+
+      <style jsx global>{`
+        @media (max-width: 900px) {
+          .mood-grid { grid-template-columns: repeat(2, 1fr) !important; }
+          .trending-grid { grid-template-columns: repeat(3, 1fr) !important; }
+          .ott-grid { grid-template-columns: repeat(2, 1fr) !important; }
+          .cat-grid { grid-template-columns: repeat(2, 1fr) !important; }
+        }
+        @media (max-width: 600px) {
+          .trending-grid { grid-template-columns: repeat(2, 1fr) !important; }
+        }
+        @media (max-width: 500px) {
+          .mood-grid { grid-template-columns: 1fr !important; }
+          .ott-grid { grid-template-columns: 1fr !important; }
+          .cat-grid { grid-template-columns: 1fr !important; }
+        }
+      `}</style>
     </Layout>
   )
 }
