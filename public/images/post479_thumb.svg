@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#c62828;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e53935;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="overlay" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:0.5" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#overlay)" />
+
+  <!-- Decorative elements -->
+  <circle cx="100" cy="100" r="180" fill="#ffffff" fill-opacity="0.04" />
+  <circle cx="1100" cy="530" r="220" fill="#ffffff" fill-opacity="0.04" />
+  <rect x="60" y="280" width="6" height="120" fill="#FFD700" opacity="0.8" rx="3" />
+
+  <!-- Category badge -->
+  <rect x="60" y="60" width="180" height="42" rx="21" fill="#ffffff" fill-opacity="0.2" />
+  <text x="150" y="88" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">해외반응후기</text>
+
+  <!-- Main title -->
+  <text x="60" y="220" font-family="'Noto Sans KR', Arial, sans-serif" font-size="62" font-weight="900" fill="#ffffff" letter-spacing="-1">해외에서 난리 난</text>
+  <text x="60" y="300" font-family="'Noto Sans KR', Arial, sans-serif" font-size="62" font-weight="900" fill="#ffffff" letter-spacing="-1">한국 드라마 5편</text>
+
+  <!-- Subtitle -->
+  <text x="60" y="375" font-family="'Noto Sans KR', Arial, sans-serif" font-size="30" font-weight="600" fill="#FFD700">외국인이 진짜 좋아한 작품 — 로튼 토마토 · IMDB 평점 기준</text>
+
+  <!-- Drama list chips -->
+  <rect x="60" y="420" width="160" height="40" rx="20" fill="#ffffff" fill-opacity="0.15" />
+  <text x="140" y="446" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">오징어게임</text>
+
+  <rect x="234" y="420" width="160" height="40" rx="20" fill="#ffffff" fill-opacity="0.15" />
+  <text x="314" y="446" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">우영우</text>
+
+  <rect x="408" y="420" width="100" height="40" rx="20" fill="#ffffff" fill-opacity="0.15" />
+  <text x="458" y="446" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">무빙</text>
+
+  <rect x="522" y="420" width="160" height="40" rx="20" fill="#ffffff" fill-opacity="0.15" />
+  <text x="602" y="446" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">나의 아저씨</text>
+
+  <rect x="696" y="420" width="120" height="40" rx="20" fill="#ffffff" fill-opacity="0.15" />
+  <text x="756" y="446" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">킹덤</text>
+
+  <!-- Footer -->
+  <line x1="60" y1="540" x2="1140" y2="540" stroke="#ffffff" stroke-opacity="0.2" stroke-width="1" />
+  <text x="60" y="575" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" fill="#ffffff" fill-opacity="0.7">R의 필름공장 | ambitstock.com</text>
+  <text x="1140" y="575" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" fill="#FFD700" fill-opacity="0.9" text-anchor="end">#K드라마 #해외반응 #넷플릭스</text>
+</svg>

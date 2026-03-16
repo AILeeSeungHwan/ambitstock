@@ -1,0 +1,26 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1a4e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(201,162,39,0.3)" stroke-width="1.5"/>
+  <text x="600" y="130" text-anchor="middle" font-size="36" font-weight="900" fill="#FFD700" font-family="Pretendard, sans-serif">페이즈 6 진입 전 필수 vs 선택</text>
+  <line x1="100" y1="155" x2="1100" y2="155" stroke="rgba(201,162,39,0.4)" stroke-width="1"/>
+  <text x="200" y="205" text-anchor="middle" font-size="22" font-weight="700" fill="#FFD700" font-family="Pretendard, sans-serif">필수 시청</text>
+  <text x="800" y="205" text-anchor="middle" font-size="22" font-weight="700" fill="rgba(255,255,255,0.5)" font-family="Pretendard, sans-serif">선택 시청</text>
+  <line x1="560" y1="165" x2="560" y2="530" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="200" y="255" text-anchor="middle" font-size="20" fill="white" font-family="Pretendard, sans-serif">로키 시즌 1~2</text>
+  <text x="200" y="305" text-anchor="middle" font-size="20" fill="white" font-family="Pretendard, sans-serif">닥터 스트레인지: 대혼돈의 멀티버스</text>
+  <text x="200" y="355" text-anchor="middle" font-size="20" fill="white" font-family="Pretendard, sans-serif">앤트맨과 와스프: 퀀텀매니아</text>
+  <text x="200" y="405" text-anchor="middle" font-size="20" fill="white" font-family="Pretendard, sans-serif">어벤져스: 인피니티 워</text>
+  <text x="200" y="455" text-anchor="middle" font-size="20" fill="white" font-family="Pretendard, sans-serif">어벤져스: 엔드게임</text>
+  <text x="800" y="255" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.7)" font-family="Pretendard, sans-serif">왓 이프...? 시즌 1~2</text>
+  <text x="800" y="305" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.7)" font-family="Pretendard, sans-serif">완다비전</text>
+  <text x="800" y="355" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.7)" font-family="Pretendard, sans-serif">가디언즈 오브 갤럭시 Vol.3</text>
+  <text x="800" y="405" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.7)" font-family="Pretendard, sans-serif">샹치와 텐 링즈의 전설</text>
+  <text x="800" y="455" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.7)" font-family="Pretendard, sans-serif">썬더볼츠*</text>
+  <text x="600" y="600" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.4)" font-family="Pretendard, sans-serif">R의 필름공장 | ambitstock.com</text>
+</svg>

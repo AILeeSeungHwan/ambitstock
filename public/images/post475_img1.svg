@@ -1,0 +1,19 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg475img1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d47a1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1565c0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg475img1)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="16" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+  <text x="600" y="160" text-anchor="middle" font-size="42" font-weight="900" fill="#FFD700" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">4월 넷플릭스 장르별 추천</text>
+  <line x1="200" y1="185" x2="1000" y2="185" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+  <text x="200" y="245" font-size="28" font-weight="700" fill="white" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">🎬  액션·스릴러</text>
+  <text x="200" y="285" font-size="22" fill="rgba(255,255,255,0.8)" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">혼자 밤에 집중하며 보기 좋은 라인업</text>
+  <text x="200" y="345" font-size="28" font-weight="700" fill="white" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">💕  로맨스·드라마</text>
+  <text x="200" y="385" font-size="22" fill="rgba(255,255,255,0.8)" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">봄 시즌 가볍게 켜두기 딱 좋은 작품들</text>
+  <text x="200" y="445" font-size="28" font-weight="700" fill="white" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">🇰🇷  한국 오리지널</text>
+  <text x="200" y="485" font-size="22" fill="rgba(255,255,255,0.8)" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">주말 이틀이면 완주 가능한 정주행 추천</text>
+  <text x="600" y="580" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.45)" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">ambitstock.com</text>
+</svg>

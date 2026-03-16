@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a73e8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg2)" />
+  <rect x="0" y="0" width="1200" height="630" fill="rgba(0,0,0,0.2)" />
+  <!-- Title -->
+  <text x="600" y="160" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#FFD700" text-anchor="middle">봉준호 영화를 관통하는 키워드</text>
+  <!-- Keywords grid -->
+  <rect x="80" y="210" width="300" height="80" rx="10" fill="rgba(255,255,255,0.1)" stroke="#1a73e8" stroke-width="2"/>
+  <text x="230" y="258" font-family="Arial, sans-serif" font-size="28" fill="#ffffff" text-anchor="middle">장르 혼합</text>
+  <rect x="450" y="210" width="300" height="80" rx="10" fill="rgba(255,255,255,0.1)" stroke="#1a73e8" stroke-width="2"/>
+  <text x="600" y="258" font-family="Arial, sans-serif" font-size="28" fill="#ffffff" text-anchor="middle">계급 비판</text>
+  <rect x="820" y="210" width="300" height="80" rx="10" fill="rgba(255,255,255,0.1)" stroke="#1a73e8" stroke-width="2"/>
+  <text x="970" y="258" font-family="Arial, sans-serif" font-size="28" fill="#ffffff" text-anchor="middle">한국 사회</text>
+  <rect x="80" y="320" width="300" height="80" rx="10" fill="rgba(255,255,255,0.1)" stroke="#FFD700" stroke-width="2"/>
+  <text x="230" y="368" font-family="Arial, sans-serif" font-size="28" fill="#FFD700" text-anchor="middle">송강호</text>
+  <rect x="450" y="320" width="300" height="80" rx="10" fill="rgba(255,255,255,0.1)" stroke="#FFD700" stroke-width="2"/>
+  <text x="600" y="368" font-family="Arial, sans-serif" font-size="28" fill="#FFD700" text-anchor="middle">씁쓸한 결말</text>
+  <rect x="820" y="320" width="300" height="80" rx="10" fill="rgba(255,255,255,0.1)" stroke="#FFD700" stroke-width="2"/>
+  <text x="970" y="368" font-family="Arial, sans-serif" font-size="28" fill="#FFD700" text-anchor="middle">유쾌한 긴장감</text>
+  <!-- Film list -->
+  <text x="600" y="470" font-family="Arial, sans-serif" font-size="24" fill="#e0e0e0" text-anchor="middle">살인의 추억 · 괴물 · 마더 · 설국열차 · 옥자 · 기생충 · 미키 17</text>
+  <!-- Footer -->
+  <rect x="0" y="570" width="1200" height="60" fill="rgba(0,0,0,0.4)" />
+  <text x="600" y="608" font-family="Arial, sans-serif" font-size="22" fill="#bbbbbb" text-anchor="middle">R의 필름공장 | ambitstock.com</text>
+</svg>

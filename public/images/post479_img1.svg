@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d2d4e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Title -->
+  <text x="600" y="100" font-family="'Noto Sans KR', Arial, sans-serif" font-size="36" font-weight="900" fill="#FFD700" text-anchor="middle" letter-spacing="2">K드라마 해외 평점 비교</text>
+  <line x1="200" y1="120" x2="1000" y2="120" stroke="#FFD700" stroke-width="2" opacity="0.5" />
+
+  <!-- Header row -->
+  <text x="80" y="175" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff" fill-opacity="0.6">드라마</text>
+  <text x="620" y="175" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff" fill-opacity="0.6" text-anchor="middle">로튼 토마토 시청자</text>
+  <text x="940" y="175" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff" fill-opacity="0.6" text-anchor="middle">IMDB</text>
+
+  <!-- Row 1: 오징어게임 -->
+  <rect x="60" y="190" width="1080" height="64" rx="8" fill="#ffffff" fill-opacity="0.05" />
+  <text x="80" y="230" font-family="'Noto Sans KR', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">오징어게임 시즌1</text>
+  <text x="620" y="230" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="900" fill="#4caf50" text-anchor="middle">83%</text>
+  <text x="940" y="230" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="900" fill="#FFD700" text-anchor="middle">8.0</text>
+
+  <!-- Row 2: 우영우 -->
+  <rect x="60" y="262" width="1080" height="64" rx="8" fill="#ffffff" fill-opacity="0.03" />
+  <text x="80" y="302" font-family="'Noto Sans KR', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">이상한 변호사 우영우</text>
+  <text x="620" y="302" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="900" fill="#4caf50" text-anchor="middle">98%</text>
+  <text x="940" y="302" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="900" fill="#FFD700" text-anchor="middle">8.4</text>
+
+  <!-- Row 3: 무빙 -->
+  <rect x="60" y="334" width="1080" height="64" rx="8" fill="#ffffff" fill-opacity="0.05" />
+  <text x="80" y="374" font-family="'Noto Sans KR', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">무빙</text>
+  <text x="620" y="374" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="900" fill="#4caf50" text-anchor="middle">—</text>
+  <text x="940" y="374" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="900" fill="#FFD700" text-anchor="middle">8.5</text>
+
+  <!-- Row 4: 나의 아저씨 -->
+  <rect x="60" y="406" width="1080" height="64" rx="8" fill="#ffffff" fill-opacity="0.03" />
+  <text x="80" y="446" font-family="'Noto Sans KR', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">나의 아저씨</text>
+  <text x="620" y="446" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="900" fill="#4caf50" text-anchor="middle">—</text>
+  <text x="940" y="446" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="900" fill="#FFD700" text-anchor="middle">9.0</text>
+
+  <!-- Row 5: 킹덤 -->
+  <rect x="60" y="478" width="1080" height="64" rx="8" fill="#ffffff" fill-opacity="0.05" />
+  <text x="80" y="518" font-family="'Noto Sans KR', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">킹덤 시즌1</text>
+  <text x="620" y="518" font-family="'Noto Sans KR', Arial, sans-serif" font-size="24" font-weight="700" fill="#e53935" text-anchor="middle">RT 96% (평론가)</text>
+  <text x="940" y="518" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="900" fill="#FFD700" text-anchor="middle">8.3</text>
+
+  <!-- Footer -->
+  <text x="600" y="610" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="#ffffff" fill-opacity="0.5" text-anchor="middle">R의 필름공장 | ambitstock.com</text>
+</svg>

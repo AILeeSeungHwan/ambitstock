@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d47a1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1565c0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="0" y="0" width="1200" height="630" fill="rgba(0,0,0,0.15)" />
+  <rect x="60" y="60" width="1080" height="510" rx="18" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="2" />
+  <text x="600" y="185" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="42" font-weight="700" fill="#FFD700" text-anchor="middle">쿠팡플레이 오리지널 대표작</text>
+  <text x="300" y="300" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="44" font-weight="800" fill="#FFFFFF" text-anchor="middle">안나</text>
+  <text x="300" y="360" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="28" fill="#BBDEFB" text-anchor="middle">심리 드라마 · 4부작</text>
+  <text x="600" y="300" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="44" font-weight="800" fill="#FFFFFF" text-anchor="middle">SNL 코리아</text>
+  <text x="600" y="360" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="28" fill="#BBDEFB" text-anchor="middle">예능 · 시즌1~</text>
+  <text x="900" y="300" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="38" font-weight="800" fill="#FFFFFF" text-anchor="middle">킬러들의 쇼핑몰</text>
+  <text x="900" y="360" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="28" fill="#BBDEFB" text-anchor="middle">장르 코미디</text>
+  <line x1="100" y1="415" x2="1100" y2="415" stroke="rgba(255,255,255,0.25)" stroke-width="1.5" />
+  <text x="600" y="490" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="30" fill="#90CAF9" text-anchor="middle">로켓와우 멤버십 포함 — 추가 비용 없음</text>
+  <text x="600" y="570" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="24" fill="rgba(255,255,255,0.55)" text-anchor="middle">R의 필름공장 | ambitstock.com</text>
+</svg>

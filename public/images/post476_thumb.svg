@@ -1,0 +1,16 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg476" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a73e8;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#7b1fa2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e50914;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg476)"/>
+  <rect x="0" y="0" width="1200" height="630" fill="rgba(0,0,0,0.2)"/>
+  <text x="600" y="190" text-anchor="middle" font-size="58" font-weight="900" fill="white" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">디즈니플러스 vs 넷플릭스</text>
+  <text x="600" y="285" text-anchor="middle" font-size="64" font-weight="900" fill="white" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">2026 완전 비교</text>
+  <text x="600" y="380" text-anchor="middle" font-size="34" font-weight="700" fill="#FFD700" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">가격 · 콘텐츠 · UI · 누구에게 맞나</text>
+  <text x="600" y="455" text-anchor="middle" font-size="26" font-weight="400" fill="rgba(255,255,255,0.75)" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">하나만 골라야 한다면 이걸 보면 된다</text>
+  <text x="600" y="555" text-anchor="middle" font-size="22" fill="rgba(255,255,255,0.55)" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">R의 필름공장 | ambitstock.com</text>
+</svg>
