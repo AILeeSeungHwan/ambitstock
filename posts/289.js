@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%AF%B8%ED%82%A4-17-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%9B%84%EA%B8%B0%EB%B0%98%EC%9D%91-%EC%98%88%EA%B3%A0%ED%8E%B8-%EB%93%9C%EB%94%94%EC%96%B4-%EA%B0%9C%EB%B4%89%EC%9D%BC-%ED%99%95%EC%A0%95-%EB%B4%89%EC%A4%80%ED%98%B8-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91',
+      href: '/critic-review-reaction-release-movie-recommend-upcoming/',
       text: '미키 17 시사회 평론가 후기반응 예고편 드디어 개봉일 확정 ! 봉준호 영화 추천 개봉예정작'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-guide-top-10/',
       text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%BC%EB%B3%B8-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%98%81%ED%99%94-%EB%A3%A9%EB%B0%B1-%EC%98%88%EB%A7%A4%ED%95%A0%EB%A7%8C-%ED%95%A0%EA%B9%8C-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%ED%95%B4%EC%99%B8-%ED%98%84%EC%A7%80-%ED%8F%89%EC%A0%90-%ED%9B%84%EA%B8%B0',
+      href: '/animation-movie-overseas-rating-review/',
       text: '일본 애니메이션 영화 룩백 예매할만 할까? 제목 뜻 해외 현지 평점 후기'
     },
     {

@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%B2%A0%ED%85%8C%EB%9E%91-2-%EC%B9%B8-%EC%98%81%ED%99%94%EC%A0%9C-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%8F%89%EC%A0%90-%ED%95%B4%EC%99%B8-%ED%9B%84%EA%B8%B0%EB%B0%98%EC%9D%91-%ED%98%B8%ED%8F%89%EA%B3%BC-%ED%98%B9%ED%8F%89%EC%9D%B4-%EB%8F%99%EC%8B%9C%EC%97%90',
+      href: '/movie-rating-overseas-review-reaction/',
       text: '베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에'
     },
     {

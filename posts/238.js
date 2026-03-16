@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-guide-top-10/',
       text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4-%EB%91%A0%EC%8A%A4%EB%8D%B0%EC%9D%B4-%EA%B2%B0%EB%A7%90-%EB%8B%A5%ED%84%B0-%EB%91%A0-%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8-%EC%9D%B8%EA%B2%A9-%EA%B4%80%EA%B3%84-%EB%A1%9C%EB%8B%A4%EC%A3%BC%EB%8A%94-%EB%8F%8C%EC%95%84%EC%98%A8%EB%8B%A4-5',
+      href: '/ending-어벤져스-둠스데이/',
       text: '마블 영화 어벤져스 둠스데이 결말 | 닥터 둠 아이언맨 인격 관계 로다주는 돌아온다-5'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
     {
@@ -34,7 +34,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4-%EB%91%A0%EC%8A%A4%EB%8D%B0%EC%9D%B4-%EA%B2%B0%EB%A7%90-%EB%8B%A5%ED%84%B0-%EB%91%A0-%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8-%EC%9D%B8%EA%B2%A9-%EA%B4%80%EA%B3%84-%EB%A1%9C%EB%8B%A4%EC%A3%BC%EB%8A%94-%EB%8F%8C%EC%95%84%EC%98%A8%EB%8B%A4-5&quot; style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: start;&quot; title=&quot;마블 어벤져스 둠스데이&quot;>2024.08.10 - [영화/마블] - 마블 영화 어벤져스 둠스데이 결말 | 닥터 둠 아이언맨 인격 관계 로다주는 돌아온다-5</a></p>'
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: start;&quot; title=&quot;마블 어벤져스 둠스데이&quot;>2024.08.10 - [영화/마블] - 마블 영화 어벤져스 둠스데이 결말 | 닥터 둠 아이언맨 인격 관계 로다주는 돌아온다-5</a></p>'
     },
     {
       type: 'body',

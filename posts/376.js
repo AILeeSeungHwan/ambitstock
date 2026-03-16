@@ -3,32 +3,32 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EB%A7%8C%EC%A0%90%EC%9E%91%EC%97%90%EC%84%9C-%EC%B0%BE%EB%8A%94-%EC%9D%B8%EC%83%9D%EC%98%81%ED%99%94-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EC%B2%AD%EA%B0%80%EB%8A%A5-%EC%88%98%EC%83%81%EC%9E%91%ED%92%88',
+      href: '/netflix-movie-recommend-critic-rating/',
       text: '넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4%EB%B6%80%ED%84%B0-%EA%B8%80%EB%9E%98%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-2-%EB%8D%B0%EB%93%9C%ED%92%80-3-%EA%B9%8C%EC%A7%80-2024%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%ED%95%B4%EC%99%B8-%EC%98%81%ED%99%94-%EA%B8%B0%EB%8C%80%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EA%B3%B5%EC%8B%9D-%ED%8B%B0%EC%A0%80-%EC%98%88%EA%B3%A0%ED%8E%B8-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/overseas-movie-release-guide/',
       text: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/TOP20-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-%EB%B3%B4%EB%8A%94-%EA%B3%B3-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EC%97%AD%EB%8C%80-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%EA%B4%80%EA%B0%9D-%EC%88%98-%ED%9D%A5%ED%96%89-%EC%88%9C%EC%9C%84',
+      href: '/movie-recommend-guide-box-office-audience-top20-ott/',
       text: 'TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/TVN-%EC%97%AD%EB%8C%80-%EC%8B%9C%EC%B2%AD%EB%A5%A0-%EC%88%9C%EC%9C%84-TOP-10-%ED%8B%B0%EB%B9%99-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C-1',
+      href: '/tving-drama-recommend-tvn-top-10/',
       text: '2024년 TVN 역대 시청률 TOP 10 티빙 드라마 순위 추천'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%94%94%EC%A6%88%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%ED%95%9C%EA%B5%AD-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C-%EC%88%9C%EC%9C%84-TOP-10',
+      href: '/disney-plus-disney-series-drama-recommend-top-10/',
       text: '디즈니플러스 오리지널 시리즈 한국 볼만한 드라마 추천 순위 TOP 10'
     },
     {

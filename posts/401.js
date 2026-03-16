@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EA%B4%B4%EC%88%98-8%ED%98%B8-2%EA%B8%B0-%EC%9B%90%EC%9E%91-%EB%A7%8C%ED%99%94%EC%B1%85-%EB%82%B4%EC%9A%A9-%EC%8A%A4%ED%8F%AC-%ED%8F%AC%ED%95%A8-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%B3%B4-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC',
+      href: '/plot-괴수-호-기/',
       text: '괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!'
     },
     {
@@ -36,7 +36,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EA%B4%B4%EC%88%98-8%ED%98%B8-2%EA%B8%B0-%EC%9B%90%EC%9E%91-%EB%A7%8C%ED%99%94%EC%B1%85-%EB%82%B4%EC%9A%A9-%EC%8A%A4%ED%8F%AC-%ED%8F%AC%ED%95%A8-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%B3%B4-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC&quot; rel=&quot;noopener&quot; title=&quot;괴수 8호 2기 줄거리&quot;>괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!</a></p>'
+      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;괴수 8호 2기 줄거리&quot;>괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!</a></p>'
     },
     {
       type: 'body',

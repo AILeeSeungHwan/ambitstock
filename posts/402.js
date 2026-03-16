@@ -3,12 +3,12 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%98%84%EC%9E%AC-%EC%83%81%EC%98%81%EC%9E%91-%EC%88%9C%EC%9C%84-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EB%A6%AC%EB%B7%B0-%EC%BD%B0%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-3-%EC%B2%AB%EC%A7%B8-%EB%82%A0',
+      href: '/movie-overseas-critic-rating-reaction-review/',
       text: '영화 현재 상영작 순위 해외 평론가 평점 반응 리뷰 | 콰이어트 플레이스 3 : 첫째 날'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2024%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%ED%95%9C%EA%B5%AD%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EB%9D%BC%EC%9D%B8%EC%97%85-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-release-upcoming-guide/',
       text: '2024년 하반기 한국영화 개봉예정작 라인업 총정리'
     },
     {

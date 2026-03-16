@@ -3,27 +3,27 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B2%A0%ED%85%8C%EB%9E%91-2-%EA%B0%9C%EB%B4%89-%EC%A0%84-%EC%A0%95%EB%B3%B4-%EC%B2%9C%EB%A7%8C%EA%B4%80%EA%B0%9D-%EB%B2%A0%ED%85%8C%EB%9E%91-1%ED%8E%B8-%ED%95%B4%EC%99%B8-%EB%A6%AC%EB%B7%B0-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EC%97%AD%EB%8C%80-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%ED%95%9C%EA%B5%AD-%EC%98%81%ED%99%94-%EC%88%9C%EC%9C%84-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%ED%98%84%EC%9E%AC-%EC%83%81%EC%98%81%EC%9E%91%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0',
+      href: '/',
       text: '[영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EB%B2%94%EC%A3%84%EB%8F%84%EC%8B%9C-4-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EC%B6%9C%EC%97%B0%EC%A7%84-%EB%B9%8C%EB%9F%B0-%EC%98%88%EA%B3%A0%ED%8E%B8-%EB%B2%94%EC%A3%84%EB%8F%84%EC%8B%9C-2-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%8F-%EB%A6%AC%EB%B7%B0-%EB%B0%98%EC%9D%91-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-%EC%97%AD%EB%8C%80-%ED%95%9C%EA%B5%AD-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%EC%88%9C%EC%9C%84-%EC%8B%9C%EB%A6%AC%EC%A6%88-2%ED%8E%B8',
+      href: '/',
       text: '[영화 범죄도시 4 개봉일 출연진 빌런 예고편] 범죄도시 2 해외 평점 및 리뷰 반응 다시보기 - 역'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8C%8C%EB%AC%98-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EB%B0%8F-%ED%8B%B0%EC%A0%80-%EC%98%88%EA%B3%A0%ED%8E%B8-%ED%95%B4%EC%99%B8%EB%B0%98%EC%9D%91-%ED%8C%8C%EB%AC%98-%EB%9C%BB-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC%EA%B3%BC-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%98%81%EC%96%B4%EC%A0%9C%EB%AA%A9-Exhuma-%EB%9C%BB-2%EC%9B%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91',
+      href: '/',
       text: '[영화 파묘 개봉일 및 티저 예고편 해외반응] - 파묘 뜻 등장인물과 포스터 영어제목 Exhuma 뜻 2월'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A41-Joker-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%8F-%EB%B0%98%EC%9D%91-%ED%98%B8%EC%95%84%ED%82%A8-%ED%94%BC%EB%8B%89%EC%8A%A4-%EC%A3%BC%EC%97%B0-%EC%A1%B0%EC%BB%A42-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9D%BC',
+      href: '/overseas-rating-reaction-release-upcoming-joker/',
       text: '[조커2 영화 개봉일 배우 조커 해외평점과 반응] - 배트맨 할리퀸 합류? 개봉 예정작 (영화 조커 OT'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%B4%89%EC%A4%80%ED%98%B8-%EC%8B%9C%EB%A6%AC%EC%A6%88-1%ED%83%84-%EA%B8%B0%EC%83%9D%EC%B6%A9-%EB%AF%B8%ED%82%A417-%EB%B3%B4%EA%B8%B0-%EC%A0%84-%EC%A0%84%EC%9E%91-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0feat-BTS-%EC%86%90%ED%9D%A5%EB%AF%BC-%EB%B4%89%EC%A4%80%ED%98%B8-Lets-Go',
+      href: '/',
       text: '[영화 미키17 개봉일 티저 예고편, 개봉전 전작 기생충 해외 평점 반응] 봉준호 시리즈 1탄 - 기생'
     },
     {

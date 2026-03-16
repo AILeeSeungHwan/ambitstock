@@ -3,12 +3,12 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EA%B8%80%EB%9E%98%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-2-%ED%8F%89%EC%A0%90-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%9B%84%EA%B8%B0-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9D%98%EB%AF%B8-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%B0%98%EC%9D%91%EC%9D%80',
+      href: '/rating-review-critic-reaction/',
       text: '글래디에이터 2 평점 관람평 후기 제목 뜻 의미 | 로튼 토마토 평론가 반응은?'
     },
     {
       type: 'intro',
-      html: '<p>2000년에 개봉한 리들리 스콧 감독의 <i>글래디에이터</i>는 고대 로마의 치열한 검투사 싸움과 영웅 막시무스의 복수극을 중심으로, 전 세계 관객들의 마음을 사로잡았다. <span style=&quot;background-color: #9feec3;&quot;><b>아카데미 작품상을 포함한 5관왕을 차지하며 영화사에 길이 남을 명작이 된 이 작품</b></span>은 그 후에도 많은 팬들에게 회자되며 영화를 넘어 문화적 아이콘이 되었다.</p><p>그리고 24년 만에 속편인 <i>글래디에이터 Ⅱ</i>가 개봉했다. 이 속편은 전작의 영광을 이어받아, 새로운 영웅과 더 큰 스케일의 이야기를 펼쳐나간다. 이번 포스팅에서는 글래디에이터 2의 줄거리 내용과 해외 반응을 함께 살펴보고자 한다.</p><p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%EA%B8%80%EB%9E%98%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-2-%ED%8F%89%EC%A0%90-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%9B%84%EA%B8%B0-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9D%98%EB%AF%B8-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%B0%98%EC%9D%91%EC%9D%80&quot; rel=&quot;noopener&quot; title=&quot;글래디에이터 2 평점 관람평 후기&quot;>2024.11.12 - [영화/영화 해외반응후기] - 글래디에이터 2 평점 관람평 후기 제목 뜻 의미 | 로튼 토마토 평론가 반응은?</a></p>'
+      html: '<p>2000년에 개봉한 리들리 스콧 감독의 <i>글래디에이터</i>는 고대 로마의 치열한 검투사 싸움과 영웅 막시무스의 복수극을 중심으로, 전 세계 관객들의 마음을 사로잡았다. <span style=&quot;background-color: #9feec3;&quot;><b>아카데미 작품상을 포함한 5관왕을 차지하며 영화사에 길이 남을 명작이 된 이 작품</b></span>은 그 후에도 많은 팬들에게 회자되며 영화를 넘어 문화적 아이콘이 되었다.</p><p>그리고 24년 만에 속편인 <i>글래디에이터 Ⅱ</i>가 개봉했다. 이 속편은 전작의 영광을 이어받아, 새로운 영웅과 더 큰 스케일의 이야기를 펼쳐나간다. 이번 포스팅에서는 글래디에이터 2의 줄거리 내용과 해외 반응을 함께 살펴보고자 한다.</p><p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;글래디에이터 2 평점 관람평 후기&quot;>2024.11.12 - [영화/영화 해외반응후기] - 글래디에이터 2 평점 관람평 후기 제목 뜻 의미 | 로튼 토마토 평론가 반응은?</a></p>'
     },
     {
       type: 'image',
@@ -30,17 +30,17 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EA%B8%80%EB%9E%98%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-%E2%85%A1-2-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%9B%84%EA%B8%B0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EA%B4%80%EB%9E%8C%ED%8F%89-%EB%B0%98%EC%9D%91-11%EC%9B%94-%EA%B0%80%EC%9E%A5-%EA%B8%B0%EB%8C%80%EB%90%98%EB%8A%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EC%98%81%ED%99%94',
+      href: '/review-critic-reaction-release-upcoming-movie/',
       text: '글래디에이터 Ⅱ 2 시사회 후기 평론가 관람평 반응 11월 가장 기대되는 개봉 예정작 영화'
     },
     {
@@ -85,7 +85,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<div><center><a href=&quot;https://ambitstock.com/entry/%EA%B8%80%EB%9E%98%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-2-%ED%8F%89%EC%A0%90-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%9B%84%EA%B8%B0-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9D%98%EB%AF%B8-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%B0%98%EC%9D%91%EC%9D%80&quot; title=&quot;글래디에이터 2 보러가기&quot;><button class=&quot;primary&quot;>글래디에이터 2 반응 보러가기</button></a></center></div>'
+      html: '<div><center><a href=&quot;/ title=&quot;글래디에이터 2 보러가기&quot;><button class=&quot;primary&quot;>글래디에이터 2 반응 보러가기</button></a></center></div>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -118,7 +118,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<div><center><a href=&quot;https://ambitstock.com/entry/%EA%B8%80%EB%9E%98%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-2-%ED%8F%89%EC%A0%90-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%9B%84%EA%B8%B0-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9D%98%EB%AF%B8-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%B0%98%EC%9D%91%EC%9D%80&quot; title=&quot;글래디에이터 2 보러가기&quot;><button class=&quot;primary&quot;>글래디에이터 2 반응 보러가기</button></a></center> <p> </p> <p> </p> </div>'
+      html: '<div><center><a href=&quot;/ title=&quot;글래디에이터 2 보러가기&quot;><button class=&quot;primary&quot;>글래디에이터 2 반응 보러가기</button></a></center> <p> </p> <p> </p> </div>'
     },
     {
       type: 'h2',
@@ -136,7 +136,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<div><center><a href=&quot;https://ambitstock.com/entry/%EA%B8%80%EB%9E%98%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-2-%ED%8F%89%EC%A0%90-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%9B%84%EA%B8%B0-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9D%98%EB%AF%B8-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%B0%98%EC%9D%91%EC%9D%80&quot; title=&quot;글래디에이터 2 보러가기&quot;><button class=&quot;primary&quot;>글래디에이터 2 반응 보러가기</button></a></center></div>'
+      html: '<div><center><a href=&quot;/ title=&quot;글래디에이터 2 보러가기&quot;><button class=&quot;primary&quot;>글래디에이터 2 반응 보러가기</button></a></center></div>'
     },
     {
       type: 'h2',

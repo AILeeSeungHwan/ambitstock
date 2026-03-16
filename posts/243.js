@@ -3,22 +3,22 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EA%B3%B5%EA%B0%9C-%ED%83%88%EC%B6%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%82%AC%EC%9D%BC%EB%9F%B0%EC%8A%A4-%EA%B2%B0%EB%A7%90%ED%9B%84%EA%B8%B0-%EB%B0%98%EC%9D%91-%EA%B4%80%EB%9E%8C%ED%8F%89-%EB%A6%AC%EB%B7%B0-%EC%9D%B4-%EC%98%81%ED%99%94%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EC%9E%98-%EB%AA%BB-%EB%90%98%EC%97%88%EB%82%98',
+      href: '/netflix-review-ending-reaction-movie/',
       text: '넷플릭스 공개 탈출 : 프로젝트 사일런스 결말후기 반응 관람평 리뷰 | 이 영화는 무엇이 잘 못'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-guide-top-10/',
       text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-2024%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%88%9C%EC%9C%84-TOP-7',
+      href: '/netflix-drama-recommend-overseas-reaction-top-7/',
       text: '넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
     {

@@ -72,7 +72,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/OTT-%EC%B6%94%EC%B2%9C-%EC%9A%94%EA%B8%88%EC%A0%9C%C2%B7%EA%B2%B0%EC%A0%9C-%EB%B9%84%EA%B5%90-2025-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-vs-%EB%94%94%EC%A6%88%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%96%B4%EB%94%94%EA%B0%80-%EB%8D%94-%ED%95%A9%EB%A6%AC%EC%A0%81%EC%9D%BC%EA%B9%8C',
+      href: '/recommend-plan-comparison-netflix-disney-plus-disney-ott-vs/',
       text: 'OTT 추천 요금제·결제 비교 2025 넷플릭스 vs 디즈니플러스, 어디가 더 합리적일까?'
     },
     {
@@ -91,7 +91,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%9A%94%EA%B8%88%EC%A0%9C-%ED%95%A0%EC%9D%B8-%EC%B4%9D%EC%A0%95%EB%A6%AC-2025%EB%85%84-%ED%86%B5%EC%8B%A0%EC%82%AC-%EC%B9%B4%EB%93%9C-%ED%98%9C%ED%83%9D',
+      href: '/netflix-plan-discount-guide/',
       text: '넷플릭스 요금제 할인 총정리 2025년 - 통신사 카드 혜택'
     },
     {
@@ -134,17 +134,17 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%97%AD%EB%8C%80-%EC%98%81%ED%99%94-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%EA%B4%80%EA%B0%9D-%EC%88%98-%ED%9D%A5%ED%96%89-%EC%88%9C%EC%9C%84-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-%EB%B3%B4%EB%8A%94-%EA%B3%B3-%EC%B4%9D%EC%A0%95%EB%A6%AC-2%EB%B6%80',
+      href: '/movie-box-office-audience-guide-ott/',
       text: '역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

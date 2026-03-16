@@ -83,11 +83,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%EC%88%98%ED%8D%BC-%EC%86%8C%EB%8B%89-3-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%8F%AC%ED%86%A0-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EA%B4%80%EA%B0%9D-%EA%B7%B9%EC%B0%AC-%EB%B0%98%EC%9D%91-%EC%98%81%ED%99%94&quot; rel=&quot;noopener&quot;>수퍼 소닉 3 관람평 포토 시사회 결말 후기 &lt; 로튼 토마토 평론가 관객 극찬 반응 영화 &gt;</a></p>'
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot;>수퍼 소닉 3 관람평 포토 시사회 결말 후기 &lt; 로튼 토마토 평론가 관객 극찬 반응 영화 &gt;</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%88%98%ED%8D%BC-%EC%86%8C%EB%8B%89-3-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%8F%AC%ED%86%A0-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EA%B4%80%EA%B0%9D-%EA%B7%B9%EC%B0%AC-%EB%B0%98%EC%9D%91-%EC%98%81%ED%99%94',
+      href: '/review-ending-critic-audience-reaction-movie/',
       text: '수퍼 소닉 3 관람평 포토 시사회 결말 후기 < 로튼 토마토 평론가 관객 극찬 반응 영화 >'
     },
     {
@@ -126,11 +126,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%EC%B4%9D%EC%9D%84-%EB%93%A0-%EC%8A%A4%EB%8B%98-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%8F%AC%ED%86%A0-%EC%A0%95%EB%B3%B4-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-%EC%88%98%EC%83%81%EC%9E%91-12%EC%9B%94-%EB%AA%85%EC%9E%91-%EC%98%81%ED%99%94%EB%A5%BC-%EC%B0%BE%EB%8A%94%EB%8B%A4%EB%A9%B4-%EC%99%84%EB%B2%BD%ED%95%9C-%EC%84%A0%ED%83%9D&quot; rel=&quot;noopener&quot; title=&quot;총을 든 스님&quot;>총을 든 스님 관람평 포토 정보 아카데미 수상작 &lt;12월 명작 영화를 찾는다면 완벽한 선택&gt;</a></p>'
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;총을 든 스님&quot;>총을 든 스님 관람평 포토 정보 아카데미 수상작 &lt;12월 명작 영화를 찾는다면 완벽한 선택&gt;</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%B4%9D%EC%9D%84-%EB%93%A0-%EC%8A%A4%EB%8B%98-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%8F%AC%ED%86%A0-%EC%A0%95%EB%B3%B4-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-%EC%88%98%EC%83%81%EC%9E%91-12%EC%9B%94-%EB%AA%85%EC%9E%91-%EC%98%81%ED%99%94%EB%A5%BC-%EC%B0%BE%EB%8A%94%EB%8B%A4%EB%A9%B4-%EC%99%84%EB%B2%BD%ED%95%9C-%EC%84%A0%ED%83%9D',
+      href: '/review-masterpiece-movie/',
       text: '총을 든 스님 관람평 포토 정보 아카데미 수상작 <12월 명작 영화를 찾는다면 완벽한 선택>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
@@ -162,11 +162,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%EC%9B%94%EB%A0%88%EC%8A%A4%EC%99%80-%EA%B7%B8%EB%A1%9C%EB%B0%8B-%EB%B3%B5%EC%88%98%EC%9D%98-%EB%82%A0%EA%B0%9C-%EA%B4%80%EB%9E%8C%ED%8F%89-%EC%A0%9C%EC%9E%91-%ED%8F%AC%ED%86%A0-%ED%9B%84%EA%B8%B0-%ED%8E%AD%EA%B7%84-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EC%A0%90-100-1%EB%93%B1-%EC%9E%91%ED%92%88&quot; rel=&quot;noopener&quot;>월레스와 그로밋: 복수의 날개 관람평 제작 포토 후기 펭귄 &lt; 로튼 토마토 평점 100% 1등 작품 &gt;</a></p>'
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot;>월레스와 그로밋: 복수의 날개 관람평 제작 포토 후기 펭귄 &lt; 로튼 토마토 평점 100% 1등 작품 &gt;</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9B%94%EB%A0%88%EC%8A%A4%EC%99%80-%EA%B7%B8%EB%A1%9C%EB%B0%8B-%EB%B3%B5%EC%88%98%EC%9D%98-%EB%82%A0%EA%B0%9C-%EA%B4%80%EB%9E%8C%ED%8F%89-%EC%A0%9C%EC%9E%91-%ED%8F%AC%ED%86%A0-%ED%9B%84%EA%B8%B0-%ED%8E%AD%EA%B7%84-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EC%A0%90-100-1%EB%93%B1-%EC%9E%91%ED%92%88',
+      href: '/review-rating-월레스와-그로밋-복수의/',
       text: '월레스와 그로밋: 복수의 날개 관람평 제작 포토 후기 펭귄 < 로튼 토마토 평점 100% 1등 작품 >'
     },
     {
@@ -193,11 +193,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%EC%87%BC%EC%9E%89-%EC%97%85-Showing-Up-%EB%9C%BB-%ED%95%B4%EC%84%9D-%EA%B4%80%EB%9E%8C%ED%8F%89-%EC%A0%95%EB%B3%B4-%EC%B6%9C%EC%97%B0%EC%A7%84-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%ED%8F%AC%ED%86%A0-R%EC%9D%98-%EC%98%81%ED%99%94-%EC%B4%9D%EC%A0%95%EB%A6%AC&quot; rel=&quot;noopener&quot; title=&quot;쇼잉 업 평점 관람평&quot;>쇼잉 업 Showing Up 뜻 해석 관람평 정보 출연진 결말 후기 리뷰 포토 &lt;R의 영화 총정리&gt;</a></p>'
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;쇼잉 업 평점 관람평&quot;>쇼잉 업 Showing Up 뜻 해석 관람평 정보 출연진 결말 후기 리뷰 포토 &lt;R의 영화 총정리&gt;</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%87%BC%EC%9E%89-%EC%97%85-Showing-Up-%EB%9C%BB-%ED%95%B4%EC%84%9D-%EA%B4%80%EB%9E%8C%ED%8F%89-%EC%A0%95%EB%B3%B4-%EC%B6%9C%EC%97%B0%EC%A7%84-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%ED%8F%AC%ED%86%A0-R%EC%9D%98-%EC%98%81%ED%99%94-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/analysis-review-ending-movie-guide-showing-up/',
       text: '쇼잉 업 Showing Up 뜻 해석 관람평 정보 출연진 결말 후기 리뷰 포토 <R의 영화 총정리>'
     },
     {
@@ -232,11 +232,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%ED%94%BC%EC%8A%A4-%EB%B0%94%EC%9D%B4-%ED%94%BC%EC%8A%A4-%EA%B4%80%EB%9E%8C%ED%8F%89-%EB%9C%BB-%ED%95%B4%EC%84%9D-%ED%8D%BC%EB%A0%90-%EC%9C%8C%EB%A6%AC%EC%97%84%EC%8A%A4-%EC%97%AD%EC%82%AC%EB%A5%BC-%EB%A0%88%EA%B3%A0-%EC%98%81%ED%99%94%EB%A1%9C&quot; rel=&quot;noopener&quot; title=&quot;피스 바이 피스&quot;>피스 바이 피스 관람평 뜻 해석 &lt;퍼렐 윌리엄스 역사를 레고 영화로&gt;</a></p>'
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;피스 바이 피스&quot;>피스 바이 피스 관람평 뜻 해석 &lt;퍼렐 윌리엄스 역사를 레고 영화로&gt;</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%94%BC%EC%8A%A4-%EB%B0%94%EC%9D%B4-%ED%94%BC%EC%8A%A4-%EA%B4%80%EB%9E%8C%ED%8F%89-%EB%9C%BB-%ED%95%B4%EC%84%9D-%ED%8D%BC%EB%A0%90-%EC%9C%8C%EB%A6%AC%EC%97%84%EC%8A%A4-%EC%97%AD%EC%82%AC%EB%A5%BC-%EB%A0%88%EA%B3%A0-%EC%98%81%ED%99%94%EB%A1%9C',
+      href: '/review-analysis-movie-2/',
       text: '피스 바이 피스 관람평 뜻 해석 <퍼렐 윌리엄스 역사를 레고 영화로>'
     },
     {
@@ -267,7 +267,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%85%B8%EC%8A%A4%ED%8E%98%EB%9D%BC%ED%88%AC-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%8F%AC%ED%86%A0-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%9C%BB-%ED%95%B4%EC%84%9D-1%EC%9B%94-%EA%B3%B5%ED%8F%AC%EC%98%81%ED%99%94%EB%8A%94-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%9D%B4-%EC%9E%91%ED%92%88',
+      href: '/review-ending-analysis-movie-horror/',
       text: '노스페라투 관람평 포토 결말 후기 뜻 해석 < 1월 공포영화는 무조건 이 작품 >'
     },
     {
@@ -310,11 +310,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%EB%A6%AC%EC%96%BC-%ED%8E%98%EC%9D%B8-%EB%9C%BB-%EC%B6%9C%EC%97%B0%EC%A7%84-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%8F%AC%ED%86%A0-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EA%B7%B9%EC%B0%AC-2025%EB%85%84-1%EC%9B%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%98%81%ED%99%94-%EC%88%98%EC%83%81%EC%9E%91&quot; rel=&quot;noopener&quot;>리얼 페인 뜻 출연진 정보 관람평 포토 &lt; 로튼 토마토 평론가 극찬 2025년 1월 개봉 예정영화 수상작 &gt;</a></p>'
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot;>리얼 페인 뜻 출연진 정보 관람평 포토 &lt; 로튼 토마토 평론가 극찬 2025년 1월 개봉 예정영화 수상작 &gt;</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A6%AC%EC%96%BC-%ED%8E%98%EC%9D%B8-%EB%9C%BB-%EC%B6%9C%EC%97%B0%EC%A7%84-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%8F%AC%ED%86%A0-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%EA%B7%B9%EC%B0%AC-2025%EB%85%84-1%EC%9B%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%98%81%ED%99%94-%EC%88%98%EC%83%81%EC%9E%91',
+      href: '/review-critic-release-movie-upcoming/',
       text: '리얼 페인 뜻 출연진 정보 관람평 포토 < 로튼 토마토 평론가 극찬 2025년 1월 개봉 예정영화 수상'
     },
     {
@@ -341,11 +341,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%ED%95%B4%EB%A6%AC%ED%8F%AC%ED%84%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C-%EC%B6%94%EC%B2%9C-%ED%8F%89%EC%A0%90-TOP-8&quot; style=&quot;color: #0070d1;&quot;>해리포터 시리즈의 모든 작품 인기 순위를 확인해 보세요 - 시리즈 추천 평점 TOP 8</a></p>'
+      html: '<p style=&quot;color: #333333; text-align: center;&quot;><a href=&quot;/ style=&quot;color: #0070d1;&quot;>해리포터 시리즈의 모든 작품 인기 순위를 확인해 보세요 - 시리즈 추천 평점 TOP 8</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%95%B4%EB%A6%AC%ED%8F%AC%ED%84%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C-%EC%B6%94%EC%B2%9C-%ED%8F%89%EC%A0%90-TOP-8',
+      href: '/series-recommend-rating-top-8/',
       text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
     },
     {
@@ -364,11 +364,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%EB%AF%B8%ED%82%A4-17-%EA%B4%80%EB%9E%8C%ED%8F%89-%EC%A0%95%EB%B3%B4-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%ED%9B%84%EA%B8%B0-%ED%8F%AC%ED%86%A0-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EB%98%90-%EB%8B%A4%EC%8B%9C-%EC%97%B0%EA%B8%B0-%EC%9D%B4%EC%9C%A0%EB%8A%94-%ED%9D%A5%ED%96%89-%EA%B1%B1%EC%A0%95-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91&quot; rel=&quot;noopener&quot;>미키 17 관람평 정보 시사회 해외 반응 후기 포토 &lt; 개봉일 또다시 연기, 이유는 흥행 걱정? &gt; 개봉예정작</a></p>'
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot;>미키 17 관람평 정보 시사회 해외 반응 후기 포토 &lt; 개봉일 또다시 연기, 이유는 흥행 걱정? &gt; 개봉예정작</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%AF%B8%ED%82%A4-17-%EA%B4%80%EB%9E%8C%ED%8F%89-%EC%A0%95%EB%B3%B4-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%ED%9B%84%EA%B8%B0-%ED%8F%AC%ED%86%A0-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EB%98%90-%EB%8B%A4%EC%8B%9C-%EC%97%B0%EA%B8%B0-%EC%9D%B4%EC%9C%A0%EB%8A%94-%ED%9D%A5%ED%96%89-%EA%B1%B1%EC%A0%95-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91',
+      href: '/review-overseas-reaction-release-box-office-upcoming/',
       text: '미키 17 관람평 정보 시사회 해외 반응 후기 포토 < 개봉일 또 다시 연기, 이유는 흥행 걱정? > 개'
     },
     {
@@ -399,11 +399,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-1%EC%9C%84-%EC%98%81%ED%99%94%EC%9D%98-%EA%B7%80%ED%99%98-%EB%B0%98%EC%A7%80%EC%9D%98-%EC%A0%9C%EC%99%95-%EB%A1%9C%ED%9E%88%EB%A6%BC%EC%9D%98-%EC%A0%84%EC%9F%81-%EA%B0%9C%EB%B4%89%EC%A0%95%EB%B3%B4-%EB%B0%8F-%EC%A0%84%EC%9E%91-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC&quot; rel=&quot;noopener&quot;> 박스오피스 1위 영화의 귀환 - 반지의 제왕 로히림의 전쟁 개봉정보 및 전작 OTT 다시 보기 총정리</a></p>'
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot;> 박스오피스 1위 영화의 귀환 - 반지의 제왕 로히림의 전쟁 개봉정보 및 전작 OTT 다시 보기 총정리</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-1%EC%9C%84-%EC%98%81%ED%99%94%EC%9D%98-%EA%B7%80%ED%99%98-%EB%B0%98%EC%A7%80%EC%9D%98-%EC%A0%9C%EC%99%95-%EB%A1%9C%ED%9E%88%EB%A6%BC%EC%9D%98-%EC%A0%84%EC%9F%81-%EA%B0%9C%EB%B4%89%EC%A0%95%EB%B3%B4-%EB%B0%8F-%EC%A0%84%EC%9E%91-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/box-office-movie-release-guide-ott/',
       text: '박스오피스 1위 영화의 귀환 - 반지의 제왕 로히림의 전쟁 개봉정보 및 전작 OTT 다시보기 총정리'
     },
     {
@@ -418,11 +418,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/2025%EB%85%84-1%EC%9B%94-%ED%95%9C%EA%B5%AD-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EA%B8%B0%EB%8C%80%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC-TOP-5&quot; rel=&quot;noopener&quot;>2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5</a></p>'
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot;>2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2025%EB%85%84-1%EC%9B%94-%ED%95%9C%EA%B5%AD-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EA%B8%B0%EB%8C%80%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC-TOP-5',
+      href: '/movie-release-upcoming-guide-top-5/',
       text: '2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5'
     },
     {
@@ -431,11 +431,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/2025%EB%85%84-%ED%95%9C%EA%B5%AD-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC&quot; style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: start;&quot;>2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!</a></p>'
+      html: '<p style=&quot;color: #333333; text-align: center;&quot;><a href=&quot;/ style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: start;&quot;>2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2025%EB%85%84-%ED%95%9C%EA%B5%AD-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-release-upcoming-guide/',
       text: '2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!'
     },
     {
@@ -462,17 +462,17 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

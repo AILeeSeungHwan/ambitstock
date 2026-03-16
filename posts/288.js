@@ -3,32 +3,32 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-%EC%9B%90-%EC%98%88%EB%A7%A4%ED%95%A0%EA%B9%8C-%EB%A7%90%EA%B9%8C-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%98%81%ED%99%94-%EC%88%9C%EC%9C%84-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91',
+      href: '/plot-overseas-rating-reaction-animation-movie-release-upcoming/',
       text: '트랜스포머 원 예매할까 말까 줄거리 내용 | 해외 평점 반응 애니메이션 영화 순위 개봉예정작'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%AF%B8%ED%82%A4-17-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%9B%84%EA%B8%B0%EB%B0%98%EC%9D%91-%EC%98%88%EA%B3%A0%ED%8E%B8-%EB%93%9C%EB%94%94%EC%96%B4-%EA%B0%9C%EB%B4%89%EC%9D%BC-%ED%99%95%EC%A0%95-%EB%B4%89%EC%A4%80%ED%98%B8-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91',
+      href: '/critic-review-reaction-release-movie-recommend-upcoming/',
       text: '미키 17 시사회 평론가 후기반응 예고편 드디어 개봉일 확정 ! 봉준호 영화 추천 개봉예정작'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC%EC%95%84%EB%90%98-%EC%98%88%EB%A7%A4-%ED%95%A0%EC%A7%80-%EB%A7%90%EC%A7%80-%EC%A0%95%ED%95%B4%EB%93%9C%EB%A6%BC-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%85%B8-%EC%8A%A4%ED%8F%AC-%EB%A6%AC%EB%B7%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/ending-review-guide/',
       text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%95%84%EC%9B%83-2-%EB%94%94%EC%A6%88%EB%8B%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EA%B3%B5%EA%B0%9C-%EC%98%88%EC%A0%95%EC%9E%91-%EB%93%9C%EB%A6%BC-%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98%EA%B9%8C%EC%A7%80',
+      href: '/disney-movie-recommend-upcoming/',
       text: '인사이드 아웃 2 디즈니 플러스 영화 추천 공개 예정작 드림 프로덕션까지!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4-%EB%91%A0%EC%8A%A4%EB%8D%B0%EC%9D%B4-%EB%9C%BB-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EC%84%A4%EB%AA%85-%EB%8B%A5%ED%84%B0-%EB%91%A0-%EC%99%84%EB%B2%BD%EC%A0%95%EB%A6%AC-%EC%8B%9C%EB%A6%AC%EC%A6%88-5%ED%8E%B8',
+      href: '/plot-series-어벤져스-둠스데이-뜻/',
       text: '어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1'
     },
     {

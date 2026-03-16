@@ -3,22 +3,22 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4-%EB%91%A0%EC%8A%A4%EB%8D%B0%EC%9D%B4-%EB%9C%BB-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EC%84%A4%EB%AA%85-%EB%8B%A5%ED%84%B0-%EB%91%A0-%EC%99%84%EB%B2%BD%EC%A0%95%EB%A6%AC-%EC%8B%9C%EB%A6%AC%EC%A6%88-5%ED%8E%B8',
+      href: '/plot-series-어벤져스-둠스데이-뜻/',
       text: '어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A45-%EB%91%A0%EC%8A%A4%EB%8D%B0%EC%9D%B4-%EB%8B%A5%ED%84%B0-%EB%91%A0-%ED%83%80%EB%85%B8%EC%8A%A4-%ED%8B%B0%EC%96%B4-%EB%B9%84%EA%B5%90-%EA%B7%B8%EA%B0%80-%EB%B9%8C%EB%9F%B0%EC%9D%B4-%EB%90%9C-%EA%B3%BC%EA%B1%B0%EB%B0%B0%EA%B2%BD-2',
+      href: '/comparison-어벤져스-둠스데이-닥터/',
       text: '어벤져스5 둠스데이 닥터 둠 타노스 티어 비교 | 그가 빌런이 된 과거배경 -2'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2024%EB%85%84-%EB%A7%88%EB%B8%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EC%88%9C%EC%9C%BC%EB%A1%9C-%EC%B4%9D-%EC%A0%95%EB%A6%AC-feat-%EB%94%94%EC%A6%88%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EA%B3%B5%EA%B0%9C-%EC%98%88%EC%A0%95',
+      href: '/marvel-release-upcoming-disney-plus-disney-series-feat/',
       text: '2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
     {

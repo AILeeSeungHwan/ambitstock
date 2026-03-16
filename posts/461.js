@@ -13,7 +13,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%B4%89%EC%A4%80%ED%98%B8-%EC%8B%9C%EB%A6%AC%EC%A6%88-1%ED%83%84-%EA%B8%B0%EC%83%9D%EC%B6%A9-%EB%AF%B8%ED%82%A417-%EB%B3%B4%EA%B8%B0-%EC%A0%84-%EC%A0%84%EC%9E%91-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0feat-BTS-%EC%86%90%ED%9D%A5%EB%AF%BC-%EB%B4%89%EC%A4%80%ED%98%B8-Lets-Go',
+      href: '/',
       text: '[영화 미키17 개봉일 티저 예고편, 개봉전 전작 기생충 해외 평점 반응] 봉준호 시리즈 1탄 - 기생'
     },
     {

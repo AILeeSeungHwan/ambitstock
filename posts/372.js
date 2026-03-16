@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%94%94%EC%A6%88%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%ED%95%9C%EA%B5%AD-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C-%EC%88%9C%EC%9C%84-TOP-10',
+      href: '/disney-plus-disney-series-drama-recommend-top-10/',
       text: '디즈니플러스 오리지널 시리즈 한국 볼만한 드라마 추천 순위 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80%EC%9D%98-7%EC%A0%90%EC%9D%80-97%EC%A0%90%EC%9D%B4%EB%8B%A4-%EB%AA%85%EC%9E%91-%EC%98%81%ED%99%94-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-TOP-10',
+      href: '/netflix-movie-recommend-critic-masterpiece-rating-top-10/',
       text: '넷플릭스 영화 추천 | 박평식 평론가의 7점은 97점이다 명작 영화 평점 순위 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2024%EB%85%84-2025%EB%85%84-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EA%B3%B5%EA%B0%9C-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%9D%BC%EC%9D%B8%EC%97%85',
+      href: '/netflix-release-upcoming-series-movie-recommend/',
       text: '2024년-2025년 넷플릭스 공개 예정 영화 오리지널 작품 라인업'
     },
     {

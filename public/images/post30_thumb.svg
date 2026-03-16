@@ -1,6 +1,15 @@
 <svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="630" fill="#1a73e8"/>
-  <text x="600" y="230" text-anchor="middle" fill="white" font-size="60" font-weight="bold" font-family="sans-serif">타임루프 영화 추천</text>
-  <text x="600" y="340" text-anchor="middle" fill="#FFD700" font-size="64" font-weight="bold" font-family="sans-serif">TOP 10</text>
-  <text x="600" y="440" text-anchor="middle" fill="#87CEEB" font-size="40" font-family="sans-serif">시간이 반복되는 명작들 | 난이도별</text>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/>
+      <stop offset="100%" style="stop-color:#4a1535"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.25)"/>
+  <circle cx="200" cy="180" r="120" fill="rgba(244,63,94,0.12)"/>
+  <circle cx="1000" cy="450" r="100" fill="rgba(244,63,94,0.10)"/>
+  <text x="600" y="268" text-anchor="middle" font-size="92" font-weight="900" fill="#f43f5e" font-family="Pretendard, sans-serif">커플 영화</text>
+  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">데이트 추천</text>
+  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
 </svg>

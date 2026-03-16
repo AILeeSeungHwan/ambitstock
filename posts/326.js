@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%98%84%EC%9E%AC-%EC%83%81%EC%98%81%EC%9E%91-%EC%88%9C%EC%9C%84-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EB%A6%AC%EB%B7%B0-%EC%BD%B0%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-3-%EC%B2%AB%EC%A7%B8-%EB%82%A0',
+      href: '/movie-overseas-critic-rating-reaction-review/',
       text: '영화 콰이어트 플레이스 3 : 첫째 날 해외 평론가 평점 반응 결말 후기'
     },
     {

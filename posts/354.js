@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2024%EB%85%84-8%EC%9B%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%95%9C%EA%B5%AD-%ED%95%B4%EC%99%B8%EC%9E%91%ED%92%88-%EC%B4%9D-%EC%A0%95%EB%A6%AC',
+      href: '/release-upcoming-movie-recommend-overseas-2/',
       text: '2024년 8월 개봉 예정작 영화 추천 한국 해외작품 총 정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EB%A7%8C%EC%A0%90%EC%9E%91%EC%97%90%EC%84%9C-%EC%B0%BE%EB%8A%94-%EC%9D%B8%EC%83%9D%EC%98%81%ED%99%94-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EC%B2%AD%EA%B0%80%EB%8A%A5-%EC%88%98%EC%83%81%EC%9E%91%ED%92%88',
+      href: '/netflix-movie-recommend-critic-rating/',
       text: '넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상'
     },
     {

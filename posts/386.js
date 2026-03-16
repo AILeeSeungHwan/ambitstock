@@ -3,12 +3,12 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%83%88%EC%B6%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%82%AC%EC%9D%BC%EB%9F%B0%EC%8A%A4-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90%EA%B3%BC-%EC%99%B8%EA%B5%AD-%EB%B0%98%EC%9D%91-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EC%9E%AC%EB%AF%B8%EC%9E%88%EC%9D%84%EA%B9%8C',
+      href: '/movie-overseas-rating-reaction-ending-review/',
       text: '영화 탈출: 프로젝트 사일런스 해외 평점과 외국 반응 결말 후기 재미있을까'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%83%88%EC%A3%BC-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EC%A0%84-%EA%B8%80%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%98%81%ED%99%94-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC-%EC%98%88%EA%B3%A0%ED%8E%B8-%ED%95%B4%EC%99%B8-%EC%86%8C%EC%8B%9D%EA%B3%BC-%EB%A6%AC%EB%B7%B0-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91',
+      href: '/release-movie-plot-overseas-review-rating-reaction/',
       text: '영화 탈주 줄거리 완벽 정리 | 등장인물 예고편 | 해외 개봉 소식과 리뷰 평점 반응'
     },
     {

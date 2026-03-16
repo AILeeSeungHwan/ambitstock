@@ -206,12 +206,12 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%80%EC%8A%A4-5-%EB%A9%94%EC%9D%B8-%EB%B9%8C%EB%9F%B0-%EC%BA%89%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%A8%EB%93%A0%EA%B2%83-%ED%9E%88%EC%96%B4%EB%A1%9C%EB%A7%8C-60%EB%AA%85-%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8-%EB%B3%B5%EA%B7%80%EB%8A%94-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91%EA%B3%BC-%EA%B0%9C%EB%B4%89-%EC%A0%95%EB%B3%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0',
+      href: '/',
       text: '어벤저스 5 메인 빌런 캉에 대한 모든것, 히어로만 60명 아이언맨 복귀는? - 해외 반응과 개봉 정'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4-%EB%91%A0%EC%8A%A4%EB%8D%B0%EC%9D%B4-%EB%9C%BB-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EC%84%A4%EB%AA%85-%EB%8B%A5%ED%84%B0-%EB%91%A0-%EC%99%84%EB%B2%BD%EC%A0%95%EB%A6%AC-%EC%8B%9C%EB%A6%AC%EC%A6%88-5%ED%8E%B8',
+      href: '/plot-series-어벤져스-둠스데이-뜻/',
       text: '어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1'
     },
     {

@@ -25,17 +25,17 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-guide-top-10/',
       text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
@@ -157,11 +157,11 @@ const post = {
     },
     {
       type: 'ending',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EB%AF%B8%EC%8A%A4%ED%84%B0-%ED%94%8C%EB%9E%91%ED%81%AC%ED%86%A4-%ED%95%B4%EC%99%B8-%EC%8B%9C%EC%B2%AD%EC%9E%90-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%ED%8F%89%EC%A0%90-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%ED%95%9C%EA%B5%AD-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C-%EA%B7%B9%EC%B0%AC%EC%9D%BC%EC%83%89-%ED%8F%89%EA%B0%80&quot; rel=&quot;noopener&quot; title=&quot;미스터 플랑크톤 해외 반응&quot;>2024.11.15 - [드라마] - 미스터 플랑크톤 해외 시청자 후기 리뷰 평점! 넷플릭스 한국 드라마 추천 극찬일색 평가</a></p>'
+      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;미스터 플랑크톤 해외 반응&quot;>2024.11.15 - [드라마] - 미스터 플랑크톤 해외 시청자 후기 리뷰 평점! 넷플릭스 한국 드라마 추천 극찬일색 평가</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%AF%B8%EC%8A%A4%ED%84%B0-%ED%94%8C%EB%9E%91%ED%81%AC%ED%86%A4-%ED%95%B4%EC%99%B8-%EC%8B%9C%EC%B2%AD%EC%9E%90-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%ED%8F%89%EC%A0%90-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%ED%95%9C%EA%B5%AD-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C-%EA%B7%B9%EC%B0%AC%EC%9D%BC%EC%83%89-%ED%8F%89%EA%B0%80',
+      href: '/overseas-review-rating-netflix-drama-recommend/',
       text: '미스터 플랑크톤 해외 시청자 후기 리뷰 평점! 넷플릭스 한국 드라마 추천 극찬일색 평가'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

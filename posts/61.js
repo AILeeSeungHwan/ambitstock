@@ -53,7 +53,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/OTT-%EC%B6%94%EC%B2%9C-%EC%9A%94%EA%B8%88%EC%A0%9C%C2%B7%EA%B2%B0%EC%A0%9C-%EB%B9%84%EA%B5%90-2025-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-vs-%EB%94%94%EC%A6%88%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%96%B4%EB%94%94%EA%B0%80-%EB%8D%94-%ED%95%A9%EB%A6%AC%EC%A0%81%EC%9D%BC%EA%B9%8C',
+      href: '/recommend-plan-comparison-netflix-disney-plus-disney-ott-vs/',
       text: 'OTT 추천 요금제·결제 비교 2025 넷플릭스 vs 디즈니플러스, 어디가 더 합리적일까?'
     },
     {
@@ -102,17 +102,17 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10%EF%BD%9C%EA%BC%AD-%EB%B4%90%EC%95%BC-%ED%95%A0-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EB%AA%85%EC%9E%91-%EB%AA%A8%EC%9D%8C-2025-%EC%B5%9C%EC%8B%A0',
+      href: '/netflix-movie-recommend-masterpiece-top-10/',
       text: '넷플릭스 영화 추천 TOP 10｜꼭 봐야 할 최고의 명작 모음 (2025 최신)'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

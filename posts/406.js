@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%B5%9C%EC%95%A0%EC%9D%98-%EC%95%84%EC%9D%B4-%EC%8B%9C%EC%A6%8C-2%EA%B8%B0-%EC%9D%BC%EB%B3%B8-%ED%98%84%EC%A7%80-%EB%B0%98%EC%9D%91-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%A6%AC%EB%B7%B0-OTT-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EB%8A%94%EA%B3%B3-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/season-reaction-overseas-rating-review-guide-ott/',
       text: '최애의 아이 시즌 2기 일본 현지 반응 해외 평점 리뷰 OTT 다시 보는곳 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%B5%9C%EC%95%A0%EC%9D%98-%EC%95%84%EC%9D%B4-%EC%8B%9C%EC%A6%8C-2%EA%B8%B0-%EB%93%9C%EB%94%94%EC%96%B4-%EA%B3%B5%EA%B0%9C-%EC%9B%90%EC%9E%91-%EC%A4%84%EA%B1%B0%EB%A6%AC%EC%99%80-%EC%84%B1%EC%9A%B0%EC%A7%84-%EB%B0%A9%EC%98%81%EC%9D%BC%EC%A0%95-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/season-plot-guide/',
       text: '최애의 아이 시즌 2기 드디어 공개! 원작 줄거리와 성우진 방영일정 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EA%B4%B4%EC%88%98-8%ED%98%B8-2%EA%B8%B0-%EC%9B%90%EC%9E%91-%EB%A7%8C%ED%99%94%EC%B1%85-%EB%82%B4%EC%9A%A9-%EC%8A%A4%ED%8F%AC-%ED%8F%AC%ED%95%A8-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%B3%B4-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC',
+      href: '/plot-괴수-호-기/',
       text: '괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!'
     },
     {
@@ -34,11 +34,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EC%B5%9C%EC%95%A0%EC%9D%98-%EC%95%84%EC%9D%B4-%EC%8B%9C%EC%A6%8C-2%EA%B8%B0-%EC%9D%BC%EB%B3%B8-%ED%98%84%EC%A7%80-%EB%B0%98%EC%9D%91-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%A6%AC%EB%B7%B0-OTT-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EB%8A%94%EA%B3%B3-%EC%B4%9D%EC%A0%95%EB%A6%AC&quot; rel=&quot;noopener&quot; title=&quot;최애의 아이 시즌 2기&quot;>[애니메이션] - 최애의 아이 시즌 2기 일본 현지 반응 해외 평점 리뷰 OTT 다시 보는곳 총정리!</a></p>'
+      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;최애의 아이 시즌 2기&quot;>[애니메이션] - 최애의 아이 시즌 2기 일본 현지 반응 해외 평점 리뷰 OTT 다시 보는곳 총정리!</a></p>'
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EC%B5%9C%EC%95%A0%EC%9D%98-%EC%95%84%EC%9D%B4-%EC%8B%9C%EC%A6%8C-2%EA%B8%B0-%EB%93%9C%EB%94%94%EC%96%B4-%EA%B3%B5%EA%B0%9C-%EC%9B%90%EC%9E%91-%EC%A4%84%EA%B1%B0%EB%A6%AC%EC%99%80-%EC%84%B1%EC%9A%B0%EC%A7%84-%EB%B0%A9%EC%98%81%EC%9D%BC%EC%A0%95-%EC%B4%9D%EC%A0%95%EB%A6%AC&quot; rel=&quot;noopener&quot; title=&quot;최애의 아이 시즌 2기&quot;>[애니메이션] - 최애의 아이 시즌 2기 드디어 공개! 원작 줄거리와 성우진 방영일정 총정리</a></p>'
+      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;최애의 아이 시즌 2기&quot;>[애니메이션] - 최애의 아이 시즌 2기 드디어 공개! 원작 줄거리와 성우진 방영일정 총정리</a></p>'
     },
     {
       type: 'body',
@@ -46,7 +46,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;https://ambitstock.com/entry/%EA%B4%B4%EC%88%98-8%ED%98%B8-2%EA%B8%B0-%EC%9B%90%EC%9E%91-%EB%A7%8C%ED%99%94%EC%B1%85-%EB%82%B4%EC%9A%A9-%EC%8A%A4%ED%8F%AC-%ED%8F%AC%ED%95%A8-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%B3%B4-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC&quot; rel=&quot;noopener&quot; title=&quot;괴수 8호 2기 줄거리 요약 정보&quot;>[애니메이션] - 괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!</a></p>'
+      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;괴수 8호 2기 줄거리 요약 정보&quot;>[애니메이션] - 괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!</a></p>'
     },
     {
       type: 'body',

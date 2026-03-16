@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80%EC%9D%98-7%EC%A0%90%EC%9D%80-97%EC%A0%90%EC%9D%B4%EB%8B%A4-%EB%AA%85%EC%9E%91-%EC%98%81%ED%99%94-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-TOP-10',
+      href: '/netflix-movie-recommend-critic-masterpiece-rating-top-10/',
       text: '넷플릭스 영화 추천 | 박평식 평론가의 7점은 97점이다 명작 영화 평점 순위 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4%EB%B6%80%ED%84%B0-%EA%B8%80%EB%9E%98%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-2-%EB%8D%B0%EB%93%9C%ED%92%80-3-%EA%B9%8C%EC%A7%80-2024%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%ED%95%B4%EC%99%B8-%EC%98%81%ED%99%94-%EA%B8%B0%EB%8C%80%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EA%B3%B5%EC%8B%9D-%ED%8B%B0%EC%A0%80-%EC%98%88%EA%B3%A0%ED%8E%B8-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/overseas-movie-release-guide/',
       text: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리'
     },
     {

@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8A%B8%EC%9C%84%EC%8A%A4%ED%84%B0%EC%8A%A4-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%B0%98%EC%9D%91-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0',
+      href: '/movie-overseas-critic-reaction-ending-review/',
       text: '영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기'
     },
     {

@@ -1,6 +1,15 @@
 <svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="630" fill="#1a73e8"/>
-  <text x="600" y="230" text-anchor="middle" fill="white" font-size="60" font-weight="bold" font-family="sans-serif">IMAX vs 4DX vs ScreenX</text>
-  <text x="600" y="340" text-anchor="middle" fill="#FFD700" font-size="56" font-weight="bold" font-family="sans-serif">어떤 특수관이 좋을까?</text>
-  <text x="600" y="440" text-anchor="middle" fill="white" font-size="40" font-family="sans-serif">비교 가이드 | 2026</text>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#042f2e"/>
+      <stop offset="100%" style="stop-color:#0d9488"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.25)"/>
+  <circle cx="200" cy="200" r="120" fill="rgba(45,212,191,0.12)"/>
+  <circle cx="1000" cy="430" r="100" fill="rgba(45,212,191,0.10)"/>
+  <text x="600" y="268" text-anchor="middle" font-size="92" font-weight="900" fill="#2dd4bf" font-family="Pretendard, sans-serif">애니 추천</text>
+  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">넷플릭스</text>
+  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
 </svg>

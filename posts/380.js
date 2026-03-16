@@ -3,32 +3,32 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4-%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%A0%95%EB%A7%90-%EC%9E%98%ED%95%9C-%EA%B1%B8%EA%B9%8C-The-One-Thing%EC%9D%84-%ED%96%A5%ED%95%B4-%EC%98%81%ED%99%94-%EC%9C%84%ED%94%8C%EB%9E%98%EC%89%AC-%EB%A6%AC%EB%B7%B0-2%EB%B6%80-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%9D%B8%EC%83%9D-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C',
+      href: '/movie-review-netflix-recommend-the-one-thing/',
       text: '[이 정도면 정말 잘한 걸까? The One Thing을 향해] 영화 위플래쉬 리뷰 2부 넷플릭스 인생 영화 추천'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%9C%84%ED%94%8C%EB%9E%98%EC%89%AC-%EA%B2%B0%EB%A7%90%EC%9D%80-%ED%95%B4%ED%94%BC%EC%97%94%EB%94%A9%EC%9D%BC%EA%B9%8C-%EB%9C%BB%EA%B3%BC-%ED%95%B4%EC%84%9D-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%9D%B8%EC%83%9D-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%A6%AC%EB%B7%B0-1%EB%B6%80',
+      href: '/movie-ending-analysis-netflix-recommend-series-plot-review/',
       text: '[영화 위플래쉬 결말은 해피엔딩일까] 뜻과 해석 - 넷플릭스 인생 영화 추천 시리즈 줄거리 리뷰'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%9D%B8%EC%83%9D-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%9C%84%ED%94%8C%EB%9E%98%EC%89%AC-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EB%B0%8F-%ED%8F%89%EC%A0%90-%EB%A6%AC%EB%B7%B0-%EC%98%81%ED%99%94-%EB%9D%BC%EB%9D%BC%EB%9E%9C%EB%93%9C%EC%9D%98-%EB%8D%B0%EC%9D%B4%EB%AF%B8%EC%96%B8-%EC%85%94%EC%A0%A4-%EA%B0%90%EB%8F%85-%EC%8B%9C%EB%A6%AC%EC%A6%88-1-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0',
+      href: '/',
       text: '[넷플릭스 인생 영화 추천 위플래쉬 해외 반응 및 평점 리뷰] 영화 라라랜드의 데이미언 셔젤 감'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/JTBC-%EC%97%AD%EB%8C%80-%EC%8B%9C%EC%B2%AD%EB%A5%A0-%EC%88%9C%EC%9C%84-TOP10-OTT-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C',
+      href: '/netflix-drama-recommend-jtbc-top10-ott/',
       text: 'JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/TOP20-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-%EB%B3%B4%EB%8A%94-%EA%B3%B3-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EC%97%AD%EB%8C%80-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%EA%B4%80%EA%B0%9D-%EC%88%98-%ED%9D%A5%ED%96%89-%EC%88%9C%EC%9C%84',
+      href: '/movie-recommend-guide-box-office-audience-top20-ott/',
       text: 'TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위'
     },
     {

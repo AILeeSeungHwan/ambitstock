@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-1%EC%9C%84-%EC%98%81%ED%99%94%EC%9D%98-%EA%B7%80%ED%99%98-%EB%B0%98%EC%A7%80%EC%9D%98-%EC%A0%9C%EC%99%95-%EB%A1%9C%ED%9E%88%EB%A6%BC%EC%9D%98-%EC%A0%84%EC%9F%81-%EA%B0%9C%EB%B4%89%EC%A0%95%EB%B3%B4-%EB%B0%8F-%EC%A0%84%EC%9E%91-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/box-office-movie-release-guide-ott/',
       text: '박스오피스 1위 영화의 귀환 - 반지의 제왕 로히림의 전쟁 개봉정보 및 전작 OTT 다시보기 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC-%EC%95%84-%EB%90%98-vs-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-ONE-vs-%EB%B2%A0%ED%85%8C%EB%9E%91-2-%EC%88%9C%EC%9C%84-%EB%94%B1-%EC%A0%95%ED%95%B4%EB%93%9C%EB%A6%BC-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%98%88%EB%A7%A4-%EC%B6%94%EC%B2%9C',
+      href: '/movie-recommend-vs-one-vs/',
       text: '조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EC%B6%94%EC%B2%9C-%EC%8B%A4%ED%99%94-%EA%B8%B0%EB%B0%98-%EA%B4%B4%EB%AC%BC-%EB%A9%94%EB%84%A8-%EB%8D%B0%EC%A6%88-%ED%98%95%EC%A0%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%A3%BC%EC%9A%94-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC-%ED%8F%89%EC%A0%90-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91',
+      href: '/netflix-series-recommend-rating-overseas-reaction/',
       text: '넷플릭스 시리즈 인기 순위 추천 실화 기반 괴물 메넨 데즈 형제 이야기 - 주요 등장인물 평점 해'
     },
     {

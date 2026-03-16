@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2024%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%ED%95%9C%EA%B5%AD%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EB%9D%BC%EC%9D%B8%EC%97%85-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-release-upcoming-guide/',
       text: '2024년 하반기 한국영화 개봉예정작 라인업 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/JTBC-%EC%97%AD%EB%8C%80-%EC%8B%9C%EC%B2%AD%EB%A5%A0-%EC%88%9C%EC%9C%84-TOP10-OTT-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C',
+      href: '/netflix-drama-recommend-jtbc-top10-ott/',
       text: 'JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/TOP20-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-%EB%B3%B4%EB%8A%94-%EA%B3%B3-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EC%97%AD%EB%8C%80-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%EA%B4%80%EA%B0%9D-%EC%88%98-%ED%9D%A5%ED%96%89-%EC%88%9C%EC%9C%84',
+      href: '/movie-recommend-guide-box-office-audience-top20-ott/',
       text: 'TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위'
     },
     {

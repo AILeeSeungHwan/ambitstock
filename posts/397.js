@@ -3,22 +3,22 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%8B%A0%EC%9E%91-%EA%B3%A0%EB%AF%BC%EB%81%9D-2024%EB%85%84-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%95%A0%EB%8B%88-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C-%ED%98%84%EC%9E%AC-%EC%83%81%EC%98%81%EC%9E%91-%EC%88%9C%EC%9C%84-TOP-10',
+      href: '/new-release-netflix-movie-drama-recommend-top-10/',
       text: '신작 고민끝! 2024년 넷플릭스 볼만한 영화 애니 드라마 추천 현재 상영작 순위 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%B6%94%EC%B2%9C-%EB%8F%8C%ED%92%8D-%EC%84%A4%EA%B2%BD%EA%B5%AC-%EA%B9%80%ED%9D%AC%EC%95%A0-%EC%A3%BC%EC%97%B0-%ED%99%94%EC%A0%9C%EC%9E%91-1%ED%99%94-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%9A%94%EC%95%BD-%ED%8F%89%EC%A0%90-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EC%88%9C%EC%9C%84',
+      href: '/netflix-series-recommend-plot-rating-overseas-reaction/',
       text: '넷플릭스 시리즈 추천 돌풍 설경구 김희애 주연 화제작 | 1화 줄거리 요약 평점 해외 반응 순위'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%8A%88%ED%8D%BC-%ED%9E%88%EC%96%B4%EB%A1%9C%EC%99%80-%EB%82%A8%EB%9F%B0%EB%8D%98%EC%9D%98-%EB%A7%8C%EB%82%A8-%EC%8A%88%ED%8D%BC-%EC%85%80-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90%EA%B3%BC-%EB%A6%AC%EB%B7%B0-%EB%B0%98%EC%9D%91-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/overseas-rating-review-reaction-guide/',
       text: '넷플릭스 오리지널 시리즈 드라마 추천 <슈퍼 셀> | 해외 평점과 리뷰 반응 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EB%B4%84%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A7%84-%EC%84%B8%EA%B3%84-%ED%8F%89%EC%A0%90-%EA%B2%B0%EB%A7%90-%ED%8F%AC%ED%95%A8-%ED%95%B4%EC%99%B8%EB%A6%AC%EB%B7%B0-%EC%98%81%EC%96%B4-%EC%9D%BC%EB%B3%B8%EC%96%B4-%EC%A0%9C%EB%AA%A9-%EB%9C%BB',
+      href: '/netflix-movie-rating-ending-review-overseas/',
       text: '넷플릭스 영화 봄이 사라진 세계 평점 결말 포함 해외리뷰 | 영어 일본어 제목 뜻'
     },
     {
@@ -51,15 +51,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%B6%94%EC%B2%9C-%EB%8F%8C%ED%92%8D-%EC%84%A4%EA%B2%BD%EA%B5%AC-%EA%B9%80%ED%9D%AC%EC%95%A0-%EC%A3%BC%EC%97%B0-%ED%99%94%EC%A0%9C%EC%9E%91-1%ED%99%94-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%9A%94%EC%95%BD-%ED%8F%89%EC%A0%90-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EC%88%9C%EC%9C%84&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>넷플릭스 시리즈 추천 돌풍 설경구 김희애 주연 화제작 | 1화 줄거리 요약 평점 해외 반응 순위</a></p>'
+      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>넷플릭스 시리즈 추천 돌풍 설경구 김희애 주연 화제작 | 1화 줄거리 요약 평점 해외 반응 순위</a></p>'
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EC%8A%88%ED%8D%BC-%ED%9E%88%EC%96%B4%EB%A1%9C%EC%99%80-%EB%82%A8%EB%9F%B0%EB%8D%98%EC%9D%98-%EB%A7%8C%EB%82%A8-%EC%8A%88%ED%8D%BC-%EC%85%80-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90%EA%B3%BC-%EB%A6%AC%EB%B7%B0-%EB%B0%98%EC%9D%91-%EC%B4%9D%EC%A0%95%EB%A6%AC&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;> 넷플릭스 오리지널 시리즈 드라마 추천 &lt;슈퍼 셀&gt; | 해외 평점과 리뷰 반응 총정리</a></p>'
+      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;> 넷플릭스 오리지널 시리즈 드라마 추천 &lt;슈퍼 셀&gt; | 해외 평점과 리뷰 반응 총정리</a></p>'
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EB%B4%84%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A7%84-%EC%84%B8%EA%B3%84-%ED%8F%89%EC%A0%90-%EA%B2%B0%EB%A7%90-%ED%8F%AC%ED%95%A8-%ED%95%B4%EC%99%B8%EB%A6%AC%EB%B7%B0-%EC%98%81%EC%96%B4-%EC%9D%BC%EB%B3%B8%EC%96%B4-%EC%A0%9C%EB%AA%A9-%EB%9C%BB&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>넷플릭스 영화 봄이 사라진 세계 평점 결말 포함 해외리뷰 | 영어 일본어 제목 뜻</a></p>'
+      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>넷플릭스 영화 봄이 사라진 세계 평점 결말 포함 해외리뷰 | 영어 일본어 제목 뜻</a></p>'
     },
     {
       type: 'body',

@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%97%90%EC%9D%BC%EB%A6%AC%EC%96%B8-%EB%A1%9C%EB%AC%BC%EB%A3%A8%EC%8A%A4-4DX-%EC%98%88%EB%A7%A4-%EC%B2%AB-SNS-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EC%97%AD%EB%8C%80-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EA%B2%B0%EB%A7%90-%EC%8A%A4%ED%8B%B8%EC%BB%B7%EA%B3%BC-%ED%95%A8%EA%BB%98-%EB%B3%B4%EA%B8%B0',
+      href: '/movie-overseas-reaction-ending-dx-sns/',
       text: '영화 에일리언 로물루스 4DX 예매 첫 SNS 시사회 해외 반응 역대 최고의 결말 스틸컷과 함께 보기'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8A%B8%EC%9C%84%EC%8A%A4%ED%84%B0%EC%8A%A4-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%B0%98%EC%9D%91-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0',
+      href: '/movie-overseas-critic-reaction-ending-review/',
       text: '영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%96%89%EB%B3%B5%EC%9D%98-%EB%82%98%EB%9D%BC-%EA%B0%9C%EB%B4%89%EC%9D%BC-%ED%99%95%EC%A0%95-%ED%8B%B0%EC%A0%80-%EC%98%88%EA%B3%A0%ED%8E%B8-%EA%B3%B5%EA%B0%9C-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%B0%8F-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC-%EC%A0%95%EB%B3%B4',
+      href: '/movie-release-plot/',
       text: '영화 행복의 나라 개봉일 확정 티저 예고편 공개 - 줄거리 및 등장인물 정보'
     },
     {

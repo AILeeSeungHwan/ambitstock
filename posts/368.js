@@ -3,12 +3,12 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EB%A7%8C%EC%A0%90%EC%9E%91%EC%97%90%EC%84%9C-%EC%B0%BE%EB%8A%94-%EC%9D%B8%EC%83%9D%EC%98%81%ED%99%94-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EC%B2%AD%EA%B0%80%EB%8A%A5-%EC%88%98%EC%83%81%EC%9E%91%ED%92%88',
+      href: '/netflix-movie-recommend-critic-rating/',
       text: '넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상'
     },
     {

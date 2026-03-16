@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC-%EC%95%84-%EB%90%98-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9D%98%EB%AF%B8-Folie-%C3%A0-Deux-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9%EA%B3%BC-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EC%8B%AC%EC%B8%B5%EB%B6%84%EC%84%9D',
+      href: '/plot-folie-deux/',
       text: '조커 2 폴리 아 되 제목 뜻 의미 Folie à Deux? 줄거리 내용과 연관관계 심층분석'
     },
     {

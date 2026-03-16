@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/B%EA%B8%89-%EB%A7%A4%EB%A0%A5%EC%9D%98-A%EA%B8%89-%EC%98%81%ED%99%94-%ED%95%B4%EC%99%B8%EC%97%90%EC%84%9C-%EB%A8%BC%EC%A0%80-%EC%95%8C%EC%95%84%EB%B3%B8-%ED%95%B8%EC%84%AC-%EA%B0%80%EC%9D%B4%EC%A6%88-%ED%8F%89%EC%A0%90-%EB%A6%AC%EB%B7%B0-%EB%B0%8F-%EB%B0%98%EC%9D%91',
+      href: '/movie-overseas-rating-review-reaction/',
       text: 'B급 매력의 A급 영화, 해외에서 먼저 알아본 \'핸섬 가이즈\' 평점 리뷰 및 반응'
     },
     {

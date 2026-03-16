@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-guide-top-10/',
       text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-%ED%99%9C%EB%AA%85%EC%88%98-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%9B%84%EA%B8%B0-%EA%B4%80%EB%9E%8C%ED%8F%89-%EA%B7%B9%ED%95%9C%EC%A7%81%EC%97%85-%EC%BC%80%EB%AF%B8%EA%B0%80-%EB%8F%8C%EC%95%84%EC%98%A8%EB%8B%A4-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EC%B6%9C%EC%97%B0%EC%A7%84-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC-%EC%A0%95%EB%B3%B4',
+      href: '/review-plot-아마존-활명수-시사회/',
       text: '아마존 활명수 시사회 후기 관람평 | 극한직업 케미가 돌아온다. (줄거리 내용 출연진 등장인물'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
     {

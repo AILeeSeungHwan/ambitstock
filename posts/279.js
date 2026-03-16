@@ -3,12 +3,12 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%88%EB%8A%A5-%EC%B6%94%EC%B2%9C-%ED%9D%91%EB%B0%B1%EC%9A%94%EB%A6%AC%EC%82%AC-%EC%B5%9C%EA%B0%95-%EC%B5%9C%EA%B0%95%EB%A1%9D-%EC%B6%9C%EC%97%B0%EC%A7%84-%EC%98%81%EC%96%B4%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%ED%8F%89%EC%A0%90-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0',
+      href: '/netflix-recommend-overseas-reaction-rating-review/',
       text: '넷플릭스 예능 추천 흑백요리사 최강 최강록 | 출연진 영어제목 뜻 해외 반응 평점 후기 리뷰'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%B6%94%EC%B2%9C-%ED%9D%91%EB%B0%B1%EC%9A%94%EB%A6%AC%EC%82%AC-%EC%88%9C%EC%9C%84-%EB%B9%84%EC%98%81%EC%96%B4%EA%B6%8C-1%EC%9C%84-%ED%95%B4%EC%99%B8-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%EC%8B%AC%EC%82%AC%EC%9C%84%EC%9B%90-%EB%B0%98%EC%9D%91-%EC%9A%B0%EC%8A%B9%EC%9E%90%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80',
+      href: '/netflix-recommend-overseas-review-reaction/',
       text: '넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가'
     },
     {

@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC%EC%95%84%EB%90%98-%EC%98%88%EB%A7%A4-%ED%95%A0%EC%A7%80-%EB%A7%90%EC%A7%80-%EC%A0%95%ED%95%B4%EB%93%9C%EB%A6%BC-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%85%B8-%EC%8A%A4%ED%8F%AC-%EB%A6%AC%EB%B7%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/ending-review-guide/',
       text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
     },
     {

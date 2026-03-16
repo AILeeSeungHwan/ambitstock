@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8A%B8%EC%9C%84%EC%8A%A4%ED%84%B0%EC%8A%A4-%EB%9C%BB-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EB%B0%8F-%EB%A1%9C%ED%8A%BC%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EB%AF%B8%EB%82%98%EB%A6%AC-%EC%A0%95%EC%9D%B4%EC%82%AD-%EA%B0%90%EB%8F%85-%EC%9E%91%ED%92%88-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC-%EB%B0%B0%EC%9A%B0-%EC%BA%90%EC%8A%A4%ED%8C%85-%EC%A0%95%EB%B3%B4-%EA%B0%9C%EB%B4%89%EC%9D%BC',
+      href: '/',
       text: '영화 트위스터스 뜻 해외 반응 및 로튼토마토 평론가 평점 - 미나리 정이삭 감독 작품 등장인물'
     },
     {

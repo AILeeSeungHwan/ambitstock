@@ -3,57 +3,57 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EC%B6%94%EC%B2%9C-%EC%8B%A4%ED%99%94-%EA%B8%B0%EB%B0%98-%EA%B4%B4%EB%AC%BC-%EB%A9%94%EB%84%A8-%EB%8D%B0%EC%A6%88-%ED%98%95%EC%A0%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%A3%BC%EC%9A%94-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC-%ED%8F%89%EC%A0%90-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91',
+      href: '/netflix-series-recommend-rating-overseas-reaction/',
       text: '넷플릭스 시리즈 인기 순위 추천 실화 기반 괴물 메넨 데즈 형제 이야기 - 주요 등장인물 평점 해'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%99%84%EC%A0%84%EB%AC%B4%EA%B2%B0%ED%95%9C-%EC%BB%A4%ED%94%8C-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%88%9C%EC%9C%84-%EC%95%95%EB%8F%84%EC%A0%81-1%EC%9C%84-%EB%A1%9C%ED%8A%BC-%ED%8F%89%EC%A0%90-%EB%B3%BC%EB%A7%8C%ED%95%A0%EA%B9%8C',
+      href: '/netflix-series-rating/',
       text: '넷플릭스 시리즈 완전무결한 커플 글로벌 순위 압도적 1위 | 로튼 평점 볼만할까?'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%95%84%EB%AC%B4%EB%8F%84-%EC%97%86%EB%8A%94-%EC%88%B2%EC%86%8D%EC%97%90%EC%84%9C-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90%EA%B3%BC-%ED%9B%84%EA%B8%B0-%EB%B0%98%EC%9D%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%9D%B8%EA%B0%80',
+      href: '/netflix-drama-overseas-rating-review-reaction-series/',
       text: '넷플릭스 드라마 아무도 없는 숲속에서 해외 평점과 후기 반응 볼만한 시리즈인가?'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%8B%A0%EB%93%A4%EC%9D%98-%ED%99%A9%ED%98%BC-Twilight-of-the-Gods-%EC%95%84%EC%89%AC%EC%9A%B4-%ED%8F%89%EC%A0%90%EA%B3%BC-%EC%9D%98%EC%99%B8%EC%9D%98-%EB%B0%98%EC%9D%91',
+      href: '/netflix-animation-rating-reaction-twilight-of-the-gods/',
       text: '넷플릭스 애니메이션 신들의 황혼 Twilight of the Gods 아쉬운 평점과 의외의 반응'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%A7%80%EC%98%A5-%EC%8B%9C%EC%A6%8C-2-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EC%9C%A0%EC%95%84%EC%9D%B8-%EB%B6%80%EC%9E%AC-%EB%8C%80%EC%B2%B4%EC%9E%90%EB%8A%94-%EA%B9%80%EC%84%B1%EC%B2%A0-%EB%8D%B0%EB%B7%94%EC%9E%91%EB%B6%80%ED%84%B0-%EB%8C%80%ED%91%9C%EC%9E%91-%ED%95%84%EB%AA%A8',
+      href: '/netflix-series-season-plot/',
       text: '넷플릭스 시리즈 지옥 시즌 2 줄거리 내용 | 유아인 부재 대체자는 김성철 데뷔작부터 대표작 필'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%B6%94%EC%B2%9C-%EC%A7%80%EC%98%A5-%EC%8B%9C%EC%A6%8C-2-%EC%B6%9C%EC%97%B0%EC%A7%84-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC-%EC%9C%A0%EC%95%84%EC%9D%B8-%EA%B9%80%EC%84%B1%EC%B2%A0-%EB%AC%B8%EA%B7%BC%EC%98%81',
+      href: '/netflix-series-recommend-season/',
       text: '넷플릭스 시리즈 추천 지옥 시즌 2 출연진 등장인물 유아인 김성철 문근영'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%B6%94%EC%B2%9C-%EA%B2%BD%EC%84%B1%ED%81%AC%EB%A6%AC%EC%B2%98-%EC%8B%9C%EC%A6%8C-2-%EA%B3%B5%EA%B0%9C-%EB%9C%BB-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EC%9D%B4%EB%B2%88%EC%97%90%EB%8F%84-%EC%9D%BC%EB%B3%B8-%ED%8F%89%EC%A0%90%ED%85%8C%EB%9F%AC-%EB%85%BC%EB%9E%80-%EC%83%9D%EA%B8%B8%EA%B9%8C',
+      href: '/netflix-series-recommend-season-plot-rating/',
       text: '넷플릭스 시리즈 추천 경성크리처 시즌 2 공개 뜻 줄거리 내용 | 이번에도 일본 평점테러 논란 생'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EA%B2%BD%EC%84%B1%ED%81%AC%EB%A6%AC%EC%B2%98-%EC%8B%9C%EC%A6%8C-2-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EB%9C%A8%EA%B2%81%EB%8B%A4-%EB%A1%9C%ED%8A%BC%ED%86%A0%EB%A7%88%ED%86%A0-%ED%9B%84%EA%B8%B0-%ED%8F%89%EA%B0%80-IMDB-%ED%8F%89%EB%A1%A0%EA%B0%80-%EC%8B%9C%EC%B2%AD%EC%9E%90-%ED%8F%89%EC%A0%90',
+      href: '/season-overseas-reaction-review-critic-rating-imdb/',
       text: '경성크리처 시즌 2 해외 반응 뜨겁다! 로튼토마토 후기 평가 IMDB 평론가 시청자 평점'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EC%B6%94%EC%B2%9C-%EA%B2%BD%EC%84%B1%ED%81%AC%EB%A6%AC%EC%B2%98-%EC%8B%9C%EC%A6%8C-2-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%EB%B2%8C%EC%8D%A8%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%A6%8C-3-%EA%B8%B0%EB%8C%80-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91',
+      href: '/netflix-recommend-season-ending-review-overseas-reaction/',
       text: '넷플릭스 현재상영작 인기 순위 추천 경성크리처 시즌 2 결말 후기 리뷰 | 벌써부터 시즌 3 기대'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%B6%94%EC%B2%9C-%ED%9D%91%EB%B0%B1%EC%9A%94%EB%A6%AC%EC%82%AC-%EC%88%9C%EC%9C%84-%EB%B9%84%EC%98%81%EC%96%B4%EA%B6%8C-1%EC%9C%84-%ED%95%B4%EC%99%B8-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%EC%8B%AC%EC%82%AC%EC%9C%84%EC%9B%90-%EB%B0%98%EC%9D%91-%EC%9A%B0%EC%8A%B9%EC%9E%90%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80',
+      href: '/netflix-recommend-overseas-review-reaction/',
       text: '넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-guide-top-10/',
       text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
     },
     {

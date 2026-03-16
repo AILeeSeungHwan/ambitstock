@@ -1,29 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a73e8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#1e293b"/>
+      <stop offset="100%" style="stop-color:#164e63"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="630" fill="url(#bg)" />
-  <rect x="0" y="0" width="1200" height="630" fill="rgba(0,0,0,0.25)" />
-  <!-- VS divider line -->
-  <line x1="600" y1="100" x2="600" y2="530" stroke="rgba(255,255,255,0.2)" stroke-width="2" stroke-dasharray="8,6"/>
-  <!-- Category tag -->
-  <rect x="60" y="80" width="130" height="40" rx="6" fill="#FFD700" />
-  <text x="125" y="107" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle">OTT비교</text>
-  <!-- TVING side -->
-  <text x="300" y="230" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#ffffff" text-anchor="middle">티빙</text>
-  <text x="300" y="295" font-family="Arial, sans-serif" font-size="26" fill="#FFD700" text-anchor="middle">tvN · OCN · 예능 · 스포츠</text>
-  <!-- VS -->
-  <text x="600" y="265" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="#FFD700" text-anchor="middle">VS</text>
-  <!-- WATCHA side -->
-  <text x="900" y="230" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#ffffff" text-anchor="middle">왓챠</text>
-  <text x="900" y="295" font-family="Arial, sans-serif" font-size="26" fill="#FFD700" text-anchor="middle">영화 · 독립영화 · 취향 추천</text>
-  <!-- Subtitle -->
-  <text x="600" y="390" font-family="Arial, sans-serif" font-size="34" fill="#e0e0e0" text-anchor="middle">2026년 국내 OTT 비교</text>
-  <text x="600" y="440" font-family="Arial, sans-serif" font-size="28" fill="#bbbbbb" text-anchor="middle">요금 · 콘텐츠 · 추천 대상 정리</text>
-  <!-- Footer -->
-  <rect x="0" y="570" width="1200" height="60" fill="rgba(0,0,0,0.4)" />
-  <text x="600" y="608" font-family="Arial, sans-serif" font-size="22" fill="#bbbbbb" text-anchor="middle">R의 필름공장 | ambitstock.com</text>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(56,189,248,0.07)"/>
+  <circle cx="300" cy="200" r="150" fill="rgba(56,189,248,0.10)"/>
+  <circle cx="900" cy="430" r="120" fill="rgba(245,158,11,0.08)"/>
+  <text x="600" y="255" text-anchor="middle" font-size="80" font-weight="900" fill="#38bdf8" font-family="Pretendard, sans-serif">티빙 vs 왓챠</text>
+  <text x="600" y="370" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">어디가?</text>
+  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
 </svg>

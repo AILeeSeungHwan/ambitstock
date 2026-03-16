@@ -3,27 +3,27 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%B2%A0%ED%85%8C%EB%9E%91-2-%EC%B9%B8-%EC%98%81%ED%99%94%EC%A0%9C-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%8F%89%EC%A0%90-%ED%95%B4%EC%99%B8-%ED%9B%84%EA%B8%B0%EB%B0%98%EC%9D%91-%ED%98%B8%ED%8F%89%EA%B3%BC-%ED%98%B9%ED%8F%89%EC%9D%B4-%EB%8F%99%EC%8B%9C%EC%97%90',
+      href: '/movie-rating-overseas-review-reaction/',
       text: '베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC-%EC%95%84-%EB%90%98-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9D%98%EB%AF%B8-Folie-%C3%A0-Deux-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9%EA%B3%BC-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EC%8B%AC%EC%B8%B5%EB%B6%84%EC%84%9D',
+      href: '/plot-folie-deux/',
       text: '조커 2 폴리 아 되 제목 뜻 의미? 줄거리 내용과 연관관계 심층분석'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC%EC%95%84%EB%90%98-%EC%98%88%EB%A7%A4-%ED%95%A0%EC%A7%80-%EB%A7%90%EC%A7%80-%EC%A0%95%ED%95%B4%EB%93%9C%EB%A6%BC-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%85%B8-%EC%8A%A4%ED%8F%AC-%EB%A6%AC%EB%B7%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/ending-review-guide/',
       text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC-%EC%95%84%EB%90%98-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%9B%84%EA%B8%B0-%EB%B0%98%EC%9D%91-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EA%B0%9C%EB%B4%89-%EB%93%B1%EA%B8%89-%EC%86%8D%ED%8E%B8%EC%9D%98-%EC%A0%80%EC%A3%BC%EC%9D%B8%EA%B0%80-%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91',
+      href: '/review-reaction-critic-rating-release/',
       text: '조커 2 폴리 아되 시사회 후기 반응 로튼 토마토 평론가 평점 개봉 등급 | 속편의 저주인가 현재'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-ONE-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%EC%A0%95%EB%B3%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EC%95%84%EC%9D%B4%EC%99%80-%ED%95%A8%EA%BB%98-%EB%B3%B4%EA%B8%B0-%EC%A2%8B%EC%9D%80-%ED%95%98%EC%A7%80%EB%A7%8C-%EB%B6%80%EB%AA%A8%EA%B0%80-%EB%8D%94-%EC%A2%8B%EC%95%84%ED%95%A0-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%98%81%ED%99%94',
+      href: '/',
       text: '트랜스포머 ONE 해외 평론가 결말 후기 리뷰 정보 총정리 | 아이와 함께 보기 좋은, 하지만 부모가'
     },
     {

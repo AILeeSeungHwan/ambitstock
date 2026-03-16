@@ -1,7 +1,15 @@
 <svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="630" fill="#1a1a2e"/>
-  <text x="600" y="220" text-anchor="middle" font-size="56" font-weight="900" fill="white" font-family="Pretendard, sans-serif">마블 영화 평점순</text>
-  <text x="600" y="310" text-anchor="middle" font-size="64" font-weight="900" fill="#FFD700" font-family="Pretendard, sans-serif">TOP 20</text>
-  <text x="600" y="400" text-anchor="middle" font-size="32" font-weight="700" fill="rgba(255,255,255,0.8)" font-family="Pretendard, sans-serif">역대 최고의 마블 영화는?</text>
-  <text x="600" y="500" text-anchor="middle" font-size="24" fill="rgba(255,255,255,0.5)" font-family="Pretendard, sans-serif">R의 필름공장 | 로튼토마토 + IMDB 종합</text>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1c1c1c"/>
+      <stop offset="100%" style="stop-color:#2d1600"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.30)"/>
+  <rect x="80" y="75" width="3" height="480" fill="rgba(255,215,0,0.5)"/>
+  <rect x="1117" y="75" width="3" height="480" fill="rgba(255,215,0,0.5)"/>
+  <text x="600" y="265" text-anchor="middle" font-size="88" font-weight="900" fill="#ffd700" font-family="Pretendard, sans-serif">마블 TOP 20</text>
+  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">평점순</text>
+  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
 </svg>

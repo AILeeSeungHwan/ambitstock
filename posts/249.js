@@ -3,27 +3,27 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%8A%A4%EB%A7%88%EC%9D%BC-%EC%99%9C-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EC%83%81%EC%9C%84-%EA%B8%B0%EB%8C%80%EC%9E%91%EC%9D%B8%EA%B0%80-%EC%A0%84%EC%9E%91%EC%9D%98-%ED%8F%89%EA%B0%80%EB%A5%BC-%EB%B3%B4%EB%A9%B4-%EB%8B%B5%EC%9D%B4-%EC%9E%88%EB%8B%A4-1%ED%8E%B8-%EB%A1%9C%ED%8A%BC%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EC%A0%90-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0',
+      href: '/movie-rating-ending-review/',
       text: '영화 스마일 왜 인기 순위 상위 기대작인가? 전작의 평가를 보면 답이 있다. 1편 로튼토마토 평점'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2024%EB%85%84-%EA%B3%B5%ED%8F%AC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EC%B4%9D%EC%A0%95%EB%A6%AC-%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91',
+      href: '/horror-movie-recommend-guide/',
       text: '2024년 공포 영화 추천 인기 순위 총정리 현재상영작'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-guide-top-10/',
       text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC%EC%95%84%EB%90%98-%EC%98%88%EB%A7%A4-%ED%95%A0%EC%A7%80-%EB%A7%90%EC%A7%80-%EC%A0%95%ED%95%B4%EB%93%9C%EB%A6%BC-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%85%B8-%EC%8A%A4%ED%8F%AC-%EB%A6%AC%EB%B7%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/ending-review-guide/',
       text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
     {

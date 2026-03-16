@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%AF%B8%ED%82%A4-17-%EA%B0%9C%EB%B4%89-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%9B%84%EA%B8%B0-%ED%8F%89%EC%A0%90-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EC%98%81%ED%99%94-%EC%88%9C%EC%9C%84-1%EC%9C%84',
+      href: '/release-review-rating-overseas-reaction-movie/',
       text: '미키 17 개봉 관람평 후기 평점 해외 반응 <영화 순위 1위>'
     },
     {

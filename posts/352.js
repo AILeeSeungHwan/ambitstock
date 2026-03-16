@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2024%EB%85%84-%EB%A7%88%EB%B8%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EC%88%9C%EC%9C%BC%EB%A1%9C-%EC%B4%9D-%EC%A0%95%EB%A6%AC-feat-%EB%94%94%EC%A6%88%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EA%B3%B5%EA%B0%9C-%EC%98%88%EC%A0%95',
+      href: '/marvel-release-upcoming-disney-plus-disney-series-feat/',
       text: '2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8A%B8%EC%9C%84%EC%8A%A4%ED%84%B0%EC%8A%A4-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%B0%98%EC%9D%91-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0',
+      href: '/movie-overseas-critic-reaction-ending-review/',
       text: '영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EB%A7%8C%EC%A0%90%EC%9E%91%EC%97%90%EC%84%9C-%EC%B0%BE%EB%8A%94-%EC%9D%B8%EC%83%9D%EC%98%81%ED%99%94-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EC%B2%AD%EA%B0%80%EB%8A%A5-%EC%88%98%EC%83%81%EC%9E%91%ED%92%88',
+      href: '/netflix-movie-recommend-critic-rating/',
       text: '넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상'
     },
     {

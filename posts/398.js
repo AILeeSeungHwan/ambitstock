@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8C%8C%EB%AC%98-%EC%98%A4%EC%BB%AC%ED%8A%B8-%EB%9C%BB%EA%B3%BC-%EC%9E%A5%EC%9E%AC%ED%98%84%EC%84%B8%EA%B3%84%EA%B4%80-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-%EA%B0%9C%EB%B4%89%ED%9B%84-%EA%B4%80%EA%B0%9D%EC%88%98-%EC%8A%A4%ED%8F%AC%ED%8F%AC%ED%95%A8-%ED%9B%84%EA%B8%B0-%EC%A0%95%EB%B3%B4-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%A6%AC%EB%B7%B0-%EA%B2%B0%EB%A7%90-%ED%95%B4%EC%84%9D-%EC%A0%84%EC%9E%91-OTT-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4',
+      href: '/',
       text: '[영화 파묘 오컬트 뜻 반일논란] 명작에 때 아닌 정치색 전쟁 - 스포포함 결말 해석 리뷰 현재상'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8C%8C%EB%AC%98-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EB%B0%8F-%ED%8B%B0%EC%A0%80-%EC%98%88%EA%B3%A0%ED%8E%B8-%ED%95%B4%EC%99%B8%EB%B0%98%EC%9D%91-%ED%8C%8C%EB%AC%98-%EB%9C%BB-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC%EA%B3%BC-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%98%81%EC%96%B4%EC%A0%9C%EB%AA%A9-Exhuma-%EB%9C%BB-2%EC%9B%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91',
+      href: '/',
       text: '[영화 파묘 개봉일 및 티저 예고편 해외반응] - 파묘 뜻 등장인물과 포스터 영어제목 Exhuma 뜻 2월'
     },
     {
       type: 'intro',
-      html: '<p>영화 파묘가 넷플릭스 공개를 앞두고 있습니다.<br/><span style=&quot;background-color: #f3c000;&quot;><b> 7월 15일 오후 4시 넷플릭스 공개 예정인 영화 파묘</b></span>는 현재 국내 역대 박스오피스 순위 TOP 18위, 11,913,077명 관객수, 그리고 매출액 1,000억원을 기록하며 흥행에 성공한 작품입니다.<br/> <br/>영화가 개봉한 당시, 엄청난 파장을 일으키며 <span style=&quot;color: #781b33;&quot;><b>재미에 대한 논란과 더불어 좌파 우파 정치적인 논란</b></span>까지, 시끌시끌했던 영화 파묘.<br/> <br/>과연 해외에서는 어떻게 바라보았을 지, 넷플릭스 공개예정작 영화 파묘, 해외 반응 및 평점 후기 리뷰 살펴보겠습니다.<br/> <br/> </p><p> <br/><a href=&quot;https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8C%8C%EB%AC%98-%EC%98%A4%EC%BB%AC%ED%8A%B8-%EB%9C%BB%EA%B3%BC-%EC%9E%A5%EC%9E%AC%ED%98%84%EC%84%B8%EA%B3%84%EA%B4%80-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-%EA%B0%9C%EB%B4%89%ED%9B%84-%EA%B4%80%EA%B0%9D%EC%88%98-%EC%8A%A4%ED%8F%AC%ED%8F%AC%ED%95%A8-%ED%9B%84%EA%B8%B0-%EC%A0%95%EB%B3%B4-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%A6%AC%EB%B7%B0-%EA%B2%B0%EB%A7%90-%ED%95%B4%EC%84%9D-%EC%A0%84%EC%9E%91-OTT-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4&quot; target=&quot;_self&quot; title=&quot;영화 파묘 리뷰&quot;><span>[영화 파묘 오컬트 뜻 반일논란] 명작에 때 아닌 정치색 전쟁 - 스포포함 결말 해석 리뷰 현재상영작 순위</span></a></p><p> <br/><a href=&quot;https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8C%8C%EB%AC%98-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EB%B0%8F-%ED%8B%B0%EC%A0%80-%EC%98%88%EA%B3%A0%ED%8E%B8-%ED%95%B4%EC%99%B8%EB%B0%98%EC%9D%91-%ED%8C%8C%EB%AC%98-%EB%9C%BB-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC%EA%B3%BC-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%98%81%EC%96%B4%EC%A0%9C%EB%AA%A9-Exhuma-%EB%9C%BB-2%EC%9B%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91&quot; target=&quot;_self&quot; title=&quot;영화 파묘 뜻&quot;><span>파묘 뜻 등장인물과 포스터 영어제목 Exhuma 뜻 2월 개봉 예정작</span></a></p>'
+      html: '<p>영화 파묘가 넷플릭스 공개를 앞두고 있습니다.<br/><span style=&quot;background-color: #f3c000;&quot;><b> 7월 15일 오후 4시 넷플릭스 공개 예정인 영화 파묘</b></span>는 현재 국내 역대 박스오피스 순위 TOP 18위, 11,913,077명 관객수, 그리고 매출액 1,000억원을 기록하며 흥행에 성공한 작품입니다.<br/> <br/>영화가 개봉한 당시, 엄청난 파장을 일으키며 <span style=&quot;color: #781b33;&quot;><b>재미에 대한 논란과 더불어 좌파 우파 정치적인 논란</b></span>까지, 시끌시끌했던 영화 파묘.<br/> <br/>과연 해외에서는 어떻게 바라보았을 지, 넷플릭스 공개예정작 영화 파묘, 해외 반응 및 평점 후기 리뷰 살펴보겠습니다.<br/> <br/> </p><p> <br/><a href=&quot;/ target=&quot;_self&quot; title=&quot;영화 파묘 리뷰&quot;><span>[영화 파묘 오컬트 뜻 반일논란] 명작에 때 아닌 정치색 전쟁 - 스포포함 결말 해석 리뷰 현재상영작 순위</span></a></p><p> <br/><a href=&quot;/ target=&quot;_self&quot; title=&quot;영화 파묘 뜻&quot;><span>파묘 뜻 등장인물과 포스터 영어제목 Exhuma 뜻 2월 개봉 예정작</span></a></p>'
     },
     {
       type: 'image',

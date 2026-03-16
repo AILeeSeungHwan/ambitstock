@@ -37,11 +37,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EC%BD%B0%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-3-%EC%B2%AB%EC%A7%B8%EB%82%A0-%EA%B0%9C%EB%B4%89-%EC%A0%84-%EB%82%A8%EB%93%A4%EB%B3%B4%EB%8B%A4-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EB%8A%94-%EC%98%88%EA%B3%A0%ED%8E%B8-%EC%B6%9C%EC%97%B0%EC%A7%84-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>콰이어트 플레이스 3: 첫째날 개봉 전 남들보다 미리보는 예고편 | 출연진 줄거리 완벽 정리 | 개봉 예정 영화 추천</a></p>'
+      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>콰이어트 플레이스 3: 첫째날 개봉 전 남들보다 미리보는 예고편 | 출연진 줄거리 완벽 정리 | 개봉 예정 영화 추천</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%BD%B0%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-3-%EC%B2%AB%EC%A7%B8%EB%82%A0-%EA%B0%9C%EB%B4%89-%EC%A0%84-%EB%82%A8%EB%93%A4%EB%B3%B4%EB%8B%A4-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EB%8A%94-%EC%98%88%EA%B3%A0%ED%8E%B8-%EC%B6%9C%EC%97%B0%EC%A7%84-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C',
+      href: '/release-plot-upcoming-movie-recommend/',
       text: '콰이어트 플레이스 3: 첫째날 개봉 전 남들보다 미리보는 예고편 | 출연진 줄거리 완벽 정리 | 개'
     },
     {

@@ -141,7 +141,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<div><center><a href=&quot;https://ambitstock.com/entry/%EC%96%B4%EC%A9%94%EC%88%98%EA%B0%80%EC%97%86%EB%8B%A4-%EA%B0%9C%EB%B4%89%EC%9D%BC-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%B0%98%EC%9D%91-%EA%B4%80%EB%9E%8C%ED%8F%89-%ED%9B%84%EA%B8%B0-%EB%B0%95%EC%B0%AC%EC%9A%B1-%EA%B0%90%EB%8F%85-%EC%8B%A0%EC%9E%91&quot; title=&quot;어쩔수가없다 해외반응 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>어쩔수가없다 해외반응 보러가기👉</button></a></center></div>'
+      html: '<div><center><a href=&quot;/ title=&quot;어쩔수가없다 해외반응 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>어쩔수가없다 해외반응 보러가기👉</button></a></center></div>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -440,7 +440,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<div><center><a href=&quot;https://ambitstock.com/entry/%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%98%81%ED%99%94-2025%EB%85%84-10%EC%9B%94-%EC%A4%84%EA%B1%B0%EB%A6%AC%C2%B7%EC%98%88%EB%A7%A4%EC%9C%A8%C2%B7%EA%B4%80%EB%9E%8C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EC%B4%9D%EC%A0%95%EB%A6%AC&quot; title=&quot;10월 개봉예정영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>10월 개봉예정영화 보러 가기👉</button></a></center></div>'
+      html: '<div><center><a href=&quot;/ title=&quot;10월 개봉예정영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>10월 개봉예정영화 보러 가기👉</button></a></center></div>'
     },
     {
       type: 'h2',
@@ -454,17 +454,17 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%97%AD%EB%8C%80-%EC%98%81%ED%99%94-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%EA%B4%80%EA%B0%9D-%EC%88%98-%ED%9D%A5%ED%96%89-%EC%88%9C%EC%9C%84-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-%EB%B3%B4%EB%8A%94-%EA%B3%B3-%EC%B4%9D%EC%A0%95%EB%A6%AC-2%EB%B6%80',
+      href: '/movie-box-office-audience-guide-ott/',
       text: '역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

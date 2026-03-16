@@ -1,7 +1,15 @@
 <svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="630" fill="#1a73e8"/>
-  <text x="600" y="220" text-anchor="middle" font-size="52" font-weight="900" fill="white" font-family="Pretendard, sans-serif">넷플릭스 구독 요금제</text>
-  <text x="600" y="310" text-anchor="middle" font-size="56" font-weight="900" fill="#FFD700" font-family="Pretendard, sans-serif">2026 완벽 비교 가이드</text>
-  <text x="600" y="400" text-anchor="middle" font-size="30" font-weight="700" fill="rgba(255,255,255,0.9)" font-family="Pretendard, sans-serif">광고형 5,500원 | 스탠다드 13,500원 | 프리미엄 17,000원</text>
-  <text x="600" y="500" text-anchor="middle" font-size="24" fill="rgba(255,255,255,0.7)" font-family="Pretendard, sans-serif">R의 필름공장 | 2026년 3월 기준</text>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#1e3a5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(88,166,255,0.08)"/>
+  <line x1="60" y1="200" x2="1140" y2="200" stroke="rgba(88,166,255,0.2)" stroke-width="1"/>
+  <line x1="60" y1="430" x2="1140" y2="430" stroke="rgba(88,166,255,0.2)" stroke-width="1"/>
+  <text x="600" y="268" text-anchor="middle" font-size="88" font-weight="900" fill="#58a6ff" font-family="Pretendard, sans-serif">요금제 비교</text>
+  <text x="600" y="375" text-anchor="middle" font-size="44" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">넷플릭스 2026</text>
+  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
 </svg>

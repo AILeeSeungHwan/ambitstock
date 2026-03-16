@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%B6%94%EC%B2%9C-%ED%84%B0%EB%AF%B8%EB%84%A4%EC%9D%B4%ED%84%B0-%EC%A0%9C%EB%A1%9C-%EB%9C%BB-%ED%8F%89%EC%A0%90-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EB%B3%B4%EB%8A%94%EA%B3%B3-%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91',
+      href: '/netflix-animation-recommend-rating-plot/',
       text: '넷플릭스 애니메이션 추천 터미네이터 제로 뜻 평점 줄거리 내용 보는곳 | 현재상영작'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EB%8D%94-%EC%9C%A0%EB%8B%88%EC%98%A8-%EB%A7%90-%EA%B7%B8%EB%8C%80%EB%A1%9C-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%ED%9B%84%EA%B8%B0-%EB%B0%98%EC%9D%91',
+      href: '/netflix-movie-overseas-rating-review-reaction/',
       text: '넷플릭스 영화 더 유니온 말 그대로 로튼 토마토! 제목 뜻 해외 평점 후기 반응'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EC%B2%AD%EA%B0%80%EB%8A%A5-%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C-%EB%9C%BB-%EC%9D%98%EB%AF%B8-%EB%B0%95%EB%B3%B4%EA%B2%80-%EC%A3%BC%EC%97%B0-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90%EA%B3%BC-%ED%9B%84%EA%B8%B0%EB%B0%98%EC%9D%91%EC%9D%80',
+      href: '/netflix-overseas-rating-review-reaction/',
       text: '넷플릭스 시청가능 원더랜드 뜻 의미 박보검 주연 해외 평점과 후기반응은?'
     },
     {

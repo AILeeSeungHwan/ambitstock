@@ -117,11 +117,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EC%A1%B0%EB%AA%85-%EA%B0%80%EA%B2%8C-%EC%8B%9C%EC%A6%8C-2-%EA%B3%B5%EA%B0%9C%EA%B0%80-%EC%A0%88%EC%8B%A4%ED%95%98%EB%8B%A4-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%ED%8F%89%EC%A0%90-%EC%98%81%EC%96%B4%EC%A0%9C%EB%AA%A9-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EB%A6%AC%EB%B7%B0-%ED%9B%84%EA%B8%B0&quot; style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: start;&quot; title=&quot;조명가게 해외 리뷰&quot;>2024.12.21 - [드라마] - 조명 가게 시즌 2 공개가 절실하다 해외 반응 평점 &lt; 영어제목 드라마 인기 순위 리뷰 후기 &gt;</a></p>'
+      html: '<p><a href=&quot;/ style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: start;&quot; title=&quot;조명가게 해외 리뷰&quot;>2024.12.21 - [드라마] - 조명 가게 시즌 2 공개가 절실하다 해외 반응 평점 &lt; 영어제목 드라마 인기 순위 리뷰 후기 &gt;</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EB%AA%85-%EA%B0%80%EA%B2%8C-%EC%8B%9C%EC%A6%8C-2-%EA%B3%B5%EA%B0%9C%EA%B0%80-%EC%A0%88%EC%8B%A4%ED%95%98%EB%8B%A4-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%ED%8F%89%EC%A0%90-%EC%98%81%EC%96%B4%EC%A0%9C%EB%AA%A9-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EB%A6%AC%EB%B7%B0-%ED%9B%84%EA%B8%B0',
+      href: '/season-overseas-reaction-rating-drama-review/',
       text: '조명 가게 시즌 2 공개가 절실하다 해외 반응 평점 < 영어제목 드라마 인기 순위 리뷰 후기 >'
     },
     {
@@ -202,11 +202,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EC%A1%B0%EB%AA%85-%EA%B0%80%EA%B2%8C-%EC%8B%9C%EC%A6%8C-2-%EA%B3%B5%EA%B0%9C%EA%B0%80-%EC%A0%88%EC%8B%A4%ED%95%98%EB%8B%A4-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%ED%8F%89%EC%A0%90-%EC%98%81%EC%96%B4%EC%A0%9C%EB%AA%A9-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EB%A6%AC%EB%B7%B0-%ED%9B%84%EA%B8%B0&quot; rel=&quot;noopener&quot; title=&quot;조명 가게 영어제목 평점&quot;>2024.12.21 - [드라마] - 조명 가게 시즌 2 공개가 절실하다 해외 반응 평점 &lt; 영어제목 드라마 인기 순위 리뷰 후기 &gt;</a></p>'
+      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;조명 가게 영어제목 평점&quot;>2024.12.21 - [드라마] - 조명 가게 시즌 2 공개가 절실하다 해외 반응 평점 &lt; 영어제목 드라마 인기 순위 리뷰 후기 &gt;</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EB%AA%85-%EA%B0%80%EA%B2%8C-%EC%8B%9C%EC%A6%8C-2-%EA%B3%B5%EA%B0%9C%EA%B0%80-%EC%A0%88%EC%8B%A4%ED%95%98%EB%8B%A4-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%ED%8F%89%EC%A0%90-%EC%98%81%EC%96%B4%EC%A0%9C%EB%AA%A9-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EB%A6%AC%EB%B7%B0-%ED%9B%84%EA%B8%B0',
+      href: '/season-overseas-reaction-rating-drama-review/',
       text: '조명 가게 시즌 2 공개가 절실하다 해외 반응 평점 < 영어제목 드라마 인기 순위 리뷰 후기 >'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
@@ -222,22 +222,22 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%BF%A0%EC%97%94%ED%8B%B4%ED%83%80%EB%9E%80%ED%8B%B0%EB%85%B8-%ED%95%84%EB%AA%A8%EA%B7%B8%EB%9E%98%ED%94%BC-%EC%88%98%EC%83%81%EC%9E%91%ED%92%88-%ED%8F%89%EC%A0%90-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-TOP-9',
+      href: '/movie-recommend-rating-top-9/',
       text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

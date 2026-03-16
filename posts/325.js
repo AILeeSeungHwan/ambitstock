@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%9D%B4%EB%A7%A4%EC%A7%80%EB%84%88%EB%A6%AC-%EB%9C%BB-%EB%A1%9C%ED%8A%BC-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90%EA%B3%BC-%EB%B0%98%EC%9D%91-%EC%98%AC%ED%95%B4-%EA%B3%B5%ED%8F%AC%EB%8A%94-%EB%8B%A4-%EC%A3%BD%EC%97%88%EB%8B%A4',
+      href: '/movie-overseas-rating-reaction-horror/',
       text: '영화 이매지너리 뜻 로튼 해외 평점과 반응 | 올해 공포는 다 죽었다'
     },
     {

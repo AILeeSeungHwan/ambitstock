@@ -164,7 +164,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<div><center><a href=&quot;https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%9C%84%ED%94%8C%EB%9E%98%EC%89%AC-%EA%B2%B0%EB%A7%90%EC%9D%80-%ED%95%B4%ED%94%BC%EC%97%94%EB%94%A9%EC%9D%BC%EA%B9%8C-%EB%9C%BB%EA%B3%BC-%ED%95%B4%EC%84%9D-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%9D%B8%EC%83%9D-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%A6%AC%EB%B7%B0-1%EB%B6%80&quot; title=&quot;R의 위플래쉬 리뷰 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>플래처교수는 정말로 악인가? 위플래쉬 리뷰 보러 가기👉</button></a></center></div>'
+      html: '<div><center><a href=&quot;/ title=&quot;R의 위플래쉬 리뷰 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>플래처교수는 정말로 악인가? 위플래쉬 리뷰 보러 가기👉</button></a></center></div>'
     },
     {
       type: 'h2',
@@ -384,17 +384,17 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%BF%A0%EC%97%94%ED%8B%B4%ED%83%80%EB%9E%80%ED%8B%B0%EB%85%B8-%ED%95%84%EB%AA%A8%EA%B7%B8%EB%9E%98%ED%94%BC-%EC%88%98%EC%83%81%EC%9E%91%ED%92%88-%ED%8F%89%EC%A0%90-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-TOP-9',
+      href: '/movie-recommend-rating-top-9/',
       text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

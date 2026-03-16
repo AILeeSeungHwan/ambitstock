@@ -540,12 +540,12 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4-%EC%A0%95%EB%8F%84%EB%A9%B4-%EC%A0%95%EB%A7%90-%EC%9E%98%ED%95%9C-%EA%B1%B8%EA%B9%8C-The-One-Thing%EC%9D%84-%ED%96%A5%ED%95%B4-%EC%98%81%ED%99%94-%EC%9C%84%ED%94%8C%EB%9E%98%EC%89%AC-%EB%A6%AC%EB%B7%B0-2%EB%B6%80-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%9D%B8%EC%83%9D-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C',
+      href: '/movie-review-netflix-recommend-the-one-thing/',
       text: '[이 정도면 정말 잘한 걸까? The One Thing을 향해] 영화 위플래쉬 리뷰 2부 넷플릭스 인생 영화 추천'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%9C%84%ED%94%8C%EB%9E%98%EC%89%AC-%EA%B2%B0%EB%A7%90%EC%9D%80-%ED%95%B4%ED%94%BC%EC%97%94%EB%94%A9%EC%9D%BC%EA%B9%8C-%EB%9C%BB%EA%B3%BC-%ED%95%B4%EC%84%9D-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%9D%B8%EC%83%9D-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%A6%AC%EB%B7%B0-1%EB%B6%80',
+      href: '/movie-ending-analysis-netflix-recommend-series-plot-review/',
       text: '[영화 위플래쉬 결말은 해피엔딩일까] 뜻과 해석 - 넷플릭스 인생 영화 추천 시리즈 줄거리 리뷰'
     },
     {
@@ -764,22 +764,22 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%BF%A0%EC%97%94%ED%8B%B4%ED%83%80%EB%9E%80%ED%8B%B0%EB%85%B8-%ED%95%84%EB%AA%A8%EA%B7%B8%EB%9E%98%ED%94%BC-%EC%88%98%EC%83%81%EC%9E%91%ED%92%88-%ED%8F%89%EC%A0%90-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-TOP-9',
+      href: '/movie-recommend-rating-top-9/',
       text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2025%EB%85%84-1%EC%9B%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%88%9C%EC%9C%84-TOP10',
+      href: '/release-upcoming-guide-movie-recommend-top10/',
       text: '개봉예정영화 2025년 1월 추천 순위 총정리 TOP10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-2025%EB%85%84-%ED%95%9C%EA%B5%AD-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-series-release-upcoming-guide/',
       text: '넷플릭스 영화 추천 시리즈 2025년 한국 개봉예정작 총정리!'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

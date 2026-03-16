@@ -3,32 +3,32 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/TOP20-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-%EB%B3%B4%EB%8A%94-%EA%B3%B3-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EC%97%AD%EB%8C%80-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%EA%B4%80%EA%B0%9D-%EC%88%98-%ED%9D%A5%ED%96%89-%EC%88%9C%EC%9C%84',
+      href: '/movie-recommend-guide-box-office-audience-top20-ott/',
       text: 'TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%84%9C%EC%9A%B8%EC%9D%98-%EB%B4%84-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%8F-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%ED%95%B4%EC%99%B8%EC%97%90%EC%84%9C-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EC%A0%84%EB%91%90%EA%B4%91%EC%9D%98-%EA%B7%B8%EB%82%A0-%ED%95%B4%EC%99%B8-%EA%B0%9C%EB%B4%89%EC%86%8C%EC%8B%9D-%EC%B2%9C%EB%A7%8C%EB%8F%8C%ED%8C%8C-%EC%84%9C%EC%9A%B8%EC%9D%98-%EB%B4%84-%EB%A6%AC%EB%B7%B0-%ED%98%84%EC%9E%AC-%EC%83%81%EC%98%81%EC%9E%91',
+      href: '/',
       text: '[서울의 봄 해외 평점 및 해외 반응] - 해외에서 바라보는 전두광의 그날 해외 개봉소식, 천만돌'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B2%A0%ED%85%8C%EB%9E%91-2-%EA%B0%9C%EB%B4%89-%EC%A0%84-%EC%A0%95%EB%B3%B4-%EC%B2%9C%EB%A7%8C%EA%B4%80%EA%B0%9D-%EB%B2%A0%ED%85%8C%EB%9E%91-1%ED%8E%B8-%ED%95%B4%EC%99%B8-%EB%A6%AC%EB%B7%B0-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EC%97%AD%EB%8C%80-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%ED%95%9C%EA%B5%AD-%EC%98%81%ED%99%94-%EC%88%9C%EC%9C%84-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%ED%98%84%EC%9E%AC-%EC%83%81%EC%98%81%EC%9E%91%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0',
+      href: '/',
       text: '[영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%80%EC%8A%A4-5-%EB%A9%94%EC%9D%B8-%EB%B9%8C%EB%9F%B0-%EC%BA%89%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%A8%EB%93%A0%EA%B2%83-%ED%9E%88%EC%96%B4%EB%A1%9C%EB%A7%8C-60%EB%AA%85-%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8-%EB%B3%B5%EA%B7%80%EB%8A%94-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91%EA%B3%BC-%EA%B0%9C%EB%B4%89-%EC%A0%95%EB%B3%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0',
+      href: '/',
       text: '어벤저스 5 메인 빌런 캉에 대한 모든것, 히어로만 60명 아이언맨 복귀는? - 해외 반응과 개봉 정'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EA%B7%B9%ED%95%9C%EC%A7%81%EC%97%85-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%ED%8F%89%EC%A0%90-%EB%B0%8F-%EB%A6%AC%EB%B7%B0-%EC%97%AD%EB%8C%80-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%84%B8%EB%B2%88%EC%A7%B8-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%EB%A1%9C-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0',
+      href: '/movie-overseas-reaction-rating-review-box-office-series-netflix/',
       text: '[영화 극한직업 해외 반응 평점 및 리뷰] - 역대 박스오피스 시리즈 세번째 넷플릭스로 다시보기'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EB%85%B8%EB%9F%89%EC%A3%BD%EC%9D%8C%EC%9D%98-%EB%B0%94%EB%8B%A4-%EA%B4%80%EA%B0%9D%EC%88%98-%EB%B0%8F-%EB%A6%AC%EB%B7%B0-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%8F-%EC%9D%BC%EB%B3%B8%EB%B0%98%EC%9D%91-%ED%95%9C%EC%82%B0%EC%9A%A9%EC%9D%98-%EC%B6%9C%ED%98%84-%ED%95%B4%EC%99%B8-%EB%A6%AC%EB%B7%B0%EC%99%80-%ED%95%A8%EA%BB%98-%EB%B3%B4%EA%B8%B0',
+      href: '/movie-audience-review-overseas-rating-reaction/',
       text: '[영화 노량:죽음의 바다 관객수 해외 개봉 반응 리뷰 및 평점] - 이리도 조선에 편리한 이야기 일'
     },
     {

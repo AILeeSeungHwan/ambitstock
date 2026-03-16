@@ -3,22 +3,22 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%B6%94%EC%B2%9C-%ED%9D%91%EB%B0%B1%EC%9A%94%EB%A6%AC%EC%82%AC-%EC%88%9C%EC%9C%84-%EB%B9%84%EC%98%81%EC%96%B4%EA%B6%8C-1%EC%9C%84-%ED%95%B4%EC%99%B8-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%EC%8B%AC%EC%82%AC%EC%9C%84%EC%9B%90-%EB%B0%98%EC%9D%91-%EC%9A%B0%EC%8A%B9%EC%9E%90%EB%8A%94-%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80',
+      href: '/netflix-recommend-overseas-review-reaction/',
       text: '넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EB%8D%94-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C-%EA%B3%BC%EC%A6%99%EC%84%B8%EC%97%B0-%EC%98%A4%ED%82%B9-%EA%B7%BC%ED%99%A9-%EC%9D%B4%EC%8A%88%EB%85%BC%EB%9E%80-%EC%86%8D-1%EC%9C%84-%EC%9C%A0%EC%A7%80',
+      href: '/netflix-인기-순위/',
       text: '넷플릭스 인기 순위 더 인플루언서 과즙세연 오킹 근황 이슈논란 속 1위 유지'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%8B%A0%EC%9D%B8%EA%B0%80%EC%88%98-%EC%A1%B0%EC%A0%95%EC%84%9D-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%8D%B0%EB%B7%94-%EB%85%B8%EB%9E%98%EB%8A%94-%EC%83%B4%ED%8E%98%EC%9D%B8-%EC%B6%9C%EC%97%B0%EC%A7%84-PD-%EA%B3%B5%EA%B0%9C%EC%A0%95%EB%B3%B4-%EC%95%84%EC%9D%B4%EC%9C%A0-%EB%A9%98%ED%86%A0%EC%A7%80%EC%9B%90%EC%82%AC%EA%B2%A9',
+      href: '/netflix-pd-신인가수-조정석/',
       text: '신인가수 조정석 넷플릭스 출연진 PD 공개정보'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-guide-top-10/',
       text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
     },
     {

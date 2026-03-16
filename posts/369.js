@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4%EB%B6%80%ED%84%B0-%EA%B8%80%EB%9E%98%EB%94%94%EC%97%90%EC%9D%B4%ED%84%B0-2-%EB%8D%B0%EB%93%9C%ED%92%80-3-%EA%B9%8C%EC%A7%80-2024%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%ED%95%B4%EC%99%B8-%EC%98%81%ED%99%94-%EA%B8%B0%EB%8C%80%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EA%B3%B5%EC%8B%9D-%ED%8B%B0%EC%A0%80-%EC%98%88%EA%B3%A0%ED%8E%B8-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/overseas-movie-release-guide/',
       text: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2024%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%ED%95%9C%EA%B5%AD%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EB%9D%BC%EC%9D%B8%EC%97%85-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-release-upcoming-guide/',
       text: '2024년 하반기 한국영화 개봉예정작 라인업 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2024%EB%85%84-2025%EB%85%84-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EA%B3%B5%EA%B0%9C-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%9D%BC%EC%9D%B8%EC%97%85',
+      href: '/netflix-release-upcoming-series-movie-recommend/',
       text: '2024년-2025년 넷플릭스 공개 예정 영화 오리지널 작품 라인업'
     },
     {

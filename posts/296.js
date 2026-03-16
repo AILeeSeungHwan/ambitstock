@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%AC%B4%EB%8F%84%EC%8B%A4%EB%AC%B4%EA%B4%80-%EB%B3%BC%EB%A7%8C%ED%95%9C%EA%B0%80-%EC%98%81%EC%96%B4-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%ED%8F%89%EC%A0%90-%ED%9B%84%EA%B8%B0',
+      href: '/netflix-movie-recommend-overseas-reaction-rating-review/',
       text: '넷플릭스 영화 추천 무도실무관 볼만한가? 영어 제목 뜻 해외 반응 평점 후기'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%88%9C%EC%9C%84-%EB%85%B8-%EC%9B%A8%EC%9D%B4-%EC%97%85-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%9E%AC%EB%B0%8C%EB%8A%94-%EC%98%81%ED%99%94%EC%9D%BC%EA%B9%8C-%EB%85%B8-%EC%8A%A4%ED%8F%AC-%ED%8C%A9%ED%8A%B8%EC%B2%B4%ED%81%AC',
+      href: '/netflix-movie-ending-review/',
       text: '넷플릭스 영화 순위 노 웨이 업 결말 후기 리뷰 볼만한 재밌는 영화일까 노 스포 팩트체크'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%A0%88%EB%B8%94%EB%A6%AC%EC%A7%80-%EC%98%81%EC%96%B4%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9D%98%EB%AF%B8%EC%99%80-%ED%8F%89%EC%A0%90-%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91',
+      href: '/netflix-movie-recommend-rating/',
       text: '넷플릭스 영화 추천 레블리지 영어제목 뜻 의미와 평점 | 현재상영작'
     },
     {

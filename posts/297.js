@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91-%EC%88%9C%EC%9C%84-1%EC%9C%84-%EB%B2%A0%ED%85%8C%EB%9E%91-2-%EC%98%88%EB%A7%A4%ED%95%A0%EA%B9%8C-%EC%98%81%EC%96%B4-%EC%A0%9C%EB%AA%A9-%EB%9C%BB%EA%B3%BC-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%EB%B0%98%EC%9D%91',
+      href: '/overseas-rating-reaction/',
       text: '현재상영작 순위 1위 베테랑 2 예매할까? 영어 제목 뜻과 해외 평점 로튼 토마토 반응'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%98%84%EC%9E%AC-%EC%83%81%EC%98%81%EC%9E%91-%EC%B6%94%EC%B2%9C-%EC%98%81%ED%99%94-%EC%8A%A4%ED%94%BD-%EB%85%B8-%EC%9D%B4%EB%B8%94-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%98%88%EB%A7%A4%ED%95%A0%EA%B9%8C-%EB%A7%90%EA%B9%8C-%EC%8A%A4%ED%8F%AC-%ED%8F%AC%ED%95%A8-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91',
+      href: '/recommend-movie-plot-critic-rating-reaction/',
       text: '현재 상영작 추천 영화 스픽 노 이블 제목 뜻 예매할까 말까 | 스포 포함 줄거리 내용 평론가 평'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC%EC%95%84%EB%90%98-%EC%98%88%EB%A7%A4-%ED%95%A0%EC%A7%80-%EB%A7%90%EC%A7%80-%EC%A0%95%ED%95%B4%EB%93%9C%EB%A6%BC-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%85%B8-%EC%8A%A4%ED%8F%AC-%EB%A6%AC%EB%B7%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/ending-review-guide/',
       text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
     },
     {

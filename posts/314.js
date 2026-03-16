@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EB%A0%88%EB%B8%94%EB%A6%AC%EC%A7%80-%ED%9B%84%EA%B8%B0-%EA%B2%B0%EB%A7%90-%EB%A6%AC%EB%B7%B0-%EB%A1%9C%ED%8A%BC-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%B0%98%EC%9D%91-%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91',
+      href: '/netflix-movie-review-ending-critic-reaction/',
       text: '넷플릭스 영화 레블리지 후기 결말 리뷰 로튼 평론가 반응 현재상영작'
     },
     {

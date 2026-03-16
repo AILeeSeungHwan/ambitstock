@@ -3,12 +3,12 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A2%85%ED%95%A9-%EC%8B%9C%EC%B2%AD%EB%A5%A0-1%EC%9C%84-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%88%98%EC%A7%80%EB%A7%9E%EC%9D%80-%EC%9A%B0%EB%A6%AC-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%B0%8F-%EC%9D%B8%EB%AC%BC%EA%B4%80%EA%B3%84%EB%8F%84-%EC%B5%9C%EC%8B%A0-%ED%99%94-%EC%A0%95%EB%B3%B4-%ED%95%A8%EC%9D%80%EC%A0%95-%EC%A3%BC%EC%97%B0',
+      href: '/drama-plot-종합-시청률-위/',
       text: '[종합 시청률 1위 드라마] <수지맞은 우리> 줄거리 및 인물관계도 최신 화 정보 함은정 주연'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%95%9C%EC%B1%84%EC%98%81-%ED%95%9C%EB%B3%B4%EB%A6%84-%EC%A3%BC%EC%97%B0-KBS2-%EC%9D%BC%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%8A%A4%EC%BA%94%EB%93%A4-%EC%A0%95%EB%B3%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC-1%ED%99%94-2%ED%99%94-3%ED%99%94-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%9D%B8%EB%AC%BC%EA%B4%80%EA%B3%84%EB%8F%84-%EC%8B%9C%EC%B2%AD%EB%A5%A0',
+      href: '/drama-guide-plot-kbs2/',
       text: '한채영 한보름 주연 KBS2 일일드라마 스캔들 정보 총정리 | 1화 2화 3화 줄거리 인물관계도 시청률'
     },
     {

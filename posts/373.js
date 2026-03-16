@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91-%EC%98%81%ED%99%94-%ED%8C%8C%EC%9D%BC%EB%9F%BF-%EC%84%B1%EC%B0%A8%EB%B3%84-%EB%85%BC%EB%9E%80-%EC%9D%B4%EC%8A%88-%ED%9B%84%EA%B8%B0%EC%99%80-%ED%8F%89%EC%A0%90-%EC%BF%A0%ED%82%A4-%EC%A0%95%EB%B3%B4',
+      href: '/movie-review-rating/',
       text: '현재상영작 영화 파일럿 성차별 논란 이슈 후기와 평점 쿠키 정보'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
     {

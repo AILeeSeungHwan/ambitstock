@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>지브리 스튜디오 역대 애니메이션 중, 로튼 토마토에서 평론가들에게 가장 높은 평가를 받은 인기 순위 11편을 정리해드립니다.</b></span></p><p>지브리의 총 25개 작품 중 로튼 토마토 신선도 보증마크를 획득한 작품들만 선별했으며, 평점 순으로 11위부터 1위까지 소개해드립니다.</p><p>전체 작품의 평점 순위를 보고 싶으신 분들은 댓글로 알려주시면, 다음 포스팅에서 상세히 다뤄드리겠습니다.</p><div><center><a href=&quot;https://ambitstock.com/entry/%EC%9D%BC%EB%B3%B8-%EC%98%A4%EC%82%AC%EC%B9%B4-%EB%82%A8%EC%9E%90-%ED%98%BC%EC%9E%90-%EC%97%AC%ED%96%89-%EA%B0%80%EA%B8%B0%EC%A0%84-%EC%97%AD%EB%8C%80-%EC%A7%80%EB%B8%8C%EB%A6%AC-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EB%BF%8C%EC%88%98%EA%B8%B0-1&quot; title=&quot;역대 지브리 애니메이션 시리즈&quot;><button class=&quot;primary&quot;>역대 지브리 애니메이션 보러가기</button></a></center></div><p style=&quot;text-align: center;&quot;>지브리 애니메이션 모든 작품 개봉 순서대로</p><p style=&quot;text-align: center;&quot;>총 25작품이 궁금하신 분들은 지난 시리즈를 참고하시길 바랍니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>지브리 스튜디오 역대 애니메이션 중, 로튼 토마토에서 평론가들에게 가장 높은 평가를 받은 인기 순위 11편을 정리해드립니다.</b></span></p><p>지브리의 총 25개 작품 중 로튼 토마토 신선도 보증마크를 획득한 작품들만 선별했으며, 평점 순으로 11위부터 1위까지 소개해드립니다.</p><p>전체 작품의 평점 순위를 보고 싶으신 분들은 댓글로 알려주시면, 다음 포스팅에서 상세히 다뤄드리겠습니다.</p><div><center><a href=&quot;/ title=&quot;역대 지브리 애니메이션 시리즈&quot;><button class=&quot;primary&quot;>역대 지브리 애니메이션 보러가기</button></a></center></div><p style=&quot;text-align: center;&quot;>지브리 애니메이션 모든 작품 개봉 순서대로</p><p style=&quot;text-align: center;&quot;>총 25작품이 궁금하신 분들은 지난 시리즈를 참고하시길 바랍니다.</p>'
     },
     {
       type: 'image',

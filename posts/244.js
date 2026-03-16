@@ -41,7 +41,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EA%B3%B5%ED%8F%AC%EC%98%81%ED%99%94-%EB%8A%98%EB%B4%84%EA%B0%80%EB%93%A0-%EC%98%88%EB%A7%A4-%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%8B%A4%EC%A0%9C-%ED%9D%89%EA%B0%80-%EC%9E%A5%EC%86%8C-%EC%9C%84%EC%B9%98%EC%99%80-%EC%8B%A4%ED%99%94-%EA%B4%B4%EB%8B%B4-%ED%9B%84%EA%B8%B0%EC%99%80-%ED%8F%89%EC%A0%90-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90',
+      href: '/movie-horror-review-rating/',
       text: '공포영화 늘봄가든 예매 하기 전 실제 흉가 장소 위치와 실화 괴담 | 후기와 평점 리뷰를 알아보'
     },
     {
@@ -80,7 +80,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%9D%B4%EB%A7%A4%EC%A7%80%EB%84%88%EB%A6%AC-%EB%9C%BB-%EB%A1%9C%ED%8A%BC-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90%EA%B3%BC-%EB%B0%98%EC%9D%91-%EC%98%AC%ED%95%B4-%EA%B3%B5%ED%8F%AC%EB%8A%94-%EB%8B%A4-%EC%A3%BD%EC%97%88%EB%8B%A4',
+      href: '/movie-overseas-rating-reaction-horror/',
       text: '영화 이매지너리 뜻 로튼 해외 평점과 반응 | 올해 공포는 다 죽었다'
     },
     {
@@ -115,7 +115,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9A%94%EC%A6%98-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%99%9C%EC%9D%B4%EB%9E%98-%EB%94%9C%EB%A6%AC%EB%B2%84%EB%9F%B0%EC%8A%A4-%EB%9C%BB-%EC%9D%98%EB%AF%B8-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90%EA%B3%BC-%ED%9B%84%EA%B8%B0-%EB%B0%98%EC%9D%91-%EA%B3%B5%ED%8F%AC',
+      href: '/netflix-movie-overseas-rating-review-reaction-horror/',
       text: '요즘 넷플릭스 영화 왜이래 | 딜리버런스 뜻 의미 해외 평점과 후기 반응 (공포)'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
@@ -147,7 +147,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EA%B3%B5%ED%8F%AC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%8A%A4%ED%94%BD-%EB%85%B8-%EC%9D%B4%EB%B8%94-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%B0%98%EC%9D%91-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EB%8D%B4%EB%A7%88%ED%81%AC-%EC%9B%90%EC%9E%91-%ED%98%84%EC%9E%AC-%EC%83%81%EC%98%81%EC%9E%91',
+      href: '/horror-movie-recommend-overseas-critic-ending-review-reaction/',
       text: '공포 영화 추천 스픽 노 이블 해외 평론가 결말 후기 반응 총정리! 덴마크 원작 현재 상영작'
     },
     {
@@ -174,7 +174,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8C%8C%EB%AC%98-%EC%98%A4%EC%BB%AC%ED%8A%B8-%EB%9C%BB%EA%B3%BC-%EC%9E%A5%EC%9E%AC%ED%98%84%EC%84%B8%EA%B3%84%EA%B4%80-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-%EA%B0%9C%EB%B4%89%ED%9B%84-%EA%B4%80%EA%B0%9D%EC%88%98-%EC%8A%A4%ED%8F%AC%ED%8F%AC%ED%95%A8-%ED%9B%84%EA%B8%B0-%EC%A0%95%EB%B3%B4-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%A6%AC%EB%B7%B0-%EA%B2%B0%EB%A7%90-%ED%95%B4%EC%84%9D-%EC%A0%84%EC%9E%91-OTT-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4',
+      href: '/',
       text: '[영화 파묘 오컬트 뜻 반일논란] 명작에 때 아닌 정치색 전쟁 - 스포포함 결말 해석 후기리뷰 현'
     },
     {
@@ -205,7 +205,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%95%85%EC%9D%B4-%EB%8F%84%EC%82%AC%EB%A6%AC%EA%B3%A0-%EC%9E%88%EC%9D%84-%EB%95%8C-%ED%95%B4%EC%99%B8-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EC%95%84%EB%A7%88-%EC%98%AC%ED%95%B4-%EA%B3%B5%ED%8F%AC-%EC%98%81%ED%99%94-%EC%A4%91-%EC%B5%9C%EA%B3%A0-%EC%9E%91%ED%92%88',
+      href: '/overseas-critic-rating-reaction-horror-movie/',
       text: '악이 도사리고 있을 때 해외 시사회 평론가 로튼 토마토 평점 반응 | 아마 올해 공포 영화 중 최'
     },
     {
@@ -240,12 +240,12 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%8A%A4%EB%A7%88%EC%9D%BC-2-%EB%B3%B4%EA%B8%B0-%EC%A0%84-%ED%95%B4%EC%99%B8-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%9B%84%EA%B8%B0-%EA%B4%80%EB%9E%8C%ED%8F%89-%EA%B2%B0%EB%A7%90-%EB%B0%98%EC%9D%91-%EC%98%AC%ED%95%B4-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EA%B3%B5%ED%8F%AC-%EC%98%81%ED%99%94-%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91',
+      href: '/overseas-review-ending-reaction-horror-movie/',
       text: '스마일 2 보기 전 해외 시사회 후기 관람평 결말 반응 | 올해 최고의 공포 영화 현재상영작'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%8A%A4%EB%A7%88%EC%9D%BC-%EC%99%9C-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EC%83%81%EC%9C%84-%EA%B8%B0%EB%8C%80%EC%9E%91%EC%9D%B8%EA%B0%80-%EC%A0%84%EC%9E%91%EC%9D%98-%ED%8F%89%EA%B0%80%EB%A5%BC-%EB%B3%B4%EB%A9%B4-%EB%8B%B5%EC%9D%B4-%EC%9E%88%EB%8B%A4-1%ED%8E%B8-%EB%A1%9C%ED%8A%BC%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EC%A0%90-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0',
+      href: '/movie-rating-ending-review/',
       text: '영화 스마일 왜 인기 순위 상위 기대작인가? 전작의 평가를 보면 답이 있다. 1편 로튼토마토 평점'
     },
     {
@@ -276,7 +276,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%97%90%EC%9D%BC%EB%A6%AC%EC%96%B8-%EB%A1%9C%EB%AC%BC%EB%A3%A8%EC%8A%A4-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EB%AF%B8%EC%B9%9C-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91%EA%B3%BC-%ED%9B%84%EA%B8%B0-%EC%B6%9C%EC%97%B0%EC%A7%84-%EC%A0%95%EB%B3%B4',
+      href: '/overseas-reaction-review/',
       text: '에일리언 로물루스 시사회 미친 해외 반응과 후기 출연진 쿠키 정보'
     },
     {
@@ -301,17 +301,17 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2025%EB%85%84-1%EC%9B%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%88%9C%EC%9C%84-TOP10',
+      href: '/release-upcoming-guide-movie-recommend-top10/',
       text: '2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2025%EB%85%84-%ED%95%9C%EA%B5%AD-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-release-upcoming-guide/',
       text: '2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EC%B2%AD%EA%B0%80%EB%8A%A5-%EC%9D%B4%EB%8F%99%EC%A7%84-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%95%9C%EC%A4%84%ED%8F%89-%EC%B6%94%EC%B2%9C%EC%9E%91%ED%92%88',
+      href: '/movie-drama-recommend-netflix/',
       text: '볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

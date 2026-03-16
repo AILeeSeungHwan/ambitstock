@@ -132,17 +132,17 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2025-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EA%B3%B5%EA%B0%9C%EC%98%88%EC%A0%95%EC%9E%91-TOP-7%EF%BD%9C%ED%95%9C%EA%B5%AD-%EA%B8%B0%EB%8C%80%EC%9E%91-%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C-%EC%8B%B9-%EB%AA%A8%EC%95%98%EB%8B%A4',
+      href: '/netflix-upcoming-top-7/',
       text: '2025 넷플릭스 공개예정작 TOP 7｜한국 기대작 중심으로 싹 모았다'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%BF%A0%EC%97%94%ED%8B%B4%ED%83%80%EB%9E%80%ED%8B%B0%EB%85%B8-%ED%95%84%EB%AA%A8%EA%B7%B8%EB%9E%98%ED%94%BC-%EC%88%98%EC%83%81%EC%9E%91%ED%92%88-%ED%8F%89%EC%A0%90-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-TOP-9',
+      href: '/movie-recommend-rating-top-9/',
       text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

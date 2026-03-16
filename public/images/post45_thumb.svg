@@ -1,6 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <rect width="1200" height="630" fill="#1a73e8"/>
-  <text x="600" y="250" font-family="Arial, sans-serif" font-size="68" font-weight="bold" fill="white" text-anchor="middle">반전 영화 추천 TOP 10</text>
-  <text x="600" y="350" font-family="Arial, sans-serif" font-size="48" fill="#FFD700" text-anchor="middle">결말에 소름 돋는 작품들</text>
-  <text x="600" y="440" font-family="Arial, sans-serif" font-size="34" fill="rgba(255,255,255,0.7)" text-anchor="middle">스포일러 없는 추천 가이드</text>
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="100%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a0030"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,229,255,0.06)"/>
+  <circle cx="300" cy="200" r="160" fill="rgba(179,71,255,0.10)"/>
+  <circle cx="900" cy="430" r="130" fill="rgba(0,229,255,0.08)"/>
+  <text x="600" y="268" text-anchor="middle" font-size="90" font-weight="900" fill="#b347ff" font-family="Pretendard, sans-serif">주술회전</text>
+  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(0,229,255,0.95)" font-family="Pretendard, sans-serif">총정리</text>
+  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
 </svg>

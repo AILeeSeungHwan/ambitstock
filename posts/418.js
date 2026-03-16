@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%8B%9C%EB%A6%AC%EC%A6%88-%EA%B0%9C%EB%B4%89-%EC%A0%84-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%BD%B0%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-%EC%9E%AC%EB%B0%8C%EB%82%98%EC%9A%94',
+      href: '/series-release-movie-recommend/',
       text: '[시리즈 개봉 전 볼만한 영화 추천] 콰이어트 플레이스 재밌나요?'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%BD%B0%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-3-%EC%B2%AB%EC%A7%B8%EB%82%A0-%EA%B0%9C%EB%B4%89-%EC%A0%84-%EB%82%A8%EB%93%A4%EB%B3%B4%EB%8B%A4-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EB%8A%94-%EC%98%88%EA%B3%A0%ED%8E%B8-%EC%B6%9C%EC%97%B0%EC%A7%84-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C',
+      href: '/release-plot-upcoming-movie-recommend/',
       text: '콰이어트 플레이스: 첫째 날 글로 보는 영화 | 출연진 줄거리 완벽 정리 | 현재 상영작'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/JTBC-%EC%97%AD%EB%8C%80-%EC%8B%9C%EC%B2%AD%EB%A5%A0-%EC%88%9C%EC%9C%84-TOP10-OTT-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C',
+      href: '/netflix-drama-recommend-jtbc-top10-ott/',
       text: 'JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천'
     },
     {
@@ -58,15 +58,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EC%8B%9C%EB%A6%AC%EC%A6%88-%EA%B0%9C%EB%B4%89-%EC%A0%84-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%BD%B0%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-%EC%9E%AC%EB%B0%8C%EB%82%98%EC%9A%94&quot; target=&quot;_self&quot; title=&quot;콰이어트 플레이스 1&quot;><span>[시리즈 개봉 전 볼만한 영화 추천] 콰이어트 플레이스 재밌나요?</span></a></p>'
+      html: '<p><a href=&quot;/ target=&quot;_self&quot; title=&quot;콰이어트 플레이스 1&quot;><span>[시리즈 개봉 전 볼만한 영화 추천] 콰이어트 플레이스 재밌나요?</span></a></p>'
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EC%BD%B0%EC%9D%B4%EC%96%B4%ED%8A%B8-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-3-%EC%B2%AB%EC%A7%B8%EB%82%A0-%EA%B0%9C%EB%B4%89-%EC%A0%84-%EB%82%A8%EB%93%A4%EB%B3%B4%EB%8B%A4-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EB%8A%94-%EC%98%88%EA%B3%A0%ED%8E%B8-%EC%B6%9C%EC%97%B0%EC%A7%84-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C&quot; target=&quot;_self&quot; title=&quot;콰이어트 플레이스 3&quot;><span>콰이어트 플레이스: 첫째 날 글로 보는 영화 | 출연진 줄거리 완벽 정리 | 현재 상영작</span></a></p>'
+      html: '<p><a href=&quot;/ target=&quot;_self&quot; title=&quot;콰이어트 플레이스 3&quot;><span>콰이어트 플레이스: 첫째 날 글로 보는 영화 | 출연진 줄거리 완벽 정리 | 현재 상영작</span></a></p>'
     },
     {
       type: 'ending',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/JTBC-%EC%97%AD%EB%8C%80-%EC%8B%9C%EC%B2%AD%EB%A5%A0-%EC%88%9C%EC%9C%84-TOP10-OTT-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C&quot; target=&quot;_self&quot; title=&quot;jtbc 넷플릭스 드라마 추천&quot;><span>JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천</span></a></p>'
+      html: '<p><a href=&quot;/ target=&quot;_self&quot; title=&quot;jtbc 넷플릭스 드라마 추천&quot;><span>JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천</span></a></p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

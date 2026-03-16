@@ -1,6 +1,15 @@
 <svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="630" fill="#6a1b9a"/>
-  <text x="600" y="230" text-anchor="middle" fill="white" font-size="60" font-weight="bold" font-family="sans-serif">원피스 실사 시즌2</text>
-  <text x="600" y="330" text-anchor="middle" fill="#FFD700" font-size="56" font-weight="bold" font-family="sans-serif">기대 포인트 총정리</text>
-  <text x="600" y="430" text-anchor="middle" fill="white" font-size="40" font-family="sans-serif">드라마 | 넷플릭스</text>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#000000"/>
+      <stop offset="100%" style="stop-color:#200010"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(255,0,0,0.07)"/>
+  <rect x="80" y="75" width="1060" height="4" rx="2" fill="rgba(255,0,0,0.45)"/>
+  <rect x="80" y="551" width="1060" height="4" rx="2" fill="rgba(255,0,0,0.45)"/>
+  <text x="600" y="268" text-anchor="middle" font-size="92" font-weight="900" fill="#ff0000" font-family="Pretendard, sans-serif">반전 영화</text>
+  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">결말 충격</text>
+  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
 </svg>

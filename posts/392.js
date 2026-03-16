@@ -21,22 +21,22 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%9D%B4%EB%8F%99%EC%A7%84-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EC%88%9C%EC%9C%84-TOP-20-2025',
+      href: '/netflix-movie-recommend-critic-top-20-2025/',
       text: '넷플릭스 영화 추천 이동진 박평식 평론가 순위 TOP 20, 2025'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2025%EB%85%84-1%EC%9B%94-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%88%9C%EC%9C%84-TOP10',
+      href: '/release-upcoming-guide-movie-recommend-top10/',
       text: '개봉예정영화 2025년 1월 추천 순위 총정리 TOP10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91-%EC%98%81%ED%99%94-%EC%98%88%EB%A7%A4-%EC%88%9C%EC%9C%84-%EA%B4%80%EA%B0%9D%EC%88%98-2025%EB%85%84-1%EC%9B%94-TOP10',
+      href: '/movie-audience-top10-2/',
       text: '현재상영작 영화 예매 순위 관객수 2025년 1월 TOP10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-2025%EB%85%84-%ED%95%9C%EA%B5%AD-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%9E%91-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-series-release-upcoming-guide/',
       text: '넷플릭스 영화 추천 시리즈 2025년 한국 개봉예정작 총정리!'
     },
     {
@@ -61,7 +61,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EA%B0%80%EC%A1%B1%EC%9D%B4%EB%9D%BC%EC%84%9C-%EB%AC%B8%EC%A0%9C%EC%9E%85%EB%8B%88%EB%8B%A4-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94%EC%9D%B8%EA%B0%80-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%A6%AC%EB%B7%B0-%EB%B0%98%EC%9D%91',
+      href: '/netflix-movie-overseas-rating-review-reaction-2/',
       text: '넷플릭스 영화 <가족이라서 문제입니다> 볼만한 영화인가? 해외 평점 리뷰 반응'
     },
     {
@@ -98,7 +98,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%8A%88%ED%8D%BC-%ED%9E%88%EC%96%B4%EB%A1%9C%EC%99%80-%EB%82%A8%EB%9F%B0%EB%8D%98%EC%9D%98-%EB%A7%8C%EB%82%A8-%EC%8A%88%ED%8D%BC-%EC%85%80-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90%EA%B3%BC-%EB%A6%AC%EB%B7%B0-%EB%B0%98%EC%9D%91-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/overseas-rating-review-reaction-guide/',
       text: '넷플릭스 오리지널 시리즈 드라마 추천 <슈퍼 셀> | 해외 평점과 리뷰 반응 총정리'
     },
     {
@@ -131,7 +131,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%8C%93%EA%B8%80%EB%B6%80%EB%8C%80-%EB%B3%BC%EA%B9%8C%EB%A7%90%EA%B9%8C-%EC%8B%A4%ED%99%94%EA%B8%B0%EB%B0%98-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%ED%8F%89%EC%A0%90-%EA%B2%B0%EB%A7%90%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0',
+      href: '/netflix-movie-recommend-overseas-reaction-rating-review-ending/',
       text: '넷플릭스 영화 추천 댓글부대 볼까말까 | 실화기반 해외 반응 평점 결말후기 리뷰'
     },
     {
@@ -164,7 +164,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%B9%84%EB%B2%84%EB%A6%AC-%ED%9E%90%EC%A6%88-%EC%BA%85-%EC%97%91%EC%85%80-F-4-%EB%B3%BC%EB%A7%8C-%ED%95%9C%EC%A7%80-%EB%94%B1-%EC%A0%95%ED%95%B4%EC%A4%8C-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-1%EC%9C%84-%ED%8F%89%EC%A0%90-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EC%B0%A8%EA%B8%B0%EC%9E%91',
+      href: '/',
       text: '비버리 힐스 캅: 엑셀 F 4 볼만 한지 딱 정해줌 - 넷플릭스 영화 추천 인기 순위 1위 | 평점 결말 후'
     },
     {
@@ -189,7 +189,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%ED%8C%8C%EB%AC%98-%EA%B3%B5%EA%B0%9C%EC%9E%84%EB%B0%95-%ED%8F%89%EB%A1%A0%EA%B0%80-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EB%A6%AC%EB%B7%B0-OTT-%EC%98%81%ED%99%94-%EC%9D%B8%EA%B8%B0%EC%88%9C%EC%9C%84',
+      href: '/netflix-critic-movie-recommend-overseas-rating-reaction-review/',
       text: '넷플릭스 파묘 공개임박! 평론가 영화 추천 해외 평점 반응 후기 리뷰 - OTT 영화 인기순위'
     },
     {
@@ -222,7 +222,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%B5%9C%EC%95%A0%EC%9D%98-%EC%95%84%EC%9D%B4-%EC%8B%9C%EC%A6%8C-2%EA%B8%B0-%EC%9D%BC%EB%B3%B8-%ED%98%84%EC%A7%80-%EB%B0%98%EC%9D%91-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%A6%AC%EB%B7%B0-OTT-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EB%8A%94%EA%B3%B3-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/season-reaction-overseas-rating-review-guide-ott/',
       text: '최애의 아이 2기 역대급 애니메이션 오프닝 일본 현지 반응과 후기, 해외 평점 리뷰 보는곳 총정'
     },
     {
@@ -247,7 +247,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EB%B4%84%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A7%84-%EC%84%B8%EA%B3%84-%ED%8F%89%EC%A0%90-%EA%B2%B0%EB%A7%90-%ED%8F%AC%ED%95%A8-%ED%95%B4%EC%99%B8%EB%A6%AC%EB%B7%B0-%EC%98%81%EC%96%B4-%EC%9D%BC%EB%B3%B8%EC%96%B4-%EC%A0%9C%EB%AA%A9-%EB%9C%BB',
+      href: '/netflix-movie-rating-ending-review-overseas/',
       text: '넷플릭스 영화 봄이 사라진 세계 평점 결말 포함 해외 후기 리뷰반응 | 영어 일본어 제목 뜻'
     },
     {
@@ -272,7 +272,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EA%B4%B4%EC%88%98-8%ED%98%B8-2%EA%B8%B0-%EC%A0%9C%EC%9E%91-%ED%99%95%EC%A0%95-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%8F-%EB%A6%AC%EB%B7%B0-%EB%B0%98%EC%9D%91-%EC%A0%95%EB%B3%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%B6%94%EC%B2%9C-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84',
+      href: '/overseas-rating-review-reaction-guide-netflix-animation-recommend/',
       text: '괴수 8호 시즌 2기 제작 확정! 해외 평점 및 리뷰 반응 정보 총정리 | 넷플릭스 볼만한 애니메이션'
     },
     {
@@ -297,7 +297,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%93%9C%EB%9D%BC%EB%A7%88-%EB%8F%8C%ED%92%8D-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%ED%95%B4%EC%99%B8-%EB%A6%AC%EB%B7%B0-%EB%B0%98%EC%9D%91%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90',
+      href: '/netflix-drama-ending-review-overseas-reaction/',
       text: '넷플릭스 드라마 돌풍 결말 후기 해외 리뷰 반응을 알아보자.'
     },
     {
@@ -322,7 +322,7 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%8A%A4%EC%9C%84%ED%8A%B8-%ED%99%88-%EC%8B%9C%EC%A6%8C3-%EA%B3%B5%EA%B0%9C%EC%9D%BC-%EC%9E%84%EB%B0%95-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9D%B4%EC%A0%84-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EC%9A%94%EC%95%BD-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC-%ED%8B%B0%EC%A0%80-%EC%98%88%EA%B3%A0%ED%8E%B8',
+      href: '/season-netflix-series-plot/',
       text: '스위트 홈 시즌3 공개일 임박! 넷플릭스 시리즈 이전 줄거리 요약 등장인물 티저 예고편'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

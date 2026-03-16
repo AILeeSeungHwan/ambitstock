@@ -3,17 +3,17 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%B6%A9%EA%B2%A9%EC%A0%81-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%BA%A1%ED%8B%B4-%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4-%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8-%EB%8B%A5%ED%84%B0-%EB%91%A0-2025%EB%85%84-%EB%94%94%EC%A6%88%EB%8B%88%EC%9D%98-%EB%A7%88%EB%B8%94-%EB%85%BC%EB%9E%80-%EC%9D%B4%EC%8A%88',
+      href: '/disney-marvel-충격적-새로운-캡틴/',
       text: '충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EB%89%B4%EC%8A%A4-%EC%B0%A8%EA%B8%B0-%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8%EC%9D%80-%ED%9D%91%EC%9D%B8-%EC%97%AC%EC%84%B1%EC%9D%B4%EB%8B%A4-%EB%94%94%EC%A6%88%EB%8B%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%95%84%EC%9D%B4%EC%96%B8-%ED%95%98%ED%8A%B8-%EA%B3%B5%EA%B0%9C-%EB%85%BC%EB%9E%80-%EB%91%90%EA%B0%80%EC%A7%80',
+      href: '/marvel-disney-series/',
       text: '[마블 뉴스] 차기 아이언맨은 흑인 여성이다 - 디즈니 플러스 시리즈 아이언 하트 공개 논란 두가'
     },
     {

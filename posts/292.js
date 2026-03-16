@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%AF%B8%ED%82%A4-17-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9B%90%EC%9E%91-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%ED%95%B4%EC%84%9D-2025%EB%85%84-%EC%B5%9C%EA%B3%A0-%EA%B8%B0%EB%8C%80%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%98%81%ED%99%94',
+      href: '/plot-analysis-movie-release-upcoming/',
       text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
     },
     {

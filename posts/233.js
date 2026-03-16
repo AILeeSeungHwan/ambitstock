@@ -3,27 +3,27 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%96%B4%ED%94%84%EB%A0%8C%ED%8B%B0%EC%8A%A4-The-Apprentice-%EB%9C%BB-%EC%9D%98%EB%AF%B8-%ED%95%B4%EC%84%9D-%ED%8A%B8%EB%9F%BC%ED%94%84-%EC%9D%BC%EB%8C%80%EA%B8%B0-%EB%AF%B8%EA%B5%AD-%EC%B0%A8%EA%B8%B0-%EB%8C%80%ED%86%B5%EB%A0%B9-%ED%9B%84%EB%B3%B4-%EA%B7%B8%EB%8A%94-%EA%B4%B4%EB%AC%BC%EC%9D%B8%EA%B0%80-%EA%B1%B0%EC%9D%B8%EC%9D%B8%EA%B0%80',
+      href: '/',
       text: '어프렌티스 The Apprentice 뜻 의미 해석 | 트럼프 일대기 미국 차기 대통령 후보 그는 괴물인가 거인'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%96%B4%ED%94%84%EB%A0%8C%ED%8B%B0%EC%8A%A4-%EB%B0%B0%EA%B2%BD-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%B0%98%EC%9D%91-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EB%AF%B8%EA%B5%AD-%EB%8C%80%EC%84%A0-%ED%8A%B8%EB%9F%BC%ED%94%84-%EC%A0%84%EA%B8%B0%EB%A5%BC-%EB%8B%A4%EB%A3%AC-%ED%99%94%EC%A0%9C%EC%9E%91-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%EC%8B%A0%EC%84%A0%EB%8F%84-%EB%B3%B4%EC%A6%9D',
+      href: '/',
       text: '영화 어프렌티스 배경 해외 평점 평론가 반응 인기 순위 | 미국 대선 트럼프 전기를 다룬 화제작'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-guide-top-10/',
       text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC%EC%95%84%EB%90%98-%EC%98%88%EB%A7%A4-%ED%95%A0%EC%A7%80-%EB%A7%90%EC%A7%80-%EC%A0%95%ED%95%B4%EB%93%9C%EB%A6%BC-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%85%B8-%EC%8A%A4%ED%8F%AC-%EB%A6%AC%EB%B7%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/ending-review-guide/',
       text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
     {

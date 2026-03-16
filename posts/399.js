@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EA%B4%B4%EC%88%98-8%ED%98%B8-2%EA%B8%B0-%EC%A0%9C%EC%9E%91-%ED%99%95%EC%A0%95-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%8F-%EB%A6%AC%EB%B7%B0-%EB%B0%98%EC%9D%91-%EC%A0%95%EB%B3%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%B6%94%EC%B2%9C-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84',
+      href: '/overseas-rating-review-reaction-guide-netflix-animation-recommend/',
       text: '괴수 8호 시즌 2기 제작 확정! 해외 평점 및 리뷰 반응 정보 총정리 | 넷플릭스 볼만한 애니메이션'
     },
     {
@@ -36,7 +36,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EA%B4%B4%EC%88%98-8%ED%98%B8-2%EA%B8%B0-%EC%A0%9C%EC%9E%91-%ED%99%95%EC%A0%95-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%EB%B0%8F-%EB%A6%AC%EB%B7%B0-%EB%B0%98%EC%9D%91-%EC%A0%95%EB%B3%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%B6%94%EC%B2%9C-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;>괴수 8호 시즌 2기 제작 확정! 해외 평점 및 리뷰 반응 정보 총정리 | 넷플릭스 볼만한 애니메이션 추천 인기 순위</a></p>'
+      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>괴수 8호 시즌 2기 제작 확정! 해외 평점 및 리뷰 반응 정보 총정리 | 넷플릭스 볼만한 애니메이션 추천 인기 순위</a></p>'
     },
     {
       type: 'body',

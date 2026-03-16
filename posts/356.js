@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%95%84%EC%BC%80%EC%9D%B8-%EC%8B%9C%EC%A6%8C2%EA%B8%B0-%EC%8A%A4%ED%8F%AC-%EC%9C%A0%EC%B6%9C-%EA%B3%B5%EA%B0%9C%EC%9D%BC-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%B3%B4%EC%95%88-%EC%B9%A8%ED%95%B4-%EC%82%AC%EA%B1%B4-%EA%B3%B5%EC%8B%9D-%EC%98%88%EA%B3%A0%ED%8E%B8',
+      href: '/season-netflix-아케인-기/',
       text: '아케인 시즌2기 스포 유출 공개일 넷플릭스 보안 침해 사건 공식 예고편'
     },
     {

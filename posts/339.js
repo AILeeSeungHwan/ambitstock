@@ -3,47 +3,47 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EC%98%81%ED%99%94-%EC%A4%91-%EA%BC%B4%EC%B0%8C-%ED%85%8C%EB%84%B7-%ED%95%B4%EC%99%B8-%EB%A1%9C%ED%8A%BC%ED%86%A0%EB%A7%88%ED%86%A0-IMDB-%ED%8F%89%EC%A0%90%EC%9D%80-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%8B%9C%EC%B2%AD%EA%B0%80%EB%8A%A5',
+      href: '/movie-overseas-rating-netflix-imdb/',
       text: '크리스토퍼 놀란 영화 중 꼴찌! 테넷 해외 로튼토마토 IMDB 평점은? 넷플릭스 시청가능'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%9D%B8%ED%84%B0%EC%8A%A4%ED%85%94%EB%9D%BC-%EB%9C%BB-%EA%B2%B0%EB%A7%90-%ED%95%B4%EC%84%9D-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EA%B0%90%EB%8F%85-%EC%8B%9C%EB%A6%AC%EC%A6%88-2',
+      href: '/movie-ending-analysis-series/',
       text: '영화 인터스텔라 뜻 결말 해석 완전 정복 크리스토퍼 놀란 감독 시리즈-2'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%9D%B8%EC%85%89%EC%85%98-%EB%9C%BB-%EA%B2%B0%EB%A7%90-%ED%95%B4%EC%84%9D-%EB%A6%AC%EB%B7%B0-%EC%BD%94%EB%B8%8C%EB%8A%94-%EC%9E%90%EC%9C%A0%EB%A5%BC-%EC%B0%BE%EC%95%98%EB%8A%94%EA%B0%80-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EC%8B%9C%EB%A6%AC%EC%A6%88-3',
+      href: '/movie-ending-analysis-review-series/',
       text: '영화 인셉션 뜻 결말 해석 리뷰 - 코브는 자유를 찾았는가 크리스토퍼 놀란 시리즈-3'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%9D%B8%EC%85%89%EC%85%98-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-4',
+      href: '/movie-recommend-critic-review-series/',
       text: '크리스토퍼 놀란 영화 추천 인셉션 로튼 토마토 평론가 후기 리뷰 시리즈 3-2'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A9%94%EB%A9%98%ED%86%A0-%EB%9C%BB-%EC%9D%98%EB%AF%B8-%EA%B2%B0%EB%A7%90-%ED%95%B4%EC%84%9D-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B8%B0%EC%96%B5%EC%9D%80-%EC%A7%84%EC%8B%A4-%EB%90%98%EC%97%88%EB%8A%94%EA%B0%80-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-5',
+      href: '/ending-analysis-movie-recommend/',
       text: '메멘토 뜻 의미 결말 해석 | 우리의 기억은 진실 되었는가? 크리스토퍼 놀란 영화 추천 -5'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%AA%85%EC%9E%91-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%B0%ED%8A%B8%EB%A7%A8-%EB%8B%A4%ED%81%AC%EB%82%98%EC%9D%B4%ED%8A%B8-%EB%9C%BB%EA%B3%BC-%EC%9D%98%EB%AF%B8-%EA%B2%B0%EB%A7%90-%ED%95%B4%EC%84%9D-%EB%A6%AC%EB%B7%B0-%EB%B9%9B%EB%B3%B4%EB%8B%A4-%EB%B0%9D%EC%9D%80-%EC%96%B4%EB%91%A0%EC%9D%B4%EC%97%AC-%EB%86%80%EB%9E%80-%EC%8B%9C%EB%A6%AC%EC%A6%88-4',
+      href: '/masterpiece-movie-recommend-ending-analysis-review-series/',
       text: '명작 영화 추천 배트맨 다크나이트 뜻과 의미 결말 해석 리뷰 | 빛보다 밝은 어둠이여 놀란 시리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-guide-top-10/',
       text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {

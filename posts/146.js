@@ -120,11 +120,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><a href=&quot;https://ambitstock.com/entry/%EC%A1%B0%EB%AA%85%EA%B0%80%EA%B2%8C-%ED%95%B4%EC%99%B8-%EB%A6%AC%EB%B7%B0-%EC%8A%A4%ED%8F%AC-%ED%8F%AC%ED%95%A8-%EA%B2%B0%EB%A7%90%ED%9B%84%EA%B8%B0-%EB%94%94%EC%A6%88%EB%8B%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EA%B0%95%ED%92%80-%EC%9B%B9%ED%88%B0-%EC%9B%90%EC%9E%91-%EB%93%9C%EB%9D%BC%EB%A7%88%EC%9D%98-%ED%9D%A5%ED%96%89&quot; rel=&quot;noopener&quot; title=&quot;조명가게 해외 반응 리뷰&quot;>2024.12.21 - [영화/영화 해외반응후기] - 조명가게 해외 리뷰 스포 포함 결말후기 &lt; 디즈니 플러스 강풀 웹툰 원작 드라마의 흥행 &gt;</a></p>'
+      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;조명가게 해외 반응 리뷰&quot;>2024.12.21 - [영화/영화 해외반응후기] - 조명가게 해외 리뷰 스포 포함 결말후기 &lt; 디즈니 플러스 강풀 웹툰 원작 드라마의 흥행 &gt;</a></p>'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EB%AA%85%EA%B0%80%EA%B2%8C-%ED%95%B4%EC%99%B8-%EB%A6%AC%EB%B7%B0-%EC%8A%A4%ED%8F%AC-%ED%8F%AC%ED%95%A8-%EA%B2%B0%EB%A7%90%ED%9B%84%EA%B8%B0-%EB%94%94%EC%A6%88%EB%8B%88-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EA%B0%95%ED%92%80-%EC%9B%B9%ED%88%B0-%EC%9B%90%EC%9E%91-%EB%93%9C%EB%9D%BC%EB%A7%88%EC%9D%98-%ED%9D%A5%ED%96%89',
+      href: '/overseas-review-ending-disney-drama-box-office/',
       text: '조명가게 해외 리뷰 스포 포함 결말후기 < 디즈니 플러스 강풀 웹툰 원작 드라마의 흥행 >'
     },
     {
@@ -139,27 +139,27 @@ const post = {
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%9D%B4%EB%8F%99%EC%A7%84-%ED%8F%89%EB%A1%A0%EA%B0%80%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%98%EB%8A%94-%EB%B3%84-%EB%8B%A4%EC%84%AF%EA%B0%9C-%EB%AA%85%EC%9E%91-%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-TOP-10',
+      href: '/critic-recommend-masterpiece-movie-top-10/',
       text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B0%95%ED%8F%89%EC%8B%9D-%ED%8F%89%EB%A1%A0%EA%B0%80-%EB%AA%85%EC%9E%91-10%EC%84%A0',
+      href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%AF%B8%ED%82%A4-17-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%9B%90%EC%9E%91-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%ED%95%B4%EC%84%9D-2025%EB%85%84-%EC%B5%9C%EA%B3%A0-%EA%B8%B0%EB%8C%80%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%98%88%EC%A0%95%EC%98%81%ED%99%94',
+      href: '/plot-analysis-movie-release-upcoming/',
       text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%95%B4%EB%A6%AC%ED%8F%AC%ED%84%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C-%EC%B6%94%EC%B2%9C-%ED%8F%89%EC%A0%90-TOP-8',
+      href: '/series-recommend-rating-top-8/',
       text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },

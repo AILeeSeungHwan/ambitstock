@@ -3,12 +3,12 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%82%98%EC%9A%B0-%EC%9C%A0-%EC%94%A8%EB%AF%B8-%EC%A0%9C%EB%AA%A9-%EB%9C%BB-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%82%B4%EC%9A%A9-%EA%B2%B0%EB%A7%90-%ED%95%B4%EC%84%9D-%EB%A7%88%EC%88%A0%EC%9D%B4-%EC%95%84%EB%8B%88%EA%B3%A0-%EB%A7%88%EB%B2%95%EC%9D%B4%EB%8B%A4',
+      href: '/netflix-movie-recommend-plot-ending-analysis/',
       text: '넷플릭스 영화 추천 나우 유 씨미 제목 뜻 줄거리 내용 결말 해석 | 마술이 아니고 마법이다'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%82%98%EC%9A%B0-%EC%9C%A0-%EC%94%A8%EB%AF%B8-%EC%8B%9C%EB%A6%AC%EC%A6%88-%ED%95%B4%EC%99%B8-%ED%8F%89%EC%A0%90-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%9B%84%EA%B8%B0-%ED%9B%84%EC%86%8D%EC%9E%91%EA%B9%8C%EC%A7%80-%EC%B4%9D%EC%A0%95%EB%A6%AC-1-1',
+      href: '/netflix-movie-recommend-series-overseas-rating-critic-review/',
       text: '넷플릭스 영화 추천 나우 유 씨미 시리즈 해외 평점 평론가 후기 후속작까지 총정리! 1-1'
     },
     {

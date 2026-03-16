@@ -3,27 +3,27 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%80%EC%8A%A4-5-%EB%A9%94%EC%9D%B8-%EB%B9%8C%EB%9F%B0-%EC%BA%89%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%A8%EB%93%A0%EA%B2%83-%ED%9E%88%EC%96%B4%EB%A1%9C%EB%A7%8C-60%EB%AA%85-%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8-%EB%B3%B5%EA%B7%80%EB%8A%94-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91%EA%B3%BC-%EA%B0%9C%EB%B4%89-%EC%A0%95%EB%B3%B4-%EC%B4%9D%EC%A0%95%EB%A6%AC-OTT-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0',
+      href: '/',
       text: '어벤저스 5 메인 빌런 캉에 대한 모든것, 히어로만 60명 아이언맨 복귀는? - 해외 반응과 개봉 정'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A45-%EB%91%A0%EC%8A%A4%EB%8D%B0%EC%9D%B4-%EB%8B%A5%ED%84%B0-%EB%91%A0-%ED%83%80%EB%85%B8%EC%8A%A4-%ED%8B%B0%EC%96%B4-%EB%B9%84%EA%B5%90-%EA%B7%B8%EA%B0%80-%EB%B9%8C%EB%9F%B0%EC%9D%B4-%EB%90%9C-%EA%B3%BC%EA%B1%B0%EB%B0%B0%EA%B2%BD-2',
+      href: '/comparison-어벤져스-둠스데이-닥터/',
       text: '어벤져스5 둠스데이 닥터 둠 타노스 티어 비교 | 그가 빌런이 된 과거배경 -2'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/2024%EB%85%84-%EB%A7%88%EB%B8%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EC%88%9C%EC%9C%BC%EB%A1%9C-%EC%B4%9D-%EC%A0%95%EB%A6%AC-feat-%EB%94%94%EC%A6%88%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EA%B3%B5%EA%B0%9C-%EC%98%88%EC%A0%95',
+      href: '/marvel-release-upcoming-disney-plus-disney-series-feat/',
       text: '2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%A7%88%EB%B8%94-%EC%98%81%ED%99%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95-%EC%B4%9D-%EC%A0%95%EB%A6%AC-2025%EB%85%84-2027%EB%85%84',
+      href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%B6%A9%EA%B2%A9%EC%A0%81-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%BA%A1%ED%8B%B4-%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4-%EC%95%84%EC%9D%B4%EC%96%B8%EB%A7%A8-%EB%8B%A5%ED%84%B0-%EB%91%A0-2025%EB%85%84-%EB%94%94%EC%A6%88%EB%8B%88%EC%9D%98-%EB%A7%88%EB%B8%94-%EB%85%BC%EB%9E%80-%EC%9D%B4%EC%8A%88',
+      href: '/disney-marvel-충격적-새로운-캡틴/',
       text: '충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈'
     },
     {

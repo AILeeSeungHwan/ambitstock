@@ -3,27 +3,27 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%99%80%EC%9D%BC%EB%93%9C-%EB%A1%9C%EB%B4%87-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EB%8B%A8%EC%96%B8%EC%BB%A8%EB%8C%80-%EC%98%AC%ED%95%B4-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%98%81%ED%99%94-%ED%98%84%EC%9E%AC%EC%83%81%EC%98%81%EC%9E%91',
+      href: '/critic-rating-overseas-reaction-animation-movie/',
       text: '와일드 로봇 로튼 토마토 평론가 평점 시사회 해외 반응 | 단언컨대 올해 최고의 애니메이션 영'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%99%80%EC%9D%BC%EB%93%9C-%EB%A1%9C%EB%B4%87-%ED%8F%89%EB%A1%A0%EA%B0%80-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%B7%B0-%EA%B4%80%EB%9E%8C%ED%8F%89-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EC%98%81%ED%99%94-1%EC%9C%84-%EC%98%88%EB%A7%A4%ED%95%A0%EA%B9%8C-%EB%A7%90%EA%B9%8C-%EB%94%B1-%EC%A0%95%ED%95%B4%EB%93%9C%EB%A6%BC',
+      href: '/critic-ending-review-animation-movie/',
       text: '와일드 로봇 평론가 결말 후기 리뷰 관람평 | 애니메이션 영화 1위 예매할까 말까? 딱 정해드림.'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-2024%EB%85%84-9%EC%9B%94-%EC%9D%B8%EA%B8%B0-%EC%9E%91%ED%92%88-%EC%88%9C%EC%9C%84-TOP-10-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/netflix-movie-recommend-guide-top-10/',
       text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%A1%B0%EC%BB%A4-2-%ED%8F%B4%EB%A6%AC%EC%95%84%EB%90%98-%EC%98%88%EB%A7%A4-%ED%95%A0%EC%A7%80-%EB%A7%90%EC%A7%80-%EC%A0%95%ED%95%B4%EB%93%9C%EB%A6%BC-%EC%8B%9C%EC%82%AC%ED%9A%8C-%EA%B2%B0%EB%A7%90-%ED%9B%84%EA%B8%B0-%EB%85%B8-%EC%8A%A4%ED%8F%AC-%EB%A6%AC%EB%B7%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/ending-review-guide/',
       text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%86%A0%ED%8D%BC-%EB%86%80%EB%9E%80-%EB%AA%A8%EB%93%A0-%EC%9E%91%ED%92%88-%EB%A1%9C%ED%8A%BC-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%95%B4%EC%99%B8-%ED%8F%89%EB%A1%A0%EA%B0%80-%ED%8F%89%EC%A0%90-%EC%88%9C%EC%9C%84-%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
     {

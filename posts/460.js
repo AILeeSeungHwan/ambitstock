@@ -99,7 +99,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;https://ambitstock.com/entry/%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EB%B2%A0%ED%85%8C%EB%9E%91-2-%EA%B0%9C%EB%B4%89-%EC%A0%84-%EC%A0%95%EB%B3%B4-%EC%B2%9C%EB%A7%8C%EA%B4%80%EA%B0%9D-%EB%B2%A0%ED%85%8C%EB%9E%91-1%ED%8E%B8-%ED%95%B4%EC%99%B8-%EB%A6%AC%EB%B7%B0-%ED%8F%89%EC%A0%90-%EB%B0%98%EC%9D%91-%EC%97%AD%EB%8C%80-%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4-%ED%95%9C%EA%B5%AD-%EC%98%81%ED%99%94-%EC%88%9C%EC%9C%84-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%ED%98%84%EC%9E%AC-%EC%83%81%EC%98%81%EC%9E%91%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&quot;>2024.01.12 - [영화] - [영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스 한국 영화 순위 시리즈 &lt;넷플릭스 현재 상영작 다시 보기&gt;</a></span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;/ - [영화] - [영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스 한국 영화 순위 시리즈 &lt;넷플릭스 현재 상영작 다시 보기&gt;</a></span></p>'
     },
     {
       type: 'body',

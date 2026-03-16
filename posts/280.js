@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%B0%98%EC%A7%80%EC%9D%98-%EC%A0%9C%EC%99%95-%ED%9E%98%EC%9D%98-%EB%B0%98%EC%A7%80-IMDB-%EC%9D%B8%EA%B8%B0-%EC%88%9C%EC%9C%84-%ED%8F%89%EC%A0%90-%EC%95%84%EB%A7%88%EC%A1%B4-%ED%94%84%EB%9D%BC%EC%9E%84-%EC%B6%94%EC%B2%9C',
+      href: '/rating-recommend-imdb/',
       text: '반지의 제왕 - 힘의 반지 IMDB 인기 순위 평점 | 아마존 프라임 추천'
     },
     {

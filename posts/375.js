@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%ED%95%B4%EC%99%B8-%EB%B0%98%EC%9D%91-%EC%98%A4%EC%A7%95%EC%96%B4%EA%B2%8C%EC%9E%84-%ED%8F%89%EC%A0%90-%ED%95%9C%EB%A5%98-%EC%BB%A8%ED%85%90%EC%B8%A0%EC%9D%98-%EC%8B%9C%EC%9E%91-%EC%8B%9C%EC%A6%8C2-%EC%A0%84%EC%84%A4%EC%9D%98-%EA%B7%80%ED%99%98-%EA%B3%B5%EA%B0%9C%EC%9D%BC-%EB%AF%B8%EC%A0%95-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-OTT-%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B6%94%EC%B2%9C',
+      href: '/overseas-reaction-rating-season-netflix-drama-recommend-ott/',
       text: '[해외 반응 오징어게임 평점 리뷰] 시즌2 전설의 귀환 한류 콘텐츠의 시작 공개일 미정 넷플릭스'
     },
     {

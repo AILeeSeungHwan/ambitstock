@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%B5%9C%EC%95%A0%EC%9D%98-%EC%95%84%EC%9D%B4-%EC%8B%9C%EC%A6%8C-2%EA%B8%B0-%EB%93%9C%EB%94%94%EC%96%B4-%EA%B3%B5%EA%B0%9C-%EC%9B%90%EC%9E%91-%EC%A4%84%EA%B1%B0%EB%A6%AC%EC%99%80-%EC%84%B1%EC%9A%B0%EC%A7%84-%EB%B0%A9%EC%98%81%EC%9D%BC%EC%A0%95-%EC%B4%9D%EC%A0%95%EB%A6%AC',
+      href: '/season-plot-guide/',
       text: '최애의 아이 시즌 2기 드디어 공개! 원작 줄거리와 성우진 방영일정 총정리'
     },
     {

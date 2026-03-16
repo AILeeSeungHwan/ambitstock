@@ -3,12 +3,12 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%B2%A0%ED%85%8C%EB%9E%91-2-%EB%B9%8C%EB%9F%B0-%EC%95%85%EC%97%AD-%EC%B6%9C%EC%97%B0%EC%A7%84-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EC%A0%95%EB%B3%B4-%EC%96%BC%EA%B5%B4%EC%9D%B4-%EC%9E%AC%EB%B0%8C%EB%8A%94-%EC%A0%95%ED%95%B4%EC%9D%B8-%EC%8A%A4%ED%8B%B8%EC%BB%B7-%EB%AA%A8%EC%9D%8C-%EB%B2%A0%ED%85%8C%EB%9E%91-3%EB%8F%84',
+      href: '/release-베테랑-빌런-악역/',
       text: '베테랑 2 빌런 악역 출연진 개봉일 정보 | 얼굴이 재밌는 정해인 스틸컷 모음 베테랑 3도?'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EB%B2%A0%ED%85%8C%EB%9E%91-2-%EC%B9%B8-%EC%98%81%ED%99%94%EC%A0%9C-%EC%8B%9C%EC%82%AC%ED%9A%8C-%ED%8F%89%EC%A0%90-%ED%95%B4%EC%99%B8-%ED%9B%84%EA%B8%B0%EB%B0%98%EC%9D%91-%ED%98%B8%ED%8F%89%EA%B3%BC-%ED%98%B9%ED%8F%89%EC%9D%B4-%EB%8F%99%EC%8B%9C%EC%97%90',
+      href: '/movie-rating-overseas-review-reaction/',
       text: '베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에'
     },
     {

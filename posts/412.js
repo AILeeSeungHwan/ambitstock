@@ -3,12 +3,12 @@ const post = {
   sections: [
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8C%8C%EB%AC%98-%EC%98%A4%EC%BB%AC%ED%8A%B8-%EB%9C%BB%EA%B3%BC-%EC%9E%A5%EC%9E%AC%ED%98%84%EC%84%B8%EA%B3%84%EA%B4%80-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-%EA%B0%9C%EB%B4%89%ED%9B%84-%EA%B4%80%EA%B0%9D%EC%88%98-%EC%8A%A4%ED%8F%AC%ED%8F%AC%ED%95%A8-%ED%9B%84%EA%B8%B0-%EC%A0%95%EB%B3%B4-%EC%A4%84%EA%B1%B0%EB%A6%AC-%EB%A6%AC%EB%B7%B0-%EA%B2%B0%EB%A7%90-%ED%95%B4%EC%84%9D-%EC%A0%84%EC%9E%91-OTT-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4',
+      href: '/',
       text: '[영화 파묘 오컬트 뜻 반일논란] 명작에 때 아닌 정치색 전쟁 - 스포포함 결말 해석 리뷰 현재상'
     },
     {
       type: 'cta',
-      href: 'https://ambitstock.com/entry/%EC%98%81%ED%99%94-%ED%8C%8C%EB%AC%98-%EA%B0%9C%EB%B4%89%EC%9D%BC-%EB%B0%8F-%ED%8B%B0%EC%A0%80-%EC%98%88%EA%B3%A0%ED%8E%B8-%ED%95%B4%EC%99%B8%EB%B0%98%EC%9D%91-%ED%8C%8C%EB%AC%98-%EB%9C%BB-%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC%EA%B3%BC-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EC%98%81%EC%96%B4%EC%A0%9C%EB%AA%A9-Exhuma-%EB%9C%BB-2%EC%9B%94-%EA%B0%9C%EB%B4%89-%EC%98%88%EC%A0%95%EC%9E%91',
+      href: '/',
       text: '[영화 파묘 개봉일 및 티저 예고편 해외반응] - 파묘 뜻 등장인물과 포스터 영어제목 Exhuma 뜻 2월'
     },
     {
