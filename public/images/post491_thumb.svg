@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#b71c1c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e53935;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff5252;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Dark overlay texture -->
+  <rect width="1200" height="630" fill="rgba(0,0,0,0.35)" />
+
+  <!-- Decorative diagonal lines -->
+  <line x1="0" y1="0" x2="200" y2="630" stroke="rgba(229,57,53,0.12)" stroke-width="2" />
+  <line x1="100" y1="0" x2="300" y2="630" stroke="rgba(229,57,53,0.08)" stroke-width="1" />
+  <line x1="900" y1="0" x2="1100" y2="630" stroke="rgba(229,57,53,0.12)" stroke-width="2" />
+  <line x1="1000" y1="0" x2="1200" y2="630" stroke="rgba(229,57,53,0.08)" stroke-width="1" />
+
+  <!-- Red accent bar left -->
+  <rect x="0" y="0" width="8" height="630" fill="url(#accent)" />
+
+  <!-- Red accent bar right -->
+  <rect x="1192" y="0" width="8" height="630" fill="url(#accent)" />
+
+  <!-- Top bar -->
+  <rect x="0" y="0" width="1200" height="6" fill="url(#accent)" />
+
+  <!-- Bottom bar -->
+  <rect x="0" y="624" width="1200" height="6" fill="url(#accent)" />
+
+  <!-- Category badge -->
+  <rect x="60" y="90" width="180" height="44" rx="4" fill="rgba(229,57,53,0.9)" />
+  <text x="150" y="119" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="700" fill="white" text-anchor="middle">호러 코미디</text>
+
+  <!-- Main title -->
+  <text x="600" y="260" font-family="'Noto Sans KR', Arial, sans-serif" font-size="88" font-weight="900" fill="white" text-anchor="middle" letter-spacing="-2">레디 오어 낫 2</text>
+
+  <!-- Red underline -->
+  <rect x="200" y="285" width="800" height="5" rx="2" fill="url(#accent)" />
+
+  <!-- Subtitle line 1 -->
+  <text x="600" y="360" font-family="'Noto Sans KR', Arial, sans-serif" font-size="34" font-weight="400" fill="rgba(255,255,255,0.85)" text-anchor="middle">사마라 위빙이 돌아왔다, 더 미친 게임이 시작된다</text>
+
+  <!-- Info badge -->
+  <rect x="380" y="420" width="440" height="52" rx="26" fill="rgba(255,255,255,0.08)" stroke="rgba(229,57,53,0.6)" stroke-width="1.5" />
+  <text x="600" y="453" font-family="'Arial', sans-serif" font-size="24" font-weight="700" fill="rgba(255,200,200,0.95)" text-anchor="middle" letter-spacing="3">2026.04 | HORROR COMEDY</text>
+
+  <!-- Cast info -->
+  <text x="600" y="540" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.6)" text-anchor="middle">사마라 위빙 · 캐서린 뉴튼 · 사라 미셸 겔러 · 일라이자 우드</text>
+
+  <!-- Site watermark -->
+  <text x="1140" y="610" font-family="'Arial', sans-serif" font-size="16" fill="rgba(255,255,255,0.3)" text-anchor="end">ambitstock.com</text>
+</svg>

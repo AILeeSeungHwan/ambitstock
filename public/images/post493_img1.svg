@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a2744;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg1)" />
+  <!-- Title -->
+  <text x="600" y="60" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="32" font-weight="700" fill="white" text-anchor="middle">2026 상반기 극장 개봉 일정</text>
+  <rect x="200" y="74" width="800" height="3" rx="1.5" fill="rgba(255,255,255,0.2)" />
+
+  <!-- Month columns -->
+  <!-- 3월 -->
+  <rect x="40" y="100" width="260" height="480" rx="12" fill="rgba(26,115,232,0.18)" />
+  <rect x="40" y="100" width="260" height="52" rx="12" fill="#1a73e8" />
+  <text x="170" y="133" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="26" font-weight="700" fill="white" text-anchor="middle">3월</text>
+  <!-- 3월 items -->
+  <rect x="56" y="168" width="228" height="76" rx="8" fill="rgba(255,255,255,0.07)" />
+  <text x="170" y="196" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="#FFD600" text-anchor="middle">프로젝트 헤일메리</text>
+  <text x="170" y="220" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.7)" text-anchor="middle">3/18 | SF · 라이언 고슬링</text>
+  <rect x="56" y="256" width="228" height="76" rx="8" fill="rgba(255,255,255,0.07)" />
+  <text x="170" y="284" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">호퍼스</text>
+  <text x="170" y="308" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.7)" text-anchor="middle">3/4 | 픽사 애니메이션</text>
+  <rect x="56" y="344" width="228" height="76" rx="8" fill="rgba(255,255,255,0.07)" />
+  <text x="170" y="372" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">다이마이러브</text>
+  <text x="170" y="396" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.7)" text-anchor="middle">3/4 | 멜로스릴러</text>
+
+  <!-- 4월 -->
+  <rect x="320" y="100" width="260" height="480" rx="12" fill="rgba(106,27,154,0.18)" />
+  <rect x="320" y="100" width="260" height="52" rx="12" fill="#6a1b9a" />
+  <text x="450" y="133" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="26" font-weight="700" fill="white" text-anchor="middle">4월</text>
+  <rect x="336" y="168" width="228" height="76" rx="8" fill="rgba(255,255,255,0.07)" />
+  <text x="450" y="196" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="#FFD600" text-anchor="middle">슈퍼마리오 갤럭시</text>
+  <text x="450" y="220" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.7)" text-anchor="middle">4/29 | 게임 원작 애니</text>
+  <rect x="336" y="256" width="228" height="76" rx="8" fill="rgba(255,255,255,0.07)" />
+  <text x="450" y="284" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">더 미라</text>
+  <text x="450" y="308" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.7)" text-anchor="middle">4/17 | A24 호러</text>
+  <rect x="336" y="344" width="228" height="76" rx="8" fill="rgba(255,255,255,0.07)" />
+  <text x="450" y="372" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">레디오어낫2</text>
+  <text x="450" y="396" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.7)" text-anchor="middle">4월 | 코미디 호러</text>
+
+  <!-- 5월 -->
+  <rect x="600" y="100" width="260" height="480" rx="12" fill="rgba(0,137,123,0.18)" />
+  <rect x="600" y="100" width="260" height="52" rx="12" fill="#00897b" />
+  <text x="730" y="133" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="26" font-weight="700" fill="white" text-anchor="middle">5월</text>
+  <rect x="616" y="168" width="228" height="76" rx="8" fill="rgba(255,255,255,0.07)" />
+  <text x="730" y="196" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="#FFD600" text-anchor="middle">만달로리안과 그로구</text>
+  <text x="730" y="220" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.7)" text-anchor="middle">5/22 | 스타워즈 스핀오프</text>
+  <rect x="616" y="256" width="228" height="76" rx="8" fill="rgba(255,255,255,0.07)" />
+  <text x="730" y="284" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">악마는프라다를입는다2</text>
+  <text x="730" y="308" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.7)" text-anchor="middle">5월 | 패션 드라마 속편</text>
+
+  <!-- 6월 -->
+  <rect x="880" y="100" width="280" height="480" rx="12" fill="rgba(229,9,20,0.18)" />
+  <rect x="880" y="100" width="280" height="52" rx="12" fill="#e50914" />
+  <text x="1020" y="133" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="26" font-weight="700" fill="white" text-anchor="middle">6월</text>
+  <rect x="896" y="168" width="248" height="76" rx="8" fill="rgba(255,255,255,0.07)" />
+  <text x="1020" y="196" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="#FFD600" text-anchor="middle">토이스토리5</text>
+  <text x="1020" y="220" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.7)" text-anchor="middle">6/19 | 픽사 시리즈 속편</text>
+  <rect x="896" y="256" width="248" height="76" rx="8" fill="rgba(255,255,255,0.07)" />
+  <text x="1020" y="284" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">디스클로저 데이</text>
+  <text x="1020" y="308" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.7)" text-anchor="middle">6/12 | 스필버그 SF</text>
+
+  <!-- Footer -->
+  <text x="600" y="608" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" fill="rgba(255,255,255,0.4)" text-anchor="middle">ambitstock.com</text>
+</svg>

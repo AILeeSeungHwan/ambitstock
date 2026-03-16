@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b4b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0d3d;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="leftCard" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a73e8;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#1a73e8;stop-opacity:0.1" />
+    </linearGradient>
+    <linearGradient id="rightCard" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#7b1fa2;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#7b1fa2;stop-opacity:0.1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Header bar -->
+  <rect x="0" y="0" width="1200" height="80" fill="#1a73e8" fill-opacity="0.8" />
+  <text x="600" y="50" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="28" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="1">슈퍼마리오 브라더스 전작 vs 갤럭시 무비 비교</text>
+
+  <!-- VS divider -->
+  <rect x="570" y="80" width="60" height="490" fill="#ffe082" fill-opacity="0.1" />
+  <text x="600" y="340" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="52" font-weight="900" fill="#ffe082" text-anchor="middle" opacity="0.9">VS</text>
+
+  <!-- Left column header (2023) -->
+  <rect x="60" y="90" width="480" height="70" fill="url(#leftCard)" stroke="#1a73e8" stroke-width="2" rx="8" />
+  <text x="300" y="128" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="26" font-weight="900" fill="#64b5f6" text-anchor="middle">슈퍼 마리오 브라더스</text>
+  <text x="300" y="152" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="18" fill="#90caf9" text-anchor="middle">2023</text>
+
+  <!-- Right column header (2026) -->
+  <rect x="660" y="90" width="480" height="70" fill="url(#rightCard)" stroke="#7b1fa2" stroke-width="2" rx="8" />
+  <text x="900" y="128" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="26" font-weight="900" fill="#ce93d8" text-anchor="middle">슈퍼마리오 갤럭시 무비</text>
+  <text x="900" y="152" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="18" fill="#e1bee7" text-anchor="middle">2026</text>
+
+  <!-- Row labels and data -->
+  <!-- Row 1: 배경 -->
+  <rect x="60" y="180" width="480" height="60" fill="#1a73e8" fill-opacity="0.1" stroke="#1a73e8" stroke-width="1" stroke-opacity="0.3" />
+  <text x="300" y="218" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">버섯왕국 + 어둠의 왕국</text>
+
+  <rect x="60" y="170" width="140" height="20" fill="#1a73e8" rx="2" />
+  <text x="130" y="185" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">배경</text>
+
+  <rect x="660" y="180" width="480" height="60" fill="#7b1fa2" fill-opacity="0.1" stroke="#7b1fa2" stroke-width="1" stroke-opacity="0.3" />
+  <text x="900" y="218" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">우주 + 행성 탐험</text>
+
+  <!-- Row 2: 빌런 -->
+  <rect x="60" y="260" width="480" height="60" fill="#1a73e8" fill-opacity="0.08" stroke="#1a73e8" stroke-width="1" stroke-opacity="0.3" />
+  <text x="300" y="298" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">쿠파 (잭 블랙)</text>
+
+  <rect x="60" y="250" width="140" height="20" fill="#e50914" rx="2" />
+  <text x="130" y="265" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">빌런</text>
+
+  <rect x="660" y="260" width="480" height="60" fill="#7b1fa2" fill-opacity="0.08" stroke="#7b1fa2" stroke-width="1" stroke-opacity="0.3" />
+  <text x="900" y="298" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">쿠파주니어 + 신규</text>
+
+  <!-- Row 3: 신규 캐스팅 -->
+  <rect x="60" y="340" width="480" height="60" fill="#1a73e8" fill-opacity="0.1" stroke="#1a73e8" stroke-width="1" stroke-opacity="0.3" />
+  <text x="300" y="378" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">기존 캐릭터 중심</text>
+
+  <rect x="60" y="330" width="140" height="20" fill="#00897b" rx="2" />
+  <text x="130" y="345" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">신규 합류</text>
+
+  <rect x="660" y="340" width="480" height="60" fill="#7b1fa2" fill-opacity="0.1" stroke="#7b1fa2" stroke-width="1" stroke-opacity="0.3" />
+  <text x="900" y="378" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="22" fill="#ffe082" text-anchor="middle">브리 라슨 · 베니 사프디</text>
+
+  <!-- Row 4: 개봉일 -->
+  <rect x="60" y="420" width="480" height="60" fill="#1a73e8" fill-opacity="0.08" stroke="#1a73e8" stroke-width="1" stroke-opacity="0.3" />
+  <text x="300" y="458" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="22" fill="#ffffff" text-anchor="middle">한국 2023년 4월 26일</text>
+
+  <rect x="60" y="410" width="140" height="20" fill="#d4af37" rx="2" />
+  <text x="130" y="425" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" font-weight="700" fill="#000000" text-anchor="middle">개봉일</text>
+
+  <rect x="660" y="420" width="480" height="60" fill="#7b1fa2" fill-opacity="0.08" stroke="#7b1fa2" stroke-width="1" stroke-opacity="0.3" />
+  <text x="900" y="458" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="22" fill="#ffe082" text-anchor="middle">한국 2026년 4월 29일</text>
+
+  <!-- Row 5: 흥행 -->
+  <rect x="60" y="500" width="480" height="60" fill="#1a73e8" fill-opacity="0.1" stroke="#1a73e8" stroke-width="1" stroke-opacity="0.3" />
+  <text x="300" y="538" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="22" fill="#64b5f6" text-anchor="middle">전 세계 13억 달러 (역대 1위)</text>
+
+  <rect x="60" y="490" width="140" height="20" fill="#e53935" rx="2" />
+  <text x="130" y="505" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">흥행 기록</text>
+
+  <rect x="660" y="500" width="480" height="60" fill="#7b1fa2" fill-opacity="0.1" stroke="#7b1fa2" stroke-width="1" stroke-opacity="0.3" />
+  <text x="900" y="538" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="22" fill="#ce93d8" text-anchor="middle">기대 중 (2026.4 개봉 예정)</text>
+
+  <!-- Footer -->
+  <text x="600" y="615" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="16" fill="#666699" text-anchor="middle">ambitstock.com | 슈퍼마리오 갤럭시 무비 2026</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a1a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a73e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#42a5f5;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Star field -->
+  <circle cx="80" cy="60" r="1.5" fill="white" opacity="0.6"/>
+  <circle cx="200" cy="120" r="1" fill="white" opacity="0.4"/>
+  <circle cx="350" cy="40" r="2" fill="white" opacity="0.5"/>
+  <circle cx="500" cy="90" r="1.5" fill="white" opacity="0.7"/>
+  <circle cx="650" cy="30" r="1" fill="white" opacity="0.4"/>
+  <circle cx="800" cy="80" r="2" fill="white" opacity="0.6"/>
+  <circle cx="950" cy="50" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="1100" cy="100" r="1" fill="white" opacity="0.4"/>
+  <circle cx="1150" cy="40" r="2" fill="white" opacity="0.7"/>
+  <circle cx="120" cy="300" r="1" fill="white" opacity="0.3"/>
+  <circle cx="900" cy="200" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="1050" cy="400" r="1" fill="white" opacity="0.4"/>
+  <circle cx="60" cy="500" r="2" fill="white" opacity="0.3"/>
+  <circle cx="1140" cy="550" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="280" cy="580" r="1" fill="white" opacity="0.4"/>
+  <circle cx="750" cy="570" r="2" fill="white" opacity="0.3"/>
+
+  <!-- Decorative circle (planet-like) -->
+  <circle cx="1050" cy="320" r="180" fill="none" stroke="#1a73e8" stroke-width="1" opacity="0.2"/>
+  <circle cx="1050" cy="320" r="140" fill="none" stroke="#42a5f5" stroke-width="0.5" opacity="0.15"/>
+
+  <!-- Left accent bar -->
+  <rect x="80" y="180" width="6" height="270" fill="url(#accent)" rx="3"/>
+
+  <!-- Category badge -->
+  <rect x="110" y="180" width="160" height="36" rx="18" fill="#1a73e8" opacity="0.9"/>
+  <text x="190" y="203" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" font-weight="700" fill="white" text-anchor="middle">SF 영화 추천</text>
+
+  <!-- Main title -->
+  <text x="110" y="295" font-family="'Noto Sans KR', Arial, sans-serif" font-size="72" font-weight="900" fill="white" filter="url(#glow)">프로젝트</text>
+  <text x="110" y="380" font-family="'Noto Sans KR', Arial, sans-serif" font-size="72" font-weight="900" fill="url(#accent)" filter="url(#glow)">헤일메리</text>
+
+  <!-- Subtitle -->
+  <text x="110" y="430" font-family="'Noto Sans KR', Arial, sans-serif" font-size="26" font-weight="400" fill="#90caf9" opacity="0.9">라이언 고슬링 × 앤디 위어</text>
+
+  <!-- Info line -->
+  <text x="110" y="475" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" fill="#64b5f6" opacity="0.8">로튼토마토 94%  ·  156분  ·  2026.03.18 개봉</text>
+
+  <!-- Bottom tagline -->
+  <rect x="0" y="570" width="1200" height="60" fill="#1a73e8" opacity="0.15"/>
+  <text x="600" y="608" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" fill="#90caf9" text-anchor="middle" opacity="0.9">"인터스텔라의 감동 + 마션의 유머 + 월-E의 우정"  |  ambitstock.com</text>
+</svg>

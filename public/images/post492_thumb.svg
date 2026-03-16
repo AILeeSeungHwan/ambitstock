@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a2f4a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a0e1a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c5a44e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#f0d080;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c5a44e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="star" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0d080;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8a6820;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Star field -->
+  <circle cx="120" cy="80" r="1.5" fill="rgba(255,255,255,0.7)" />
+  <circle cx="280" cy="45" r="1" fill="rgba(255,255,255,0.5)" />
+  <circle cx="450" cy="100" r="2" fill="rgba(255,255,255,0.6)" />
+  <circle cx="680" cy="30" r="1" fill="rgba(255,255,255,0.4)" />
+  <circle cx="850" cy="70" r="1.5" fill="rgba(255,255,255,0.7)" />
+  <circle cx="1050" cy="50" r="1" fill="rgba(255,255,255,0.5)" />
+  <circle cx="1150" cy="90" r="2" fill="rgba(255,255,255,0.6)" />
+  <circle cx="60" cy="200" r="1" fill="rgba(255,255,255,0.4)" />
+  <circle cx="950" cy="150" r="1.5" fill="rgba(255,255,255,0.6)" />
+  <circle cx="1100" cy="200" r="1" fill="rgba(255,255,255,0.4)" />
+  <circle cx="200" cy="530" r="1.5" fill="rgba(255,255,255,0.5)" />
+  <circle cx="400" cy="560" r="1" fill="rgba(255,255,255,0.4)" />
+  <circle cx="780" cy="580" r="2" fill="rgba(255,255,255,0.6)" />
+  <circle cx="1000" cy="550" r="1.5" fill="rgba(255,255,255,0.5)" />
+  <circle cx="1180" cy="540" r="1" fill="rgba(255,255,255,0.4)" />
+
+  <!-- Gold top bar -->
+  <rect x="0" y="0" width="1200" height="5" fill="url(#gold)" />
+
+  <!-- Gold bottom bar -->
+  <rect x="0" y="625" width="1200" height="5" fill="url(#gold)" />
+
+  <!-- Gold left bar -->
+  <rect x="0" y="0" width="5" height="630" fill="url(#gold)" />
+
+  <!-- Gold right bar -->
+  <rect x="1195" y="0" width="5" height="630" fill="url(#gold)" />
+
+  <!-- Category badge -->
+  <rect x="60" y="90" width="200" height="44" rx="4" fill="rgba(197,164,78,0.2)" stroke="rgba(197,164,78,0.7)" stroke-width="1.5" />
+  <text x="160" y="119" font-family="'Noto Sans KR', Arial, sans-serif" font-size="19" font-weight="700" fill="#f0d080" text-anchor="middle">STAR WARS</text>
+
+  <!-- Main title -->
+  <text x="600" y="255" font-family="'Noto Sans KR', Arial, sans-serif" font-size="82" font-weight="900" fill="white" text-anchor="middle" letter-spacing="-2">만달로리안과 그로구</text>
+
+  <!-- Gold underline -->
+  <rect x="150" y="278" width="900" height="4" rx="2" fill="url(#gold)" />
+
+  <!-- Subtitle -->
+  <text x="600" y="348" font-family="'Noto Sans KR', Arial, sans-serif" font-size="30" font-weight="400" fill="rgba(255,255,255,0.82)" text-anchor="middle">7년 만의 스타워즈 극장판, 볼 가치 있을까</text>
+
+  <!-- Date badge -->
+  <rect x="380" y="408" width="440" height="52" rx="26" fill="rgba(197,164,78,0.1)" stroke="rgba(197,164,78,0.55)" stroke-width="1.5" />
+  <text x="600" y="441" font-family="'Arial', sans-serif" font-size="24" font-weight="700" fill="#f0d080" text-anchor="middle" letter-spacing="3">2026.05.22 | DISNEY</text>
+
+  <!-- Cast info -->
+  <text x="600" y="530" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.58)" text-anchor="middle">페드로 파스칼 · 시고니 위버 · 제레미 앨런 화이트</text>
+
+  <!-- Director info -->
+  <text x="600" y="560" font-family="'Noto Sans KR', Arial, sans-serif" font-size="17" fill="rgba(255,255,255,0.4)" text-anchor="middle">감독: 존 패브로</text>
+
+  <!-- Site watermark -->
+  <text x="1140" y="610" font-family="'Arial', sans-serif" font-size="16" fill="rgba(255,255,255,0.25)" text-anchor="end">ambitstock.com</text>
+</svg>

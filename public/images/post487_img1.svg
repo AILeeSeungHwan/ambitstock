@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d0d0d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="90" fill="#8b0000" />
+  <text x="600" y="58" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="30" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="2">다이 마이 러브 — 관람 전 체크포인트</text>
+
+  <!-- Grid of info cards -->
+  <!-- Card 1 -->
+  <rect x="60" y="120" width="240" height="160" fill="#1a0000" stroke="#e50914" stroke-width="2" rx="8" />
+  <text x="180" y="165" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="36" fill="#e50914" text-anchor="middle">🔞</text>
+  <text x="180" y="200" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">청소년 관람불가</text>
+  <text x="180" y="228" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">감정·신체적 노출</text>
+  <text x="180" y="252" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">포함된 성인 등급</text>
+
+  <!-- Card 2 -->
+  <rect x="320" y="120" width="240" height="160" fill="#1a0000" stroke="#c0392b" stroke-width="2" rx="8" />
+  <text x="440" y="165" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="36" fill="#d4af37" text-anchor="middle">🏆</text>
+  <text x="440" y="200" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">칸 6분 기립박수</text>
+  <text x="440" y="228" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">2025 칸 영화제</text>
+  <text x="440" y="252" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">공식 선정·호평</text>
+
+  <!-- Card 3 -->
+  <rect x="580" y="120" width="240" height="160" fill="#1a0000" stroke="#c0392b" stroke-width="2" rx="8" />
+  <text x="700" y="165" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="36" fill="#ff6b6b" text-anchor="middle">🔊</text>
+  <text x="700" y="200" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">사운드 주의</text>
+  <text x="700" y="228" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">아기 울음소리 강도</text>
+  <text x="700" y="252" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">고음량 사운드 설계</text>
+
+  <!-- Card 4 -->
+  <rect x="840" y="120" width="240" height="160" fill="#1a0000" stroke="#c0392b" stroke-width="2" rx="8" />
+  <text x="960" y="165" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="36" fill="#a29bfe" text-anchor="middle">🎬</text>
+  <text x="960" y="200" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">아방가르드 연출</text>
+  <text x="960" y="228" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">비선형 서사</text>
+  <text x="960" y="252" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">설명 없는 연출</text>
+
+  <!-- Second row -->
+  <!-- Card 5 -->
+  <rect x="190" y="310" width="240" height="160" fill="#1a0000" stroke="#c0392b" stroke-width="2" rx="8" />
+  <text x="310" y="355" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="36" fill="#74b9ff" text-anchor="middle">⏱</text>
+  <text x="310" y="390" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">118분</text>
+  <text x="310" y="418" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">집중도 높은</text>
+  <text x="310" y="442" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">러닝타임</text>
+
+  <!-- Card 6 -->
+  <rect x="450" y="310" width="240" height="160" fill="#1a0000" stroke="#c0392b" stroke-width="2" rx="8" />
+  <text x="570" y="355" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="36" fill="#fdcb6e" text-anchor="middle">💬</text>
+  <text x="570" y="390" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">스포일러 없음</text>
+  <text x="570" y="418" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">이 리뷰에는</text>
+  <text x="570" y="442" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">결말 포함 안 됨</text>
+
+  <!-- Card 7 -->
+  <rect x="710" y="310" width="240" height="160" fill="#1a0000" stroke="#c0392b" stroke-width="2" rx="8" />
+  <text x="830" y="355" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="36" fill="#ff7675" text-anchor="middle">💔</text>
+  <text x="830" y="390" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">무거운 주제</text>
+  <text x="830" y="418" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">산후 우울증</text>
+  <text x="830" y="442" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="14" fill="#cccccc" text-anchor="middle">관계 균열</text>
+
+  <!-- Footer -->
+  <rect x="0" y="550" width="1200" height="80" fill="#8b0000" fill-opacity="0.5" />
+  <text x="600" y="598" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" opacity="0.9">린 램지 감독 | 제니퍼 로렌스 · 로버트 패틴슨 | 2026년 3월 4일 개봉 | ambitstock.com</text>
+</svg>

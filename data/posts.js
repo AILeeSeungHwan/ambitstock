@@ -4939,6 +4939,116 @@ const posts = [
     tags: ['티빙', '왓챠', 'OTT비교', 'OTT추천', '국내OTT'],
     thumbnail: '/images/post484_thumb.svg',
   },
+  {
+    id: 485,
+    slug: 'project-hail-mary-movie-review-2026',
+    title: '프로젝트 헤일메리 리뷰 — 라이언 고슬링이 우주에서 혼자 깨어났다',
+    description: '앤디 위어 원작, 라이언 고슬링 주연 SF 영화 프로젝트 헤일메리 리뷰. 따뜻한 우주 영화의 탄생, 로키와의 우정, 커리어 최고 연기까지.',
+    category: '영화추천',
+    date: '2026-03-17',
+    tags: ['프로젝트헤일메리', '라이언고슬링', 'SF영화', '영화추천', '앤디위어'],
+    thumbnail: '/images/post485_thumb.svg',
+    relatedSlugs: ['netflix-movie-recommend-2026-march', 'bong-joonho-filmography-guide']
+  },
+  {
+    id: 486,
+    slug: 'hoppers-pixar-animation-review-2026',
+    title: '호퍼스 리뷰 — 픽사가 드디어 돌아왔다',
+    description: '픽사 30번째 장편 애니메이션 호퍼스 리뷰. 로튼토마토 94점, 코코 이후 최고 흥행. 웃음과 감동의 밸런스가 돌아왔다.',
+    category: '애니메이션',
+    date: '2026-03-17',
+    tags: ['호퍼스', '픽사', '디즈니', '애니메이션추천', '가족영화'],
+    thumbnail: '/images/post486_thumb.svg',
+    relatedSlugs: ['ghibli-beginner-guide-watch-order', 'netflix-movie-recommend-2026-march']
+  },
+  {
+    id: 487,
+    slug: 'die-my-love-jennifer-lawrence-review',
+    title: '다이 마이 러브 리뷰 — 제니퍼 로렌스가 무너지는 걸 지켜보는 118분',
+    description: '린 램지 감독, 제니퍼 로렌스·로버트 패틴슨 주연 멜로 스릴러. 칸 영화제 6분 기립박수, 커리어 최고 파격 연기.',
+    category: '영화추천',
+    date: '2026-03-17',
+    tags: ['다이마이러브', '제니퍼로렌스', '로버트패틴슨', '멜로스릴러', '칸영화제'],
+    thumbnail: '/images/post487_thumb.svg',
+    relatedSlugs: ['netflix-movie-recommend-2026-march', 'bong-joonho-filmography-guide']
+  },
+  {
+    id: 488,
+    slug: 'super-mario-galaxy-movie-2026-review',
+    title: '슈퍼마리오 갤럭시 무비 — 마리오가 우주로 간다',
+    description: '닌텐도·일루미네이션 슈퍼마리오 후속작. 크리스 프랫, 잭 블랙, 브리 라슨 출연. 4월 29일 한국 개봉.',
+    category: '애니메이션',
+    date: '2026-03-17',
+    tags: ['슈퍼마리오', '마리오갤럭시', '닌텐도', '애니메이션', '가족영화'],
+    thumbnail: '/images/post488_thumb.svg',
+    relatedSlugs: ['hoppers-pixar-animation-review-2026', 'ghibli-beginner-guide-watch-order']
+  },
+  {
+    id: 489,
+    slug: 'avengers-doomsday-2026-guide',
+    title: '어벤져스 둠스데이 — 보기 전에 알아야 할 모든 것',
+    description: '어벤져스 둠스데이 캐스팅, 스토리, 사전 필수 시청작 총정리. 로버트 다우니 주니어의 닥터 둠 복귀부터 엑스맨 합류까지.',
+    category: '마블',
+    date: '2026-03-17',
+    tags: ['어벤져스', '둠스데이', '마블', 'MCU', '페이즈6'],
+    thumbnail: '/images/post489_thumb.svg',
+    relatedSlugs: ['marvel-phase6-watch-order', 'netflix-movie-recommend-2026-march']
+  },
+  {
+    id: 490,
+    slug: 'toy-story-5-2026-expectations',
+    title: '토이스토리 5 — 7년 만의 귀환, 장난감 시대의 종말?',
+    description: '토이스토리 5 기대 포인트 총정리. 태블릿 장난감 릴리패드 등장, 우디와 버즈의 관계, 6월 19일 개봉.',
+    category: '애니메이션',
+    date: '2026-03-17',
+    tags: ['토이스토리5', '픽사', '디즈니', '애니메이션', '가족영화'],
+    thumbnail: '/images/post490_thumb.svg',
+    relatedSlugs: ['hoppers-pixar-animation-review-2026', 'ghibli-beginner-guide-watch-order']
+  },
+  {
+    id: 491,
+    slug: 'ready-or-not-2-horror-comedy-2026',
+    title: '레디 오어 낫 2 — 사마라 위빙이 돌아왔다, 더 미친 게임이 시작된다',
+    description: '레디 오어 낫 2 리뷰. 사마라 위빙, 캐서린 뉴튼, 데이빗 크로넨버그 출연. 전작보다 스케일이 커진 호러 코미디.',
+    category: '영화추천',
+    date: '2026-03-17',
+    tags: ['레디오어낫2', '사마라위빙', '호러코미디', '영화추천', '공포영화'],
+    thumbnail: '/images/post491_thumb.svg',
+    relatedSlugs: ['netflix-horror-movie-recommend-alone-night', 'netflix-movie-recommend-2026-march']
+  },
+  {
+    id: 492,
+    slug: 'mandalorian-grogu-movie-2026-starwars',
+    title: '만달로리안과 그로구 — 7년 만의 스타워즈 극장판, 볼 가치 있을까',
+    description: '만달로리안과 그로구 극장판 정보 총정리. 페드로 파스칼 주연, 5월 22일 개봉. 드라마 안 봤어도 괜찮을까.',
+    category: '영화추천',
+    date: '2026-03-17',
+    tags: ['만달로리안', '그로구', '스타워즈', '디즈니', '페드로파스칼'],
+    thumbnail: '/images/post492_thumb.svg',
+    relatedSlugs: ['avengers-doomsday-2026-guide', 'netflix-movie-recommend-2026-march']
+  },
+  {
+    id: 493,
+    slug: '2026-first-half-movies-theater-guide',
+    title: '2026 상반기 극장 기대작 총정리 — 놓치면 후회할 영화 10편',
+    description: '2026년 3~6월 극장 개봉 기대작 총정리. 프로젝트 헤일메리, 슈퍼마리오, 토이스토리5, 만달로리안 등 장르별 추천.',
+    category: '영화추천',
+    date: '2026-03-17',
+    tags: ['2026영화', '개봉예정', '영화추천', '극장영화', '기대작'],
+    thumbnail: '/images/post493_thumb.svg',
+    relatedSlugs: ['project-hail-mary-movie-review-2026', 'hoppers-pixar-animation-review-2026', 'super-mario-galaxy-movie-2026-review', 'toy-story-5-2026-expectations']
+  },
+  {
+    id: 494,
+    slug: 'netflix-korea-original-2026-lineup',
+    title: '넷플릭스 2026 한국 오리지널 기대작 — 올해 꼭 봐야 할 시리즈',
+    description: '넷플릭스 2026 한국 라인업 총정리. 천천히 강렬하게(송혜교·공유), 이창동 감독 가능한 사랑, 사냥개들 시즌2 등.',
+    category: '드라마',
+    date: '2026-03-17',
+    tags: ['넷플릭스', '한국드라마', '넷플릭스오리지널', '2026드라마', '드라마추천'],
+    thumbnail: '/images/post494_thumb.svg',
+    relatedSlugs: ['korean-drama-2026-first-half-anticipated', 'netflix-new-releases-march-2026', 'korean-drama-popular-overseas-top5']
+  },
 ]
 
 module.exports = posts

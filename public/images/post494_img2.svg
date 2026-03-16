@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0505;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d0d0d;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="titleBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e50914;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b0000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg2)" />
+
+  <!-- Main title bar -->
+  <rect x="0" y="0" width="1200" height="90" fill="url(#titleBar)" />
+  <text x="600" y="56" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="32" font-weight="900" fill="white" text-anchor="middle">천천히 강렬하게 — 작품 정보</text>
+
+  <!-- Info cards grid -->
+  <!-- Card 1: 출연진 -->
+  <rect x="40" y="114" width="260" height="180" rx="14" fill="rgba(229,9,20,0.18)" />
+  <rect x="40" y="114" width="260" height="46" rx="14" fill="rgba(229,9,20,0.50)" />
+  <text x="170" y="144" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">주연</text>
+  <text x="170" y="195" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="28" font-weight="900" fill="#FFD600" text-anchor="middle">송혜교</text>
+  <text x="170" y="230" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="28" font-weight="900" fill="white" text-anchor="middle">공유</text>
+  <text x="170" y="268" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="16" fill="rgba(255,255,255,0.65)" text-anchor="middle">태양의 후예 이후 재결합</text>
+
+  <!-- Card 2: 작가 -->
+  <rect x="320" y="114" width="260" height="180" rx="14" fill="rgba(229,9,20,0.14)" />
+  <rect x="320" y="114" width="260" height="46" rx="14" fill="rgba(229,9,20,0.45)" />
+  <text x="450" y="144" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">작가</text>
+  <text x="450" y="192" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="26" font-weight="900" fill="#FFD600" text-anchor="middle">노희경</text>
+  <text x="450" y="230" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.70)" text-anchor="middle">우리들의 블루스</text>
+  <text x="450" y="256" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" fill="rgba(255,255,255,0.70)" text-anchor="middle">세상에서 가장 아름다운 이별</text>
+  <text x="450" y="280" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.50)" text-anchor="middle">장편 감정선 전문 작가</text>
+
+  <!-- Card 3: 편수 -->
+  <rect x="600" y="114" width="260" height="180" rx="14" fill="rgba(229,9,20,0.14)" />
+  <rect x="600" y="114" width="260" height="46" rx="14" fill="rgba(229,9,20,0.45)" />
+  <text x="730" y="144" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">규모</text>
+  <text x="730" y="210" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="64" font-weight="900" fill="#FFD600" text-anchor="middle">22</text>
+  <text x="730" y="250" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">부작</text>
+  <text x="730" y="278" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.55)" text-anchor="middle">넷플릭스 오리지널 최대 규모</text>
+
+  <!-- Card 4: 공개 시기 -->
+  <rect x="880" y="114" width="280" height="180" rx="14" fill="rgba(229,9,20,0.14)" />
+  <rect x="880" y="114" width="280" height="46" rx="14" fill="rgba(229,9,20,0.45)" />
+  <text x="1020" y="144" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">공개 예정</text>
+  <text x="1020" y="210" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="42" font-weight="900" fill="#FFD600" text-anchor="middle">2026</text>
+  <text x="1020" y="252" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="26" font-weight="700" fill="white" text-anchor="middle">Q4 (4분기)</text>
+  <text x="1020" y="280" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.55)" text-anchor="middle">하반기 최대 기대작</text>
+
+  <!-- Bottom info row -->
+  <rect x="40" y="318" width="1120" height="90" rx="12" fill="rgba(229,9,20,0.12)" />
+  <rect x="40" y="318" width="6" height="90" rx="3" fill="#e50914" />
+  <text x="68" y="352" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="#FFD600">시대 배경</text>
+  <text x="68" y="380" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="22" font-weight="700" fill="white">1960~1980년대 한국</text>
+  <text x="400" y="352" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="#FFD600">장르</text>
+  <text x="400" y="380" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="22" font-weight="700" fill="white">시대 멜로 · 가족 드라마</text>
+  <text x="760" y="352" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="#FFD600">플랫폼</text>
+  <text x="760" y="380" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="22" font-weight="700" fill="white">넷플릭스 오리지널</text>
+
+  <!-- Quote -->
+  <rect x="40" y="430" width="1120" height="110" rx="12" fill="rgba(255,255,255,0.04)" />
+  <text x="60" y="462" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" fill="rgba(255,255,255,0.55)">&quot;</text>
+  <text x="80" y="462" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="20" font-style="italic" fill="rgba(255,255,255,0.80)">노희경 작가 특유의 긴 호흡 감정선 + 송혜교·공유 재결합</text>
+  <text x="80" y="494" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="20" font-style="italic" fill="rgba(255,255,255,0.80)">2026년 넷플릭스 한국 드라마 라인업 중 가장 규모가 큰 작품</text>
+  <text x="80" y="524" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" fill="rgba(255,255,255,0.55)">&quot;</text>
+
+  <!-- Footer -->
+  <text x="600" y="608" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" fill="rgba(255,255,255,0.35)" text-anchor="middle">ambitstock.com — 넷플릭스 2026 한국 오리지널</text>
+</svg>

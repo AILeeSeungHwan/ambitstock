@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d1f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1a2e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="avengersGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1565c0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="fantasticGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#b71c1c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#880e0e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="xmenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a148c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#311b92;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <!-- Top accent -->
+  <rect x="0" y="0" width="1200" height="4" fill="#d4af37" />
+  <!-- Title -->
+  <text x="600" y="60" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="30" font-weight="700" fill="#d4af37" text-anchor="middle">어벤져스: 둠스데이 — 확정 캐스팅 라인업</text>
+  <!-- Villain center badge -->
+  <rect x="490" y="75" width="220" height="44" rx="22" fill="#d4af37"/>
+  <text x="600" y="104" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="20" font-weight="900" fill="#1a1a2e" text-anchor="middle">닥터 둠: 로버트 다우니 주니어</text>
+
+  <!-- AVENGERS column -->
+  <rect x="50" y="135" width="330" height="440" rx="12" fill="url(#avengersGrad)" opacity="0.9"/>
+  <text x="215" y="175" font-family="Arial Black, Arial, sans-serif" font-size="20" font-weight="900" fill="#ffffff" text-anchor="middle">AVENGERS</text>
+  <rect x="75" y="185" width="280" height="2" fill="#ffffff" opacity="0.4"/>
+  <text x="215" y="220" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">크리스 헴스워스</text>
+  <text x="215" y="242" font-family="Arial, sans-serif" font-size="13" fill="#90caf9" text-anchor="middle">토르</text>
+  <text x="215" y="272" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">안소니 마키</text>
+  <text x="215" y="294" font-family="Arial, sans-serif" font-size="13" fill="#90caf9" text-anchor="middle">캡틴 아메리카 (새)</text>
+  <text x="215" y="324" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">베네딕트 컴버배치</text>
+  <text x="215" y="346" font-family="Arial, sans-serif" font-size="13" fill="#90caf9" text-anchor="middle">닥터 스트레인지</text>
+  <text x="215" y="376" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">톰 히들스턴</text>
+  <text x="215" y="398" font-family="Arial, sans-serif" font-size="13" fill="#90caf9" text-anchor="middle">로키</text>
+  <text x="215" y="428" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">플로렌스 퓨</text>
+  <text x="215" y="450" font-family="Arial, sans-serif" font-size="13" fill="#90caf9" text-anchor="middle">블랙 위도우 (새)</text>
+  <text x="215" y="480" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">크리스 에반스</text>
+  <text x="215" y="502" font-family="Arial, sans-serif" font-size="13" fill="#ffcc02" text-anchor="middle">루머 (미확정)</text>
+
+  <!-- FANTASTIC FOUR column -->
+  <rect x="430" y="135" width="330" height="440" rx="12" fill="url(#fantasticGrad)" opacity="0.9"/>
+  <text x="595" y="175" font-family="Arial Black, Arial, sans-serif" font-size="20" font-weight="900" fill="#ffffff" text-anchor="middle">FANTASTIC FOUR</text>
+  <rect x="455" y="185" width="280" height="2" fill="#ffffff" opacity="0.4"/>
+  <text x="595" y="220" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">페드로 파스칼</text>
+  <text x="595" y="242" font-family="Arial, sans-serif" font-size="13" fill="#ef9a9a" text-anchor="middle">미스터 판타스틱 / 리드</text>
+  <text x="595" y="272" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">바네사 커비</text>
+  <text x="595" y="294" font-family="Arial, sans-serif" font-size="13" fill="#ef9a9a" text-anchor="middle">인비저블 우먼 / 수</text>
+  <text x="595" y="324" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">에본 모스배크래치</text>
+  <text x="595" y="346" font-family="Arial, sans-serif" font-size="13" fill="#ef9a9a" text-anchor="middle">더 씽 / 벤</text>
+  <text x="595" y="376" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">조셉 퀸</text>
+  <text x="595" y="398" font-family="Arial, sans-serif" font-size="13" fill="#ef9a9a" text-anchor="middle">휴먼 토치 / 조니</text>
+
+  <!-- X-MEN column -->
+  <rect x="810" y="135" width="330" height="440" rx="12" fill="url(#xmenGrad)" opacity="0.9"/>
+  <text x="975" y="175" font-family="Arial Black, Arial, sans-serif" font-size="20" font-weight="900" fill="#ffffff" text-anchor="middle">X-MEN</text>
+  <rect x="835" y="185" width="280" height="2" fill="#ffffff" opacity="0.4"/>
+  <rect x="855" y="200" width="240" height="30" rx="6" fill="#ffcc02" opacity="0.25"/>
+  <text x="975" y="220" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="14" fill="#ffcc02" text-anchor="middle">폭스 버전 배우 MCU 합류</text>
+  <text x="975" y="258" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">패트릭 스튜어트</text>
+  <text x="975" y="280" font-family="Arial, sans-serif" font-size="13" fill="#ce93d8" text-anchor="middle">프로페서 X</text>
+  <text x="975" y="314" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle">이안 맥켈런</text>
+  <text x="975" y="336" font-family="Arial, sans-serif" font-size="13" fill="#ce93d8" text-anchor="middle">매그니토</text>
+  <!-- Bottom -->
+  <text x="600" y="608" font-family="Arial, sans-serif" font-size="16" fill="#555555" text-anchor="middle">ambitstock.com | 2026년 기준 확정 캐스팅 (루머 제외)</text>
+</svg>

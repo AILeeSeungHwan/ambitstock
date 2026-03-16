@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d0d0d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="1200" height="5" fill="#e53935" />
+
+  <!-- Title -->
+  <text x="600" y="72" font-family="'Noto Sans KR', Arial, sans-serif" font-size="30" font-weight="700" fill="white" text-anchor="middle">레디 오어 낫 1편 vs 2편 — 무엇이 달라졌나</text>
+
+  <!-- Divider -->
+  <rect x="80" y="90" width="1040" height="2" fill="rgba(229,57,53,0.4)" />
+
+  <!-- Column headers -->
+  <!-- Left column header: 1편 -->
+  <rect x="80" y="108" width="500" height="52" rx="6" fill="rgba(229,57,53,0.15)" stroke="rgba(229,57,53,0.5)" stroke-width="1.5" />
+  <text x="330" y="141" font-family="'Noto Sans KR', Arial, sans-serif" font-size="26" font-weight="700" fill="#ff5252" text-anchor="middle">1편 (2019)</text>
+
+  <!-- Right column header: 2편 -->
+  <rect x="620" y="108" width="500" height="52" rx="6" fill="rgba(229,57,53,0.3)" stroke="#e53935" stroke-width="1.5" />
+  <text x="870" y="141" font-family="'Noto Sans KR', Arial, sans-serif" font-size="26" font-weight="700" fill="#ff8a80" text-anchor="middle">2편 (2026)</text>
+
+  <!-- VS divider -->
+  <text x="600" y="141" font-family="'Arial', sans-serif" font-size="22" font-weight="900" fill="rgba(255,255,255,0.4)" text-anchor="middle">VS</text>
+
+  <!-- Row 1: 배경 -->
+  <rect x="80" y="175" width="1040" height="56" fill="rgba(255,255,255,0.03)" />
+  <text x="100" y="195" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" fill="rgba(255,255,255,0.5)">배경</text>
+  <text x="330" y="210" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="500" fill="rgba(255,255,255,0.85)" text-anchor="middle">르 도마스 가문 저택 한 곳</text>
+  <text x="870" y="210" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="500" fill="#ff8a80" text-anchor="middle">4개 가문 / 광범위한 공간</text>
+
+  <!-- Row 2: 적의 수 -->
+  <rect x="80" y="231" width="1040" height="56" fill="rgba(255,255,255,0.06)" />
+  <text x="100" y="251" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" fill="rgba(255,255,255,0.5)">적의 수</text>
+  <text x="330" y="266" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="500" fill="rgba(255,255,255,0.85)" text-anchor="middle">르 도마스 가문 1곳</text>
+  <text x="870" y="266" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="500" fill="#ff8a80" text-anchor="middle">4개 가문 연합</text>
+
+  <!-- Row 3: 주인공 -->
+  <rect x="80" y="287" width="1040" height="56" fill="rgba(255,255,255,0.03)" />
+  <text x="100" y="307" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" fill="rgba(255,255,255,0.5)">주인공</text>
+  <text x="330" y="322" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="500" fill="rgba(255,255,255,0.85)" text-anchor="middle">그레이스 (사마라 위빙) 단독</text>
+  <text x="870" y="322" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="500" fill="#ff8a80" text-anchor="middle">그레이스 + 페이스 (캐서린 뉴튼)</text>
+
+  <!-- Row 4: 특별 캐스팅 -->
+  <rect x="80" y="343" width="1040" height="56" fill="rgba(255,255,255,0.06)" />
+  <text x="100" y="363" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" fill="rgba(255,255,255,0.5)">특별 출연</text>
+  <text x="330" y="378" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="500" fill="rgba(255,255,255,0.85)" text-anchor="middle">애덤 브로디, 마크 오브라이언</text>
+  <text x="870" y="378" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="500" fill="#ff8a80" text-anchor="middle">데이빗 크로넨버그, 일라이자 우드, 사라 미셸 겔러</text>
+
+  <!-- Row 5: 톤 -->
+  <rect x="80" y="399" width="1040" height="56" fill="rgba(255,255,255,0.03)" />
+  <text x="100" y="419" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" fill="rgba(255,255,255,0.5)">장르 톤</text>
+  <text x="330" y="434" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="500" fill="rgba(255,255,255,0.85)" text-anchor="middle">밀실 공포 + 블랙 코미디</text>
+  <text x="870" y="434" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="500" fill="#ff8a80" text-anchor="middle">확장된 추격전 + 블랙 코미디</text>
+
+  <!-- Row 6: 평점 -->
+  <rect x="80" y="455" width="1040" height="56" fill="rgba(255,255,255,0.06)" />
+  <text x="100" y="475" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" fill="rgba(255,255,255,0.5)">로튼토마토</text>
+  <text x="330" y="490" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="700" fill="#4caf50" text-anchor="middle">88% (컬트 히트)</text>
+  <text x="870" y="490" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="500" fill="rgba(255,200,200,0.7)" text-anchor="middle">개봉 후 확인 예정</text>
+
+  <!-- Bottom divider -->
+  <rect x="80" y="520" width="1040" height="2" fill="rgba(229,57,53,0.3)" />
+
+  <!-- Footer -->
+  <text x="600" y="565" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.45)" text-anchor="middle">감독: 맷 베티넬리올핀 · 타일러 질레트 (전작과 동일)</text>
+  <text x="600" y="595" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.3)" text-anchor="middle">2026년 4월 북미 개봉 | 한국 4월 중 개봉 예정</text>
+
+  <!-- Site watermark -->
+  <text x="1140" y="622" font-family="'Arial', sans-serif" font-size="14" fill="rgba(255,255,255,0.25)" text-anchor="end">ambitstock.com</text>
+</svg>

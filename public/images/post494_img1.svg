@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0a0a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg1)" />
+  <!-- Title -->
+  <text x="600" y="54" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="28" font-weight="700" fill="white" text-anchor="middle">넷플릭스 2026 한국 오리지널 라인업</text>
+  <rect x="100" y="68" width="1000" height="3" rx="1.5" fill="rgba(229,9,20,0.5)" />
+
+  <!-- Column headers -->
+  <!-- Drama column -->
+  <rect x="30" y="90" width="360" height="50" rx="10" fill="#e50914" />
+  <text x="210" y="122" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">드라마</text>
+
+  <!-- Movie column -->
+  <rect x="420" y="90" width="360" height="50" rx="10" fill="#8b0000" />
+  <text x="600" y="122" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">영화</text>
+
+  <!-- Global column -->
+  <rect x="810" y="90" width="360" height="50" rx="10" fill="#1a1a1a" />
+  <text x="990" y="122" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">글로벌 기대작</text>
+
+  <!-- Drama items -->
+  <rect x="30" y="158" width="360" height="74" rx="8" fill="rgba(229,9,20,0.20)" />
+  <text x="210" y="186" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="#FFD600" text-anchor="middle">천천히 강렬하게</text>
+  <text x="210" y="208" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.70)" text-anchor="middle">송혜교·공유 | 노희경 | 22부작 | Q4</text>
+
+  <rect x="30" y="244" width="360" height="62" rx="8" fill="rgba(229,9,20,0.12)" />
+  <text x="210" y="268" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">참교육</text>
+  <text x="210" y="290" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.65)" text-anchor="middle">학교폭력·교권 장르물</text>
+
+  <rect x="30" y="318" width="360" height="62" rx="8" fill="rgba(229,9,20,0.12)" />
+  <text x="210" y="342" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">사냥개들 시즌2</text>
+  <text x="210" y="364" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.65)" text-anchor="middle">액션 스릴러 · 시즌1 호평 속편</text>
+
+  <rect x="30" y="392" width="360" height="62" rx="8" fill="rgba(229,9,20,0.12)" />
+  <text x="210" y="416" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">들쥐</text>
+  <text x="210" y="438" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.65)" text-anchor="middle">서바이벌 스릴러</text>
+
+  <rect x="30" y="466" width="170" height="62" rx="8" fill="rgba(229,9,20,0.12)" />
+  <text x="115" y="490" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">스캔들</text>
+  <text x="115" y="512" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="13" fill="rgba(255,255,255,0.65)" text-anchor="middle">정치·권력 드라마</text>
+
+  <rect x="216" y="466" width="174" height="62" rx="8" fill="rgba(229,9,20,0.12)" />
+  <text x="303" y="490" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">맨끝줄소년</text>
+  <text x="303" y="512" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="13" fill="rgba(255,255,255,0.65)" text-anchor="middle">청소년 드라마</text>
+
+  <!-- Movie items -->
+  <rect x="420" y="158" width="360" height="74" rx="8" fill="rgba(139,0,0,0.30)" />
+  <text x="600" y="186" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="#FFD600" text-anchor="middle">가능한 사랑</text>
+  <text x="600" y="208" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.70)" text-anchor="middle">이창동 감독 | 전도연·설경구·조인성</text>
+
+  <rect x="420" y="244" width="360" height="62" rx="8" fill="rgba(139,0,0,0.16)" />
+  <text x="600" y="268" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">남편들</text>
+  <text x="600" y="290" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.65)" text-anchor="middle">코믹 액션</text>
+
+  <rect x="420" y="318" width="360" height="62" rx="8" fill="rgba(139,0,0,0.16)" />
+  <text x="600" y="342" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">크로스2</text>
+  <text x="600" y="364" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.65)" text-anchor="middle">전작 인기 속편 · 코믹 액션</text>
+
+  <!-- Global items -->
+  <rect x="810" y="158" width="360" height="74" rx="8" fill="rgba(255,255,255,0.08)" />
+  <text x="990" y="183" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="#FFD600" text-anchor="middle">성난 사람들 시즌2</text>
+  <text x="990" y="205" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.70)" text-anchor="middle">송강호 · 윤여정 합류</text>
+  <text x="990" y="223" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="13" fill="rgba(255,255,255,0.55)" text-anchor="middle">미국 드라마 · 넷플릭스</text>
+
+  <rect x="810" y="244" width="360" height="62" rx="8" fill="rgba(255,255,255,0.06)" />
+  <text x="990" y="268" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">원피스 시즌2</text>
+  <text x="990" y="290" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.65)" text-anchor="middle">실사 드라마 · 시즌1 글로벌 흥행</text>
+
+  <rect x="810" y="318" width="360" height="62" rx="8" fill="rgba(255,255,255,0.06)" />
+  <text x="990" y="342" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">브리저튼 시즌4</text>
+  <text x="990" y="364" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="14" fill="rgba(255,255,255,0.65)" text-anchor="middle">영국 로맨스 · 넷플릭스 오리지널</text>
+
+  <!-- Footer -->
+  <text x="600" y="608" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" fill="rgba(255,255,255,0.35)" text-anchor="middle">ambitstock.com — 넷플릭스 2026 한국 오리지널</text>
+</svg>

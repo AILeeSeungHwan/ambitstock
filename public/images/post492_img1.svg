@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1b2a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c5a44e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f0d080;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="1200" height="5" fill="url(#gold)" />
+
+  <!-- Title -->
+  <text x="600" y="60" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="700" fill="white" text-anchor="middle">스타워즈 극장판 타임라인</text>
+  <text x="600" y="88" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.5)" text-anchor="middle">에피소드 1부터 만달로리안 극장판까지</text>
+
+  <!-- Divider -->
+  <rect x="80" y="105" width="1040" height="2" fill="rgba(197,164,78,0.35)" />
+
+  <!-- Timeline entries -->
+
+  <!-- Row 1 -->
+  <rect x="80" y="118" width="1040" height="52" fill="rgba(255,255,255,0.03)" />
+  <rect x="80" y="118" width="4" height="52" fill="rgba(100,120,160,0.5)" />
+  <text x="200" y="140" font-family="'Arial', sans-serif" font-size="17" font-weight="700" fill="rgba(197,164,78,0.7)" text-anchor="middle">1999–2005</text>
+  <text x="200" y="160" font-family="'Arial', sans-serif" font-size="13" fill="rgba(255,255,255,0.35)" text-anchor="middle">프리퀄</text>
+  <text x="520" y="148" font-family="'Noto Sans KR', Arial, sans-serif" font-size="19" font-weight="600" fill="rgba(255,255,255,0.75)">에피소드 1·2·3 (팬텀 메나스 → 시스의 복수)</text>
+  <text x="1100" y="148" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="rgba(150,170,220,0.7)" text-anchor="end">아나킨 스카이워커의 이야기</text>
+
+  <!-- Row 2 -->
+  <rect x="80" y="170" width="1040" height="52" fill="rgba(255,255,255,0.06)" />
+  <rect x="80" y="170" width="4" height="52" fill="rgba(100,120,160,0.5)" />
+  <text x="200" y="192" font-family="'Arial', sans-serif" font-size="17" font-weight="700" fill="rgba(197,164,78,0.7)" text-anchor="middle">1977–1983</text>
+  <text x="200" y="212" font-family="'Arial', sans-serif" font-size="13" fill="rgba(255,255,255,0.35)" text-anchor="middle">오리지널</text>
+  <text x="520" y="200" font-family="'Noto Sans KR', Arial, sans-serif" font-size="19" font-weight="600" fill="rgba(255,255,255,0.75)">에피소드 4·5·6 (새로운 희망 → 제다이의 귀환)</text>
+  <text x="1100" y="200" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="rgba(150,170,220,0.7)" text-anchor="end">루크 스카이워커의 이야기</text>
+
+  <!-- Row 3 -->
+  <rect x="80" y="222" width="1040" height="52" fill="rgba(255,255,255,0.03)" />
+  <rect x="80" y="222" width="4" height="52" fill="rgba(100,120,160,0.5)" />
+  <text x="200" y="244" font-family="'Arial', sans-serif" font-size="17" font-weight="700" fill="rgba(197,164,78,0.7)" text-anchor="middle">2016</text>
+  <text x="200" y="264" font-family="'Arial', sans-serif" font-size="13" fill="rgba(255,255,255,0.35)" text-anchor="middle">스핀오프</text>
+  <text x="520" y="252" font-family="'Noto Sans KR', Arial, sans-serif" font-size="19" font-weight="600" fill="rgba(255,255,255,0.75)">로그 원: 스타워즈 스토리</text>
+  <text x="1100" y="252" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="rgba(150,170,220,0.7)" text-anchor="end">데스스타 설계도 탈취 작전</text>
+
+  <!-- Row 4 -->
+  <rect x="80" y="274" width="1040" height="52" fill="rgba(255,255,255,0.06)" />
+  <rect x="80" y="274" width="4" height="52" fill="rgba(100,120,160,0.5)" />
+  <text x="200" y="296" font-family="'Arial', sans-serif" font-size="17" font-weight="700" fill="rgba(197,164,78,0.7)" text-anchor="middle">2018</text>
+  <text x="200" y="316" font-family="'Arial', sans-serif" font-size="13" fill="rgba(255,255,255,0.35)" text-anchor="middle">스핀오프</text>
+  <text x="520" y="304" font-family="'Noto Sans KR', Arial, sans-serif" font-size="19" font-weight="600" fill="rgba(255,255,255,0.75)">한 솔로: 스타워즈 스토리</text>
+  <text x="1100" y="304" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="rgba(150,170,220,0.7)" text-anchor="end">한 솔로의 청년 시절</text>
+
+  <!-- Row 5 -->
+  <rect x="80" y="326" width="1040" height="52" fill="rgba(255,255,255,0.03)" />
+  <rect x="80" y="326" width="4" height="52" fill="rgba(100,120,160,0.5)" />
+  <text x="200" y="348" font-family="'Arial', sans-serif" font-size="17" font-weight="700" fill="rgba(197,164,78,0.7)" text-anchor="middle">2015–2019</text>
+  <text x="200" y="368" font-family="'Arial', sans-serif" font-size="13" fill="rgba(255,255,255,0.35)" text-anchor="middle">시퀄</text>
+  <text x="520" y="356" font-family="'Noto Sans KR', Arial, sans-serif" font-size="19" font-weight="600" fill="rgba(255,255,255,0.75)">에피소드 7·8·9 (깨어난 포스 → 라이즈 오브 스카이워커)</text>
+  <text x="1100" y="356" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="rgba(150,170,220,0.7)" text-anchor="end">레이의 이야기</text>
+
+  <!-- Row 6 — Mandalorian Drama -->
+  <rect x="80" y="378" width="1040" height="52" fill="rgba(197,164,78,0.07)" />
+  <rect x="80" y="378" width="4" height="52" fill="rgba(197,164,78,0.6)" />
+  <text x="200" y="400" font-family="'Arial', sans-serif" font-size="17" font-weight="700" fill="rgba(197,164,78,0.9)" text-anchor="middle">2019–2023</text>
+  <text x="200" y="420" font-family="'Arial', sans-serif" font-size="13" fill="rgba(197,164,78,0.6)" text-anchor="middle">드라마</text>
+  <text x="520" y="408" font-family="'Noto Sans KR', Arial, sans-serif" font-size="19" font-weight="600" fill="rgba(240,208,128,0.9)">만달로리안 시즌 1·2·3 (디즈니+)</text>
+  <text x="1100" y="408" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="rgba(197,164,78,0.75)" text-anchor="end">딘 자린 + 그로구의 만남</text>
+
+  <!-- Row 7 — NEW -->
+  <rect x="80" y="430" width="1040" height="60" rx="4" fill="rgba(197,164,78,0.15)" stroke="rgba(197,164,78,0.5)" stroke-width="1.5" />
+  <rect x="80" y="430" width="6" height="60" rx="3" fill="#f0d080" />
+  <text x="200" y="454" font-family="'Arial', sans-serif" font-size="18" font-weight="700" fill="#f0d080" text-anchor="middle">2026.05.22</text>
+  <text x="200" y="476" font-family="'Arial', sans-serif" font-size="13" fill="rgba(240,208,128,0.8)" text-anchor="middle">극장판</text>
+  <text x="520" y="462" font-family="'Noto Sans KR', Arial, sans-serif" font-size="21" font-weight="700" fill="white">만달로리안과 그로구</text>
+  <rect x="490" y="468" width="220" height="3" rx="1" fill="rgba(240,208,128,0.5)" />
+  <text x="1100" y="469" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="#f0d080" text-anchor="end">7년 만의 극장 복귀 · 감독: 존 패브로</text>
+
+  <!-- Bottom divider -->
+  <rect x="80" y="502" width="1040" height="2" fill="rgba(197,164,78,0.25)" />
+
+  <!-- Footer note -->
+  <text x="600" y="540" font-family="'Noto Sans KR', Arial, sans-serif" font-size="17" fill="rgba(255,255,255,0.45)" text-anchor="middle">극장판 입문 추천 순서: 에피소드 4·5·6 → 로그 원 → 만달로리안 시즌 1·2</text>
+  <text x="600" y="565" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" fill="rgba(255,255,255,0.3)" text-anchor="middle">총 제작: 루카스필름 / 배급: 디즈니</text>
+
+  <!-- Site watermark -->
+  <text x="1140" y="615" font-family="'Arial', sans-serif" font-size="14" fill="rgba(255,255,255,0.22)" text-anchor="end">ambitstock.com</text>
+</svg>

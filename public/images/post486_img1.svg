@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1f1c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a2e2a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="barHoppers" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00897b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4db6ac;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="barCoco" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e53935;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef9a9a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="barIO2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e88e5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#90caf9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="barElemental" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#fb8c00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffcc80;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="barTurning" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8e24aa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ce93d8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="85" fill="#00897b" opacity="0.2"/>
+  <text x="600" y="48" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="700" fill="white" text-anchor="middle">픽사 최근작 로튼토마토 비평가 점수 비교</text>
+  <text x="600" y="74" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="#80cbc4" text-anchor="middle" opacity="0.9">오리지널 vs 속편 — 호퍼스는 어디에 서있나</text>
+
+  <!-- Y-axis label -->
+  <text x="40" y="340" font-family="'Noto Sans KR', Arial, sans-serif" font-size="13" fill="#80cbc4" text-anchor="middle" transform="rotate(-90, 40, 340)" opacity="0.7">로튼토마토 점수</text>
+
+  <!-- Chart area background -->
+  <rect x="100" y="105" width="1060" height="380" rx="8" fill="white" opacity="0.03"/>
+
+  <!-- Grid lines -->
+  <line x1="100" y1="105" x2="1160" y2="105" stroke="#80cbc4" stroke-width="0.5" opacity="0.2"/>
+  <line x1="100" y1="200" x2="1160" y2="200" stroke="#80cbc4" stroke-width="0.5" opacity="0.2" stroke-dasharray="4,4"/>
+  <line x1="100" y1="295" x2="1160" y2="295" stroke="#80cbc4" stroke-width="0.5" opacity="0.2" stroke-dasharray="4,4"/>
+  <line x1="100" y1="390" x2="1160" y2="390" stroke="#80cbc4" stroke-width="0.5" opacity="0.2" stroke-dasharray="4,4"/>
+  <line x1="100" y1="485" x2="1160" y2="485" stroke="#80cbc4" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- Y-axis labels -->
+  <text x="88" y="109" font-family="Arial, sans-serif" font-size="14" fill="#80cbc4" text-anchor="end" opacity="0.8">100%</text>
+  <text x="88" y="204" font-family="Arial, sans-serif" font-size="14" fill="#80cbc4" text-anchor="end" opacity="0.8">75%</text>
+  <text x="88" y="299" font-family="Arial, sans-serif" font-size="14" fill="#80cbc4" text-anchor="end" opacity="0.8">50%</text>
+  <text x="88" y="394" font-family="Arial, sans-serif" font-size="14" fill="#80cbc4" text-anchor="end" opacity="0.8">25%</text>
+  <text x="88" y="489" font-family="Arial, sans-serif" font-size="14" fill="#80cbc4" text-anchor="end" opacity="0.8">0%</text>
+
+  <!-- Bar 1: 호퍼스 94% -->
+  <!-- 94% of 380 = 357.2, so top = 485 - 357 = 128 -->
+  <rect x="135" y="128" width="150" height="357" rx="6" fill="url(#barHoppers)" opacity="0.95"/>
+  <text x="210" y="120" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#4db6ac" text-anchor="middle">94%</text>
+  <text x="210" y="510" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" font-weight="700" fill="white" text-anchor="middle">호퍼스</text>
+  <text x="210" y="528" font-family="'Noto Sans KR', Arial, sans-serif" font-size="12" fill="#80cbc4" text-anchor="middle">(2026)</text>
+
+  <!-- Bar 2: 코코 97% -->
+  <!-- 97% of 380 = 368.6, top = 485 - 369 = 116 -->
+  <rect x="320" y="116" width="150" height="369" rx="6" fill="url(#barCoco)" opacity="0.9"/>
+  <text x="395" y="108" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ef9a9a" text-anchor="middle">97%</text>
+  <text x="395" y="510" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" font-weight="700" fill="white" text-anchor="middle">코코</text>
+  <text x="395" y="528" font-family="'Noto Sans KR', Arial, sans-serif" font-size="12" fill="#80cbc4" text-anchor="middle">(2017)</text>
+
+  <!-- Bar 3: 인사이드아웃2 91% -->
+  <!-- 91% of 380 = 345.8, top = 485 - 346 = 139 -->
+  <rect x="505" y="139" width="150" height="346" rx="6" fill="url(#barIO2)" opacity="0.9"/>
+  <text x="580" y="131" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#90caf9" text-anchor="middle">91%</text>
+  <text x="580" y="510" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" font-weight="700" fill="white" text-anchor="middle">인사이드아웃2</text>
+  <text x="580" y="528" font-family="'Noto Sans KR', Arial, sans-serif" font-size="12" fill="#80cbc4" text-anchor="middle">(2024)</text>
+
+  <!-- Bar 4: 엘리멘탈 73% -->
+  <!-- 73% of 380 = 277.4, top = 485 - 277 = 208 -->
+  <rect x="690" y="208" width="150" height="277" rx="6" fill="url(#barElemental)" opacity="0.85"/>
+  <text x="765" y="200" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffcc80" text-anchor="middle">73%</text>
+  <text x="765" y="510" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" font-weight="700" fill="white" text-anchor="middle">엘리멘탈</text>
+  <text x="765" y="528" font-family="'Noto Sans KR', Arial, sans-serif" font-size="12" fill="#80cbc4" text-anchor="middle">(2023)</text>
+
+  <!-- Bar 5: 메가로돈 75% (turning red) -->
+  <!-- 75% of 380 = 285, top = 485 - 285 = 200 -->
+  <rect x="875" y="200" width="150" height="285" rx="6" fill="url(#barTurning)" opacity="0.85"/>
+  <text x="950" y="192" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ce93d8" text-anchor="middle">75%</text>
+  <text x="950" y="510" font-family="'Noto Sans KR', Arial, sans-serif" font-size="15" font-weight="700" fill="white" text-anchor="middle">메가로돈</text>
+  <text x="950" y="528" font-family="'Noto Sans KR', Arial, sans-serif" font-size="12" fill="#80cbc4" text-anchor="middle">(2022)</text>
+
+  <!-- Highlight box for Hoppers -->
+  <rect x="130" y="123" width="160" height="367" rx="6" fill="none" stroke="#ffee58" stroke-width="2.5" opacity="0.6"/>
+  <text x="210" y="155" font-family="'Noto Sans KR', Arial, sans-serif" font-size="13" fill="#ffee58" text-anchor="middle" font-weight="700">★ 2026 최고</text>
+
+  <!-- Footer -->
+  <rect x="0" y="550" width="1200" height="80" fill="#004d40" opacity="0.4"/>
+  <text x="600" y="585" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="#80cbc4" text-anchor="middle">비평가 + 관객 모두 94% — 코코 이후 오리지널 픽사 최고 평점</text>
+  <text x="600" y="612" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#546e7a" text-anchor="middle">ambitstock.com  |  R의 필름공장</text>
+</svg>

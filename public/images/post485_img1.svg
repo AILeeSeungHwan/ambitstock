@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1a2e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a73e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a1b9a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a148c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00897b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00695c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e65100;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bf360c;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#c62828;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b71c1c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="90" fill="#1a73e8" opacity="0.15"/>
+  <text x="600" y="55" font-family="'Noto Sans KR', Arial, sans-serif" font-size="30" font-weight="700" fill="white" text-anchor="middle">프로젝트 헤일메리 — 감상 포인트 5가지</text>
+  <text x="600" y="80" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="#90caf9" text-anchor="middle" opacity="0.8">보기 전 알아두면 더 재미있는 키워드</text>
+
+  <!-- Card 1: SF -->
+  <rect x="60" y="115" width="210" height="200" rx="16" fill="url(#card1)" opacity="0.9"/>
+  <text x="165" y="175" font-family="Arial, sans-serif" font-size="48" text-anchor="middle">🚀</text>
+  <text x="165" y="225" font-family="'Noto Sans KR', Arial, sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">하드 SF</text>
+  <text x="165" y="255" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#bbdefb" text-anchor="middle">실제 과학 기반</text>
+  <text x="165" y="278" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#bbdefb" text-anchor="middle">이해하기 쉽게</text>
+  <text x="165" y="301" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#bbdefb" text-anchor="middle">설명해줌</text>
+
+  <!-- Card 2: 우정 -->
+  <rect x="290" y="115" width="210" height="200" rx="16" fill="url(#card2)" opacity="0.9"/>
+  <text x="395" y="175" font-family="Arial, sans-serif" font-size="48" text-anchor="middle">🤝</text>
+  <text x="395" y="225" font-family="'Noto Sans KR', Arial, sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">초월적 우정</text>
+  <text x="395" y="255" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#e1bee7" text-anchor="middle">로키와의 만남</text>
+  <text x="395" y="278" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#e1bee7" text-anchor="middle">언어 없이도</text>
+  <text x="395" y="301" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#e1bee7" text-anchor="middle">통하는 존재</text>
+
+  <!-- Card 3: 유머 -->
+  <rect x="520" y="115" width="210" height="200" rx="16" fill="url(#card3)" opacity="0.9"/>
+  <text x="625" y="175" font-family="Arial, sans-serif" font-size="48" text-anchor="middle">😄</text>
+  <text x="625" y="225" font-family="'Noto Sans KR', Arial, sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">마션식 유머</text>
+  <text x="625" y="255" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#b2dfdb" text-anchor="middle">혼자라도</text>
+  <text x="625" y="278" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#b2dfdb" text-anchor="middle">유쾌하게</text>
+  <text x="625" y="301" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#b2dfdb" text-anchor="middle">살아남기</text>
+
+  <!-- Card 4: 감동 -->
+  <rect x="750" y="115" width="210" height="200" rx="16" fill="url(#card4)" opacity="0.9"/>
+  <text x="855" y="175" font-family="Arial, sans-serif" font-size="48" text-anchor="middle">💧</text>
+  <text x="855" y="225" font-family="'Noto Sans KR', Arial, sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">인간적 감동</text>
+  <text x="855" y="255" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#ffe0b2" text-anchor="middle">기억을 잃은 채</text>
+  <text x="855" y="278" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#ffe0b2" text-anchor="middle">인류를 구하는</text>
+  <text x="855" y="301" font-family="'Noto Sans KR', Arial, sans-serif" font-size="14" fill="#ffe0b2" text-anchor="middle">선택</text>
+
+  <!-- Card 5: 연기 -->
+  <rect x="980" y="115" width="160" height="200" rx="16" fill="url(#card5)" opacity="0.9"/>
+  <text x="1060" y="175" font-family="Arial, sans-serif" font-size="48" text-anchor="middle">🎬</text>
+  <text x="1060" y="225" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="700" fill="white" text-anchor="middle">라이언</text>
+  <text x="1060" y="249" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="700" fill="white" text-anchor="middle">고슬링</text>
+  <text x="1060" y="278" font-family="'Noto Sans KR', Arial, sans-serif" font-size="13" fill="#ffcdd2" text-anchor="middle">커리어</text>
+  <text x="1060" y="298" font-family="'Noto Sans KR', Arial, sans-serif" font-size="13" fill="#ffcdd2" text-anchor="middle">최고 연기</text>
+
+  <!-- Bottom section: Rating info -->
+  <rect x="60" y="345" width="1080" height="110" rx="12" fill="#1a73e8" opacity="0.12"/>
+  <rect x="60" y="345" width="1080" height="110" rx="12" fill="none" stroke="#1a73e8" stroke-width="1" opacity="0.3"/>
+
+  <text x="600" y="385" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" font-weight="700" fill="#90caf9" text-anchor="middle">로튼토마토 94%  ·  앤디 위어 원작  ·  필 로드·크리스토퍼 밀러 감독</text>
+  <text x="600" y="420" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" fill="#64b5f6" text-anchor="middle">156분  ·  2026년 3월 18일 개봉  ·  "어른의 월-E" "문이과 대통합 영화"</text>
+  <text x="600" y="445" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="#42a5f5" text-anchor="middle" opacity="0.8">시사회 후 "아카데미 남우주연상 1순위" 언급 다수</text>
+
+  <!-- Footer -->
+  <text x="600" y="590" font-family="'Noto Sans KR', Arial, sans-serif" font-size="16" fill="#546e7a" text-anchor="middle">ambitstock.com  |  R의 필름공장</text>
+</svg>
