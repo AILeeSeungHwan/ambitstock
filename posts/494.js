@@ -47,7 +47,7 @@ const post = {
       type: 'image',
       src: '/images/post494_poster.jpg',
       alt: '기생충 공식 포스터 - 봉준호 감독',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     {
       type: 'h2',
@@ -94,7 +94,7 @@ const post = {
       type: 'image',
       src: '/images/post494_still1.jpg',
       alt: '기생충 스틸컷',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     {
       type: 'ending',

@@ -27,7 +27,7 @@ const post = {
       type: 'image',
       src: '/images/post493_poster.jpg',
       alt: '듄 파트 2 공식 포스터',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     {
       type: 'body',
@@ -94,7 +94,7 @@ const post = {
       type: 'image',
       src: '/images/post493_still1.jpg',
       alt: '듄 파트 2 스틸컷',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     {
       type: 'ending',

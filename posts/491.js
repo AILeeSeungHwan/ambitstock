@@ -27,7 +27,7 @@ const post = {
       type: 'image',
       src: '/images/post491_poster.jpg',
       alt: '레디 오어 낫 2 공식 포스터 - 사마라 위빙',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     {
       type: 'h2',
@@ -84,7 +84,7 @@ const post = {
       type: 'image',
       src: '/images/post491_still1.jpg',
       alt: '레디 오어 낫 2 스틸컷',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     {
       type: 'ending',

@@ -15,7 +15,7 @@ const post = {
       type: 'image',
       src: '/images/post488_poster.jpg',
       alt: '슈퍼마리오 갤럭시 무비 공식 포스터',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
@@ -59,7 +59,7 @@ const post = {
       type: 'image',
       src: '/images/post488_still1.jpg',
       alt: '슈퍼마리오 갤럭시 무비 스틸컷 - 우주 배경 장면',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {

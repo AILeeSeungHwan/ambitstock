@@ -27,7 +27,7 @@ const post = {
       type: 'image',
       src: '/images/post492_poster.jpg',
       alt: '만달로리안과 그로구 공식 포스터 - 스타워즈',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     {
       type: 'h2',
@@ -84,7 +84,7 @@ const post = {
       type: 'image',
       src: '/images/post492_still1.jpg',
       alt: '만달로리안과 그로구 스틸컷',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     {
       type: 'ending',

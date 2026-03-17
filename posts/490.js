@@ -15,7 +15,7 @@ const post = {
       type: 'image',
       src: '/images/post490_poster.jpg',
       alt: '토이스토리 5 공식 포스터 - 픽사',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
@@ -59,7 +59,7 @@ const post = {
       type: 'image',
       src: '/images/post490_still1.jpg',
       alt: '토이스토리 5 스틸컷 - 우디와 버즈 장면',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {

@@ -140,10 +140,10 @@ claude --dangerously-skip-permissions
 - 파일명: `post{ID}_thumb.svg`
 - 역할: og:image 전용, 본문에는 노출하지 않아도 됨
 
-### 본문 이미지 (TMDB 크롤링)
+### 본문 이미지 (네이버 크롤링)
 - 소스: `scripts/crawl_movie_images.py --post-id {ID} --query "{영화이름}"`
 - 파일명: `post{ID}_poster.jpg`, `post{ID}_still{N}.jpg`
-- 모든 이미지에 `caption: '출처: TMDB'` 또는 `caption: 'ⓒ TMDB'` 필수
+- 모든 이미지에 `caption: '출처: 네이버 영화'` 또는 `caption: 'ⓒ 네이버 영화'` 필수
 
 ### 유형별 이미지 수량
 | 글 유형 | 본문 이미지 |
@@ -194,9 +194,9 @@ claude --dangerously-skip-permissions
 □ description이 핵심 키워드 전면 배치, 150자 이내
 □ 광고 3개 이하 (장문 시 4개)
 □ 이미지 수량이 글 유형 기준 이하 (단일 리뷰 4장, TOP N형 N장)
-□ 본문 이미지는 TMDB 크롤링 포스터/스틸컷 사용
+□ 본문 이미지는 네이버 크롤링 포스터/스틸컷 사용
 □ 출처 불명 이미지 없음
-□ 이미지 alt/caption 구체적 + 출처: TMDB 표기
+□ 이미지 alt/caption 구체적 + 출처: 네이버 영화 표기
 □ 평점/순위에 기준일/출처 있음
 □ 내부링크 앵커가 설명형
 □ body가 6개 이상
@@ -231,7 +231,7 @@ claude --dangerously-skip-permissions
 - 단일 영화 리뷰: 포스터 1 + 스틸컷 1~2 = 2~3장
 - TOP N 추천: 각 작품 포스터 1장씩 = N장
 - OTT/비교형: 주요 작품 포스터 2~3장
-- 모든 이미지에 alt + caption + 출처(TMDB) 표기
+- 모든 이미지에 alt + caption + 출처(네이버) 표기
 
 ### SEO 최적화 규칙
 - 제목: 핵심 검색 키워드를 앞쪽에 배치

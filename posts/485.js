@@ -15,7 +15,7 @@ const post = {
       type: 'image',
       src: '/images/post485_poster.jpg',
       alt: '프로젝트 헤일메리 공식 포스터 - 라이언 고슬링 주연',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
@@ -59,7 +59,7 @@ const post = {
       type: 'image',
       src: '/images/post485_still1.jpg',
       alt: '프로젝트 헤일메리 스틸컷 - 우주선 내부 장면',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -86,7 +86,7 @@ const post = {
       type: 'image',
       src: '/images/post485_still2.jpg',
       alt: '프로젝트 헤일메리 스틸컷 - 우주 배경 장면',
-      caption: '출처: TMDB'
+      caption: '출처: 네이버 영화'
     },
     {
       type: 'cta',
