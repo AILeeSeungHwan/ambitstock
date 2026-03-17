@@ -1,15 +1,64 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a0030"/>
-      <stop offset="100%" style="stop-color:#042f2e"/>
+      <stop offset="0%" stop-color="#002820"/>
+      <stop offset="100%" stop-color="#004d40"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00897b"/>
+      <stop offset="100%" stop-color="#4db6ac"/>
+    </linearGradient>
+    <linearGradient id="accentH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00897b"/>
+      <stop offset="100%" stop-color="#4db6ac"/>
+    </linearGradient>
+    <linearGradient id="sakura" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f9a8d4"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
     </linearGradient>
   </defs>
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.25)"/>
-  <circle cx="1000" cy="200" r="180" fill="rgba(179,71,255,0.12)"/>
-  <circle cx="200" cy="450" r="120" fill="rgba(0,229,255,0.10)"/>
-  <text x="600" y="268" text-anchor="middle" font-size="90" font-weight="900" fill="#b347ff" font-family="Pretendard, sans-serif">일본 애니</text>
-  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(0,229,255,0.95)" font-family="Pretendard, sans-serif">입문 가이드</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <!-- Bamboo stalks decoration right side -->
+  <rect x="920" y="0" width="14" height="630" rx="7" fill="#00897b" opacity="0.12"/>
+  <rect x="960" y="0" width="10" height="630" rx="5" fill="#4db6ac" opacity="0.09"/>
+  <rect x="1000" y="0" width="14" height="630" rx="7" fill="#00897b" opacity="0.10"/>
+  <rect x="1045" y="0" width="8" height="630" rx="4" fill="#4db6ac" opacity="0.07"/>
+  <rect x="1085" y="0" width="14" height="630" rx="7" fill="#00897b" opacity="0.09"/>
+  <rect x="1130" y="0" width="10" height="630" rx="5" fill="#4db6ac" opacity="0.08"/>
+  <!-- Bamboo nodes -->
+  <rect x="917" y="180" width="20" height="5" rx="2.5" fill="#00897b" opacity="0.2"/>
+  <rect x="917" y="360" width="20" height="5" rx="2.5" fill="#00897b" opacity="0.2"/>
+  <rect x="957" y="240" width="16" height="4" rx="2" fill="#4db6ac" opacity="0.18"/>
+  <rect x="957" y="450" width="16" height="4" rx="2" fill="#4db6ac" opacity="0.18"/>
+  <rect x="997" y="150" width="20" height="5" rx="2.5" fill="#00897b" opacity="0.18"/>
+  <rect x="997" y="350" width="20" height="5" rx="2.5" fill="#00897b" opacity="0.18"/>
+  <rect x="997" y="520" width="20" height="5" rx="2.5" fill="#00897b" opacity="0.15"/>
+  <!-- Sakura petals floating -->
+  <ellipse cx="750" cy="110" rx="9" ry="6" fill="#f9a8d4" opacity="0.35" transform="rotate(-30 750 110)"/>
+  <ellipse cx="820" cy="160" rx="8" ry="5" fill="#f9a8d4" opacity="0.28" transform="rotate(20 820 160)"/>
+  <ellipse cx="690" cy="200" rx="7" ry="5" fill="#fbbf24" opacity="0.25" transform="rotate(-15 690 200)"/>
+  <ellipse cx="780" cy="250" rx="9" ry="6" fill="#f9a8d4" opacity="0.2" transform="rotate(40 780 250)"/>
+  <ellipse cx="840" cy="90" rx="6" ry="4" fill="#fbbf24" opacity="0.3" transform="rotate(-25 840 90)"/>
+  <ellipse cx="710" cy="140" rx="8" ry="5" fill="#f9a8d4" opacity="0.22" transform="rotate(10 710 140)"/>
+  <!-- Wave pattern bottom -->
+  <path d="M0,560 C150,540 300,580 450,560 C600,540 750,580 900,560 C1050,540 1150,570 1200,560 L1200,630 L0,630 Z" fill="#00897b" opacity="0.06"/>
+  <!-- Left accent bar -->
+  <rect x="78" y="155" width="7" height="305" fill="url(#accent)" rx="3"/>
+  <!-- Category badge -->
+  <rect x="108" y="155" width="196" height="38" rx="19" fill="#00897b"/>
+  <text x="206" y="180" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">애니메이션</text>
+  <!-- Japan badge -->
+  <rect x="320" y="155" width="130" height="38" rx="19" fill="none" stroke="#4db6ac" stroke-width="2" opacity="0.65"/>
+  <text x="385" y="180" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="17" font-weight="600" fill="#4db6ac" text-anchor="middle">일본 애니</text>
+  <!-- Main title -->
+  <text x="108" y="290" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="88" font-weight="900" fill="white">일본 애니</text>
+  <text x="108" y="388" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="88" font-weight="900" fill="url(#accentH)">입문 가이드</text>
+  <!-- Subtitle -->
+  <text x="108" y="445" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" fill="#80cbc4" opacity="0.85">어디서부터 볼까?</text>
+  <!-- Sakura underline -->
+  <rect x="108" y="468" width="420" height="3" rx="1.5" fill="url(#sakura)" opacity="0.45"/>
+  <!-- Bottom bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="#000" opacity="0.2"/>
+  <text x="600" y="608" font-family="'Apple SD Gothic Neo',sans-serif" font-size="20" fill="white" opacity="0.45" text-anchor="middle">ambitstock.com | R의 필름공장</text>
 </svg>

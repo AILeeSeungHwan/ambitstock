@@ -1,14 +1,39 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#111111"/>
-      <stop offset="100%" style="stop-color:#cc1a50"/>
+    <linearGradient id="bg48" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0000"/>
+      <stop offset="100%" stop-color="#3d0000"/>
+    </linearGradient>
+    <linearGradient id="accent48" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e53935"/>
+      <stop offset="100%" stop-color="#ef5350"/>
+    </linearGradient>
+    <linearGradient id="wavefill48" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e53935" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#e53935" stop-opacity="0.02"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.28)"/>
-  <circle cx="200" cy="200" r="130" fill="rgba(255,45,120,0.12)"/>
-  <text x="600" y="268" text-anchor="middle" font-size="96" font-weight="900" fill="#ff2d78" font-family="Pretendard, sans-serif">K드라마</text>
-  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">해외 반응</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <rect width="1200" height="630" fill="url(#bg48)"/>
+  <!-- Wave / ripple decorative motif -->
+  <path d="M680,80 Q800,160 920,80 Q1040,0 1160,80 L1200,80 L1200,580 L680,580 Z" fill="url(#wavefill48)"/>
+  <path d="M640,170 C760,110 880,210 1000,150 C1120,90 1180,190 1210,160" fill="none" stroke="#e53935" stroke-width="2" stroke-opacity="0.22"/>
+  <path d="M640,225 C770,165 890,265 1010,205 C1130,145 1190,245 1210,215" fill="none" stroke="#e53935" stroke-width="1.5" stroke-opacity="0.16"/>
+  <path d="M640,280 C780,220 900,320 1020,260 C1140,200 1195,300 1210,270" fill="none" stroke="#e53935" stroke-width="1.2" stroke-opacity="0.12"/>
+  <path d="M640,335 C790,275 910,375 1030,315 C1150,255 1198,355 1210,325" fill="none" stroke="#e53935" stroke-width="1" stroke-opacity="0.09"/>
+  <path d="M640,390 C800,330 920,430 1040,370 C1160,310 1200,410 1210,380" fill="none" stroke="#e53935" stroke-width="0.8" stroke-opacity="0.07"/>
+  <path d="M640,445 C810,385 930,485 1050,425 C1170,365 1202,465 1210,435" fill="none" stroke="#e53935" stroke-width="0.8" stroke-opacity="0.06"/>
+  <!-- Accent bar -->
+  <rect x="80" y="175" width="6" height="280" fill="url(#accent48)" rx="3"/>
+  <!-- Badge -->
+  <rect x="110" y="175" width="210" height="38" rx="19" fill="#e53935"/>
+  <text x="215" y="194" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle" dominant-baseline="middle">해외반응후기</text>
+  <!-- Titles -->
+  <text x="110" y="308" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="84" font-weight="900" fill="white" letter-spacing="-2">K드라마</text>
+  <text x="110" y="405" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="84" font-weight="900" fill="url(#accent48)" letter-spacing="-2">해외 반응</text>
+  <!-- Subtitle -->
+  <text x="110" y="462" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="25" fill="#ef9a9a" letter-spacing="0.5">글로벌 인기 비결 — 왜 전 세계가 빠져드나</text>
+  <!-- Bottom bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="#000" fill-opacity="0.35"/>
+  <rect x="0" y="570" width="1200" height="3" fill="url(#accent48)"/>
+  <text x="600" y="603" font-family="'Segoe UI',Arial,sans-serif" font-size="19" fill="white" fill-opacity="0.65" text-anchor="middle" dominant-baseline="middle" letter-spacing="3">ambitstock.com | R의 필름공장</text>
 </svg>

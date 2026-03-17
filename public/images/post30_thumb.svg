@@ -1,15 +1,62 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e1b4b"/>
-      <stop offset="100%" style="stop-color:#4a1535"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#1a3a5c"/>
     </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a73e8"/>
+      <stop offset="100%" stop-color="#42a5f5"/>
+    </linearGradient>
+    <linearGradient id="warmPink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+    <linearGradient id="accentH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a73e8"/>
+      <stop offset="100%" stop-color="#42a5f5"/>
+    </linearGradient>
+    <radialGradient id="heartGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0.0"/>
+    </radialGradient>
   </defs>
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.25)"/>
-  <circle cx="200" cy="180" r="120" fill="rgba(244,63,94,0.12)"/>
-  <circle cx="1000" cy="450" r="100" fill="rgba(244,63,94,0.10)"/>
-  <text x="600" y="268" text-anchor="middle" font-size="92" font-weight="900" fill="#f43f5e" font-family="Pretendard, sans-serif">커플 영화</text>
-  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">데이트 추천</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <!-- Warm glow circles -->
+  <circle cx="1050" cy="180" r="180" fill="url(#heartGlow)"/>
+  <circle cx="950" cy="420" r="120" fill="#fb923c" opacity="0.05"/>
+  <!-- Floating hearts decoration -->
+  <!-- Heart 1 large -->
+  <path d="M1060,140 C1060,130 1050,118 1035,118 C1020,118 1010,130 1010,143 C1010,165 1060,195 1060,195 C1060,195 1110,165 1110,143 C1110,130 1100,118 1085,118 C1070,118 1060,130 1060,140 Z" fill="#f472b6" opacity="0.35"/>
+  <!-- Heart 2 medium -->
+  <path d="M920,330 C920,324 914,316 905,316 C896,316 890,324 890,331 C890,343 920,360 920,360 C920,360 950,343 950,331 C950,324 944,316 935,316 C926,316 920,324 920,330 Z" fill="#fb923c" opacity="0.28"/>
+  <!-- Heart 3 small -->
+  <path d="M1120,280 C1120,276 1116,271 1110,271 C1104,271 1100,276 1100,281 C1100,289 1120,300 1120,300 C1120,300 1140,289 1140,281 C1140,276 1136,271 1130,271 C1124,271 1120,276 1120,280 Z" fill="#f472b6" opacity="0.22"/>
+  <!-- Heart 4 tiny -->
+  <path d="M840,180 C840,177 837,173 833,173 C829,173 826,177 826,180 C826,185 840,192 840,192 C840,192 854,185 854,180 C854,177 851,173 847,173 C843,173 840,177 840,180 Z" fill="#fb923c" opacity="0.2"/>
+  <!-- Warm particle dots -->
+  <circle cx="760" cy="110" r="3" fill="#f472b6" opacity="0.25"/>
+  <circle cx="800" cy="160" r="2" fill="#fb923c" opacity="0.2"/>
+  <circle cx="730" cy="200" r="2.5" fill="#f472b6" opacity="0.18"/>
+  <circle cx="1150" cy="380" r="2" fill="#f472b6" opacity="0.2"/>
+  <circle cx="1170" cy="200" r="3" fill="#fb923c" opacity="0.18"/>
+  <!-- Left accent bar with warm tint -->
+  <rect x="78" y="155" width="7" height="305" fill="url(#accent)" rx="3"/>
+  <!-- Category badge -->
+  <rect x="108" y="155" width="176" height="38" rx="19" fill="#1a73e8"/>
+  <text x="196" y="180" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">영화추천</text>
+  <!-- Date badge -->
+  <rect x="300" y="155" width="140" height="38" rx="19" fill="#f472b6" opacity="0.22"/>
+  <text x="370" y="180" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="17" font-weight="600" fill="#f9a8d4" text-anchor="middle">데이트 영화</text>
+  <!-- Main title -->
+  <text x="108" y="290" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="88" font-weight="900" fill="white">커플 영화</text>
+  <text x="108" y="388" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="88" font-weight="900" fill="url(#accentH)">데이트 추천</text>
+  <!-- Subtitle -->
+  <text x="108" y="445" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" fill="#7ab8f5" opacity="0.85">연인과 함께 보기 좋은</text>
+  <!-- Warm underline -->
+  <rect x="108" y="468" width="440" height="3" rx="1.5" fill="url(#warmPink)" opacity="0.55"/>
+  <!-- Bottom bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="#000" opacity="0.2"/>
+  <text x="600" y="608" font-family="'Apple SD Gothic Neo',sans-serif" font-size="20" fill="white" opacity="0.45" text-anchor="middle">ambitstock.com | R의 필름공장</text>
 </svg>

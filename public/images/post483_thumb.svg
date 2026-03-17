@@ -1,15 +1,58 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1c1c1c"/>
-      <stop offset="100%" style="stop-color:#4a2000"/>
+    <linearGradient id="bg483" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="100%" stop-color="#1c1400"/>
     </linearGradient>
+    <linearGradient id="accentGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c9a94e"/>
+      <stop offset="100%" stop-color="#ffd700"/>
+    </linearGradient>
+    <radialGradient id="goldglow483" cx="80%" cy="45%" r="42%">
+      <stop offset="0%" stop-color="#c9a94e" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#c9a94e" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.28)"/>
-  <rect x="80" y="75" width="3" height="480" fill="rgba(255,215,0,0.5)"/>
-  <rect x="1117" y="75" width="3" height="480" fill="rgba(255,215,0,0.5)"/>
-  <text x="600" y="268" text-anchor="middle" font-size="96" font-weight="900" fill="#ffd700" font-family="Pretendard, sans-serif">봉준호</text>
-  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">영화 가이드</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <rect width="1200" height="630" fill="url(#bg483)"/>
+  <rect width="1200" height="630" fill="url(#goldglow483)"/>
+  <!-- Film strip decorative motif (right side, vertical) -->
+  <rect x="920" y="60" width="80" height="510" rx="6" fill="none" stroke="#c9a94e" stroke-width="1.5" stroke-opacity="0.20"/>
+  <rect x="927" y="60" width="66" height="510" rx="4" fill="#c9a94e" fill-opacity="0.04"/>
+  <!-- Film perforations (top and bottom rows) -->
+  <rect x="927" y="70" width="14" height="20" rx="3" fill="#c9a94e" fill-opacity="0.15"/>
+  <rect x="949" y="70" width="14" height="20" rx="3" fill="#c9a94e" fill-opacity="0.15"/>
+  <rect x="971" y="70" width="14" height="20" rx="3" fill="#c9a94e" fill-opacity="0.15"/>
+  <rect x="927" y="540" width="14" height="20" rx="3" fill="#c9a94e" fill-opacity="0.15"/>
+  <rect x="949" y="540" width="14" height="20" rx="3" fill="#c9a94e" fill-opacity="0.15"/>
+  <rect x="971" y="540" width="14" height="20" rx="3" fill="#c9a94e" fill-opacity="0.15"/>
+  <!-- Film frames -->
+  <rect x="930" y="105" width="60" height="80" rx="3" fill="#c9a94e" fill-opacity="0.08" stroke="#c9a94e" stroke-width="0.8" stroke-opacity="0.18"/>
+  <rect x="930" y="200" width="60" height="80" rx="3" fill="#c9a94e" fill-opacity="0.08" stroke="#c9a94e" stroke-width="0.8" stroke-opacity="0.18"/>
+  <rect x="930" y="295" width="60" height="80" rx="3" fill="#c9a94e" fill-opacity="0.08" stroke="#c9a94e" stroke-width="0.8" stroke-opacity="0.18"/>
+  <rect x="930" y="390" width="60" height="80" rx="3" fill="#c9a94e" fill-opacity="0.08" stroke="#c9a94e" stroke-width="0.8" stroke-opacity="0.18"/>
+  <rect x="930" y="485" width="60" height="60" rx="3" fill="#c9a94e" fill-opacity="0.08" stroke="#c9a94e" stroke-width="0.8" stroke-opacity="0.18"/>
+  <!-- Second film strip (offset) -->
+  <rect x="1040" y="80" width="60" height="470" rx="5" fill="none" stroke="#c9a94e" stroke-width="1" stroke-opacity="0.13"/>
+  <rect x="1046" y="115" width="48" height="70" rx="3" fill="#c9a94e" fill-opacity="0.06" stroke="#c9a94e" stroke-width="0.6" stroke-opacity="0.12"/>
+  <rect x="1046" y="200" width="48" height="70" rx="3" fill="#c9a94e" fill-opacity="0.06" stroke="#c9a94e" stroke-width="0.6" stroke-opacity="0.12"/>
+  <rect x="1046" y="285" width="48" height="70" rx="3" fill="#c9a94e" fill-opacity="0.06" stroke="#c9a94e" stroke-width="0.6" stroke-opacity="0.12"/>
+  <rect x="1046" y="370" width="48" height="70" rx="3" fill="#c9a94e" fill-opacity="0.06" stroke="#c9a94e" stroke-width="0.6" stroke-opacity="0.12"/>
+  <!-- Camera lens hint (bottom right) -->
+  <circle cx="1140" cy="490" r="50" fill="none" stroke="#c9a94e" stroke-width="1.2" stroke-opacity="0.18"/>
+  <circle cx="1140" cy="490" r="35" fill="none" stroke="#c9a94e" stroke-width="1" stroke-opacity="0.13"/>
+  <circle cx="1140" cy="490" r="20" fill="#c9a94e" fill-opacity="0.06"/>
+  <!-- Accent bar -->
+  <rect x="80" y="175" width="6" height="280" fill="url(#accentGold)" rx="3"/>
+  <!-- Badge -->
+  <rect x="110" y="175" width="190" height="38" rx="19" fill="url(#accentGold)"/>
+  <text x="205" y="194" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="17" font-weight="700" fill="#0d0d0d" text-anchor="middle" dominant-baseline="middle">영화추천</text>
+  <!-- Titles -->
+  <text x="110" y="308" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="84" font-weight="900" fill="white" letter-spacing="-2">봉준호 감독</text>
+  <text x="110" y="405" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="84" font-weight="900" fill="url(#accentGold)" letter-spacing="-2">전작 가이드</text>
+  <!-- Subtitle -->
+  <text x="110" y="462" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="25" fill="#f5d782" letter-spacing="0.5">살인의 추억부터 미키17까지 — 완벽 정복</text>
+  <!-- Bottom bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="#000" fill-opacity="0.50"/>
+  <rect x="0" y="570" width="1200" height="3" fill="url(#accentGold)"/>
+  <text x="600" y="603" font-family="'Segoe UI',Arial,sans-serif" font-size="19" fill="white" fill-opacity="0.60" text-anchor="middle" dominant-baseline="middle" letter-spacing="3">ambitstock.com | R의 필름공장</text>
 </svg>

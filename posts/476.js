@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>요금제는 자주 바뀌기 때문에 현재 시점 기준으로 정리한다. 두 서비스 모두 광고 포함 요금제를 저가로 제공하고 있고, 광고 없는 플랜은 더 높은 가격대를 형성하고 있다.</p><table style=&quot;width:100%;border-collapse:collapse;margin:1em 0;&quot;><thead><tr style=&quot;background:#f5f5f5;&quot;><th style=&quot;border:1px solid #ddd;padding:10px;text-align:left;&quot;>항목</th><th style=&quot;border:1px solid #ddd;padding:10px;text-align:center;&quot;>넷플릭스</th><th style=&quot;border:1px solid #ddd;padding:10px;text-align:center;&quot;>디즈니플러스</th></tr></thead><tbody><tr><td style=&quot;border:1px solid #ddd;padding:10px;&quot;>광고 포함 플랜</td><td style=&quot;border:1px solid #ddd;padding:10px;text-align:center;&quot;>월 5,500원</td><td style=&quot;border:1px solid #ddd;padding:10px;text-align:center;&quot;>월 4,900원</td></tr><tr style=&quot;background:#fafafa;&quot;><td style=&quot;border:1px solid #ddd;padding:10px;&quot;>광고 없는 기본</td><td style=&quot;border:1px solid #ddd;padding:10px;text-align:center;&quot;>월 13,500원</td><td style=&quot;border:1px solid #ddd;padding:10px;text-align:center;&quot;>월 9,900원</td></tr><tr><td style=&quot;border:1px solid #ddd;padding:10px;&quot;>프리미엄 (4K)</td><td style=&quot;border:1px solid #ddd;padding:10px;text-align:center;&quot;>월 17,000원</td><td style=&quot;border:1px solid #ddd;padding:10px;text-align:center;&quot;>월 13,900원</td></tr><tr style=&quot;background:#fafafa;&quot;><td style=&quot;border:1px solid #ddd;padding:10px;&quot;>동시 접속</td><td style=&quot;border:1px solid #ddd;padding:10px;text-align:center;&quot;>플랜별 상이</td><td style=&quot;border:1px solid #ddd;padding:10px;text-align:center;&quot;>최대 4명</td></tr></tbody></table><p>가격만 보면 디즈니플러스가 조금 저렴하다. 단 요금제는 공식 사이트에서 최신 정보를 확인하는 게 정확하다.</p>'
     },
+    { type: 'image', src: '/images/post476_a_poster.jpg', alt: '디즈니플러스 vs 넷플릭스 2026 요금제 비교', caption: '출처: 네이버 영화' },
     {
       type: 'h2',
       id: 'section2',
@@ -60,6 +61,7 @@ const post = {
       type: 'body',
       html: '<p>인터페이스는 취향 차이가 있어서 단정짓기 어렵지만, 실사용 경험에서 몇 가지 차이점이 있다.</p><p><b>넷플릭스 UI</b>: 알고리즘 추천이 강력하다. 보던 거랑 비슷한 걸 잘 추천해주는 편. 단, 추천이 너무 좁아지다 보면 같은 장르를 반복해서 보게 되는 느낌도 있다. 검색 기능은 나쁘지 않고, 비영어 작품 검색도 잘 된다.</p><p><b>디즈니플러스 UI</b>: 카테고리 구분이 IP 기반으로 되어 있어서 마블, 스타워즈 팬은 찾기 편하다. 전반적인 UI 반응속도나 검색 경험은 넷플릭스보다 조금 떨어진다는 느낌이 있다. 다만 크게 불편한 수준은 아니다.</p><p>모바일 앱 기준으로는 넷플릭스가 미세하게 더 완성도가 높다는 인상을 받는다.</p>'
     },
+    { type: 'image', src: '/images/post476_b_poster.jpg', alt: '디즈니플러스 마블·스타워즈 오리지널 시리즈 vs 넷플릭스 오리지널 콘텐츠', caption: '출처: 네이버 영화' },
     {
       type: 'h2',
       id: 'section5',

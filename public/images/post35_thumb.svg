@@ -1,15 +1,71 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#000000"/>
-      <stop offset="100%" style="stop-color:#1a0000"/>
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#1a0000"/>
     </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+    <linearGradient id="accentH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#ff1744"/>
+    </linearGradient>
+    <radialGradient id="bloodGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#dc2626" stop-opacity="0.0"/>
+    </radialGradient>
   </defs>
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(255,0,0,0.08)"/>
-  <rect x="80" y="75" width="1060" height="4" rx="2" fill="rgba(255,0,0,0.5)"/>
-  <rect x="80" y="551" width="1060" height="4" rx="2" fill="rgba(255,0,0,0.5)"/>
-  <text x="600" y="268" text-anchor="middle" font-size="92" font-weight="900" fill="#ff0000" font-family="Pretendard, sans-serif">공포 영화</text>
-  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">무서운 밤</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <!-- Dark glow center -->
+  <ellipse cx="900" cy="350" rx="350" ry="250" fill="url(#bloodGlow)"/>
+  <!-- Scattered chaos dots — horror atmosphere -->
+  <circle cx="150" cy="90" r="2" fill="#dc2626" opacity="0.4"/>
+  <circle cx="240" cy="55" r="1.5" fill="#dc2626" opacity="0.3"/>
+  <circle cx="330" cy="120" r="3" fill="#dc2626" opacity="0.2"/>
+  <circle cx="420" cy="70" r="1.5" fill="#dc2626" opacity="0.35"/>
+  <circle cx="510" cy="100" r="2.5" fill="#dc2626" opacity="0.25"/>
+  <circle cx="600" cy="60" r="2" fill="#dc2626" opacity="0.3"/>
+  <circle cx="680" cy="130" r="1.5" fill="#dc2626" opacity="0.2"/>
+  <circle cx="750" cy="75" r="3" fill="#dc2626" opacity="0.15"/>
+  <circle cx="820" cy="50" r="2" fill="#dc2626" opacity="0.2"/>
+  <!-- Random scatter cluster mid right -->
+  <circle cx="900" cy="210" r="2" fill="#dc2626" opacity="0.3"/>
+  <circle cx="940" cy="240" r="3" fill="#dc2626" opacity="0.2"/>
+  <circle cx="880" cy="260" r="1.5" fill="#dc2626" opacity="0.25"/>
+  <circle cx="960" cy="185" r="1" fill="#dc2626" opacity="0.35"/>
+  <circle cx="1020" cy="220" r="2.5" fill="#dc2626" opacity="0.18"/>
+  <circle cx="1060" cy="260" r="1.5" fill="#dc2626" opacity="0.22"/>
+  <circle cx="1100" cy="195" r="2" fill="#dc2626" opacity="0.28"/>
+  <circle cx="1140" cy="240" r="3" fill="#dc2626" opacity="0.16"/>
+  <circle cx="1160" cy="310" r="1.5" fill="#dc2626" opacity="0.2"/>
+  <!-- Drip lines suggestion -->
+  <rect x="920" y="60" width="2" height="40" rx="1" fill="#dc2626" opacity="0.2"/>
+  <rect x="1000" y="40" width="2" height="55" rx="1" fill="#dc2626" opacity="0.18"/>
+  <rect x="1080" y="50" width="2" height="35" rx="1" fill="#dc2626" opacity="0.2"/>
+  <rect x="960" y="35" width="2" height="45" rx="1" fill="#dc2626" opacity="0.15"/>
+  <!-- Cracked texture lines -->
+  <line x1="820" y1="300" x2="860" y2="350" stroke="#dc2626" stroke-width="1" opacity="0.08"/>
+  <line x1="860" y1="350" x2="840" y2="410" stroke="#dc2626" stroke-width="1" opacity="0.06"/>
+  <line x1="860" y1="350" x2="910" y2="390" stroke="#dc2626" stroke-width="1" opacity="0.07"/>
+  <!-- Left accent bar -->
+  <rect x="78" y="155" width="7" height="305" fill="url(#accent)" rx="3"/>
+  <!-- Category badge -->
+  <rect x="108" y="155" width="176" height="38" rx="19" fill="#dc2626" opacity="0.9"/>
+  <text x="196" y="180" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">영화추천</text>
+  <!-- Horror badge -->
+  <rect x="300" y="155" width="128" height="38" rx="19" fill="none" stroke="#dc2626" stroke-width="2" opacity="0.7"/>
+  <text x="364" y="180" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="17" font-weight="700" fill="#ef4444" text-anchor="middle">공포 / 스릴러</text>
+  <!-- Main title -->
+  <text x="108" y="290" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="88" font-weight="900" fill="white">공포 영화</text>
+  <text x="108" y="388" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="88" font-weight="900" fill="url(#accentH)">추천 TOP 10</text>
+  <!-- Subtitle -->
+  <text x="108" y="445" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" fill="#fca5a5" opacity="0.75">무서움 강도별 정리</text>
+  <!-- Red crack underline -->
+  <rect x="108" y="468" width="420" height="2" rx="1" fill="url(#accentH)" opacity="0.6"/>
+  <!-- Bottom bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="#dc2626" opacity="0.08"/>
+  <text x="600" y="608" font-family="'Apple SD Gothic Neo',sans-serif" font-size="20" fill="white" opacity="0.4" text-anchor="middle">ambitstock.com | R의 필름공장</text>
 </svg>

@@ -1,15 +1,87 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="100%" style="stop-color:#1a0030"/>
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#1a3a5c"/>
     </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a73e8"/>
+      <stop offset="100%" stop-color="#42a5f5"/>
+    </linearGradient>
+    <linearGradient id="accentH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a73e8"/>
+      <stop offset="100%" stop-color="#42a5f5"/>
+    </linearGradient>
+    <linearGradient id="cyberBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="planetGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.35"/>
+      <stop offset="70%" stop-color="#1a73e8" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#1a73e8" stop-opacity="0.0"/>
+    </radialGradient>
+    <radialGradient id="starGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="white" stop-opacity="1"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,229,255,0.06)"/>
-  <circle cx="600" cy="315" r="270" fill="none" stroke="rgba(0,229,255,0.12)" stroke-width="1"/>
-  <circle cx="600" cy="315" r="180" fill="none" stroke="rgba(179,71,255,0.10)" stroke-width="1"/>
-  <text x="600" y="268" text-anchor="middle" font-size="96" font-weight="900" fill="#00e5ff" font-family="Pretendard, sans-serif">SF 영화</text>
-  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(200,160,255,0.95)" font-family="Pretendard, sans-serif">우주·미래</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <!-- Star field — varied sizes -->
+  <circle cx="700" cy="80" r="1.5" fill="white" opacity="0.8"/>
+  <circle cx="760" cy="50" r="2.5" fill="white" opacity="0.9"/>
+  <circle cx="820" cy="100" r="1" fill="white" opacity="0.7"/>
+  <circle cx="870" cy="60" r="2" fill="white" opacity="0.85"/>
+  <circle cx="930" cy="110" r="1.5" fill="white" opacity="0.7"/>
+  <circle cx="990" cy="45" r="1" fill="white" opacity="0.8"/>
+  <circle cx="1040" cy="90" r="3" fill="white" opacity="0.6"/>
+  <circle cx="1090" cy="55" r="1.5" fill="white" opacity="0.75"/>
+  <circle cx="1140" cy="115" r="2" fill="white" opacity="0.65"/>
+  <circle cx="1170" cy="70" r="1" fill="white" opacity="0.8"/>
+  <circle cx="740" cy="140" r="1" fill="white" opacity="0.6"/>
+  <circle cx="790" cy="170" r="1.5" fill="white" opacity="0.55"/>
+  <circle cx="840" cy="135" r="2" fill="white" opacity="0.7"/>
+  <circle cx="900" cy="155" r="1" fill="white" opacity="0.65"/>
+  <circle cx="950" cy="180" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="1010" cy="145" r="1" fill="white" opacity="0.6"/>
+  <circle cx="1060" cy="175" r="2.5" fill="#c4b5fd" opacity="0.7"/>
+  <circle cx="1120" cy="155" r="1.5" fill="#bfdbfe" opacity="0.65"/>
+  <circle cx="1160" cy="190" r="1" fill="white" opacity="0.55"/>
+  <!-- Bright star with glow -->
+  <circle cx="1050" cy="90" r="8" fill="url(#starGlow)" opacity="0.6"/>
+  <circle cx="1050" cy="90" r="3" fill="white" opacity="0.9"/>
+  <!-- Planet with ring -->
+  <circle cx="1060" cy="300" r="130" fill="url(#planetGlow)"/>
+  <circle cx="1060" cy="300" r="75" fill="#1e1b4b" opacity="0.85"/>
+  <circle cx="1060" cy="300" r="70" fill="#1a0030" opacity="0.8"/>
+  <!-- Planet surface bands -->
+  <ellipse cx="1060" cy="285" rx="68" ry="15" fill="#7c3aed" opacity="0.18"/>
+  <ellipse cx="1060" cy="310" rx="65" ry="10" fill="#06b6d4" opacity="0.12"/>
+  <!-- Planet ring -->
+  <ellipse cx="1060" cy="300" rx="130" ry="28" fill="none" stroke="url(#cyberBlue)" stroke-width="8" opacity="0.35"/>
+  <ellipse cx="1060" cy="300" rx="120" ry="24" fill="none" stroke="url(#cyberBlue)" stroke-width="4" opacity="0.2"/>
+  <!-- Orbit arc lines -->
+  <ellipse cx="1060" cy="310" rx="190" ry="50" fill="none" stroke="#42a5f5" stroke-width="1" stroke-dasharray="8,8" opacity="0.15"/>
+  <!-- Small moon -->
+  <circle cx="1170" cy="220" r="16" fill="#334155" opacity="0.9"/>
+  <circle cx="1164" cy="215" r="6" fill="#1e293b" opacity="0.6"/>
+  <!-- Left accent bar -->
+  <rect x="78" y="155" width="7" height="305" fill="url(#accent)" rx="3"/>
+  <!-- Category badge -->
+  <rect x="108" y="155" width="176" height="38" rx="19" fill="#1a73e8"/>
+  <text x="196" y="180" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">영화추천</text>
+  <!-- SF badge -->
+  <rect x="300" y="155" width="110" height="38" rx="19" fill="#7c3aed" opacity="0.7"/>
+  <text x="355" y="180" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="17" font-weight="700" fill="#c4b5fd" text-anchor="middle">SF · 공상과학</text>
+  <!-- Main title -->
+  <text x="108" y="290" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="88" font-weight="900" fill="white">SF 영화</text>
+  <text x="108" y="388" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="88" font-weight="900" fill="url(#accentH)">추천 TOP 10</text>
+  <!-- Subtitle -->
+  <text x="108" y="445" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" fill="#7ab8f5" opacity="0.85">우주 · 미래 · 과학 명작</text>
+  <!-- Dashed orbit underline -->
+  <line x1="108" y1="468" x2="580" y2="468" stroke="#7c3aed" stroke-width="1.5" stroke-dasharray="10,5" opacity="0.45"/>
+  <!-- Bottom bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="#000" opacity="0.2"/>
+  <text x="600" y="608" font-family="'Apple SD Gothic Neo',sans-serif" font-size="20" fill="white" opacity="0.45" text-anchor="middle">ambitstock.com | R의 필름공장</text>
 </svg>

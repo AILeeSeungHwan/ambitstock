@@ -1,15 +1,68 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
-    <linearGradient id="bg" x1="100%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a0030"/>
-      <stop offset="100%" style="stop-color:#042f2e"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#002820"/>
+      <stop offset="40%" stop-color="#1a0030"/>
+      <stop offset="100%" stop-color="#004d40"/>
     </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00897b"/>
+      <stop offset="100%" stop-color="#4db6ac"/>
+    </linearGradient>
+    <linearGradient id="accentH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00897b"/>
+      <stop offset="100%" stop-color="#4db6ac"/>
+    </linearGradient>
+    <linearGradient id="purpleTeal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#00897b"/>
+    </linearGradient>
+    <radialGradient id="shinkai" cx="70%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#00897b" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#00897b" stop-opacity="0.0"/>
+    </radialGradient>
   </defs>
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.25)"/>
-  <rect x="80" y="75" width="1060" height="4" rx="2" fill="rgba(0,229,255,0.4)"/>
-  <rect x="80" y="551" width="1060" height="4" rx="2" fill="rgba(179,71,255,0.4)"/>
-  <text x="600" y="268" text-anchor="middle" font-size="96" font-weight="900" fill="#b347ff" font-family="Pretendard, sans-serif">신카이</text>
-  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(0,229,255,0.95)" font-family="Pretendard, sans-serif">마코토</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <!-- Shinkai-style sky gradient overlay -->
+  <rect width="1200" height="630" fill="url(#shinkai)"/>
+  <!-- Cloud layers (Shinkai signature style) -->
+  <ellipse cx="950" cy="140" rx="200" ry="45" fill="#4db6ac" opacity="0.07"/>
+  <ellipse cx="1050" cy="120" rx="160" ry="35" fill="#7c3aed" opacity="0.08"/>
+  <ellipse cx="850" cy="170" rx="180" ry="30" fill="#4db6ac" opacity="0.06"/>
+  <ellipse cx="1000" cy="200" rx="220" ry="40" fill="#7c3aed" opacity="0.05"/>
+  <!-- Light beams (Shinkai-style god rays) -->
+  <line x1="1050" y1="0" x2="750" y2="630" stroke="#4db6ac" stroke-width="40" opacity="0.04"/>
+  <line x1="1100" y1="0" x2="820" y2="630" stroke="#7c3aed" stroke-width="30" opacity="0.04"/>
+  <line x1="980" y1="0" x2="680" y2="630" stroke="#4db6ac" stroke-width="20" opacity="0.03"/>
+  <!-- Stars -->
+  <circle cx="780" cy="70" r="2" fill="white" opacity="0.6"/>
+  <circle cx="840" cy="45" r="1.5" fill="white" opacity="0.7"/>
+  <circle cx="910" cy="80" r="2.5" fill="#c4b5fd" opacity="0.55"/>
+  <circle cx="970" cy="55" r="1" fill="white" opacity="0.75"/>
+  <circle cx="1030" cy="85" r="1.5" fill="white" opacity="0.6"/>
+  <circle cx="1090" cy="50" r="2" fill="#bfdbfe" opacity="0.6"/>
+  <circle cx="1150" cy="75" r="1" fill="white" opacity="0.65"/>
+  <circle cx="1180" cy="110" r="1.5" fill="white" opacity="0.55"/>
+  <!-- Title film work references (subtle text decoration) -->
+  <text x="1080" y="380" font-family="'Apple SD Gothic Neo',sans-serif" font-size="14" fill="#4db6ac" opacity="0.18" text-anchor="middle" transform="rotate(-90 1080 380)">너의 이름은 · 날씨의 아이 · 스즈메의 문단속</text>
+  <!-- Left accent bar -->
+  <rect x="78" y="155" width="7" height="305" fill="url(#accent)" rx="3"/>
+  <!-- Category badge -->
+  <rect x="108" y="155" width="196" height="38" rx="19" fill="#00897b"/>
+  <text x="206" y="180" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">애니메이션</text>
+  <!-- Director badge -->
+  <rect x="320" y="155" width="200" height="38" rx="19" fill="#7c3aed" opacity="0.55"/>
+  <text x="420" y="180" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="17" font-weight="600" fill="#c4b5fd" text-anchor="middle">감독 전작 가이드</text>
+  <!-- Main title -->
+  <text x="108" y="290" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="88" font-weight="900" fill="white">신카이 마코토</text>
+  <text x="108" y="388" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="88" font-weight="900" fill="url(#accentH)">전작 가이드</text>
+  <!-- Subtitle -->
+  <text x="108" y="445" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" fill="#80cbc4" opacity="0.85">너의 이름은부터 스즈메까지</text>
+  <!-- Purple-teal gradient underline -->
+  <rect x="108" y="468" width="560" height="3" rx="1.5" fill="url(#purpleTeal)" opacity="0.55"/>
+  <!-- Bottom bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="#000" opacity="0.2"/>
+  <text x="600" y="608" font-family="'Apple SD Gothic Neo',sans-serif" font-size="20" fill="white" opacity="0.45" text-anchor="middle">ambitstock.com | R의 필름공장</text>
 </svg>

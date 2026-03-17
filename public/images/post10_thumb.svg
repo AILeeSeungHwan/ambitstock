@@ -1,14 +1,74 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a1628"/>
-      <stop offset="100%" style="stop-color:#1c1c1c"/>
+      <stop offset="0%" style="stop-color:#0a1020"/>
+      <stop offset="50%" style="stop-color:#0f1428"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c9a94e"/>
+      <stop offset="100%" style="stop-color:#ffd700"/>
+    </linearGradient>
+    <linearGradient id="step" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:0.25"/>
+      <stop offset="100%" style="stop-color:#c9a94e;stop-opacity:0.1"/>
     </linearGradient>
   </defs>
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(255,215,0,0.06)"/>
-  <polygon points="600,90 620,140 675,140 632,170 648,225 600,195 552,225 568,170 525,140 580,140" fill="rgba(255,215,0,0.25)" stroke="rgba(255,215,0,0.5)" stroke-width="1"/>
-  <text x="600" y="268" text-anchor="middle" font-size="92" font-weight="900" fill="#ffd700" font-family="Pretendard, sans-serif">마블 입문</text>
-  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">어디서부터?</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <!-- Step path / flow chart right side - viewing order guide -->
+  <!-- Step boxes connected by arrows -->
+  <rect x="890" y="55" width="250" height="60" rx="10" fill="url(#step)" stroke="#ffd700" stroke-width="1.5" opacity="0.7"/>
+  <text x="1015" y="82" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffd700" text-anchor="middle" opacity="0.8">STEP 1</text>
+  <text x="1015" y="101" font-family="Arial, sans-serif" font-size="12" fill="#f5deb3" text-anchor="middle" opacity="0.65">아이언맨 (2008)</text>
+  <!-- Arrow -->
+  <polygon points="1012,122 1018,122 1015,138" fill="#c9a94e" opacity="0.4"/>
+  <rect x="900" y="145" width="230" height="55" rx="10" fill="url(#step)" stroke="#c9a94e" stroke-width="1" opacity="0.6"/>
+  <text x="1015" y="169" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffd700" text-anchor="middle" opacity="0.75">STEP 2</text>
+  <text x="1015" y="188" font-family="Arial, sans-serif" font-size="12" fill="#f5deb3" text-anchor="middle" opacity="0.6">캡틴 아메리카</text>
+  <polygon points="1012,207 1018,207 1015,223" fill="#c9a94e" opacity="0.35"/>
+  <rect x="910" y="230" width="210" height="55" rx="10" fill="url(#step)" stroke="#c9a94e" stroke-width="1" opacity="0.5"/>
+  <text x="1015" y="254" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffd700" text-anchor="middle" opacity="0.7">STEP 3</text>
+  <text x="1015" y="273" font-family="Arial, sans-serif" font-size="12" fill="#f5deb3" text-anchor="middle" opacity="0.55">토르</text>
+  <polygon points="1012,292 1018,292 1015,308" fill="#c9a94e" opacity="0.3"/>
+  <rect x="920" y="315" width="190" height="55" rx="10" fill="url(#step)" stroke="#c9a94e" stroke-width="1" opacity="0.4"/>
+  <text x="1015" y="338" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#ffd700" text-anchor="middle" opacity="0.6">STEP 4</text>
+  <text x="1015" y="357" font-family="Arial, sans-serif" font-size="12" fill="#f5deb3" text-anchor="middle" opacity="0.5">어벤져스</text>
+  <polygon points="1012,377 1018,377 1015,393" fill="#c9a94e" opacity="0.25"/>
+  <rect x="930" y="400" width="170" height="50" rx="10" fill="url(#step)" stroke="#c9a94e" stroke-width="1" opacity="0.3"/>
+  <text x="1015" y="429" font-family="Arial, sans-serif" font-size="13" fill="#f5deb3" text-anchor="middle" opacity="0.45">계속...</text>
+  <!-- Separator line -->
+  <line x1="870" y1="40" x2="870" y2="560" stroke="#c9a94e" stroke-width="1" opacity="0.12"/>
+  <!-- Star field -->
+  <circle cx="110" cy="45" r="1.5" fill="white" opacity="0.35"/>
+  <circle cx="240" cy="30" r="1" fill="#ffd700" opacity="0.4"/>
+  <circle cx="380" cy="55" r="2" fill="white" opacity="0.3"/>
+  <circle cx="510" cy="25" r="1.5" fill="white" opacity="0.3"/>
+  <circle cx="640" cy="48" r="1" fill="#ffd700" opacity="0.35"/>
+  <circle cx="780" cy="35" r="1.5" fill="white" opacity="0.28"/>
+  <!-- Question mark watermark - "뭐부터 봐야?" theme -->
+  <text x="430" y="560" font-family="Arial Black, Arial, sans-serif" font-size="220" font-weight="900" fill="#ffd700" opacity="0.04">?</text>
+  <!-- Small hexagons top left decoration -->
+  <polygon points="120,100 140,89 160,100 160,122 140,133 120,122" fill="none" stroke="#c9a94e" stroke-width="1" opacity="0.2"/>
+  <polygon points="155,122 172,112 189,122 189,142 172,152 155,142" fill="none" stroke="#ffd700" stroke-width="1" opacity="0.15"/>
+  <polygon points="105,122 120,113 135,122 135,140 120,149 105,140" fill="#ffd700" opacity="0.05"/>
+  <!-- Left accent bar -->
+  <rect x="80" y="155" width="7" height="310" fill="url(#gold)" rx="3.5"/>
+  <!-- Category badge -->
+  <rect x="106" y="155" width="100" height="38" rx="19" fill="#1a1a2e" stroke="#c9a94e" stroke-width="1.5" opacity="0.95"/>
+  <text x="156" y="179" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#ffd700" text-anchor="middle">마블</text>
+  <!-- Beginner badge -->
+  <rect x="220" y="155" width="130" height="38" rx="19" fill="#ffd700" opacity="0.12"/>
+  <text x="285" y="179" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#ffd700" text-anchor="middle" opacity="0.85">입문 가이드</text>
+  <!-- Main title line 1 -->
+  <text x="106" y="290" font-family="Arial Black, Arial, sans-serif" font-size="84" font-weight="900" fill="white" letter-spacing="-2">마블 입문</text>
+  <!-- Main title line 2 -->
+  <text x="106" y="378" font-family="Arial Black, Arial, sans-serif" font-size="78" font-weight="900" fill="url(#gold)" letter-spacing="-2">시청 순서 가이드</text>
+  <!-- Subtitle -->
+  <text x="106" y="434" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#f5deb3" opacity="0.85">뭐부터 봐야 할까? · MCU 완전 정복</text>
+  <!-- Divider -->
+  <rect x="106" y="457" width="350" height="3" fill="url(#gold)" rx="1.5" opacity="0.5"/>
+  <!-- Bottom bar -->
+  <rect x="0" y="572" width="1200" height="58" fill="#c9a94e" opacity="0.1"/>
+  <text x="600" y="609" font-family="Arial, sans-serif" font-size="19" fill="#f5deb3" text-anchor="middle" opacity="0.85">ambitstock.com | R의 필름공장</text>
 </svg>

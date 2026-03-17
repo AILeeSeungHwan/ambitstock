@@ -1,15 +1,61 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4a0e2a"/>
-      <stop offset="100%" style="stop-color:#7b1f4a"/>
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#1a3a5c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a73e8"/>
+      <stop offset="100%" stop-color="#42a5f5"/>
+    </linearGradient>
+    <linearGradient id="accentH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a73e8"/>
+      <stop offset="100%" stop-color="#42a5f5"/>
     </linearGradient>
   </defs>
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.28)"/>
-  <rect x="80" y="75" width="1060" height="4" rx="2" fill="rgba(251,191,36,0.4)"/>
-  <rect x="80" y="551" width="1060" height="4" rx="2" fill="rgba(251,191,36,0.4)"/>
-  <text x="600" y="258" text-anchor="middle" font-size="90" font-weight="900" fill="#fbbf24" font-family="Pretendard, sans-serif">2026 상반기</text>
-  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">개봉 영화</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <!-- Film strip holes top -->
+  <rect x="0" y="0" width="1200" height="52" fill="#000" opacity="0.35"/>
+  <rect x="14" y="8" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <rect x="66" y="8" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <rect x="118" y="8" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <rect x="170" y="8" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <rect x="222" y="8" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <rect x="274" y="8" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <rect x="326" y="8" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.5"/>
+  <rect x="378" y="8" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.4"/>
+  <!-- Film strip holes bottom -->
+  <rect x="0" y="578" width="1200" height="52" fill="#000" opacity="0.35"/>
+  <rect x="14" y="586" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <rect x="66" y="586" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <rect x="118" y="586" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <rect x="170" y="586" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <rect x="222" y="586" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <rect x="274" y="586" width="34" height="36" rx="5" fill="none" stroke="#1a73e8" stroke-width="2" opacity="0.7"/>
+  <!-- Giant "10" watermark -->
+  <text x="980" y="520" font-family="Georgia,serif" font-size="400" font-weight="900" fill="#1a73e8" opacity="0.07" text-anchor="middle">10</text>
+  <!-- Diagonal accent lines right side -->
+  <line x1="900" y1="60" x2="1180" y2="340" stroke="#1a73e8" stroke-width="1.5" opacity="0.15"/>
+  <line x1="940" y1="60" x2="1200" y2="320" stroke="#42a5f5" stroke-width="1" opacity="0.1"/>
+  <line x1="860" y1="60" x2="1160" y2="360" stroke="#1a73e8" stroke-width="1" opacity="0.1"/>
+  <!-- Left accent bar -->
+  <rect x="78" y="158" width="7" height="300" fill="url(#accent)" rx="3"/>
+  <!-- Category badge -->
+  <rect x="108" y="158" width="176" height="38" rx="19" fill="#1a73e8"/>
+  <text x="196" y="183" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="18" font-weight="700" fill="white" text-anchor="middle">영화추천</text>
+  <!-- Year badge -->
+  <rect x="300" y="158" width="110" height="38" rx="19" fill="none" stroke="#42a5f5" stroke-width="2" opacity="0.7"/>
+  <text x="355" y="183" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="18" font-weight="700" fill="#42a5f5" text-anchor="middle" opacity="0.85">2026</text>
+  <!-- Main title line 1 -->
+  <text x="108" y="295" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="86" font-weight="900" fill="white">2026 상반기</text>
+  <!-- Main title line 2 -->
+  <text x="108" y="393" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="86" font-weight="900" fill="url(#accentH)">개봉 영화 TOP 10</text>
+  <!-- Subtitle -->
+  <text x="108" y="450" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="28" fill="#7ab8f5" opacity="0.85">극장 기대작 총정리</text>
+  <!-- Horizontal divider -->
+  <rect x="108" y="470" width="560" height="2" fill="url(#accentH)" rx="1" opacity="0.4"/>
+  <!-- Bottom bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="#000" opacity="0.2"/>
+  <text x="600" y="608" font-family="'Apple SD Gothic Neo',sans-serif" font-size="20" fill="white" opacity="0.45" text-anchor="middle">ambitstock.com | R의 필름공장</text>
 </svg>

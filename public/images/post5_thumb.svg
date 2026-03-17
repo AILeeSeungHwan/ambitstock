@@ -1,15 +1,58 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="100%" style="stop-color:#1e3a5f"/>
+      <stop offset="0%" style="stop-color:#1a0000"/>
+      <stop offset="50%" style="stop-color:#3a0000"/>
+      <stop offset="100%" style="stop-color:#4a0000"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e50914"/>
+      <stop offset="100%" style="stop-color:#ff1744"/>
+    </linearGradient>
+    <linearGradient id="plan1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#e50914;stop-opacity:0.25"/>
+      <stop offset="100%" style="stop-color:#e50914;stop-opacity:0.08"/>
+    </linearGradient>
+    <linearGradient id="plan2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#e50914;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#e50914;stop-opacity:0.15"/>
     </linearGradient>
   </defs>
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(88,166,255,0.08)"/>
-  <line x1="60" y1="200" x2="1140" y2="200" stroke="rgba(88,166,255,0.2)" stroke-width="1"/>
-  <line x1="60" y1="430" x2="1140" y2="430" stroke="rgba(88,166,255,0.2)" stroke-width="1"/>
-  <text x="600" y="268" text-anchor="middle" font-size="88" font-weight="900" fill="#58a6ff" font-family="Pretendard, sans-serif">요금제 비교</text>
-  <text x="600" y="375" text-anchor="middle" font-size="44" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">넷플릭스 2026</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <!-- Price card decorations right side -->
+  <rect x="860" y="60" width="280" height="130" rx="14" fill="url(#plan1)" stroke="#e50914" stroke-width="1" opacity="0.6"/>
+  <text x="1000" y="110" font-family="Arial, sans-serif" font-size="15" font-weight="600" fill="#ffaaaa" text-anchor="middle" opacity="0.7">광고 포함</text>
+  <text x="1000" y="140" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="900" fill="#ff6666" text-anchor="middle" opacity="0.8">₩5,500/월</text>
+  <rect x="870" y="218" width="260" height="130" rx="14" fill="url(#plan2)" stroke="#e50914" stroke-width="1.5" opacity="0.7"/>
+  <text x="1000" y="268" font-family="Arial, sans-serif" font-size="15" font-weight="600" fill="#ffaaaa" text-anchor="middle" opacity="0.75">스탠다드</text>
+  <text x="1000" y="298" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="900" fill="#ff4444" text-anchor="middle" opacity="0.85">₩13,500/월</text>
+  <rect x="860" y="376" width="280" height="130" rx="14" fill="url(#plan1)" stroke="#e50914" stroke-width="1" opacity="0.5"/>
+  <text x="1000" y="426" font-family="Arial, sans-serif" font-size="15" font-weight="600" fill="#ffaaaa" text-anchor="middle" opacity="0.65">프리미엄</text>
+  <text x="1000" y="456" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="900" fill="#ff6666" text-anchor="middle" opacity="0.75">₩17,000/월</text>
+  <!-- Separator line between content and cards -->
+  <line x1="840" y1="30" x2="840" y2="560" stroke="#e50914" stroke-width="1" opacity="0.15"/>
+  <!-- Check marks near cards -->
+  <text x="876" y="148" font-family="Arial, sans-serif" font-size="14" fill="#ff9999" opacity="0.5">✓ HD</text>
+  <text x="876" y="305" font-family="Arial, sans-serif" font-size="14" fill="#ff9999" opacity="0.55">✓ FHD</text>
+  <text x="876" y="462" font-family="Arial, sans-serif" font-size="14" fill="#ff9999" opacity="0.45">✓ 4K</text>
+  <!-- Left accent bar -->
+  <rect x="80" y="165" width="7" height="300" fill="url(#acc)" rx="3.5"/>
+  <!-- Category badge -->
+  <rect x="106" y="165" width="128" height="38" rx="19" fill="#e50914" opacity="0.95"/>
+  <text x="170" y="189" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="white" text-anchor="middle">구독 가이드</text>
+  <!-- Year badge -->
+  <rect x="248" y="165" width="100" height="38" rx="19" fill="#ffffff" opacity="0.1"/>
+  <text x="298" y="189" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#ffcccc" text-anchor="middle">2026</text>
+  <!-- Main title line 1 -->
+  <text x="106" y="300" font-family="Arial Black, Arial, sans-serif" font-size="78" font-weight="900" fill="white" letter-spacing="-2">넷플릭스 요금제</text>
+  <!-- Main title line 2 -->
+  <text x="106" y="388" font-family="Arial Black, Arial, sans-serif" font-size="80" font-weight="900" fill="url(#acc)" letter-spacing="-2">2026 비교</text>
+  <!-- Subtitle -->
+  <text x="106" y="443" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#ffcccc" opacity="0.88">구독 플랜 총정리 · 가격 · 화질 비교</text>
+  <!-- Divider -->
+  <rect x="106" y="466" width="290" height="3" fill="url(#acc)" rx="1.5" opacity="0.55"/>
+  <!-- Bottom bar -->
+  <rect x="0" y="572" width="1200" height="58" fill="#e50914" opacity="0.12"/>
+  <text x="600" y="609" font-family="Arial, sans-serif" font-size="19" fill="#ffcccc" text-anchor="middle" opacity="0.88">ambitstock.com | R의 필름공장</text>
 </svg>

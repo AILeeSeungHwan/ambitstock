@@ -1,15 +1,65 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1e293b"/>
-      <stop offset="100%" style="stop-color:#164e63"/>
+    <linearGradient id="bg484" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#003333"/>
+    </linearGradient>
+    <linearGradient id="accentBlue484" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a73e8"/>
+      <stop offset="100%" stop-color="#42a5f5"/>
+    </linearGradient>
+    <linearGradient id="accentTeal484" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00897b"/>
+      <stop offset="100%" stop-color="#4db6ac"/>
+    </linearGradient>
+    <linearGradient id="splitBg484" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a73e8" stop-opacity="0.08"/>
+      <stop offset="50%" stop-color="#004d40" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#00897b" stop-opacity="0.08"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(56,189,248,0.07)"/>
-  <circle cx="300" cy="200" r="150" fill="rgba(56,189,248,0.10)"/>
-  <circle cx="900" cy="430" r="120" fill="rgba(245,158,11,0.08)"/>
-  <text x="600" y="255" text-anchor="middle" font-size="80" font-weight="900" fill="#38bdf8" font-family="Pretendard, sans-serif">티빙 vs 왓챠</text>
-  <text x="600" y="370" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">어디가?</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <rect width="1200" height="630" fill="url(#bg484)"/>
+  <rect width="1200" height="630" fill="url(#splitBg484)"/>
+  <!-- Hexagonal comparison grid (right side) -->
+  <!-- Left hex (Tving) -->
+  <polygon points="870,200 930,165 990,200 990,270 930,305 870,270" fill="none" stroke="#42a5f5" stroke-width="1.5" stroke-opacity="0.25"/>
+  <polygon points="880,207 930,178 980,207 980,263 930,292 880,263" fill="#1a73e8" fill-opacity="0.10"/>
+  <text x="930" y="238" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#42a5f5" fill-opacity="0.7" text-anchor="middle" dominant-baseline="middle">티빙</text>
+  <!-- Right hex (Watcha) -->
+  <polygon points="1010,200 1070,165 1130,200 1130,270 1070,305 1010,270" fill="none" stroke="#4db6ac" stroke-width="1.5" stroke-opacity="0.25"/>
+  <polygon points="1020,207 1070,178 1120,207 1120,263 1070,292 1020,263" fill="#00897b" fill-opacity="0.10"/>
+  <text x="1070" y="238" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#4db6ac" fill-opacity="0.7" text-anchor="middle" dominant-baseline="middle">왓챠</text>
+  <!-- VS between hexes -->
+  <text x="1000" y="238" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="900" fill="white" fill-opacity="0.50" text-anchor="middle" dominant-baseline="middle">VS</text>
+  <!-- Comparison chart bars (below hexes) -->
+  <rect x="870" y="330" width="110" height="16" rx="8" fill="#1a73e8" fill-opacity="0.25"/>
+  <rect x="870" y="330" width="88" height="16" rx="8" fill="#42a5f5" fill-opacity="0.55"/>
+  <rect x="870" y="358" width="110" height="16" rx="8" fill="#1a73e8" fill-opacity="0.25"/>
+  <rect x="870" y="358" width="62" height="16" rx="8" fill="#42a5f5" fill-opacity="0.45"/>
+  <rect x="870" y="386" width="110" height="16" rx="8" fill="#1a73e8" fill-opacity="0.25"/>
+  <rect x="870" y="386" width="95" height="16" rx="8" fill="#42a5f5" fill-opacity="0.50"/>
+  <rect x="1010" y="330" width="110" height="16" rx="8" fill="#00897b" fill-opacity="0.25"/>
+  <rect x="1010" y="330" width="75" height="16" rx="8" fill="#4db6ac" fill-opacity="0.55"/>
+  <rect x="1010" y="358" width="110" height="16" rx="8" fill="#00897b" fill-opacity="0.25"/>
+  <rect x="1010" y="358" width="98" height="16" rx="8" fill="#4db6ac" fill-opacity="0.45"/>
+  <rect x="1010" y="386" width="110" height="16" rx="8" fill="#00897b" fill-opacity="0.25"/>
+  <rect x="1010" y="386" width="55" height="16" rx="8" fill="#4db6ac" fill-opacity="0.50"/>
+  <!-- Connecting line between hexes -->
+  <line x1="990" y1="235" x2="1010" y2="235" stroke="white" stroke-width="1" stroke-opacity="0.25" stroke-dasharray="3,3"/>
+  <!-- Accent bar (split color) -->
+  <rect x="80" y="175" width="6" height="140" fill="url(#accentBlue484)" rx="3"/>
+  <rect x="80" y="315" width="6" height="140" fill="url(#accentTeal484)" rx="3"/>
+  <!-- Badge -->
+  <rect x="110" y="175" width="190" height="38" rx="19" fill="url(#accentBlue484)"/>
+  <text x="205" y="194" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle" dominant-baseline="middle">영화추천</text>
+  <!-- Titles -->
+  <text x="110" y="308" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="84" font-weight="900" fill="url(#accentBlue484)" letter-spacing="-2">티빙 vs 왓챠</text>
+  <text x="110" y="405" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="84" font-weight="900" fill="url(#accentTeal484)" letter-spacing="-2">OTT 비교</text>
+  <!-- Subtitle -->
+  <text x="110" y="462" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="25" fill="#80cbc4" letter-spacing="0.5">뭘 구독할지 고민된다면 — 2026 완벽 비교</text>
+  <!-- Bottom bar (split) -->
+  <rect x="0" y="570" width="1200" height="60" fill="#000" fill-opacity="0.35"/>
+  <rect x="0" y="570" width="600" height="3" fill="url(#accentBlue484)"/>
+  <rect x="600" y="570" width="600" height="3" fill="url(#accentTeal484)"/>
+  <text x="600" y="603" font-family="'Segoe UI',Arial,sans-serif" font-size="19" fill="white" fill-opacity="0.65" text-anchor="middle" dominant-baseline="middle" letter-spacing="3">ambitstock.com | R의 필름공장</text>
 </svg>

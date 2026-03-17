@@ -11,6 +11,7 @@ const post = {
     { type: 'h2', id: 'imdb', text: 'IMDB - 세계 최대 영화 데이터베이스', gradientStyle: 'linear-gradient(to right, #1a73e8, #ff6f00)' },
     { type: 'body', html: '<p>IMDB(Internet Movie Database)는 1990년에 시작된 세계 최대의 영화 정보 사이트다. 아마존 소유로, 전 세계 수억 명의 사용자가 평점을 매긴다. 10점 만점 체계이고, 가중 평균을 사용해서 조작을 방지한다. IMDB의 장점은 압도적인 데이터 양이다. 거의 모든 영화와 드라마의 정보가 있고, 평점에 참여하는 사용자 수가 많아서 통계적으로 신뢰도가 높다. IMDB TOP 250 리스트는 영화 팬이라면 한 번쯤 도전해볼 만한 버킷리스트다. 다만 영어권 사용자 비중이 높아서 할리우드 영화에 유리한 편향이 있다는 점은 참고해야 한다.</p>' },
     { type: 'h2', id: 'rotten', text: '로튼토마토 - 전문가 vs 관객 이중 평가', gradientStyle: 'linear-gradient(to right, #e53935, #ff6f00)' },
+    { type: 'image', src: '/images/post50_a_poster.jpg', alt: 'IMDB 영화 평점 사이트 인터페이스 화면', caption: '출처: 네이버 영화' },
     { type: 'body', html: '<p>로튼토마토(Rotten Tomatoes)의 가장 큰 특징은 전문 평론가 평점(Tomatometer)과 관객 평점(Audience Score)을 분리해서 보여준다는 점이다. 토마토미터는 등록된 영화 평론가들의 긍정적 리뷰 비율을 퍼센트로 표시한다. 75% 이상이면 &quot;Certified Fresh&quot;(인증 신선)라는 마크가 붙는다. 재미있는 건 평론가와 관객의 평가가 크게 다른 경우가 많다는 거다. 예를 들어 트랜스포머 시리즈는 평론가 평점은 낮은데 관객 평점은 높다. 반대로 예술 영화는 평론가 점수가 높은데 관객 점수는 낮기도 하다. 두 점수를 비교해보는 재미가 있고, 자기 취향에 가까운 쪽을 참고하면 된다.</p>' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: 'watcha', text: '왓챠피디아 - 한국인의 취향 저격', gradientStyle: 'linear-gradient(to right, #6a1b9a, #e91e63)' },
@@ -22,6 +23,7 @@ const post = {
     { type: 'h2', id: 'letterboxd', text: '그 외 평점 사이트 - 레터박스드, 메타크리틱', gradientStyle: 'linear-gradient(to right, #00897b, #1a73e8)' },
     { type: 'body', html: '<p><strong>레터박스드(Letterboxd)</strong>는 영화 팬들 사이에서 최근 급부상한 소셜 영화 플랫폼이다. 리뷰 작성 기능이 뛰어나고, 다른 사용자의 리뷰를 읽는 재미가 있다. 5점 만점에 0.5점 단위로 평가하며, 영화 마니아들이 많아서 독립영화나 고전 영화의 평점이 충실하다. 인스타그램처럼 팔로우 기능이 있어서 취향이 비슷한 사람의 추천을 받을 수 있다. <strong>메타크리틱(Metacritic)</strong>은 전문 매체들의 평점을 모아 100점 만점으로 환산해주는 사이트다. 로튼토마토가 긍정/부정 비율이라면, 메타크리틱은 실제 점수의 평균이라 더 세밀한 평가가 가능하다. 둘 다 써보고 자기에게 맞는 걸 찾으면 된다.</p>' },
     { type: 'h2', id: 'how-to-use', text: '평점 사이트 현명하게 활용하는 법', gradientStyle: 'linear-gradient(to right, #1a73e8, #4285f4)' },
+    { type: 'image', src: '/images/post50_b_poster.jpg', alt: '로튼토마토·왓챠피디아 평점 사이트 비교 화면', caption: '출처: 네이버 영화' },
     { type: 'body', html: '<p>평점은 참고할 뿐 절대적인 기준이 아니다. 몇 가지 팁을 공유한다. 첫째, 한 사이트만 보지 말고 2-3개를 비교하자. 사이트마다 사용자층이 다르기 때문이다. 둘째, 평점 숫자보다 리뷰 내용을 읽자. 왜 좋은지, 왜 나쁜지를 알아야 자기 취향에 맞는지 판단할 수 있다. 셋째, 평점이 낮아도 자기 취향에 맞으면 충분히 재미있을 수 있다. 나도 IMDB 6점대 영화 중에 개인적으로 좋아하는 작품이 많다. 넷째, 개봉 직후 평점은 극단적으로 높거나 낮을 수 있으니 시간이 좀 지난 후의 평점을 참고하는 게 좋다. 평점은 나침반이지 지도가 아니다.</p>' },
     { type: 'ending', html: '<p>영화 평점 사이트는 좋은 영화를 찾는 데 유용한 도구지만, 결국 가장 좋은 평점은 내가 직접 보고 느끼는 거다. IMDB, 로튼토마토, 왓챠피디아 각각의 특성을 이해하고 활용하면 영화 선택이 훨씬 쉬워진다. 이 글을 참고해서 자신에게 맞는 평점 사이트를 찾아보길 바란다.</p>' },
     { type: 'ad', slot: '6297515693', format: 'auto' }

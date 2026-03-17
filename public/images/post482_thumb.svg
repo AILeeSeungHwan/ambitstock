@@ -1,16 +1,50 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4a0e2a"/>
-      <stop offset="100%" style="stop-color:#1e1b4b"/>
+    <linearGradient id="bg482" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0030"/>
+      <stop offset="100%" stop-color="#3d0066"/>
     </linearGradient>
+    <linearGradient id="accent482" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6a1b9a"/>
+      <stop offset="100%" stop-color="#ab47bc"/>
+    </linearGradient>
+    <radialGradient id="purpleglow" cx="80%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#ab47bc" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#6a1b9a" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.25)"/>
-  <circle cx="1000" cy="180" r="160" fill="rgba(251,191,36,0.10)"/>
-  <rect x="80" y="75" width="1060" height="4" rx="2" fill="rgba(251,191,36,0.35)"/>
-  <rect x="80" y="551" width="1060" height="4" rx="2" fill="rgba(251,191,36,0.35)"/>
-  <text x="600" y="258" text-anchor="middle" font-size="88" font-weight="900" fill="#fbbf24" font-family="Pretendard, sans-serif">2026 드라마</text>
-  <text x="600" y="370" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">기대작</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <rect width="1200" height="630" fill="url(#bg482)"/>
+  <rect width="1200" height="630" fill="url(#purpleglow)"/>
+  <!-- Diamond / crystal decorative motif (top right) -->
+  <polygon points="1000,80 1080,200 1000,320 920,200" fill="none" stroke="#ab47bc" stroke-width="1.5" stroke-opacity="0.22"/>
+  <polygon points="1000,110 1060,200 1000,290 940,200" fill="none" stroke="#ab47bc" stroke-width="1" stroke-opacity="0.16"/>
+  <polygon points="1000,145 1040,200 1000,255 960,200" fill="#ab47bc" fill-opacity="0.08" stroke="#ab47bc" stroke-width="1" stroke-opacity="0.12"/>
+  <!-- Secondary diamond -->
+  <polygon points="1110,200 1170,290 1110,380 1050,290" fill="none" stroke="#ce93d8" stroke-width="1.2" stroke-opacity="0.15"/>
+  <polygon points="1110,230 1150,290 1110,350 1070,290" fill="#ce93d8" fill-opacity="0.05" stroke="#ce93d8" stroke-width="0.8" stroke-opacity="0.10"/>
+  <!-- Sparkle dots -->
+  <circle cx="870" cy="120" r="3" fill="#ce93d8" fill-opacity="0.5"/>
+  <circle cx="860" cy="108" r="1.5" fill="#ab47bc" fill-opacity="0.5"/>
+  <line x1="860" y1="100" x2="860" y2="116" stroke="#ce93d8" stroke-width="1" stroke-opacity="0.5"/>
+  <line x1="852" y1="108" x2="868" y2="108" stroke="#ce93d8" stroke-width="1" stroke-opacity="0.5"/>
+  <circle cx="1140" cy="160" r="2.5" fill="#ce93d8" fill-opacity="0.45"/>
+  <line x1="1140" y1="152" x2="1140" y2="168" stroke="#ce93d8" stroke-width="1" stroke-opacity="0.4"/>
+  <line x1="1132" y1="160" x2="1148" y2="160" stroke="#ce93d8" stroke-width="1" stroke-opacity="0.4"/>
+  <!-- Horizontal accent lines -->
+  <line x1="110" y1="500" x2="750" y2="500" stroke="#ab47bc" stroke-width="1" stroke-opacity="0.25"/>
+  <line x1="110" y1="506" x2="500" y2="506" stroke="#ab47bc" stroke-width="0.5" stroke-opacity="0.15"/>
+  <!-- Accent bar -->
+  <rect x="80" y="175" width="6" height="280" fill="url(#accent482)" rx="3"/>
+  <!-- Badge -->
+  <rect x="110" y="175" width="160" height="38" rx="19" fill="url(#accent482)"/>
+  <text x="190" y="194" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle" dominant-baseline="middle">드라마</text>
+  <!-- Titles -->
+  <text x="110" y="308" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="84" font-weight="900" fill="white" letter-spacing="-2">2026 상반기</text>
+  <text x="110" y="405" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="84" font-weight="900" fill="url(#accent482)" letter-spacing="-2">한국 드라마</text>
+  <!-- Subtitle -->
+  <text x="110" y="462" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="25" fill="#ce93d8" letter-spacing="0.5">기대작 총정리 — 지금 챙겨야 할 작품들</text>
+  <!-- Bottom bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="#000" fill-opacity="0.35"/>
+  <rect x="0" y="570" width="1200" height="3" fill="url(#accent482)"/>
+  <text x="600" y="603" font-family="'Segoe UI',Arial,sans-serif" font-size="19" fill="white" fill-opacity="0.65" text-anchor="middle" dominant-baseline="middle" letter-spacing="3">ambitstock.com | R의 필름공장</text>
 </svg>

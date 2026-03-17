@@ -1,15 +1,51 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="100%" style="stop-color:#1e3a5f"/>
+    <linearGradient id="bg476" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#1a3a5c"/>
+    </linearGradient>
+    <linearGradient id="accentBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a73e8"/>
+      <stop offset="100%" stop-color="#42a5f5"/>
+    </linearGradient>
+    <linearGradient id="accentRed" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e50914"/>
+      <stop offset="100%" stop-color="#ff1744"/>
+    </linearGradient>
+    <linearGradient id="splitFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a73e8" stop-opacity="0.10"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#e50914" stop-opacity="0.10"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(88,166,255,0.07)"/>
-  <rect x="80" y="75" width="3" height="480" fill="rgba(88,166,255,0.4)"/>
-  <rect x="1117" y="75" width="3" height="480" fill="rgba(88,166,255,0.4)"/>
-  <text x="600" y="268" text-anchor="middle" font-size="80" font-weight="900" fill="#58a6ff" font-family="Pretendard, sans-serif">D+ vs N</text>
-  <text x="600" y="375" text-anchor="middle" font-size="40" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">어디가 나을까</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <rect width="1200" height="630" fill="url(#bg476)"/>
+  <!-- Split field overlay -->
+  <rect width="1200" height="630" fill="url(#splitFill)"/>
+  <!-- Vertical divider line in right region -->
+  <line x1="960" y1="60" x2="960" y2="570" stroke="white" stroke-width="1.5" stroke-opacity="0.12"/>
+  <!-- Left side (Disney+) decorative shapes -->
+  <circle cx="820" cy="180" r="80" fill="none" stroke="#42a5f5" stroke-width="1.5" stroke-opacity="0.2"/>
+  <circle cx="820" cy="180" r="55" fill="none" stroke="#42a5f5" stroke-width="1" stroke-opacity="0.15"/>
+  <circle cx="820" cy="180" r="30" fill="#1a73e8" fill-opacity="0.12"/>
+  <!-- Right side (Netflix) decorative shapes -->
+  <rect x="1060" y="110" width="90" height="140" rx="8" fill="none" stroke="#ff1744" stroke-width="1.5" stroke-opacity="0.2"/>
+  <rect x="1075" y="125" width="60" height="110" rx="5" fill="#e50914" fill-opacity="0.1"/>
+  <!-- VS badge in divider -->
+  <circle cx="960" cy="315" r="34" fill="#0a1628" stroke="white" stroke-width="1.5" stroke-opacity="0.3"/>
+  <text x="960" y="315" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="900" fill="white" fill-opacity="0.8" text-anchor="middle" dominant-baseline="middle">VS</text>
+  <!-- Accent bar (blue) -->
+  <rect x="80" y="175" width="6" height="280" fill="url(#accentBlue)" rx="3"/>
+  <!-- Badge -->
+  <rect x="110" y="175" width="200" height="38" rx="19" fill="url(#accentBlue)"/>
+  <text x="210" y="194" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle" dominant-baseline="middle">영화추천</text>
+  <!-- Titles -->
+  <text x="110" y="308" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="84" font-weight="900" fill="url(#accentBlue)" letter-spacing="-2">디즈니+ vs</text>
+  <text x="110" y="405" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="84" font-weight="900" fill="url(#accentRed)" letter-spacing="-2">넷플릭스</text>
+  <!-- Subtitle -->
+  <text x="110" y="462" font-family="'Segoe UI','Malgun Gothic',Arial,sans-serif" font-size="25" fill="#90caf9" letter-spacing="0.5">2026 OTT 비교 — 내게 맞는 구독은?</text>
+  <!-- Bottom bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="#000" fill-opacity="0.35"/>
+  <rect x="0" y="570" width="600" height="3" fill="url(#accentBlue)"/>
+  <rect x="600" y="570" width="600" height="3" fill="url(#accentRed)"/>
+  <text x="600" y="603" font-family="'Segoe UI',Arial,sans-serif" font-size="19" fill="white" fill-opacity="0.65" text-anchor="middle" dominant-baseline="middle" letter-spacing="3">ambitstock.com | R의 필름공장</text>
 </svg>

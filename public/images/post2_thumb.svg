@@ -1,15 +1,59 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1e1b4b"/>
-      <stop offset="100%" style="stop-color:#7c3aed"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0030"/>
+      <stop offset="50%" style="stop-color:#2d0050"/>
+      <stop offset="100%" style="stop-color:#3d0066"/>
     </linearGradient>
+    <linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6a1b9a"/>
+      <stop offset="100%" style="stop-color:#ab47bc"/>
+    </linearGradient>
+    <linearGradient id="acc2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ab47bc"/>
+      <stop offset="100%" style="stop-color:#ce93d8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="20%" r="50%">
+      <stop offset="0%" style="stop-color:#9c27b0;stop-opacity:0.25"/>
+      <stop offset="100%" style="stop-color:#9c27b0;stop-opacity:0"/>
+    </radialGradient>
   </defs>
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <circle cx="1050" cy="120" r="200" fill="rgba(243,67,150,0.12)"/>
-  <circle cx="150" cy="520" r="160" fill="rgba(243,67,150,0.10)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.20)"/>
-  <text x="600" y="268" text-anchor="middle" font-size="88" font-weight="900" fill="#f9a8d4" font-family="Pretendard, sans-serif">브리저튼 S4</text>
-  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.90)" font-family="Pretendard, sans-serif">결말 해석</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <!-- Radial glow top-right -->
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <!-- Decorative soft curves -->
+  <ellipse cx="1100" cy="100" rx="320" ry="220" fill="none" stroke="#ab47bc" stroke-width="1.5" opacity="0.12"/>
+  <ellipse cx="1050" cy="120" rx="220" ry="160" fill="none" stroke="#ab47bc" stroke-width="1" opacity="0.1"/>
+  <ellipse cx="200" cy="520" rx="260" ry="180" fill="none" stroke="#6a1b9a" stroke-width="1.5" opacity="0.1"/>
+  <!-- Decorative rose pattern top right -->
+  <circle cx="1060" cy="110" r="6" fill="#ce93d8" opacity="0.3"/>
+  <circle cx="1090" cy="85" r="4" fill="#ce93d8" opacity="0.25"/>
+  <circle cx="1030" cy="140" r="5" fill="#ab47bc" opacity="0.3"/>
+  <circle cx="1080" cy="155" r="3" fill="#ce93d8" opacity="0.2"/>
+  <circle cx="1110" cy="130" r="5" fill="#ab47bc" opacity="0.2"/>
+  <circle cx="1000" cy="80" r="4" fill="#ce93d8" opacity="0.15"/>
+  <circle cx="1130" cy="160" r="3" fill="#ce93d8" opacity="0.2"/>
+  <!-- Small petal shapes -->
+  <ellipse cx="1070" cy="95" rx="18" ry="8" fill="#ab47bc" opacity="0.15" transform="rotate(-30 1070 95)"/>
+  <ellipse cx="1045" cy="120" rx="15" ry="6" fill="#9c27b0" opacity="0.15" transform="rotate(20 1045 120)"/>
+  <!-- Left accent bar -->
+  <rect x="80" y="165" width="7" height="300" fill="url(#acc)" rx="3.5"/>
+  <!-- Category badge -->
+  <rect x="106" y="165" width="100" height="38" rx="19" fill="#6a1b9a" opacity="0.95"/>
+  <text x="156" y="189" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="white" text-anchor="middle">드라마</text>
+  <!-- Series badge -->
+  <rect x="220" y="165" width="160" height="38" rx="19" fill="#ffffff" opacity="0.1"/>
+  <text x="300" y="189" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#e1bee7" text-anchor="middle">넷플릭스 드라마</text>
+  <!-- Main title line 1 -->
+  <text x="106" y="298" font-family="Arial Black, Arial, sans-serif" font-size="82" font-weight="900" fill="white" letter-spacing="-2">브리저튼 시즌4</text>
+  <!-- Main title line 2 -->
+  <text x="106" y="386" font-family="Arial Black, Arial, sans-serif" font-size="82" font-weight="900" fill="url(#acc2)" letter-spacing="-2">결말 해석</text>
+  <!-- Subtitle -->
+  <text x="106" y="441" font-family="Arial, sans-serif" font-size="26" font-weight="400" fill="#e1bee7" opacity="0.88">시즌4 엔딩 · 복선 · 시즌5 예고</text>
+  <!-- Divider -->
+  <rect x="106" y="464" width="320" height="3" fill="url(#acc)" rx="1.5" opacity="0.5"/>
+  <!-- Bottom bar -->
+  <rect x="0" y="572" width="1200" height="58" fill="#6a1b9a" opacity="0.15"/>
+  <text x="600" y="609" font-family="Arial, sans-serif" font-size="19" fill="#e1bee7" text-anchor="middle" opacity="0.88">ambitstock.com | R의 필름공장</text>
 </svg>

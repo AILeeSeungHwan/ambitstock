@@ -1,14 +1,79 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1c1c1c"/>
-      <stop offset="100%" style="stop-color:#3d2800"/>
+      <stop offset="0%" style="stop-color:#0d0d1f"/>
+      <stop offset="50%" style="stop-color:#141428"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c9a94e"/>
+      <stop offset="100%" style="stop-color:#ffd700"/>
+    </linearGradient>
+    <linearGradient id="goldv" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd700"/>
+      <stop offset="100%" style="stop-color:#c9a94e"/>
     </linearGradient>
   </defs>
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.30)"/>
-  <polygon points="600,80 640,160 730,160 660,210 690,295 600,240 510,295 540,210 470,160 560,160" fill="rgba(255,215,0,0.18)" stroke="rgba(255,215,0,0.4)" stroke-width="1.5"/>
-  <text x="600" y="268" text-anchor="middle" font-size="92" font-weight="900" fill="#ffd700" font-family="Pretendard, sans-serif">마블 신작</text>
-  <text x="600" y="375" text-anchor="middle" font-size="44" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">2025-2027</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <!-- Star field -->
+  <circle cx="100" cy="50" r="1.5" fill="#ffd700" opacity="0.5"/>
+  <circle cx="180" cy="30" r="1" fill="white" opacity="0.4"/>
+  <circle cx="250" cy="70" r="1.5" fill="white" opacity="0.3"/>
+  <circle cx="320" cy="25" r="1" fill="#ffd700" opacity="0.45"/>
+  <circle cx="400" cy="55" r="2" fill="white" opacity="0.35"/>
+  <circle cx="470" cy="35" r="1" fill="#ffd700" opacity="0.4"/>
+  <circle cx="540" cy="60" r="1.5" fill="white" opacity="0.3"/>
+  <circle cx="620" cy="20" r="1" fill="white" opacity="0.4"/>
+  <circle cx="700" cy="50" r="1.5" fill="#ffd700" opacity="0.45"/>
+  <circle cx="780" cy="30" r="1" fill="white" opacity="0.35"/>
+  <circle cx="850" cy="65" r="2" fill="white" opacity="0.3"/>
+  <circle cx="930" cy="40" r="1" fill="#ffd700" opacity="0.4"/>
+  <circle cx="1010" cy="55" r="1.5" fill="white" opacity="0.35"/>
+  <circle cx="1090" cy="25" r="1" fill="white" opacity="0.3"/>
+  <circle cx="1150" cy="60" r="1.5" fill="#ffd700" opacity="0.4"/>
+  <!-- More stars mid and bottom area -->
+  <circle cx="130" cy="500" r="1" fill="white" opacity="0.25"/>
+  <circle cx="370" cy="540" r="1.5" fill="white" opacity="0.2"/>
+  <circle cx="820" cy="510" r="1" fill="#ffd700" opacity="0.3"/>
+  <circle cx="1100" cy="535" r="1.5" fill="white" opacity="0.25"/>
+  <!-- Hexagon cluster right side - Marvel geometric -->
+  <!-- Hex 1 large -->
+  <polygon points="1020,150 1075,120 1130,150 1130,210 1075,240 1020,210" fill="none" stroke="#c9a94e" stroke-width="2" opacity="0.25"/>
+  <!-- Hex 2 medium -->
+  <polygon points="1060,240 1100,218 1140,240 1140,284 1100,306 1060,284" fill="none" stroke="#ffd700" stroke-width="1.5" opacity="0.2"/>
+  <!-- Hex 3 small -->
+  <polygon points="980,200 1010,183 1040,200 1040,234 1010,251 980,234" fill="none" stroke="#c9a94e" stroke-width="1" opacity="0.18"/>
+  <!-- Hex 4 large bottom right -->
+  <polygon points="1050,330 1120,291 1190,330 1190,408 1120,447 1050,408" fill="none" stroke="#ffd700" stroke-width="2" opacity="0.15"/>
+  <!-- Inner hex filled -->
+  <polygon points="1060,180 1090,163 1120,180 1120,214 1090,231 1060,214" fill="#ffd700" opacity="0.07"/>
+  <!-- Timeline road elements bottom -->
+  <line x1="106" y1="520" x2="840" y2="520" stroke="#c9a94e" stroke-width="1.5" opacity="0.2"/>
+  <circle cx="200" cy="520" r="5" fill="#ffd700" opacity="0.4"/>
+  <circle cx="350" cy="520" r="5" fill="#ffd700" opacity="0.35"/>
+  <circle cx="500" cy="520" r="5" fill="#ffd700" opacity="0.3"/>
+  <circle cx="650" cy="520" r="5" fill="#ffd700" opacity="0.25"/>
+  <text x="200" y="543" font-family="Arial, sans-serif" font-size="13" fill="#ffd700" text-anchor="middle" opacity="0.5">2025</text>
+  <text x="450" y="543" font-family="Arial, sans-serif" font-size="13" fill="#ffd700" text-anchor="middle" opacity="0.45">2026</text>
+  <text x="700" y="543" font-family="Arial, sans-serif" font-size="13" fill="#ffd700" text-anchor="middle" opacity="0.4">2027</text>
+  <!-- Left accent bar -->
+  <rect x="80" y="155" width="7" height="310" fill="url(#gold)" rx="3.5"/>
+  <!-- Category badge dark bg + gold text -->
+  <rect x="106" y="155" width="100" height="38" rx="19" fill="#1a1a2e" stroke="#c9a94e" stroke-width="1.5" opacity="0.95"/>
+  <text x="156" y="179" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#ffd700" text-anchor="middle">마블</text>
+  <!-- Roadmap badge -->
+  <rect x="220" y="155" width="140" height="38" rx="19" fill="#ffffff" opacity="0.07"/>
+  <text x="290" y="179" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#ffd700" text-anchor="middle" opacity="0.85">신작 로드맵</text>
+  <!-- Main title line 1 -->
+  <text x="106" y="290" font-family="Arial Black, Arial, sans-serif" font-size="78" font-weight="900" fill="white" letter-spacing="-2">마블 개봉 예정</text>
+  <!-- Main title line 2 gold -->
+  <text x="106" y="378" font-family="Arial Black, Arial, sans-serif" font-size="80" font-weight="900" fill="url(#gold)" letter-spacing="-2">2025–2027</text>
+  <!-- Subtitle -->
+  <text x="106" y="432" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#f5deb3" opacity="0.85">신작 로드맵 · 개봉일 · 페이즈 정리</text>
+  <!-- Divider -->
+  <rect x="106" y="455" width="320" height="3" fill="url(#gold)" rx="1.5" opacity="0.5"/>
+  <!-- Bottom bar -->
+  <rect x="0" y="572" width="1200" height="58" fill="#c9a94e" opacity="0.1"/>
+  <text x="600" y="609" font-family="Arial, sans-serif" font-size="19" fill="#f5deb3" text-anchor="middle" opacity="0.85">ambitstock.com | R의 필름공장</text>
 </svg>

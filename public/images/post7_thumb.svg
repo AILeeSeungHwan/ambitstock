@@ -1,15 +1,60 @@
-<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1c1c1c"/>
-      <stop offset="100%" style="stop-color:#4a2000"/>
+      <stop offset="0%" style="stop-color:#0d0d1f"/>
+      <stop offset="40%" style="stop-color:#111128"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
     </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c9a94e"/>
+      <stop offset="100%" style="stop-color:#ffd700"/>
+    </linearGradient>
+    <radialGradient id="doom" cx="80%" cy="50%" r="45%">
+      <stop offset="0%" style="stop-color:#8b0000;stop-opacity:0.2"/>
+      <stop offset="100%" style="stop-color:#8b0000;stop-opacity:0"/>
+    </radialGradient>
   </defs>
+  <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect x="60" y="55" width="1080" height="520" rx="18" fill="rgba(0,0,0,0.30)"/>
-  <rect x="80" y="75" width="1060" height="4" rx="2" fill="rgba(255,215,0,0.4)"/>
-  <rect x="80" y="551" width="1060" height="4" rx="2" fill="rgba(255,215,0,0.4)"/>
-  <text x="600" y="265" text-anchor="middle" font-size="96" font-weight="900" fill="#ffd700" font-family="Pretendard, sans-serif">둠스데이</text>
-  <text x="600" y="375" text-anchor="middle" font-size="46" font-weight="700" fill="rgba(255,255,255,0.88)" font-family="Pretendard, sans-serif">어벤져스</text>
-  <text x="600" y="548" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.38)" font-family="Pretendard, sans-serif">R의 필름공장</text>
+  <!-- Doom glow right side -->
+  <rect width="1200" height="630" fill="url(#doom)"/>
+  <!-- Angular action shapes - diagonal slashes for Doomsday feel -->
+  <polygon points="900,0 1200,0 1200,630 1050,630" fill="#8b0000" opacity="0.08"/>
+  <!-- Diagonal slash lines -->
+  <line x1="820" y1="0" x2="1200" y2="460" stroke="#c9a94e" stroke-width="3" opacity="0.12"/>
+  <line x1="870" y1="0" x2="1200" y2="390" stroke="#c9a94e" stroke-width="2" opacity="0.08"/>
+  <line x1="760" y1="0" x2="1200" y2="540" stroke="#c9a94e" stroke-width="1.5" opacity="0.07"/>
+  <!-- Star field top -->
+  <circle cx="150" cy="40" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="290" cy="60" r="1" fill="white" opacity="0.3"/>
+  <circle cx="430" cy="30" r="1.5" fill="#ffd700" opacity="0.35"/>
+  <circle cx="560" cy="55" r="1" fill="white" opacity="0.3"/>
+  <circle cx="700" cy="25" r="2" fill="white" opacity="0.35"/>
+  <circle cx="1080" cy="45" r="1" fill="#ffd700" opacity="0.3"/>
+  <circle cx="1150" cy="70" r="1.5" fill="white" opacity="0.25"/>
+  <!-- Shield/gauntlet outline watermark -->
+  <path d="M 1010 100 L 1010 200 Q 1010 250 1060 280 Q 1110 250 1110 200 L 1110 100 Z" fill="none" stroke="#ffd700" stroke-width="2" opacity="0.12"/>
+  <!-- Character silhouette suggestion - angular shape -->
+  <polygon points="1040,120 1080,100 1090,160 1070,200 1050,200 1030,160" fill="#ffd700" opacity="0.06"/>
+  <!-- MCU logo style lines -->
+  <rect x="890" y="580" width="280" height="3" fill="#c9a94e" opacity="0.2" rx="1.5"/>
+  <!-- Left accent bar -->
+  <rect x="80" y="155" width="7" height="310" fill="url(#gold)" rx="3.5"/>
+  <!-- Category badge -->
+  <rect x="106" y="155" width="100" height="38" rx="19" fill="#1a1a2e" stroke="#c9a94e" stroke-width="1.5" opacity="0.95"/>
+  <text x="156" y="179" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#ffd700" text-anchor="middle">마블</text>
+  <!-- Action tag -->
+  <rect x="220" y="155" width="180" height="38" rx="19" fill="#8b0000" opacity="0.5"/>
+  <text x="310" y="179" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#ffcccc" text-anchor="middle">Avengers</text>
+  <!-- Main title line 1 -->
+  <text x="106" y="288" font-family="Arial Black, Arial, sans-serif" font-size="84" font-weight="900" fill="url(#gold)" letter-spacing="-2">어벤져스</text>
+  <!-- Main title line 2 -->
+  <text x="106" y="376" font-family="Arial Black, Arial, sans-serif" font-size="80" font-weight="900" fill="white" letter-spacing="-2">둠스데이</text>
+  <!-- Subtitle -->
+  <text x="106" y="432" font-family="Arial, sans-serif" font-size="25" font-weight="400" fill="#f5deb3" opacity="0.85">출연진 · 줄거리 · 떡밥 총정리</text>
+  <!-- Divider -->
+  <rect x="106" y="455" width="280" height="3" fill="url(#gold)" rx="1.5" opacity="0.55"/>
+  <!-- Bottom bar -->
+  <rect x="0" y="572" width="1200" height="58" fill="#c9a94e" opacity="0.1"/>
+  <text x="600" y="609" font-family="Arial, sans-serif" font-size="19" fill="#f5deb3" text-anchor="middle" opacity="0.85">ambitstock.com | R의 필름공장</text>
 </svg>
