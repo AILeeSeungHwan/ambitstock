@@ -15,6 +15,7 @@ const post = {
     { type: 'body', html: '<p>기생충 이후 봉준호 감독의 과거작을 찾아본 외국인들이 가장 놀라는 작품이 바로 &quot;살인의 추억&quot;이다. &quot;How is this not more famous internationally?&quot;(이 영화가 왜 국제적으로 더 유명하지 않지?)라는 반응이 대다수다. 특히 마지막 장면에서 송강호가 카메라를 바라보는 눈빛에 대해 &quot;The most haunting final shot in cinema history&quot;(영화 역사상 가장 소름 끼치는 마지막 장면)라는 평가가 반복적으로 등장한다. 실제 화성 연쇄 살인 사건의 범인이 2019년에 밝혀지면서 해외에서도 다시 화제가 됐고, 레딧에서 관련 글이 수만 개의 업보트를 받았다. 로튼토마토 95%를 기록 중이다.</p>' },
     { type: 'image', src: '/images/post32_img1.svg', alt: '한국 영화 해외 반응 댓글 모음', caption: '레딧과 유튜브에서 수집한 실제 반응들' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'image', src: '/images/post32_poster.jpg', alt: '올드보이 공식 포스터 - 박찬욱 감독', caption: '출처: 네이버 영화' },
     { type: 'h2', id: 'section5', text: '곡성 (2016) - "뭘 본 건지 모르겠지만 대단하다"', gradientStyle: 'linear-gradient(to right, #880e4f, #ad1457)' },
     { type: 'body', html: '<p>나홍진 감독의 &quot;곡성&quot;은 해외 호러 팬들 사이에서 거의 신앙 수준으로 추앙받는 작품이다. 레딧 r/horror에서 &quot;best horror movie of the decade&quot; 글이 올라오면 곡성이 항상 언급된다. 가장 재밌는 외국인 반응은 &quot;I&apos;ve watched it 5 times and I still don&apos;t fully understand it, but that&apos;s what makes it a masterpiece&quot;(5번 봤는데 아직도 완전히 이해 못 하겠지만 그게 걸작인 이유다)였다. 국제 비평가들로부터 로튼토마토 99%라는 경이로운 점수를 받았고, 이는 한국 영화 역대 최고 수준이다. 특히 굿 장면에서 외국인들의 리액션이 백미인데, 문화적 맥락을 모르는 상태에서도 그 공포감을 체감한다는 점이 대단하다.</p>' },
     { type: 'h2', id: 'section6', text: '추격자, 신세계, 타짜까지 - 더 알려져야 할 작품들', gradientStyle: 'linear-gradient(to right, #e53935, #c62828)' },
