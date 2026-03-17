@@ -28,8 +28,9 @@ sections: [
   // 1. intro — 감정적 도입 + 한 줄 결론 + 이런 사람에게 맞는 작품 박스
   { type: 'intro', html: '...' },
 
-  // 2. 대표 이미지 (1장, SVG)
-  { type: 'image', src: '/images/post[ID]_thumb.svg', alt: '...', caption: '...' },
+  // 2. 영화 포스터 이미지 (TMDB 크롤링 — scripts/crawl_movie_images.py 활용)
+  // og:image 썸네일(post[ID]_thumb.svg)은 메타데이터에만 사용하고 본문에는 실제 포스터를 삽입
+  { type: 'image', src: '/images/post[ID]_poster.jpg', alt: '[영화명] 공식 포스터', caption: '출처: TMDB' },
 
   // 3. 목차 (자동 생성)
   { type: 'toc' },
@@ -98,10 +99,11 @@ sections: [
 
 ```
 intro: 감정적 도입 + 전체 라인업 요약
-image: 대표 이미지
+image: 작품 포스터 (TMDB 크롤링, 각 작품마다 1장씩)
 toc
 h2: [가장 기대되는 작품 TOP 3]
 body: 각 작품별 추천 이유 + 호불호
+image: 각 추천 작품 포스터 (TMDB)
 ad
 h2: [장르별 추천 — 취향저격 신작 찾기]
 body: 로맨스/액션/스릴러/가족 등 분류
@@ -118,13 +120,14 @@ ad
 
 ```
 intro: 감상 도입 + 한 줄 결론 + 추천 대상 박스
-image: 대표 이미지
+image: 영화 공식 포스터 (TMDB 크롤링, caption: '출처: TMDB')
 toc
 h2: [이 작품의 핵심 매력]
 body: 감상 포인트, 몰입도, 연출력
 ad
 h2: [이 장면에서 소름 돋았다 — 명장면 포인트]
 body: (스포일러 경고 후) 핵심 장면 해석
+image: 스틸컷 1~2장 (TMDB 크롤링, caption: 'ⓒ TMDB')
 h2: [해외 반응은? — 로튼토마토·IMDB 평점]
 body: 평점 데이터 + 해외 리뷰 요약
 ad
@@ -140,10 +143,11 @@ ad
 
 ```
 intro: "시즌 마지막 화 보고 멍했다" 식 도입 + 스포일러 경고
-image: 대표 이미지
+image: 영화/드라마 포스터 (TMDB 크롤링, caption: '출처: TMDB')
 toc
 h2: [결말 요약 — 무슨 일이 벌어졌나]
 body: 핵심 사건 정리 (스포일러)
+image: 핵심 장면 스틸컷 (TMDB 크롤링)
 ad
 h2: [놓치기 쉬운 복선 — 이 장면 기억나세요?]
 body: 복선/떡밥 해석
@@ -160,7 +164,7 @@ ad
 
 ```
 intro: 상황별 고민 도입 + 한 줄 결론
-image: 대표 이미지
+image: 인포그래픽 SVG 또는 대표 이미지
 toc
 h2: [한눈에 보는 비교표]
 body: <table> 가격/콘텐츠/화질/동접 비교
@@ -210,6 +214,30 @@ ad
 - ❌ TOC 바로 앞 배치 금지
 - ❌ intro 섹션 안에 CTA 금지
 - ❌ 광고 바로 앞뒤에 CTA 연속 배치 금지
+
+---
+
+## 이미지 규칙
+
+### 역할 분리
+- **og:image 썸네일** (`post{ID}_thumb.svg`): 메타데이터(`thumbnail` 필드)에만 사용. 본문에 삽입하지 않아도 됨.
+- **본문 이미지**: TMDB에서 크롤링한 실제 포스터/스틸컷. `scripts/crawl_movie_images.py` 활용.
+
+### 이미지 삽입 예시
+```js
+// 포스터 (필수)
+{ type: 'image', src: '/images/post[ID]_poster.jpg', alt: '[영화명] 공식 포스터 (연도)', caption: '출처: TMDB' },
+
+// 스틸컷 (리뷰/해석형에서 선택)
+{ type: 'image', src: '/images/post[ID]_still1.jpg', alt: '[영화명] [장면 설명]', caption: 'ⓒ TMDB' },
+```
+
+### 유형별 수량
+| 글 유형 | 본문 이미지 수 |
+|---|---|
+| 단일 리뷰/해석 | 포스터 1 + 스틸컷 1~2 = 2~3장 |
+| TOP N 추천 | 각 작품 포스터 1장씩 |
+| OTT/비교 | 주요 작품 포스터 2~3장 |
 
 ---
 
