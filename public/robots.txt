@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /adminLee/
+
+Sitemap: https://ambitstock.com/sitemap.xml

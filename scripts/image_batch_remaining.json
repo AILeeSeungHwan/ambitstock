@@ -1,0 +1,13 @@
+[
+  {"post_id": 6, "movies": [{"query": "어벤져스 엔드게임 영화", "max_images": 1}, {"query": "판타스틱4 마블 영화", "max_images": 1}]},
+  {"post_id": 8, "movies": [{"query": "로키 드라마 디즈니", "max_images": 1}]},
+  {"post_id": 10, "movies": [{"query": "아이언맨 마블 영화", "max_images": 1}, {"query": "어벤져스 마블 영화", "max_images": 1}]},
+  {"post_id": 21, "movies": [{"query": "듄 파트2 영화", "max_images": 1}, {"query": "범죄도시4 영화", "max_images": 1}]},
+  {"post_id": 22, "movies": [{"query": "명량 영화", "max_images": 1}, {"query": "극한직업 영화", "max_images": 1}]},
+  {"post_id": 23, "movies": [{"query": "칸영화제 수상작 영화", "max_images": 1}, {"query": "기생충 칸영화제", "max_images": 1}]},
+  {"post_id": 25, "movies": [{"query": "살인의추억 영화", "max_images": 1}, {"query": "기생충 봉준호", "max_images": 1}]},
+  {"post_id": 28, "movies": [{"query": "미드소마 공포영화", "max_images": 1}, {"query": "콰이어트플레이스 영화", "max_images": 1}]},
+  {"post_id": 29, "movies": [{"query": "노트북 영화 로맨스", "max_images": 1}, {"query": "어바웃타임 영화", "max_images": 1}]},
+  {"post_id": 30, "movies": [{"query": "라라랜드 영화", "max_images": 1}, {"query": "비포선라이즈 영화", "max_images": 1}]},
+  {"post_id": 36, "movies": [{"query": "인터스텔라 영화", "max_images": 1}, {"query": "블레이드러너2049 영화", "max_images": 1}]}
+]
