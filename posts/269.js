@@ -76,6 +76,7 @@ const post = {
       type: 'body',
       html: '<p>사실 공개 된 후 큰 반항을 일으키진 못하였지만, 아래 순위에 나올 대작들에 묻혀서 그렇지 꽤나 탄탄한 스토리와 전개로 해외에서도 평이 좋은 볼만한 작품입니다. 무려 전 세계 인기순위 3위에 해당하는 작품으로 해외 평점과 후기 아래 포스팅에서 확인가능합니다.</p>'
     },
+    { type: 'image', src: '/images/post269_poster.jpg', alt: '포스트 269 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>6위는 완전무결한 커플입니다.</b></span></p>'

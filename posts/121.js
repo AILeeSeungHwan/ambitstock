@@ -27,6 +27,7 @@ const post = {
       type: 'body',
       html: '<p><b>베니스국제영화제 볼피컵 - 남우주연상을 수상한 피터 사스가드의 작품으로 </b>이번 포스팅에서는 영화 제목인 메모리의 뜻 해석 그리고 해외 로튼 토마토 평론가 반응 후기를 함께 알아보도록 하겠습니다.</p>'
     },
+    { type: 'image', src: '/images/post121_poster.jpg', alt: '포스트 121 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'h2',
       id: 'section2',

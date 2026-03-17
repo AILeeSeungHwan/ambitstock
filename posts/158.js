@@ -48,6 +48,7 @@ const post = {
       type: 'body',
       html: '<p><b>11월 25일 CGV 용산점에서 언론 및 관계자들을 대상으로 한 시사회</b>가 열렸습니다.</p>'
     },
+    { type: 'image', src: '/images/post158_poster.jpg', alt: '포스트 158 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>2001년 홍제동 화재 방화 사건을 모티브</b></span>로 하여 소방관들의 희생과 노고를 진정성 있게 그려냈다는 평을 받았습니다.</p>'

@@ -46,6 +46,7 @@ const post = {
       type: 'body',
       html: '<p><b>역대 최고의 작품으로, 예매해야 하는 이유를 알게 되실 것 입니다.</b></p>'
     },
+    { type: 'image', src: '/images/post264_poster.jpg', alt: '포스트 264 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><b>와일드 로봇 평론가 결말 후기 리뷰가 궁금하신 분은 하단 포스팅을 참고하시길 바랍니다.</b></p>'

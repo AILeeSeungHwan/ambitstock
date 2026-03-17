@@ -27,6 +27,7 @@ const post = {
       type: 'body',
       html: '<p>하지만 워너브라더스는 자사의 <b>스트리밍·스튜디오 부문 가치</b>를 현 시가총액(약 423억 달러)보다 훨씬 높게 평가하고 있어, “인수 제안은 <b>기업 가치에 미치지 못한다</b>”는 입장을 내비쳤다.</p>'
     },
+    { type: 'image', src: '/images/post56_poster.jpg', alt: '포스트 56 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'h2',
       id: 'section2',

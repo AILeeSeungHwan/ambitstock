@@ -27,6 +27,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: #333333; line-height: 1.8;&quot;>한국어 제목이 관계성과 동행의 의미를 강조한다면, 영어 제목은 ‘지킴’과 ‘책임’이라는 상징에 더 초점을 맞추고 있다고 볼 수 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post54_poster.jpg', alt: '포스트 54 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'h2',
       id: 'section2',

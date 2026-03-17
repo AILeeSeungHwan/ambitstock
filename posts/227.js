@@ -41,6 +41,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;공포영화 순위 현재상영작&quot;>2024.10.16 - [영화/영화 추천] - 2024년 공포 영화 추천 인기 순위 총정리 현재상영작</a></p>'
     },
+    { type: 'image', src: '/images/post227_poster.jpg', alt: '포스트 227 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>롱레그스 시사회 관람평 후기 리뷰입니다.</b></span></p>'

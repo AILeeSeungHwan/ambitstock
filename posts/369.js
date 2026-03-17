@@ -36,6 +36,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;>볼 영화가 너무 많아 고민인 8월 개봉 예정 신작!</span></b></p>'
     },
+    { type: 'image', src: '/images/post369_poster.jpg', alt: '포스트 369 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;>총 8개의 작품 시작합니다.</span></b></p>'

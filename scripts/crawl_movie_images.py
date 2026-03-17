@@ -83,8 +83,14 @@ def search_naver(query):
         src = img.get('src', '') or img.get('data-src', '')
         if not src or 'pstatic' not in src:
             continue
-        if 'movie' not in src and 'imgmovi' not in src and 'movie.phinf' not in src:
+        # 네이버 로고, 아이콘, 작은 UI 이미지 제외
+        if 'static.naver' in src or 'papago' in src or 'dict' in src:
             continue
+        size_check = re.search(r'size=(\d+)x(\d+)', src)
+        if size_check:
+            w, h = int(size_check.group(1)), int(size_check.group(2))
+            if w < 100 and h < 100:
+                continue
 
         alt = img.get('alt', '').strip()
         original = get_original_url(src)
@@ -109,11 +115,11 @@ def search_naver(query):
                 posters.append({'url': download_url, 'alt': alt})
             else:
                 stills.append({'url': download_url, 'alt': alt})
-        elif 'movie.phinf' in original or 'imgmovi' in original:
-            if 'TRAILER' in original or 'multimedia' in original:
-                stills.append({'url': download_url, 'alt': alt})
-            else:
-                posters.append({'url': download_url, 'alt': alt})
+        elif 'TRAILER' in original or 'multimedia' in original:
+            stills.append({'url': download_url, 'alt': alt})
+        else:
+            # 분류 불가 시 포스터로 간주
+            posters.append({'url': download_url, 'alt': alt})
 
     return {'posters': posters, 'stills': stills}
 

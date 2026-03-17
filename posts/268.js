@@ -41,6 +41,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: start;&quot;>감독 이언희의 로맨스 장르로의 복귀작으로 주연을 맡은 김고은과 노상현의 연기가 특히 호평받았습니다.</p>'
     },
+    { type: 'image', src: '/images/post268_poster.jpg', alt: '포스트 268 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>대도시의 사랑법 한국 평점과 해외 반응 후기 함께 살펴보도록 하겠습니다.</b></span></p>'

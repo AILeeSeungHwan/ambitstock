@@ -31,6 +31,7 @@ const post = {
       type: 'body',
       html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>닥터 둠은 코믹스에서 한때 아이언맨 역할을 대신한 적이 있습니다.</span></b></p>'
     },
+    { type: 'image', src: '/images/post358_poster.jpg', alt: '포스트 358 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p>2015년부터 2018년까지 이어진 인퍼머스 아이언맨(Infamous Iron Man) 원작 코믹스 시리즈에서, 닥터 둠은 토니 스타크가 사라진 이후 아이언맨의 갑옷을 입고 히어로로 활동했습니다. 그는 자신의 과거를 속죄하고 히어로로서 새로운 길을 걷기 위해 노력하며, 과거의 빌런 이미지에서 벗어나려 했습니다.</p>'

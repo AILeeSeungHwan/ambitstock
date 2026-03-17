@@ -21,6 +21,7 @@ const post = {
       type: 'body',
       html: '<p>영화 에일리언: 로물루스 (영어 제목 - Alien: Romulus)의 제목에서 부제 <span style=&quot;background-color: #ff5211; color: #ffffff;&quot;><b>로물루스(Romulus)는 로마 신화에 등장하는 전설적인 인물의 이름입니다. 로물루스는 로마의 건국자로 여겨지며, 쌍둥이 형제 레무스와 함께 로마를 세운 것으로 유명</b></span>합니다. 전설에 따르면, 로물루스는 도시 로마의 초대 왕이었고, 그의 이름이 도시의 이름을 유래했다고 전해집니다.</p>'
     },
+    { type: 'image', src: '/images/post370_poster.jpg', alt: '포스트 370 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p>그렇다면 영화 제목의 의미는 무엇일까요?</p>'

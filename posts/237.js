@@ -36,6 +36,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;482&quot; data-origin-width=&quot;1506&quot;><span data-alt=&quot;룸 넥스트 도어 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cQbfsD/btsKbJeCEgX/AAAAAAAAAAAAAAAAAAAAAF7q63S8qimQmPu_-9Vef33g96SYjCdA--PP8-wX2YJf/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DBKT%2FhAAeZUfbXFKBUfDxwLvaa8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cQbfsD/btsKbJeCEgX/AAAAAAAAAAAAAAAAAAAAAF7q63S8qimQmPu_-9Vef33g96SYjCdA--PP8-wX2YJf/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DBKT%2FhAAeZUfbXFKBUfDxwLvaa8%3D&quot;></span><figcaption>룸 넥스트 도어 로튼 토마토 평점</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post237_poster.jpg', alt: '포스트 237 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 90%, 관람객 평점은 아직 기록되지 않았습니다.</b></span></p>'

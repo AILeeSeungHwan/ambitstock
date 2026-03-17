@@ -48,6 +48,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>X를 담아, 당신에게 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post160_poster.jpg', alt: '포스트 160 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;594&quot; data-origin-width=&quot;1844&quot;><span data-alt=&quot;X를 담아, 당신에게 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dvQKcr/btsK3gRxXHw/AAAAAAAAAAAAAAAAAAAAAJ4Qo5VGVhGn5bL5E0dxYuRO91OuI5mRdfcFt5kQFpCb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Th9qiCvVVZ5idRcqbeZUd62C9Mc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dvQKcr/btsK3gRxXHw/AAAAAAAAAAAAAAAAAAAAAJ4Qo5VGVhGn5bL5E0dxYuRO91OuI5mRdfcFt5kQFpCb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Th9qiCvVVZ5idRcqbeZUd62C9Mc%3D&quot;></span><figcaption>X를 담아, 당신에게 로튼 토마토 평론가 평점</figcaption> </figure> </p>'

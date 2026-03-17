@@ -40,6 +40,7 @@ const post = {
       type: 'body',
       html: '<p>Petrana Radulovic - 평점 (없음) <br/>이 영화는 큰 주제를 다루지만, 아이들에게 너무 어려운 방식으로도, 성인들에게 너무 유치한 방식으로도 전달하지 않는다.</p>'
     },
+    { type: 'image', src: '/images/post265_poster.jpg', alt: '포스트 265 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p>Walter Chaw - 평점 (2/4) <br/>이 영화는 매끄럽지만, 매끄러운 것의 본질처럼 영화가 끝난 후에는 붙잡을 것이 별로 없다.</p>'

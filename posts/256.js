@@ -51,6 +51,7 @@ const post = {
       type: 'body',
       html: '<p>페렘푸안은 처음에는 24층에 살며 먹을 것이 충분했기 때문에 법을 따르는 충성파로서 행동했습니다.</p>'
     },
+    { type: 'image', src: '/images/post256_poster.jpg', alt: '포스트 256 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>하지만 점차 구조의 비인간성을 깨닫게 되고, 동료 두 명의 죽음을 목격한 후 독재자 다긴 바비의 임의적 처벌을 받게 되면서 시스템에 반기를 들게 됩니다.</b></span></p>'

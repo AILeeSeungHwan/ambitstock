@@ -21,6 +21,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;>각<b><span style=&quot;background-color: #9feec3;&quot;> 평</span>론가의 이름과 소속, 평점, 내용은 최대한 의역하여 자연스럽게 요약하여 전달</b></span>드립니다.</p>'
     },
+    { type: 'image', src: '/images/post313_poster.jpg', alt: '포스트 313 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p>후기 확인해보시고 볼만한지 아닌지 판단해보시길 바랍니다.</p>'

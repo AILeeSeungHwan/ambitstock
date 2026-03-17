@@ -48,6 +48,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>더 폴 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post159_poster.jpg', alt: '포스트 159 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 64%, 관객 평점은 85%를 기록하였습니다.</b></span></p>'

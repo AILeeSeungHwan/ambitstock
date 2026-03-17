@@ -33,6 +33,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 86%, 관객 평점은 60%입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post153_poster.jpg', alt: '포스트 153 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p>80점 중반대의 높은 평점과 평론가 신선도 보증마크 획득까지, 평론가들에게는 좋은 평가를 받은 캐리온, 관객평점은 60%로 온도차를 보였습니다.</p>'

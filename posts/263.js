@@ -40,6 +40,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: start;&quot;>이 시스템은 상징적으로 자원이 불평등하게 분배되는 현실 사회를 반영하고 있으며, 인간의 탐욕과 이기심을 보여줍니다. 등장인물들 각자의 방식으로 생존하려고 애쓰면서 서로를 배신하고, 때로는 필요에 따라서 협력하는 모습을 보이지만, <span style=&quot;background-color: #9feec3;&quot;><b>인간의 근본적인 욕심이 파멸을 부르는 결과를 가져옵니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post263_poster.jpg', alt: '포스트 263 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화의 결말은 주인공 고렝이 어린 소녀를 플랫폼에 태워 위로 보내는 장면으로 끝이 납니다. 이 결말은 여러 가지 해석이 가능합니다.</p>'

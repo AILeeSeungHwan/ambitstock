@@ -39,6 +39,7 @@ const post = {
       type: 'body',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>콰이어트 플레이스 3: 첫째날 개봉 전 남들보다 미리보는 예고편 | 출연진 줄거리 완벽 정리 | 개봉 예정 영화 추천</a></p>'
     },
+    { type: 'image', src: '/images/post428_poster.jpg', alt: '포스트 428 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'cta',
       href: '/release-plot-upcoming-movie-recommend/',

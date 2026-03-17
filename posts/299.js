@@ -31,6 +31,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1232&quot; data-origin-width=&quot;1838&quot;><span data-alt=&quot;나우 유 씨미 해외 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/9HJqG/btsJDPUBqMG/AAAAAAAAAAAAAAAAAAAAAI0UM0VtItk15E5-petDniqf1aBCE5PBbnNybHGV8Kyn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mtHw7wSw6wKPC9W1XOPw9puEDIE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/9HJqG/btsJDPUBqMG/AAAAAAAAAAAAAAAAAAAAAI0UM0VtItk15E5-petDniqf1aBCE5PBbnNybHGV8Kyn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mtHw7wSw6wKPC9W1XOPw9puEDIE%3D&quot;></span><figcaption>나우 유 씨미 해외 평론가 후기</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post299_poster.jpg', alt: '포스트 299 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><b>Brian Eggert</b> | 2/4<br>올스타 캐스팅으로 일시적인 즐거움을 줄 수 있지만, 영화의 자주 반복되는 대사 &quot;더 가까이 볼수록, 덜 보게 될 것이다&quot;는 결국 사실로 드러난다.</br></p>'

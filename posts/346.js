@@ -21,6 +21,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;>에일리언 로물루스와 관련된 모든 내용이 궁금하신 분은</p>'
     },
+    { type: 'image', src: '/images/post346_poster.jpg', alt: '포스트 346 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;>이전 게시글들을 참고하시길 바랍니다.</p>'

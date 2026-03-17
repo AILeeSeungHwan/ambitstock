@@ -27,6 +27,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: #333333; line-height: 1.8;&quot;>영화는 정치적 음모와 궁중 암투를 축으로 전개되지만, 핵심은 인물 관계의 긴장감입니다. 왕의 선택 하나가 주변 인물들의 삶을 뒤흔들고, 그 과정에서 충성의 의미가 시험대에 오릅니다. 화려한 세트와 의상, 대규모 군중 장면이 눈길을 끌지만 이야기의 중심은 어디까지나 인물의 감정선에 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post52_poster.jpg', alt: '포스트 52 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<div><center><a href=&quot;/ title=&quot;왕과사는남자 리뷰 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>왕과 사는 남자 보러 가기👉</button></a></center><center></center><center></center><center></center></div>'

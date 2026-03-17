@@ -48,6 +48,7 @@ const post = {
       type: 'body',
       html: '<p>밀실 70억( 영어제목 : The Immaculate Room ) 로튼 토마토 평점 입니다.</p>'
     },
+    { type: 'image', src: '/images/post191_poster.jpg', alt: '포스트 191 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'h2',
       id: 'section3',

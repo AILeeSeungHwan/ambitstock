@@ -21,6 +21,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: center;&quot;><b><span style=&quot;background-color: #fcfcfc; color: #666666; text-align: left;&quot;>3화 4화    <span style=&quot;color: #ef5369;&quot;>1월 24일</span></span></b></p>'
     },
+    { type: 'image', src: '/images/post448_poster.jpg', alt: '포스트 448 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: center;&quot;><b><span style=&quot;background-color: #fcfcfc; color: #666666; text-align: left;&quot;>5화 6화    <span style=&quot;color: #ef5369;&quot;>1월 31일</span></span></b></p>'

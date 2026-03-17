@@ -41,6 +41,7 @@ const post = {
       type: 'body',
       html: '<p>전체적으로 호평일색의 대도시의 사랑법 해외 평론가 리뷰이므로, 영화관에서 꼭 시청해 보시길 바랍니다.</p>'
     },
+    { type: 'image', src: '/images/post267_poster.jpg', alt: '포스트 267 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p>감사합니다.</p>'

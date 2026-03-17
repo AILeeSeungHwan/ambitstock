@@ -58,6 +58,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>크리스마스에 기적을 만날 확률 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post162_poster.jpg', alt: '포스트 162 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;592&quot; data-origin-width=&quot;1886&quot;><span data-alt=&quot;크리스마스에 기적을 만날 확률 로튼토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/mPTVU/btsK2ZWCQ6M/AAAAAAAAAAAAAAAAAAAAANvlnwYMg_Av2YnnvG4TFQ3a3kr0U9jWU6Q735E-G37t/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JsUAUbVvnp8Pbjdflx3BXypVDkQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/mPTVU/btsK2ZWCQ6M/AAAAAAAAAAAAAAAAAAAAANvlnwYMg_Av2YnnvG4TFQ3a3kr0U9jWU6Q735E-G37t/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JsUAUbVvnp8Pbjdflx3BXypVDkQ%3D&quot;></span><figcaption>크리스마스에 기적을 만날 확률 로튼토마토 평점</figcaption> </figure> </p>'

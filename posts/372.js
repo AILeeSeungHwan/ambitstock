@@ -36,6 +36,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1140&quot; data-origin-width=&quot;900&quot;><span data-alt=&quot;디즈니 플러스 볼만한 드라마 추천 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bxUcWE/btsISKfIyiM/AAAAAAAAAAAAAAAAAAAAALtPuDdkgnEeIyLZPV66udVk6WLR6a-OtpodlCsOc3VM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Z9zZGWeW9E4s61clYvYVrgJUiag%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bxUcWE/btsISKfIyiM/AAAAAAAAAAAAAAAAAAAAALtPuDdkgnEeIyLZPV66udVk6WLR6a-OtpodlCsOc3VM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Z9zZGWeW9E4s61clYvYVrgJUiag%3D&quot;></span><figcaption>디즈니 플러스 볼만한 드라마 추천 순위</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post372_poster.jpg', alt: '포스트 372 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><b>출연진</b></p>'

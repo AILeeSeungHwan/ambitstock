@@ -36,6 +36,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;982&quot; data-origin-width=&quot;980&quot;><span data-alt=&quot;명작 영화 추천 순위 Top 10&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ccLItS/btsIS8UMGnc/AAAAAAAAAAAAAAAAAAAAAPChQ6G37Be_G-1eLQQrCu_aRG4J-vQVLgcitWFSd56x/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Y0k%2B4HiTPc65F62FuEyFFYziKrc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ccLItS/btsIS8UMGnc/AAAAAAAAAAAAAAAAAAAAAPChQ6G37Be_G-1eLQQrCu_aRG4J-vQVLgcitWFSd56x/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Y0k%2B4HiTPc65F62FuEyFFYziKrc%3D&quot;></span><figcaption>명작 영화 추천 순위 Top 10</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post374_poster.jpg', alt: '포스트 374 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>제 2차 세계대전이 끝난 후, 젊은이들은 각자 자신의 길을 찾아 떠나지만 프레디 퀠(호아킨 피닉스)은 여전히 방황하며 백화점의 사진기사로 살아가고 있다.</span></p>'

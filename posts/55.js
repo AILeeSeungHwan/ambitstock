@@ -33,6 +33,7 @@ const post = {
       type: 'body',
       html: '<table border=&quot;1&quot; cellpadding=&quot;10&quot; cellspacing=&quot;0&quot; data-ke-align=&quot;alignLeft&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;> <thead> <tr> <th>날짜</th> <th>주요 내용</th> </tr> </thead> <tbody> <tr> <td>2023.12.17</td> <td>점프 페스타 2024 티저 PV·비주얼 공개</td> </tr> <tr> <td>2024.12.22</td> <td>점프 페스타 2025 티저 PV 2탄·키 비주얼·개봉년도 공개</td> </tr> <tr> <td>2025.03.23</td> <td>신규 PV와 <b>개봉일</b> 발표</td> </tr> <tr> <td>2025.04.01</td> <td>소니 픽처스 코리아, 한국 개봉 공식화</td> </tr> <tr> <td>2025.07.04</td> <td>Anime Expo 2025 본 PV·<b>주제곡</b> 공개(일본 기준)</td> </tr> <tr> <td>2025.08.27</td> <td>제작 완료·프레스 시사회</td> </tr> <tr> <td>2025.09.12~</td> <td>TVA 1기 총집편 배포(체인소비요리 애니화 수록)</td> </tr> </tbody> </table>'
     },
+    { type: 'image', src: '/images/post55_poster.jpg', alt: '포스트 55 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'h2',
       id: 'section3',

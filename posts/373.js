@@ -36,6 +36,7 @@ const post = {
       type: 'body',
       html: '<p><b>전직 경찰관 수영(전도연)</b>이 누군가를 대신하여 죄를 뒤집어쓴 대가로 돈을 받기로 했지만,</p>'
     },
+    { type: 'image', src: '/images/post373_poster.jpg', alt: '포스트 373 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p>출소 후 배신당한 사실을 알게 된 후 복수를 다짐하는 내용을 다룹니다.</p>'

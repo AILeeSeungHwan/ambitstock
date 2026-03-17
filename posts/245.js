@@ -36,6 +36,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 80%, 관람객 평점 77%의 영화 스마일 1 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post245_poster.jpg', alt: '포스트 245 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가들로부터 신선도 보증마크를 획득한 작품들은 알다시피 작품성에 대한 의심은 하지 않고 시청하실 수 있습니다.</p>'

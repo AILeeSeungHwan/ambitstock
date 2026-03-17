@@ -21,6 +21,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>로물루스는 무엇인가?</b></span></p>'
     },
+    { type: 'image', src: '/images/post371_poster.jpg', alt: '포스트 371 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>24.08.12 업데이트</b></span></p>'
