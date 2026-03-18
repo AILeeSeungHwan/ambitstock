@@ -5171,6 +5171,40 @@ const posts = [
     thumbnail: '/images/post505_thumb.svg',
     relatedSlugs: ['netflix-subscription-plans-comparison-2026', 'ott-subscription-price-guide-2026', 'theater-vs-ott-comparison-2026', 'netflix-new-releases-march-2026']
   },
+  {
+    id: 506,
+    slug: 'the-kings-warden-13million-box-office-2026',
+    title: '왕과 사는 남자 관객수 1300만 돌파 | 흥행 이유 평점 후기 총정리 (2026)',
+    description: '왕과 사는 남자 1300만 관객 돌파 — 2026 한국 영화 최대 흥행작. 유해진·박지훈·유지태 주연, 사극 코미디 흥행 이유, 추천 대상, 비슷한 작품, OTT 공개 예정까지 총정리.',
+    category: '영화추천',
+    date: '2026-03-19',
+    tags: ['트렌드', '왕과사는남자', '유해진', '박지훈', '한국영화', '2026영화', '박스오피스', '흥행'],
+    thumbnail: '/images/post506_thumb.svg',
+    relatedSlugs: ['2026-first-half-movies-theater-guide', 'korean-drama-popular-overseas-top5', 'bong-joonho-filmography-guide', 'netflix-movie-recommend-2026-march']
+  },
+  {
+    id: 507,
+    slug: 'daredevil-born-again-season2-review-2026',
+    title: '데어데블 본 어게인 시즌2 평점 후기 총정리 | 디즈니플러스 마블 (2026)',
+    description: '데어데블 본 어게인 시즌2 평점·후기 총정리. 찰리 콕스·빈센트 도노프리오 복귀, 넷플릭스 시절 감성 회복, MCU 페이즈 6 연결고리까지 — 마블 드라마 팬 필독.',
+    category: '마블',
+    date: '2026-03-19',
+    tags: ['트렌드', '데어데블', '본어게인', '디즈니플러스', '마블', 'MCU', '마블드라마', '드라마추천'],
+    thumbnail: '/images/post507_thumb.svg',
+    series: 'marvel-complete',
+    relatedSlugs: ['avengers-doomsday-complete-guide', 'mcu-phase6-timeline-guide', 'marvel-upcoming-movies-2025-2027', 'avengers-doomsday-2026-guide']
+  },
+  {
+    id: 508,
+    slug: 'tazza-4-beelzebub-song-finale-2026',
+    title: '타짜4 벨제붑의 노래 개봉일 출연진 줄거리 | 시리즈 피날레 총정리 (2026)',
+    description: '타짜4 벨제붑의 노래 2026년 개봉 예정 총정리. 허영만 원작 완결편 영화화, 타짜 시리즈 1~3편 맥락과 피날레 기대 포인트, 이런 사람에게 맞는 영화인지 판단 가이드.',
+    category: '영화추천',
+    date: '2026-03-19',
+    tags: ['트렌드', '타짜4', '벨제붑의노래', '한국영화', '범죄영화', '시리즈피날레', '2026영화', '영화추천'],
+    thumbnail: '/images/post508_thumb.svg',
+    relatedSlugs: ['nahongjin-hope-movie-2026-preview', '2026-first-half-movies-theater-guide', 'netflix-movie-recommend-2026-march', 'korean-crime-thriller-movie-top10']
+  },
 ]
 
 module.exports = posts

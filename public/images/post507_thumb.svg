@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a0000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3d0000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="redAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8b0000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#cc0000;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#8b0000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle grid pattern overlay -->
+  <rect width="1200" height="630" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.03"/>
+
+  <!-- Left dark geometric accent -->
+  <polygon points="0,0 320,0 200,630 0,630" fill="#000000" fill-opacity="0.4"/>
+
+  <!-- Right accent triangle -->
+  <polygon points="1200,0 1200,630 900,630 1050,0" fill="#8b0000" fill-opacity="0.15"/>
+
+  <!-- Top red accent bar -->
+  <rect x="0" y="0" width="1200" height="6" fill="url(#redAccent)"/>
+
+  <!-- Bottom red accent bar -->
+  <rect x="0" y="624" width="1200" height="6" fill="url(#redAccent)"/>
+
+  <!-- Marvel badge -->
+  <rect x="72" y="68" width="160" height="52" rx="6" fill="#cc0000" filter="url(#shadow)"/>
+  <text x="152" y="102" font-family="Arial Black, Arial, sans-serif" font-size="26" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="3">MARVEL</text>
+
+  <!-- Disney+ badge -->
+  <rect x="248" y="68" width="160" height="52" rx="6" fill="#0f3460" filter="url(#shadow)"/>
+  <text x="328" y="102" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="1">Disney+</text>
+
+  <!-- Season badge -->
+  <rect x="424" y="68" width="130" height="52" rx="6" fill="#1a1a2e" stroke="#b8860b" stroke-width="2"/>
+  <text x="489" y="102" font-family="Arial Black, Arial, sans-serif" font-size="20" font-weight="900" fill="#b8860b" text-anchor="middle" letter-spacing="1">SEASON 2</text>
+
+  <!-- Decorative horizontal line -->
+  <line x1="72" y1="148" x2="1128" y2="148" stroke="url(#redAccent)" stroke-width="2" stroke-opacity="0.6"/>
+
+  <!-- Main title: 데어데블 -->
+  <text x="600" y="290" font-family="Apple SD Gothic Neo, Noto Sans KR, Arial Black, sans-serif" font-size="112" font-weight="900" fill="#ffffff" text-anchor="middle" filter="url(#glow)" letter-spacing="-2">데어데블</text>
+
+  <!-- Subtitle: 본 어게인 S2 -->
+  <text x="600" y="390" font-family="Apple SD Gothic Neo, Noto Sans KR, Arial Black, sans-serif" font-size="72" font-weight="900" fill="#cc0000" text-anchor="middle" filter="url(#glow)" letter-spacing="2">본 어게인 S2</text>
+
+  <!-- Decorative horizontal line -->
+  <line x1="72" y1="428" x2="1128" y2="428" stroke="url(#redAccent)" stroke-width="2" stroke-opacity="0.6"/>
+
+  <!-- Sub info line -->
+  <text x="600" y="490" font-family="Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="32" font-weight="700" fill="#d4a0a0" text-anchor="middle" letter-spacing="1">찰리 콕스 · 빈센트 도노프리오 · 2026.03.18 공개</text>
+
+  <!-- Bottom label -->
+  <text x="600" y="570" font-family="Apple SD Gothic Neo, Noto Sans KR, Arial, sans-serif" font-size="26" font-weight="400" fill="#888888" text-anchor="middle" letter-spacing="2">MCU 페이즈 6 드라마 · ambitstock.com</text>
+
+  <!-- Decorative corner marks -->
+  <rect x="52" y="52" width="20" height="3" fill="#cc0000"/>
+  <rect x="52" y="52" width="3" height="20" fill="#cc0000"/>
+  <rect x="1128" y="52" width="20" height="3" fill="#cc0000"/>
+  <rect x="1145" y="52" width="3" height="20" fill="#cc0000"/>
+  <rect x="52" y="578" width="20" height="3" fill="#cc0000"/>
+  <rect x="52" y="561" width="3" height="20" fill="#cc0000"/>
+  <rect x="1128" y="578" width="20" height="3" fill="#cc0000"/>
+  <rect x="1145" y="561" width="3" height="20" fill="#cc0000"/>
+</svg>
