@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e2e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0d1b4b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a3a6e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a73e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4fc3f7;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Star field -->
+  <circle cx="80" cy="60" r="1.5" fill="#ffffff" opacity="0.8"/>
+  <circle cx="180" cy="30" r="1" fill="#ffffff" opacity="0.6"/>
+  <circle cx="320" cy="80" r="2" fill="#ffffff" opacity="0.7"/>
+  <circle cx="450" cy="20" r="1" fill="#ffffff" opacity="0.5"/>
+  <circle cx="600" cy="50" r="1.5" fill="#4fc3f7" opacity="0.9"/>
+  <circle cx="750" cy="35" r="1" fill="#ffffff" opacity="0.6"/>
+  <circle cx="900" cy="70" r="2" fill="#ffffff" opacity="0.7"/>
+  <circle cx="1050" cy="25" r="1.5" fill="#ffffff" opacity="0.8"/>
+  <circle cx="1150" cy="55" r="1" fill="#4fc3f7" opacity="0.6"/>
+  <circle cx="130" cy="150" r="1" fill="#ffffff" opacity="0.4"/>
+  <circle cx="280" cy="200" r="1.5" fill="#ffffff" opacity="0.5"/>
+  <circle cx="970" cy="130" r="1" fill="#ffffff" opacity="0.6"/>
+  <circle cx="1100" cy="180" r="2" fill="#ffffff" opacity="0.5"/>
+  <circle cx="50" cy="400" r="1" fill="#ffffff" opacity="0.4"/>
+  <circle cx="200" cy="500" r="1.5" fill="#4fc3f7" opacity="0.5"/>
+  <circle cx="1020" cy="420" r="1" fill="#ffffff" opacity="0.6"/>
+  <circle cx="1170" cy="380" r="1.5" fill="#ffffff" opacity="0.4"/>
+  <circle cx="400" cy="550" r="1" fill="#ffffff" opacity="0.3"/>
+  <circle cx="800" cy="560" r="1.5" fill="#4fc3f7" opacity="0.5"/>
+  <circle cx="650" cy="580" r="1" fill="#ffffff" opacity="0.4"/>
+
+  <!-- Decorative orbit lines -->
+  <ellipse cx="600" cy="315" rx="480" ry="200" fill="none" stroke="#1a73e8" stroke-width="0.5" opacity="0.15"/>
+  <ellipse cx="600" cy="315" rx="350" ry="140" fill="none" stroke="#4fc3f7" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Left glow orb -->
+  <circle cx="120" cy="315" r="80" fill="#1a73e8" opacity="0.08"/>
+  <!-- Right glow orb -->
+  <circle cx="1080" cy="315" r="80" fill="#4fc3f7" opacity="0.08"/>
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+
+  <!-- Badge: SF 영화 추천 -->
+  <rect x="80" y="80" width="180" height="38" rx="19" fill="#1a73e8" opacity="0.9"/>
+  <text x="170" y="105" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">SF 영화 추천</text>
+
+  <!-- Badge: 2026 개봉 -->
+  <rect x="280" y="80" width="140" height="38" rx="19" fill="none" stroke="#4fc3f7" stroke-width="1.5" opacity="0.8"/>
+  <text x="350" y="105" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="17" font-weight="600" fill="#4fc3f7" text-anchor="middle">2026 개봉</text>
+
+  <!-- Main title: 프로젝트 헤일메리 -->
+  <text x="600" y="240" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="86" font-weight="900" fill="#ffffff" text-anchor="middle" filter="url(#glow)">프로젝트 헤일메리</text>
+
+  <!-- Subtitle accent line -->
+  <rect x="320" y="263" width="560" height="3" rx="2" fill="url(#accent)" opacity="0.7"/>
+
+  <!-- Subtitle: 개봉 첫날 1위 -->
+  <text x="600" y="340" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="52" font-weight="800" fill="url(#accent)" text-anchor="middle">개봉 첫날 극장 1위</text>
+
+  <!-- Description -->
+  <text x="600" y="408" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="28" font-weight="400" fill="#b3c7e8" text-anchor="middle">라이언 고슬링 주연 · 앤디 위어 원작 · 로튼토마토 94%</text>
+
+  <!-- Star rating decoration -->
+  <text x="600" y="465" font-family="Arial, sans-serif" font-size="24" fill="#f9a825" text-anchor="middle">★ ★ ★ ★ ★</text>
+
+  <!-- Bottom separator -->
+  <rect x="80" y="535" width="1040" height="1" fill="#1a73e8" opacity="0.3"/>
+
+  <!-- Footer text -->
+  <text x="600" y="575" font-family="'Noto Sans KR', 'Malgun Gothic', sans-serif" font-size="20" font-weight="500" fill="#7a9bbf" text-anchor="middle">ambitstock.com | R의 필름공장</text>
+
+  <!-- Bottom accent bar -->
+  <rect x="0" y="626" width="1200" height="4" fill="url(#accent)"/>
+</svg>

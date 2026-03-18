@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e50914;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8b0000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0a0a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="badge" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.18" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.06" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Decorative circles -->
+  <circle cx="1050" cy="120" r="220" fill="rgba(255,255,255,0.04)" />
+  <circle cx="150" cy="520" r="180" fill="rgba(255,255,255,0.03)" />
+  <circle cx="980" cy="500" r="140" fill="rgba(255,80,80,0.08)" />
+
+  <!-- Top badge pill -->
+  <rect x="72" y="68" width="220" height="44" rx="22" fill="url(#badge)" stroke="rgba(255,255,255,0.3)" stroke-width="1.2" />
+  <text x="182" y="96" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" fill="rgba(255,255,255,0.9)" text-anchor="middle" font-weight="600">넷플릭스 드라마</text>
+
+  <!-- Main title -->
+  <text x="72" y="210" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="108" fill="#ffffff" font-weight="900" letter-spacing="-2">월간남친</text>
+
+  <!-- Divider line -->
+  <rect x="72" y="240" width="560" height="4" rx="2" fill="rgba(255,255,255,0.25)" />
+
+  <!-- Subtitle line 1 -->
+  <text x="72" y="308" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="42" fill="rgba(255,255,255,0.95)" font-weight="700">지수 첫 주연작</text>
+
+  <!-- Subtitle line 2 -->
+  <text x="72" y="366" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="32" fill="rgba(255,200,200,0.85)" font-weight="400">평점 · 후기 · 관람평 총정리</text>
+
+  <!-- Year tag -->
+  <rect x="72" y="406" width="110" height="36" rx="8" fill="rgba(255,255,255,0.12)" />
+  <text x="127" y="430" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="18" fill="rgba(255,255,255,0.8)" text-anchor="middle" font-weight="500">2026</text>
+
+  <!-- Bottom info bar -->
+  <rect x="0" y="570" width="1200" height="60" fill="rgba(0,0,0,0.45)" />
+  <text x="72" y="607" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20" fill="rgba(255,255,255,0.7)" font-weight="400">ambitstock.com · R의 필름공장</text>
+  <text x="1128" y="607" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20" fill="rgba(255,255,255,0.6)" text-anchor="end" font-weight="400">BLACKPINK JISOO</text>
+
+  <!-- Decorative accent dot cluster -->
+  <circle cx="750" cy="315" r="6" fill="rgba(255,255,255,0.15)" />
+  <circle cx="778" cy="315" r="6" fill="rgba(255,255,255,0.1)" />
+  <circle cx="806" cy="315" r="6" fill="rgba(255,255,255,0.06)" />
+</svg>

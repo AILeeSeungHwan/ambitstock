@@ -48,10 +48,14 @@ export async function getStaticProps() {
   postsWithThumbnail.forEach(p => {
     catCount[p.category] = (catCount[p.category] || 0) + 1
   })
-  return { props: { posts: postsWithThumbnail, catCount } }
+  const trendPosts = postsWithThumbnail
+    .filter(p => p.tags && p.tags.some(t => t === 'trend' || t === '트렌드' || t === '오늘의트렌드'))
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, 10)
+  return { props: { posts: postsWithThumbnail, catCount, trendPosts } }
 }
 
-export default function Home({ posts, catCount }) {
+export default function Home({ posts, catCount, trendPosts }) {
   const router = useRouter()
   const [currentPage, setCurrentPage] = useState(1)
   const [selectedCat, setSelectedCat] = useState(null)
@@ -311,6 +315,88 @@ export default function Home({ posts, catCount }) {
         </section>
       )}
 
+      {/* ─── 오늘의 트렌드 배너 ─── */}
+      {trendPosts && trendPosts.length > 0 && (
+        <section style={{ marginBottom: 48, padding: '32px 0', background: 'linear-gradient(135deg, #1a1a2e, #16213e)', borderRadius: 16, overflow: 'hidden' }}>
+          <div style={{ padding: '0 24px', marginBottom: 16, display: 'flex', alignItems: 'center', gap: 8 }}>
+            <span style={{ fontSize: 22 }}>🔥</span>
+            <h2 style={{ fontSize: 20, fontWeight: 800, color: '#fff', margin: 0 }}>오늘의 트렌드</h2>
+            <span style={{ fontSize: 12, color: 'rgba(255,255,255,0.4)', marginLeft: 'auto' }}>TODAY</span>
+          </div>
+          <div className="trend-scroll" style={{ display: 'flex', gap: 16, overflowX: 'auto', padding: '0 24px 16px', scrollSnapType: 'x mandatory' }}>
+            {trendPosts.map(post => (
+              <a
+                key={post.id}
+                href={'/' + post.slug + '/'}
+                className="trend-card"
+                style={{
+                  flexShrink: 0,
+                  width: 280,
+                  borderRadius: 12,
+                  overflow: 'hidden',
+                  scrollSnapAlign: 'start',
+                  textDecoration: 'none',
+                  display: 'block',
+                  position: 'relative',
+                  boxShadow: '0 4px 20px rgba(0,0,0,0.4)',
+                  background: '#0d1117',
+                  transition: 'transform 0.2s',
+                }}
+              >
+                {/* 썸네일 영역 */}
+                <div style={{ position: 'relative', width: '100%', height: 160, background: '#1e2330', overflow: 'hidden' }}>
+                  {post.thumbnail ? (
+                    <img
+                      src={post.thumbnail}
+                      alt={post.title}
+                      style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
+                    />
+                  ) : (
+                    <div style={{
+                      width: '100%', height: '100%',
+                      display: 'flex', alignItems: 'center', justifyContent: 'center',
+                      background: 'linear-gradient(135deg, #e50914, #ff6b6b)',
+                      fontSize: 40,
+                    }}>🎬</div>
+                  )}
+                  {/* 오버레이 그라디언트 */}
+                  <div style={{
+                    position: 'absolute', bottom: 0, left: 0, right: 0, height: '50%',
+                    background: 'linear-gradient(to top, rgba(0,0,0,0.7), transparent)',
+                  }} />
+                  {/* TODAY 배지 */}
+                  <div style={{
+                    position: 'absolute', top: 10, left: 10,
+                    background: '#e50914', color: '#fff',
+                    fontSize: 10, fontWeight: 800, padding: '3px 8px',
+                    borderRadius: 4, letterSpacing: '0.05em',
+                  }}>TODAY</div>
+                </div>
+                {/* 텍스트 영역 */}
+                <div style={{ padding: '12px 14px 14px' }}>
+                  <p style={{
+                    margin: 0,
+                    fontSize: 13,
+                    fontWeight: 700,
+                    color: '#fff',
+                    lineHeight: 1.45,
+                    display: '-webkit-box',
+                    WebkitLineClamp: 2,
+                    WebkitBoxOrient: 'vertical',
+                    overflow: 'hidden',
+                  }}>{post.title}</p>
+                  {post.date && (
+                    <p style={{ margin: '8px 0 0', fontSize: 11, color: 'rgba(255,255,255,0.35)' }}>
+                      {post.date}
+                    </p>
+                  )}
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+
       {/* ─── 지금 뜨는 작품 ─── */}
       <section style={{ marginBottom: 48 }}>
         <SectionHeader icon="🔥" title="지금 뜨는 작품" />
@@ -427,6 +513,22 @@ export default function Home({ posts, catCount }) {
           .mood-grid { grid-template-columns: 1fr !important; }
           .ott-grid { grid-template-columns: 1fr !important; }
           .cat-grid { grid-template-columns: 1fr !important; }
+        }
+        /* ─── 트렌드 스크롤 ─── */
+        .trend-scroll {
+          scrollbar-width: none;
+          -ms-overflow-style: none;
+        }
+        .trend-scroll::-webkit-scrollbar {
+          display: none;
+        }
+        .trend-card:hover {
+          transform: translateY(-4px);
+        }
+        @media (max-width: 600px) {
+          .trend-card {
+            width: 240px !important;
+          }
         }
       `}</style>
     </Layout>

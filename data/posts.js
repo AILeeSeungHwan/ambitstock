@@ -5049,6 +5049,39 @@ const posts = [
     thumbnail: '/images/post494_thumb.svg',
     relatedSlugs: ['korean-drama-2026-first-half-anticipated', 'netflix-new-releases-march-2026', 'korean-drama-popular-overseas-top5']
   },
+  {
+    id: 495,
+    slug: 'project-hail-mary-opening-day-box-office-review-2026',
+    title: '프로젝트 헤일메리 개봉 첫날 극장 1위 | 평점 관람평 총정리 (2026)',
+    description: '프로젝트 헤일메리 개봉 첫날 극장 1위 달성. 라이언 고슬링 주연 SF 영화 평점·관람평·해외반응·추천 대상 총정리.',
+    category: '영화추천',
+    date: '2026-03-18',
+    tags: ['트렌드', '프로젝트헤일메리', '라이언고슬링', 'SF영화', '극장영화', '2026개봉', '앤디위어', '영화추천'],
+    thumbnail: '/images/post495_thumb.svg',
+    relatedSlugs: ['project-hail-mary-movie-review-2026', 'netflix-movie-recommend-2026-march', '2026-first-half-movies-theater-guide']
+  },
+  {
+    id: 496,
+    slug: 'netflix-monthly-boyfriend-jisoo-review-2026',
+    title: '넷플릭스 월간남친 평점 후기 관람평 | 지수 첫 주연작 총정리 (2026)',
+    description: '넷플릭스 월간남친 평점·후기·관람평 총정리. 지수(블랙핑크) 첫 드라마 주연작, 공개 직후 반응, 추천 대상, 비슷한 작품 비교까지.',
+    category: '드라마',
+    date: '2026-03-18',
+    tags: ['트렌드', '월간남친', '넷플릭스', '지수', '넷플릭스드라마', '로맨틱코미디', 'K드라마', '드라마추천'],
+    thumbnail: '/images/post496_thumb.svg',
+    relatedSlugs: ['netflix-new-releases-march-2026', 'netflix-korea-original-2026-lineup', 'romance-movies-recommend-couples-top15', 'netflix-korean-drama-top10-alltime']
+  },
+  {
+    id: 497,
+    slug: 'ai-movie-production-tech-trend-2026',
+    title: 'AI가 바꾸는 영화 제작 — 2026 엔터테인먼트 업계 핵심 트렌드',
+    description: 'AI 영화 제작 기술 2026 트렌드 총정리. VFX 비용 혁명, 디에이징·음성합성 AI, 넷플릭스 AI 전략, AI 영화 페스티벌, 숏폼·국제 공동제작까지.',
+    category: '영화추천',
+    date: '2026-03-18',
+    tags: ['트렌드', 'AI영화', '영화기술', '엔터테인먼트트렌드', '2026트렌드', 'VFX', 'AI기술', '영화산업'],
+    thumbnail: '/images/post497_thumb.svg',
+    relatedSlugs: ['netflix-korea-original-2026-lineup', '2026-first-half-movies-theater-guide', 'netflix-movie-recommend-2026-march']
+  },
 ]
 
 module.exports = posts
