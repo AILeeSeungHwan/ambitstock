@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00695c;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00897b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#26a69a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="badge-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFD600;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA000;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="rgba(0,0,0,0.4)" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Decorative circles -->
+  <circle cx="1050" cy="100" r="180" fill="rgba(255,255,255,0.05)" />
+  <circle cx="150" cy="530" r="140" fill="rgba(255,255,255,0.05)" />
+  <circle cx="1100" cy="550" r="100" fill="rgba(255,255,255,0.04)" />
+
+  <!-- Top badge: 애니메이션 추천 -->
+  <rect x="60" y="55" width="200" height="44" rx="22" fill="url(#badge-bg)" filter="url(#shadow)" />
+  <text x="160" y="83" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="20" font-weight="700" fill="#1a1a1a" text-anchor="middle">애니메이션 추천</text>
+
+  <!-- Disney+ badge top right -->
+  <rect x="940" y="55" width="200" height="44" rx="8" fill="#113CCF" filter="url(#shadow)" />
+  <text x="1040" y="83" font-family="'Arial', sans-serif" font-size="22" font-weight="900" fill="#FFFFFF" text-anchor="middle">Disney+</text>
+
+  <!-- Main title: 주토피아2 -->
+  <text x="600" y="250" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="120" font-weight="900" fill="#FFFFFF" text-anchor="middle" filter="url(#shadow)">주토피아2</text>
+
+  <!-- Subtitle line -->
+  <rect x="200" y="285" width="800" height="4" rx="2" fill="rgba(255,255,255,0.3)" />
+
+  <!-- Sub text -->
+  <text x="600" y="370" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="48" font-weight="700" fill="#FFD600" text-anchor="middle" filter="url(#shadow)">디즈니플러스 공개</text>
+
+  <!-- Detail text -->
+  <text x="600" y="450" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="32" font-weight="400" fill="rgba(255,255,255,0.9)" text-anchor="middle">극장에서 못 봤다면 — 지금이 기회</text>
+
+  <!-- Bottom info bar -->
+  <rect x="0" y="555" width="1200" height="75" fill="rgba(0,0,0,0.35)" />
+  <text x="600" y="600" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="24" font-weight="400" fill="rgba(255,255,255,0.85)" text-anchor="middle">2026년 3월 11일 디즈니플러스 공개 · 2016 원작 후속작 · ambitstock.com</text>
+</svg>

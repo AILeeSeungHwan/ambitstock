@@ -5082,6 +5082,39 @@ const posts = [
     thumbnail: '/images/post497_thumb.svg',
     relatedSlugs: ['netflix-korea-original-2026-lineup', '2026-first-half-movies-theater-guide', 'netflix-movie-recommend-2026-march']
   },
+  {
+    id: 498,
+    slug: 'climax-drama-disney-plus-review-2026',
+    title: '클라이맥스 드라마 평점 후기 출연진 총정리 | 주지훈 하지원 디즈니플러스 (2026)',
+    description: '클라이맥스 드라마 평점·후기·출연진 총정리. 주지훈 드라마 복귀작, 하지원 컴백, 디즈니플러스+ENA 동시 공개, 추천 대상과 비슷한 작품 비교까지.',
+    category: '드라마',
+    date: '2026-03-18',
+    tags: ['트렌드', '클라이맥스', '주지훈', '하지원', '디즈니플러스', '디즈니플러스드라마', '검사드라마', '드라마추천'],
+    thumbnail: '/images/post498_thumb.svg',
+    relatedSlugs: ['netflix-korea-original-2026-lineup', 'netflix-new-releases-march-2026', 'netflix-korean-drama-top10-alltime']
+  },
+  {
+    id: 499,
+    slug: 'zootopia-2-disney-plus-ott-review-2026',
+    title: '주토피아2 디즈니플러스 공개 평점 후기 총정리 | OTT에서 바로 보기 (2026)',
+    description: '주토피아2 디즈니플러스 3월 공개. 원작 팬이 먼저 보는 평점·후기·추천 대상·원작 비교까지. 극장을 놓쳤다면 지금 바로.',
+    category: '애니메이션',
+    date: '2026-03-18',
+    tags: ['트렌드', '주토피아2', '디즈니플러스', '디즈니', '애니메이션추천', 'OTT신작', '가족영화', '애니메이션'],
+    thumbnail: '/images/post499_thumb.svg',
+    relatedSlugs: ['hoppers-pixar-animation-review-2026', 'toy-story-5-2026-expectations', 'super-mario-galaxy-movie-2026-review', 'guide-recommend-animation']
+  },
+  {
+    id: 500,
+    slug: 'nahongjin-hope-movie-2026-preview',
+    title: '나홍진 감독 신작 호프 개봉 정보 총정리 | 2026 한국 영화 기대작 1위',
+    description: '나홍진 감독 신작 호프(HOPE) 2026년 총정리. 곡성 이후 10년 만의 귀환, 1970-80년대 비무장지대 SF 스릴러, 기자단 기대작 1위 이유와 관람 전 체크 포인트.',
+    category: '영화추천',
+    date: '2026-03-18',
+    tags: ['트렌드', '호프', '나홍진', '한국영화', '2026영화', 'SF스릴러', '영화추천', '기대작'],
+    thumbnail: '/images/post500_thumb.svg',
+    relatedSlugs: ['2026-first-half-movies-theater-guide', 'project-hail-mary-opening-day-box-office-review-2026', 'bong-joonho-filmography-guide', 'netflix-movie-recommend-2026-march']
+  },
 ]
 
 module.exports = posts
