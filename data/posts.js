@@ -5115,6 +5115,62 @@ const posts = [
     thumbnail: '/images/post500_thumb.svg',
     relatedSlugs: ['2026-first-half-movies-theater-guide', 'project-hail-mary-opening-day-box-office-review-2026', 'bong-joonho-filmography-guide', 'netflix-movie-recommend-2026-march']
   },
+  {
+    id: 501,
+    slug: 'the-bride-movie-review-2026',
+    title: '브라이드 영화 평점 출연진 후기 총정리 | 매기 질렌할 고딕 로맨스 (2026)',
+    description: '브라이드(The Bride!) 2026년 3월 개봉 총정리. 매기 질렌할 연출 데뷔작, 크리스찬 베일·제시 버클리 주연, 고딕 로맨스+사회 비판 장르 혼합, 추천 대상과 호불호 포인트까지.',
+    category: '영화추천',
+    date: '2026-03-18',
+    tags: ['브라이드', '매기질렌할', '크리스찬베일', '제시버클리', '고딕로맨스', '2026영화', '영화추천', '3월개봉'],
+    thumbnail: '/images/post501_thumb.svg',
+    relatedSlugs: ['2026-first-half-movies-theater-guide', 'netflix-movie-recommend-2026-march', 'bong-joonho-filmography-guide', 'nahongjin-hope-movie-2026-preview']
+  },
+  {
+    id: 502,
+    slug: 'remarried-empress-drama-cast-2026',
+    title: '재혼황후 드라마 출연진 줄거리 방영일 총정리 | 신민아 주지훈 (2026)',
+    description: '재혼황후 드라마 신민아·주지훈 출연진, 줄거리, 방영일, 원작 웹소설 정보 총정리. 2026 판타지 로맨스 기대작 — 원작 팬도 처음 접하는 시청자도 알아야 할 것들.',
+    category: '드라마',
+    date: '2026-03-18',
+    tags: ['재혼황후', '신민아', '주지훈', '판타지드라마', '웹소설원작', '2026드라마', '드라마추천', 'OTT드라마'],
+    thumbnail: '/images/post502_thumb.svg',
+    relatedSlugs: ['korean-drama-2026-first-half-anticipated', 'korean-drama-popular-overseas-top5', 'climax-drama-disney-plus-review-2026', 'netflix-monthly-boyfriend-jisoo-review-2026']
+  },
+  {
+    id: 503,
+    slug: 'spiderman-4-brand-new-day-mcu-2026',
+    title: '스파이더맨4 브랜드뉴데이 개봉일 출연진 줄거리 총정리 | MCU 페이즈6 (2026)',
+    description: '스파이더맨4 브랜드 뉴 데이 2026년 7월 31일 개봉. 톰 홀랜드 주연, 노 웨이 홈 이후 피터 파커의 새 출발, MCU 페이즈 6 연결고리와 기대 포인트 총정리.',
+    category: '마블',
+    date: '2026-03-18',
+    tags: ['스파이더맨4', '브랜드뉴데이', '마블', 'MCU', '페이즈6', '톰홀랜드', '2026영화', '마블영화'],
+    thumbnail: '/images/post503_thumb.svg',
+    series: 'marvel-complete',
+    relatedSlugs: ['avengers-doomsday-complete-guide', 'mcu-phase6-timeline-guide', 'marvel-upcoming-movies-2025-2027', 'avengers-doomsday-2026-guide']
+  },
+  {
+    id: 504,
+    slug: 'bridgerton-season4-yerin-ha-overseas-reaction-2026',
+    title: '브리저튼 시즌4 하예린 해외 반응 총정리 | 한국 배우 넷플릭스 글로벌 주연 (2026)',
+    description: '브리저튼 시즌4 하예린 해외 반응 총정리. 90개국 1위, 주간 2300만 뷰, 한국 배우 글로벌 드라마 주연 역사.',
+    category: '해외반응후기',
+    date: '2026-03-18',
+    tags: ['브리저튼시즌4', '하예린', '넷플릭스', '해외반응', 'K배우', '글로벌드라마', '한국배우해외진출', '해외반응후기'],
+    thumbnail: '/images/post504_thumb.svg',
+    relatedSlugs: ['bridgerton-season4-ending-review', 'korean-drama-popular-overseas-top5', 'netflix-korea-original-2026-lineup']
+  },
+  {
+    id: 505,
+    slug: 'netflix-tving-coupang-play-ott-comparison-2026',
+    title: '넷플릭스 vs 티빙 vs 쿠팡플레이 OTT 비교 2026 | 요금 콘텐츠 순위 총정리',
+    description: '2026년 국내 OTT 3강 넷플릭스·티빙·쿠팡플레이 완벽 비교. MAU 순위, 요금제, 콘텐츠 강점, 스포츠 중계, 와우멤버십 연동까지 — 뭘 구독할지 결정하는 가이드.',
+    category: '영화추천',
+    date: '2026-03-18',
+    tags: ['넷플릭스', '티빙', '쿠팡플레이', 'OTT비교', 'OTT추천', '2026OTT', '요금비교', 'OTT순위'],
+    thumbnail: '/images/post505_thumb.svg',
+    relatedSlugs: ['netflix-subscription-plans-comparison-2026', 'ott-subscription-price-guide-2026', 'theater-vs-ott-comparison-2026', 'netflix-new-releases-march-2026']
+  },
 ]
 
 module.exports = posts

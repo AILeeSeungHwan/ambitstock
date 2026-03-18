@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0015;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1c0030;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0008;stop-opacity:1" />
+    </linearGradient>
+    <filter id="gblur">
+      <feGaussianBlur stdDeviation="5" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg2)" />
+
+  <!-- Background atmosphere -->
+  <ellipse cx="300" cy="400" rx="500" ry="200" fill="#4a0060" opacity="0.12" filter="url(#gblur)" />
+  <ellipse cx="900" cy="300" rx="400" ry="180" fill="#8b0000" opacity="0.1" filter="url(#gblur)" />
+
+  <!-- Top accent -->
+  <rect x="0" y="0" width="1200" height="3" fill="#c9a0dc" opacity="0.6" />
+
+  <!-- Left column: cast info -->
+  <rect x="60" y="80" width="500" height="440" rx="12" fill="#1a0025" opacity="0.7" />
+  <rect x="60" y="80" width="500" height="4" rx="2" fill="#8b0066" opacity="0.8" />
+
+  <text x="310" y="135" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="22" font-weight="700" fill="#c9a0dc" text-anchor="middle">출연진 &amp; 제작진</text>
+  <line x1="90" y1="148" x2="530" y2="148" stroke="#5a0080" stroke-width="1" opacity="0.5" />
+
+  <text x="90" y="185" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="500" fill="#9a9aaa" text-anchor="start">감독·각본</text>
+  <text x="210" y="185" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="#f0e6ff" text-anchor="start">매기 질렌할 (연출 데뷔작)</text>
+
+  <text x="90" y="225" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="500" fill="#9a9aaa" text-anchor="start">주연</text>
+  <text x="210" y="225" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="#f0e6ff" text-anchor="start">크리스찬 베일 (프랑켄슈타인)</text>
+
+  <text x="90" y="260" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="500" fill="#9a9aaa" text-anchor="start">주연</text>
+  <text x="210" y="260" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="700" fill="#f0e6ff" text-anchor="start">제시 버클리 (브라이드)</text>
+
+  <line x1="90" y1="278" x2="530" y2="278" stroke="#5a0080" stroke-width="1" opacity="0.4" />
+
+  <text x="90" y="310" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="500" fill="#9a9aaa" text-anchor="start">배경</text>
+  <text x="210" y="310" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="600" fill="#c9a0dc" text-anchor="start">1930년대 시카고</text>
+
+  <text x="90" y="345" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="500" fill="#9a9aaa" text-anchor="start">원작</text>
+  <text x="210" y="345" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="600" fill="#c9a0dc" text-anchor="start">프랑켄슈타인의 신부 (1935)</text>
+
+  <text x="90" y="380" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="500" fill="#9a9aaa" text-anchor="start">장르</text>
+  <text x="210" y="380" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="600" fill="#c9a0dc" text-anchor="start">고딕 로맨스 · 사회 비판</text>
+
+  <text x="90" y="415" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="500" fill="#9a9aaa" text-anchor="start">개봉</text>
+  <text x="210" y="415" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="600" fill="#e8c0ff" text-anchor="start">2026년 3월 4일</text>
+
+  <!-- Right column: keyword tags -->
+  <rect x="620" y="80" width="520" height="440" rx="12" fill="#1a0025" opacity="0.7" />
+  <rect x="620" y="80" width="520" height="4" rx="2" fill="#c9a0dc" opacity="0.8" />
+
+  <text x="880" y="135" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="22" font-weight="700" fill="#c9a0dc" text-anchor="middle">이런 분께 추천</text>
+  <line x1="650" y1="148" x2="1110" y2="148" stroke="#5a0080" stroke-width="1" opacity="0.5" />
+
+  <text x="660" y="195" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="600" fill="#e8c0ff" text-anchor="start">✓  고딕 분위기의 비주얼에 끌리는 분</text>
+  <text x="660" y="235" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="600" fill="#e8c0ff" text-anchor="start">✓  크리스찬 베일 팬</text>
+  <text x="660" y="275" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="600" fill="#e8c0ff" text-anchor="start">✓  제시 버클리의 강렬한 연기를 좋아하는 분</text>
+  <text x="660" y="315" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="600" fill="#e8c0ff" text-anchor="start">✓  여성 서사 / 자아 각성 테마를 좋아하는 분</text>
+  <text x="660" y="355" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="600" fill="#e8c0ff" text-anchor="start">✓  클래식 호러 원작에 관심 있는 분</text>
+  <line x1="650" y1="375" x2="1110" y2="375" stroke="#5a0080" stroke-width="1" opacity="0.4" />
+  <text x="660" y="410" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="500" fill="#9a7aaa" text-anchor="start">✗  빠른 전개의 상업 액션을 선호하는 분</text>
+  <text x="660" y="445" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="17" font-weight="500" fill="#9a7aaa" text-anchor="start">✗  공포/잔혹 장면에 민감한 분</text>
+
+  <!-- Bottom -->
+  <rect x="0" y="568" width="1200" height="62" fill="#000000" opacity="0.65" />
+  <text x="60" y="604" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" font-weight="400" fill="#c9a0dc" opacity="0.7" text-anchor="start">ambitstock.com — R의 필름공장</text>
+  <text x="1140" y="604" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="15" font-weight="400" fill="#c9a0dc" opacity="0.7" text-anchor="end">브라이드 2026 · The Bride!</text>
+  <rect x="0" y="626" width="1200" height="4" fill="#8b0066" opacity="0.6" />
+</svg>
