@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 514,
+    slug: 'march-2026-kdrama-lineup-netflix-tving-coupang-guide',
+    title: '2026년 3월 신작 드라마 라인업 총정리 — 넷플릭스·티빙·쿠팡플레이 OTT 비교 가이드',
+    description: '2026년 3월 신작 드라마 총정리. 신이랑 법률사무소, 사랑하는 남자는 모두 죽는다, 테러맨까지 — 넷플릭스·티빙·쿠팡플레이 OTT별 추천 비교 가이드.',
+    category: '드라마',
+    date: '2026-03-19',
+    tags: ['트렌드', '드라마추천', '2026봄드라마', '신이랑법률사무소', '사랑하는남자는모두죽는다', '넷플릭스', '티빙', '쿠팡플레이', '3월드라마'],
+    thumbnail: '/images/post514_thumb.svg',
+    relatedSlugs: ['with-god-shin-irang-law-office-yoo-yeonseok-review-2026', 'netflix-spring-kromance-monthly-boyfriend-shining-2026', 'netflix-new-releases-march-2026', 'tving-terroman-anime-review-2026']
+  },
+  {
+    id: 513,
+    slug: 'tving-terroman-anime-review-2026',
+    title: '테러맨 티빙 오리지널 애니메이션 — 네이버웹툰 원작 다크 히어로 성장 서사 추천',
+    description: '티빙 오리지널 애니메이션 테러맨 리뷰. 네이버웹툰 원작, 슈퍼스트링 유니버스, 작화·액션 평가, 원작 안 읽어도 괜찮은지까지 총정리.',
+    category: '애니메이션',
+    date: '2026-03-19',
+    tags: ['트렌드', '테러맨', '티빙', '오리지널애니메이션', '네이버웹툰', '슈퍼스트링', '다크히어로', '애니메이션추천', '2026애니'],
+    thumbnail: '/images/post513_thumb.svg',
+    relatedSlugs: ['netflix-new-releases-march-2026', 'with-god-shin-irang-law-office-yoo-yeonseok-review-2026', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide']
+  },
+  {
+    id: 512,
+    slug: 'with-god-shin-irang-law-office-yoo-yeonseok-review-2026',
+    title: '신이랑 법률사무소 — 유연석 빙의 연기 화제, 화제성 1위 드라마 추천 가이드',
+    description: '신이랑 법률사무소 추천 가이드. 유연석 조폭 빙의 변호사 연기, 시청률 8.7% 상승, 넷플릭스 국내 TOP1 달성 — 취향별 볼지 말지 판단 기준 총정리.',
+    category: '드라마',
+    date: '2026-03-19',
+    tags: ['트렌드', '신이랑법률사무소', '유연석', '드라마추천', 'SBS', '넷플릭스', '화제성1위', '2026봄드라마', '금토드라마'],
+    thumbnail: '/images/post512_thumb.svg',
+    relatedSlugs: ['netflix-spring-kromance-monthly-boyfriend-shining-2026', 'shining-drama-netflix-34countries-overseas-reaction-2026', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide', 'netflix-new-releases-march-2026']
+  },
+  {
     id: 511,
     slug: 'netflix-spring-kromance-monthly-boyfriend-shining-2026',
     title: '2026 봄 넷플릭스 K로맨스 추천 — 월간남친 vs 샤이닝 비교 가이드',

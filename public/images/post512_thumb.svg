@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a148c;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#6a1b9a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8e24aa;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e91e63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff5722;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <!-- Decorative circles -->
+  <circle cx="950" cy="100" r="180" fill="rgba(255,255,255,0.04)" />
+  <circle cx="1050" cy="500" r="120" fill="rgba(255,255,255,0.04)" />
+  <circle cx="150" cy="550" r="100" fill="rgba(255,255,255,0.04)" />
+  <!-- Top accent bar -->
+  <rect x="80" y="80" width="6" height="100" fill="url(#accent)" rx="3" />
+  <!-- Category label -->
+  <rect x="100" y="82" width="120" height="36" rx="18" fill="rgba(233,30,99,0.25)" />
+  <text x="160" y="106" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" fill="#ff80ab" text-anchor="middle" font-weight="700">드라마</text>
+  <!-- Platform badge -->
+  <rect x="240" y="82" width="130" height="36" rx="18" fill="rgba(255,255,255,0.1)" />
+  <text x="305" y="106" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="18" fill="#ffffff" text-anchor="middle" font-weight="600">SBS · 넷플릭스</text>
+  <!-- Main title -->
+  <text x="80" y="240" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="72" fill="#ffffff" font-weight="900" letter-spacing="-2">신이랑 법률사무소</text>
+  <!-- Subtitle line -->
+  <text x="80" y="320" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="42" fill="#ce93d8" font-weight="700">유연석 빙의 연기 · 화제성 1위</text>
+  <!-- Divider -->
+  <rect x="80" y="355" width="500" height="3" fill="url(#accent)" rx="1.5" />
+  <!-- Stats row -->
+  <text x="80" y="410" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="30" fill="#e1bee7" font-weight="500">시청률 8.7% 상승  ·  넷플릭스 국내 TOP1</text>
+  <!-- Bottom tag -->
+  <text x="80" y="470" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="26" fill="rgba(255,255,255,0.5)" font-weight="400">2026년 3월 · 금토 드라마 · 16부작</text>
+  <!-- Bottom brand -->
+  <text x="1120" y="590" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="20" fill="rgba(255,255,255,0.3)" text-anchor="end">ambitstock.com</text>
+</svg>
