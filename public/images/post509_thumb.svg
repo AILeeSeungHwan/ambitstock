@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d1a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d1b4e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c9a227;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f0d060;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <!-- Decorative lines -->
+  <rect x="0" y="0" width="6" height="630" fill="url(#accent)" />
+  <rect x="0" y="580" width="1200" height="4" fill="url(#accent)" opacity="0.5" />
+  <!-- Badge -->
+  <rect x="60" y="60" width="220" height="44" rx="22" fill="url(#accent)" />
+  <text x="170" y="88" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" font-weight="700" fill="#1a1a2e" text-anchor="middle">넷플릭스 3월 20일</text>
+  <!-- Main title -->
+  <text x="60" y="200" font-family="'Noto Sans KR', Arial, sans-serif" font-size="68" font-weight="900" fill="#ffffff">피키 블라인더스</text>
+  <text x="60" y="285" font-family="'Noto Sans KR', Arial, sans-serif" font-size="68" font-weight="900" fill="url(#accent)">불멸의 남자</text>
+  <!-- Subtitle -->
+  <text x="60" y="360" font-family="'Noto Sans KR', Arial, sans-serif" font-size="34" font-weight="500" fill="#a0a0c0">킬리언 머피 복귀 · 시리즈 완결 · 1940년 버밍엄</text>
+  <!-- Divider -->
+  <rect x="60" y="400" width="160" height="4" fill="url(#accent)" />
+  <!-- Info row -->
+  <text x="60" y="460" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" fill="#c0c0d8">Peaky Blinders: The Immortal Man</text>
+  <!-- Tag -->
+  <rect x="60" y="510" width="120" height="38" rx="8" fill="#ffffff" opacity="0.12" />
+  <text x="120" y="535" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" fill="#f0d060" text-anchor="middle" font-weight="700">영화추천</text>
+  <rect x="200" y="510" width="120" height="38" rx="8" fill="#ffffff" opacity="0.12" />
+  <text x="260" y="535" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" fill="#c0c0d8" text-anchor="middle">2026.03.20</text>
+  <!-- Site name -->
+  <text x="1140" y="60" font-family="'Noto Sans KR', Arial, sans-serif" font-size="20" fill="#888" text-anchor="end">ambitstock.com</text>
+</svg>

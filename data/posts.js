@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 511,
+    slug: 'netflix-spring-kromance-monthly-boyfriend-shining-2026',
+    title: '2026 봄 넷플릭스 K로맨스 추천 — 월간남친 vs 샤이닝 비교 가이드',
+    description: '2026 봄 넷플릭스 K로맨스 2강 월간남친·샤이닝 비교. 취향별 추천 순서, 글로벌 차트 성과, 다음 기대작까지 — 뭘 먼저 볼지 고민 해결.',
+    category: '드라마',
+    date: '2026-03-19',
+    tags: ['트렌드', '월간남친', '샤이닝', 'K로맨스', '넷플릭스', '드라마추천', '2026봄드라마', '드라마비교'],
+    thumbnail: '/images/post511_thumb.svg',
+    relatedSlugs: ['netflix-monthly-boyfriend-jisoo-review-2026', 'bridgerton-season4-yerin-ha-overseas-reaction-2026', 'korean-drama-2026-first-half-anticipated', 'remarried-empress-drama-cast-2026']
+  },
+  {
+    id: 510,
+    slug: 'shining-drama-netflix-34countries-overseas-reaction-2026',
+    title: '샤이닝 드라마 넷플릭스 34개국 TOP10 해외반응 총정리 | K로맨스 2026',
+    description: '국내 시청률 1~2%인데 넷플릭스 34개국 TOP10 진입한 샤이닝 드라마. 마이드라마리스트·IMDb 해외 반응, 글로벌 성공 이유, 추천 대상 총정리.',
+    category: '해외반응후기',
+    date: '2026-03-19',
+    tags: ['트렌드', '샤이닝', 'StillShining', '넷플릭스', '해외반응', 'K로맨스', '글로벌TOP10', '드라마추천'],
+    thumbnail: '/images/post510_thumb.svg',
+    relatedSlugs: ['bridgerton-season4-yerin-ha-overseas-reaction-2026', 'korean-drama-popular-overseas-top5', 'netflix-new-releases-march-2026', 'netflix-spring-kromance-monthly-boyfriend-shining-2026']
+  },
+  {
+    id: 509,
+    slug: 'peaky-blinders-immortal-man-netflix-2026-review',
+    title: '피키 블라인더스: 불멸의 남자 넷플릭스 3월 20일 공개 총정리 (2026)',
+    description: '피키 블라인더스: 불멸의 남자 2026년 3월 20일 넷플릭스 공개. 킬리언 머피 복귀, 1940년 배경, 시리즈 완결 영화 — 관람 전 체크포인트와 추천 대상 총정리.',
+    category: '영화추천',
+    date: '2026-03-19',
+    tags: ['트렌드', '피키블라인더스', '불멸의남자', '킬리언머피', '넷플릭스', '영화추천', '2026영화', '영국범죄드라마'],
+    thumbnail: '/images/post509_thumb.svg',
+    relatedSlugs: ['netflix-new-releases-march-2026', 'netflix-tving-coupang-play-ott-comparison-2026', 'bong-joonho-filmography-guide', '2026-first-half-movies-theater-guide']
+  },
+  {
     id: 1,
     slug: 'netflix-new-releases-march-2026',
     title: '넷플릭스 2026년 3월 신작 영화·드라마 총정리 | 기대작 추천',
