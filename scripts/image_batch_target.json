@@ -1,0 +1,45 @@
+[
+  {
+    "post_id": 505,
+    "movies": [
+      {"query": "넷플릭스 드라마 추천", "max_images": 2},
+      {"query": "티빙 드라마", "max_images": 1},
+      {"query": "쿠팡플레이 스포츠 손흥민", "max_images": 1}
+    ]
+  },
+  {
+    "post_id": 509,
+    "movies": [
+      {"query": "피키 블라인더스 영화", "max_images": 3},
+      {"query": "킬리언 머피 배우", "max_images": 1}
+    ]
+  },
+  {
+    "post_id": 510,
+    "movies": [
+      {"query": "샤이닝 드라마 2026", "max_images": 3},
+      {"query": "K드라마 로맨스 넷플릭스", "max_images": 1}
+    ]
+  },
+  {
+    "post_id": 511,
+    "movies": [
+      {"query": "월간남친 드라마 서인국", "max_images": 2},
+      {"query": "샤이닝 드라마 첫사랑", "max_images": 2}
+    ]
+  },
+  {
+    "post_id": 496,
+    "movies": [
+      {"query": "월간남친 드라마 지수", "max_images": 2},
+      {"query": "넷플릭스 한국 드라마 2026", "max_images": 1}
+    ]
+  },
+  {
+    "post_id": 504,
+    "movies": [
+      {"query": "브리저튼 시즌4 넷플릭스", "max_images": 2},
+      {"query": "하예린 배우 브리저튼", "max_images": 1}
+    ]
+  }
+]
