@@ -60,6 +60,18 @@ const post = {
       html: '<p>티빙과 웨이브가 국내 최초로 통합 요금제인 &laquo;더블 이용권&raquo;을 출시했다. 두 플랫폼을 개별 구독하는 것보다 39% 저렴하다.</p><ul><li><strong>가격:</strong> 개별 합산 대비 39% 할인 (정확한 금액은 등급별 상이)</li><li><strong>장점:</strong> 티빙(tvN, JTBC 드라마 + 오리지널)과 웨이브(지상파 3사 + 영화)를 동시에 이용 가능</li><li><strong>누가 쓰면 좋나:</strong> 국내 드라마를 주로 보는 사람. 넷플릭스는 해외 콘텐츠, 티빙+웨이브는 국내 콘텐츠라는 구도로 나뉜다.</li></ul><p>통신사 제휴도 활용할 수 있다. SKT &laquo;우주패스&raquo;로 티빙 또는 웨이브 선택 가능하고, KT &laquo;OTT 구독&raquo;, LGU+ &laquo;구독콕&raquo; 서비스도 있다. 통신사 결합 할인까지 적용하면 실질 부담이 크게 줄어든다.</p>'
     },
     {
+      type: 'image',
+      src: '/images/post519_img1.svg',
+      alt: '2026 OTT 광고요금제 가격 비교 인포그래픽',
+      caption: '2026 OTT 광고요금제 가격 한눈에 비교'
+    },
+    {
+      type: 'image',
+      src: '/images/post519_still2.jpg',
+      alt: 'OTT 서비스 구독 비교 이미지',
+      caption: '출처: 네이버'
+    },
+    {
       type: 'h2',
       id: 'best-combo',
       text: '상황별 최적 OTT 조합 추천 — 월 1만원 이하로 해결하기',
