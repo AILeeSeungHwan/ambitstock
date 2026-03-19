@@ -1,14 +1,14 @@
 const posts = [
   {
     id: 519,
-    slug: 'mickey17-overseas-reaction-review-2026',
-    title: '미키17 해외반응 총정리 — 로튼토마토 77%, 흥행 실패 이유, 봉준호 복귀작 평가',
-    description: '미키17 해외반응 총정리. 로튼토마토 77%, IMDB 6.7 — 평론가와 관객이 갈린 이유, 한국 흥행 vs 해외 부진 원인, 스트리밍 어디서 볼 수 있나.',
-    category: '해외반응후기',
+    slug: 'ott-ad-plan-netflix-coupang-tving-compare-2026',
+    title: '2026 OTT 광고요금제 비교 — 넷플릭스 7천원 vs 쿠팡 무료 vs 티빙+웨이브 통합',
+    description: '2026 OTT 광고요금제 전쟁 총정리. 넷플릭스 7,000원 vs 쿠팡플레이 무료 vs 티빙+웨이브 통합 — 상황별 최적 조합 추천 가이드.',
+    category: '영화추천',
     date: '2026-03-19',
-    tags: ['미키17', '봉준호', '로버트패틴슨', '해외반응', '영화평점', 'SF영화', '2025영화', '영화추천'],
+    tags: ['트렌드', 'OTT비교', '광고요금제', '넷플릭스', '쿠팡플레이', '티빙', '웨이브', 'OTT추천'],
     thumbnail: '/images/post519_thumb.svg',
-    relatedSlugs: ['the-kings-warden-13million-box-office-2026', 'bong-joonho-filmography-guide', 'ott-thriller-movie-recommend-top5-2026', '2026-first-half-movies-theater-guide']
+    relatedSlugs: ['netflix-tving-coupang-play-ott-comparison-2026', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide', 'project-hail-mary-vs-mickey17-sf-movie-compare-2026', 'netflix-new-releases-march-2026']
   },
   {
     id: 518,

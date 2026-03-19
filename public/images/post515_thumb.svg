@@ -1,23 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1b4a;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#1a237e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#283593;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#80d8ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#40c4ff;stop-opacity:1" />
+    <linearGradient id="bg515" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d47a1"/>
+      <stop offset="100%" style="stop-color:#1a73e8"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="630" fill="url(#bg)" />
-  <circle cx="150" cy="550" r="320" fill="#ffffff" opacity="0.03" />
-  <circle cx="1050" cy="100" r="280" fill="#ffffff" opacity="0.03" />
-  <rect x="60" y="60" width="220" height="44" rx="22" fill="url(#accent)" opacity="0.9" />
-  <text x="170" y="88" font-family="'Noto Sans KR', Arial, sans-serif" font-size="18" font-weight="700" fill="#0d1b4a" text-anchor="middle">SF 영화 비교 추천</text>
-  <text x="600" y="210" font-family="'Noto Sans KR', Arial, sans-serif" font-size="50" font-weight="900" fill="#ffffff" text-anchor="middle">프로젝트 헤일메리 vs 미키17</text>
-  <text x="600" y="290" font-family="'Noto Sans KR', Arial, sans-serif" font-size="38" font-weight="700" fill="#80d8ff" text-anchor="middle">2026 봄 극장 SF 양대산맥</text>
-  <text x="600" y="365" font-family="'Noto Sans KR', Arial, sans-serif" font-size="28" font-weight="500" fill="#90caf9" text-anchor="middle">라이언 고슬링 vs 로버트 패틴슨 · 취향별 추천</text>
-  <line x1="200" y1="410" x2="1000" y2="410" stroke="#80d8ff" stroke-width="2" opacity="0.5" />
-  <text x="600" y="460" font-family="'Noto Sans KR', Arial, sans-serif" font-size="24" font-weight="400" fill="#5c6bc0" text-anchor="middle">ambitstock.com · 2026.03.19</text>
+  <rect width="1200" height="630" fill="url(#bg515)"/>
+  <text x="600" y="220" font-family="Arial Black, sans-serif" font-size="72" font-weight="bold" fill="#ffffff" text-anchor="middle">프로젝트 헤일메리</text>
+  <text x="600" y="310" font-family="Arial Black, sans-serif" font-size="72" font-weight="bold" fill="#FFD600" text-anchor="middle">vs 미키17</text>
+  <text x="600" y="420" font-family="Arial, sans-serif" font-size="40" fill="#B3E5FC" text-anchor="middle">2026 극장 SF 영화 취향별 비교 추천</text>
+  <text x="600" y="560" font-family="Arial, sans-serif" font-size="28" fill="rgba(255,255,255,0.6)" text-anchor="middle">ambitstock.com</text>
 </svg>
