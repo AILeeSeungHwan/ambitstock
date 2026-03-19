@@ -82,6 +82,7 @@ const post = {
       type: 'body',
       html: '<p>페이즈 4~5 전체를 다 보려면 시간이 꽤 걸린다. 영화만 해도 10편이 넘고 드라마까지 합치면 상당하다. 페이즈 6 준비를 위해 솔직하게 &quot;이건 건너뛰어도 돼&quot; 목록을 정리했다.</p><p><strong>건너뛰어도 무방한 작품들 (페이즈 4~5 기준)</strong></p><ul><li><strong>에터널스</strong> — 흥미로운 설정이지만 메인 스토리와 연결이 약하다. 개인적으로는 재밌게 봤지만 필수는 아니다</li><li><strong>문나이트</strong> — 독립적인 이야기. 캐릭터는 좋지만 페이즈 6 맥락에 직접 영향 없음</li><li><strong>미즈 마블</strong> — 캐릭터 자체는 매력적. 더 마블스 연결이 있긴 하지만 더 마블스 자체가 페이즈 6 필수는 아님</li><li><strong>아이 엠 그루트 (단편)</strong> — 그냥 팬서비스. 안 봐도 무방</li></ul><p><strong>봐두면 좋은 작품들</strong></p><ul><li><strong>샹치와 텐 링즈의 전설</strong> — 페이즈 6에서 역할이 확대될 가능성 있다</li><li><strong>블랙 팬서: 와칸다 포에버</strong> — 와칸다와 탈로칸의 관계가 이후 어벤져스에 영향 줄 수 있다</li><li><strong>가디언즈 오브 갤럭시 Vol.3</strong> — 가디언즈 라인업 마무리. 어벤져스 참여 가능성 있는 캐릭터 정리</li></ul>'
     },
+    { type: 'image', src: '/images/post477_still2.jpg', alt: '마블 MCU 판타스틱4 스틸컷', caption: '출처: 네이버 영화' },
     {
       type: 'image',
       src: '/images/post477_poster.jpg',

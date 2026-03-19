@@ -34,6 +34,12 @@ const post = {
       html: '<p>2026년 3월 기준 세 플랫폼 요금을 표로 정리했다.</p><table style="width:100%;border-collapse:collapse;margin:16px 0;font-size:0.95em;"><thead><tr style="background:#1a1a1a;color:#fff;"><th style="padding:10px 12px;text-align:left;border:1px solid #333;">구분</th><th style="padding:10px 12px;text-align:center;border:1px solid #333;">넷플릭스</th><th style="padding:10px 12px;text-align:center;border:1px solid #333;">티빙</th><th style="padding:10px 12px;text-align:center;border:1px solid #333;">쿠팡플레이</th></tr></thead><tbody><tr style="background:#111;"><td style="padding:9px 12px;border:1px solid #2a2a2a;color:#ccc;">광고형(최저)</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#e50914;font-weight:bold;">5,500원</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#9c4dcc;font-weight:bold;">5,500원</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#ff6f00;font-weight:bold;">일부 무료(광고)</td></tr><tr style="background:#161616;"><td style="padding:9px 12px;border:1px solid #2a2a2a;color:#ccc;">스탠다드</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#ccc;">13,500원</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#ccc;">10,900원</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#ccc;">와우멤버십 포함</td></tr><tr style="background:#111;"><td style="padding:9px 12px;border:1px solid #2a2a2a;color:#ccc;">프리미엄</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#ccc;">17,000원</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#ccc;">17,000원</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#ccc;">별도 프리미엄 없음</td></tr><tr style="background:#161616;"><td style="padding:9px 12px;border:1px solid #2a2a2a;color:#ccc;">동시접속</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#ccc;">요금제별 1~4명</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#ccc;">요금제별 1~4명</td><td style="padding:9px 12px;border:1px solid #2a2a2a;text-align:center;color:#ccc;">5명(와우 기준)</td></tr></tbody></table><p>쿠팡플레이는 쿠팡 와우멤버십(월 7,890원)에 기본으로 포함된다. 쿠팡을 이미 쓰고 있다면 사실상 추가 비용 없이 쿠팡플레이를 이용할 수 있다는 게 가장 큰 강점이다. 일부 콘텐츠는 광고를 시청하면 무료로 볼 수 있는 구조도 있다. 넷플릭스 프리미엄은 17,000원으로 가장 비싸지만, 4K UHD 화질과 최대 4명 동시접속이 가능하다는 점에서 가족 단위 이용 시 나눠 내면 합리적이다.</p>'
     },
     {
+      type: 'image',
+      src: '/images/post505_a_poster.jpg',
+      alt: '2026년 넷플릭스 드라마 라인업 — 글로벌 오리지널 콘텐츠',
+      caption: '출처: 네이버 영화'
+    },
+    {
       type: 'h2',
       id: 'section3',
       text: '넷플릭스 콘텐츠 — 해외 드라마·영화 압도적, K-오리지널도 강세',
@@ -43,6 +49,8 @@ const post = {
       type: 'body',
       html: '<p>넷플릭스의 가장 큰 강점은 <b>해외 콘텐츠의 절대적 볼륨</b>이다. 미국 드라마, 영국 드라마, 유럽 영화, 다큐멘터리까지 다른 플랫폼에서 찾기 어려운 콘텐츠가 넷플릭스에 있다. 스트레인저 씽스, 더 크라운, 오렌지 이즈 더 뉴 블랙처럼 해외에서 검증된 작품들이 전부 여기 있다.</p><p>K-오리지널도 무시할 수 없다. 오징어게임, 지금 우리 학교는, 종이의 집: 공동경제구역처럼 글로벌 흥행을 기록한 한국 오리지널 드라마를 꾸준히 투자해서 만들고 있다. 브리저튼 같은 글로벌 히트 시리즈도 넷플릭스에서만 볼 수 있다. "내가 보고 싶은 게 어디 있나"를 따졌을 때, 선택지의 폭은 넷플릭스가 가장 넓다.</p>'
     },
+    { type: 'image', src: '/images/post505_still1.jpg', alt: '넷플릭스 오리지널 드라마 시청 화면', caption: '출처: 네이버 영화' },
+    { type: 'image', src: '/images/post505_poster.jpg', alt: '넷플릭스 OTT 비교 2026', caption: '출처: 네이버 영화' },
     {
       type: 'h2',
       id: 'section4',
@@ -62,6 +70,12 @@ const post = {
     {
       type: 'body',
       html: '<p>쿠팡플레이는 <b>스포츠 중계에서 독보적인 경쟁력</b>을 가지고 있다. 손흥민이 뛰는 프리미어리그 토트넘 경기, EPL 주요 경기, NFL, 테니스 등 해외 스포츠를 국내에서 합법적으로 볼 수 있는 거의 유일한 창구다. 스포츠 팬이라면 이 하나만으로도 구독 이유가 된다.</p><p>쿠팡플레이 오리지널도 무시하기 어렵다. SNL코리아, 소년시대 등 쿠팡플레이에서만 볼 수 있는 오리지널 콘텐츠가 있고, 광고를 시청하면 일부 콘텐츠를 무료로 볼 수 있다. 가장 큰 강점은 역시 <b>와우멤버십 연동</b>이다. 쿠팡 와우멤버십을 이미 쓰고 있다면 별도 비용 없이 쿠팡플레이까지 이용하는 셈이라, 추가 OTT 구독비를 내고 싶지 않은 사람에게는 최선의 선택이다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post505_c_poster.jpg',
+      alt: '쿠팡플레이 스포츠 중계 — EPL 손흥민 프리미어리그',
+      caption: '출처: 네이버 스포츠'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
