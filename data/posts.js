@@ -1,5 +1,60 @@
 const posts = [
   {
+    id: 519,
+    slug: 'mickey17-overseas-reaction-review-2026',
+    title: '미키17 해외반응 총정리 — 로튼토마토 77%, 흥행 실패 이유, 봉준호 복귀작 평가',
+    description: '미키17 해외반응 총정리. 로튼토마토 77%, IMDB 6.7 — 평론가와 관객이 갈린 이유, 한국 흥행 vs 해외 부진 원인, 스트리밍 어디서 볼 수 있나.',
+    category: '해외반응후기',
+    date: '2026-03-19',
+    tags: ['미키17', '봉준호', '로버트패틴슨', '해외반응', '영화평점', 'SF영화', '2025영화', '영화추천'],
+    thumbnail: '/images/post519_thumb.svg',
+    relatedSlugs: ['the-kings-warden-13million-box-office-2026', 'bong-joonho-filmography-guide', 'ott-thriller-movie-recommend-top5-2026', '2026-first-half-movies-theater-guide']
+  },
+  {
+    id: 518,
+    slug: 'lady-dua-shin-hyesun-netflix-global-overseas-reaction-2026',
+    title: '레이디 두아 해외반응 총정리 — 신혜선 넷플릭스 65개국 TOP10 글로벌 1위 (2026)',
+    description: '레이디 두아 해외반응 총정리. 신혜선 주연 넷플릭스 오리지널, 65개국 TOP10 진입, 33개국 1위 — 지역별 반응 차이와 IMDb 논란까지.',
+    category: '해외반응후기',
+    date: '2026-03-19',
+    tags: ['트렌드', '레이디두아', '신혜선', '넷플릭스', '해외반응', 'K드라마', '글로벌1위', '드라마추천'],
+    thumbnail: '/images/post518_thumb.svg',
+    relatedSlugs: ['shining-drama-netflix-34countries-overseas-reaction-2026', 'korean-drama-popular-overseas-top5', 'netflix-spring-kromance-monthly-boyfriend-shining-2026', 'netflix-new-releases-march-2026']
+  },
+  {
+    id: 517,
+    slug: 'avengers-doomsday-must-watch-mcu-order-2026',
+    title: '어벤져스 둠스데이 전에 봐야 할 MCU 필수 시청 순서 가이드 (2026)',
+    description: '어벤져스 둠스데이 개봉 전 반드시 봐야 할 MCU 필수 7편 + 추가 5편 정리. 닥터 둠, 엑스맨 합류, 판타스틱 4 맥락까지 2주 완주 시청 플랜.',
+    category: '마블',
+    date: '2026-03-19',
+    tags: ['어벤져스', '둠스데이', 'MCU', '시청순서', '닥터둠', '로버트다우니주니어', '마블', '2026영화'],
+    thumbnail: '/images/post517_thumb.svg',
+    relatedSlugs: ['avengers-doomsday-complete-guide', 'mcu-phase6-timeline-guide', 'daredevil-born-again-season2-review-2026', 'marvel-upcoming-movies-2025-2027']
+  },
+  {
+    id: 516,
+    slug: 'siren-drama-tvn-park-minyoung-review-2026',
+    title: '세이렌 tvN 드라마 — 박민영 위하준 로맨스 스릴러 추천 가이드 (2026)',
+    description: '세이렌 tvN 월화 드라마 추천 가이드. 박민영·위하준 케미, 시청률 5.5% 첫 방송 1위, 로맨스+미스터리 조합이 맞는 사람과 안 맞는 사람 구분.',
+    category: '드라마',
+    date: '2026-03-19',
+    tags: ['트렌드', '세이렌', '박민영', '위하준', 'tvN드라마', '월화드라마', '2026드라마', '드라마추천'],
+    thumbnail: '/images/post516_thumb.svg',
+    relatedSlugs: ['netflix-spring-kromance-monthly-boyfriend-shining-2026', 'with-god-shin-irang-law-office-yoo-yeonseok-review-2026', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide', 'korean-drama-2026-first-half-anticipated']
+  },
+  {
+    id: 515,
+    slug: 'project-hail-mary-vs-mickey17-sf-movie-compare-2026',
+    title: '프로젝트 헤일메리 vs 미키17 비교 — 2026 봄 SF 영화 취향별 추천',
+    description: '프로젝트 헤일메리(로튼토마토 95%) vs 미키17(72%) 비교. 같은 SF지만 완전히 다른 두 영화 — 취향별 추천 순서와 흥행 성적 총정리.',
+    category: '영화추천',
+    date: '2026-03-19',
+    tags: ['프로젝트헤일메리', '미키17', 'SF영화', '봉준호', '라이언고슬링', '영화비교', '2026영화', '극장추천'],
+    thumbnail: '/images/post515_thumb.svg',
+    relatedSlugs: ['mickey17-overseas-reaction-review-2026', 'bong-joonho-filmography-guide', '2026-first-half-movies-theater-guide', 'netflix-movie-recommend-2026-march']
+  },
+  {
     id: 514,
     slug: 'march-2026-kdrama-lineup-netflix-tving-coupang-guide',
     title: '2026년 3월 신작 드라마 라인업 총정리 — 넷플릭스·티빙·쿠팡플레이 OTT 비교 가이드',
