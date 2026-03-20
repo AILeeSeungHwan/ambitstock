@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 534,
+    slug: 'climax-ena-drama-jujihoon-hajiwon-2026',
+    title: '클라이맥스 출연진 시청률 총정리 — 주지훈·하지원·나나, ENA 권력 생존극 (2026)',
+    description: 'ENA 클라이맥스 드라마 리뷰. 주지훈·하지원·나나·오정세 출연, 첫방 2.9%, 디즈니플러스 동시 공개. 권력 카르텔 생존극 추천 가이드.',
+    category: '드라마',
+    date: '2026-03-20',
+    tags: ['트렌드', '클라이맥스', '주지훈', '하지원', '나나', 'ENA', '디즈니플러스', '정치드라마', '2026드라마'],
+    thumbnail: '/images/post534_thumb.svg',
+    relatedSlugs: ['siren-tvn-drama-review-2026', 'devil-wears-prada-2-april-2026-release-info', 'monthly-boyfriend-netflix-global-overseas-reaction-2026']
+  },
+  {
+    id: 533,
+    slug: 'devil-wears-prada-2-april-2026-release-info',
+    title: '악마는 프라다를 입는다 2 개봉일 출연진 총정리 — 20년 만의 속편, 4월 극장 (2026)',
+    description: '악마는 프라다를 입는다 2 개봉 정보 총정리. 메릴 스트립·앤 해서웨이·에밀리 블런트 복귀, 4월 29일 개봉, 전작 복습 포인트와 기대 요소.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['트렌드', '악마는프라다를입는다2', '메릴스트립', '앤해서웨이', '에밀리블런트', '2026영화', '극장개봉', '속편'],
+    thumbnail: '/images/post533_thumb.svg',
+    relatedSlugs: ['siren-tvn-drama-review-2026', 'climax-ena-drama-jujihoon-hajiwon-2026', 'weekend-theater-guide-march-4th-week-2026']
+  },
+  {
+    id: 532,
+    slug: 'siren-tvn-drama-review-2026',
+    title: '세이렌 시청률 출연진 줄거리 총정리 — 박민영 위하준 tvN 로맨스 스릴러 (2026)',
+    description: 'tvN 세이렌 드라마 리뷰. 박민영·위하준·김정현 출연, 동시간대 1위 5회 연속, 웹툰 원작 로맨스 스릴러 추천 가이드.',
+    category: '드라마',
+    date: '2026-03-20',
+    tags: ['트렌드', '세이렌', '박민영', '위하준', '김정현', 'tvN', '로맨스스릴러', '웹툰원작', '2026드라마'],
+    thumbnail: '/images/post532_thumb.svg',
+    relatedSlugs: ['monthly-boyfriend-netflix-global-overseas-reaction-2026', 'devil-wears-prada-2-april-2026-release-info', 'climax-ena-drama-jujihoon-hajiwon-2026']
+  },
+  {
     id: 531,
     slug: 'euphoria-season3-coupangplay-april-2026-guide',
     title: '유포리아 시즌3 쿠팡플레이 4월 공개 — 시즌1~2 복습 가이드 + 달라진 캐스트 위상',
