@@ -1,0 +1,14 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a1b9a"/>
+      <stop offset="100%" style="stop-color:#4a148c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="sans-serif" font-size="54" font-weight="bold" fill="#ffffff">악마는 프라다를 입는다 2</text>
+  <text x="600" y="290" text-anchor="middle" font-family="sans-serif" font-size="42" font-weight="bold" fill="#FFD600">20년 만의 속편, 4월 개봉</text>
+  <text x="600" y="380" text-anchor="middle" font-family="sans-serif" font-size="34" fill="#CE93D8">메릴 스트립 x 앤 해서웨이 x 에밀리 블런트</text>
+  <text x="600" y="460" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#E1BEE7">전편 제작진 전원 복귀 | 사전 정보 총정리</text>
+  <text x="600" y="570" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#CE93D8">ambitstock.com | 2026.03.20</text>
+</svg>

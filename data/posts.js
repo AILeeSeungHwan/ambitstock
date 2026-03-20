@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 522,
+    slug: 'devil-wears-prada-2-april-2026-release-info',
+    title: '악마는 프라다를 입는다 2 — 20년 만의 속편, 2026년 4월 개봉 사전 정보 총정리',
+    description: '악마는 프라다를 입는다 2 개봉 정보. 메릴 스트립·앤 해서웨이·에밀리 블런트 전원 복귀, 감독·각본 동일, 2026년 4월 한국 개봉 확정. 전편 팬이 알아야 할 모든 것.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['트렌드', '악마는프라다를입는다2', '메릴스트립', '앤해서웨이', '에밀리블런트', '2026개봉', '속편', '영화추천'],
+    thumbnail: '/images/post522_thumb.svg',
+    relatedSlugs: ['project-hail-mary-box-office-opening-trend-2026', '2026-first-half-movies-theater-guide', 'project-hail-mary-movie-review-2026']
+  },
+  {
+    id: 521,
+    slug: 'bts-arirang-netflix-live-comeback-guide-2026',
+    title: 'BTS 아리랑 넷플릭스 컴백 라이브 시청 가이드 — 3/21 광화문 190개국 생중계',
+    description: 'BTS 컴백 라이브 아리랑 시청 방법 총정리. 3월 21일 광화문 공연 넷플릭스 190개국 동시 생중계, 기기별 접속법, 화질 팁, 다큐 더 리턴 일정까지.',
+    category: '드라마',
+    date: '2026-03-20',
+    tags: ['트렌드', 'BTS', '아리랑', '넷플릭스', '컴백라이브', '광화문', 'K-POP', 'OTT'],
+    thumbnail: '/images/post521_thumb.svg',
+    relatedSlugs: ['ott-ad-plan-netflix-coupang-tving-compare-2026', 'netflix-new-releases-march-2026', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide']
+  },
+  {
+    id: 520,
+    slug: 'project-hail-mary-box-office-opening-trend-2026',
+    title: '프로젝트 헤일메리 흥행 분석 — 개봉 2일 만에 외화 1위, 왕사남 대결 구도',
+    description: '프로젝트 헤일메리 흥행 데이터 분석. 개봉 첫날 7.6만 관객, 골든에그 99%, 로튼토마토 95%. 왕사남 1,300만 대결 구도와 이번 주말 전망.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['트렌드', '프로젝트헤일메리', '라이언고슬링', '흥행분석', '박스오피스', '왕과사는남자', 'SF영화', '로튼토마토'],
+    thumbnail: '/images/post520_thumb.svg',
+    relatedSlugs: ['project-hail-mary-movie-review-2026', 'project-hail-mary-opening-day-box-office-review-2026', 'project-hail-mary-vs-mickey17-sf-movie-compare-2026', '2026-first-half-movies-theater-guide']
+  },
+  {
     id: 519,
     slug: 'ott-ad-plan-netflix-coupang-tving-compare-2026',
     title: '2026 OTT 광고요금제 비교 — 넷플릭스 7천원 vs 쿠팡 무료 vs 티빙+웨이브 통합',

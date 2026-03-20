@@ -1,0 +1,14 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e50914"/>
+      <stop offset="100%" style="stop-color:#b71c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="sans-serif" font-size="58" font-weight="bold" fill="#ffffff">BTS 컴백 라이브: 아리랑</text>
+  <text x="600" y="290" text-anchor="middle" font-family="sans-serif" font-size="44" font-weight="bold" fill="#FFD600">3.21 광화문 | 넷플릭스 생중계</text>
+  <text x="600" y="380" text-anchor="middle" font-family="sans-serif" font-size="34" fill="#FFCDD2">190개국 동시 스트리밍 시청 가이드</text>
+  <text x="600" y="460" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#EF9A9A">정규 5집 ARIRANG | 3년 5개월 만의 완전체</text>
+  <text x="600" y="570" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#EF9A9A">ambitstock.com | 2026.03.20</text>
+</svg>
