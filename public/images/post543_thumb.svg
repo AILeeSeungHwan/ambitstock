@@ -1,0 +1,14 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e53935"/>
+      <stop offset="100%" style="stop-color:#b71c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="62" font-weight="bold">오징어 게임 시즌3</text>
+  <text x="600" y="290" text-anchor="middle" fill="#FFD600" font-family="sans-serif" font-size="48" font-weight="bold">한국 vs 해외 반응 비교</text>
+  <text x="600" y="375" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="34">결말 평가는 왜 갈렸나</text>
+  <text x="600" y="445" text-anchor="middle" fill="#FFCDD2" font-family="sans-serif" font-size="28">비평 85% vs 관객 66% | 93개국 1위</text>
+  <text x="600" y="570" text-anchor="middle" fill="#EF9A9A" font-family="sans-serif" font-size="22">ambitstock.com</text>
+</svg>

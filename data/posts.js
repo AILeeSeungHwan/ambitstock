@@ -1,5 +1,60 @@
 const posts = [
   {
+    id: 544,
+    slug: 'disney-plus-bundle-tving-wavve-compare-2026',
+    title: '디즈니+ 번들 멤버십 총정리 — 티빙+웨이브 37% 할인, 3/24 마감 전 판단 가이드',
+    description: '디즈니+ 티빙 웨이브 번들 멤버십 가격 비교. 개별 구독 대비 37% 할인, 연간 40% 프로모션 3/24 마감, 상황별 추천 가이드 총정리.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['디즈니플러스', '티빙', '웨이브', '번들멤버십', 'OTT비교', '요금제', '할인', '구독비교'],
+    thumbnail: '/images/post544_thumb.svg',
+    relatedSlugs: ['ott-price-compare-netflix-disney-coupang-tving-2026', 'ott-ad-plan-netflix-coupang-tving-compare-2026', 'netflix-vs-disney-plus-vs-wavve-2026']
+  },
+  {
+    id: 543,
+    slug: 'squid-game-season3-finale-korea-vs-overseas-reaction-2026',
+    title: '오징어게임 시즌3 결말 한국 vs 해외 반응 비교 — 비평 85% vs 관객 66%, 평가가 갈린 진짜 이유',
+    description: '오징어게임 시즌3 결말 해외반응과 한국 반응 비교 분석. 로튼토마토 비평 85% 관객 66%, 93개국 1위 흥행 속 양극화된 평가의 이유.',
+    category: '해외반응후기',
+    date: '2026-03-20',
+    tags: ['오징어게임', '시즌3', '결말', '해외반응', '넷플릭스', '이정재', '황동혁', '한국반응비교'],
+    thumbnail: '/images/post543_thumb.svg',
+    relatedSlugs: ['squid-game-season3-overseas-reaction', 'netflix-korean-drama-top10-alltime', 'monthly-boyfriend-netflix-global-overseas-reaction-2026']
+  },
+  {
+    id: 542,
+    slug: 'avengers-doomsday-casting-27-team-analysis-2026',
+    title: '어벤져스 둠스데이 캐스팅 27명 팀별 분석 — 로다주 닥터 둠, X-Men 합류, 필수 사전 관람작',
+    description: '어벤져스 둠스데이 확정 캐스팅 27명 팀별 분석. 로버트 다우니 주니어 닥터 둠, X-Men 합류, 크리스 에반스 복귀, 사전 필수 관람 5편 정리.',
+    category: '마블',
+    date: '2026-03-20',
+    tags: ['어벤져스', '둠스데이', '마블', 'MCU', '로버트다우니주니어', '닥터둠', 'X맨', '캐스팅', '페이즈6'],
+    thumbnail: '/images/post542_thumb.svg',
+    relatedSlugs: ['avengers-doomsday-complete-guide', 'mcu-phase6-timeline-guide', 'marvel-upcoming-movies-2025-2027', 'marvel-beginners-guide-watch-order']
+  },
+  {
+    id: 541,
+    slug: 'war-machine-netflix-sf-action-review-2026',
+    title: '워 머신 넷플릭스 리뷰 — 앨런 리치슨 x 킬러 로봇, 프레데터의 DNA를 물려받은 SF 액션',
+    description: '넷플릭스 워 머신 리뷰. 앨런 리치슨 주연 SF 액션 스릴러, 로튼토마토 71%, 2주 8천만 뷰. 프레데터식 군인 vs 로봇 생존극 추천 가이드.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['워머신', '넷플릭스', '앨런리치슨', 'SF영화', '액션', '로봇', '리처', '2026영화'],
+    thumbnail: '/images/post541_thumb.svg',
+    relatedSlugs: ['netflix-new-releases-march-2026', 'project-hail-mary-box-office-opening-trend-2026', 'peaky-blinders-immortal-man-netflix-2026-review']
+  },
+  {
+    id: 540,
+    slug: 'kikis-delivery-service-4k-imax-rerelease-2026',
+    title: '마녀배달부 키키 4K IMAX 재개봉 가이드 — 36년 만의 극장 귀환, 관람 포인트 총정리',
+    description: '마녀배달부 키키 4K IMAX 재개봉 관람 가이드. 4월 8일 IMAX 선개봉, 리마스터링 차이점, 처음 보는 사람과 재관람자를 위한 관람 포인트.',
+    category: '애니메이션',
+    date: '2026-03-20',
+    tags: ['마녀배달부키키', '지브리', 'IMAX', '4K', '재개봉', '미야자키하야오', '히사이시조', '애니메이션'],
+    thumbnail: '/images/post540_thumb.svg',
+    relatedSlugs: ['studio-ghibli-beginners-guide-top10', '2026-japan-anime-movies-preview', 'hoppers-pixar-animation-review-box-office-2026']
+  },
+  {
     id: 539,
     slug: 'peaky-blinders-immortal-man-overseas-reaction-2026',
     title: '피키 블라인더스: 불멸의 남자 해외반응 총정리 — 로튼토마토 92%, 킬리언 머피 복귀작의 진짜 평가',

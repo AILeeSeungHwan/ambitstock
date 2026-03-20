@@ -1,0 +1,14 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00897b"/>
+      <stop offset="100%" style="stop-color:#004d40"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" fill="#FFD600" font-family="sans-serif" font-size="72" font-weight="bold">마녀배달부 키키</text>
+  <text x="600" y="320" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="52" font-weight="bold">4K IMAX 재개봉</text>
+  <text x="600" y="400" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="38">36년 만의 극장 귀환 관람 가이드</text>
+  <text x="600" y="470" text-anchor="middle" fill="#B2DFDB" font-family="sans-serif" font-size="28">2026년 4월 8일 IMAX 선개봉</text>
+  <text x="600" y="570" text-anchor="middle" fill="#80CBC4" font-family="sans-serif" font-size="22">ambitstock.com</text>
+</svg>
