@@ -1,5 +1,60 @@
 const posts = [
   {
+    id: 539,
+    slug: 'peaky-blinders-immortal-man-overseas-reaction-2026',
+    title: '피키 블라인더스: 불멸의 남자 해외반응 총정리 — 로튼토마토 92%, 킬리언 머피 복귀작의 진짜 평가',
+    description: '피키 블라인더스 불멸의 남자 넷플릭스 영화 해외반응 정리. 로튼토마토 92%, IMDB 7.7, 킬리언 머피·배리 키오건·레베카 퍼거슨 출연, 시리즈 팬과 입문자를 위한 관람 가이드.',
+    category: '해외반응후기',
+    date: '2026-03-20',
+    tags: ['피키블라인더스', '불멸의남자', '킬리언머피', '넷플릭스', '해외반응', '로튼토마토', '배리키오건', '레베카퍼거슨'],
+    thumbnail: '/images/post539_thumb.svg',
+    relatedSlugs: ['peaky-blinders-immortal-man-netflix-2026-review', 'ott-price-compare-netflix-disney-coupang-tving-2026', 'spring-2026-theater-top5-sf-thriller-drama']
+  },
+  {
+    id: 538,
+    slug: 'spring-2026-theater-top5-sf-thriller-drama',
+    title: '2026 봄 극장 기대작 TOP 5 — SF·스릴러·드라마 장르별 추천 가이드',
+    description: '2026년 봄 극장 개봉 기대작 5편 장르별 추천. 호프, 오디세이, 악마는 프라다를 입는다 2, 가능한 사랑, 블라디보스토크 — 취향별 관람 가이드.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['2026영화', '극장개봉', '호프', '오디세이', '놀란', '악마는프라다를입는다2', '가능한사랑', '이창동'],
+    thumbnail: '/images/post538_thumb.svg',
+    relatedSlugs: ['dune-series-watch-order-guide-part1-to-part3-2026', 'devil-wears-prada-2-april-2026-release-info', 'peaky-blinders-immortal-man-overseas-reaction-2026']
+  },
+  {
+    id: 537,
+    slug: 'white-lotus-season3-ending-analysis-thailand-2026',
+    title: '화이트 로터스 시즌3 결말 해석 — 태국편이 남긴 메시지와 숨겨진 복선 총정리',
+    description: '화이트 로터스 시즌3 결말 해석과 복선 분석. 태국 배경의 영성 vs 물질 테마, 시즌1·2와의 차이, 시즌4 예측까지 총정리.',
+    category: '드라마',
+    date: '2026-03-20',
+    tags: ['화이트로터스', '시즌3', '결말해석', 'HBO', '마이크화이트', '태국', '쿠팡플레이', '해외드라마'],
+    thumbnail: '/images/post537_thumb.svg',
+    relatedSlugs: ['euphoria-season3-coupangplay-april-2026-guide', 'ott-price-compare-netflix-disney-coupang-tving-2026', 'peaky-blinders-immortal-man-overseas-reaction-2026']
+  },
+  {
+    id: 536,
+    slug: 'dune-series-watch-order-guide-part1-to-part3-2026',
+    title: '듄 시리즈 시청 순서 가이드 — 파트1부터 파트3까지, 입문자를 위한 총정리 (2026)',
+    description: '듄 시리즈 시청 순서 완벽 가이드. 파트1·파트2 핵심 복습, 파트3 듄 메시아 2026년 12월 개봉 정보, IMAX 예매 전략, 입문자와 재관람자 루트 추천.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['듄', '듄파트3', '듄메시아', '티모시샬라메', '드니빌뇌브', '시청순서', 'IMAX', 'SF영화'],
+    thumbnail: '/images/post536_thumb.svg',
+    relatedSlugs: ['spring-2026-theater-top5-sf-thriller-drama', 'peaky-blinders-immortal-man-overseas-reaction-2026', '98th-academy-awards-winners-ott-streaming-guide-2026']
+  },
+  {
+    id: 535,
+    slug: 'ott-price-compare-netflix-disney-coupang-tving-2026',
+    title: '2026 OTT 요금제 총비교 — 넷플릭스 vs 디즈니플러스 vs 쿠팡플레이 vs 티빙, 나에게 맞는 구독은?',
+    description: '2026년 3월 기준 OTT 요금제 비교. 넷플릭스·디즈니플러스·쿠팡플레이·티빙 가격, 광고형 요금제, 결합 상품, 상황별 추천 총정리.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['OTT비교', '넷플릭스요금제', '디즈니플러스', '쿠팡플레이', '티빙', '구독비교', '광고형요금제', '3PACK'],
+    thumbnail: '/images/post535_thumb.svg',
+    relatedSlugs: ['ott-ad-plan-netflix-coupang-tving-compare-2026', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide', 'white-lotus-season3-ending-analysis-thailand-2026']
+  },
+  {
     id: 534,
     slug: 'climax-ena-drama-jujihoon-hajiwon-2026',
     title: '클라이맥스 출연진 시청률 총정리 — 주지훈·하지원·나나, ENA 권력 생존극 (2026)',

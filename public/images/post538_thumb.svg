@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a73e8"/>
+      <stop offset="100%" style="stop-color:#00897b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="250" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="72" font-weight="bold" fill="white">2026 봄 극장</text>
+  <text x="600" y="350" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="42" font-weight="bold" fill="#FFD600">기대작 TOP 5</text>
+  <text x="600" y="430" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="32" fill="white">SF · 스릴러 · 드라마 장르별 추천</text>
+</svg>

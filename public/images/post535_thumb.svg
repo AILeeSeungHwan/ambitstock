@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e50914"/>
+      <stop offset="100%" style="stop-color:#1a73e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="250" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="72" font-weight="bold" fill="white">2026 OTT 요금제</text>
+  <text x="600" y="350" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="42" font-weight="bold" fill="#FFD600">넷플릭스 vs 디즈니+ vs 쿠팡플레이 vs 티빙</text>
+  <text x="600" y="430" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="32" fill="white">나에게 맞는 구독은?</text>
+</svg>
