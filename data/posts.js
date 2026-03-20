@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 525,
+    slug: 'hoppers-pixar-animation-review-box-office-2026',
+    title: '호퍼스 리뷰 — 로튼토마토 94%, 코코 이후 픽사 오리지널 최고 흥행',
+    description: '픽사 30번째 장편 호퍼스 리뷰. 로튼토마토 94%, 국내 53만 관객, 북미 1억 달러 돌파. 코코 이후 최고 평가받는 픽사 오리지널의 추천 포인트.',
+    category: '애니메이션',
+    date: '2026-03-20',
+    tags: ['트렌드', '호퍼스', '픽사', '디즈니', '애니메이션', '로튼토마토', '가족영화', '극장추천'],
+    thumbnail: '/images/post525_thumb.svg',
+    relatedSlugs: ['project-hail-mary-box-office-opening-trend-2026', 'king-man-box-office-alltime-ranking-2026', '2026-first-half-movies-theater-guide']
+  },
+  {
+    id: 524,
+    slug: 'siren-tvn-drama-park-minyoung-review-2026',
+    title: '세이렌 중간 리뷰 — 박민영×위하준 6회 연속 동시간대 1위, 지금 합류해도 될까',
+    description: '세이렌 tvN 드라마 6회까지 중간 리뷰. 박민영·위하준 주연, 로맨스 스릴러 장르, 시청률 흐름과 추천 대상 정리.',
+    category: '드라마',
+    date: '2026-03-20',
+    tags: ['트렌드', '세이렌', '박민영', '위하준', 'tvN', '월화드라마', '로맨스스릴러', '드라마추천'],
+    thumbnail: '/images/post524_thumb.svg',
+    relatedSlugs: ['march-2026-kdrama-lineup-netflix-tving-coupang-guide', 'lady-dua-shin-hyesun-netflix-global-overseas-reaction-2026', 'netflix-new-releases-march-2026']
+  },
+  {
+    id: 523,
+    slug: 'king-man-box-office-alltime-ranking-2026',
+    title: '왕과 사는 남자 1,384만 — 역대 한국 영화 흥행 TOP 6 진입, 어디까지 갈까',
+    description: '왕과 사는 남자 누적 관객 1,384만 명, 겨울왕국2를 넘어 역대 6위 진입. 흥행 곡선 분석과 1,400만 돌파 전망.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['트렌드', '왕과사는남자', '천만영화', '박스오피스', '흥행분석', '역대순위', '한국영화', '극장추천'],
+    thumbnail: '/images/post523_thumb.svg',
+    relatedSlugs: ['project-hail-mary-box-office-opening-trend-2026', 'hoppers-pixar-animation-review-box-office-2026', '2026-first-half-movies-theater-guide']
+  },
+  {
     id: 522,
     slug: 'devil-wears-prada-2-april-2026-release-info',
     title: '악마는 프라다를 입는다 2 — 20년 만의 속편, 2026년 4월 개봉 사전 정보 총정리',
