@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1a1a2e"/>
+  <text x="600" y="70" text-anchor="middle" fill="#FFE082" font-family="Arial, sans-serif" font-size="34" font-weight="bold">3월 넷째주 극장 3강 비교</text>
+  <line x1="100" y1="100" x2="1100" y2="100" stroke="#FFE082" stroke-width="2"/>
+  <text x="250" y="160" text-anchor="middle" fill="#ff7043" font-family="Arial, sans-serif" font-size="28" font-weight="bold">왕과 사는 남자</text>
+  <text x="600" y="160" text-anchor="middle" fill="#42a5f5" font-family="Arial, sans-serif" font-size="28" font-weight="bold">헤일메리</text>
+  <text x="950" y="160" text-anchor="middle" fill="#66bb6a" font-family="Arial, sans-serif" font-size="28" font-weight="bold">호퍼스</text>
+  <text x="250" y="220" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="22">사극 코미디</text>
+  <text x="600" y="220" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="22">SF 어드벤처</text>
+  <text x="950" y="220" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="22">가족 애니메이션</text>
+  <text x="250" y="280" text-anchor="middle" fill="#FFE082" font-family="Arial, sans-serif" font-size="40" font-weight="bold">97%</text>
+  <text x="600" y="280" text-anchor="middle" fill="#FFE082" font-family="Arial, sans-serif" font-size="40" font-weight="bold">99%</text>
+  <text x="950" y="280" text-anchor="middle" fill="#FFE082" font-family="Arial, sans-serif" font-size="40" font-weight="bold">96%</text>
+  <text x="250" y="320" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif" font-size="18">골든에그</text>
+  <text x="600" y="320" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif" font-size="18">골든에그</text>
+  <text x="950" y="320" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif" font-size="18">골든에그</text>
+  <text x="250" y="400" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="22">연인·친구·가족</text>
+  <text x="600" y="400" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="22">혼자 몰입</text>
+  <text x="950" y="400" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="22">아이와 함께</text>
+  <text x="250" y="460" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif" font-size="20">132분 · 12세</text>
+  <text x="600" y="460" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif" font-size="20">144분 · 12세</text>
+  <text x="950" y="460" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif" font-size="20">96분 · 전체</text>
+  <text x="600" y="570" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial, sans-serif" font-size="20">ambitstock.com</text>
+</svg>

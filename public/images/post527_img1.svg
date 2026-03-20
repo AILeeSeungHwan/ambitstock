@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0d1b2a"/>
+  <text x="600" y="80" text-anchor="middle" fill="#42a5f5" font-family="Arial, sans-serif" font-size="36" font-weight="bold">원작 소설 vs 영화 결말 차이점</text>
+  <line x1="200" y1="110" x2="1000" y2="110" stroke="#42a5f5" stroke-width="2"/>
+  <text x="200" y="180" fill="#FFE082" font-family="Arial, sans-serif" font-size="24" font-weight="bold">1. 연료 확보</text>
+  <text x="220" y="215" fill="#ffffff" font-family="Arial, sans-serif" font-size="20">소설: 상대성이론 미인지 → 영화: 천천히 가면 된다</text>
+  <text x="200" y="275" fill="#FFE082" font-family="Arial, sans-serif" font-size="24" font-weight="bold">2. 식량 해결</text>
+  <text x="220" y="310" fill="#ffffff" font-family="Arial, sans-serif" font-size="20">소설: 타우메바 식용 아이디어 → 영화: 간략히 처리</text>
+  <text x="200" y="370" fill="#FFE082" font-family="Arial, sans-serif" font-size="24" font-weight="bold">3. 지구 후일담</text>
+  <text x="220" y="405" fill="#ffffff" font-family="Arial, sans-serif" font-size="20">소설: 없음 → 영화: 에바 샘플 회수 장면 추가</text>
+  <text x="200" y="465" fill="#FFE082" font-family="Arial, sans-serif" font-size="24" font-weight="bold">4. 감정 톤</text>
+  <text x="220" y="500" fill="#ffffff" font-family="Arial, sans-serif" font-size="20">소설: 담담한 체념 → 영화: 따뜻한 희망</text>
+  <text x="600" y="580" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial, sans-serif" font-size="20">ambitstock.com</text>
+</svg>

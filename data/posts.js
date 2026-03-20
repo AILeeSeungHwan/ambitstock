@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 528,
+    slug: 'weekend-theater-guide-march-4th-week-2026',
+    title: '이번 주말 극장 뭐 볼까 — 왕사남 vs 헤일메리 vs 호퍼스, 3월 넷째주 추천 가이드',
+    description: '3월 넷째주 극장 3강 비교 가이드. 왕과 사는 남자 1,384만·프로젝트 헤일메리 골든에그 99%·호퍼스 로튼토마토 94%. 상황별·동행인별 추천.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['트렌드', '극장추천', '주말영화', '왕과사는남자', '프로젝트헤일메리', '호퍼스', '박스오피스', '영화비교'],
+    thumbnail: '/images/post528_thumb.svg',
+    relatedSlugs: ['project-hail-mary-box-office-opening-trend-2026', 'hoppers-pixar-animation-review-box-office-2026', 'king-man-box-office-alltime-ranking-2026', 'devil-wears-prada-2-april-2026-release-info']
+  },
+  {
+    id: 527,
+    slug: 'project-hail-mary-ending-novel-movie-differences-2026',
+    title: '프로젝트 헤일메리 결말 해석 — 원작 소설과 영화의 핵심 차이 5가지, 로키와의 이별',
+    description: '프로젝트 헤일메리 결말 해석. 원작 소설과 영화의 5가지 차이점, 그레이스의 선택 의미, 로키 우정의 핵심. 스포일러 포함.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['트렌드', '프로젝트헤일메리', '결말해석', '라이언고슬링', '앤디위어', '원작비교', 'SF영화', '스포일러'],
+    thumbnail: '/images/post527_thumb.svg',
+    relatedSlugs: ['project-hail-mary-box-office-opening-trend-2026', 'project-hail-mary-movie-review-2026', 'hoppers-pixar-animation-review-box-office-2026', 'weekend-theater-guide-march-4th-week-2026']
+  },
+  {
+    id: 526,
+    slug: 'monthly-boyfriend-netflix-global-overseas-reaction-2026',
+    title: '월간남친 해외반응 — 47개국 넷플릭스 1위, 팝콘지수 96%, 연기 논란 속 글로벌 역주행',
+    description: '넷플릭스 월간남친 해외반응 정리. 47개국 TOP 10, 비영어권 2주 연속 1위, 타임지 호평, 국내 연기 논란과 해외 시각 차이 분석.',
+    category: '해외반응후기',
+    date: '2026-03-20',
+    tags: ['트렌드', '월간남친', '해외반응', '넷플릭스', '지수', '글로벌1위', 'K드라마', '로맨스'],
+    thumbnail: '/images/post526_thumb.svg',
+    relatedSlugs: ['netflix-monthly-boyfriend-jisoo-review-2026', 'netflix-spring-kromance-monthly-boyfriend-shining-2026', 'siren-tvn-drama-park-minyoung-review-2026', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide']
+  },
+  {
     id: 525,
     slug: 'hoppers-pixar-animation-review-box-office-2026',
     title: '호퍼스 리뷰 — 로튼토마토 94%, 코코 이후 픽사 오리지널 최고 흥행',

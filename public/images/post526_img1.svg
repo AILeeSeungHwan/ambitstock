@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1a1a2e"/>
+  <text x="600" y="80" text-anchor="middle" fill="#FFE082" font-family="Arial, sans-serif" font-size="36" font-weight="bold">월간남친 넷플릭스 글로벌 성과</text>
+  <line x1="200" y1="110" x2="1000" y2="110" stroke="#FFE082" stroke-width="2"/>
+  <text x="300" y="180" fill="#ffffff" font-family="Arial, sans-serif" font-size="28">비영어권 글로벌 1위</text>
+  <text x="900" y="180" text-anchor="end" fill="#FFE082" font-family="Arial, sans-serif" font-size="28" font-weight="bold">2주 연속</text>
+  <text x="300" y="240" fill="#ffffff" font-family="Arial, sans-serif" font-size="28">TOP 10 진입 국가</text>
+  <text x="900" y="240" text-anchor="end" fill="#FFE082" font-family="Arial, sans-serif" font-size="28" font-weight="bold">47개국</text>
+  <text x="300" y="300" fill="#ffffff" font-family="Arial, sans-serif" font-size="28">2주차 시청 시간</text>
+  <text x="900" y="300" text-anchor="end" fill="#FFE082" font-family="Arial, sans-serif" font-size="28" font-weight="bold">4,780만 시간</text>
+  <text x="300" y="360" fill="#ffffff" font-family="Arial, sans-serif" font-size="28">로튼토마토 팝콘지수</text>
+  <text x="900" y="360" text-anchor="end" fill="#FFE082" font-family="Arial, sans-serif" font-size="28" font-weight="bold">96%</text>
+  <text x="300" y="420" fill="#ffffff" font-family="Arial, sans-serif" font-size="28">1위 국가</text>
+  <text x="900" y="420" text-anchor="end" fill="#FFE082" font-family="Arial, sans-serif" font-size="28" font-weight="bold">한국·일본·브라질·인도</text>
+  <text x="600" y="560" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="Arial, sans-serif" font-size="22">출처: 넷플릭스 투둠 공식 집계 (2026.03.18 기준)</text>
+</svg>

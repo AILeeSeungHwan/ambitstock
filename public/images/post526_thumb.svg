@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e53935"/>
+      <stop offset="100%" style="stop-color:#ff7043"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="72" font-weight="bold">월간남친 해외반응</text>
+  <text x="600" y="320" text-anchor="middle" fill="#FFE082" font-family="Arial, sans-serif" font-size="52" font-weight="bold">47개국 넷플릭스 1위</text>
+  <text x="600" y="400" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="40">팝콘지수 96% · 연기 논란 속 글로벌 역주행</text>
+  <text x="600" y="560" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-family="Arial, sans-serif" font-size="28">ambitstock.com</text>
+</svg>
