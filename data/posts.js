@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 531,
+    slug: 'euphoria-season3-coupangplay-april-2026-guide',
+    title: '유포리아 시즌3 쿠팡플레이 4월 공개 — 시즌1~2 복습 가이드 + 달라진 캐스트 위상',
+    description: '유포리아 시즌3 4월 쿠팡플레이 공개. 시즌1~2 핵심 복습, 타임 점프 후 성인 시점 변화, 젠데이아·시드니 스위니 캐스팅 위상 변화, 시청 순서 가이드.',
+    category: '드라마',
+    date: '2026-03-20',
+    tags: ['트렌드', '유포리아', '시즌3', '쿠팡플레이', 'HBO', '젠데이아', '시드니스위니', '해외드라마', 'OTT추천'],
+    thumbnail: '/images/post531_thumb.svg',
+    relatedSlugs: ['ott-ad-plan-netflix-coupang-tving-compare-2026', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide', 'peaky-blinders-immortal-man-netflix-2026-review']
+  },
+  {
+    id: 530,
+    slug: '98th-academy-awards-winners-ott-streaming-guide-2026',
+    title: '제98회 아카데미 수상작 총정리 — 6관왕 작품상부터 OTT 어디서 볼 수 있나',
+    description: '2026 제98회 아카데미 수상 결과 총정리. 원 배틀 애프터 어나더 6관왕, 마이클 B. 조던 남우주연, 수상작 OTT 스트리밍 현황과 극장 재개봉 정보.',
+    category: '영화추천',
+    date: '2026-03-20',
+    tags: ['트렌드', '아카데미', '오스카', '수상작', 'OTT', '극장추천', '폴토마스앤더슨', '마이클B조던', '2026영화'],
+    thumbnail: '/images/post530_thumb.svg',
+    relatedSlugs: ['oscar-best-picture-winners-top15', 'weekend-theater-guide-march-4th-week-2026', 'ott-ad-plan-netflix-coupang-tving-compare-2026']
+  },
+  {
+    id: 529,
+    slug: 'how-to-be-landlord-tvn-drama-hajungwoo-review-2026',
+    title: '대한민국에서 건물주 되는 법 — 하정우 19년 만의 드라마 복귀, tvN 블랙코미디 추천 가이드',
+    description: '대한민국에서 건물주 되는 법 tvN 드라마 추천 가이드. 하정우·임수정·심은경 캐스팅, 시청률 4.1% 출발, 부동산 블랙코미디 스릴러 볼지 말지 판단 기준.',
+    category: '드라마',
+    date: '2026-03-20',
+    tags: ['트렌드', '건물주되는법', '하정우', '임수정', '심은경', 'tvN', '토일드라마', '블랙코미디', '2026드라마'],
+    thumbnail: '/images/post529_thumb.svg',
+    relatedSlugs: ['siren-tvn-drama-park-minyoung-review-2026', 'with-god-shin-irang-law-office-yoo-yeonseok-review-2026', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide']
+  },
+  {
     id: 528,
     slug: 'weekend-theater-guide-march-4th-week-2026',
     title: '이번 주말 극장 뭐 볼까 — 왕사남 vs 헤일메리 vs 호퍼스, 3월 넷째주 추천 가이드',

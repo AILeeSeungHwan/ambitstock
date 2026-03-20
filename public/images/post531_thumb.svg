@@ -1,0 +1,14 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e50914"/>
+      <stop offset="100%" style="stop-color:#ff5252"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="sans-serif" font-size="60" font-weight="bold" fill="#ffffff">유포리아 시즌3</text>
+  <text x="600" y="290" text-anchor="middle" font-family="sans-serif" font-size="42" fill="#ffcdd2">쿠팡플레이 4월 공개</text>
+  <text x="600" y="375" text-anchor="middle" font-family="sans-serif" font-size="34" fill="#ffffff">시즌1~2 복습 + 시즌3 기대 포인트</text>
+  <text x="600" y="445" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#ffcdd2">젠데이아 · 시드니 스위니 · HBO</text>
+  <text x="600" y="570" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#ef9a9a">ambitstock.com | 2026</text>
+</svg>

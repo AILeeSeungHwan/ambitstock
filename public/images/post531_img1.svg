@@ -1,0 +1,30 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1a1a1a" rx="12"/>
+  <text x="600" y="55" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#e50914">유포리아 시청 순서 가이드</text>
+  <rect x="80" y="85" width="300" height="200" fill="#2d2d2d" rx="8"/>
+  <text x="230" y="130" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#ff5252">STEP 1</text>
+  <text x="230" y="165" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#ffffff">시즌1</text>
+  <text x="230" y="195" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#9e9e9e">8화 (2019)</text>
+  <text x="230" y="230" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ffcdd2">루의 약물 중독과</text>
+  <text x="230" y="255" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ffcdd2">줄스와의 관계</text>
+  <text x="440" y="185" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#e50914">→</text>
+  <rect x="460" y="85" width="300" height="200" fill="#2d2d2d" rx="8"/>
+  <text x="610" y="130" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#ff5252">STEP 2</text>
+  <text x="610" y="165" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#ffffff">스페셜 에피소드</text>
+  <text x="610" y="195" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#9e9e9e">2화 (2020~21)</text>
+  <text x="610" y="230" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ffcdd2">루 + 줄스 독립편</text>
+  <text x="610" y="255" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ffcdd2">건너뛰면 안 됨!</text>
+  <text x="820" y="185" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#e50914">→</text>
+  <rect x="840" y="85" width="300" height="200" fill="#2d2d2d" rx="8"/>
+  <text x="990" y="130" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#ff5252">STEP 3</text>
+  <text x="990" y="165" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#ffffff">시즌2</text>
+  <text x="990" y="195" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#9e9e9e">8화 (2022)</text>
+  <text x="990" y="230" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ffcdd2">루의 재발과</text>
+  <text x="990" y="255" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ffcdd2">캐릭터들의 붕괴</text>
+  <rect x="350" y="340" width="500" height="200" fill="#3d1010" rx="8" stroke="#e50914" stroke-width="2"/>
+  <text x="600" y="390" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#ff5252">STEP 4 — 시즌3 (NEW)</text>
+  <text x="600" y="430" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#ffffff">2026년 4월 쿠팡플레이</text>
+  <text x="600" y="465" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#ffcdd2">8화 예정 | 타임 점프 후 성인 시점</text>
+  <text x="600" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#9e9e9e">총 시청 시간: 약 16시간 (시즌1~2)</text>
+  <text x="600" y="595" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#666">ambitstock.com | 2026.03</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a1b9a"/>
+      <stop offset="100%" style="stop-color:#ab47bc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" font-family="sans-serif" font-size="58" font-weight="bold" fill="#ffffff">대한민국에서 건물주 되는 법</text>
+  <text x="600" y="310" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#ce93d8">하정우 × 임수정 × 심은경</text>
+  <text x="600" y="390" text-anchor="middle" font-family="sans-serif" font-size="36" fill="#ffffff">tvN 토일 드라마 추천 가이드</text>
+  <text x="600" y="470" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#e1bee7">19년 만의 복귀 | 블랙코미디 스릴러</text>
+  <text x="600" y="570" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#ce93d8">ambitstock.com | 2026</text>
+</svg>
