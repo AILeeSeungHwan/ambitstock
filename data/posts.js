@@ -5722,6 +5722,39 @@ const posts = [
     thumbnail: '/images/post508_thumb.svg',
     relatedSlugs: ['nahongjin-hope-movie-2026-preview', '2026-first-half-movies-theater-guide', 'netflix-movie-recommend-2026-march', 'korean-crime-thriller-movie-top10']
   },
+  {
+    id: 556,
+    slug: 'king-man-overseas-north-america-box-office-2026',
+    title: '왕과 사는 남자 북미 흥행 해외반응 총정리 — 179만 달러, 50개 도시, 팝콘지수 96%',
+    description: '왕과 사는 남자 북미 흥행 해외반응 총정리. 179만 달러 매출, 50개 이상 도시 상영, 로튼토마토 팝콘지수 96%. 범죄도시4·서울의 봄 기록 추월, 한국 사극 글로벌 흥행의 새 역사.',
+    category: '해외반응후기',
+    date: '2026-03-22',
+    tags: ['트렌드', '왕과사는남자', '왕사남', '북미흥행', '해외반응', '로튼토마토', '한국영화', '유해진'],
+    thumbnail: '/images/post556_thumb.svg',
+    relatedSlugs: ['king-man-1400-million-alltime-5th-ranking-2026', 'king-and-man-ending-meaning-danjong-eomheungdo-2026', 'spring-2026-theater-top5-sf-thriller-drama']
+  },
+  {
+    id: 557,
+    slug: 'netflix-2026-second-half-kdrama-top5-preview',
+    title: '넷플릭스 2026 하반기 K드라마 기대작 TOP 5 — 동궁·들쥐·꿀알바·원더풀스 총정리',
+    description: '넷플릭스 2026 하반기 K드라마 기대작 TOP 5. 동궁(남주혁·조승우), 들쥐(설경구·류준열), 꿀알바(이재욱·고민시), 원더풀스(박은빈·차은우) 캐스팅·줄거리·공개 시기 총정리.',
+    category: '드라마',
+    date: '2026-03-22',
+    tags: ['트렌드', '넷플릭스', '동궁', '들쥐', '꿀알바', '원더풀스', 'K드라마', '2026드라마'],
+    thumbnail: '/images/post557_thumb.svg',
+    relatedSlugs: ['netflix-wonderfuls-park-eunbin-cha-eunwoo-2026', 'netflix-field-mouse-seolkyunggu-ryujunyeol-2026', 'monthly-boyfriend-netflix-global-overseas-reaction-2026']
+  },
+  {
+    id: 558,
+    slug: 'march-2026-theater-ott-box-office-total-review',
+    title: '2026년 3월 극장+OTT 흥행 총결산 — 왕사남 1410만, 헤일메리 95%, 월간남친 47개국 1위',
+    description: '2026년 3월 극장·OTT 흥행 총결산. 왕사남 1,410만 역대 5위, 프로젝트 헤일메리 로튼토마토 95%, 호퍼스 1.6억 달러, 월간남친 47개국 1위, 세이렌 6회 연속 1위.',
+    category: '영화추천',
+    date: '2026-03-22',
+    tags: ['트렌드', '왕과사는남자', '프로젝트헤일메리', '호퍼스', '월간남친', '세이렌', '박스오피스', '2026흥행'],
+    thumbnail: '/images/post558_thumb.svg',
+    relatedSlugs: ['king-man-1400-million-alltime-5th-ranking-2026', 'project-hail-mary-box-office-opening-trend-2026', 'monthly-boyfriend-netflix-global-overseas-reaction-2026', 'siren-tvn-drama-review-2026']
+  },
 ]
 
 module.exports = posts
