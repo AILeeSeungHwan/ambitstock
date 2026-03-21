@@ -1,5 +1,60 @@
 const posts = [
   {
+    id: 555,
+    slug: 'netflix-deulji-thriller-seolkyunggu-ryujunyeol-guide-2026',
+    title: '넷플릭스 들쥐 사전 가이드 — 설경구·류준열 추적 스릴러, 비밀의 숲 감독 합류',
+    description: '넷플릭스 들쥐 사전 가이드. 설경구·류준열 첫 공동 출연, 비밀의 숲 김홍선 감독 연출, 카카오웹툰 원작 추적 스릴러 — 캐스팅·줄거리·기대 포인트 총정리.',
+    category: '드라마',
+    date: '2026-03-21',
+    tags: ['들쥐', '넷플릭스', '설경구', '류준열', '스릴러', '김홍선', '웹툰원작', '2026드라마'],
+    thumbnail: '/images/post555_thumb.svg',
+    relatedSlugs: ['netflix-wonderfools-park-eunbin-cha-eunwoo-guide-2026', 'bloodhounds-season2-netflix-april-2026-guide', 'war-machine-netflix-sf-action-review-2026']
+  },
+  {
+    id: 554,
+    slug: 'spring-2026-theater-movie-top5-must-watch',
+    title: '2026 봄 극장 개봉 기대작 TOP 5 — 왕사남·헤일메리·호퍼스·호프·둠스데이',
+    description: '2026년 봄 극장 개봉 기대작 TOP 5. 왕과 사는 남자 1400만, 프로젝트 헤일메리 로튼토마토 95%, 호퍼스, 나홍진 호프, 어벤져스 둠스데이까지 취향별 추천.',
+    category: '영화추천',
+    date: '2026-03-21',
+    tags: ['영화추천', '극장개봉', '왕과사는남자', '프로젝트헤일메리', '호퍼스', '어벤져스', '2026봄', '기대작'],
+    thumbnail: '/images/post554_thumb.svg',
+    relatedSlugs: ['king-and-man-ending-meaning-danjong-eomheungdo-2026', 'project-hail-mary-global-reaction-rotten-tomatoes-2026', 'hoppers-pixar-animation-review-box-office-2026']
+  },
+  {
+    id: 553,
+    slug: 'project-hail-mary-global-reaction-rotten-tomatoes-2026',
+    title: '프로젝트 헤일메리 해외반응 총정리 — 로튼토마토 95%, 팝콘 98%, 골든에그 99%',
+    description: '프로젝트 헤일메리 해외반응 총정리. 로튼토마토 95%, 팝콘 지수 98%, CGV 골든에그 99%. 라이언 고슬링 주연 SF 블록버스터, 마션과의 비교 및 추천 대상.',
+    category: '해외반응후기',
+    date: '2026-03-21',
+    tags: ['프로젝트헤일메리', '해외반응', '로튼토마토', '라이언고슬링', 'SF영화', '앤디위어', '극장추천', '2026영화'],
+    thumbnail: '/images/post553_thumb.svg',
+    relatedSlugs: ['project-hail-mary-ending-novel-movie-differences-2026', 'spring-2026-theater-top5-sf-thriller-drama', 'hoppers-pixar-animation-review-box-office-2026']
+  },
+  {
+    id: 552,
+    slug: 'king-and-man-ending-meaning-danjong-eomheungdo-2026',
+    title: '왕과 사는 남자 결말 해석 — 엄흥도의 선택이 1400만 관객을 울린 이유',
+    description: '왕과 사는 남자 결말 해석. 단종 강 투신과 엄흥도 시신 수습 장면의 의미, 유해진·박지훈 연기 분석, 광해·관상과의 비교까지 깊이 있는 리뷰.',
+    category: '영화추천',
+    date: '2026-03-21',
+    tags: ['왕과사는남자', '결말해석', '단종', '엄흥도', '유해진', '박지훈', '사극', '2026영화'],
+    thumbnail: '/images/post552_thumb.svg',
+    relatedSlugs: ['king-man-1400-million-alltime-5th-ranking-2026', 'king-man-box-office-alltime-ranking-2026', 'weekend-theater-guide-march-4th-week-2026']
+  },
+  {
+    id: 551,
+    slug: 'ott-bundle-3pack-vs-individual-subscribe-guide-2026',
+    title: 'OTT 결합 vs 개별 구독 완전 비교 — 3PACK·넷플릭스·쿠팡플레이 2026 봄 가이드',
+    description: 'OTT 결합 요금제 vs 개별 구독 비교 가이드. 디즈니+·티빙·웨이브 3PACK 21,500원, 넷플릭스·쿠팡플레이 포함 상황별 최적 조합 2026년 3월 기준.',
+    category: '영화추천',
+    date: '2026-03-21',
+    tags: ['OTT비교', '요금제', '넷플릭스', '디즈니플러스', '티빙', '3PACK', '결합요금제', '2026OTT'],
+    thumbnail: '/images/post551_thumb.svg',
+    relatedSlugs: ['ott-price-compare-netflix-disney-coupang-tving-2026', 'coupang-play-2026-spring-lineup-hbo-originals', 'disney-plus-bundle-tving-wavve-compare-2026']
+  },
+  {
     id: 550,
     slug: 'netflix-wonderfools-park-eunbin-cha-eunwoo-guide-2026',
     title: '넷플릭스 원더풀스 총정리 — 박은빈·차은우 초능력 코미디 액션, 5월 15일 공개 사전 가이드',

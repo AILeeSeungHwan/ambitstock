@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e53935"/>
+      <stop offset="100%" style="stop-color:#b71c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="sans-serif" font-size="60" font-weight="bold" fill="#ffffff">프로젝트 헤일메리</text>
+  <text x="600" y="290" text-anchor="middle" font-family="sans-serif" font-size="48" fill="#ffcdd2">해외반응 총정리</text>
+  <text x="600" y="380" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#ffffff">로튼토마토 95% · 팝콘 98%</text>
+  <text x="600" y="440" text-anchor="middle" font-family="sans-serif" font-size="32" fill="rgba(255,255,255,0.7)">라이언 고슬링 | 2026</text>
+  <text x="600" y="560" text-anchor="middle" font-family="sans-serif" font-size="28" fill="rgba(255,255,255,0.6)">ambitstock.com</text>
+</svg>

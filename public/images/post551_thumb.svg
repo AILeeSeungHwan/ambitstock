@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a73e8"/>
+      <stop offset="100%" style="stop-color:#0d47a1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" font-family="sans-serif" font-size="72" font-weight="bold" fill="#ffffff">OTT 결합 vs 개별 구독</text>
+  <text x="600" y="310" text-anchor="middle" font-family="sans-serif" font-size="48" fill="#ffeb3b">넷플릭스 · 디즈니+ · 티빙</text>
+  <text x="600" y="390" text-anchor="middle" font-family="sans-serif" font-size="42" fill="#ffffff">2026 봄 요금제 완전 비교</text>
+  <text x="600" y="560" text-anchor="middle" font-family="sans-serif" font-size="28" fill="rgba(255,255,255,0.6)">ambitstock.com</text>
+</svg>
