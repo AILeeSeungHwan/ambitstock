@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a1b9a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#38006b;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1.5" fill="rgba(255,255,255,0.08)" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#dots)" />
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="1200" height="6" fill="#b39ddb" />
+
+  <!-- Decorative circle (top right) -->
+  <circle cx="1080" cy="120" r="200" fill="rgba(179,157,219,0.08)" />
+  <circle cx="1080" cy="120" r="140" fill="rgba(179,157,219,0.06)" />
+
+  <!-- Decorative circle (bottom left) -->
+  <circle cx="120" cy="520" r="160" fill="rgba(255,255,255,0.04)" />
+
+  <!-- Category label -->
+  <rect x="60" y="60" width="120" height="36" rx="18" fill="rgba(179,157,219,0.3)" />
+  <text x="120" y="84" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="700" fill="#ce93d8" text-anchor="middle">드라마</text>
+
+  <!-- Netflix badge -->
+  <rect x="1040" y="60" width="110" height="36" rx="18" fill="#e50914" />
+  <text x="1095" y="84" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="700" fill="white" text-anchor="middle">NETFLIX</text>
+
+  <!-- Main title -->
+  <text x="600" y="280" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="86" font-weight="900" fill="white" text-anchor="middle" letter-spacing="-1">사냥개들 시즌2</text>
+
+  <!-- Accent underline -->
+  <rect x="380" y="308" width="440" height="5" rx="2.5" fill="#b39ddb" />
+
+  <!-- Subtitle -->
+  <text x="600" y="390" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="34" font-weight="500" fill="#b3e5fc" text-anchor="middle">4월 3일 넷플릭스 공개</text>
+
+  <!-- Divider line -->
+  <line x1="480" y1="430" x2="720" y2="430" stroke="rgba(255,255,255,0.2)" stroke-width="1" />
+
+  <!-- Tags -->
+  <text x="600" y="480" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="22" font-weight="400" fill="rgba(255,255,255,0.65)" text-anchor="middle">#한국드라마 #넷플릭스오리지널 #4월신작</text>
+
+  <!-- Source -->
+  <text x="600" y="590" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="400" fill="rgba(255,255,255,0.4)" text-anchor="middle">ambitstock.com</text>
+</svg>

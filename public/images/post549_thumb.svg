@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00897b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004d40;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#grid)" />
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="1200" height="6" fill="#80cbc4" />
+
+  <!-- Decorative shapes -->
+  <polygon points="1050,0 1200,0 1200,200" fill="rgba(128,203,196,0.1)" />
+  <circle cx="150" cy="500" r="180" fill="rgba(255,255,255,0.04)" />
+  <circle cx="150" cy="500" r="100" fill="rgba(255,255,255,0.03)" />
+
+  <!-- Category label -->
+  <rect x="60" y="60" width="140" height="36" rx="18" fill="rgba(128,203,196,0.3)" />
+  <text x="130" y="84" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="700" fill="#b2dfdb" text-anchor="middle">애니메이션</text>
+
+  <!-- Theater badge -->
+  <rect x="1000" y="60" width="150" height="36" rx="18" fill="rgba(255,193,7,0.2)" />
+  <text x="1075" y="84" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="700" fill="#ffe082" text-anchor="middle">4DX · MX4D</text>
+
+  <!-- Main title -->
+  <text x="600" y="270" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="82" font-weight="900" fill="white" text-anchor="middle" letter-spacing="-1">진격의 거인 완결편</text>
+
+  <!-- Accent underline -->
+  <rect x="300" y="298" width="600" height="5" rx="2.5" fill="#ffe082" />
+
+  <!-- Subtitle -->
+  <text x="600" y="385" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="32" font-weight="500" fill="#ffe082" text-anchor="middle">4DX·MX4D 재개봉 가이드</text>
+
+  <!-- Divider line -->
+  <line x1="460" y1="425" x2="740" y2="425" stroke="rgba(255,255,255,0.2)" stroke-width="1" />
+
+  <!-- Tags -->
+  <text x="600" y="475" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="22" font-weight="400" fill="rgba(255,255,255,0.65)" text-anchor="middle">#진격의거인 #재개봉 #4DX #특별관람</text>
+
+  <!-- Source -->
+  <text x="600" y="590" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="18" font-weight="400" fill="rgba(255,255,255,0.4)" text-anchor="middle">ambitstock.com</text>
+</svg>

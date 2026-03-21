@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 550,
+    slug: 'netflix-wonderfools-park-eunbin-cha-eunwoo-guide-2026',
+    title: '넷플릭스 원더풀스 총정리 — 박은빈·차은우 초능력 코미디 액션, 5월 15일 공개 사전 가이드',
+    description: '넷플릭스 원더풀스 사전 가이드. 박은빈·차은우 주연, 우영우 감독+극한직업 작가 조합, 1999년 배경 초능력 코미디 액션 — 기대 포인트와 추천 대상 총정리.',
+    category: '드라마',
+    date: '2026-03-21',
+    tags: ['트렌드', '원더풀스', '박은빈', '차은우', '넷플릭스', '초능력', '코미디액션', '2026드라마'],
+    thumbnail: '/images/post550_thumb.svg',
+    relatedSlugs: ['netflix-2026-korea-original-drama-lineup', 'monthly-boyfriend-netflix-jisoo-review-2026', 'netflix-war-machine-alan-ritchson-sf-action-review']
+  },
+  {
+    id: 549,
+    slug: 'attack-on-titan-last-attack-4dx-rerelease-guide-2026',
+    title: '진격의 거인 완결편 더 라스트 어택 4DX 재개봉 관람 가이드 — IMDb 9.2, 특수관별 비교',
+    description: '진격의 거인 완결편 더 라스트 어택 2026년 3월 특수관 재개봉 관람 가이드. 돌비시네마·4DX·MX4D 비교, IMDb 9.2 최고점 작품의 입문 시청 기준까지.',
+    category: '애니메이션',
+    date: '2026-03-21',
+    tags: ['트렌드', '진격의거인', '더라스트어택', '4DX', '재개봉', '애니메이션', '특수관', '극장판'],
+    thumbnail: '/images/post549_thumb.svg',
+    relatedSlugs: ['spring-2026-anime-top7-must-watch-guide', 'studio-ghibli-beginners-guide-top10', 'guide-recommend-animation']
+  },
+  {
+    id: 548,
+    slug: 'bloodhounds-season2-netflix-april-2026-guide',
+    title: '사냥개들 시즌2 넷플릭스 4월 3일 공개 총정리 — 우도환·이상이·비(정지훈) 합류, 시즌1 복습까지',
+    description: '사냥개들 시즌2 넷플릭스 4월 3일 공개. 우도환·이상이 복귀, 비(정지훈) 새 빌런 합류, 글로벌 불법 복싱 리그 세계관 — 시즌1 복습 포인트와 추천 대상 총정리.',
+    category: '드라마',
+    date: '2026-03-21',
+    tags: ['트렌드', '사냥개들', '사냥개들시즌2', '넷플릭스', '우도환', '이상이', '비', '정지훈'],
+    thumbnail: '/images/post548_thumb.svg',
+    relatedSlugs: ['netflix-2026-korea-original-drama-lineup', 'monthly-boyfriend-netflix-jisoo-review-2026', 'netflix-war-machine-alan-ritchson-sf-action-review']
+  },
+  {
     id: 547,
     slug: 'coupang-play-2026-spring-lineup-hbo-originals',
     title: '쿠팡플레이 2026 봄 라인업 총정리 — 황동혁 신작, HBO 유포리아 시즌3, 로켓와우 가성비까지',
