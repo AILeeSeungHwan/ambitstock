@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#004d40"/>
+      <stop offset="100%" style="stop-color:#00897b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#ffd700"/>
+  <text x="600" y="180" text-anchor="middle" font-family="sans-serif" font-size="56" font-weight="bold" fill="#ffffff">2026 봄 애니메이션</text>
+  <text x="600" y="260" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#ffd700">기대작 TOP 7</text>
+  <text x="600" y="350" text-anchor="middle" font-family="sans-serif" font-size="34" fill="#e0f2f1">스틸볼런 · 도로헤도로 · 위치해트 아틀리에</text>
+  <text x="600" y="410" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#b2dfdb">전생슬라임 · 리제로 · 데몬즈 · 루스터파이터</text>
+  <text x="600" y="560" text-anchor="middle" font-family="sans-serif" font-size="22" fill="rgba(255,255,255,0.5)">ambitstock.com | 2026.03.21</text>
+</svg>

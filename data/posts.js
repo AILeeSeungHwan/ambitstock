@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 547,
+    slug: 'coupang-play-2026-spring-lineup-hbo-originals',
+    title: '쿠팡플레이 2026 봄 라인업 총정리 — 황동혁 신작, HBO 유포리아 시즌3, 로켓와우 가성비까지',
+    description: '쿠팡플레이 2026 봄 라인업 총정리. 황동혁 감독 블랙코미디, HBO 유포리아 시즌3, 하우스 오브 드래곤 시즌3, 로켓와우 가성비 분석.',
+    category: '영화추천',
+    date: '2026-03-21',
+    tags: ['트렌드', '쿠팡플레이', 'HBO', '유포리아', '황동혁', 'OTT', '로켓와우', '드라마추천'],
+    thumbnail: '/images/post547_thumb.svg',
+    relatedSlugs: ['ott-price-compare-netflix-disney-coupang-tving-2026', 'ott-ad-plan-netflix-coupang-tving-compare-2026', 'netflix-vs-disney-plus-vs-wavve-2026']
+  },
+  {
+    id: 546,
+    slug: 'spring-2026-anime-top7-must-watch-guide',
+    title: '2026 봄 애니메이션 기대작 TOP 7 — 스틸볼런, 도로헤도로, 위치해트 아틀리에까지',
+    description: '2026 봄 애니메이션 시즌 기대작 TOP 7. 스틸볼런, 도로헤도로 시즌2, 위치해트 아틀리에, 전생슬라임 시즌4, 리제로, 취향별 시청 가이드.',
+    category: '애니메이션',
+    date: '2026-03-21',
+    tags: ['트렌드', '봄애니', '스틸볼런', '도로헤도로', '위치해트아틀리에', '전생슬라임', '애니추천', '2026애니'],
+    thumbnail: '/images/post546_thumb.svg',
+    relatedSlugs: ['guide-recommend-animation', 'studio-ghibli-beginners-guide-top10', '2026-japan-anime-movies-preview']
+  },
+  {
+    id: 545,
+    slug: 'king-man-1400-million-alltime-5th-ranking-2026',
+    title: '왕과 사는 남자 1400만 돌파 — 역대 5위 등극, 국제시장까지 넘을 수 있을까',
+    description: '왕과 사는 남자 1400만 관객 돌파, 어벤져스 엔드게임 제치고 역대 흥행 5위. 국제시장 1425만 추월 전망과 흥행 요인 분석.',
+    category: '영화추천',
+    date: '2026-03-21',
+    tags: ['트렌드', '왕과사는남자', '왕사남', '1400만', '역대흥행', '박스오피스', '사극', '한국영화'],
+    thumbnail: '/images/post545_thumb.svg',
+    relatedSlugs: ['king-man-1384-alltime-ranking-2026', 'king-man-review-english-title-overseas-reaction', 'king-man-audience-1300-million-review-2026']
+  },
+  {
     id: 544,
     slug: 'disney-plus-bundle-tving-wavve-compare-2026',
     title: '디즈니+ 번들 멤버십 총정리 — 티빙+웨이브 37% 할인, 3/24 마감 전 판단 가이드',

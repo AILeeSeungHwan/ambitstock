@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a237e"/>
+      <stop offset="100%" style="stop-color:#0d47a1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#e50914"/>
+  <text x="600" y="180" text-anchor="middle" font-family="sans-serif" font-size="58" font-weight="bold" fill="#ffffff">쿠팡플레이 2026</text>
+  <text x="600" y="260" text-anchor="middle" font-family="sans-serif" font-size="52" font-weight="bold" fill="#ffd700">봄 라인업 총정리</text>
+  <text x="600" y="350" text-anchor="middle" font-family="sans-serif" font-size="32" fill="#bbdefb">황동혁 신작 · HBO 유포리아 S3</text>
+  <text x="600" y="410" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#90caf9">로켓와우 가성비 분석까지</text>
+  <text x="600" y="560" text-anchor="middle" font-family="sans-serif" font-size="22" fill="rgba(255,255,255,0.5)">ambitstock.com | 2026.03.21</text>
+</svg>
