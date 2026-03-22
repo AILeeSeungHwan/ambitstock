@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00ff6a"/>
+      <stop offset="100%" stop-color="#00c843"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0a0a0a"/>
+  <!-- R 왼쪽 세로획 -->
+  <path d="M18 12 L18 52 L27 52 L27 36" fill="url(#g)"/>
+  <!-- R 머리 곡선 (볼) -->
+  <path d="M27 12 L38 12 Q50 12 50 24 Q50 36 38 36 L27 36 L27 12 Z" fill="url(#g)"/>
+  <!-- R 머리 안쪽 구멍 -->
+  <path d="M27 19 L36 19 Q42 19 42 24 Q42 29 36 29 L27 29 Z" fill="#0a0a0a"/>
+  <!-- R 오른쪽 다리 (대각선, 갈라진 느낌) -->
+  <path d="M34 36 L48 52 L39 52 L28 39" fill="url(#g)"/>
+  <!-- 갈라진 슬릿 (세로획과 다리 사이) -->
+  <path d="M25 34 L30 38 L27 41 L22 37 Z" fill="#0a0a0a"/>
+</svg>
