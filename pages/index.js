@@ -421,8 +421,9 @@ export default function Home({ posts, catCount, trendPosts }) {
       {/* ─── OTT별 탐색 ─── */}
       <section style={{ marginBottom: 48 }}>
         <SectionHeader icon="📺" title="OTT별 탐색" />
-        <div className="ott-grid" style={{
-          display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 14,
+        <div className="ott-scroll" style={{
+          display: 'flex', gap: 14, overflowX: 'auto', paddingBottom: 8,
+          scrollSnapType: 'x mandatory', msOverflowStyle: 'none', scrollbarWidth: 'none',
         }}>
           {OTT_SECTIONS.map(ott => {
             const ottPosts = sorted.filter(p =>
@@ -430,6 +431,7 @@ export default function Home({ posts, catCount, trendPosts }) {
             )
             return (
               <div key={ott.label} style={{
+                flexShrink: 0, width: 260, scrollSnapAlign: 'start',
                 background: 'var(--card-bg, #fff)', borderRadius: 12, padding: 20,
                 border: '1px solid var(--border-color, #eee)',
                 transition: 'transform 0.2s, box-shadow 0.2s',
@@ -507,7 +509,7 @@ export default function Home({ posts, catCount, trendPosts }) {
         @media (max-width: 900px) {
           .mood-grid { grid-template-columns: repeat(2, 1fr) !important; }
           .trending-grid { grid-template-columns: repeat(3, 1fr) !important; }
-          .ott-grid { grid-template-columns: repeat(2, 1fr) !important; }
+          .ott-scroll { /* responsive handled by flex scroll */ }
           .cat-grid { grid-template-columns: repeat(2, 1fr) !important; }
         }
         @media (max-width: 600px) {
@@ -515,14 +517,15 @@ export default function Home({ posts, catCount, trendPosts }) {
         }
         @media (max-width: 500px) {
           .mood-grid { grid-template-columns: 1fr !important; }
-          .ott-grid { grid-template-columns: 1fr !important; }
+          .ott-scroll { /* responsive handled by flex scroll */ }
           .cat-grid { grid-template-columns: 1fr !important; }
         }
         /* ─── 트렌드 스크롤 ─── */
-        .trend-scroll {
+        .trend-scroll, .ott-scroll {
           scrollbar-width: none;
           -ms-overflow-style: none;
         }
+        .ott-scroll::-webkit-scrollbar { display: none; }
         .trend-scroll::-webkit-scrollbar {
           display: none;
         }

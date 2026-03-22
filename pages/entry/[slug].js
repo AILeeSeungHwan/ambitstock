@@ -20,6 +20,7 @@ export async function getStaticProps({ params }) {
   try {
     const mod = require('../../posts/' + meta.id + '.js')
     postData = mod.default || mod
+    postData.sections = Array.from(postData.sections).filter(Boolean)
   } catch (e) {
     return { notFound: true }
   }
