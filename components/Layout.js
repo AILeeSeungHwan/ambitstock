@@ -577,21 +577,23 @@ function AnimationLayer({ type }) {
         }
         /* ─── 배경 우주선 ─── */
         .rocky-ship {
-          position: fixed; top: 50%; left: 50%; width: 70vw; max-width: 900px; height: 50vh;
+          position: fixed; top: 50%; left: 50%; width: 80vw; max-width: 1100px; height: 55vh;
           transform: translate(-50%, -50%);
-          background: url('/images/theme_hailmary_ship.jpg') center / contain no-repeat;
-          opacity: 0.13; pointer-events: none; z-index: 0;
+          background: url('/images/theme_hailmary_ship.png') center / contain no-repeat;
+          opacity: 0.25; pointer-events: none; z-index: 0;
           animation: ship-breathe 8s ease-in-out infinite;
-          mask-image: radial-gradient(ellipse 80% 70% at 50% 50%, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%, transparent 80%);
-          -webkit-mask-image: radial-gradient(ellipse 80% 70% at 50% 50%, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%, transparent 80%);
+          mix-blend-mode: lighten;
+          mask-image: radial-gradient(ellipse 85% 75% at 50% 50%, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 40%, transparent 75%);
+          -webkit-mask-image: radial-gradient(ellipse 85% 75% at 50% 50%, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 40%, transparent 75%);
         }
         /* ─── 로키 캐릭터 ─── */
         .rocky-char {
-          position: fixed; right: 4vw; bottom: 12vh; width: 160px; height: 160px;
-          background: url('/images/theme_rocky.png') center / contain no-repeat;
-          opacity: 0.09; pointer-events: none; z-index: 1;
+          position: fixed; right: 4vw; bottom: 10vh; width: 180px; height: 180px;
+          background: url('/images/rocky.png') center / contain no-repeat;
+          opacity: 0.18; pointer-events: none; z-index: 1;
           animation: rocky-drift 20s ease-in-out infinite;
-          filter: drop-shadow(0 0 20px rgba(200,168,110,0.15));
+          mix-blend-mode: lighten;
+          filter: drop-shadow(0 0 25px rgba(200,168,110,0.2));
         }
         /* ─── 성운 배경 ─── */
         .rocky-nebula {
@@ -625,8 +627,8 @@ function AnimationLayer({ type }) {
         }
         /* ─── 모바일 대응 ─── */
         @media (max-width: 768px) {
-          .rocky-ship { width: 95vw; height: 35vh; opacity: 0.1; }
-          .rocky-char { width: 100px; height: 100px; right: 2vw; bottom: 8vh; opacity: 0.07; }
+          .rocky-ship { width: 95vw; height: 40vh; opacity: 0.18; }
+          .rocky-char { width: 120px; height: 120px; right: 2vw; bottom: 6vh; opacity: 0.12; }
         }
       `}</style>
       {/* 성운 배경 (깊은 공간감) */}
