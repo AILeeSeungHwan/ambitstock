@@ -100,8 +100,11 @@ export default function Home({ posts, catCount, trendPosts }) {
     return result
   }, [sorted, catCount])
 
-  // 트렌딩 (최신 6개)
-  const trending = sorted.slice(0, 6)
+  // 트렌딩 (고정 포스트 + 최신)
+  const PINNED_IDS = [564]
+  const pinned = PINNED_IDS.map(id => sorted.find(p => p.id === id)).filter(Boolean)
+  const rest = sorted.filter(p => !PINNED_IDS.includes(p.id)).slice(0, 6 - pinned.length)
+  const trending = [...pinned, ...rest]
 
   // 페이지네이션용
   const listPosts = filtered
