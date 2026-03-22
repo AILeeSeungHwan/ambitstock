@@ -535,26 +535,18 @@ function AnimationLayer({ type }) {
         .rk-star-b::before { width:1px; height:250%; }
         .rk-star-b::after { width:250%; height:1px; }
         /* ─── 우주선 SVG ─── */
-        .rk-ship { position:fixed; top:38%; left:50%; transform:translate(-50%,-50%); pointer-events:none; z-index:0; opacity:0.55; animation:rk-ship-p 10s ease-in-out infinite; }
+        .rk-ship { position:fixed; top:38%; left:50%; transform:translate(-50%,-50%); pointer-events:none; z-index:1; opacity:0.55; animation:rk-ship-p 10s ease-in-out infinite; }
         @keyframes rk-ship-p { 0%,100%{opacity:.55;filter:brightness(1)} 50%{opacity:.65;filter:brightness(1.15)} }
-        /* ─── 로키 캐릭터 ─── */
-        .rk-char { position:fixed; bottom:3vh; right:8vw; pointer-events:none; z-index:1; opacity:0.18; animation:rk-patrol 55s linear infinite; transform-style:preserve-3d; }
-        .rk-bob { animation:rk-bob 1s ease-in-out infinite; }
+        /* ─── 로키 캐릭터 (실제 이미지) ─── */
+        .rk-char { position:fixed; bottom:3vh; right:8vw; pointer-events:none; z-index:1; opacity:0.2; animation:rk-patrol 55s linear infinite; transform-style:preserve-3d; }
+        .rk-rocky-img { width:150px; height:150px; background:url('/images/rocky.png') center/contain no-repeat; mix-blend-mode:lighten; filter:drop-shadow(0 0 15px rgba(42,206,160,0.2)); animation:rk-bob 1.2s ease-in-out infinite; }
         @keyframes rk-patrol { 0%{transform:translateX(0) rotateY(0deg)} 21%{transform:translateX(-55vw) rotateY(0deg)} 24%{transform:translateX(-55vw) rotateY(180deg)} 46%{transform:translateX(0) rotateY(180deg)} 49%{transform:translateX(0) rotateY(360deg)} 71%{transform:translateX(-55vw) rotateY(360deg)} 74%{transform:translateX(-55vw) rotateY(540deg)} 96%{transform:translateX(0) rotateY(540deg)} 100%{transform:translateX(0) rotateY(720deg)} }
-        @keyframes rk-bob { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-5px)} }
-        /* 다리 걷기 교차 */
-        @keyframes lf { 0%,100%{transform:rotate(0)} 50%{transform:rotate(20deg)} }
-        @keyframes lb { 0%,100%{transform:rotate(0)} 50%{transform:rotate(-20deg)} }
-        .rk-l1 { transform-origin:58px 92px; animation:lf .7s ease-in-out infinite; }
-        .rk-l2 { transform-origin:142px 92px; animation:lb .7s ease-in-out infinite; }
-        .rk-l3 { transform-origin:44px 78px; animation:lb .7s ease-in-out infinite; }
-        .rk-l4 { transform-origin:156px 78px; animation:lf .7s ease-in-out infinite; }
-        .rk-l5 { transform-origin:100px 98px; animation:lf .7s ease-in-out infinite .35s; }
+        @keyframes rk-bob { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
         /* ─── 별똥별 ─── */
         @keyframes rk-met { 0%{transform:translateX(0) translateY(0);opacity:0;width:0} 2%{opacity:.9} 12%{width:150px} 100%{transform:translateX(-750px) translateY(500px);opacity:0;width:0} }
         .rk-meteor { position:fixed; pointer-events:none; z-index:1; height:1.5px; border-radius:1px; background:linear-gradient(90deg,rgba(232,200,126,.95),rgba(200,168,110,.4),transparent); animation:rk-met linear infinite; }
         /* ─── 모바일 ─── */
-        @media(max-width:768px) { .rk-ship svg{width:500px} .rk-char svg{width:100px} .rk-ship{opacity:.35} .rk-char{opacity:.13} }
+        @media(max-width:768px) { .rk-ship svg{width:450px} .rk-rocky-img{width:100px;height:100px} .rk-ship{opacity:.35} .rk-char{opacity:.14} }
       `}</style>
       {/* 우주 배경 오버레이 */}
       <div className="rk-space" />
@@ -644,62 +636,9 @@ function AnimationLayer({ type }) {
           <circle cx="326" cy="133" r="2.5" fill="#D0C088" opacity="0.5"/>
         </svg>
       </div>
-      {/* ═══ 로키 캐릭터 (SVG 직접 드로잉 + 걷기 애니메이션) ═══ */}
+      {/* ═══ 로키 캐릭터 (실제 이미지 + 블렌딩) ═══ */}
       <div className="rk-char">
-        <div className="rk-bob">
-          <svg width="140" height="130" viewBox="0 0 200 185" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <radialGradient id="rk-body" cx="50%" cy="38%" r="58%"><stop offset="0%" stopColor="#A09070"/><stop offset="45%" stopColor="#7A6B55"/><stop offset="100%" stopColor="#5A4B38"/></radialGradient>
-              <radialGradient id="rk-glow" cx="50%" cy="50%" r="50%"><stop offset="0%" stopColor="#2ACEA0" stopOpacity="0.85"/><stop offset="100%" stopColor="#1A8E70" stopOpacity="0"/></radialGradient>
-            </defs>
-            {/* 다리 3 (중간 왼쪽 — 몸 뒤) */}
-            <g className="rk-l3">
-              <line x1="44" y1="78" x2="12" y2="118" stroke="#6B5C45" strokeWidth="13" strokeLinecap="round"/>
-              <line x1="12" y1="118" x2="2" y2="162" stroke="#6B5C45" strokeWidth="10" strokeLinecap="round"/>
-              <circle cx="12" cy="118" r="6" fill="url(#rk-glow)"/>
-              <circle cx="2" cy="162" r="4" fill="#5A4B38"/>
-            </g>
-            {/* 다리 4 (중간 오른쪽 — 몸 뒤) */}
-            <g className="rk-l4">
-              <line x1="156" y1="78" x2="188" y2="118" stroke="#6B5C45" strokeWidth="13" strokeLinecap="round"/>
-              <line x1="188" y1="118" x2="198" y2="162" stroke="#6B5C45" strokeWidth="10" strokeLinecap="round"/>
-              <circle cx="188" cy="118" r="6" fill="url(#rk-glow)"/>
-              <circle cx="198" cy="162" r="4" fill="#5A4B38"/>
-            </g>
-            {/* 다리 5 (뒤쪽 중앙) */}
-            <g className="rk-l5">
-              <line x1="100" y1="98" x2="100" y2="140" stroke="#6B5C45" strokeWidth="12" strokeLinecap="round"/>
-              <line x1="100" y1="140" x2="100" y2="178" stroke="#6B5C45" strokeWidth="9" strokeLinecap="round"/>
-              <circle cx="100" cy="140" r="5" fill="url(#rk-glow)"/>
-              <circle cx="100" cy="178" r="3.5" fill="#5A4B38"/>
-            </g>
-            {/* 다리 1 (앞 왼쪽) */}
-            <g className="rk-l1">
-              <line x1="58" y1="92" x2="28" y2="130" stroke="#7A6B55" strokeWidth="15" strokeLinecap="round"/>
-              <line x1="28" y1="130" x2="14" y2="175" stroke="#7A6B55" strokeWidth="11" strokeLinecap="round"/>
-              <circle cx="28" cy="130" r="7" fill="url(#rk-glow)"/>
-              <circle cx="14" cy="175" r="4.5" fill="#5A4B38"/>
-            </g>
-            {/* 다리 2 (앞 오른쪽) */}
-            <g className="rk-l2">
-              <line x1="142" y1="92" x2="172" y2="130" stroke="#7A6B55" strokeWidth="15" strokeLinecap="round"/>
-              <line x1="172" y1="130" x2="186" y2="175" stroke="#7A6B55" strokeWidth="11" strokeLinecap="round"/>
-              <circle cx="172" cy="130" r="7" fill="url(#rk-glow)"/>
-              <circle cx="186" cy="175" r="4.5" fill="#5A4B38"/>
-            </g>
-            {/* 몸체 (돔형 바위) */}
-            <ellipse cx="100" cy="62" rx="58" ry="46" fill="url(#rk-body)"/>
-            {/* 몸체 균열 텍스처 */}
-            <path d="M 68,42 Q 82,55 78,76" stroke="#4A3C28" strokeWidth="1.5" fill="none" opacity="0.5"/>
-            <path d="M 118,38 Q 128,56 122,78" stroke="#4A3C28" strokeWidth="1.5" fill="none" opacity="0.45"/>
-            <path d="M 88,32 L 96,48 L 91,66" stroke="#4A3C28" strokeWidth="1.2" fill="none" opacity="0.35"/>
-            <path d="M 132,48 L 140,62 L 134,74" stroke="#4A3C28" strokeWidth="1" fill="none" opacity="0.3"/>
-            <path d="M 75,60 Q 90,68 105,58" stroke="#4A3C28" strokeWidth="0.8" fill="none" opacity="0.25"/>
-            {/* 몸체 하이라이트 */}
-            <ellipse cx="88" cy="48" rx="28" ry="18" fill="rgba(200,190,160,0.12)"/>
-            {/* 눈? 없음 — 에리디안은 눈이 없다 */}
-          </svg>
-        </div>
+        <div className="rk-rocky-img" />
       </div>
       {/* 별똥별 */}
       {Array.from({length:5}).map((_,i) => {
@@ -840,7 +779,7 @@ export default function Layout({ children, title, description, onCategoryChange 
       <AnimationLayer type={t.animation} />
 
       <div style={{
-        minHeight: '100vh', background: t.bg, color: t.text, fontFamily: f.css,
+        minHeight: '100vh', background: t.animation ? 'transparent' : t.bg, color: t.text, fontFamily: f.css,
         transition: 'background 0.3s, color 0.3s', position: 'relative',
       }}>
         {/* ─── 헤더 ─── */}
