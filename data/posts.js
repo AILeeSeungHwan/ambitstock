@@ -1,5 +1,15 @@
 const posts = [
   {
+    id: 564,
+    slug: 'project-hail-mary-qa-interpretation-guide-2026',
+    title: '프로젝트 헤일메리 Q&A 해석 가이드 — 아스트로파지부터 결말 선택까지, 9가지 궁금증 정리',
+    description: '프로젝트 헤일메리를 보고 나서 정리가 안 되는 궁금증들을 Q&A로 풀어본다. 아스트로파지의 정체, 로키와의 만남, 타우메바 발견, 그레이스의 마지막 선택까지.',
+    category: '영화추천',
+    date: '2026-03-23',
+    tags: ['프로젝트 헤일메리', '영화 해석', 'Q&A', '라이언 고슬링', 'SF 영화', '결말 해석'],
+    thumbnail: '/images/post564_poster.jpg',
+  },
+  {
     id: 558,
     slug: 'siren-tvn-plot-twist-analysis-7ep-mystery-2026',
     title: '세이렌 후반부 반전 분석 — 한설아의 실체, 백준범의 정체, 미술품 보험 사기의 진상',

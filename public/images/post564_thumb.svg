@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a2e"/>
+      <stop offset="100%" stop-color="#1a1a4e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="900" cy="150" r="80" fill="#7c4dff" opacity="0.15"/>
+  <circle cx="300" cy="500" r="120" fill="#448aff" opacity="0.1"/>
+  <text x="600" y="250" text-anchor="middle" font-family="Arial Black, sans-serif" font-weight="900" font-size="52" fill="#ffffff">프로젝트 헤일메리</text>
+  <text x="600" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="36" fill="#7c4dff">Q&amp;A 해석 가이드</text>
+  <text x="600" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="24" fill="#ffffff" opacity="0.6">아스트로파지부터 결말 선택까지 9가지 궁금증</text>
+  <text x="600" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-weight="400" font-size="18" fill="#ffffff" opacity="0.3">R의 필름공장</text>
+</svg>
