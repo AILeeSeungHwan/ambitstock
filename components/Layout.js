@@ -517,16 +517,15 @@ function AnimationLayer({ type }) {
     </>
   )
 
-  /* ── 로키 (프로젝트 헤일메리 — 전체 SVG 직접 렌더링) ── */
+  /* ── 로키 (프로젝트 헤일메리 — 이미지 누끼 + 우주 배경) ── */
   if (type === 'rocky') return (
     <>
       <style>{`
-        /* ─── 우주 배경 (영화 색감 재현 — 다크 웜골드) ─── */
+        /* ─── 우주 배경 (영화 색감) ─── */
         .rk-space { position:fixed; inset:0; pointer-events:none; z-index:0; background: radial-gradient(ellipse 70% 55% at 48% 42%, rgba(100,78,32,0.12) 0%, transparent 70%), radial-gradient(ellipse 40% 35% at 78% 28%, rgba(60,48,22,0.08) 0%, transparent 60%), radial-gradient(ellipse 45% 40% at 18% 68%, rgba(70,52,24,0.07) 0%, transparent 65%), radial-gradient(ellipse 25% 20% at 85% 72%, rgba(45,38,55,0.06) 0%, transparent 55%); }
-        /* ─── 성운 ─── */
         .rk-nebula { position:fixed; pointer-events:none; z-index:0; border-radius:50%; filter:blur(80px); animation:rk-neb 22s ease-in-out infinite; }
         @keyframes rk-neb { 0%,100%{opacity:0.04;transform:scale(1)} 50%{opacity:0.08;transform:scale(1.06)} }
-        /* ─── 별 반짝임 3종 ─── */
+        /* ─── 별 반짝임 ─── */
         @keyframes tw-a { 0%,100%{opacity:.1;transform:scale(.8)} 20%{opacity:.95;transform:scale(1.5)} 45%{opacity:.2;transform:scale(1)} 70%{opacity:.8;transform:scale(1.3)} }
         @keyframes tw-b { 0%,100%{opacity:.15;transform:scale(1)} 30%{opacity:1;transform:scale(1.6)} 60%{opacity:.1;transform:scale(.9)} 80%{opacity:.55;transform:scale(1.1)} }
         @keyframes tw-c { 0%,100%{opacity:.2} 15%{opacity:.4} 50%{opacity:1;transform:scale(1.4)} 65%{opacity:.12} }
@@ -534,27 +533,25 @@ function AnimationLayer({ type }) {
         .rk-star-b::before,.rk-star-b::after { content:''; position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); background:inherit; border-radius:1px; }
         .rk-star-b::before { width:1px; height:250%; }
         .rk-star-b::after { width:250%; height:1px; }
-        /* ─── 우주선 SVG ─── */
-        .rk-ship { position:fixed; top:38%; left:50%; transform:translate(-50%,-50%); pointer-events:none; z-index:1; opacity:0.55; animation:rk-ship-p 10s ease-in-out infinite; }
-        @keyframes rk-ship-p { 0%,100%{opacity:.55;filter:brightness(1)} 50%{opacity:.65;filter:brightness(1.15)} }
-        /* ─── 로키 캐릭터 (실제 이미지) ─── */
-        .rk-char { position:fixed; bottom:3vh; right:8vw; pointer-events:none; z-index:1; opacity:0.2; animation:rk-patrol 55s linear infinite; transform-style:preserve-3d; }
-        .rk-rocky-img { width:150px; height:150px; background:url('/images/rocky.png') center/contain no-repeat; mix-blend-mode:lighten; filter:drop-shadow(0 0 15px rgba(42,206,160,0.2)); animation:rk-bob 1.2s ease-in-out infinite; }
-        @keyframes rk-patrol { 0%{transform:translateX(0) rotateY(0deg)} 21%{transform:translateX(-55vw) rotateY(0deg)} 24%{transform:translateX(-55vw) rotateY(180deg)} 46%{transform:translateX(0) rotateY(180deg)} 49%{transform:translateX(0) rotateY(360deg)} 71%{transform:translateX(-55vw) rotateY(360deg)} 74%{transform:translateX(-55vw) rotateY(540deg)} 96%{transform:translateX(0) rotateY(540deg)} 100%{transform:translateX(0) rotateY(720deg)} }
-        @keyframes rk-bob { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
+        /* ─── 우주선 (실제 이미지 누끼) ─── */
+        .rk-ship { position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); pointer-events:none; z-index:1; width:75vw; max-width:1000px; height:50vh; background:url('/images/theme_hailmary_ship.png') center/contain no-repeat; mix-blend-mode:lighten; opacity:0.45; animation:rk-ship-p 10s ease-in-out infinite; }
+        @keyframes rk-ship-p { 0%,100%{opacity:.45;filter:brightness(1)} 50%{opacity:.55;filter:brightness(1.15)} }
+        /* ─── 로키 (실제 이미지 누끼, 고정) ─── */
+        .rk-rocky { position:fixed; bottom:5vh; right:5vw; pointer-events:none; z-index:2; width:160px; height:160px; background:url('/images/rocky.png') center/contain no-repeat; mix-blend-mode:lighten; opacity:0.22; filter:drop-shadow(0 0 20px rgba(42,206,160,0.15)); animation:rk-float 8s ease-in-out infinite; }
+        @keyframes rk-float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-10px)} }
         /* ─── 별똥별 ─── */
         @keyframes rk-met { 0%{transform:translateX(0) translateY(0);opacity:0;width:0} 2%{opacity:.9} 12%{width:150px} 100%{transform:translateX(-750px) translateY(500px);opacity:0;width:0} }
         .rk-meteor { position:fixed; pointer-events:none; z-index:1; height:1.5px; border-radius:1px; background:linear-gradient(90deg,rgba(232,200,126,.95),rgba(200,168,110,.4),transparent); animation:rk-met linear infinite; }
         /* ─── 모바일 ─── */
-        @media(max-width:768px) { .rk-ship svg{width:450px} .rk-rocky-img{width:100px;height:100px} .rk-ship{opacity:.35} .rk-char{opacity:.14} }
+        @media(max-width:768px) { .rk-ship{width:95vw;height:35vh;opacity:.3} .rk-rocky{width:100px;height:100px;opacity:.16;right:3vw;bottom:3vh} }
       `}</style>
-      {/* 우주 배경 오버레이 */}
+      {/* 우주 배경 */}
       <div className="rk-space" />
       {/* 성운 */}
       <div className="rk-nebula" style={{top:'12%',left:'8%',width:'45vw',height:'40vh',background:'radial-gradient(circle,rgba(110,80,30,0.18),transparent 70%)'}} />
       <div className="rk-nebula" style={{top:'55%',right:'5%',width:'35vw',height:'35vh',background:'radial-gradient(circle,rgba(50,42,70,0.12),transparent 70%)',animationDelay:'-9s'}} />
       <div className="rk-nebula" style={{bottom:'8%',left:'35%',width:'30vw',height:'25vh',background:'radial-gradient(circle,rgba(85,60,25,0.1),transparent 70%)',animationDelay:'-16s'}} />
-      {/* 별 — 70개, 3레이어 */}
+      {/* 별 — 70개 */}
       {Array.from({length:70}).map((_,i) => {
         const L = i<38?0:i<58?1:2
         const sz = L===0?(0.6+(i%3)*0.4):L===1?(1.4+(i%3)*0.7):(2.5+(i%2)*1.5)
@@ -562,84 +559,10 @@ function AnimationLayer({ type }) {
         const cl = ['#ffffff','#c8a86e','#8888cc','#ffcc88','#99ccff','#ffe8a0'][i%6]
         return <div key={'s'+i} className={'rk-star'+(L===2?' rk-star-b':'')} style={{left:((i*7.3+3.7*(i%7)+2)%98+1)+'%',top:((i*11.3+5.1*(i%5)+1)%88+1)+'%',width:sz+'px',height:sz+'px',background:cl,animationName:an,animationDuration:(2.5+(i*1.3)%5)+'s',animationDelay:(i*.47)%7+'s',animationTimingFunction:'ease-in-out',animationIterationCount:'infinite',boxShadow:L===2?'0 0 '+(sz*3)+'px '+cl:'none'}} />
       })}
-      {/* ═══ 헤일메리 우주선 (SVG 직접 드로잉) ═══ */}
-      <div className="rk-ship">
-        <svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <linearGradient id="hm-hull" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stopColor="#D0C090"/><stop offset="50%" stopColor="#E0D0A0"/><stop offset="100%" stopColor="#A89868"/></linearGradient>
-            <linearGradient id="hm-str" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stopColor="#E0B860" stopOpacity="0.8"/><stop offset="40%" stopColor="#C8A050" stopOpacity="0.45"/><stop offset="100%" stopColor="#A08030" stopOpacity="0"/></linearGradient>
-            <radialGradient id="hm-eng"><stop offset="0%" stopColor="#FFFCE8"/><stop offset="40%" stopColor="#F0E0B0" stopOpacity="0.7"/><stop offset="100%" stopColor="#C8A868" stopOpacity="0"/></radialGradient>
-            <radialGradient id="hm-glow"><stop offset="0%" stopColor="#E8C870" stopOpacity="0.3"/><stop offset="100%" stopColor="#C8A050" stopOpacity="0"/></radialGradient>
-          </defs>
-          {/* 전체 우주선 글로우 */}
-          <ellipse cx="380" cy="175" rx="320" ry="80" fill="url(#hm-glow)" opacity="0.4"/>
-          {/* 엔진 글로우 (크게) */}
-          <ellipse cx="155" cy="175" rx="50" ry="55" fill="url(#hm-eng)" opacity="0.35"/>
-          {/* 엔진 배기 플룸 */}
-          <ellipse cx="120" cy="160" rx="35" ry="12" fill="#FFF8E0" opacity="0.15"/>
-          <ellipse cx="120" cy="190" rx="30" ry="10" fill="#FFF0D0" opacity="0.12"/>
-          {/* 엔진 노즐 2개 */}
-          <ellipse cx="170" cy="158" rx="18" ry="24" fill="#E8E0D0" opacity="0.9"/>
-          <ellipse cx="170" cy="158" rx="12" ry="16" fill="#FFFAE8"/>
-          <ellipse cx="170" cy="192" rx="15" ry="20" fill="#E0D8C8" opacity="0.85"/>
-          <ellipse cx="170" cy="192" rx="10" ry="13" fill="#FFF5E0"/>
-          {/* 메인 선체 */}
-          <rect x="192" y="160" width="190" height="30" rx="8" fill="url(#hm-hull)"/>
-          <rect x="192" y="168" width="190" height="8" rx="3" fill="rgba(255,250,230,0.12)"/>
-          {/* 선체 디테일 */}
-          <line x1="210" y1="160" x2="210" y2="190" stroke="#B8A878" strokeWidth="1" opacity="0.4"/>
-          <line x1="260" y1="160" x2="260" y2="190" stroke="#B8A878" strokeWidth="1" opacity="0.35"/>
-          <line x1="310" y1="160" x2="310" y2="190" stroke="#B8A878" strokeWidth="1" opacity="0.3"/>
-          <line x1="350" y1="160" x2="350" y2="190" stroke="#B8A878" strokeWidth="1" opacity="0.25"/>
-          {/* 커넥터 구간 */}
-          <rect x="380" y="152" width="38" height="46" rx="5" fill="#B8A878"/>
-          <rect x="384" y="156" width="30" height="38" rx="3" fill="#A09060"/>
-          <ellipse cx="399" cy="175" rx="22" ry="22" fill="none" stroke="#C8B888" strokeWidth="2" opacity="0.5"/>
-          {/* ═══ 라디에이터 패널 상단 ═══ */}
-          <polygon points="418,148 790,95 790,155 418,168" fill="#A89858" fillOpacity="0.25" stroke="#C8B070" strokeWidth="1.5" strokeOpacity="0.7"/>
-          {/* 패널 내부 수평선 */}
-          <line x1="420" y1="155" x2="788" y2="110" stroke="#C8B070" strokeWidth="0.8" opacity="0.4"/>
-          <line x1="420" y1="162" x2="788" y2="125" stroke="#C8B070" strokeWidth="0.8" opacity="0.35"/>
-          {/* 패널 그리드 세로선 */}
-          <line x1="490" y1="138" x2="490" y2="165" stroke="#C8B070" strokeWidth="0.8" opacity="0.4"/>
-          <line x1="560" y1="127" x2="560" y2="162" stroke="#C8B070" strokeWidth="0.8" opacity="0.35"/>
-          <line x1="630" y1="117" x2="630" y2="159" stroke="#C8B070" strokeWidth="0.8" opacity="0.3"/>
-          <line x1="700" y1="107" x2="700" y2="156" stroke="#C8B070" strokeWidth="0.8" opacity="0.25"/>
-          {/* ═══ 라디에이터 패널 하단 ═══ */}
-          <polygon points="418,182 790,195 790,255 418,202" fill="#A89858" fillOpacity="0.2" stroke="#C8B070" strokeWidth="1.5" strokeOpacity="0.6"/>
-          <line x1="420" y1="188" x2="788" y2="210" stroke="#C8B070" strokeWidth="0.8" opacity="0.35"/>
-          <line x1="420" y1="195" x2="788" y2="225" stroke="#C8B070" strokeWidth="0.8" opacity="0.3"/>
-          <line x1="490" y1="186" x2="490" y2="208" stroke="#C8B070" strokeWidth="0.8" opacity="0.35"/>
-          <line x1="560" y1="190" x2="560" y2="218" stroke="#C8B070" strokeWidth="0.8" opacity="0.3"/>
-          <line x1="630" y1="193" x2="630" y2="228" stroke="#C8B070" strokeWidth="0.8" opacity="0.25"/>
-          <line x1="700" y1="196" x2="700" y2="238" stroke="#C8B070" strokeWidth="0.8" opacity="0.2"/>
-          {/* ════ 골드 수평 스트릭 — 상단 패널 ════ */}
-          <rect x="415" y="105" width="470" height="2.5" fill="url(#hm-str)" opacity="0.6"><animate attributeName="opacity" values="0.4;0.75;0.4" dur="4s" repeatCount="indefinite"/></rect>
-          <rect x="420" y="113" width="450" height="1.5" fill="url(#hm-str)" opacity="0.45"><animate attributeName="opacity" values="0.3;0.6;0.3" dur="5.2s" repeatCount="indefinite"/></rect>
-          <rect x="412" y="121" width="475" height="2" fill="url(#hm-str)" opacity="0.55"><animate attributeName="opacity" values="0.35;0.7;0.35" dur="3.5s" repeatCount="indefinite"/></rect>
-          <rect x="418" y="129" width="460" height="1.2" fill="url(#hm-str)" opacity="0.4"><animate attributeName="opacity" values="0.25;0.55;0.25" dur="6s" repeatCount="indefinite"/></rect>
-          <rect x="414" y="137" width="470" height="1.8" fill="url(#hm-str)" opacity="0.5"><animate attributeName="opacity" values="0.3;0.65;0.3" dur="4.5s" repeatCount="indefinite"/></rect>
-          <rect x="416" y="145" width="465" height="1" fill="url(#hm-str)" opacity="0.35"><animate attributeName="opacity" values="0.2;0.5;0.2" dur="5.5s" repeatCount="indefinite"/></rect>
-          {/* ════ 골드 수평 스트릭 — 하단 패널 ════ */}
-          <rect x="415" y="205" width="470" height="2" fill="url(#hm-str)" opacity="0.5"><animate attributeName="opacity" values="0.3;0.65;0.3" dur="5s" repeatCount="indefinite"/></rect>
-          <rect x="420" y="215" width="450" height="1.5" fill="url(#hm-str)" opacity="0.4"><animate attributeName="opacity" values="0.25;0.55;0.25" dur="4.2s" repeatCount="indefinite"/></rect>
-          <rect x="413" y="225" width="472" height="2" fill="url(#hm-str)" opacity="0.45"><animate attributeName="opacity" values="0.28;0.6;0.28" dur="5.8s" repeatCount="indefinite"/></rect>
-          <rect x="418" y="235" width="458" height="1.2" fill="url(#hm-str)" opacity="0.35"><animate attributeName="opacity" values="0.2;0.5;0.2" dur="6.2s" repeatCount="indefinite"/></rect>
-          <rect x="415" y="245" width="468" height="1.8" fill="url(#hm-str)" opacity="0.42"><animate attributeName="opacity" values="0.25;0.58;0.25" dur="3.8s" repeatCount="indefinite"/></rect>
-          {/* 패널 프레임 중앙 수평선 */}
-          <line x1="418" y1="168" x2="790" y2="155" stroke="#D0B878" strokeWidth="1" opacity="0.45"/>
-          <line x1="418" y1="182" x2="790" y2="195" stroke="#D0B878" strokeWidth="1" opacity="0.4"/>
-          {/* 선체 상단 안테나/구조물 */}
-          <line x1="280" y1="160" x2="280" y2="128" stroke="#C8B888" strokeWidth="2" opacity="0.6"/>
-          <circle cx="280" cy="125" r="3.5" fill="#E0D098" opacity="0.7"/>
-          <line x1="320" y1="160" x2="326" y2="135" stroke="#B8A878" strokeWidth="1.5" opacity="0.5"/>
-          <circle cx="326" cy="133" r="2.5" fill="#D0C088" opacity="0.5"/>
-        </svg>
-      </div>
-      {/* ═══ 로키 캐릭터 (실제 이미지 + 블렌딩) ═══ */}
-      <div className="rk-char">
-        <div className="rk-rocky-img" />
-      </div>
+      {/* 헤일메리 우주선 (이미지) */}
+      <div className="rk-ship" />
+      {/* 로키 (이미지, 고정) */}
+      <div className="rk-rocky" />
       {/* 별똥별 */}
       {Array.from({length:5}).map((_,i) => {
         const ts=[6,20,35,52,14], ds=[4.5,6.5,3.8,5.5,7.5], dl=[4,13,7,20,28]
