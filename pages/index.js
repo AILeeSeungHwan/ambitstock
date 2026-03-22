@@ -300,6 +300,21 @@ export default function Home({ posts, catCount, trendPosts }) {
         </div>
       </section>
 
+      {/* ─── 지금 뜨는 작품 ─── */}
+      <section style={{ marginBottom: 48 }}>
+        <SectionHeader icon="🔥" title="지금 뜨는 작품" />
+        <div style={{ marginBottom: 16 }}>
+          <FeaturedCard post={trending[0]} />
+        </div>
+        <div className="trending-grid" style={{
+          display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: 14,
+        }}>
+          {trending.slice(1, 6).map(post => (
+            <PostCard key={post.id} post={post} />
+          ))}
+        </div>
+      </section>
+
       {/* ─── 무드 결과 ─── */}
       {selectedMood !== null && moodFiltered.length > 0 && (
         <section style={{ marginBottom: 48 }}>
@@ -400,21 +415,6 @@ export default function Home({ posts, catCount, trendPosts }) {
           </div>
         </section>
       )}
-
-      {/* ─── 지금 뜨는 작품 ─── */}
-      <section style={{ marginBottom: 48 }}>
-        <SectionHeader icon="🔥" title="지금 뜨는 작품" />
-        <div style={{ marginBottom: 16 }}>
-          <FeaturedCard post={trending[0]} />
-        </div>
-        <div className="trending-grid" style={{
-          display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: 14,
-        }}>
-          {trending.slice(1, 6).map(post => (
-            <PostCard key={post.id} post={post} />
-          ))}
-        </div>
-      </section>
 
       <AdUnit slot="6297515693" format="auto" style={{ marginBottom: 48 }} />
 
