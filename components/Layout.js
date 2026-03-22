@@ -535,13 +535,12 @@ function AnimationLayer({ type }) {
         .rk-star-b::before { width:1px; height:250%; }
         .rk-star-b::after { width:250%; height:1px; }
         /* ─── 우주선 SVG ─── */
-        .rk-ship { position:fixed; top:40%; left:50%; transform:translate(-50%,-50%); pointer-events:none; z-index:0; opacity:0.32; animation:rk-ship-p 10s ease-in-out infinite; }
-        @keyframes rk-ship-p { 0%,100%{opacity:.32;filter:brightness(1)} 50%{opacity:.4;filter:brightness(1.12)} }
-        @keyframes rk-streak { 0%,100%{opacity:.25} 50%{opacity:.5} }
+        .rk-ship { position:fixed; top:38%; left:50%; transform:translate(-50%,-50%); pointer-events:none; z-index:0; opacity:0.55; animation:rk-ship-p 10s ease-in-out infinite; }
+        @keyframes rk-ship-p { 0%,100%{opacity:.55;filter:brightness(1)} 50%{opacity:.65;filter:brightness(1.15)} }
         /* ─── 로키 캐릭터 ─── */
-        .rk-char { position:fixed; bottom:3vh; right:8vw; pointer-events:none; z-index:1; opacity:0.16; animation:rk-patrol 55s linear infinite; }
+        .rk-char { position:fixed; bottom:3vh; right:8vw; pointer-events:none; z-index:1; opacity:0.18; animation:rk-patrol 55s linear infinite; transform-style:preserve-3d; }
         .rk-bob { animation:rk-bob 1s ease-in-out infinite; }
-        @keyframes rk-patrol { 0%{transform:translateX(0) scaleX(1)} 22%{transform:translateX(-55vw) scaleX(1)} 25%{transform:translateX(-55vw) scaleX(-1)} 47%{transform:translateX(0) scaleX(-1)} 50%{transform:translateX(0) scaleX(1)} 72%{transform:translateX(-55vw) scaleX(1)} 75%{transform:translateX(-55vw) scaleX(-1)} 97%{transform:translateX(0) scaleX(-1)} 100%{transform:translateX(0) scaleX(1)} }
+        @keyframes rk-patrol { 0%{transform:translateX(0) rotateY(0deg)} 21%{transform:translateX(-55vw) rotateY(0deg)} 24%{transform:translateX(-55vw) rotateY(180deg)} 46%{transform:translateX(0) rotateY(180deg)} 49%{transform:translateX(0) rotateY(360deg)} 71%{transform:translateX(-55vw) rotateY(360deg)} 74%{transform:translateX(-55vw) rotateY(540deg)} 96%{transform:translateX(0) rotateY(540deg)} 100%{transform:translateX(0) rotateY(720deg)} }
         @keyframes rk-bob { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-5px)} }
         /* 다리 걷기 교차 */
         @keyframes lf { 0%,100%{transform:rotate(0)} 50%{transform:rotate(20deg)} }
@@ -555,7 +554,7 @@ function AnimationLayer({ type }) {
         @keyframes rk-met { 0%{transform:translateX(0) translateY(0);opacity:0;width:0} 2%{opacity:.9} 12%{width:150px} 100%{transform:translateX(-750px) translateY(500px);opacity:0;width:0} }
         .rk-meteor { position:fixed; pointer-events:none; z-index:1; height:1.5px; border-radius:1px; background:linear-gradient(90deg,rgba(232,200,126,.95),rgba(200,168,110,.4),transparent); animation:rk-met linear infinite; }
         /* ─── 모바일 ─── */
-        @media(max-width:768px) { .rk-ship svg{width:320px} .rk-char svg{width:90px} .rk-ship{opacity:.22} .rk-char{opacity:.11} }
+        @media(max-width:768px) { .rk-ship svg{width:500px} .rk-char svg{width:100px} .rk-ship{opacity:.35} .rk-char{opacity:.13} }
       `}</style>
       {/* 우주 배경 오버레이 */}
       <div className="rk-space" />
@@ -573,56 +572,76 @@ function AnimationLayer({ type }) {
       })}
       {/* ═══ 헤일메리 우주선 (SVG 직접 드로잉) ═══ */}
       <div className="rk-ship">
-        <svg width="600" height="240" viewBox="0 0 600 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width="900" height="360" viewBox="0 0 900 360" fill="none" xmlns="http://www.w3.org/2000/svg">
           <defs>
-            <linearGradient id="hm-hull" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stopColor="#B0A078"/><stop offset="50%" stopColor="#C8B888"/><stop offset="100%" stopColor="#8A7A58"/></linearGradient>
-            <linearGradient id="hm-str" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stopColor="#C8A050" stopOpacity="0.7"/><stop offset="50%" stopColor="#B09040" stopOpacity="0.35"/><stop offset="100%" stopColor="#907830" stopOpacity="0"/></linearGradient>
-            <radialGradient id="hm-eng"><stop offset="0%" stopColor="#FFF8E0"/><stop offset="60%" stopColor="#E8D8B0" stopOpacity="0.6"/><stop offset="100%" stopColor="#C8A868" stopOpacity="0"/></radialGradient>
+            <linearGradient id="hm-hull" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stopColor="#D0C090"/><stop offset="50%" stopColor="#E0D0A0"/><stop offset="100%" stopColor="#A89868"/></linearGradient>
+            <linearGradient id="hm-str" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stopColor="#E0B860" stopOpacity="0.8"/><stop offset="40%" stopColor="#C8A050" stopOpacity="0.45"/><stop offset="100%" stopColor="#A08030" stopOpacity="0"/></linearGradient>
+            <radialGradient id="hm-eng"><stop offset="0%" stopColor="#FFFCE8"/><stop offset="40%" stopColor="#F0E0B0" stopOpacity="0.7"/><stop offset="100%" stopColor="#C8A868" stopOpacity="0"/></radialGradient>
+            <radialGradient id="hm-glow"><stop offset="0%" stopColor="#E8C870" stopOpacity="0.3"/><stop offset="100%" stopColor="#C8A050" stopOpacity="0"/></radialGradient>
           </defs>
-          {/* 엔진 글로우 */}
-          <ellipse cx="118" cy="118" rx="30" ry="35" fill="url(#hm-eng)" opacity="0.25"/>
+          {/* 전체 우주선 글로우 */}
+          <ellipse cx="380" cy="175" rx="320" ry="80" fill="url(#hm-glow)" opacity="0.4"/>
+          {/* 엔진 글로우 (크게) */}
+          <ellipse cx="155" cy="175" rx="50" ry="55" fill="url(#hm-eng)" opacity="0.35"/>
+          {/* 엔진 배기 플룸 */}
+          <ellipse cx="120" cy="160" rx="35" ry="12" fill="#FFF8E0" opacity="0.15"/>
+          <ellipse cx="120" cy="190" rx="30" ry="10" fill="#FFF0D0" opacity="0.12"/>
           {/* 엔진 노즐 2개 */}
-          <ellipse cx="125" cy="106" rx="13" ry="17" fill="#D8D0C0" opacity="0.85"/>
-          <ellipse cx="125" cy="106" rx="8" ry="11" fill="#FFF8E8"/>
-          <ellipse cx="125" cy="130" rx="10" ry="14" fill="#D0C8B8" opacity="0.75"/>
-          <ellipse cx="125" cy="130" rx="6" ry="9" fill="#FFF0E0"/>
+          <ellipse cx="170" cy="158" rx="18" ry="24" fill="#E8E0D0" opacity="0.9"/>
+          <ellipse cx="170" cy="158" rx="12" ry="16" fill="#FFFAE8"/>
+          <ellipse cx="170" cy="192" rx="15" ry="20" fill="#E0D8C8" opacity="0.85"/>
+          <ellipse cx="170" cy="192" rx="10" ry="13" fill="#FFF5E0"/>
           {/* 메인 선체 */}
-          <rect x="140" y="105" width="130" height="22" rx="6" fill="url(#hm-hull)"/>
-          <rect x="140" y="110" width="130" height="5" rx="2" fill="rgba(255,248,220,0.08)"/>
+          <rect x="192" y="160" width="190" height="30" rx="8" fill="url(#hm-hull)"/>
+          <rect x="192" y="168" width="190" height="8" rx="3" fill="rgba(255,250,230,0.12)"/>
+          {/* 선체 디테일 */}
+          <line x1="210" y1="160" x2="210" y2="190" stroke="#B8A878" strokeWidth="1" opacity="0.4"/>
+          <line x1="260" y1="160" x2="260" y2="190" stroke="#B8A878" strokeWidth="1" opacity="0.35"/>
+          <line x1="310" y1="160" x2="310" y2="190" stroke="#B8A878" strokeWidth="1" opacity="0.3"/>
+          <line x1="350" y1="160" x2="350" y2="190" stroke="#B8A878" strokeWidth="1" opacity="0.25"/>
           {/* 커넥터 구간 */}
-          <rect x="268" y="100" width="28" height="32" rx="4" fill="#A09060"/>
-          <ellipse cx="282" cy="116" rx="16" ry="16" fill="none" stroke="#B0A070" strokeWidth="1.5" opacity="0.6"/>
-          {/* 라디에이터 패널 (상단) */}
-          <polygon points="296,98 530,62 530,100 296,112" fill="#8A7A48" fillOpacity="0.2" stroke="#A89050" strokeWidth="1.2" strokeOpacity="0.6"/>
-          {/* 패널 그리드 (상단 세로선) */}
-          <line x1="340" y1="90" x2="340" y2="108" stroke="#A89050" strokeWidth="0.6" opacity="0.35"/>
-          <line x1="385" y1="83" x2="385" y2="106" stroke="#A89050" strokeWidth="0.6" opacity="0.3"/>
-          <line x1="430" y1="76" x2="430" y2="104" stroke="#A89050" strokeWidth="0.6" opacity="0.25"/>
-          <line x1="475" y1="70" x2="475" y2="102" stroke="#A89050" strokeWidth="0.6" opacity="0.2"/>
-          {/* 라디에이터 패널 (하단) */}
-          <polygon points="296,122 530,132 530,170 296,136" fill="#8A7A48" fillOpacity="0.15" stroke="#A89050" strokeWidth="1.2" strokeOpacity="0.5"/>
-          {/* 패널 그리드 (하단 세로선) */}
-          <line x1="340" y1="126" x2="340" y2="148" stroke="#A89050" strokeWidth="0.6" opacity="0.3"/>
-          <line x1="385" y1="128" x2="385" y2="152" stroke="#A89050" strokeWidth="0.6" opacity="0.25"/>
-          <line x1="430" y1="130" x2="430" y2="156" stroke="#A89050" strokeWidth="0.6" opacity="0.2"/>
-          {/* ════ 골드 수평 스트릭 (시그니처 비주얼) ════ */}
-          <rect x="295" y="72" width="300" height="1.8" fill="url(#hm-str)" opacity="0.5"><animate attributeName="opacity" values="0.3;0.6;0.3" dur="4s" repeatCount="indefinite"/></rect>
-          <rect x="300" y="78" width="280" height="1" fill="url(#hm-str)" opacity="0.35"><animate attributeName="opacity" values="0.2;0.5;0.2" dur="5s" repeatCount="indefinite"/></rect>
-          <rect x="292" y="84" width="305" height="1.5" fill="url(#hm-str)" opacity="0.45"><animate attributeName="opacity" values="0.3;0.55;0.3" dur="3.5s" repeatCount="indefinite"/></rect>
-          <rect x="298" y="90" width="290" height="0.8" fill="url(#hm-str)" opacity="0.3"><animate attributeName="opacity" values="0.15;0.45;0.15" dur="6s" repeatCount="indefinite"/></rect>
-          <rect x="294" y="96" width="300" height="1.2" fill="url(#hm-str)" opacity="0.4"><animate attributeName="opacity" values="0.25;0.5;0.25" dur="4.5s" repeatCount="indefinite"/></rect>
-          <rect x="296" y="136" width="295" height="1.5" fill="url(#hm-str)" opacity="0.4"><animate attributeName="opacity" values="0.25;0.5;0.25" dur="5s" repeatCount="indefinite"/></rect>
-          <rect x="300" y="143" width="280" height="1" fill="url(#hm-str)" opacity="0.3"><animate attributeName="opacity" values="0.2;0.45;0.2" dur="4s" repeatCount="indefinite"/></rect>
-          <rect x="293" y="150" width="300" height="1.3" fill="url(#hm-str)" opacity="0.35"><animate attributeName="opacity" values="0.2;0.5;0.2" dur="5.5s" repeatCount="indefinite"/></rect>
-          <rect x="298" y="157" width="285" height="0.8" fill="url(#hm-str)" opacity="0.25"><animate attributeName="opacity" values="0.15;0.4;0.15" dur="6s" repeatCount="indefinite"/></rect>
-          <rect x="295" y="164" width="298" height="1.2" fill="url(#hm-str)" opacity="0.3"><animate attributeName="opacity" values="0.2;0.45;0.2" dur="3.8s" repeatCount="indefinite"/></rect>
-          {/* 패널 프레임 디테일 */}
-          <line x1="296" y1="105" x2="530" y2="100" stroke="#A89050" strokeWidth="0.5" opacity="0.3"/>
-          <line x1="296" y1="130" x2="530" y2="132" stroke="#A89050" strokeWidth="0.5" opacity="0.25"/>
+          <rect x="380" y="152" width="38" height="46" rx="5" fill="#B8A878"/>
+          <rect x="384" y="156" width="30" height="38" rx="3" fill="#A09060"/>
+          <ellipse cx="399" cy="175" rx="22" ry="22" fill="none" stroke="#C8B888" strokeWidth="2" opacity="0.5"/>
+          {/* ═══ 라디에이터 패널 상단 ═══ */}
+          <polygon points="418,148 790,95 790,155 418,168" fill="#A89858" fillOpacity="0.25" stroke="#C8B070" strokeWidth="1.5" strokeOpacity="0.7"/>
+          {/* 패널 내부 수평선 */}
+          <line x1="420" y1="155" x2="788" y2="110" stroke="#C8B070" strokeWidth="0.8" opacity="0.4"/>
+          <line x1="420" y1="162" x2="788" y2="125" stroke="#C8B070" strokeWidth="0.8" opacity="0.35"/>
+          {/* 패널 그리드 세로선 */}
+          <line x1="490" y1="138" x2="490" y2="165" stroke="#C8B070" strokeWidth="0.8" opacity="0.4"/>
+          <line x1="560" y1="127" x2="560" y2="162" stroke="#C8B070" strokeWidth="0.8" opacity="0.35"/>
+          <line x1="630" y1="117" x2="630" y2="159" stroke="#C8B070" strokeWidth="0.8" opacity="0.3"/>
+          <line x1="700" y1="107" x2="700" y2="156" stroke="#C8B070" strokeWidth="0.8" opacity="0.25"/>
+          {/* ═══ 라디에이터 패널 하단 ═══ */}
+          <polygon points="418,182 790,195 790,255 418,202" fill="#A89858" fillOpacity="0.2" stroke="#C8B070" strokeWidth="1.5" strokeOpacity="0.6"/>
+          <line x1="420" y1="188" x2="788" y2="210" stroke="#C8B070" strokeWidth="0.8" opacity="0.35"/>
+          <line x1="420" y1="195" x2="788" y2="225" stroke="#C8B070" strokeWidth="0.8" opacity="0.3"/>
+          <line x1="490" y1="186" x2="490" y2="208" stroke="#C8B070" strokeWidth="0.8" opacity="0.35"/>
+          <line x1="560" y1="190" x2="560" y2="218" stroke="#C8B070" strokeWidth="0.8" opacity="0.3"/>
+          <line x1="630" y1="193" x2="630" y2="228" stroke="#C8B070" strokeWidth="0.8" opacity="0.25"/>
+          <line x1="700" y1="196" x2="700" y2="238" stroke="#C8B070" strokeWidth="0.8" opacity="0.2"/>
+          {/* ════ 골드 수평 스트릭 — 상단 패널 ════ */}
+          <rect x="415" y="105" width="470" height="2.5" fill="url(#hm-str)" opacity="0.6"><animate attributeName="opacity" values="0.4;0.75;0.4" dur="4s" repeatCount="indefinite"/></rect>
+          <rect x="420" y="113" width="450" height="1.5" fill="url(#hm-str)" opacity="0.45"><animate attributeName="opacity" values="0.3;0.6;0.3" dur="5.2s" repeatCount="indefinite"/></rect>
+          <rect x="412" y="121" width="475" height="2" fill="url(#hm-str)" opacity="0.55"><animate attributeName="opacity" values="0.35;0.7;0.35" dur="3.5s" repeatCount="indefinite"/></rect>
+          <rect x="418" y="129" width="460" height="1.2" fill="url(#hm-str)" opacity="0.4"><animate attributeName="opacity" values="0.25;0.55;0.25" dur="6s" repeatCount="indefinite"/></rect>
+          <rect x="414" y="137" width="470" height="1.8" fill="url(#hm-str)" opacity="0.5"><animate attributeName="opacity" values="0.3;0.65;0.3" dur="4.5s" repeatCount="indefinite"/></rect>
+          <rect x="416" y="145" width="465" height="1" fill="url(#hm-str)" opacity="0.35"><animate attributeName="opacity" values="0.2;0.5;0.2" dur="5.5s" repeatCount="indefinite"/></rect>
+          {/* ════ 골드 수평 스트릭 — 하단 패널 ════ */}
+          <rect x="415" y="205" width="470" height="2" fill="url(#hm-str)" opacity="0.5"><animate attributeName="opacity" values="0.3;0.65;0.3" dur="5s" repeatCount="indefinite"/></rect>
+          <rect x="420" y="215" width="450" height="1.5" fill="url(#hm-str)" opacity="0.4"><animate attributeName="opacity" values="0.25;0.55;0.25" dur="4.2s" repeatCount="indefinite"/></rect>
+          <rect x="413" y="225" width="472" height="2" fill="url(#hm-str)" opacity="0.45"><animate attributeName="opacity" values="0.28;0.6;0.28" dur="5.8s" repeatCount="indefinite"/></rect>
+          <rect x="418" y="235" width="458" height="1.2" fill="url(#hm-str)" opacity="0.35"><animate attributeName="opacity" values="0.2;0.5;0.2" dur="6.2s" repeatCount="indefinite"/></rect>
+          <rect x="415" y="245" width="468" height="1.8" fill="url(#hm-str)" opacity="0.42"><animate attributeName="opacity" values="0.25;0.58;0.25" dur="3.8s" repeatCount="indefinite"/></rect>
+          {/* 패널 프레임 중앙 수평선 */}
+          <line x1="418" y1="168" x2="790" y2="155" stroke="#D0B878" strokeWidth="1" opacity="0.45"/>
+          <line x1="418" y1="182" x2="790" y2="195" stroke="#D0B878" strokeWidth="1" opacity="0.4"/>
           {/* 선체 상단 안테나/구조물 */}
-          <line x1="200" y1="105" x2="200" y2="85" stroke="#B0A070" strokeWidth="1.5" opacity="0.5"/>
-          <circle cx="200" cy="83" r="2.5" fill="#C8B888" opacity="0.6"/>
-          <line x1="220" y1="105" x2="225" y2="90" stroke="#A09060" strokeWidth="1" opacity="0.4"/>
+          <line x1="280" y1="160" x2="280" y2="128" stroke="#C8B888" strokeWidth="2" opacity="0.6"/>
+          <circle cx="280" cy="125" r="3.5" fill="#E0D098" opacity="0.7"/>
+          <line x1="320" y1="160" x2="326" y2="135" stroke="#B8A878" strokeWidth="1.5" opacity="0.5"/>
+          <circle cx="326" cy="133" r="2.5" fill="#D0C088" opacity="0.5"/>
         </svg>
       </div>
       {/* ═══ 로키 캐릭터 (SVG 직접 드로잉 + 걷기 애니메이션) ═══ */}
