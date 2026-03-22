@@ -41,10 +41,11 @@ export async function getStaticProps({ params }) {
           relThumb = ri ? ri.src : null
         } catch (e) {}
       }
-      return { id: p.id, slug: p.slug, tistorySlug: p.tistorySlug, title: p.title, date: p.date, category: p.category, thumbnail: relThumb }
+      return { id: p.id, slug: p.slug, tistorySlug: p.tistorySlug || null, title: p.title, date: p.date, category: p.category, thumbnail: relThumb }
     })
 
-  return { props: { meta: { ...meta, thumbnail }, postData, related } }
+  const safeMeta = Object.fromEntries(Object.entries({ ...meta, thumbnail }).filter(([, v]) => v !== undefined))
+  return { props: { meta: safeMeta, postData, related } }
 }
 
 /* ─── TOC ─── */
