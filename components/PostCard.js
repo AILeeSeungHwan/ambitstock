@@ -1,3 +1,5 @@
+const getPostUrl = require('../lib/getPostUrl')
+
 const CATEGORY_COLORS = {
   '영화추천': { bg: '#e3f2fd', text: '#1565c0', icon: '🎬' },
   '해외반응후기': { bg: '#ffebee', text: '#c62828', icon: '🌍' },
@@ -37,7 +39,7 @@ export function FeaturedCard({ post }) {
   const cat = CATEGORY_COLORS[post.category] || { bg: '#f5f5f5', text: '#666' }
 
   return (
-    <a href={'/' + post.slug + '/'} className="featured-card" style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}>
+    <a href={getPostUrl(post)} className="featured-card" style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}>
       <article style={{
         display: 'grid',
         gridTemplateColumns: '1.2fr 1fr',
@@ -102,7 +104,7 @@ export function ListCard({ post }) {
   const cat = CATEGORY_COLORS[post.category] || { bg: '#f5f5f5', text: '#666' }
 
   return (
-    <a href={'/' + post.slug + '/'} className="list-card" style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}>
+    <a href={getPostUrl(post)} className="list-card" style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}>
       <article style={{
         display: 'flex',
         gap: 20,
@@ -161,7 +163,7 @@ export default function PostCard({ post }) {
   const cat = CATEGORY_COLORS[post.category] || { bg: '#f5f5f5', text: '#666' }
 
   return (
-    <a href={'/' + post.slug + '/'} className="grid-card" style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}>
+    <a href={getPostUrl(post)} className="grid-card" style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}>
       <article style={{
         background: 'var(--card-bg, #fff)',
         borderRadius: 12, overflow: 'hidden',

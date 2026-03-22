@@ -1,25 +1,24 @@
 import Head from 'next/head'
-import Layout from '../components/Layout'
-import AdUnit from '../components/AdUnit'
-import PageTracker from '../components/PageTracker'
-import posts from '../data/posts'
-import getPostUrl from '../lib/getPostUrl'
+import Layout from '../../components/Layout'
+import AdUnit from '../../components/AdUnit'
+import PageTracker from '../../components/PageTracker'
+import posts from '../../data/posts'
+import getPostUrl from '../../lib/getPostUrl'
 
 export async function getStaticPaths() {
-  // tistorySlug가 있는 포스트는 /entry/[slug]에서 처리
   const paths = posts
-    .filter(p => !p.tistorySlug)
-    .map(p => ({ params: { slug: String(p.slug) } }))
+    .filter(p => p.tistorySlug)
+    .map(p => ({ params: { slug: String(p.tistorySlug) } }))
   return { paths, fallback: false }
 }
 
 export async function getStaticProps({ params }) {
-  const meta = posts.find(p => String(p.slug) === params.slug)
+  const meta = posts.find(p => String(p.tistorySlug) === params.slug)
   if (!meta) return { notFound: true }
 
   let postData = null
   try {
-    const mod = require('../posts/' + meta.id + '.js')
+    const mod = require('../../posts/' + meta.id + '.js')
     postData = mod.default || mod
   } catch (e) {
     return { notFound: true }
@@ -35,7 +34,7 @@ export async function getStaticProps({ params }) {
       let relThumb = p.thumbnail
       if (!relThumb) {
         try {
-          const rm = require('../posts/' + p.id + '.js')
+          const rm = require('../../posts/' + p.id + '.js')
           const rd = rm.default || rm
           const ri = rd.sections.find(s => s.type === 'image')
           relThumb = ri ? ri.src : null
@@ -164,9 +163,10 @@ function RelatedCard({ post }) {
     '애니메이션': { bg: '#e0f2f1', text: '#00695c' },
   }
   const cat = CATEGORY_COLORS[post.category] || { bg: '#f5f5f5', text: '#666' }
+  const postUrl = getPostUrl(post)
 
   return (
-    <a href={getPostUrl(post)} className="related-card" style={{
+    <a href={postUrl} className="related-card" style={{
       textDecoration: 'none', color: 'inherit',
       display: 'flex', flexDirection: 'column',
       borderRadius: 10, overflow: 'hidden',
@@ -194,16 +194,16 @@ function RelatedCard({ post }) {
   )
 }
 
-export default function PostPage({ meta, postData, related }) {
+export default function EntryPostPage({ meta, postData, related }) {
   if (!meta || !postData) return null
 
-  const canonicalUrl = 'https://ambitstock.com/' + meta.slug + '/'
+  const canonicalUrl = 'https://ambitstock.com/entry/' + meta.tistorySlug + '/'
   const jsonLd = {
     '@context': 'https://schema.org', '@type': 'Article',
     headline: meta.title, description: meta.description,
     datePublished: meta.date, dateModified: meta.date,
-    author: { '@type': 'Organization', name: 'R\uc758 \ud544\ub984\uacf5\uc7a5' },
-    publisher: { '@type': 'Organization', name: 'R\uc758 \ud544\ub984\uacf5\uc7a5', url: 'https://ambitstock.com' },
+    author: { '@type': 'Organization', name: 'R의 필름공장' },
+    publisher: { '@type': 'Organization', name: 'R의 필름공장', url: 'https://ambitstock.com' },
     mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalUrl },
   }
 
@@ -219,7 +219,7 @@ export default function PostPage({ meta, postData, related }) {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </Head>
 
-      <PageTracker slug={meta.slug} />
+      <PageTracker slug={meta.tistorySlug} />
 
       <article style={{ maxWidth: 720, margin: '0 auto' }}>
         <header style={{ marginBottom: 32, paddingBottom: 24, borderBottom: '1px solid var(--border-color, #eee)' }}>

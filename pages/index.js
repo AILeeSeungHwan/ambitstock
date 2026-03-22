@@ -4,6 +4,7 @@ import Layout from '../components/Layout'
 import PostCard, { FeaturedCard, ListCard } from '../components/PostCard'
 import AdUnit from '../components/AdUnit'
 import PageTracker from '../components/PageTracker'
+import getPostUrl from '../lib/getPostUrl'
 
 const POSTS_PER_PAGE = 12
 
@@ -222,7 +223,7 @@ export default function Home({ posts, catCount, trendPosts }) {
             }}>
               <h3 style={{ fontSize: 13, fontWeight: 700, margin: '0 0 14px', opacity: 0.5 }}>추천 포스팅</h3>
               {sorted.slice(0, 5).map((post, i) => (
-                <a key={post.id} href={'/' + post.slug + '/'} style={{
+                <a key={post.id} href={getPostUrl(post)} style={{
                   display: 'flex', gap: 10, alignItems: 'flex-start',
                   padding: '10px 0', textDecoration: 'none', color: 'inherit',
                   borderBottom: i < 4 ? '1px solid var(--border-color, #f0f0f0)' : 'none',
@@ -327,7 +328,7 @@ export default function Home({ posts, catCount, trendPosts }) {
             {trendPosts.map(post => (
               <a
                 key={post.id}
-                href={'/' + post.slug + '/'}
+                href={getPostUrl(post)}
                 className="trend-card"
                 style={{
                   flexShrink: 0,
@@ -440,7 +441,7 @@ export default function Home({ posts, catCount, trendPosts }) {
                   <span style={{ fontSize: 11, opacity: 0.35, marginLeft: 'auto' }}>{ottPosts.length}편</span>
                 </div>
                 {ottPosts.slice(0, 3).map(post => (
-                  <a key={post.id} href={'/' + post.slug + '/'} style={{
+                  <a key={post.id} href={getPostUrl(post)} style={{
                     display: 'block', padding: '8px 0', textDecoration: 'none', color: 'inherit',
                     borderTop: '1px solid var(--border-color, #f0f0f0)', fontSize: 13,
                     lineHeight: 1.4, fontWeight: 500,

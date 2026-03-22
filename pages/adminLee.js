@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import Head from 'next/head'
 import posts from '../data/posts'
+import getPostUrl from '../lib/getPostUrl'
 
 const SOURCE_LABELS = {
   google: { name: 'Google', color: '#4285F4', icon: '🔍' },
@@ -40,10 +41,10 @@ export default function AdminLee() {
     setIndexResult(null)
     let urls = []
     if (mode === 'all') {
-      urls = ['https://ambitstock.com/', ...posts.map(p => 'https://ambitstock.com/' + p.slug + '/')]
+      urls = ['https://ambitstock.com/', ...posts.map(p => 'https://ambitstock.com' + getPostUrl(p))]
     } else if (mode === 'recent') {
       const sorted = [...posts].sort((a, b) => new Date(b.date) - new Date(a.date))
-      urls = sorted.slice(0, 10).map(p => 'https://ambitstock.com/' + p.slug + '/')
+      urls = sorted.slice(0, 10).map(p => 'https://ambitstock.com' + getPostUrl(p))
     } else if (mode === 'main') {
       urls = ['https://ambitstock.com/']
     }
@@ -262,7 +263,7 @@ export default function AdminLee() {
                       <tr key={s.slug} style={{ borderBottom: '1px solid #f3f4f6' }}>
                         <td style={tdStyle}>{i + 1}</td>
                         <td style={{ ...tdStyle, textAlign: 'left' }}>
-                          <a href={'/' + s.slug + '/'} target="_blank" rel="noopener"
+                          <a href={(posts.find(p => p.slug === s.slug || p.tistorySlug === s.slug) ? getPostUrl(posts.find(p => p.slug === s.slug || p.tistorySlug === s.slug)) : '/' + s.slug + '/')} target="_blank" rel="noopener"
                             style={{ color: '#e50914', textDecoration: 'none', fontSize: 12 }}>
                             {s.title.length > 40 ? s.title.slice(0, 40) + '...' : s.title}
                           </a>
