@@ -263,6 +263,21 @@ export default function Home({ posts, catCount, trendPosts }) {
     }}>
       <PageTracker slug="main" />
 
+      {/* ─── 지금 뜨는 작품 ─── */}
+      <section style={{ marginBottom: 48 }}>
+        <SectionHeader icon="🔥" title="지금 뜨는 작품" />
+        <div style={{ marginBottom: 16 }}>
+          <FeaturedCard post={trending[0]} />
+        </div>
+        <div className="trending-grid" style={{
+          display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: 14,
+        }}>
+          {trending.slice(1, 6).map(post => (
+            <PostCard key={post.id} post={post} />
+          ))}
+        </div>
+      </section>
+
       {/* ─── 히어로: 오늘 뭐 볼까? ─── */}
       <section style={{
         textAlign: 'center', padding: '48px 20px 32px',
@@ -296,21 +311,6 @@ export default function Home({ posts, catCount, trendPosts }) {
               <span style={{ fontSize: 16 }}>{mood.icon}</span>
               <span>{mood.label}</span>
             </button>
-          ))}
-        </div>
-      </section>
-
-      {/* ─── 지금 뜨는 작품 ─── */}
-      <section style={{ marginBottom: 48 }}>
-        <SectionHeader icon="🔥" title="지금 뜨는 작품" />
-        <div style={{ marginBottom: 16 }}>
-          <FeaturedCard post={trending[0]} />
-        </div>
-        <div className="trending-grid" style={{
-          display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: 14,
-        }}>
-          {trending.slice(1, 6).map(post => (
-            <PostCard key={post.id} post={post} />
           ))}
         </div>
       </section>
