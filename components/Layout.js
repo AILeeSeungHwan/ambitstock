@@ -517,41 +517,27 @@ function AnimationLayer({ type }) {
     </>
   )
 
-  /* ── 로키 (프로젝트 헤일메리 — 이미지 누끼 + 우주 배경) ── */
+  /* ── 로키 (프로젝트 헤일메리 — rocky2.png 배경) ── */
   if (type === 'rocky') return (
     <>
       <style>{`
-        /* ─── 우주 배경 (영화 색감) ─── */
-        .rk-space { position:fixed; inset:0; pointer-events:none; z-index:0; background: radial-gradient(ellipse 70% 55% at 48% 42%, rgba(100,78,32,0.12) 0%, transparent 70%), radial-gradient(ellipse 40% 35% at 78% 28%, rgba(60,48,22,0.08) 0%, transparent 60%), radial-gradient(ellipse 45% 40% at 18% 68%, rgba(70,52,24,0.07) 0%, transparent 65%), radial-gradient(ellipse 25% 20% at 85% 72%, rgba(45,38,55,0.06) 0%, transparent 55%); }
-        .rk-nebula { position:fixed; pointer-events:none; z-index:0; border-radius:50%; filter:blur(80px); animation:rk-neb 22s ease-in-out infinite; }
-        @keyframes rk-neb { 0%,100%{opacity:0.04;transform:scale(1)} 50%{opacity:0.08;transform:scale(1.06)} }
-        /* ─── 별 반짝임 ─── */
+        /* ─── 배경 이미지 ─── */
+        .rk-bg { position:fixed; inset:0; pointer-events:none; z-index:0; background:url('/images/rocky2.png') center/cover no-repeat; opacity:0.18; }
+        /* ─── 별 반짝임 (3종 불규칙) ─── */
         @keyframes tw-a { 0%,100%{opacity:.1;transform:scale(.8)} 20%{opacity:.95;transform:scale(1.5)} 45%{opacity:.2;transform:scale(1)} 70%{opacity:.8;transform:scale(1.3)} }
         @keyframes tw-b { 0%,100%{opacity:.15;transform:scale(1)} 30%{opacity:1;transform:scale(1.6)} 60%{opacity:.1;transform:scale(.9)} 80%{opacity:.55;transform:scale(1.1)} }
         @keyframes tw-c { 0%,100%{opacity:.2} 15%{opacity:.4} 50%{opacity:1;transform:scale(1.4)} 65%{opacity:.12} }
-        .rk-star { position:fixed; border-radius:50%; pointer-events:none; z-index:0; }
+        .rk-star { position:fixed; border-radius:50%; pointer-events:none; z-index:1; }
         .rk-star-b::before,.rk-star-b::after { content:''; position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); background:inherit; border-radius:1px; }
         .rk-star-b::before { width:1px; height:250%; }
         .rk-star-b::after { width:250%; height:1px; }
-        /* ─── 우주선 (실제 이미지 누끼) ─── */
-        .rk-ship { position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); pointer-events:none; z-index:1; width:75vw; max-width:1000px; height:50vh; background:url('/images/theme_hailmary_ship.png') center/contain no-repeat; mix-blend-mode:lighten; opacity:0.45; animation:rk-ship-p 10s ease-in-out infinite; }
-        @keyframes rk-ship-p { 0%,100%{opacity:.45;filter:brightness(1)} 50%{opacity:.55;filter:brightness(1.15)} }
-        /* ─── 로키 (실제 이미지 누끼, 고정) ─── */
-        .rk-rocky { position:fixed; bottom:5vh; right:5vw; pointer-events:none; z-index:2; width:160px; height:160px; background:url('/images/rocky.png') center/contain no-repeat; mix-blend-mode:lighten; opacity:0.22; filter:drop-shadow(0 0 20px rgba(42,206,160,0.15)); animation:rk-float 8s ease-in-out infinite; }
-        @keyframes rk-float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-10px)} }
         /* ─── 별똥별 ─── */
         @keyframes rk-met { 0%{transform:translateX(0) translateY(0);opacity:0;width:0} 2%{opacity:.9} 12%{width:150px} 100%{transform:translateX(-750px) translateY(500px);opacity:0;width:0} }
         .rk-meteor { position:fixed; pointer-events:none; z-index:1; height:1.5px; border-radius:1px; background:linear-gradient(90deg,rgba(232,200,126,.95),rgba(200,168,110,.4),transparent); animation:rk-met linear infinite; }
-        /* ─── 모바일 ─── */
-        @media(max-width:768px) { .rk-ship{width:95vw;height:35vh;opacity:.3} .rk-rocky{width:100px;height:100px;opacity:.16;right:3vw;bottom:3vh} }
       `}</style>
-      {/* 우주 배경 */}
-      <div className="rk-space" />
-      {/* 성운 */}
-      <div className="rk-nebula" style={{top:'12%',left:'8%',width:'45vw',height:'40vh',background:'radial-gradient(circle,rgba(110,80,30,0.18),transparent 70%)'}} />
-      <div className="rk-nebula" style={{top:'55%',right:'5%',width:'35vw',height:'35vh',background:'radial-gradient(circle,rgba(50,42,70,0.12),transparent 70%)',animationDelay:'-9s'}} />
-      <div className="rk-nebula" style={{bottom:'8%',left:'35%',width:'30vw',height:'25vh',background:'radial-gradient(circle,rgba(85,60,25,0.1),transparent 70%)',animationDelay:'-16s'}} />
-      {/* 별 — 70개 */}
+      {/* rocky2.png 배경 */}
+      <div className="rk-bg" />
+      {/* 별 — 70개, 3레이어 불규칙 반짝임 */}
       {Array.from({length:70}).map((_,i) => {
         const L = i<38?0:i<58?1:2
         const sz = L===0?(0.6+(i%3)*0.4):L===1?(1.4+(i%3)*0.7):(2.5+(i%2)*1.5)
@@ -559,10 +545,6 @@ function AnimationLayer({ type }) {
         const cl = ['#ffffff','#c8a86e','#8888cc','#ffcc88','#99ccff','#ffe8a0'][i%6]
         return <div key={'s'+i} className={'rk-star'+(L===2?' rk-star-b':'')} style={{left:((i*7.3+3.7*(i%7)+2)%98+1)+'%',top:((i*11.3+5.1*(i%5)+1)%88+1)+'%',width:sz+'px',height:sz+'px',background:cl,animationName:an,animationDuration:(2.5+(i*1.3)%5)+'s',animationDelay:(i*.47)%7+'s',animationTimingFunction:'ease-in-out',animationIterationCount:'infinite',boxShadow:L===2?'0 0 '+(sz*3)+'px '+cl:'none'}} />
       })}
-      {/* 헤일메리 우주선 (이미지) */}
-      <div className="rk-ship" />
-      {/* 로키 (이미지, 고정) */}
-      <div className="rk-rocky" />
       {/* 별똥별 */}
       {Array.from({length:5}).map((_,i) => {
         const ts=[6,20,35,52,14], ds=[4.5,6.5,3.8,5.5,7.5], dl=[4,13,7,20,28]
