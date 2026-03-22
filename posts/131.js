@@ -27,8 +27,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>피스 바이 피스 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>피스 바이 피스 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post131_img1.jpg', alt: '피스 바이 피스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 83%, 관객 평점 90%입니다.</b></span></p>'
@@ -55,6 +56,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>피스 바이 피스 관람평 평론가 결말후기 포토입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post131_img2.jpg', alt: '피스 바이 피스 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Maria Lattila - 평점: 4/5 (오리지널 스코어: 4/5)</b><br>영화의 마지막 장면은 서두르게 느껴지지만, *피스 바이 피스*는 매력적이고 재미있는 영화 제작 방식을 보여준다.</br></p>'
@@ -126,6 +128,14 @@ const post = {
       type: 'body',
       html: '<p><b></b><br/>피스 바이 피스는 \'조각씩\' 또는 \'한 조각씩\'이라는 의미를 가진 영어 구절입니다.</p>'
     },
+    { type: 'image', src: '/images/post131_img10.jpg', alt: '피스 바이 피스 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post131_img9.jpg', alt: '피스 바이 피스 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post131_img8.jpg', alt: '피스 바이 피스 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post131_img7.jpg', alt: '피스 바이 피스 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post131_img6.jpg', alt: '피스 바이 피스 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post131_img5.jpg', alt: '피스 바이 피스 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post131_img4.jpg', alt: '피스 바이 피스 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post131_img3.jpg', alt: '피스 바이 피스 관람평 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>일반적으로 어떤 일을 차근차근, 서서히 이루어 나가는 과정을 나타낼 때 사용됩니다. 여기서 \'피스\'는 \'조각\'을 의미하며, \'피스 바이 피스\'는 일의 모든 부분을 조금씩 쌓아가거나 마무리해 나가는 방식에 대해 말하는 표현입니다.</p>'

@@ -177,6 +177,20 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Victoria Luxford (City AM):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;Perfect Days는 느린 영화로서 큰 소리를 내지 않지만, 함께 할 준비가 된 사람에게는 매력적입니다.&quot;</span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post408_img13.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img12.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img11.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img10.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img9.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img8.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img7.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img6.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img5.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img4.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img3.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img2.jpg', alt: '영화 퍼펙트 데이즈 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post408_img1.jpg', alt: '영화 퍼펙트 데이즈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Joe Friar (Fort Worth Report):</b><br/><span style=&quot;color: orange;&quot;>★★★★☆</span><br/>&quot;어떠한 선입견도 버려라. Wim Wenders의 화장실 청소부 드라마는 아름다움 그 자체입니다. 거의 완벽한 영화입니다.&quot;</span></p>'

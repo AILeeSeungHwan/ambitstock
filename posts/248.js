@@ -35,7 +35,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p>안성재 셰프가 처음 심사위원으로 등장하였을 때 이 분이 누구인지 <span style=&quot;color: #333333; text-align: start;&quot;>시청자의 90%는<span> 몰랐을 것이라 생각됩니다. 1화를 볼 당시, \'당신은 누구십니까? 얼마나 대단하신 분일지 한번 봅시다!\'라는 생각이 피어나던 찰나 첫 심사에서부터 알게 되었습니다. 와 엄청난 사람이구나.</span></span></p>'
+      html: '<p>안성재 셰프가 처음 심사위원으로 등장하였을 때 이 분이 누구인지 <span style=&quot;color: inherit; text-align: start;&quot;>시청자의 90%는<span> 몰랐을 것이라 생각됩니다. 1화를 볼 당시, \'당신은 누구십니까? 얼마나 대단하신 분일지 한번 봅시다!\'라는 생각이 피어나던 찰나 첫 심사에서부터 알게 되었습니다. 와 엄청난 사람이구나.</span></span></p>'
     },
     {
       type: 'body',
@@ -71,7 +71,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>시즌2는<span> </span><b>스튜디오슬램</b>의 김학민, 김은지 PD와 모은설 작가가 다시 함께하며, 더욱 업그레이드된 요리 서바이벌을 선보일 예정입니다. <span style=&quot;background-color: #9feec3;&quot;><b>시즌2는 내년 하반기 공개를 목표로 제작이 진행 중</b></span>이며, 김학민 PD는 시청자들의 성원에 감사함을 표하며, 더욱 완성도 높은 시즌2를 위해 최선을 다하겠다는 포부를 전했습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>시즌2는<span> </span><b>스튜디오슬램</b>의 김학민, 김은지 PD와 모은설 작가가 다시 함께하며, 더욱 업그레이드된 요리 서바이벌을 선보일 예정입니다. <span style=&quot;background-color: #9feec3;&quot;><b>시즌2는 내년 하반기 공개를 목표로 제작이 진행 중</b></span>이며, 김학민 PD는 시청자들의 성원에 감사함을 표하며, 더욱 완성도 높은 시즌2를 위해 최선을 다하겠다는 포부를 전했습니다.</p>'
     },
     {
       type: 'body',
@@ -85,6 +85,13 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post248_img6.jpg', alt: '흑백요리사 시즌 2 제작 공개일', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post248_img5.jpg', alt: '흑백요리사 시즌 1 우승자 권성준', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post248_img4.jpg', alt: '흑백요리사 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post248_img3.jpg', alt: '흑백요리사 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post248_img2.jpg', alt: '흑백요리사 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post248_img1.jpg', alt: '흑백요리사 시즌 2 제작 공개일', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

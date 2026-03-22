@@ -56,19 +56,28 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;>인도네시아(CGV Indonesia), 대만(Moviecloud), 캄보디아(Westec Media), 일본(Rightscube) 등 다양한 해외 매체들이 한국 영화 &quot;핸섬가이즈&quot;에 대해 긍정적인 반응을 보였습니다.<br/><br/>인도네시아의 CGV Indonesia는 “지난 몇 년 동안 한국 영화가 더 많은 인지도를 얻고 더 많은 관객을 확보했다”며, “재미있는 캐릭터와 초자연적인 반전이 있는 독특한 코미디 영화로 인도네시아 관객들에게 신선하게 다가갈 수 있기를 바란다”고 밝혔습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>인도네시아(CGV Indonesia), 대만(Moviecloud), 캄보디아(Westec Media), 일본(Rightscube) 등 다양한 해외 매체들이 한국 영화 &quot;핸섬가이즈&quot;에 대해 긍정적인 반응을 보였습니다.<br/><br/>인도네시아의 CGV Indonesia는 “지난 몇 년 동안 한국 영화가 더 많은 인지도를 얻고 더 많은 관객을 확보했다”며, “재미있는 캐릭터와 초자연적인 반전이 있는 독특한 코미디 영화로 인도네시아 관객들에게 신선하게 다가갈 수 있기를 바란다”고 밝혔습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: center;&quot;>영화 핸섬 가이즈의 제작사는 하이브미디어코프로 서울의 봄, 남산의 부장들, 내부자들을 제작하였다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;>영화 핸섬 가이즈의 제작사는 하이브미디어코프로 서울의 봄, 남산의 부장들, 내부자들을 제작하였다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;><br/>대만의 Moviecloud는 영화의 “독보적인 컨셉과 뛰어난 작품성”에 주목했고, 캄보디아의 Westec Media는 “코미디 영화의 매력뿐만 아니라 독특하고 오락성이 있는 작품”에 대해 기대감을 드러냈습니다.<br/><br/>일본의 Rightscube는 영화가 가진 다채로운 매력 중에서도 특히 “이성민과 이희준 두 배우의 열연을 주목할 만하다”고 언급했습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><br/>대만의 Moviecloud는 영화의 “독보적인 컨셉과 뛰어난 작품성”에 주목했고, 캄보디아의 Westec Media는 “코미디 영화의 매력뿐만 아니라 독특하고 오락성이 있는 작품”에 대해 기대감을 드러냈습니다.<br/><br/>일본의 Rightscube는 영화가 가진 다채로운 매력 중에서도 특히 “이성민과 이희준 두 배우의 열연을 주목할 만하다”고 언급했습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post417_img8.jpg', alt: '영화 핸섬 가이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post417_img7.jpg', alt: '영화 핸섬가이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post417_img6.jpg', alt: '핸섬가이즈 이규형', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post417_img5.jpg', alt: '핸섬가이즈 박지환', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post417_img4.jpg', alt: '핸섬가이즈 공승연', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post417_img3.jpg', alt: '핸섬가이즈 이성민', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post417_img2.jpg', alt: '핸섬가이즈 이희준', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post417_img1.jpg', alt: '영화 핸섬 가이즈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;><br/>이러한 해외 매체들의 반응을 종합해 보면, &quot;핸섬가이즈&quot;는 다양한 국가에서 그 독특한 컨셉과 뛰어난 작품성, 그리고 배우들의 열연으로 입소문과 함께 흥행을 이어가고 있습니다. 해외성과에 대한 좋은 소식이 울리길 기대하는 바입니다. 아직 영화를 보지 않은 분들은 영화 &quot;핸섬 가이즈&quot; 꼭 예매 시간 확인하시고 시청하시길 바랍니다. </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><br/>이러한 해외 매체들의 반응을 종합해 보면, &quot;핸섬가이즈&quot;는 다양한 국가에서 그 독특한 컨셉과 뛰어난 작품성, 그리고 배우들의 열연으로 입소문과 함께 흥행을 이어가고 있습니다. 해외성과에 대한 좋은 소식이 울리길 기대하는 바입니다. 아직 영화를 보지 않은 분들은 영화 &quot;핸섬 가이즈&quot; 꼭 예매 시간 확인하시고 시청하시길 바랍니다. </p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

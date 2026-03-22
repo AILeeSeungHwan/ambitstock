@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>로튼 토마토 평론가 관객 극찬을 받은 영화 수퍼 소닉 3 관람평 시사회 후기입니다.</p>'
     },
+    { type: 'image', src: '/images/post140_img1.jpg', alt: '수퍼 소닉.3', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section2',
@@ -31,8 +32,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>수퍼 소닉 3 Sonic the Hedgehog 3 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>수퍼 소닉 3 Sonic the Hedgehog 3 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
     },
+    { type: 'image', src: '/images/post140_img2.jpg', alt: '수퍼 소닉 3 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 86%, 관객 평점 98%입니다.</b></span></p>'
@@ -59,6 +61,14 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>수퍼 소닉 3 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post140_img10.jpg', alt: '수퍼 소닉 3 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post140_img9.jpg', alt: '수퍼 소닉 3 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post140_img8.jpg', alt: '수퍼 소닉 3 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post140_img7.jpg', alt: '수퍼 소닉 3 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post140_img6.jpg', alt: '수퍼 소닉 3 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post140_img5.jpg', alt: '수퍼 소닉 3 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post140_img4.jpg', alt: '수퍼 소닉 3 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post140_img3.jpg', alt: '수퍼 소닉 3 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Maxance Vincent - 평점(4.5/5)</b><br>라이브 액션 캐릭터들이 애니메이션 캐릭터들보다 이야기 속에 잘 통합되지 않았지만, <b>수퍼 소닉 3은</b> 첫 번째 영화보다 확실히 개선된 작품으로, 가장 훌륭한 비디오 게임 영화로 손꼽힐 수 있다.</br></p>'

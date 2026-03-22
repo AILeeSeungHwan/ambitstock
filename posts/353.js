@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>영화 빅토리 시사회 반응 및 평점 후기 입니다. </span></b></p><p>2024년 8월 14일 개봉하는 영화 빅토리(영어제목 : Victory) 는 <b>에일리언 로물루스, 트위스터스, 행복의 나라</b> 등 올해 최고 기대작들과 같은 날 개봉하며, 개봉일 선정이 미스 초이스라는 평이 많지만, 시사회 평은 <span style=&quot;background-color: #01ff51;&quot;><b><span style=&quot;color: #333333; text-align: start;&quot;>결과물이 영화 \'써니\' 재질의 </span>상당히 잘 만들어진 영화라는 긍정적인 평가</b></span>들이 주를 이루고 있습니다. </p><p><span style=&quot;background-color: #ffffff;&quot;>영화 빅토리 줄거리 개요와 함께 평점 후기반응 살펴보겠습니다.</span></p>'
+      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>영화 빅토리 시사회 반응 및 평점 후기 입니다. </span></b></p><p>2024년 8월 14일 개봉하는 영화 빅토리(영어제목 : Victory) 는 <b>에일리언 로물루스, 트위스터스, 행복의 나라</b> 등 올해 최고 기대작들과 같은 날 개봉하며, 개봉일 선정이 미스 초이스라는 평이 많지만, 시사회 평은 <span style=&quot;background-color: #01ff51;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>결과물이 영화 \'써니\' 재질의 </span>상당히 잘 만들어진 영화라는 긍정적인 평가</b></span>들이 주를 이루고 있습니다. </p><p><span style=&quot;background-color: transparent;&quot;>영화 빅토리 줄거리 개요와 함께 평점 후기반응 살펴보겠습니다.</span></p>'
     },
     {
       type: 'image',
@@ -112,6 +112,13 @@ const post = {
       type: 'body',
       html: '<p>평점과 후기 출처는 왓챠피디어입니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post353_img6.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post353_img5.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post353_img4.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post353_img3.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post353_img2.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post353_img1.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>더 많은 반응은 왓챠피디어에서 확인 가능합니다.</p>'

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post188_img1.jpg', alt: '넷플릭스 영화 추천 조이의 탄생', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>조이의 탄생 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>조이의 탄생 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
     },
+    { type: 'image', src: '/images/post188_img2.jpg', alt: '조이의 탄생 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;620&quot; data-origin-width=&quot;1868&quot;><span data-alt=&quot;조이의 탄생 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/k5FA4/btsKQbCnfFq/AAAAAAAAAAAAAAAAAAAAACo_SHgDoyn7sLZkDb2YqVl7AceAnWteSRJJFbV0Xi3-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K6SXS98gucMVTIpp1i3qgmWodJo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/k5FA4/btsKQbCnfFq/AAAAAAAAAAAAAAAAAAAAACo_SHgDoyn7sLZkDb2YqVl7AceAnWteSRJJFbV0Xi3-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K6SXS98gucMVTIpp1i3qgmWodJo%3D&quot;></span><figcaption>조이의 탄생 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
@@ -78,6 +80,14 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>피아노 레슨 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post188_img10.jpg', alt: '조이의 탄생', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post188_img9.jpg', alt: '조이의 탄생', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post188_img8.jpg', alt: '조이의 탄생', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post188_img7.jpg', alt: '조이의 탄생', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post188_img6.jpg', alt: '조이의 탄생', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post188_img5.jpg', alt: '조이의 탄생', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post188_img4.jpg', alt: '조이의 탄생 JOY 평점 관람평 결말 후기 해외 반응 <넷플릭스 영화 추천>', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post188_img3.jpg', alt: '조이의 탄생 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Robert Kojder - 평점 3/5</span></i><br>산만한 내러티브를 진정성과 Thomasin McKenzie와 Bill Nighy의 감동적인 연기로 극복한다.</br></p>'

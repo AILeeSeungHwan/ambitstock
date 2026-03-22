@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;806&quot; data-origin-width=&quot;1388&quot;><span data-alt=&quot;월레스와 그로밋: 복수의 날개&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/brNBT4/btsLAECSplb/AAAAAAAAAAAAAAAAAAAAAGtJtay7npYRw3A-ykLPntjKMIrCJvDZ4jxdnj_DqaDZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rDhdzB4OmptYgcF7SumeVJTQy7s%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/brNBT4/btsLAECSplb/AAAAAAAAAAAAAAAAAAAAAGtJtay7npYRw3A-ykLPntjKMIrCJvDZ4jxdnj_DqaDZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rDhdzB4OmptYgcF7SumeVJTQy7s%3D&quot;></span><figcaption>월레스와 그로밋: 복수의 날개</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post111_img1.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section2',
@@ -31,8 +32,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>월레스와 그로밋: 복수의 날개 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>월레스와 그로밋: 복수의 날개 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post111_img2.jpg', alt: '월레스와 그로밋: 복수의 날개 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;352&quot; data-origin-width=&quot;1120&quot;><span data-alt=&quot;월레스와 그로밋: 복수의 날개 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/zM7kG/btsLxEYZOXP/AAAAAAAAAAAAAAAAAAAAAPfml1mfPssUsYJUJyYQ-EgZg7njZiW_1fvvYRy-7io9/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xjLZKQqXoKNfz1%2BGNxDlLfC95QE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/zM7kG/btsLxEYZOXP/AAAAAAAAAAAAAAAAAAAAAPfml1mfPssUsYJUJyYQ-EgZg7njZiW_1fvvYRy-7io9/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xjLZKQqXoKNfz1%2BGNxDlLfC95QE%3D&quot;></span><figcaption>월레스와 그로밋: 복수의 날개 평점</figcaption> </figure> </p>'
@@ -59,6 +61,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>월레스와 그로밋: 복수의 날개 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post111_img9.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post111_img8.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post111_img7.jpg', alt: '월레스와 그로밋: 복수의 날개 펭귄', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post111_img6.jpg', alt: '월레스와 그로밋: 복수의 날개 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post111_img5.jpg', alt: '월레스와 그로밋 : 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post111_img4.jpg', alt: '월레스와 그로밋: 복수의 날개 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post111_img3.jpg', alt: '월레스와 그로밋: 복수의 날개 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;572&quot; data-origin-width=&quot;1035&quot;><span data-alt=&quot;월레스와 그로밋: 복수의 날개 포토&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/p2aMf/btsLAX3kOsp/AAAAAAAAAAAAAAAAAAAAAB7PFabj47Oxq8L2ckSj8c7OAA8pcmjZH1Olb4UewUSi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=IPEahg1UG8CRkScyAZZeZQ4oWo8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/p2aMf/btsLAX3kOsp/AAAAAAAAAAAAAAAAAAAAAB7PFabj47Oxq8L2ckSj8c7OAA8pcmjZH1Olb4UewUSi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=IPEahg1UG8CRkScyAZZeZQ4oWo8%3D&quot;></span><figcaption>월레스와 그로밋: 복수의 날개 포토</figcaption> </figure> </p>'

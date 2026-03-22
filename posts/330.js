@@ -118,6 +118,15 @@ const post = {
       type: 'body',
       html: '<p><b>베테랑 2 개봉일은 </b>9월 13일이며, 관객들이 이 속편에서 어떤 새로운 매력을 발견할 수 있을지 기대가 모아지고 있습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post330_img8.jpg', alt: '베테랑 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post330_img7.jpg', alt: '베테랑 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post330_img6.jpg', alt: '베테랑 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post330_img5.jpg', alt: '베테라 2 장윤주', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post330_img4.jpg', alt: '베테랑 2 오달수', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post330_img3.jpg', alt: '베테랑 2 정해인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post330_img2.jpg', alt: '베테랑 2 황정민', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post330_img1.jpg', alt: '베테랑 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>베테랑 2의 칸 영화제 시사회 반응은 아래 포스팅을 확인해 보세요.</p>'

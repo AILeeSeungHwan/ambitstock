@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>드디어 볼만한 넷플릭스 영화가 나왔습니다. 영화 레블리지 (영어제목 Rebel Ridge)의 뜻 의미와 평점 포스팅입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>최근 나온 넷플릭스 영화들이 졸작으로 평가를 받으며 넷플릭스 영화에 대한 기대감이 낮아져있었습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>하지만 이번에 공개된 레블리지, 해외 평가부터 국내 반응까지 좋은 결과를 이끌어내고 있습니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>드디어 볼만한 넷플릭스 영화가 나왔습니다. 영화 레블리지 (영어제목 Rebel Ridge)의 뜻 의미와 평점 포스팅입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>최근 나온 넷플릭스 영화들이 졸작으로 평가를 받으며 넷플릭스 영화에 대한 기대감이 낮아져있었습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>하지만 이번에 공개된 레블리지, 해외 평가부터 국내 반응까지 좋은 결과를 이끌어내고 있습니다.</p>'
     },
     {
       type: 'image',
@@ -15,11 +15,11 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>넷플릭스 영화 레블리지 포스팅, 시작하겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>넷플릭스 영화 레블리지 포스팅, 시작하겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>레블리지 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>레블리지 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -27,19 +27,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 95%, 관람객 평점 79%의 레블리<span style=&quot;background-color: #9feec3;&quot;>지</span>입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 95%, 관람객 평점 79%의 레블리<span style=&quot;background-color: #9feec3;&quot;>지</span>입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>최근에 나온 넷플릭스 영화 평점이 처참한 것에 비해 굉장히 높은 점수를 기록 중인 레브리지입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>최근에 나온 넷플릭스 영화 평점이 처참한 것에 비해 굉장히 높은 점수를 기록 중인 레브리지입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>특히나 평론가 평점 95%는 명작반열에 있음을 의미하며, 신선도 보증마크까지 획득하며 좋은 평가를 기록하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>특히나 평론가 평점 95%는 명작반열에 있음을 의미하며, 신선도 보증마크까지 획득하며 좋은 평가를 기록하였습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>레블리지 볼지 말지 고민하시는 분들은 걱정없이 시청하셔도 무방할 것입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>레블리지 볼지 말지 고민하시는 분들은 걱정없이 시청하셔도 무방할 것입니다.</p>'
     },
     {
       type: 'body',
@@ -105,6 +105,10 @@ const post = {
       type: 'body',
       html: '<p class=&quot;og-host&quot;>ambitstock.com</p>'
     },
+    ,
+    { type: 'image', src: '/images/post316_img3.jpg', alt: '넷플릭스 영화 추천 레블리지', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post316_img2.jpg', alt: '영화 레블리지 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post316_img1.jpg', alt: '넷플릭스 영화 추천 레블리지', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p> </p>'

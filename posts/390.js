@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</span></b></p><p style=&quot;color: #333333; text-align: start;&quot;>2024년 7월 3주차 신작, 한국 넷플릭스 인기 순위 2위 영화 마담 웹 (영어제목 madame web) 입니다.</p><p>영화 제목인 마담 웹의 뜻은 프랑스어에서 기혼 여성을 귀하게 부르는 말인 madame에 거미줄의 web을 합친 의미 입니다.</p>'
+      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</span></b></p><p style=&quot;color: inherit; text-align: start;&quot;>2024년 7월 3주차 신작, 한국 넷플릭스 인기 순위 2위 영화 마담 웹 (영어제목 madame web) 입니다.</p><p>영화 제목인 마담 웹의 뜻은 프랑스어에서 기혼 여성을 귀하게 부르는 말인 madame에 거미줄의 web을 합친 의미 입니다.</p>'
     },
     {
       type: 'image',
@@ -23,31 +23,31 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>영화 마담 웹에 대한 로튼토마토 <span><span style=&quot;color: #333333; text-align: start;&quot;>평점과 </span></span><b><span style=&quot;background-color: #f3c000;&quot;>평론가 결말 후기를 종합적으로 살핀 객관적인 정보</span></b>를 바탕으로</p>'
+      html: '<p>영화 마담 웹에 대한 로튼토마토 <span><span style=&quot;color: inherit; text-align: start;&quot;>평점과 </span></span><b><span style=&quot;background-color: #f3c000;&quot;>평론가 결말 후기를 종합적으로 살핀 객관적인 정보</span></b>를 바탕으로</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>마담 웹 볼지 말지, 볼만한 영화인지 딱 정해드리겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>마담 웹 볼지 말지, 볼만한 영화인지 딱 정해드리겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>로튼토마토 마담 웹 평론가 평점과 관객평점 입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>로튼토마토 마담 웹 평론가 평점과 관객평점 입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>지금까지 알아본 모든 영화 중 평론가 평점 11% 라는 점수는 처음보았습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>지금까지 알아본 모든 영화 중 평론가 평점 11% 라는 점수는 처음보았습니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>관람객 평점도 57%로 쥐고 있던 팝콘도 던져버린 모양이네요.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>관람객 평점도 57%로 쥐고 있던 팝콘도 던져버린 모양이네요.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이쯤에서 그만 알아보고 총평 남겨도 되겠지만,</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이쯤에서 그만 알아보고 총평 남겨도 되겠지만,</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 마담 웹 후기 해외 반응은 어떠한지, 해외 리뷰 살펴보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 마담 웹 후기 해외 반응은 어떠한지, 해외 리뷰 살펴보겠습니다.</p>'
     },
     {
       type: 'body',
@@ -365,6 +365,17 @@ const post = {
       type: 'body',
       html: '<p>&quot;다코타 존슨이 주연을 맡은 이 최신 마블 슈퍼히어로 기원 이야기에는 어느 시점에서 미래의 스파이더맨 피터 파커의 탄생도 포함된다. 존슨은 미래를 볼 수 있는 카산드라 웹 역을 맡았고, 그녀의 어머니가 거미에게 물려서… 지루하다.&quot;</p>'
     },
+    ,
+    { type: 'image', src: '/images/post390_img10.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post390_img9.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post390_img8.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post390_img7.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post390_img6.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post390_img5.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post390_img4.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post390_img3.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post390_img2.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post390_img1.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>영화 마담 웹 (영어 제목 madame web) 후기 총평입니다.</p>'

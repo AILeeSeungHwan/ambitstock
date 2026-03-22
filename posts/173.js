@@ -29,6 +29,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post173_img1.jpg', alt: '엠알 나인 관람평 평점 결말 해외 반응 후기 < 예매 할지 말지 정해드림 >', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -62,8 +63,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>엠알 나인 로튼 토마토 평론가 관객 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>엠알 나인 로튼 토마토 평론가 관객 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post173_img2.jpg', alt: '영화 엠알 나인 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;624&quot; data-origin-width=&quot;1888&quot;><span data-alt=&quot;영화 엠알 나인 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bOqqFx/btsKTr6s2PZ/AAAAAAAAAAAAAAAAAAAAACOyQxj7czDv3Rd7qgIVZndHnjFSMP3InVm-3vQLCWs_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VoHiSAXkeWtf%2BLZsRpzBG18ItVE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bOqqFx/btsKTr6s2PZ/AAAAAAAAAAAAAAAAAAAAACOyQxj7czDv3Rd7qgIVZndHnjFSMP3InVm-3vQLCWs_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VoHiSAXkeWtf%2BLZsRpzBG18ItVE%3D&quot;></span><figcaption>영화 엠알 나인 로튼 토마토 평점</figcaption> </figure> </p>'
@@ -91,6 +93,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>엠알 나인 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post173_img8.jpg', alt: '엠알 나인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post173_img7.jpg', alt: '엠알 나인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post173_img6.jpg', alt: '엠알 나인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post173_img5.jpg', alt: '엠알 나인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post173_img4.jpg', alt: '엠알 나인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post173_img3.jpg', alt: '엠알 나인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Michael A. Smith</b><br><i>MediaMikes</i><br><b>Fresh score.</b><br/>배우들의 연기가 강렬하고, Akbar 감독의 속도감 있는 전개가 돋보인다.</br></br></p>'

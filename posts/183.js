@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post183_img1.jpg', alt: '영화 서브스턴스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>서브스턴스 Substance<br/></span>물질 본질</b></span><br><br/><br/></br></blockquote>'
     },
+    { type: 'image', src: '/images/post183_img2.jpg', alt: '서브스턴스 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 서브스턴스 (The Substance)의 제목은 <b>영어 단어 &quot;substance&quot;에서 유래하며, &quot;물질&quot; 또는 &quot;본질&quot;을 의미</b>합니다.</p>'
@@ -72,8 +74,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>서브스턴스 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>서브스턴스 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post183_img3.jpg', alt: '서브스턴스 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;368&quot; data-origin-width=&quot;1120&quot;><span data-alt=&quot;서브스턴스 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/nAdWz/btsKRkk2zkN/AAAAAAAAAAAAAAAAAAAAAP0F41cQHukEu-tDpTSgXflaN6pTpYp-uTxF3uKijJtb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=EXZw4zrOaFm9Lfz2QRGJX2ZDtOI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/nAdWz/btsKRkk2zkN/AAAAAAAAAAAAAAAAAAAAAP0F41cQHukEu-tDpTSgXflaN6pTpYp-uTxF3uKijJtb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=EXZw4zrOaFm9Lfz2QRGJX2ZDtOI%3D&quot;></span><figcaption>서브스턴스 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
@@ -101,6 +104,11 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>서브스턴스 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post183_img8.jpg', alt: '서브스턴스 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post183_img7.jpg', alt: '서브스턴스 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post183_img6.jpg', alt: '서브스턴스 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post183_img5.jpg', alt: '서브스턴스 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post183_img4.jpg', alt: '서브스턴스 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Louisa Moore - 평점(오리지널 스코어: Rotten)</span></i><br/>이 영화는 깊은 메시지를 전달한다고 주장하는 페미니즘 영화의 가장 외양을 가지고 있지만, 그 야망과 괴기스러움, 그리고 부인할 수 없는 도발적인 면모가 결국 자멸로 이어지게 한다.</p>'

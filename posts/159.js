@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post159_img1.jpg', alt: '더 폴: 디렉터스 컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>더 폴 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>더 폴 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post159_img2.jpg', alt: '더 폴 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post159_poster.jpg', alt: '포스트 159 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
@@ -71,6 +73,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>더 폴 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post159_img3.jpg', alt: '더 폴', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Gisela Savdie - 평점 없음</b><br>환상적인 이야기들이 소녀와 관객을<span style=&quot;background-color: #9feec3;&quot;><b> 멋진 배경과 풍경을 통해 안내</b></span>하며, 이는 이야기꾼, 사랑, 상상력의 힘, 그리고 영화에 대한 찬사를 의미한다. [스페인어로 작성된 전체 리뷰]</br></p>'
@@ -138,6 +141,14 @@ const post = {
       type: 'body',
       html: '<p>더 폴 (The Fall) 이라는 제목은 영화의 주제와 이야기를 함축적으로 담고 있다.</p>'
     },
+    { type: 'image', src: '/images/post159_img11.jpg', alt: '더 폴 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post159_img10.jpg', alt: '더 폴 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post159_img9.jpg', alt: '더 폴: 디렉터스 컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post159_img8.jpg', alt: '더 폴 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post159_img7.jpg', alt: '더 폴 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post159_img6.jpg', alt: '더 폴 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post159_img5.jpg', alt: '더 폴', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post159_img4.jpg', alt: '더 폴', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>우선,<span style=&quot;background-color: #9feec3;&quot;><b> \'추락\'이라는 사전적 의미는 극 중 주요 캐릭터들의 감정적, 신체적 추락</b></span>을 나타낸다.</p>'

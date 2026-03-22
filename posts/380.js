@@ -61,7 +61,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #01ff51; color: #000000;&quot;><b>‘존더코만도’라 불리던 이들은 X자 표시가 된 작업복을 입고 아무 것도 묻지 않고 오직 시키는 대로 주어진 임무를 수행한다.</b></span></p>'
+      html: '<p><span style=&quot;background-color: #01ff51; color: inherit;&quot;><b>‘존더코만도’라 불리던 이들은 X자 표시가 된 작업복을 입고 아무 것도 묻지 않고 오직 시키는 대로 주어진 임무를 수행한다.</b></span></p>'
     },
     {
       type: 'body',
@@ -73,7 +73,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #01ff51; color: #000000;&quot;><b>랍비를 찾아 제대로 된 장례를 치러주기로 결심하는데…</b></span></p>'
+      html: '<p><span style=&quot;background-color: #01ff51; color: inherit;&quot;><b>랍비를 찾아 제대로 된 장례를 치러주기로 결심하는데…</b></span></p>'
     },
     {
       type: 'body',
@@ -141,7 +141,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000; color: #000000;&quot;><b>최고의 지휘자이지만 동시에 최악의 폭군인 플레쳐 교수는 폭언과 학대로 앤드류를 한계까지 몰아붙인다.</b></span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b>최고의 지휘자이지만 동시에 최악의 폭군인 플레쳐 교수는 폭언과 학대로 앤드류를 한계까지 몰아붙인다.</b></span></p>'
     },
     {
       type: 'body',
@@ -153,7 +153,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #01ff51; color: #000000;&quot;><b>최고의 연주를 위한 완벽한 스윙이 시작된다!</b></span></p>'
+      html: '<p><span style=&quot;background-color: #01ff51; color: inherit;&quot;><b>최고의 연주를 위한 완벽한 스윙이 시작된다!</b></span></p>'
     },
     {
       type: 'body',
@@ -173,11 +173,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;>사건 발생 지역에 특별수사본부가 설치되고, </span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;>사건 발생 지역에 특별수사본부가 설치되고, </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;> </span><span style=&quot;color: #000000;&quot;>수사본부는 구희봉 반장을 필두로 <b>지역 토박이 형사 박두만과 조용구, 그리고 서울 시경에서 자원해 온 서태윤이 배치</b>된다.</span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;> </span><span style=&quot;color: inherit;&quot;>수사본부는 구희봉 반장을 필두로 <b>지역 토박이 형사 박두만과 조용구, 그리고 서울 시경에서 자원해 온 서태윤이 배치</b>된다.</span></p>'
     },
     {
       type: 'body',
@@ -197,7 +197,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000; color: #000000;&quot;><b>레이놀즈 인생 최고의 뮤즈이자 유일한 연인이 된 알마.</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b>레이놀즈 인생 최고의 뮤즈이자 유일한 연인이 된 알마.</b></span></p>'
     },
     {
       type: 'body',
@@ -209,7 +209,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #01ff51; color: #000000;&quot;><b>나의 아름다운 뮤즈, 넌 누구지?</b></span></p>'
+      html: '<p><span style=&quot;background-color: #01ff51; color: inherit;&quot;><b>나의 아름다운 뮤즈, 넌 누구지?</b></span></p>'
     },
     {
       type: 'body',
@@ -217,7 +217,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000; color: #000000;&quot;><b>&quot;대가를 치러야지?&quot;</b></span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b>&quot;대가를 치러야지?&quot;</b></span></p>'
     },
     {
       type: 'body',
@@ -229,7 +229,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #01ff51; color: #000000;&quot;><b>&quot;이 악몽을 끝내줘. 할 수 있어?&quot;</b></span></p>'
+      html: '<p><span style=&quot;background-color: #01ff51; color: inherit;&quot;><b>&quot;이 악몽을 끝내줘. 할 수 있어?&quot;</b></span></p>'
     },
     {
       type: 'body',
@@ -237,31 +237,31 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;>20세기 미국 정치 이면에 존재했던 악명높은 인물들과 연루된 한 남자의 시선으로 </span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;>20세기 미국 정치 이면에 존재했던 악명높은 인물들과 연루된 한 남자의 시선으로 </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000; color: #000000;&quot;><b>장기 미제 사건의 대명사 ‘지미 호파 실종 사건’을 그려낸다.</b></span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b>장기 미제 사건의 대명사 ‘지미 호파 실종 사건’을 그려낸다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>지미 호파는 1950-60년대 미국 정계를 좌지우지했던 거대 노동조합의 우두머리로 </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>지미 호파는 1950-60년대 미국 정계를 좌지우지했던 거대 노동조합의 우두머리로 </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>1975년 실종됐지만, 아직까지 그 사건의 실체가 밝혀지지 않았다.</b></span> </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>1975년 실종됐지만, 아직까지 그 사건의 실체가 밝혀지지 않았다.</b></span> </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>지미 호파 실종 사건은 미국 역사상 가장 유명한 장기 미제 사건 중 하나이다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>지미 호파 실종 사건은 미국 역사상 가장 유명한 장기 미제 사건 중 하나이다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>영화는 여러 악명높은 범죄조직 및 인사들과 연루돼 지미 호파 실종의 용의자로 지목되었던 프랭크 시런의 시선을 통해, </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>영화는 여러 악명높은 범죄조직 및 인사들과 연루돼 지미 호파 실종의 용의자로 지목되었던 프랭크 시런의 시선을 통해, </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b><span style=&quot;color: #000000; text-align: start;&quot;>미국 근대사의 한 페이지를 장식한 지미 호파의 장대한 이야기를 보여준다.</span></b></span></p>'
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>미국 근대사의 한 페이지를 장식한 지미 호파의 장대한 이야기를 보여준다.</span></b></span></p>'
     },
     {
       type: 'body',
@@ -269,35 +269,35 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000; color: #000000;&quot;><b>산 정상에서 추락한 한 남자의 변사 사건.</b></span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b>산 정상에서 추락한 한 남자의 변사 사건.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>담당 형사 \'해준\'(박해일)은 사망자의 아내 \'서래\'(탕웨이)와 마주하게 된다.<br/></span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>담당 형사 \'해준\'(박해일)은 사망자의 아내 \'서래\'(탕웨이)와 마주하게 된다.<br/></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><b><span style=&quot;background-color: #f3c000; color: #000000; text-align: start;&quot;>“산에 가서 안 오면 걱정했어요, 마침내 죽을까 봐.”</span></b></p>'
+      html: '<p style=&quot;text-align: center;&quot;><b><span style=&quot;background-color: #f3c000; color: inherit; text-align: start;&quot;>“산에 가서 안 오면 걱정했어요, 마침내 죽을까 봐.”</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><br/>남편의 죽음 앞에서 특별한 동요를 보이지 않는 서래. 경찰은 보통의 유가족과는 다른 서래를 용의선상에 올린다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><br/>남편의 죽음 앞에서 특별한 동요를 보이지 않는 서래. 경찰은 보통의 유가족과는 다른 서래를 용의선상에 올린다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>해준은 사건 당일의 알리바이 탐문과 신문, 잠복수사를 통해 서래를 알아가면서 </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>해준은 사건 당일의 알리바이 탐문과 신문, 잠복수사를 통해 서래를 알아가면서 </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>그녀에 대한 관심이 점점 커져가는 것을 느낀다.</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>그녀에 대한 관심이 점점 커져가는 것을 느낀다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;> 한편, 좀처럼 속을 짐작하기 어려운 서래는 상대가 자신을 의심한다는 것을 알면서도 조금의 망설임도 없이 해준을 대하는데….<br/><span style=&quot;background-color: #01ff51; color: #000000;&quot;><b></b></span></span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;> 한편, 좀처럼 속을 짐작하기 어려운 서래는 상대가 자신을 의심한다는 것을 알면서도 조금의 망설임도 없이 해준을 대하는데….<br/><span style=&quot;background-color: #01ff51; color: inherit;&quot;><b></b></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><span style=&quot;background-color: #01ff51; color: #000000;&quot;><b>진심을 숨기는 용의자에게 의심과 관심을 동시에 느끼는 형사 그들의 &lt;헤어질 결심&gt;</b></span></span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><span style=&quot;background-color: #01ff51; color: inherit;&quot;><b>진심을 숨기는 용의자에게 의심과 관심을 동시에 느끼는 형사 그들의 &lt;헤어질 결심&gt;</b></span></span></p>'
     },
     {
       type: 'body',
@@ -305,19 +305,31 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><b>\'로마\'는 아카데미상을 받은 </b><span style=&quot;background-color: #01ff51;&quot;><b>감독 겸 작가 알폰소 쿠아론</b></span><b>(\'그래비티\', \'칠드런 오브 맨\', \'이 투 마마\')의 </b></span><span style=&quot;color: #000000;&quot;><b><span style=&quot;background-color: #01ff51;&quot;>어린 시절을 반영한 자전적 작품</span>이다.</b></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><b>\'로마\'는 아카데미상을 받은 </b><span style=&quot;background-color: #01ff51;&quot;><b>감독 겸 작가 알폰소 쿠아론</b></span><b>(\'그래비티\', \'칠드런 오브 맨\', \'이 투 마마\')의 </b></span><span style=&quot;color: inherit;&quot;><b><span style=&quot;background-color: #01ff51;&quot;>어린 시절을 반영한 자전적 작품</span>이다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>멕시코시티 내 <span style=&quot;background-color: #f3c000;&quot;><b>로마 지역을 배경으로, 한 중산층 가족의 젊은 가정부인 클레오(얄리차 아파리시오)의 시선을 따라 이야기는 흘러간다.</b></span> </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>멕시코시티 내 <span style=&quot;background-color: #f3c000;&quot;><b>로마 지역을 배경으로, 한 중산층 가족의 젊은 가정부인 클레오(얄리차 아파리시오)의 시선을 따라 이야기는 흘러간다.</b></span> </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>감독 자신을 키워낸 여성들에 대한 깊은 애정을 담은 이 작품은 </span><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>1970년대 멕시코의 정치적 격랑 속에서 </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>감독 자신을 키워낸 여성들에 대한 깊은 애정을 담은 이 작품은 </span><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>1970년대 멕시코의 정치적 격랑 속에서 </span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post380_img11.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post380_img10.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post380_img9.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post380_img8.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post380_img7.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post380_img6.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post380_img5.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post380_img4.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post380_img3.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post380_img2.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post380_img1.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>주인공들이 겪는 가정 내 불화와 사회적인 억압을 생생히 재현한다.</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>주인공들이 겪는 가정 내 불화와 사회적인 억압을 생생히 재현한다.</span></p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

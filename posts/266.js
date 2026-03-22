@@ -30,16 +30,16 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 와일드 로봇 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 와일드 로봇 로튼토마토 평론가 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>평론가 평점 97%, 관람객 평점 98%로 올해 최고의 영화라 감히 말할 수 있는 평점입니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>평론가 평점 97%, 관람객 평점 98%로 올해 최고의 영화라 감히 말할 수 있는 평점입니다.</b></p>'
     },
     { type: 'image', src: '/images/post266_poster.jpg', alt: '포스트 266 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>로튼 토마토 평론가 신선도 인증마크와 관객인증까지 두가지를 동시에 얻은 영화는 올해뿐만 아니라 근 10년간 찾아보기 힘든 영화인 것 같습니다. 혹여 시청을 고민하시는 분들은 걱정 말고 반드시 예매하여 시청하시길 바랍니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>로튼 토마토 평론가 신선도 인증마크와 관객인증까지 두가지를 동시에 얻은 영화는 올해뿐만 아니라 근 10년간 찾아보기 힘든 영화인 것 같습니다. 혹여 시청을 고민하시는 분들은 걱정 말고 반드시 예매하여 시청하시길 바랍니다.</b></p>'
     },
     {
       type: 'body',
@@ -81,6 +81,13 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post266_img6.jpg', alt: '와일드 로봇', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post266_img5.jpg', alt: '와일드 로봇', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post266_img4.jpg', alt: '와일드 로봇 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post266_img3.jpg', alt: '와일드 로봇 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post266_img2.jpg', alt: '와일드 로봇 평론가 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post266_img1.jpg', alt: '와일드 로봇', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>'

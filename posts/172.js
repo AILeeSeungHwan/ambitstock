@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post172_img1.jpg', alt: '섀도우 오브 파이어 정보', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p><b>일본 영화 섀도우 오브 파이어 영어제목 : Shadow of Fire, 일본어 제목 (ほかげ)는 츠카모토 신야 감독의 2023년 작품으로, 그의 전쟁 3부작의 최신작입니다. </b></p>'
     },
+    { type: 'image', src: '/images/post172_img2.jpg', alt: '섀도우 오브 파이어 줄거리 내용', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화는 제2차 세계대전 직후 일본의 혼란스러운 사회를 배경으로, 전쟁으로 인해 고통받는 인물들의 이야기를 다룹니다.</p>'
@@ -62,6 +64,7 @@ const post = {
       type: 'body',
       html: '<p>폐허가 된 도시에서 만난 고아 소년과 몸을 팔며 생계를 이어가는 여성,</p>'
     },
+    { type: 'image', src: '/images/post172_img3.jpg', alt: '섀도우 오브 파이어', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>그리고 전쟁의 트라우마에 시달리는 젊은 군인이 중심이 되어,</p>'
@@ -89,6 +92,8 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>섀도우 오브 파이어<br/></span>불의 그림자</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post172_img5.jpg', alt: '섀도우 오브 파이어', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post172_img4.jpg', alt: '섀도우 오브 파이어', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 섀도우 오브 파이어는 영어 단어로 <b>Shadow of Fire, 그 뜻은 불의 그림자</b>입니다.</p>'

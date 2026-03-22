@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 애비게일 (Abigail)이 넷플릭스에 등록된 후 한국 영화 인기순위 TOP 등수에 올랐습니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>로튼 토마토에서도 좋은 평점을 기록하고 있는 이 영화, 볼지 말지 고민 중이라면 이 포스팅을 통해 확실하게 알아보시길 바랍니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>애비게일 로튼 토마토 평점과 해외 평론가 반응 후기를 함께 알아보도록 하겠습니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 애비게일 (Abigail)이 넷플릭스에 등록된 후 한국 영화 인기순위 TOP 등수에 올랐습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토에서도 좋은 평점을 기록하고 있는 이 영화, 볼지 말지 고민 중이라면 이 포스팅을 통해 확실하게 알아보시길 바랍니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>애비게일 로튼 토마토 평점과 해외 평론가 반응 후기를 함께 알아보도록 하겠습니다.</p>'
     },
     {
       type: 'image',
@@ -21,27 +21,28 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>애비게일 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>애비게일 로튼토마토 평론가 평점입니다.</b></span></p>'
+    },
+    { type: 'image', src: '/images/post205_img1.jpg', alt: '애비게일', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 83%, 관람객 평점 84%의 영화 애비게일 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 83%, 관람객 평점 84%의 영화 애비게일 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평론가와 관객 모두 준수한 평점을 기록하며 로튼 토마토 신선도 보증마크 또한 획득하였습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가와 관객 모두 준수한 평점을 기록하며 로튼 토마토 신선도 보증마크 또한 획득하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>넷플릭스에 공개 직후 대한민국 영화 순위 3위에 랭크하며 인기 순위 또한 상승하고 있는 추세입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>넷플릭스에 공개 직후 대한민국 영화 순위 3위에 랭크하며 인기 순위 또한 상승하고 있는 추세입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>작품성은 로튼 토마토 평론가 평점을 바탕으로 보증되니 꼭 시청해보시길 바랍니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>작품성은 로튼 토마토 평론가 평점을 바탕으로 보증되니 꼭 시청해보시길 바랍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그렇다면 어떠한 점이 평론가와 더불어 관객까지 좋은 평가를 이끌었는지 후기 살펴보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>그렇다면 어떠한 점이 평론가와 더불어 관객까지 좋은 평가를 이끌었는지 후기 살펴보겠습니다.</p>'
     },
     {
       type: 'h2',
@@ -51,8 +52,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 애비게일 평론가 결말후기 관람평 리뷰 입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 애비게일 평론가 결말후기 관람평 리뷰 입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post205_img2.jpg', alt: '애비게일 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Vera Wylde - 평점 없음</span></i><br>좋았다. 놀랍지는 않지만, 괜찮은 작품이었다.</br></p>'
@@ -99,6 +101,12 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post205_img8.jpg', alt: '애비게일', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post205_img7.jpg', alt: '애비게일', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post205_img6.jpg', alt: '애비게일 결말후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post205_img5.jpg', alt: '애비게일 결말후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post205_img4.jpg', alt: '애비게일 결말후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post205_img3.jpg', alt: '애비게일', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10</b></span></p>'

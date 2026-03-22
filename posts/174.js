@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post174_img1.jpg', alt: '해바라기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>영화 해바라기 해외 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>영화 해바라기 해외 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post174_img2.jpg', alt: '영화 해바라기 해외 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평점 표본 2,600이상, 평점은 10점 만점 7.2점을 기록하였습니다.</b></span></p>'
@@ -70,6 +72,15 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 해바라기 해외 시청자 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post174_img11.jpg', alt: '해바라기 해외 반응 평점 관람평 후기 <모든 남자들의 영화 재개봉!>', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post174_img10.jpg', alt: '해바라기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post174_img9.jpg', alt: '해바라기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post174_img8.jpg', alt: '해바라기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post174_img7.jpg', alt: '해바라기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post174_img6.jpg', alt: '해바라기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post174_img5.jpg', alt: '해바라기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post174_img4.jpg', alt: '해바라기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post174_img3.jpg', alt: '해바라기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Panos Kotzathanasis - 평점 없음</b><br>강석범 감독은 비록 독창적이지 않은 대본이지만, 이를 독특한 방식으로 연출하여 영화가 돋보이게 만들었다.</br></p>'

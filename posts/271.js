@@ -38,27 +38,27 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>경성크리처 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>경성크리처 로튼토마토 평론가 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아직 로튼토마토에서는 평론가 후기 하나 외에 시즌 2에 대한 평점은 수집되지 않아 시즌 1에 대한 평점을 가져왔습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아직 로튼토마토에서는 평론가 후기 하나 외에 시즌 2에 대한 평점은 수집되지 않아 시즌 1에 대한 평점을 가져왔습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>약간의 의역을 하였지만 시즌 1의 기존 설정에서 벗어난 시즌 2에 대해 박한 평가를 준 후기입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>약간의 의역을 하였지만 시즌 1의 기존 설정에서 벗어난 시즌 2에 대해 박한 평가를 준 후기입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>더 자세한 후기는 다음 포스팅에서 다루도록 하겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>더 자세한 후기는 다음 포스팅에서 다루도록 하겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>시즌 1에서의 평점은 평론가 92%, 관람객 평점은 83%로 상당히 높은 점수를 기록하였습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>시즌 1에서의 평점은 평론가 92%, 관람객 평점은 83%로 상당히 높은 점수를 기록하였습니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가 평점이 우리가 흔히 알고 있는 로튼 토마토 신선도 점수로, 92%의 점수는 굉장히 흔치 않은 호평이라고 볼 수 있습니다. 국내에서는 혹평이 다수를 차지한 것에 반하는 결과입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평론가 평점이 우리가 흔히 알고 있는 로튼 토마토 신선도 점수로, 92%의 점수는 굉장히 흔치 않은 호평이라고 볼 수 있습니다. 국내에서는 혹평이 다수를 차지한 것에 반하는 결과입니다.</p>'
     },
     {
       type: 'body',
@@ -88,6 +88,14 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post271_img7.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post271_img6.jpg', alt: '경성크리처 시즌 2 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post271_img5.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post271_img4.jpg', alt: '경성크리처 시즌 2 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post271_img3.jpg', alt: '경성크리처 시즌 2 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post271_img2.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post271_img1.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>'

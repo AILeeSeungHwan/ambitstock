@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>11월 최고 기대작 영화 글래디에이터 2입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>2000년대 명작 영화 중 하나인 글래디에이터의 후속작으로, 제작 소식만으로 많은 이들의 기대감과 더불어 전편의 명성에 먹칠하는 것은 아닐지에 대한 걱정이 함께 공존한 화제작입니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>이번 포스팅에서는 현재 로튼 토마토에서 공개된 평론가 평점과 후기 관람평, 그리고 글래디에이터의 제목 뜻과 의미를 함께 알아보겠습니다. 이 포스팅을 통해 영화 시청에 도움이 되시길 바랍니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>11월 최고 기대작 영화 글래디에이터 2입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>2000년대 명작 영화 중 하나인 글래디에이터의 후속작으로, 제작 소식만으로 많은 이들의 기대감과 더불어 전편의 명성에 먹칠하는 것은 아닐지에 대한 걱정이 함께 공존한 화제작입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서는 현재 로튼 토마토에서 공개된 평론가 평점과 후기 관람평, 그리고 글래디에이터의 제목 뜻과 의미를 함께 알아보겠습니다. 이 포스팅을 통해 영화 시청에 도움이 되시길 바랍니다.</p>'
     },
     {
       type: 'image',
@@ -43,7 +43,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>글래디에이터 2 로튼 토마토 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>글래디에이터 2 로튼 토마토 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -51,19 +51,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 76%, 관람객 평점은 아직 집계되지 않았습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 76%, 관람객 평점은 아직 집계되지 않았습니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>걸작이라 칭하기에는 어렵지만 아직 관람객 평점이 기록되지 않은 바, 그 결과가 나왔을 때 더욱 자세한 평가를 할 수 있을 것 같습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>걸작이라 칭하기에는 어렵지만 아직 관람객 평점이 기록되지 않은 바, 그 결과가 나왔을 때 더욱 자세한 평가를 할 수 있을 것 같습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그렇다면 평론가들은 영화를 어떻게 보았을지, 평론가들의 관람평 후기를 알아보도록 하겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>그렇다면 평론가들은 영화를 어떻게 보았을지, 평론가들의 관람평 후기를 알아보도록 하겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 글래디에이터 2 평론가 결말 후기 관람평입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 글래디에이터 2 평론가 결말 후기 관람평입니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -149,6 +149,18 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7</b></span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post212_img11.jpg', alt: '글래디에이터 2 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post212_img10.jpg', alt: '글래디에이터 2 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post212_img9.jpg', alt: '글래디에이터 2 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post212_img8.jpg', alt: '글래디에이터 2 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post212_img7.jpg', alt: '글래디에이터 2 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post212_img6.jpg', alt: '글래디에이터 2 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post212_img5.jpg', alt: '글래디에이터 2 평점 관람평 후기 제목 뜻 의미 | 로튼 토마토 평론가 반응은?', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post212_img4.jpg', alt: '글래디에이터 2 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post212_img3.jpg', alt: '글래디에이터 2 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post212_img2.jpg', alt: '글래디에이터 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post212_img1.jpg', alt: '글래디에이터 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>'

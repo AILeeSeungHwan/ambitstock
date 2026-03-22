@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>역대 박스오피스 한국 영화 순위 시리즈 첫 번째, 영화 베테랑입니다. </p><p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: #000000;&quot;>속편 베테랑 2의 개봉일은 24년 하반기로 예정되어 있으며</span></span></b><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: #000000;&quot;><span style=&quot;background-color: #ffffff;&quot;> <span style=&quot;text-align: start;&quot;>이미 촬영이 마무리되어</span> 후반 작업을 진행 중이라</span></span></span> 합니다.</p><p>베테랑 2편 개봉 전 천만관객인 베테랑 1편의 박스오피스 순위 및 정보, 그리고 해외에서는 어떻게 시청하였는지 해외 리뷰 평점과 반응 알아보도록 하겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>역대 박스오피스 한국 영화 순위 시리즈 첫 번째, 영화 베테랑입니다. </p><p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;>속편 베테랑 2의 개봉일은 24년 하반기로 예정되어 있으며</span></span></b><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;> <span style=&quot;text-align: start;&quot;>이미 촬영이 마무리되어</span> 후반 작업을 진행 중이라</span></span></span> 합니다.</p><p>베테랑 2편 개봉 전 천만관객인 베테랑 1편의 박스오피스 순위 및 정보, 그리고 해외에서는 어떻게 시청하였는지 해외 리뷰 평점과 반응 알아보도록 하겠습니다.</p>'
     },
     {
       type: 'image',
@@ -42,11 +42,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><b>James Marsh  <br/>South China Morning Post</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><b>James Marsh  <br/>South China Morning Post</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><b><br/><br/></b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b><br/><br/></b></span></p>'
     },
     {
       type: 'body',
@@ -58,23 +58,23 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><b><br/><br/><br/></b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b><br/><br/><br/></b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><b>Diva Velez - TheDivaReview.com</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><b>Diva Velez - TheDivaReview.com</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;> </p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;> </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Aaron Yap - Flicks (AU, NZ, UK)</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Aaron Yap - Flicks (AU, NZ, UK)</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화가 너무 길지만 재미있고, 그렇다고 딱히 특별하진 않은 경찰 영화입니다...</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화가 너무 길지만 재미있고, 그렇다고 딱히 특별하진 않은 경찰 영화입니다...</p>'
     },
     {
       type: 'body',
@@ -86,15 +86,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Anton Bitel - Projected Figures</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Anton Bitel - Projected Figures</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #ffffff; color: #2a2c32; text-align: start;&quot;> 한국의 사회 분열, 계급 불평등, 거친 정의( Rough Justice <span style=&quot;color: #666666; text-align: left;&quot;>저지른 범죄에 비해 너무 가혹하거나 가혹한 형벌</span> ), 강남 스타일 등을 관통하는, 흥미롭고 매우 재미있는 여정입니다. </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: transparent; color: #2a2c32; text-align: start;&quot;> 한국의 사회 분열, 계급 불평등, 거친 정의( Rough Justice <span style=&quot;color: #666666; text-align: left;&quot;>저지른 범죄에 비해 너무 가혹하거나 가혹한 형벌</span> ), 강남 스타일 등을 관통하는, 흥미롭고 매우 재미있는 여정입니다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;color: #000000; background-color: #f3c000;&quot;>평점 7.0/10</span></b></p>'
+      html: '<p><b><span style=&quot;color: inherit; background-color: #f3c000;&quot;>평점 7.0/10</span></b></p>'
     },
     {
       type: 'body',
@@ -110,15 +110,23 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;><b><span style=&quot;color: #000000; background-color: #f3c000;&quot;><a href=&quot;https://ambitstock.com/14&quot; style=&quot;color: #000000; background-color: #f3c000;&quot;>최민식 김고은 주연 영화 &lt;파묘&gt;</a></span></b></p>'
+      html: '<p style=&quot;text-align: left;&quot;><b><span style=&quot;color: inherit; background-color: #f3c000;&quot;><a href=&quot;https://ambitstock.com/14&quot; style=&quot;color: inherit; background-color: #f3c000;&quot;>최민식 김고은 주연 영화 &lt;파묘&gt;</a></span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;><b><span style=&quot;color: #000000;&quot;><a href=&quot;https://ambitstock.com/12&quot; style=&quot;color: #000000;&quot;><span style=&quot;background-color: #f3c000;&quot;>조커 2: 폴리 아 되</span></a></span></b></p>'
+      html: '<p style=&quot;text-align: left;&quot;><b><span style=&quot;color: inherit;&quot;><a href=&quot;https://ambitstock.com/12&quot; style=&quot;color: inherit;&quot;><span style=&quot;background-color: #f3c000;&quot;>조커 2: 폴리 아 되</span></a></span></b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post461_img7.jpg', alt: 'IMDB 베테랑 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post461_img6.jpg', alt: 'IMDB 영화 베테랑 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post461_img5.jpg', alt: '영화 베테랑 배우 황정민', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post461_img4.jpg', alt: '영화 베테랑 배우 황정민', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post461_img3.jpg', alt: '영화 베테랑 배우 황정민 유아인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post461_img2.jpg', alt: '로튼 토마토 영화 베테랑 해외 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post461_img1.jpg', alt: '영화 베테랑 포스터', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
-      html: '<p><a href=&quot;https://ambitstock.com/9&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;><u><span style=&quot;background-color: #f3c000; color: #000000;&quot;><b>봉준호감독 영화 미키 17</b></span></u></a></p>'
+      html: '<p><a href=&quot;https://ambitstock.com/9&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;><u><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b>봉준호감독 영화 미키 17</b></span></u></a></p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

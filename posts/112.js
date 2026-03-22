@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>영화 언데드 다루는 법이 2025년 1월 22일 개봉합니다.</b></p>'
     },
+    { type: 'image', src: '/images/post112_img1.jpg', alt: '언데드 다루는 법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이번 포스팅에서는 <b>영화 제목인 언데드 다루는 법의 뜻 해석 그리고 해외 로튼 토마토 평론가 반응 후기</b>를 함께 알아보도록 하겠습니다.</p>'
@@ -37,6 +38,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post112_img2.jpg', alt: '언데드 다루는 법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-drama-recommend-netflix/',
@@ -62,6 +64,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>살아 있는 시체로 돌아온 나의 사랑이여! <br>그대는 축복인까, 재앙인가?<br/></br></span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post112_img3.jpg', alt: '언데드 다루는 법 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>손자이자 아들인 ‘엘리아스’를 잃고 깊은 상실감에 괴로워하는 할아버지 ‘말러’와 엄마 ‘안나’, 아내 ‘에바’의 교통사고로 인한 비극적 죽음을 마주하며 오열하는 남편 ‘데이빗’, 반려자 ‘엘리자베트’의 장례식을 마치고 공허한 집으로 돌아온 노부인 ‘토라’.</p>'
@@ -85,6 +88,7 @@ const post = {
       type: 'body',
       html: '<p><b>‘언데드 다루는 법’</b>은 스웨덴 작가 욘 아이비데 린드크비스트의 소설로, 원제는 <i>‘Hantera de odöda’</i>입니다.</p>'
     },
+    { type: 'image', src: '/images/post112_img4.jpg', alt: '언데드 다루는 법 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영어로는 <i>‘Handling the Undead’</i>로 번역되며, 한국어 제목은 이를 직역한 것입니다.</p>'
@@ -109,8 +113,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>언데드 다루는 법 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>언데드 다루는 법 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post112_img5.jpg', alt: '언데드 다루는 법 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 75%, 관객 평점 47%입니다.</b></span></p>'
@@ -137,6 +142,11 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>언데드 다루는 법 포토와 함께 보는 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post112_img10.jpg', alt: '언데드 다루는 법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post112_img9.jpg', alt: '언데드 다루는 법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post112_img8.jpg', alt: '언데드 다루는 법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post112_img7.jpg', alt: '언데드 다루는 법 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post112_img6.jpg', alt: '언데드 다루는 법 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>James Croot - 평점(오리지널 스코어: 4/5)</b><br/>이 영화는 후회와 비난으로 가득 찬 이야기이다.</p>'

@@ -37,6 +37,14 @@ const post = {
       type: 'body',
       html: '<p>영화 행복의 나라 <b><span style=&quot;background-color: #f3c000;&quot;>개봉일은 24년 8월 14일로 확정</span></b>되었습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post415_img7.jpg', alt: '영화 행복의 나라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post415_img6.jpg', alt: '행복의 나라 유재명', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post415_img5.jpg', alt: '행복의 나라 이선균', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post415_img4.jpg', alt: '행복의 나라 조정석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post415_img3.jpg', alt: '행복의 나라 이선균', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post415_img2.jpg', alt: '영화 행복의 나라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post415_img1.jpg', alt: '영화 행복의 나라', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>영화 &quot;행복의 나라&quot;는 추창민 감독의 신작으로, 그의 전작인 &quot;광해, 왕이 된 남자&quot;가 천만 관객을 동원한 점을 고려할 때 이번 작품도 큰 기대를 모으고 있습니다. 조정석, 이선균, 유재명 등 연기파 배우들의 조합이 영화의 완성도를 높일 것으로 보입니다. 故 이선균의 두번째 유작으로, 탈출: 사일런스 프로젝트 개봉이후 연달아 이선균님의 작품을 만나볼 수 있을 것입니다.</p>'

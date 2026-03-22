@@ -37,11 +37,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #ffffff; color: #7f7f7f; text-align: start;&quot;>6월 초 VOD출시, 10월 중순 OTT 출시 예상 </span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent; color: #7f7f7f; text-align: start;&quot;>6월 초 VOD출시, 10월 중순 OTT 출시 예상 </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #ffffff; color: #7f7f7f; text-align: start;&quot;>OTT 플랫폼은 디즈니플러스</span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent; color: #7f7f7f; text-align: start;&quot;>OTT 플랫폼은 디즈니플러스</span></p>'
     },
     {
       type: 'body',
@@ -115,6 +115,18 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;>7번방의 선물 다시보기 보는곳 OTT: 넷플릭스</p>'
     },
+    ,
+    { type: 'image', src: '/images/post412_img11.jpg', alt: '7번방의 선물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post412_img10.jpg', alt: '알라딘', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post412_img9.jpg', alt: '암살', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post412_img8.jpg', alt: '범죄 도시2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post412_img7.jpg', alt: '광해 왕이된 남자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post412_img6.jpg', alt: '신과함께 인과연', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post412_img5.jpg', alt: '택시운전사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post412_img4.jpg', alt: '파묘', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post412_img3.jpg', alt: '부산행', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post412_img2.jpg', alt: '범죄도시 4', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post412_img1.jpg', alt: '역대 영화 박스오피스 흥행 순위 TOP 20', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;>2부에서 계속됩니다.</p>'

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>전체적으로 평점은 <b>보통 이상</b>에 머물러 있습니다. 4점 만점에서 2.5~3점대, 10점 만점으로는 6~7점대가 많았고, 일부 평론가는 아쉽다는 평가와 함께 ‘Rotten(썩은)’ 판정을 내리기도 했습니다.</p>'
     },
+    { type: 'image', src: '/images/post83_img1.jpg', alt: '컨저링: 마지막 의식 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li>Ed Potton (The Times, UK) – ★★★★☆ (4/5)</li> <li>Gabriela Meza (Fuera de Foco) – ★★★☆☆ (3/5)</li> <li>Abbie Bernstein (Assignment X) – B</li> <li>Desirée De Fez (Fotogramas) – ★★★☆☆ (3/5)</li> <li>Alison Foreman (IndieWire) – C+</li> <li>Brian Eggert (Deep Focus Review) – ★★½☆ (2.5/4)</li> <li>Marianna Neal (Impression Blend) – 7/10</li> <li>Matt Donato (Certified Forgotten) – ★★★☆☆ (3/5)</li> <li>Lee McCoy (DrumDums) – 6.5/10</li> </ul>'
@@ -41,6 +42,7 @@ const post = {
       type: 'body',
       html: '<p><b>영화 컨저링 해외 평론가 결말 후기입니다.</b></p>'
     },
+    { type: 'image', src: '/images/post83_img2.jpg', alt: '컨저링: 마지막 의식 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b></b><b>Ed Potton (The Times, UK)</b><br>“마지막 장면에서는 섬세함이 다소 사라지지만, 여전히 워렌 부부의 이야기로는 오싹하고 적절한 마무리다.” (4/5)</br></p>'
@@ -127,6 +129,10 @@ const post = {
       type: 'body',
       html: '<p><b>컨저링: 마지막 의식</b>은 분명 완벽한 결말은 아닙니다. 하지만 시리즈를 함께 해온 관객들에게는 여전히 의미 있는 송별 무대가 됩니다. 무섭다기보다 익숙하고 편안한 마지막 인사라는 게 가장 솔직한 평가일지도 모르겠네요. 영화 컨저링을 좋아하시는 분들은 극장에서 꼭 시청해보시길 바랍니다.</p>'
     },
+    { type: 'image', src: '/images/post83_img6.jpg', alt: '컨저링: 마지막 의식 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post83_img5.jpg', alt: '컨저링: 마지막 의식 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post83_img4.jpg', alt: '컨저링: 마지막 의식 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post83_img3.jpg', alt: '컨저링: 마지막 의식 관람평', caption: 'ⓒ R의 필름공장' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'h2',

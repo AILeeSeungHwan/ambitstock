@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>다가오는 9월 4일, 다큐멘터리 영화 <b>\'안녕, 할부지\'</b>가 <span style=&quot;color: #333333; text-align: start;&quot;>전국 CGV, 롯데시네마, 메가박스에서 동시 개봉합니다.</span> </p><p>에버랜드와 콘텐츠 제작사 에이컴즈가 공동 제작했으며, 자이언트 판다 푸바오와 그의 가족, 그리고 그들을 돌본 주키퍼들의 이야기를 담은 영화 \'안녕, 할부지\'는 <span style=&quot;color: #333333; text-align: start;&quot;>4월 3일 한국을 떠난 푸바오의 근황을 볼 수 있을 것이며 공개된 영상과 사진만으로도 벅찬 감정을 느끼실 것입니다.<span> </span></span></p><p>이번 포스팅에서는 영화의 전체적인 내용과 제작진 OST, 제목의 의미에 대해서 알아보도록 하겠습니다.</p>'
+      html: '<p>다가오는 9월 4일, 다큐멘터리 영화 <b>\'안녕, 할부지\'</b>가 <span style=&quot;color: inherit; text-align: start;&quot;>전국 CGV, 롯데시네마, 메가박스에서 동시 개봉합니다.</span> </p><p>에버랜드와 콘텐츠 제작사 에이컴즈가 공동 제작했으며, 자이언트 판다 푸바오와 그의 가족, 그리고 그들을 돌본 주키퍼들의 이야기를 담은 영화 \'안녕, 할부지\'는 <span style=&quot;color: inherit; text-align: start;&quot;>4월 3일 한국을 떠난 푸바오의 근황을 볼 수 있을 것이며 공개된 영상과 사진만으로도 벅찬 감정을 느끼실 것입니다.<span> </span></span></p><p>이번 포스팅에서는 영화의 전체적인 내용과 제작진 OST, 제목의 의미에 대해서 알아보도록 하겠습니다.</p>'
     },
     {
       type: 'image',
@@ -41,6 +41,11 @@ const post = {
       type: 'body',
       html: '<p><b>\'안녕, 할부지\'</b>는 푸바오와 바오 패밀리, 그리고 그들을 돌본 주키퍼들의 이야기를 담은 다큐멘터리 영화입니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post323_img4.jpg', alt: '안녕, 할부지 푸바오', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post323_img3.jpg', alt: '안녕, 할부지 푸바오', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post323_img2.jpg', alt: '안녕, 할부지 푸바오', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post323_img1.jpg', alt: '안녕, 할부지 푸바오', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>9월 4일 영화관에서 확인해보시길 바랍니다.</p>'

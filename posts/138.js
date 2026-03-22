@@ -29,6 +29,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&lt;체크인 한양&gt;은 조선 시대 최고의 영빈관, 영천루에서 네 명의 인턴(?)들이 각자 다른 이유로 일하게 되는 이야기다. 이들은 서로 부딪히고, 때로는 도와가며 조금씩 변해가는데, 그 과정이 재밌고 흥미롭게 그려진다.</span></p>'
     },
+    { type: 'image', src: '/images/post138_img1.jpg', alt: '체크인 한양', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>이은/이은호 - 배인혁</h3>'
@@ -146,6 +147,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;><b>체크인 한양<br/><span>Check in Hanyang</span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post138_img2.jpg', alt: '체크인 한양', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>체크인 한양의 영어제목은 한국 제목과 그대로 Check in Hanyang 입니다.</span></p>'
@@ -176,6 +178,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; background-color: #f3c000;&quot;><span><b>체크인 한양 해외 평점입니다.</b></span></span></p>'
     },
+    { type: 'image', src: '/images/post138_img9.jpg', alt: '체크인 한양', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post138_img8.jpg', alt: '체크인 한양 출연진 등장인물관계도 영어제목 뜻 - 해외 반응 평점 채널 A 드라마(배인혁 김지은 정건주 박재찬)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post138_img7.jpg', alt: '체크인 한양', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post138_img6.jpg', alt: '체크인 한양 등장인물 관계도', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post138_img5.jpg', alt: '체크인 한양', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post138_img4.jpg', alt: '체크인 한양', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post138_img3.jpg', alt: '체크인 한양', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>약 4,352명의 표본에서 7.9점이라는 높은 평점을 기록하며 좋은 반응</b>을 이끌었습니다.</span></p>'

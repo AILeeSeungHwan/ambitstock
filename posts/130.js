@@ -23,9 +23,10 @@ const post = {
       type: 'body',
       html: '<p><b>2025년 한국 개봉예정영화 기대작들을 총정리 하였습니다.</b></p>'
     },
+    { type: 'image', src: '/images/post130_img1.jpg', alt: '2025년 한국 개봉예정영화 TOP 5', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff;&quot;><b>한국영화 외 1월에 개봉하는 모든 개봉예정영화를 정리하였습니다.</b></span></p>'
+      html: '<p><span style=&quot;background-color: transparent;&quot;><b>한국영화 외 1월에 개봉하는 모든 개봉예정영화를 정리하였습니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -53,6 +54,7 @@ const post = {
       type: 'body',
       html: '<p><b>첫번째 작품은 \'동화지만 청불입니다\'입니다.</b></p>'
     },
+    { type: 'image', src: '/images/post130_img2.jpg', alt: '동화지만 청불입니다', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>동화지만 청불입니다 개봉일</h3>'
@@ -91,13 +93,14 @@ const post = {
       type: 'body',
       html: '<p><b>2번째 작품은 영화 폭락 입니다.</b></p>'
     },
+    { type: 'image', src: '/images/post130_img3.jpg', alt: '동화지만 청불입니다', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>폭락 개봉일</h3>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;>2025년 1월 15일</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>2025년 1월 15일</p>'
     },
     {
       type: 'body',
@@ -105,7 +108,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;>송재림, 안우연, 민성욱, 소희정</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>송재림, 안우연, 민성욱, 소희정</p>'
     },
     {
       type: 'body',
@@ -134,6 +137,7 @@ const post = {
       type: 'body',
       html: '<p><b>3번째 작품은 히트맨 2 입니다.</b></p>'
     },
+    { type: 'image', src: '/images/post130_img4.jpg', alt: '영화 폭락', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>영화 히트맨 2 개봉일</h3>'
@@ -181,6 +185,7 @@ const post = {
       type: 'body',
       html: '<p><b>4번째 작품은 검은 수녀들 입니다.</b></p>'
     },
+    { type: 'image', src: '/images/post130_img5.jpg', alt: '영화 폭락', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>검은 수녀들 개봉일</h3>'
@@ -223,6 +228,7 @@ const post = {
       type: 'body',
       html: '<p><b>다섯번째 작품은 귀신 경찰 입니다.</b></p>'
     },
+    { type: 'image', src: '/images/post130_img6.jpg', alt: '히트맨 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section7',
@@ -233,6 +239,11 @@ const post = {
       type: 'body',
       html: '<p>2025년 1월 1일</p>'
     },
+    { type: 'image', src: '/images/post130_img11.jpg', alt: '귀신 경찰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post130_img10.jpg', alt: '귀신 경찰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post130_img9.jpg', alt: '검은 수녀들', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post130_img8.jpg', alt: '검은 수녀들', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post130_img7.jpg', alt: '히트맨 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>귀신 경찰 출연진</h3>'

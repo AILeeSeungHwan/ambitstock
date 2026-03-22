@@ -63,12 +63,18 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;> </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;> </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>보헤미안 랩소디는 넷플릭스에서 시청 가능합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>보헤미안 랩소디는 넷플릭스에서 시청 가능합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post309_img5.jpg', alt: '보헤미안 랩소디', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post309_img4.jpg', alt: '보헤미안 랩소디', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post309_img3.jpg', alt: '보헤미안 랩소디', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post309_img2.jpg', alt: '보헤미안 랩소디', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post309_img1.jpg', alt: '보헤미안 랩소디 제목 뜻 의미', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p> </p>'

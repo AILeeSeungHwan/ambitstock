@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>웹툰 원작 나 혼자만 레벨업 (영어 제목 Solo Leveling<span style=&quot;background-color: #ffffff; color: #202124; text-align: center;&quot;>(Only I Level Up), 일본어 제목 俺だけレベルアップな件 ) 애니메이션 버전이 넷플릭스에서 상영중입니다. </span><span style=&quot;background-color: #ffffff; color: #202124; text-align: center;&quot;>원작의 좋은 평을 이어갈 수 있을지, 애니메이션 해외 반응 알아보겠습니다.</span></p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>넷플릭스 화제작 선산과 비슷한 장르</b></span></p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>최민식 김고은 주연 &lt;파묘&gt;</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>웹툰 원작 나 혼자만 레벨업 (영어 제목 Solo Leveling<span style=&quot;background-color: transparent; color: #202124; text-align: center;&quot;>(Only I Level Up), 일본어 제목 俺だけレベルアップな件 ) 애니메이션 버전이 넷플릭스에서 상영중입니다. </span><span style=&quot;background-color: transparent; color: #202124; text-align: center;&quot;>원작의 좋은 평을 이어갈 수 있을지, 애니메이션 해외 반응 알아보겠습니다.</span></p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>넷플릭스 화제작 선산과 비슷한 장르</b></span></p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>최민식 김고은 주연 &lt;파묘&gt;</b></span></p>'
     },
     {
       type: 'image',
@@ -31,23 +31,23 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;background-color: #f3c000; color: #000000; letter-spacing: 0px;&quot;>평점 8.5/10</span></b><b><span style=&quot;background-color: #f3c000; color: #000000; letter-spacing: 0px;&quot;></span></b></p>'
+      html: '<p><b><span style=&quot;background-color: #f3c000; color: inherit; letter-spacing: 0px;&quot;>평점 8.5/10</span></b><b><span style=&quot;background-color: #f3c000; color: inherit; letter-spacing: 0px;&quot;></span></b></p>'
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;color: #000000;&quot;><span style=&quot;background-color: #ffffff;&quot;>IMDB 나 혼자만 레벨업 해외 평점 및 리뷰입니다.</span></span></b></p>'
+      html: '<p><b><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;>IMDB 나 혼자만 레벨업 해외 평점 및 리뷰입니다.</span></span></b></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #000000;&quot;><span style=&quot;background-color: #ffffff;&quot;><b>10/10 애니메이션</b></span></span></span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;><b>10/10 애니메이션</b></span></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></b></span></b> </span></b></span></b></span><span style=&quot;color: #000000;&quot;>10/10</span></b></span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></b></span></b> </span></b></span></b></span><span style=&quot;color: inherit;&quot;>10/10</span></b></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #000000;&quot;><span style=&quot;background-color: #ffffff;&quot;>만화를 10번 정도 읽었고 아주 오랫동안 소중히 여겼어요. 가장 좋은 점은 내가 그 당시 만화에서 보았던 것처럼 애니메이션에 누군가가 반응할 때, 그들이 전율로 폭발하는 것을 보는 것이 얼마나 행복한지 설명할 수 없다는 것입니다. 애니메이션은 만화만큼 멋지고 생생해 보입니다. 성우들의 연기가 현장을 압도하고 있습니다. Sawano의 배경 음악은 그 어느 때보다 경이롭습니다. TK로 끝나는 남자는 예상하지 못했습니다. 오프닝도 너무 좋았습니다. 2화 이후에는 재밌는 일들이 많기에 앞으로도 기대될 것 같아요. 지금까지의 2화까지 애니메이션은 10/10입니다.100% Arise !!!!!</span></span></span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;>만화를 10번 정도 읽었고 아주 오랫동안 소중히 여겼어요. 가장 좋은 점은 내가 그 당시 만화에서 보았던 것처럼 애니메이션에 누군가가 반응할 때, 그들이 전율로 폭발하는 것을 보는 것이 얼마나 행복한지 설명할 수 없다는 것입니다. 애니메이션은 만화만큼 멋지고 생생해 보입니다. 성우들의 연기가 현장을 압도하고 있습니다. Sawano의 배경 음악은 그 어느 때보다 경이롭습니다. TK로 끝나는 남자는 예상하지 못했습니다. 오프닝도 너무 좋았습니다. 2화 이후에는 재밌는 일들이 많기에 앞으로도 기대될 것 같아요. 지금까지의 2화까지 애니메이션은 10/10입니다.100% Arise !!!!!</span></span></span></p>'
     },
     {
       type: 'body',
@@ -55,19 +55,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #000000;&quot;><span style=&quot;background-color: #ffffff;&quot;><b>역대 최고의 애니메이션 각색이다</b></span></span></span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;><b>역대 최고의 애니메이션 각색이다</b></span></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></b></span></b> </span></b></span></b></span><span style=&quot;color: #000000;&quot;>10/10</span></b> </span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></b></span></b> </span></b></span></b></span><span style=&quot;color: inherit;&quot;>10/10</span></b> </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #fbfbfb; color: #333333; text-align: start; font-family: \'Noto Serif KR\';&quot;> 무슨 말을 해야할지 모르겠지만.. 하지만 솔로 레벨링이 애니메이션화 될 것이라는 말을 들었을 때 기쁨으로 가슴이 뛰었습니다.... 그리고 완벽하게 애니메이션화되었습니다. 특히 Op 노래와 완벽한 사운드 배경입니다.... 평범한 이야기이고 줄거리가 피로 시작된다네 어쩌네 블라블라.. 어쩌고 저쩌고 말하는 사람들이 이해가 안 가네요. 그런 사람들의 말은 듣지 마세요 그들은 이 걸작을 망칠 뿐입니다..... 그냥 평범한 줄거리인지 아닌지... 꼭  <span style=&quot;background-color: #fbfbfb; color: #333333; text-align: start;&quot;>끝까지 시청하세요.</span> 만화를 보시면 왜 명작인지 이해하게 될 것입니다... 시즌 2도 나오고 시즌 3도 나왔으면 좋겠어요. </span></p>'
+      html: '<p><span style=&quot;background-color: #fbfbfb; color: inherit; text-align: start; font-family: \'Noto Serif KR\';&quot;> 무슨 말을 해야할지 모르겠지만.. 하지만 솔로 레벨링이 애니메이션화 될 것이라는 말을 들었을 때 기쁨으로 가슴이 뛰었습니다.... 그리고 완벽하게 애니메이션화되었습니다. 특히 Op 노래와 완벽한 사운드 배경입니다.... 평범한 이야기이고 줄거리가 피로 시작된다네 어쩌네 블라블라.. 어쩌고 저쩌고 말하는 사람들이 이해가 안 가네요. 그런 사람들의 말은 듣지 마세요 그들은 이 걸작을 망칠 뿐입니다..... 그냥 평범한 줄거리인지 아닌지... 꼭  <span style=&quot;background-color: #fbfbfb; color: inherit; text-align: start;&quot;>끝까지 시청하세요.</span> 만화를 보시면 왜 명작인지 이해하게 될 것입니다... 시즌 2도 나오고 시즌 3도 나왔으면 좋겠어요. </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></b> <b><span style=&quot;color: #f3c000;&quot;>☆ <b><span style=&quot;color: #f3c000;&quot;>☆</span></b></span></b> </span></b></span><span style=&quot;color: #f3c000;&quot;>☆ <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <span style=&quot;color: #000000;&quot;> 5/10</span></span></b></span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;>★</span></b> <b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></b> <b><span style=&quot;color: #f3c000;&quot;>☆ <b><span style=&quot;color: #f3c000;&quot;>☆</span></b></span></b> </span></b></span><span style=&quot;color: #f3c000;&quot;>☆ <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <span style=&quot;color: inherit;&quot;> 5/10</span></span></b></span></p>'
     },
     {
       type: 'body',
@@ -87,7 +87,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;background-color: #f3c000; color: #000000;&quot;>평점 3.3/5.0</span></b></p>'
+      html: '<p><b><span style=&quot;background-color: #f3c000; color: inherit;&quot;>평점 3.3/5.0</span></b></p>'
     },
     {
       type: 'body',
@@ -111,7 +111,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>만화의 인기가 높기 때문에 \'도쿄 구울\'처럼 별로면 어쩌나 생각했지만 평가는 낮지만 <span style=&quot;color: #333333; text-align: start;&quot;>의외로<span> </span></span>재미있다<br/>.<span> </span>질리지 않는다.<span> </span>하지만 뭔가 부족해</p>'
+      html: '<p>만화의 인기가 높기 때문에 \'도쿄 구울\'처럼 별로면 어쩌나 생각했지만 평가는 낮지만 <span style=&quot;color: inherit; text-align: start;&quot;>의외로<span> </span></span>재미있다<br/>.<span> </span>질리지 않는다.<span> </span>하지만 뭔가 부족해</p>'
     },
     {
       type: 'body',
@@ -139,7 +139,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>원작은 한국의 작품으로 원작자는 뿌리로부터의 반일 사상입니다. 주인공은 물론 한국이고 무대도 한국입니다.<br/>주요 캐릭터는 거의 한국인입니다. 무능한 나라, 파괴되는 나라, <span style=&quot;background-color: #ffffff; color: #444447; text-align: start;&quot;>흉계를 부리는 악인, 문초견이 일본, 일본인으로 알려져 있습니다.</span> <span style=&quot;background-color: #ffffff; color: #444447; text-align: start;&quot;>이러한 것들은, 일본인을 속이기 위해 만화에서 일본인으로 바꾸고 있습니다.</span><br/><span style=&quot;background-color: #ffffff; color: #444447; text-align: start;&quot;>그러나 그 일본인도 도키가 살고 있는 장소까지 바꾸는 머리가 빠져 있었는지 만화도 애니메이션도 자동차 차선은 우측 통행입니다. </span>예를 들어 한국판에서는 이런 대사가 나옵니다. 「바보 같은 일본인은 돈만 내면 좋다」 「일본인은 언제나 한국을 침략하고 싶다」 이런 반일 작품을, 일본인을 속이기 위해 노력하면서 바꾸고 있는 모습이 재미 있습니다.</p>'
+      html: '<p>원작은 한국의 작품으로 원작자는 뿌리로부터의 반일 사상입니다. 주인공은 물론 한국이고 무대도 한국입니다.<br/>주요 캐릭터는 거의 한국인입니다. 무능한 나라, 파괴되는 나라, <span style=&quot;background-color: transparent; color: #444447; text-align: start;&quot;>흉계를 부리는 악인, 문초견이 일본, 일본인으로 알려져 있습니다.</span> <span style=&quot;background-color: transparent; color: #444447; text-align: start;&quot;>이러한 것들은, 일본인을 속이기 위해 만화에서 일본인으로 바꾸고 있습니다.</span><br/><span style=&quot;background-color: transparent; color: #444447; text-align: start;&quot;>그러나 그 일본인도 도키가 살고 있는 장소까지 바꾸는 머리가 빠져 있었는지 만화도 애니메이션도 자동차 차선은 우측 통행입니다. </span>예를 들어 한국판에서는 이런 대사가 나옵니다. 「바보 같은 일본인은 돈만 내면 좋다」 「일본인은 언제나 한국을 침략하고 싶다」 이런 반일 작품을, 일본인을 속이기 위해 노력하면서 바꾸고 있는 모습이 재미 있습니다.</p>'
     },
     {
       type: 'body',
@@ -149,6 +149,16 @@ const post = {
       type: 'body',
       html: '<p><b>애니메이션 나 혼자만 레벨업 (2024) 보는법 </b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post449_img9.jpg', alt: '애니메이션 나 혼자만 레벨업', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post449_img8.jpg', alt: 'Filmarks 나 혼자만 레벨업 일본 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post449_img7.jpg', alt: 'IMDB 나 혼자만 레벨업 평점 분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post449_img6.jpg', alt: '애니메이션 나 혼자만 레벨업', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post449_img5.jpg', alt: '나 혼자만 레벨업 해외 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post449_img4.jpg', alt: '봉준호 감독 미키17 정보 및 오스카상 수상작 기생충 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post449_img3.jpg', alt: '조커 2: 폴리 아 되 개봉일 및 전작 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post449_img2.jpg', alt: '최고 기대작 영화 &amp;lt;파묘&amp;gt; 개봉일 및 티저 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post449_img1.jpg', alt: '애니메이션 나 혼자만 레벨업', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>현재 나 혼자만 레벨업은 넷플릭스, 티빙, 웨이브, 왓챠, 라프텔 등 다양한 OTT 사이트에서 시청 가능합니다.</p>'

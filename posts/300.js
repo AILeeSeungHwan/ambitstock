@@ -93,6 +93,12 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1256&quot; data-origin-width=&quot;1502&quot;><span data-alt=&quot;영화 나우 유 씨미 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/6LeQ0/btsJDsyLQQ0/AAAAAAAAAAAAAAAAAAAAAAHf9LhDCjE5BE9DaOd1mlJTRXCAfE2L_wREoF4sY23u/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nT9nsMWyCa3r1OhowtUbGsx6m64%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/6LeQ0/btsJDsyLQQ0/AAAAAAAAAAAAAAAAAAAAAAHf9LhDCjE5BE9DaOd1mlJTRXCAfE2L_wREoF4sY23u/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nT9nsMWyCa3r1OhowtUbGsx6m64%3D&quot;></span><figcaption>영화 나우 유 씨미 평론가 후기</figcaption> </figure> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post300_img5.jpg', alt: '영화 나우 유 씨미 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post300_img4.jpg', alt: '영화 나우 유 씨미 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post300_img3.jpg', alt: '나우 유 씨미 평점 분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post300_img2.jpg', alt: '나우 유 씨미 IMDB 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post300_img1.jpg', alt: '로튼 토마토 나우 유 씨미 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>다음 포스팅에서 이어집니다.</p>'

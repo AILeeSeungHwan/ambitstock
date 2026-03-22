@@ -63,8 +63,13 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>세상의 맨 앞줄에서 빛나는 영웅이 \'희망\'이라는 이름으로 계속 빛날 수 있도록, 어둠이 밖으로 새어나가지 못하도록 막아내는 존재,</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>세상의 맨 앞줄에서 빛나는 영웅이 \'희망\'이라는 이름으로 계속 빛날 수 있도록, 어둠이 밖으로 새어나가지 못하도록 막아내는 존재,</p>'
     },
+    ,
+    { type: 'image', src: '/images/post304_img4.jpg', alt: '배트맨 다크나이트 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post304_img3.jpg', alt: '배트맨 다크나이트 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post304_img2.jpg', alt: '배트맨 줄거리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post304_img1.jpg', alt: '배트맨 다크 나이트 제목 뜻 의미', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>\'다크 나이트\' 이다.</p>'

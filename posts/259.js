@@ -43,19 +43,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 로튼토마토 평론가 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 100%, 관람객 평점 96%의 영화 할머니가 죽기 전 백만장자가 되는 법 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 100%, 관람객 평점 96%의 영화 할머니가 죽기 전 백만장자가 되는 법 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아마도 최근 개봉한 영화들 중 평론가 평점 100%, 관람객 평점 95점을 넘어가는 평점은 이 작품이 처음인 것 같습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아마도 최근 개봉한 영화들 중 평론가 평점 100%, 관람객 평점 95점을 넘어가는 평점은 이 작품이 처음인 것 같습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>작품성뿐만 아니라 감동과 재미를 함께 가지고 있는 영화임을 보증하는 결과입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>작품성뿐만 아니라 감동과 재미를 함께 가지고 있는 영화임을 보증하는 결과입니다.</p>'
     },
     {
       type: 'body',
@@ -141,6 +141,14 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post259_img7.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post259_img6.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post259_img5.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법 평점 분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post259_img4.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post259_img3.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post259_img2.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법 해외 평론가 평점 시사회 반응 | 아마올해 첫 로튼 토마토 100점 영화', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post259_img1.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>'

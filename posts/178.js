@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post178_img1.jpg', alt: '총을 든 스님', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b> 총을 든 스님 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b> 총을 든 스님 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post178_img2.jpg', alt: '총을 든 스님 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;644&quot; data-origin-width=&quot;1864&quot;><span data-alt=&quot;총을 든 스님 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bQZx1n/btsKUHtw7EV/AAAAAAAAAAAAAAAAAAAAAOoeThd8aFQhRuD3nqTReER1_8BRZ3G0cGF8QCvzsA2Q/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=miWFG52nVRZXToLK3O3JJfj4%2Bj0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bQZx1n/btsKUHtw7EV/AAAAAAAAAAAAAAAAAAAAAOoeThd8aFQhRuD3nqTReER1_8BRZ3G0cGF8QCvzsA2Q/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=miWFG52nVRZXToLK3O3JJfj4%2Bj0%3D&quot;></span><figcaption>총을 든 스님 로튼 토마토 평점</figcaption> </figure> </p>'
@@ -74,6 +76,15 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>총을 든 스님 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post178_img11.jpg', alt: '총을 든 스님', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post178_img10.jpg', alt: '총을 든 스님', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post178_img9.jpg', alt: '총을 든 스님', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post178_img8.jpg', alt: '총을 든 스님', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post178_img7.jpg', alt: '총을 든 스님 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post178_img6.jpg', alt: '총을 든 스님 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post178_img5.jpg', alt: '총을 든 스님 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post178_img4.jpg', alt: '총을 든 스님 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post178_img3.jpg', alt: '총을 든 스님 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>William Stottor - 평점: 3.5/5</b><br>‘The Monk and the Gun’은 세계에서 가장 어린 민주주의 국가 중 하나의 설립을 풍자적이고 날카로운 방식으로 그린다.</br></p>'

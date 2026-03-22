@@ -178,6 +178,17 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>아시아 이용자들이 많아 </span><span style=&quot;font-family: \'Noto Serif KR\';&quot;>네이버 평점과 일맥상통한 결과임이 확인됩니다.</span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post407_img10.jpg', alt: '범죄도시 4 IMDB 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post407_img9.jpg', alt: '범죄도시 4', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post407_img8.jpg', alt: '범죄도시 4', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post407_img7.jpg', alt: '범죄도시 4', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post407_img6.jpg', alt: '범죄도시 4', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post407_img5.jpg', alt: '범죄도시 4', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post407_img4.jpg', alt: '범죄도시 4', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post407_img3.jpg', alt: '범죄도시 4', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post407_img2.jpg', alt: '범죄도시 4 로튼토마토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post407_img1.jpg', alt: '범죄도시 4', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;background-color: #f3c000;&quot;><b>디즈니 플러스, JTBC, TVN 역대 시청률 순위</b></span>로 알아보는 드라마 추천 정보 확인하세요</span></p>'

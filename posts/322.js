@@ -119,6 +119,17 @@ const post = {
       type: 'body',
       html: '<p>앞으로 개봉할 마블 MCU 영화 개봉예정작들을 하단 포스팅을 참고하세요.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post322_img10.jpg', alt: '디즈니 플러스 마블', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post322_img9.jpg', alt: '디즈니 플러스 마블', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post322_img8.jpg', alt: '디즈니 플러스 마블', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post322_img7.jpg', alt: '디즈니 플러스 마블', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post322_img6.jpg', alt: '디즈니 플러스 마블', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post322_img5.jpg', alt: '디즈니 플러스 마블', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post322_img4.jpg', alt: '디즈니 플러스 마블', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post322_img3.jpg', alt: '디즈니 플러스 마블', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post322_img2.jpg', alt: '디즈니 플러스 마블', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post322_img1.jpg', alt: '디즈니 플러스 마블', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

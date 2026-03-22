@@ -66,6 +66,16 @@ const post = {
       type: 'body',
       html: '<p>유아인은 불미스러운 일로 인해 시즌 2에서 하차했으며, 그 자리는 김성철이 대신 맡게 되었습니다. 연상호 감독은 이번 시즌이 더욱 흥미로운 질문들로 가득할 것이라고 예고했으며, 시즌 1에서 풀리지 않은 미스터리들이 어떻게 풀릴지 기대가 됩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post272_img9.jpg', alt: '지옥 시즌 2 문소리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post272_img8.jpg', alt: '지옥 시즌 2 문근영', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post272_img7.jpg', alt: '지옥 시즌 2 조동인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post272_img6.jpg', alt: '지옥 시즌 2 진희정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post272_img5.jpg', alt: '지옥 시즌 2 양익준', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post272_img4.jpg', alt: '지옥 시즌 2 김신록', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post272_img3.jpg', alt: '지옥 시즌 2 김현주', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post272_img2.jpg', alt: '지옥 시즌 2 김성철', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post272_img1.jpg', alt: '지옥 시즌 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

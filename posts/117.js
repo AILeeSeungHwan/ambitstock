@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>프랑스 이탈리아 영화 카라바조의 그림자가 2025년 1월 22일 개봉합니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post117_img1.jpg', alt: '카라바조의 그림자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 제목인 카라바조의 그림자의 뜻 해석 그리고 해외 로튼 토마토 평론가 반응 후기</b></span>를 함께 알아보도록 하겠습니다.</p>'
@@ -37,6 +38,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post117_img2.jpg', alt: '카라바조의 그림자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-drama-recommend-netflix/',
@@ -62,6 +64,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>성모의 죽음, 메두사, <br>성 마태오의 소명, <br>세례 요한의 참수…</br></br></span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post117_img3.jpg', alt: '카라바조의 그림자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><br/>이탈리아를 대표하는 천재 화가 ‘카라바조’. 살해 혐의로 도망자 신세가 된 \'카라바조\'는 로마 교외로 도피 생활을 이어가는 와중에도 그림을 놓지 않는다.</p>'
@@ -81,6 +84,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;>카라바조의 그림자 <br/>Caravaggio\'s Shadow</span></b></blockquote>'
     },
+    { type: 'image', src: '/images/post117_img4.jpg', alt: '카라바조의 그림자 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>카라바조의 그림자 (Caravaggio\'s Shadow)</b>는 <span style=&quot;background-color: #9feec3;&quot;><b>카라바조가 남긴 예술적 유산과, 그의 삶에서 발생한 어두운 면과 그가 겪은 갈등, 그리고 죄와 도피의 그림자까지도 의미하는 표현</b></span>입니다.</p>'
@@ -105,8 +109,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>카라바조의 그림자 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>카라바조의 그림자 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post117_img5.jpg', alt: '카라바조의 그림자 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;369&quot; data-origin-width=&quot;1120&quot;><span data-alt=&quot;카라바조의 그림자 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bm64Q3/btsLBjGPKS5/AAAAAAAAAAAAAAAAAAAAAO2RMNdUXyU3pLShE7CeOxD8kh9CLQZbL_fpG1f2yvlc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=6HJf74HUoFxlxEZ6tHGh%2B75ZWZk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bm64Q3/btsLBjGPKS5/AAAAAAAAAAAAAAAAAAAAAO2RMNdUXyU3pLShE7CeOxD8kh9CLQZbL_fpG1f2yvlc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=6HJf74HUoFxlxEZ6tHGh%2B75ZWZk%3D&quot;></span><figcaption>카라바조의 그림자 로튼 토마토 평점</figcaption> </figure> </p>'
@@ -137,6 +142,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>카라바조의 그림자 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post117_img6.jpg', alt: '카라바조의 그림자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Stephen Romei - 평점 4/5 (오리지널 스코어)</b><br/><span style=&quot;background-color: #9feec3;&quot;><b>이 몰입감 있는 영화는 역사적이고 시의적절하다. </b></span></p>'
@@ -163,6 +169,12 @@ const post = {
       type: 'body',
       html: '<h3>6/10감동적인 그림</h3>'
     },
+    { type: 'image', src: '/images/post117_img12.jpg', alt: '카라바조의 그림자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post117_img11.jpg', alt: '카라바조의 그림자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post117_img10.jpg', alt: '카라바조의 그림자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post117_img9.jpg', alt: '카라바조의 그림자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post117_img8.jpg', alt: '카라바조의 그림자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post117_img7.jpg', alt: '카라바조의 그림자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이 영화는 16세기 이탈리아 화가 미켈란젤로 메리시 다 카라바조의 이야기를 교황의 조사관의 시각으로 풀어낸 작품이다. 그는 &quot;보는 대로 그린&quot; 화가로 유명했으며, 신성한 것과 가까운 현실을 그리려고 했고, 그로 인해 카톨릭 교회와는 맞지 않았다.</p>'

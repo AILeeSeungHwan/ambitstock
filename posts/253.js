@@ -52,6 +52,12 @@ const post = {
       type: 'body',
       html: '<p>놀랍게도 이 영화는 독특한 촬영 기법을 사용하여 등장인물들이 더욱 가까워지게 하였고, 영화 제작 분야에서 흔히 저지르는 실수를 배우는 과정을 통해 관객을 몰입시켰다. 10분 길이의 8mm 단편 영화가 교실 안에서 완벽하게 연출된 것은 큰 보너스였다. 큰 장점이라고 할 수 있다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post253_img5.jpg', alt: '싱글 에이트 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post253_img4.jpg', alt: '싱글 에이트 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post253_img3.jpg', alt: '싱글 에이트 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post253_img2.jpg', alt: '싱글 에이트 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post253_img1.jpg', alt: '싱글 에이트 결말 후기 해외반응 관람평 리뷰 | 내가 만드는 인생이란 영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

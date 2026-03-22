@@ -79,11 +79,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>나쁜 평가를 무시하세요 - Ignore the bad reviews (10/10)</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>나쁜 평가를 무시하세요 - Ignore the bad reviews (10/10)</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>초반부의 느린 전개가 필요했다고 옹호하며, 고민시의 연기가 인상적이었다고 평가. 전반적으로 잘 만들어진 시리즈로, 무거운 분위기가 잘 표현되었다고 함.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>초반부의 느린 전개가 필요했다고 옹호하며, 고민시의 연기가 인상적이었다고 평가. 전반적으로 잘 만들어진 시리즈로, 무거운 분위기가 잘 표현되었다고 함.</p>'
     },
     {
       type: 'body',
@@ -99,20 +99,28 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>고민시의 팬인 리뷰어가 느린 전개에도 불구하고 흥미를 잃지 않았다고 평가. 다만 몇 가지 이해할 수 없는 캐릭터 행동을 지적하며, 전체적으로는 만족스러운 시청 경험이었다고 함.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>고민시의 팬인 리뷰어가 느린 전개에도 불구하고 흥미를 잃지 않았다고 평가. 다만 몇 가지 이해할 수 없는 캐릭터 행동을 지적하며, 전체적으로는 만족스러운 시청 경험이었다고 함.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>모든 시청자를 모욕하는 작품! - An insult to every viewer! (1/10)</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>모든 시청자를 모욕하는 작품! - An insult to every viewer! (1/10)</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>스토리가 전혀 연결되지 않으며, 불필요한 장면들로 시간을 낭비했다고 강하게 비판. 특히 악당 캐릭터의 말도 안 되는 행동과 사건 전개가 불합리하다고 언급.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>스토리가 전혀 연결되지 않으며, 불필요한 장면들로 시간을 낭비했다고 강하게 비판. 특히 악당 캐릭터의 말도 안 되는 행동과 사건 전개가 불합리하다고 언급.</p>'
     },
     {
       type: 'body',
       html: '<p><b>이 작품의 이름을 \'달팽이\'로 바꿔야 해 - They should change the name of this show to \'The Snail\' (3/10)</b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post331_img7.jpg', alt: '아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post331_img6.jpg', alt: '아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post331_img5.jpg', alt: '아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post331_img4.jpg', alt: '아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post331_img3.jpg', alt: '아무도 없는 숲속에서 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post331_img2.jpg', alt: '아무도 없는 숲속에서 해외평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post331_img1.jpg', alt: '아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>첫 에피소드가 너무 느리게 전개되며, 새로운 캐릭터가 너무 자주 등장해 집중하기 어렵다고 비판. 이후 에피소드를 볼 동기를 전혀 주지 못했다고 평가.</p>'

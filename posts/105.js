@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post105_img1.jpg', alt: '브루탈리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>전쟁의 상흔을 뒤로하고 미국에 정착한 건축가 ‘라즐로 토스’(애드리언 브로디). 미국 이민자로서 맞닥뜨린 냉혹한 현실 속에서 전쟁의 트라우마를 견뎌내고 있던 어느 날, ‘라즐로’의 천재성을 알아본 부유한 사업가 ‘해리슨’(가이 피어스)이 기념비적인 건축물 설계를 제안한다.</p>'
     },
+    { type: 'image', src: '/images/post105_img2.jpg', alt: '브루탈리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>하지만, 시대와 공간, 빛의 경계를 넘나드는 대담하고 혁신적인 그의 건축 설계는 사람들의 공감을 얻지 못하고 반대에 부딪히게 된다. 후원자 해리슨의 감시와 압박, 주변의 비난이 거세질수록, ‘라즐로’는 오히려 더 자신의 설계에 집착하게 된다.</p>'
@@ -70,6 +72,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;></span><span style=&quot;color: #781b33;&quot;>영어제목 <br>The burtalist</br></span><br/></b></blockquote>'
     },
+    { type: 'image', src: '/images/post105_img3.jpg', alt: '브루탈리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 <b>\'브루탈리스트(The Brutalist)\'</b>는 제2차 세계대전 이후 미국에 정착한 유대인 건축가 \'라즐로 토스\'의 삶을 그린 드라마입니다.</p>'
@@ -117,6 +120,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 브루탈리스트 해외 평론가 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post105_img9.jpg', alt: '브루탈리스트 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post105_img8.jpg', alt: '브루탈리스트 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post105_img7.jpg', alt: '브루탈리스트 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post105_img6.jpg', alt: '브루탈리스트 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post105_img5.jpg', alt: '브루탈리스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post105_img4.jpg', alt: '브루탈리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>내용에 스포는 크게 없기에 바로 이어서 확인해 보시길 바랍니다.</p>'

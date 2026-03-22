@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post176_img1.jpg', alt: '파일럿', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>파일럿 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>파일럿 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post176_img2.jpg', alt: '영화 파일럿 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;357&quot; data-origin-width=&quot;1129&quot;><span data-alt=&quot;영화 파일럿 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/oD1X5/btsKS8Nu6fd/AAAAAAAAAAAAAAAAAAAAACfm8tq9KQiF3MbKzdpxTicMAJEu_s91KIcKahhX8qNG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vbuYC%2B%2F23ql9xr5uz5WK33o470o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/oD1X5/btsKS8Nu6fd/AAAAAAAAAAAAAAAAAAAAACfm8tq9KQiF3MbKzdpxTicMAJEu_s91KIcKahhX8qNG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vbuYC%2B%2F23ql9xr5uz5WK33o470o%3D&quot;></span><figcaption>영화 파일럿 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
@@ -70,6 +72,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 파일럿 평론가 시청자 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post176_img8.jpg', alt: '파일럿', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post176_img7.jpg', alt: '파일럿', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post176_img6.jpg', alt: '파일럿', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post176_img5.jpg', alt: '넷플릭스 파일럿', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post176_img4.jpg', alt: '넷플릭스 파일럿', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post176_img3.jpg', alt: '넷플릭스 파일럿', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>William Schwartz - 평점 없음</b><br>이 전통 미디어와 소셜 미디어의 이미지 형성에 대한 조롱을 다룬 기본적인 소극극은 많은 훌륭한 개그와 함께 Pilot을 진정으로 재미있는 영화로 만들었다.</br></p>'

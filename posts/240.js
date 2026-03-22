@@ -81,6 +81,11 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>특히, 배우들의 연기는 훌륭하고 믿을 만했으며 큰 찬사를 받을 만하다. 시각적으로도 세심한 디테일로 각 장면의 본질을 잘 포착하였다.</span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post240_img4.jpg', alt: '채식주의자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post240_img3.jpg', alt: '채식주의자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post240_img2.jpg', alt: '채식주의자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post240_img1.jpg', alt: '채식주의자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

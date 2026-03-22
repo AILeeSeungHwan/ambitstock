@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post165_img1.jpg', alt: '밀레니엄 맘보', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -54,6 +55,7 @@ const post = {
       type: 'body',
       html: '<h4 data-pm-slice=&quot;1 1 []&quot;><b>영화 제목 : 밀레니엄 맘보 Millennium Mambo, 2003</b></h4>'
     },
+    { type: 'image', src: '/images/post165_img2.jpg', alt: '밀레니엄 맘보', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h4><b>개요</b></h4>'
@@ -95,8 +97,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>밀레니엄 맘보 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>밀레니엄 맘보 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post165_img3.jpg', alt: '밀레니엄 맘보 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 84%, 관객 평점은 70%입니다.</b></span></p>'
@@ -115,6 +118,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>밀레니엄 맘보 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post165_img4.jpg', alt: '밀레니엄 맘보', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Hector A. Gonzalez - 평점 5/5</span></i><br>과거와 우리가 자아를 발견하는 여정에서 내리는 결정들을 꿈처럼 들여다보는 영화.</br></p>'
@@ -173,6 +177,13 @@ const post = {
       type: 'body',
       html: '<p><b>밀레니엄 맘보(Millennium Mambo)</b>의 제목은 영화가 담고 있는 시대적 배경과 감성을 상징적으로 나타냅니다.</p>'
     },
+    { type: 'image', src: '/images/post165_img11.jpg', alt: '밀레니엄 맘보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post165_img10.jpg', alt: '밀레니엄 맘보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post165_img9.jpg', alt: '밀레니엄 맘보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post165_img8.jpg', alt: '밀레니엄 맘보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post165_img7.jpg', alt: '밀레니엄 맘보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post165_img6.jpg', alt: '밀레니엄 맘보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post165_img5.jpg', alt: '밀레니엄 맘보', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;>&quot;밀레니엄(Millennium)&quot;은 <br/>새로운 천년이 시작되는 시점,<br/>즉 2000년대 초반</span></b></blockquote>'

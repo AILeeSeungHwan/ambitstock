@@ -201,6 +201,14 @@ const post = {
       type: 'body',
       html: '<p>이상으로 넷플릭스 드라마 추천 포스팅 마칩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post269_img7.jpg', alt: '넷플릭스 드라마 추천 1위 흑백요리사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post269_img6.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post269_img5.jpg', alt: '지옥 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post269_img4.jpg', alt: '신들의 황혼', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post269_img3.jpg', alt: '아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post269_img2.jpg', alt: '완전무결한 커플', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post269_img1.jpg', alt: '넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>아래 포스팅을 통해 넷플릭스 영화 추천도 확인해 보실 수 있습니다.</p>'

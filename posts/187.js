@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post187_img1.jpg', alt: '모스크바 미션', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>모스크바 미션 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>모스크바 미션 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post187_img2.jpg', alt: '모스크바 미션 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;364&quot; data-origin-width=&quot;1107&quot;><span data-alt=&quot;모스크바 미션 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bXj6Fw/btsKPESN4lJ/AAAAAAAAAAAAAAAAAAAAAECqpKy-Cm2j9qQepWkXtOKbH884hP2KhoY41Tu8JCBb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=HjxLyXHpX6%2BSUKocP%2BEnqsqgznk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bXj6Fw/btsKPESN4lJ/AAAAAAAAAAAAAAAAAAAAAECqpKy-Cm2j9qQepWkXtOKbH884hP2KhoY41Tu8JCBb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=HjxLyXHpX6%2BSUKocP%2BEnqsqgznk%3D&quot;></span><figcaption>모스크바 미션 로튼 토마토 평점</figcaption> </figure> </p>'
@@ -74,6 +76,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>모스크바 미션 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post187_img3.jpg', alt: '모스크바 미션', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Dennis Schwartz - 평점(B-)</span></i><br>내용은 액션 시퀀스가 깔끔하게 잘 처리되었다.</br></p>'
@@ -97,6 +100,10 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>모스크바 미션 해외 관객 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post187_img7.jpg', alt: '모스크바 미션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post187_img6.jpg', alt: '모스크바 미션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post187_img5.jpg', alt: '모스크바 미션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post187_img4.jpg', alt: '모스크바 미션', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Tony S 2.5/5</span></i><br/>장한위와 앤디 라우가 충분히 활용되지 않았다.</p>'

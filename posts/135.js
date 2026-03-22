@@ -21,23 +21,24 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;>2025년 넷플릭스 뭐 보지?</span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;>2025년 넷플릭스 뭐 보지?</span></p>'
+    },
+    { type: 'image', src: '/images/post135_img1.jpg', alt: '넷플릭스 개봉예정작', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: #5e5e64; background-color: transparent;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>넷플릭스 공개 예정인 한국 영화를 추천해 드립니다.</b></span></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #5e5e64; background-color: #ffffff;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>넷플릭스 공개 예정인 한국 영화를 추천해 드립니다.</b></span></span></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅은 넷플릭스 한국영화 2025년 개봉예정작 두 번째 포스팅으로, 이전 포스팅을 먼저 확인하고 오시길 추천드립니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이번 포스팅은 넷플릭스 한국영화 2025년 개봉예정작 두 번째 포스팅으로, 이전 포스팅을 먼저 확인하고 오시길 추천드립니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;>각 작품에 대한 포스터와 영화의 줄거리, 그리고 감독의 영화에 대한 인터뷰를 함께 소개해드리겠습니다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>각 작품에 대한 포스터와 영화의 줄거리, 그리고 감독의 영화에 대한 인터뷰를 함께 소개해드리겠습니다. </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000; background-color: #ffffff;&quot;><b>해당 포스팅은 넷플릭스 공식 홈페이지의 2025년 공개예정 한국영화감독 인터뷰를 참고하여 작성하였습니다.</b></span></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit; background-color: transparent;&quot;><b>해당 포스팅은 넷플릭스 공식 홈페이지의 2025년 공개예정 한국영화감독 인터뷰를 참고하여 작성하였습니다.</b></span></span></p>'
     },
     {
       type: 'body',
@@ -58,9 +59,10 @@ const post = {
       type: 'body',
       html: '<h3>장르</h3>'
     },
+    { type: 'image', src: '/images/post135_img2.jpg', alt: '넷플릭스 개봉예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span>액션, 범죄</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span>액션, 범죄</span></p>'
     },
     {
       type: 'body',
@@ -68,7 +70,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;>모든 룰이 무너진 살인청부업계에 긴 휴가 후 컴백한 A급 킬러 \'사마귀\'와 그의 훈련생 동기이자 라이벌 \'재이\', 은퇴한 레전드 킬러 \'독고\'가 1인자 자리를 놓고 벌어지는 대결을 그린 액션 영화.</span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;>모든 룰이 무너진 살인청부업계에 긴 휴가 후 컴백한 A급 킬러 \'사마귀\'와 그의 훈련생 동기이자 라이벌 \'재이\', 은퇴한 레전드 킬러 \'독고\'가 1인자 자리를 놓고 벌어지는 대결을 그린 액션 영화.</span></p>'
     },
     {
       type: 'body',
@@ -76,7 +78,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;>임시완, 박규영, 조우진</span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;>임시완, 박규영, 조우진</span></span></p>'
     },
     {
       type: 'body',
@@ -88,7 +90,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>이태성 감독은 <i>길복순</i>의 스핀오프 작품인 <i>사마귀</i>에서 첫 연출을 맡으며 큰 관심을 모았습니다. 그는 “<i>길복순</i>에서 등장하는 이름이 있다. 휴가 간 사마귀와 은퇴한 독고 할배가 거론된다. <i>길복순</i>에서 사마귀라는 인물이 등장하지 않았지만, 충분히 후속 이야기를 만들 수 있을만한 인물이라고 생각했다”라고 전하며 작품의 시작을 밝혔습니다. 또한, <i>사마귀</i>는 넷플릭스의 살인청부업계 세계관을 공유하며, <i>길복순</i>과는 또 다른 매력을 기대하게 만듭니다.</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;>이태성 감독은 <i>길복순</i>의 스핀오프 작품인 <i>사마귀</i>에서 첫 연출을 맡으며 큰 관심을 모았습니다. 그는 “<i>길복순</i>에서 등장하는 이름이 있다. 휴가 간 사마귀와 은퇴한 독고 할배가 거론된다. <i>길복순</i>에서 사마귀라는 인물이 등장하지 않았지만, 충분히 후속 이야기를 만들 수 있을만한 인물이라고 생각했다”라고 전하며 작품의 시작을 밝혔습니다. 또한, <i>사마귀</i>는 넷플릭스의 살인청부업계 세계관을 공유하며, <i>길복순</i>과는 또 다른 매력을 기대하게 만듭니다.</span></p>'
     },
     {
       type: 'body',
@@ -96,7 +98,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;>이태성 감독은 “굉장히 탄탄하고 조직력이 있는 시스템으로 운영되고 있다고 생각한다. 요즘 시청자들이 요구하는 영화를 보는 방식에 특화되어 있는 시스템이라고 생각한다”며 넷플릭스라는 플랫폼에 대한 생각을 밝혔습니다.</span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;>이태성 감독은 “굉장히 탄탄하고 조직력이 있는 시스템으로 운영되고 있다고 생각한다. 요즘 시청자들이 요구하는 영화를 보는 방식에 특화되어 있는 시스템이라고 생각한다”며 넷플릭스라는 플랫폼에 대한 생각을 밝혔습니다.</span></p>'
     },
     {
       type: 'h2',
@@ -108,9 +110,10 @@ const post = {
       type: 'body',
       html: '<h3>장르</h3>'
     },
+    { type: 'image', src: '/images/post135_img3.jpg', alt: '넷플릭스 개봉예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span>애니메이션, 로맨스</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span>애니메이션, 로맨스</span></p>'
     },
     {
       type: 'body',
@@ -118,7 +121,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;>우주인 난영과 뮤지션 제이의 세상에서 가장 먼 거리의 롱디 로맨스를 그린 애니메이션 영화.</span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;>우주인 난영과 뮤지션 제이의 세상에서 가장 먼 거리의 롱디 로맨스를 그린 애니메이션 영화.</span></p>'
     },
     {
       type: 'body',
@@ -126,7 +129,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;>김태리, 홍경</span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;>김태리, 홍경</span></span></p>'
     },
     {
       type: 'body',
@@ -138,11 +141,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>한지원 감독은 “넷플릭스와 함께 했기 때문에 가능한 기회이기도 했다. 한국에서 만나기 어려웠던 프로젝트를 보여드릴 수 있게 되어 뜻깊다”며 작품에 대한 소감을 전했습니다. <i>이 별에 필요한</i>은 넷플릭스의 첫 한국 애니메이션 작품으로, 선댄스 영화제를 비롯한 국내외 유수 영화제에 초청되며 큰 기대를 모은 작품입니다.</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;>한지원 감독은 “넷플릭스와 함께 했기 때문에 가능한 기회이기도 했다. 한국에서 만나기 어려웠던 프로젝트를 보여드릴 수 있게 되어 뜻깊다”며 작품에 대한 소감을 전했습니다. <i>이 별에 필요한</i>은 넷플릭스의 첫 한국 애니메이션 작품으로, 선댄스 영화제를 비롯한 국내외 유수 영화제에 초청되며 큰 기대를 모은 작품입니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>감독은 “목소리 뿐만 아니라, 애니메이션 동작과 연기에 어떻게 하면 김태리, 홍경 배우의 영감을 받을 수 있을까 고민했다. 애니메틱이라는 과정을 통해 중요한 장면들의 연기를 부탁드렸고, 어떤 씬들은 폭발적으로 리얼한 연기가 나오기도 했다”라고 말하며 제작 과정에 대한 이야기를 전했습니다.</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;>감독은 “목소리 뿐만 아니라, 애니메이션 동작과 연기에 어떻게 하면 김태리, 홍경 배우의 영감을 받을 수 있을까 고민했다. 애니메틱이라는 과정을 통해 중요한 장면들의 연기를 부탁드렸고, 어떤 씬들은 폭발적으로 리얼한 연기가 나오기도 했다”라고 말하며 제작 과정에 대한 이야기를 전했습니다.</span></p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -155,9 +158,12 @@ const post = {
       type: 'body',
       html: '<h3>장르</h3>'
     },
+    { type: 'image', src: '/images/post135_img6.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post135_img5.jpg', alt: '넷플릭스 개봉예정작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post135_img4.jpg', alt: '넷플릭스 개봉예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span>스릴러</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span>스릴러</span></p>'
     },
     {
       type: 'body',
@@ -165,7 +171,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;>84제곱미터 아파트로 내 집 마련에 성공한 영끌족 우성이 정체를 알 수 없는 층간소음에 시달리며 벌어지는 예측불허 스릴러.</span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;>84제곱미터 아파트로 내 집 마련에 성공한 영끌족 우성이 정체를 알 수 없는 층간소음에 시달리며 벌어지는 예측불허 스릴러.</span></p>'
     },
     {
       type: 'body',
@@ -173,7 +179,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;>강하늘, 염혜란, 서현우</span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;>강하늘, 염혜란, 서현우</span></span></p>'
     },
     {
       type: 'body',
@@ -185,11 +191,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>김태준 감독은 <i>스마트폰을 떨어뜨렸을 뿐인데</i>로 현실 스릴러 장르의 진수를 선보였으며, 이번에는 아파트 층간소음을 소재로 이웃과의 첨예한 갈등을 그린 <i>84제곱미터</i>로 돌아왔습니다. 감독은 “현실적인 소재를 다루다 보니, 아파트라는 획일화된 공간의 구조나 마감들을 굉장히 현실적으로 구현해야 된다고 생각했다. </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;>김태준 감독은 <i>스마트폰을 떨어뜨렸을 뿐인데</i>로 현실 스릴러 장르의 진수를 선보였으며, 이번에는 아파트 층간소음을 소재로 이웃과의 첨예한 갈등을 그린 <i>84제곱미터</i>로 돌아왔습니다. 감독은 “현실적인 소재를 다루다 보니, 아파트라는 획일화된 공간의 구조나 마감들을 굉장히 현실적으로 구현해야 된다고 생각했다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;>공간들의 현실적인 톤을 놓치지 않으면서 최대한 다채롭게 표현하려고 노력했다”며, 현실 스릴러라는 장르적 재미를 예고했습니다. 또한, “첫 작품은 스마트폰을 소재로 했고, 이번 작품은 집을 소재로 하다 보니 넷플릭스의 시청 환경과 궁합이 잘 맞겠다는 생각을 했다”며 넷플릭스와의 호흡에 대한 기대감을 전했습니다.</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;>공간들의 현실적인 톤을 놓치지 않으면서 최대한 다채롭게 표현하려고 노력했다”며, 현실 스릴러라는 장르적 재미를 예고했습니다. 또한, “첫 작품은 스마트폰을 소재로 했고, 이번 작품은 집을 소재로 하다 보니 넷플릭스의 시청 환경과 궁합이 잘 맞겠다는 생각을 했다”며 넷플릭스와의 호흡에 대한 기대감을 전했습니다.</span></p>'
     },
     {
       type: 'h2',

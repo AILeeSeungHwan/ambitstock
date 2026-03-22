@@ -57,6 +57,11 @@ const post = {
       type: 'body',
       html: '<p>조정석은 프로그램 기획 당시를 회상하며, 처음에는 1~2곡만 나와도 좋겠다고 생각했지만, 프로젝트가 커지면서 부담도 되고 긴장도 많이 했다고 밝혔습니다. 그러나 오래전부터 꿈꿔왔던 가수라는 타이틀을 얻게 되어 기분이 좋고, 꿈인지 현실인지 실감이 나지 않는다고 덧붙였습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post327_img4.jpg', alt: '신인가수 조정석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post327_img3.jpg', alt: '신인가수 조정석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post327_img2.jpg', alt: '신인가수 조정석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post327_img1.jpg', alt: '신인가수 조정석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>\'신인가수 조정석\'은 싱어송라이터를 꿈꾸는 조정석의 신인가수 데뷔 프로젝트로, 8월 30일 넷플릭스에서 공개될 예정입니다.</p>'

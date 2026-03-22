@@ -21,19 +21,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 비틀쥬스 비틀쥬스 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 비틀쥬스 비틀쥬스 로튼토마토 평론가 평점입니다.</b></span></p>'
+    },
+    { type: 'image', src: '/images/post211_img1.jpg', alt: '비틀쥬스 비틀쥬스', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 77%, 관람객 평점 79%의 영화 비틀쥬스 비틀쥬스 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 77%, 관람객 평점 79%의 영화 비틀쥬스 비틀쥬스 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평론가 평점이 높은 평점은 아니지만 신선도 보증마크를 획득하며 좋은 평가를 받았습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가 평점이 높은 평점은 아니지만 신선도 보증마크를 획득하며 좋은 평가를 받았습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>로튼토마토 평론가 점수와 관람객 점수에서는 의심할 여지가 없는 기록입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>로튼토마토 평론가 점수와 관람객 점수에서는 의심할 여지가 없는 기록입니다.</p>'
     },
     {
       type: 'h2',
@@ -43,8 +44,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>비틀쥬스 비틀쥬스 평론가 결말후기 관람평 알아보겠습니다.</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>비틀쥬스 비틀쥬스 평론가 결말후기 관람평 알아보겠습니다.</span></b></p>'
     },
+    { type: 'image', src: '/images/post211_img2.jpg', alt: '비틀쥬스 비틀쥬스 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Dolores Quintana - 평점 없음</span></i><br>어두운 유머와 따뜻한 감동이 공존하는 \'비틀쥬스 비틀쥬스\'는 살아있는 이들에게 공포를 선사하는 고딕 발렌타인이다.</br></p>'
@@ -103,6 +105,12 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post211_img8.jpg', alt: '비틀쥬스 비틀쥬스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post211_img7.jpg', alt: '비틀쥬스 비틀쥬스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post211_img6.jpg', alt: '비틀쥬스 2 비틀쥬스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post211_img5.jpg', alt: '비틀쥬스 비틀쥬스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post211_img4.jpg', alt: '비틀쥬스 비틀쥬스 로튼 토마토 평점 결말후기 관람평 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post211_img3.jpg', alt: '비틀쥬스 비틀쥬스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10</b></span></p>'

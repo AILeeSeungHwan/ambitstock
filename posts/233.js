@@ -202,6 +202,17 @@ const post = {
       type: 'body',
       html: '<p>전체적으로 작품성에 치중한 후기이기에, 트럼프라는 정치적인 인물을 배제할 순 없지만 순전히 작품으로 좋은 영화임을 확실히 알 수 있는 관람평이었습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post233_img10.jpg', alt: '어프렌티스 후기 관람평 결말 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post233_img9.jpg', alt: '어프렌티스 후기 관람평 결말 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post233_img8.jpg', alt: '어프렌티스 후기 관람평 결말 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post233_img7.jpg', alt: '어프렌티스 후기 관람평 결말 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post233_img6.jpg', alt: '어프렌티스 후기 관람평 결말 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post233_img5.jpg', alt: '어프렌티스 후기 관람평 결말 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post233_img4.jpg', alt: '어프렌티스 후기 관람평 결말 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post233_img3.jpg', alt: '어프렌티스 후기 관람평 결말 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post233_img2.jpg', alt: '어프렌티스 후기 관람평 결말 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post233_img1.jpg', alt: '어프렌티스 후기 관람평 결말 리뷰', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

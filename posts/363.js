@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>개봉일</b></p>'
     },
+    { type: 'image', src: '/images/post363_img1.jpg', alt: '마블 영화 개봉 예정', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 2월 14일</p>'
@@ -63,27 +64,28 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>공개일</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>공개일</b></p>'
+    },
+    { type: 'image', src: '/images/post363_img2.jpg', alt: '마블 영화 개봉 예정', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>2025년 중 (디즈니+)</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>2025년 중 (디즈니+)</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>출연진</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>출연진</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>도미니크 손(리리 윌리엄스 / 아이언하트)</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>도미니크 손(리리 윌리엄스 / 아이언하트)</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>줄거리 내용</b><span> </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>줄거리 내용</b><span> </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>천재 발명가 리리 윌리엄스가 새로운 아이언맨으로서 활동하며 벌어지는 이야기를 다룬다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>천재 발명가 리리 윌리엄스가 새로운 아이언맨으로서 활동하며 벌어지는 이야기를 다룬다.</p>'
     },
     {
       type: 'body',
@@ -91,7 +93,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><br><span style=&quot;color: #000000; text-align: start;&quot;>5. 썬더볼트</span></br></p>'
+      html: '<p><br><span style=&quot;color: inherit; text-align: start;&quot;>5. 썬더볼트</span></br></p>'
     },
     {
       type: 'body',
@@ -127,6 +129,7 @@ const post = {
       type: 'body',
       html: '<p><b>개봉일 </b></p>'
     },
+    { type: 'image', src: '/images/post363_img3.jpg', alt: '마블 영화 개봉 예정', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 중 디즈니+ 공개 예정</p>'
@@ -150,6 +153,7 @@ const post = {
       type: 'body',
       html: '<p><b>개봉일</b></p>'
     },
+    { type: 'image', src: '/images/post363_img4.jpg', alt: '마블 영화 개봉 예정', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 7월 25일</p>'
@@ -180,6 +184,7 @@ const post = {
       type: 'body',
       html: '<div><center><a href=&quot;https://ambitstock.com/133&quot; title=&quot;어벤져스-둠스데이-보러가기&quot;><button class=&quot;primary&quot;>어벤져스 둠스데이 보러가기</button></a></center></div>'
     },
+    { type: 'image', src: '/images/post363_img5.jpg', alt: '마블 영화 개봉 예정', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>개봉일</b> </p>'
@@ -224,6 +229,9 @@ const post = {
       type: 'body',
       html: '<p><b>개봉일</b> </p>'
     },
+    { type: 'image', src: '/images/post363_img8.jpg', alt: '마블 영화 개봉 예정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post363_img7.jpg', alt: '마블 영화 개봉 예정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post363_img6.jpg', alt: '마블 영화 개봉 예정', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2027년 5월 예정</p>'

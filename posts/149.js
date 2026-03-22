@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>영화 <i>\'보고타\'</i>는 <b>콜롬비아의 수도인 보고타를 제목</b>으로 하고 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post149_img1.jpg', alt: '보고타', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>보고타는 콜롬비아에서 가장 중요한 도시로, 높은 산속에 위치한 큰 도시입니다. 영화 제목에서 \'보고타\'는 도시 이름만을 뜻하는 게 아니라, 주인공이 새로운 곳에서 시작하는 삶, 생존하려는 노력, 그리고 그 과정에서의 변화와 갈등을 담고 있는 상징적인 단어예요.</p>'
@@ -57,6 +58,7 @@ const post = {
       type: 'body',
       html: '<h4><b>낯선 환경에서 살아남기 위한 노력</b></h4>'
     },
+    { type: 'image', src: '/images/post149_img2.jpg', alt: '네이버 출처 보고타 정보', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이 영화는 1990년대 후반을 배경으로, 주인공 ‘민우’가 한국을 떠나 가족과 함께 콜롬비아로 이주하면서 시작됩니다.</p>'
@@ -99,6 +101,7 @@ const post = {
       type: 'body',
       html: '<p>앞서 말했듯 영화 <i>\'보고타\'</i>는 단순히 한국인이 외국에서 겪는 어려움을 다룬 이야기가 아닙니다.</p>'
     },
+    { type: 'image', src: '/images/post149_img3.jpg', alt: '보고타', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>낯선 곳에서 살아남으려는 인간의 노력과, 그 과정에서 드러나는 내면의 갈등과 고민을 담은 영화예요. 민우가 겪는 변화와 갈등을 보여주는 중요한 장치로써 보고타라는 지역이 사용됩니다. 보고타의 시장, 골목, 밤거리 같은 생생한 배경은 민우의 이야기를 더욱 몰입감 있게 만들어주죠.</p>'
@@ -114,6 +117,11 @@ const post = {
       type: 'body',
       html: '<p>이 영화는 낯선 곳에서 새로운 삶을 시작해야 하는 사람들의 현실적인 이야기를 통해 관객들에게 많은 공감을 주게 될 작품입니다.</p>'
     },
+    { type: 'image', src: '/images/post149_img8.jpg', alt: '보고타', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post149_img7.jpg', alt: '보고타', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post149_img6.jpg', alt: '보고타', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post149_img5.jpg', alt: '보고타', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post149_img4.jpg', alt: '보고타', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>특히, 민우의 시선을 따라가다 보면 우리도 낯선 환경에서 느꼈던 두려움이나 혼란스러움을 떠올릴 수 있어요.</p>'

@@ -92,7 +92,7 @@ function SectionRenderer({ section }) {
       return (
         <a href={section.href} target="_blank" rel="noopener noreferrer" className="cta-btn" style={{
           display: 'block', textAlign: 'center', padding: '14px 24px',
-          background: 'linear-gradient(135deg, #e50914, #ff4d4d)',
+          background: 'linear-gradient(135deg, var(--primary-color, #e50914), var(--accent-color, #ff4d4d))',
           color: '#fff', borderRadius: 12, fontWeight: 700, fontSize: 15,
           textDecoration: 'none', margin: '24px 0',
           transition: 'transform 0.2s, box-shadow 0.2s',
@@ -145,7 +145,7 @@ function SectionRenderer({ section }) {
       return (
         <div style={{
           fontSize: 16, lineHeight: 1.9, marginTop: 32, padding: '24px',
-          background: 'rgba(229,9,20,0.04)', borderRadius: 12,
+          background: 'var(--secondary-color, rgba(229,9,20,0.04))', borderRadius: 12,
           borderLeft: '4px solid var(--primary-color, #e50914)',
         }} dangerouslySetInnerHTML={{ __html: section.html }} />
       )
@@ -227,7 +227,7 @@ export default function PostPage({ meta, postData, related }) {
           <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 16 }}>
             <span style={{
               fontSize: 12, fontWeight: 700, padding: '4px 12px', borderRadius: 20,
-              background: '#e5091412', color: 'var(--primary-color, #e50914)',
+              background: 'color-mix(in srgb, var(--primary-color, #e50914) 8%, transparent)', color: 'var(--primary-color, #e50914)',
             }}>
               {meta.category}
             </span>

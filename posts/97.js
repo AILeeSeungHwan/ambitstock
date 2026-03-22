@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>2025년 2월 현재상영작 영화 예매 순위 총정리 포스팅입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post97_img1.jpg', alt: '현재상영작 영화 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>각 작품의 자세한 정보와 후기, 평점을 포함하여 포스팅으로 준비하였습니다.</p>'
@@ -41,6 +42,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>10위는 브루탈리스트입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post97_img2.jpg', alt: '현재상영작 영화 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 2월 12일 개봉하는 영화로 예매율 1.5%를 차지하였습니다.</p>'
@@ -79,6 +81,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>9위는 아이유 콘서트 : 더 위닝입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post97_img3.jpg', alt: '영화 예매 순위 현재상영작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 01월 24일 개봉하였으며 예매율 1.9%를 기록하였습니다.</p>'
@@ -106,6 +109,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>8위는 명탐정 코난: 14번째 표적입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post97_img4.jpg', alt: '영화 예매 순위 현재상영작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 02월 14일 개봉하며 현재 예매율 2.1%를 기록 중입니다.</p>'
@@ -144,6 +148,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>7위는 더 폴: 디렉터스 컷입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post97_img5.jpg', alt: '영화 예매 순위 현재 상영작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>무려 16년 만에 재개봉한 영화가 관람객 10만 명을 돌파하며 2024년 연말 최고의 화제작이 되었습니다.</p>'
@@ -182,6 +187,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>6위는 서브스턴스입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post97_img6.jpg', alt: '영화 예매 순위 현재상영작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2024년 12월 11일 개봉 후 여전히 예매 순위권에 올라있습니다.</p>'
@@ -232,6 +238,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>5위는 검은 수녀들입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post97_img7.jpg', alt: '영화 예매 순위 현재상영작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>작년 오컬트 영화 열풍과 더불어 송혜교 주연의 영화로 개봉 전부터 엄청난 화제를 불러왔던 작품<br/><br/></p>'
@@ -278,6 +285,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>4위는 캡틴 아메리카: 브레이브 뉴 월드입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post97_img8.jpg', alt: '영화 예매 순위 현재상영작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 02월 12일 개봉하며 예매율은 10.3%를 기록하고 있습니다. </p>'
@@ -312,6 +320,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>3위는 히트맨 2입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post97_img9.jpg', alt: '영화 예매 순위 현재상영작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>히트맨 1도 꽤나 성공적인 성과를 거두었고, 현재 넷플릭스에서도 순위권을 유지하고 있습니다.</p>'
@@ -342,6 +351,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2위는 브로큰입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post97_img10.jpg', alt: '영화 예매 순위 현재상영작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 02월 05일 개봉하였으며 예매율은 14.1%를 기록 중입니다. 하정우 김남길 주연 영화로 현재까지 10만 명의 관객수를 기록하며 나쁘지 않은 출발을 하였습니다.</p>'
@@ -372,6 +382,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>현재 상영작 1위는 말할 수 없는 비밀입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post97_img11.jpg', alt: '영화 예매 순위 현재상영작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>우리가 흔히 아는 영화 말할 수 없는 비밀의 한국판 리메이크 작으로 현재 높은 평점과 함께 호평을 받고 있는 작품입니다.</p>'

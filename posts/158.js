@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post158_img1.jpg', alt: '소방관', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p><b>11월 25일 CGV 용산점에서 언론 및 관계자들을 대상으로 한 시사회</b>가 열렸습니다.</p>'
     },
+    { type: 'image', src: '/images/post158_img2.jpg', alt: '소방관', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post158_poster.jpg', alt: '포스트 158 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
@@ -75,6 +77,15 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 \'소방관\' 시사회 후기는 대부분 긍정적인 평가가 주를 이뤘습니다. </b></span></p>'
     },
+    { type: 'image', src: '/images/post158_img11.jpg', alt: '소방관', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post158_img10.jpg', alt: '소방관', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post158_img9.jpg', alt: '소방관', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post158_img8.jpg', alt: '소방관', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post158_img7.jpg', alt: '소방관', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post158_img6.jpg', alt: '소방관', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post158_img5.jpg', alt: '소방관', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post158_img4.jpg', alt: '소방관', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post158_img3.jpg', alt: '소방관', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h4><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>영화를 보는 내내<span> </span>소방관들의 희생정신이<span> </span>얼마나 대단한지 새삼 느꼈다</span></b></h4>'
@@ -101,7 +112,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b>사이렌 소리만 들어도 마음이 철렁했다</b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b>사이렌 소리만 들어도 마음이 철렁했다</b></h4>'
     },
     {
       type: 'body',

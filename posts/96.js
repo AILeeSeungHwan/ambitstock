@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post96_img1.jpg', alt: '캡틴 아메리카 브레이브 뉴 월드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;>대통령이 된 새디우스 로스와 재회 후,</p>'
     },
+    { type: 'image', src: '/images/post96_img2.jpg', alt: '캡틴 아메리카 브레이브 뉴 월드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;>국제적인 사건의 중심에 서게 된 샘이 전 세계를 붉게 장악하려는 사악한 음모 뒤에</p>'
@@ -66,6 +68,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이 제목은 원래 윌리엄 해클리의 소설에서 유래한 표현입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post96_img3.jpg', alt: '캡틴 아메리카 브레이브 뉴 월드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;Brave&quot;는 \'용감한\', <br>&quot;New&quot;는 \'새로운\', <br>&quot;World&quot;는 \'세계\'를 뜻하며, <br/>직역하면 &quot;용감한 새로운 세계&quot;가 된다.</br></br></span> </b></span></blockquote>'
@@ -121,6 +124,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 캡틴 아메리카 브레이브 뉴 월드 해외 평론가 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post96_img4.jpg', alt: '캡틴 아메리카 브레이브 뉴 월드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>내용에 스포는 크게 없기에 바로 이어서 확인해 보시길 바랍니다.</p>'
@@ -135,6 +139,7 @@ const post = {
       type: 'body',
       html: '<p><b>Dan Buffa - 평점 3/4</b><br/>앤서니 맥키는 영화에서 즐거운 시간을 선사하는 주된 역할을 하였으며, 어린 시절 아버지와 함께 영화를 보던 학교 밤의 추억을 떠올리게 하였다. 세계관을 구축하는 대신, 관객을 즐겁게 하고 마음을 편안하게 하는 액션 어드벤처 영화이다.</p>'
     },
+    { type: 'image', src: '/images/post96_img5.jpg', alt: '캡틴 아메리카 브레이브 뉴 월드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Grant Rollings - 평점 3/5</b><br/>82세의 나이에도 불구하고 포드는 그의 뛰어난 카리스마로 영화를 구해내었다.</p>'

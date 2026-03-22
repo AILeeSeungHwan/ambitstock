@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>1월 4일 공개된 넷플릭스 시리즈 별들에게 물어봐의 해외 반응이 심상치 않습니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>이번 포스팅에서는 한국 뿐만 아니라<span> </span><b>해외에서도 좋은 반응을 이끌고 있는 한국형 SF 드라마</b><span> </span>별들에게 물어봐!</p><p style=&quot;color: #333333; text-align: start;&quot;><b>영어 제목과 평점 그리고 해외 시청자 반응 후기</b>를 알아보도록 하겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bjkw&amp;x_csa=%7B%22pkid%22%3A%2257%22%2C%20%22isOpen%22%3Afalse%2C%20%22tab%22%3A%22rating%22%7D&amp;pkid=57&amp;os=35133358&amp;qvt=0&amp;query=%EB%B3%84%EB%93%A4%EC%97%90%EA%B2%8C%20%EB%AC%BC%EC%96%B4%EB%B4%90%20%EC%8B%9C%EC%B2%AD%EB%A5%A0&quot; title=&quot;별들에게 물어봐 시청률 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>별들에게 물어봐 회차별 시청률 보러 가기 👉</button></a></center></div><p style=&quot;text-align: center;&quot;><b>별들에게 물어봐 회차별 시청률이 궁금하시다면??</b></p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bjkw&amp;x_csa=%7B%22pkid%22%3A%2257%22%2C%20%22isOpen%22%3Afalse%2C%20%22tab%22%3A%22episode_info%22%7D&amp;pkid=57&amp;os=35133358&amp;qvt=0&amp;query=%EB%B3%84%EB%93%A4%EC%97%90%EA%B2%8C%20%EB%AC%BC%EC%96%B4%EB%B4%90%20%ED%9A%8C%EC%B0%A8%EC%A0%95%EB%B3%B4&quot; title=&quot;별들에게 물어봐 다음화 회차 정보 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>별들에게 물어봐 다음화 언제 공개? 회차 정보 보러 가기👉</button></a></center></div><p style=&quot;text-align: center;&quot;><b>별들에게 물어봐 다음화는 언제나와?</b></p><p style=&quot;text-align: center;&quot;><b>위 링크를 통해 별들에게 물어봐 회차 정보를 확인해보세요.</b></p><p style=&quot;text-align: center;&quot;><b>.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>1월 4일 공개된 넷플릭스 시리즈 별들에게 물어봐의 해외 반응이 심상치 않습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서는 한국 뿐만 아니라<span> </span><b>해외에서도 좋은 반응을 이끌고 있는 한국형 SF 드라마</b><span> </span>별들에게 물어봐!</p><p style=&quot;color: inherit; text-align: start;&quot;><b>영어 제목과 평점 그리고 해외 시청자 반응 후기</b>를 알아보도록 하겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bjkw&amp;x_csa=%7B%22pkid%22%3A%2257%22%2C%20%22isOpen%22%3Afalse%2C%20%22tab%22%3A%22rating%22%7D&amp;pkid=57&amp;os=35133358&amp;qvt=0&amp;query=%EB%B3%84%EB%93%A4%EC%97%90%EA%B2%8C%20%EB%AC%BC%EC%96%B4%EB%B4%90%20%EC%8B%9C%EC%B2%AD%EB%A5%A0&quot; title=&quot;별들에게 물어봐 시청률 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>별들에게 물어봐 회차별 시청률 보러 가기 👉</button></a></center></div><p style=&quot;text-align: center;&quot;><b>별들에게 물어봐 회차별 시청률이 궁금하시다면??</b></p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bjkw&amp;x_csa=%7B%22pkid%22%3A%2257%22%2C%20%22isOpen%22%3Afalse%2C%20%22tab%22%3A%22episode_info%22%7D&amp;pkid=57&amp;os=35133358&amp;qvt=0&amp;query=%EB%B3%84%EB%93%A4%EC%97%90%EA%B2%8C%20%EB%AC%BC%EC%96%B4%EB%B4%90%20%ED%9A%8C%EC%B0%A8%EC%A0%95%EB%B3%B4&quot; title=&quot;별들에게 물어봐 다음화 회차 정보 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>별들에게 물어봐 다음화 언제 공개? 회차 정보 보러 가기👉</button></a></center></div><p style=&quot;text-align: center;&quot;><b>별들에게 물어봐 다음화는 언제나와?</b></p><p style=&quot;text-align: center;&quot;><b>위 링크를 통해 별들에게 물어봐 회차 정보를 확인해보세요.</b></p><p style=&quot;text-align: center;&quot;><b>.</b></p>'
     },
     {
       type: 'image',
@@ -28,6 +28,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;>볼만한 영화 드라마가 없으시다면? 이 포스팅으로 고민 종료!</p>'
     },
+    { type: 'image', src: '/images/post108_img1.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;>장담하는데 오늘 인생영화를 발견하게 될 겁니다.</p>'
@@ -80,6 +81,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>별들에게 물어봐 해외 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post108_img2.jpg', alt: '별들에게 물어봐 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평점 7.7점, 인기 순위 1,918위를 기록하고 있는 드라마 별들에게 물어봐</b></span> 입니다.</p>'
@@ -114,6 +116,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>별들에게 물어봐<br/></span>When the Stars Gossip</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post108_img3.jpg', alt: '별들에게 물어봐 평점분포', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>&quot;GOSSIP&quot;은 &quot;소문&quot;이나 &quot;수다&quot;라는 뜻</b>으로, 제목이 암시하는 바는 우주 속에서 벌어지는 이야기가 <b>마치 별들이 서로 소문을 퍼뜨리듯</b>, 또는 <b>우주 속의 캐릭터들이 각자의 이야기를 서로 나누는 느낌을 준다는 점</b>입니다. </p>'
@@ -137,6 +140,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>별들에게 물어봐 해외 리뷰 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post108_img4.jpg', alt: '별들에게 물어봐 영어제목 뜻', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>총 5개의 해외 리뷰 번역하였으며, 각 리뷰마다 제목과 평점을 확인하실 수 있습니다.</p>'
@@ -159,6 +163,7 @@ const post = {
       type: 'body',
       html: '<p><br>첫 번째 에피소드는 <b>우주를 배경으로 한 독특한 이야기와 코미디 장면을 잘 조화</b>시켰습니다.</br></p>'
     },
+    { type: 'image', src: '/images/post108_img5.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>어떻게 이렇게 멋진 세트를 만들었는지 모르겠지만, 아주 현실감 있게 느껴집니다.</b> 주인공은 그의 스토리라인 덕분에 사랑받을 만하며, 모든 배우들이 잘 캐스팅된 것 같습니다.</p>'
@@ -185,6 +190,7 @@ const post = {
       type: 'body',
       html: '<p><br/><b>우주에서 펼쳐지는 유머 가득한 놀라운 쇼! </b></p>'
     },
+    { type: 'image', src: '/images/post108_img6.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>첫 두 에피소드가 너무 마음에 듭니다! 배경이 정말 멋집니다!</p>'
@@ -235,6 +241,7 @@ const post = {
       type: 'body',
       html: '<p><b>정말 멋진 시리즈!!</b></p>'
     },
+    { type: 'image', src: '/images/post108_img7.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>저는 오랫동안 드라마와 영화를 봐왔고, 우주 장르는 잘 맞지 않지만, 이 시리즈는 그 <b>독특하고 화려한 제작과 OST로 매우 흥미롭습니다.</b></p>'
@@ -257,6 +264,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;> 지구에서 할 일이 없으니까 <br/>우주에서 그런 걸 시도해보는 거죠.</span> </b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post108_img8.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>이번에는 모든 K-드라마의 클리셰와 전형적인 요소를 우주로</b> 가져왔습니다. <b>물론 CG와 특수 효과는 매우 별로죠.</b> 지구에서 할 일이 없으니까 우주에서 그런 걸 시도해보는 거죠.</p>'
@@ -287,17 +295,24 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>주인공 이민호, <br/>당신은 어떤 사람인가요? <br/>당신은 얼마나 완벽주의자인가요!</span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post108_img15.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post108_img14.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post108_img13.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post108_img12.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post108_img11.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post108_img10.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post108_img9.jpg', alt: '별들에게 물어봐', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>세상에, 내가 다 자랑스럽습니다. 이민호 당신... 매번 놀라운 드라마를 선택하는군요. &quot;파친코&quot;에 빠져들었던 후, 이번 작품에 미쳐가는 나 자신을 제어할 수 없어요..</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>세상에, 내가 다 자랑스럽습니다. 이민호 당신... 매번 놀라운 드라마를 선택하는군요. &quot;파친코&quot;에 빠져들었던 후, 이번 작품에 미쳐가는 나 자신을 제어할 수 없어요..</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>&quot;Je t\'aime passionnement a la folie&quot; 같은 느낌이죠. &quot;파친코&quot;와 같은 독특한 오프닝처럼, <b>&quot;별들에게 물어봐&quot;의 신선한 오프닝도 마음에 듭니다.</b> 이 드라마는 <b>우리가 한 눈도 팔지 않고 몰입할 수 있는 드문 시리즈</b>입니다. 각 장면이 너무 잘 만들어져서 놓친 장면을 반복해서 보고 싶을 정도죠.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>&quot;Je t\'aime passionnement a la folie&quot; 같은 느낌이죠. &quot;파친코&quot;와 같은 독특한 오프닝처럼, <b>&quot;별들에게 물어봐&quot;의 신선한 오프닝도 마음에 듭니다.</b> 이 드라마는 <b>우리가 한 눈도 팔지 않고 몰입할 수 있는 드문 시리즈</b>입니다. 각 장면이 너무 잘 만들어져서 놓친 장면을 반복해서 보고 싶을 정도죠.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>세심한 예술적 놀라움과, 각 캐릭터가 자신만의 삶의 면모를 이해하고 <b>심리적인 층을 연구할 수 있는 매력적인 이야기의 결합</b>입니다. 이 드라마는 <b>심리적 깊이를 연결하며 풍부한 경험을 제공할 것으로 기대</b>됩니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>세심한 예술적 놀라움과, 각 캐릭터가 자신만의 삶의 면모를 이해하고 <b>심리적인 층을 연구할 수 있는 매력적인 이야기의 결합</b>입니다. 이 드라마는 <b>심리적 깊이를 연결하며 풍부한 경험을 제공할 것으로 기대</b>됩니다.</p>'
     },
     {
       type: 'body',

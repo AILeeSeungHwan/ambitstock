@@ -132,6 +132,12 @@ const post = {
       type: 'body',
       html: '<p>더 많은 행복의 나라 평점과 후기는 왓챠피디아에서 확인 가능합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post352_img5.jpg', alt: '행복의 나라 시사회 후기 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post352_img4.jpg', alt: '행복의 나라 시사회 후기 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post352_img3.jpg', alt: '행복의 나라 시사회 후기 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post352_img2.jpg', alt: '행복의 나라 시사회 후기 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post352_img1.jpg', alt: '행복의 나라 시사회 후기 반응 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>영화 행복의 나라 개봉 후 로튼 토마토 해외 반응과 평점 후기</b></span> 전해드리겠습니다.</p>'

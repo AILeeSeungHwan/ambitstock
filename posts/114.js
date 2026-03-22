@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>일본 영화 사일런트 러브가 2025년 1월 08일 개봉합니다.</b></p>'
     },
+    { type: 'image', src: '/images/post114_img1.jpg', alt: '사일런트 러브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 제목인 사일런트 러브의 뜻 해석, 그리고 해외 시청자들의 반응 후기</b></span>를 함께 알아보도록 하겠습니다.</p>'
@@ -37,6 +38,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post114_img2.jpg', alt: '사일런트 러브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-drama-recommend-netflix/',
@@ -62,6 +64,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>“그가 어떤 사람이든 상관없어, <br>그 손으로 나를 구해줬어.” </br></span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post114_img3.jpg', alt: '사일런트 러브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>방황하던 시절, 한순간의 실수로 목소리를 잃은 ‘아오이’는 학교 청소부로 일하며 무미건조한 삶을 이어간다.</p>'
@@ -93,6 +96,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>사일런트 러브<br/></span>Silent Love</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post114_img4.jpg', alt: '사일런트 러브 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>사일런트 러브(Silent Love)</b>의 제목을 단어별로 해석하면 다음과 같습니다:</p>'
@@ -121,8 +125,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>사일런트 러브 해외 시청자 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>사일런트 러브 해외 시청자 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post114_img5.jpg', alt: '사일런트 러브 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>총 10점 만점의 6.3점으로 높지 않은 평점을 기록하고 있습니다.</b></span></p>'
@@ -141,6 +146,8 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>사일런트 러브 해외 시청자 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post114_img7.jpg', alt: '사일런트 러브 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post114_img6.jpg', alt: '사일런트 러브 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>katsu_miya - 9/10</b><br/>말할 수 없는 소년과 시력을 잃은 소녀의 감동적인 사랑 이야기!</p>'

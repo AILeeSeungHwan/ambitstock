@@ -36,7 +36,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>와칸다 포레버에서 등장한 리리 윌리엄스(배우 <span style=&quot;color: #333333; text-align: start;&quot;>도미니크 손<span>)</span></span>가 그것이죠.</p>'
+      html: '<p>와칸다 포레버에서 등장한 리리 윌리엄스(배우 <span style=&quot;color: inherit; text-align: start;&quot;>도미니크 손<span>)</span></span>가 그것이죠.</p>'
     },
     {
       type: 'body',
@@ -122,6 +122,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>아이언하트는 과연 어떻게 풀어갈 것인지 지켜보아야겠습니다.</span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post365_img6.jpg', alt: '차기 아이언맨 아이언하트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post365_img5.jpg', alt: '차기 아이언맨 아이언하트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post365_img4.jpg', alt: '차기 아이언맨 아이언하트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post365_img3.jpg', alt: '차기 아이언맨 아이언하트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post365_img2.jpg', alt: '차기 아이언맨 아이언하트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post365_img1.jpg', alt: '차기 아이언맨 아이언하트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>아이언하트는 2025년 중 디즈니플러스에서 공개될 예정입니다.</span></p>'

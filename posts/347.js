@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>베테랑 2 개봉 전 칸 국제 영화제 해외 평론가 시사회 후기 반응을 전해드립니다.</b></span></p><p>베테랑 2가 오는 2024년 9월 13일 개봉을 앞두고 있습니다.<span style=&quot;color: #333333; text-align: start;&quot;></span></p><p>8월의 기대작 에일리언 로물루스가 개봉 후에도 기대에 부응하는 엄청난 호평을 이어가고 있고, 이와 더불어 트위스터스, 빅토리, 행복의 나라 또한 높은 평점을 기록하며 극장가의 풍년을 울리고 있습니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>베테랑 2 개봉 전 칸 국제 영화제 해외 평론가 시사회 후기 반응을 전해드립니다.</b></span></p><p>베테랑 2가 오는 2024년 9월 13일 개봉을 앞두고 있습니다.<span style=&quot;color: inherit; text-align: start;&quot;></span></p><p>8월의 기대작 에일리언 로물루스가 개봉 후에도 기대에 부응하는 엄청난 호평을 이어가고 있고, 이와 더불어 트위스터스, 빅토리, 행복의 나라 또한 높은 평점을 기록하며 극장가의 풍년을 울리고 있습니다.</p>'
     },
     {
       type: 'image',
@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333; text-align: start;&quot;>지난 5월<span> </span></span><i>제77회 칸 국제 영화제 </i>의 미드나잇 스크리닝에서 공개된 베테랑 2.</p>'
+      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>지난 5월<span> </span></span><i>제77회 칸 국제 영화제 </i>의 미드나잇 스크리닝에서 공개된 베테랑 2.</p>'
     },
     {
       type: 'body',
@@ -51,7 +51,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이번 작품은 박선우 형사의 등장으로 인해 변화가 일어난 폭력 범죄 수사팀의 역동적인 모습과 흥미진진한 액션 장면을 예고합니다. 서도철 형사가 9년 만에 돌아오고, 새로운 캐릭터가 추가 됩니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이번 작품은 박선우 형사의 등장으로 인해 변화가 일어난 폭력 범죄 수사팀의 역동적인 모습과 흥미진진한 액션 장면을 예고합니다. 서도철 형사가 9년 만에 돌아오고, 새로운 캐릭터가 추가 됩니다.</p>'
     },
     {
       type: 'body',
@@ -91,7 +91,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b>3.5/5</b><span style=&quot;color: #333333; text-align: start;&quot;><span> </span>- &quot;상당한 대작이다! 격투 장면이 깔끔하며, 과장된 경찰 스릴러로서 코미디와 드라마, 액션이 잘 어우러져 있다.&quot;</span></p>'
+      html: '<p><b>3.5/5</b><span style=&quot;color: inherit; text-align: start;&quot;><span> </span>- &quot;상당한 대작이다! 격투 장면이 깔끔하며, 과장된 경찰 스릴러로서 코미디와 드라마, 액션이 잘 어우러져 있다.&quot;</span></p>'
     },
     {
       type: 'body',
@@ -107,7 +107,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b>3.5/5</b><span style=&quot;color: #333333; text-align: start;&quot;><span> </span>- &quot;칸에서 계단을 오르는 경험이 정말 즐거웠다.&quot;</span></p>'
+      html: '<p><b>3.5/5</b><span style=&quot;color: inherit; text-align: start;&quot;><span> </span>- &quot;칸에서 계단을 오르는 경험이 정말 즐거웠다.&quot;</span></p>'
     },
     {
       type: 'body',
@@ -119,7 +119,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b>3.5/5</b><span style=&quot;color: #333333; text-align: start;&quot;><span> </span>- &quot;재미있고, 너무 과하지 않게 진지한 영화. 정해인의 피부가 정말 완벽했다.&quot;</span></p>'
+      html: '<p><b>3.5/5</b><span style=&quot;color: inherit; text-align: start;&quot;><span> </span>- &quot;재미있고, 너무 과하지 않게 진지한 영화. 정해인의 피부가 정말 완벽했다.&quot;</span></p>'
     },
     {
       type: 'body',
@@ -145,6 +145,13 @@ const post = {
       type: 'body',
       html: '<p><b>3/5</b> - &quot;(스페인어) 칸 영화제가 시체스 영화제처럼 느껴졌다. 뤼미에르 대극장에서 봤고, 고레에다 감독도 있었다. 정말 좋았다.&quot;</p>'
     },
+    ,
+    { type: 'image', src: '/images/post347_img6.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post347_img5.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post347_img4.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post347_img3.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post347_img2.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post347_img1.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>2.5/5</b> - &quot;미드나잇 스크리닝 영화로는 괜찮았지만, 순수한 B급 영화의 즐거움이 느껴졌다.&quot;</p>'

@@ -95,11 +95,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>메가박스 SKT 영화 예매 혜택입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>메가박스 SKT 영화 예매 혜택입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;>SKT VIP 멤버십을 이용했던 입장에서 이전보다 상당히 작아진 혜택 규모로 보입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>SKT VIP 멤버십을 이용했던 입장에서 이전보다 상당히 작아진 혜택 규모로 보입니다.</p>'
     },
     {
       type: 'body',
@@ -119,11 +119,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b><span style=&quot;color: #333333; text-align: start;&quot;>KT 메가박스 영화 예매 혜택입니다. </span></b></span></p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>KT 메가박스 영화 예매 혜택입니다. </span></b></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333; text-align: start;&quot;><span>이전보다 더 커진 할인혜택을 제공하고 있습니다.</span></span></p>'
+      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;><span>이전보다 더 커진 할인혜택을 제공하고 있습니다.</span></span></p>'
     },
     {
       type: 'body',
@@ -137,6 +137,11 @@ const post = {
       type: 'body',
       html: '<p>KT멤버십 온라인 (홈페이지/App)</p>'
     },
+    ,
+    { type: 'image', src: '/images/post341_img4.jpg', alt: '메가박스 KT 할인혜택', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post341_img3.jpg', alt: '메가박스 SKT 할인 혜택', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post341_img2.jpg', alt: '메가박스 유 플러스 할인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post341_img1.jpg', alt: '메가박스 통신사 할인혜택 총정리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>다음 포스팅에서는 카드별 메가박스 할인 혜택에 대해서 알아보도록 하겠습니다.</p>'

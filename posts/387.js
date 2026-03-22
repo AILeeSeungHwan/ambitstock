@@ -27,15 +27,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 탈출: 프로젝트 사일런스의 로튼토마토 평론가 평점입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 탈출: 프로젝트 사일런스의 로튼토마토 평론가 평점입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>11명의 평론가에게서 받은 평점은 45%</b></span>로, 상당한 악평을 받은 것을 알 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>11명의 평론가에게서 받은 평점은 45%</b></span>로, 상당한 악평을 받은 것을 알 수 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평균적으로 괜찮은 영화들에 대한 평점은 80%를 넘습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평균적으로 괜찮은 영화들에 대한 평점은 80%를 넘습니다.</p>'
     },
     {
       type: 'body',
@@ -43,19 +43,35 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>IMDB 영화 탈출: 프로젝트 사일런스 평점 및 인기순위 입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>IMDB 영화 탈출: 프로젝트 사일런스 평점 및 인기순위 입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>인기 순위는 개봉 후 상승 하여, 2,538등에 랭크하였지만</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>인기 순위는 개봉 후 상승 하여, 2,538등에 랭크하였지만</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>IMDB 평점도 로튼토마토와 마찬가지로 평점 6점</b></span>, 상당히 저조한 성적입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>IMDB 평점도 로튼토마토와 마찬가지로 평점 6점</b></span>, 상당히 저조한 성적입니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post387_img15.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img14.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img13.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img12.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img11.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img10.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img9.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img8.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img7.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img6.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img5.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img4.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img3.jpg', alt: '탈출: 프로젝트 사일런스 해외 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img2.jpg', alt: '탈출: 프로젝트 사일런스 해외 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post387_img1.jpg', alt: '탈출: 프로젝트 사일런스 해외 결말 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그렇다면 영화 탈출: 프로젝트 사일런스 해외 반응과 외국 결말 후기 리뷰 살펴보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>그렇다면 영화 탈출: 프로젝트 사일런스 해외 반응과 외국 결말 후기 리뷰 살펴보겠습니다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

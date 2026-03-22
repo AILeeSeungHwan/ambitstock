@@ -142,6 +142,13 @@ const post = {
       type: 'body',
       html: '<p>R의 필름공장과 함께 즐거운 문화생활하시길 바랍니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post284_img6.jpg', alt: '조커 2 스틸컷 입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post284_img5.jpg', alt: '베테랑 2 정해인 스틸컷입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post284_img4.jpg', alt: '트랜스포머 ONE 포스터 입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post284_img3.jpg', alt: '트랜스포머 ONE의 캐릭터들입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post284_img2.jpg', alt: '조커 2의 할리퀸 레이디가가가 춤을 추고 있다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post284_img1.jpg', alt: '베테랑 2 칸 국제영화제 포스터입니다.', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

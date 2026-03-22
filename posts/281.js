@@ -72,7 +72,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333; text-align: start;&quot;>뮤지컬 영화를 왜 선택했는지 모르겠다.</span></p>'
+      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>뮤지컬 영화를 왜 선택했는지 모르겠다.</span></p>'
     },
     {
       type: 'body',
@@ -84,47 +84,47 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화의 부제 폴리 아 되의 뜻은 무엇일까요?</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화의 부제 폴리 아 되의 뜻은 무엇일까요?</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>이 뜻은 영화의 모든 주제를 포괄하고 있는 의미를 지니고 있습니다. </b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>이 뜻은 영화의 모든 주제를 포괄하고 있는 의미를 지니고 있습니다. </b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 전체를 관통하는 굉장히 중요한 의미를 지니고 있기 때문에, 이와 관련한 포스팅 준비해 두었으니 꼭 확인해 보시길 바랍니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 전체를 관통하는 굉장히 중요한 의미를 지니고 있기 때문에, 이와 관련한 포스팅 준비해 두었으니 꼭 확인해 보시길 바랍니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>전작 조커를 보셨다면 결말에 조커는 자신의 분노를 폭발시키며 세상에 어둠을 몰고 온 진짜 악이 되었습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>전작 조커를 보셨다면 결말에 조커는 자신의 분노를 폭발시키며 세상에 어둠을 몰고 온 진짜 악이 되었습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>때문에 아마 많은 분들이 <span style=&quot;background-color: #9feec3;&quot;><b>조커 2에서 빌런으로의 존재감을 기대</b></span>하실 겁니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>때문에 아마 많은 분들이 <span style=&quot;background-color: #9feec3;&quot;><b>조커 2에서 빌런으로의 존재감을 기대</b></span>하실 겁니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>하지만 또 다시 전작의 태초마을로 돌아갑니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>하지만 또 다시 전작의 태초마을로 돌아갑니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>감옥생활로 시작하는 조커는 전작에서 극단의 찐따로 나왔던 것처럼 다시 한번 약자로 묘사됩니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>감옥생활로 시작하는 조커는 전작에서 극단의 찐따로 나왔던 것처럼 다시 한번 약자로 묘사됩니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아니? 이제 바로 쿵쾅쾅 하면서 막 범죄 저지르고, 사회의 어두운 점을 맹렬히 까내리고 충격적인 장면 보여주고 해야 하는 거 아니야?</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아니? 이제 바로 쿵쾅쾅 하면서 막 범죄 저지르고, 사회의 어두운 점을 맹렬히 까내리고 충격적인 장면 보여주고 해야 하는 거 아니야?</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아쉽게도 배트맨 : 다크 나이트의 조커를 기대하셨다면 실망하실 수 밖에 없습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아쉽게도 배트맨 : 다크 나이트의 조커를 기대하셨다면 실망하실 수 밖에 없습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이전 소제목의 폴리 아 되 뜻 포스팅을 보고 오셨다면 그 의미를 아실 겁니다. 결국 악한 자, 혹은 약한 자가 주변 환경에 어떠한 영향을 미치는지, 그렇게 할리퀸이 어떻게 탄생하는 지를 위주로 영화는 진행됩니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이전 소제목의 폴리 아 되 뜻 포스팅을 보고 오셨다면 그 의미를 아실 겁니다. 결국 악한 자, 혹은 약한 자가 주변 환경에 어떠한 영향을 미치는지, 그렇게 할리퀸이 어떻게 탄생하는 지를 위주로 영화는 진행됩니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>개인적으로 오랜 시간동안 조커 2를 기다렸던 팬 입장에서 아쉽게 부분입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>개인적으로 오랜 시간동안 조커 2를 기다렸던 팬 입장에서 아쉽게 부분입니다.</p>'
     },
     {
       type: 'body',
@@ -170,6 +170,15 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post281_img8.jpg', alt: '조커 2 뮤지컬 영화', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post281_img7.jpg', alt: '조커 2 뮤지컬 영화', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post281_img6.jpg', alt: '조커 2 호아킨 피닉스 레이디 가가', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post281_img5.jpg', alt: '조커 2 호아킨 피닉스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post281_img4.jpg', alt: '조커 2 호아킨 피닉스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post281_img3.jpg', alt: '조커 2 시사회 평론가', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post281_img2.jpg', alt: '조커 2 레이디 가가', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post281_img1.jpg', alt: '조커 2 호아킨 피닉스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>조커 2와 함께 보면 좋은 콘텐츠를 전달해 드립니다.</b></p>'

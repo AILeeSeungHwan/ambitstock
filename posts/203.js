@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post203_img1.jpg', alt: '쿠엔틴타란티노 수상 내역', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>쿠엔틴타란티노의 수상 내역입니다. </b></span></p>'
     },
+    { type: 'image', src: '/images/post203_img2.jpg', alt: '쿠엔틴타란티노 - 봉준호 1994년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>1992년부터 무려 30년이 넘는 기간 동안 다양한 상을 수상하였습니다.</b></span></p>'
@@ -78,6 +80,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>다음으로 쿠엔틴타란티노의 대표작 영화 TOP 9를 추천드리도록 하겠습니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post203_img3.jpg', alt: '쿠엔틴타란티노 수상 내역', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>각 영화의 로튼토마토 점수, 줄거리, 수상 내역 등을 포함해 정리했습니다.</p>'
@@ -97,6 +100,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>9위는 데스 프루프입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post203_img4.jpg', alt: '쿠엔틴타란티노 필모그래피 영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 점수: 64% 관객 점수: 73%</b></span></p>'
@@ -135,6 +139,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>8위는 내추럴 본 킬러스입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post203_img5.jpg', alt: '쿠엔틴타란티노 필모그래피 영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 점수: 82% 관객 점수: 81%</b></span></p>'
@@ -173,6 +178,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>7위는 킬 빌 2입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post203_img6.jpg', alt: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 점수: 84% 관객 점수: 84%</b></span></p>'
@@ -211,6 +217,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>6위는 킬 빌 1입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post203_img7.jpg', alt: '쿠엔틴타란티노 필모그래피 영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 점수: 85% 관객 점수: 81%</b></span></p>'
@@ -249,6 +256,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>5위는 원스 어폰 어 타임... 인 할리우드입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post203_img8.jpg', alt: '쿠엔틴타란티노 필모그래피 영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 점수: 85% 관객 점수: 70%</b></span></p>'
@@ -291,6 +299,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>4위는 장고: 분노의 추적자입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post203_img9.jpg', alt: '쿠엔틴타란티노 필모그래피 영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 점수: 86% 관객 점수: 92%</b></span></p>'
@@ -323,11 +332,12 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>3위는 재키 브라운입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>3위는 재키 브라운입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post203_img10.jpg', alt: '쿠엔틴타란티노 필모그래피 영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>평론가 점수: 87% 관객 점수: 79%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>평론가 점수: 87% 관객 점수: 79%</b></span></p>'
     },
     {
       type: 'body',
@@ -335,23 +345,23 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #333333; text-align: start;&quot;><b>줄거리</b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b>줄거리</b></h4>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>한 명의 비행기 승무원인 자키 브라운은 마약 밀매범에 의해 인질로 잡힌다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>한 명의 비행기 승무원인 자키 브라운은 마약 밀매범에 의해 인질로 잡힌다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그녀는 경찰과 밀매범들을 동시에 속이기 위한 계획을 세우며, 이 영화는 타란티노 특유의 대사와 반전으로 관객을 사로잡는다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>그녀는 경찰과 밀매범들을 동시에 속이기 위한 계획을 세우며, 이 영화는 타란티노 특유의 대사와 반전으로 관객을 사로잡는다.</p>'
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #333333; text-align: start;&quot;><b>수상 내역</b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b>수상 내역</b></h4>'
     },
     {
       type: 'body',
-      html: '<ul style=&quot;list-style-type: disc; color: #333333; text-align: start;&quot;> <li>1997년 골든 글로브 시상식 최우수 여우주연상 (Pam Grier)</li> <li>1997년 상파울루 국제영화제 최우수 작품상</li> </ul>'
+      html: '<ul style=&quot;list-style-type: disc; color: inherit; text-align: start;&quot;> <li>1997년 골든 글로브 시상식 최우수 여우주연상 (Pam Grier)</li> <li>1997년 상파울루 국제영화제 최우수 작품상</li> </ul>'
     },
     {
       type: 'h2',
@@ -363,6 +373,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2위는 바스터즈: 거친 녀석들입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post203_img11.jpg', alt: '쿠엔틴타란티노 필모그래피 영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 점수: 89% 관객 점수: 84%</b></span></p>'
@@ -401,6 +412,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>쿠엔틴타란티노 감독 영화 추천, 1위 작품은 펄프 픽션입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post203_img12.jpg', alt: '쿠엔틴타란티노 필모그래피 영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>평론가 점수: 92% 관객 점수: 96%</span></b></p>'

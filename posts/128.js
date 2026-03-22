@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>1957년, 전세계를 뒤흔든 \'페라리\'의 충격 실화가 드러난다! 파산 위기에 놓인 \'엔초 페라리\'. 회사 존폐의 기로에서 사사건건 충돌하는 아내 라우라. 아들 피에로를 페라리 가로 인정하라고 압박하는 또다른 여인 리나.</p>'
     },
+    { type: 'image', src: '/images/post128_img1.jpg', alt: '페라리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>평생 쌓아온 모든 것이 무너지기 직전인 1957년 여름, 이탈리아 전역 공도를 가로지르는 광기의 1,000마일 레이스 \'밀레 밀리아\'에서 엔초 페라리는 판도를 뒤집을 마지막 승부수를 던지는데...</p>'
@@ -39,8 +40,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>페라리 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>페라리 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post128_img2.jpg', alt: '페라리 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 72%, 관객 평점 73% 입니다.</b></span></p>'
@@ -63,6 +65,14 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>페라리 관람평 평론가 결말후기 포토입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post128_img10.jpg', alt: '페라리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post128_img9.jpg', alt: '페라리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post128_img8.jpg', alt: '페라리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post128_img7.jpg', alt: '페라리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post128_img6.jpg', alt: '페라리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post128_img5.jpg', alt: '페라리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post128_img4.jpg', alt: '페라리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post128_img3.jpg', alt: '페라리 관람평 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Christina Newland - 평점(오리지널 스코어: 4/5)</b><br>Michael Mann의 자아도취적인 레이싱 카 선구자에 대한 초상화는 복잡한 삶의 이야기를 매혹적으로 풀어낸 접근 방식을 취하고 있다.</br></p>'

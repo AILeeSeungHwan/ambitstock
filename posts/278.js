@@ -76,6 +76,12 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post278_img5.jpg', alt: '레트리뷰션 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post278_img4.jpg', alt: '레트리뷰션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post278_img3.jpg', alt: '레트리뷰션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post278_img2.jpg', alt: '레트리뷰션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post278_img1.jpg', alt: '레트리뷰션', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

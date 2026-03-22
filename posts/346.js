@@ -170,6 +170,15 @@ const post = {
       type: 'body',
       html: '<p><b>Peter Howell - Toronto Star (Top Critic)</b><br/>평점: 2.5/4<br/>많은 부분에서 기존의 에일리언 영화를 연상시키지만, <span style=&quot;background-color: #9feec3;&quot;><b>젊은 배우들이 주도하는 독립적인 이야기로 생각하면 가치 있는 추가작</b></span>이다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post346_img8.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post346_img7.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post346_img6.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post346_img5.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post346_img4.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post346_img3.jpg', alt: '에일리언 로물루스 IMDB 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post346_img2.jpg', alt: '에일리언 로물루스 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post346_img1.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>Richard Lawson - Vanity Fair (Top Critic)</b><br/>평점: 없음<br/><span style=&quot;background-color: #9feec3;&quot;><b>기본적인 기능을 성공적으로 수행하는 영화</b></span>다</p>'

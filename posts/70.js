@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>개봉</b>: 2025.09.24.</li> <li><b>국가</b>: 독일, 남아프리카공화국, 미국</li> <li><b>장르</b>: 액션/스릴러</li> <li><b>상영시간</b>: 111분</li> <li><b>등급</b>: 청소년관람불가</li> <li><b>감독</b>: 모리츠 모르</li> <li><b>출연</b>: 빌 스카스가드, 제시카 로테, 팸케 얀센, 미셸 도커리</li> </ul>'
     },
+    { type: 'image', src: '/images/post70_img1.jpg', alt: '영화 보이 킬스 월드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section2',
@@ -33,6 +34,7 @@ const post = {
       type: 'body',
       html: '<p>듣지도 말하지도 못하는 ‘보이’(빌 스카스가드). 독재자 ‘반 더 코이’ 가문에게 가족을 잃고 도망친 뒤, 의심스럽지만 강한 스승 ‘샤먼’에게 살인 병기로 길러진다. 어느 날, 스승과 함께 타운에 나온 보이는 ‘반 더 코이’ 가문을 저격할 절호의 기회를 얻고, 복수의 타이밍이라 판단해 작전에 들어간다. 하지만 예기치 못한 일로 잡힌 보이는 망설임 없이 ‘반 더 코이’ 가문을 향해 복수를 시작, 피 튀기는 맞대결이 이어지며 이야기는 질주한다.</p>'
     },
+    { type: 'image', src: '/images/post70_img2.jpg', alt: '영화 보이 킬스 월드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section3',
@@ -43,6 +45,7 @@ const post = {
       type: 'body',
       html: '<p><b>Anthony Whyte(The Movie Blog)</b> — “처음부터 끝까지 미친 액션과 WTF 순간들로 달린다. 깊고 의미 있는 이야기를 기대하진 말 것.” (7/10)</p>'
     },
+    { type: 'image', src: '/images/post70_img3.jpg', alt: '영화 보이 킬스 월드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Alfred Castaneda(Shade Studios)</b> — “얇은 스토리는 눈감고, 액션 히어로로 떠오르는 스카스가드를 즐겨라.”</p>'
@@ -78,6 +81,7 @@ const post = {
       type: 'body',
       html: '<p><b>Khaztiel Delbod D</b> — “빌 스카스가드의 연기는 확실히 돋보였지만, 스토리에 대해서는 말하기 애매했다. 전혀 실망스럽진 않았지만, 기대했던 방향은 아니었다.”</p>'
     },
+    { type: 'image', src: '/images/post70_img4.webp', alt: '영화 보이 킬스 월드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>익명 관객</b> — “액션 장면과 촬영은 즐거웠지만, 영화 전체는 좀 잊혀질 듯하다. 만화책 원작 같은 느낌이 강했고, 중간의 ‘반전’은 러닝타임만 늘리는 장치였다. 존 윅도, 슈트엠업도, 노바디도 아닌 어정쩡한 톤이었다.” <br/><br/></p>'
@@ -124,6 +128,7 @@ const post = {
       type: 'body',
       html: '<p>영화 제목 <i>보이 킬스 월드(Boy Kills World)</i>는 직역하면 ‘소년이 세상을 죽인다’라는 의미를 담고 있습니다.<br/>하지만 영화 속 맥락에서 이 말은 살육을 뜻하는 게 아니라, 가족을 잃은 주인공 보이가 복수와 폭력의 소용돌이 속에서 기존 세계를 무너뜨리는 과정을 상징합니다.</p>'
     },
+    { type: 'image', src: '/images/post70_img5.jpg', alt: '영화 보이 킬스 월드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>즉, <b>기존 질서를 파괴하고 새로운 규칙을 세우려는 소년의 서사</b>를 압축적으로 표현한 제목이라 볼 수 있습니다.</p>'
@@ -138,6 +143,9 @@ const post = {
       type: 'body',
       html: '<p>핵심은 <b>스타일과 액션</b>입니다.</p>'
     },
+    { type: 'image', src: '/images/post70_img8.jpg', alt: '영화 보이 킬스 월드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post70_img7.jpg', alt: '영화 보이 킬스 월드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post70_img6.jpg', alt: '영화 보이 킬스 월드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>과장된 폭력, 만화적 톤, 보이의 내적 독백(유머)이 맞는다면 만족도가 높고, <br/>탄탄한 서사와 감정선을 기대하면 아쉬울 수 있어요. 스토리보다 <b>안무·연출·타격감</b>에 집중해 보세요.</p>'

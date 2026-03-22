@@ -91,11 +91,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아쿠아는 어머니의 죽음에 대한 진실을 밝혀내기 위해 고군분투하며, 루비는 연예계에서의 도전을 통해 성장합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아쿠아는 어머니의 죽음에 대한 진실을 밝혀내기 위해 고군분투하며, 루비는 연예계에서의 도전을 통해 성장합니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이 과정에서 두 주인공의 내적 갈등과 성장, 그리고 주변 인물들과의 관계가 중요한 역할을 합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이 과정에서 두 주인공의 내적 갈등과 성장, 그리고 주변 인물들과의 관계가 중요한 역할을 합니다.</p>'
     },
     {
       type: 'body',
@@ -177,6 +177,17 @@ const post = {
       type: 'body',
       html: '<p>몇몇 리뷰에서는 <span style=&quot;color: #781b33;&quot;><b>캐릭터가 다소 일차원적으로 느껴진다는 비판</b></span>도 있었습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post396_img10.jpg', alt: '최애의 아이 시즌 2기 줄거리 내용 스포 포함', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post396_img9.jpg', alt: '최애의 아이 시즌 2기 줄거리 내용 스포 포함', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post396_img8.jpg', alt: '최애의 아이 시즌 2기 줄거리 내용 스포 포함', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post396_img7.jpg', alt: '최애의 아이 시즌 2기 줄거리 내용 스포 포함', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post396_img6.jpg', alt: '최애의 아이 시즌 2기 줄거리 내용 스포 포함', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post396_img5.jpg', alt: '최애의 아이 시즌 2기 줄거리 내용 스포 포함', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post396_img4.jpg', alt: '최애의 아이 시즌 2기 줄거리 내용 스포 포함', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post396_img3.jpg', alt: '최애의 아이 시즌 2기 줄거리 내용 스포 포함', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post396_img2.jpg', alt: '최애의 아이 시즌 2기 줄거리 내용 스포 포함', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post396_img1.jpg', alt: '최애의 아이 시즌 2기 줄거리 내용 스포 포함', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>주요 캐릭터들의 감정선이 충분히 다뤄지지 않았다는 점에서 아쉬움을 표했습니다 .<br/><br/></p>'

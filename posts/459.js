@@ -28,7 +28,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p>역대 박스오피스 시리즈 세 번째, <b>영화</b> <b>극한직업 (영어제목 : Extreme Job) 입니다.</b> <br>현재 넷플릭스로 다시보실 수 있으며, 킬링타임으로 제격인 코미디 영화입니다.<br>로튼 토마토, IMDB 해외 반응 평점 및 리뷰 확인해보겠습니다.<br/> </br></br></p><p> <br/>영화 극한직업 박스오피스 정보입니다.</p><p style=&quot;text-align: center;&quot;><b>영화 극한직업</b><b><br/></b><br/><b>역대 박스오피스 순위      </b><span style=&quot;color: #ef5369;&quot;><b>2위</b></span><br/><b>개봉일   </b><span style=&quot;color: #ef5369;&quot;><b>2019년 01월 23일</b></span><br/><b>매출    </b><span style=&quot;background-color: #ffffff;&quot;><span style=&quot;color: #ef5369;&quot;><b>139,657,105,516원</b></span></span><br/><b>관객수         </b><span style=&quot;color: #ef5369;&quot;><b>16,266,480명</b></span><br/><b>스크린수                    </b><span style=&quot;color: #ef5369;&quot;><b>2,003</b></span><br/><b>상영 횟수               </b><span style=&quot;color: #ef5369;&quot;><b>292,817</b></span></p>'
+      html: '<p>역대 박스오피스 시리즈 세 번째, <b>영화</b> <b>극한직업 (영어제목 : Extreme Job) 입니다.</b> <br>현재 넷플릭스로 다시보실 수 있으며, 킬링타임으로 제격인 코미디 영화입니다.<br>로튼 토마토, IMDB 해외 반응 평점 및 리뷰 확인해보겠습니다.<br/> </br></br></p><p> <br/>영화 극한직업 박스오피스 정보입니다.</p><p style=&quot;text-align: center;&quot;><b>영화 극한직업</b><b><br/></b><br/><b>역대 박스오피스 순위      </b><span style=&quot;color: #ef5369;&quot;><b>2위</b></span><br/><b>개봉일   </b><span style=&quot;color: #ef5369;&quot;><b>2019년 01월 23일</b></span><br/><b>매출    </b><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: #ef5369;&quot;><b>139,657,105,516원</b></span></span><br/><b>관객수         </b><span style=&quot;color: #ef5369;&quot;><b>16,266,480명</b></span><br/><b>스크린수                    </b><span style=&quot;color: #ef5369;&quot;><b>2,003</b></span><br/><b>상영 횟수               </b><span style=&quot;color: #ef5369;&quot;><b>292,817</b></span></p>'
     },
     {
       type: 'image',
@@ -44,7 +44,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p> <br/>영화 극한직업 (영어제목 Extreme Job)의 <span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: #000000;&quot;><b>평론가 평점은 82%, 관객 평점은 81%</b></span></span>입니다. 한국에서의 인기만큼은 아니지만 준수한 평론가 평점과 관람객 평점을 받았습니다. 코미디 영화의 특성상 각 나라 고유의 문화적이해가 동반되어야 하기에, 이 점이 점수에 반영되어 진 것 같습니다. <br/> <br/>로튼 토마토 평론가 리뷰입니다.<br/> </p>'
+      html: '<p> <br/>영화 극한직업 (영어제목 Extreme Job)의 <span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><b>평론가 평점은 82%, 관객 평점은 81%</b></span></span>입니다. 한국에서의 인기만큼은 아니지만 준수한 평론가 평점과 관람객 평점을 받았습니다. 코미디 영화의 특성상 각 나라 고유의 문화적이해가 동반되어야 하기에, 이 점이 점수에 반영되어 진 것 같습니다. <br/> <br/>로튼 토마토 평론가 리뷰입니다.<br/> </p>'
     },
     {
       type: 'body',
@@ -52,15 +52,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;><br/><span style=&quot;color: #000000;&quot;><i><b><span style=&quot;color: #f3c000;&quot;>8점 </span><span style=&quot;color: #000000;&quot;>Mar 28, 2019</span></b></i></span><span style=&quot;color: #666666;&quot;><b> </b></span><span style=&quot;color: #666666;&quot;><b><br/></b></span><span style=&quot;color: #000000;&quot;><b>재치 있는 각본은 결국 일련의 반전적인 난투로 전개되지만, </b></span><br/><span style=&quot;color: #000000;&quot;><b>그 과정에서 Extreme Job은 관객에게 아주 맛있는 재미를 선사합니다. (finger-licking fun)</b></span></p>'
+      html: '<p style=&quot;text-align: left;&quot;><br/><span style=&quot;color: inherit;&quot;><i><b><span style=&quot;color: #f3c000;&quot;>8점 </span><span style=&quot;color: inherit;&quot;>Mar 28, 2019</span></b></i></span><span style=&quot;color: #666666;&quot;><b> </b></span><span style=&quot;color: #666666;&quot;><b><br/></b></span><span style=&quot;color: inherit;&quot;><b>재치 있는 각본은 결국 일련의 반전적인 난투로 전개되지만, </b></span><br/><span style=&quot;color: inherit;&quot;><b>그 과정에서 Extreme Job은 관객에게 아주 맛있는 재미를 선사합니다. (finger-licking fun)</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;><br/><span style=&quot;color: #f3c000;&quot;><b>평점없음</b></span><span style=&quot;color: #000000;&quot;><b> - </b><span style=&quot;background-color: #ffffff;&quot;><b>Jul 16, 2019</b></span><b><br/></b><b>보는 내내 기분이 좋아지는 영화입니다.</b></span><br/> <br/> <br/><span style=&quot;color: #f3c000;&quot;><b>평점없음</b></span><span style=&quot;color: #000000;&quot;><b> -</b><b> </b><span style=&quot;background-color: #ffffff;&quot;><b>Feb 7, 2019</b></span></span><br/><span style=&quot;color: #000000;&quot;><b>군침이 도는 프라이드치킨 외에도 영화에는 웃음도 있다.</b></span><span style=&quot;color: #ef6f53;&quot;><i><b><br/></b></i></span><br/> <br/> <br/><span style=&quot;color: #ee2323;&quot;><i><b>TOP CRITIC</b></i></span><span style=&quot;color: #000000;&quot;><i><b><br/></b></i><i><b>어느 정도까지는 꽤 재미있지만, </b></i><i><b>불행하게도 \'그 어느 정도가\' </b></i><i><b>거의 2시간 길이의 상영시간 중 초반부까지 입니다.</b></i></span><span style=&quot;color: #ef6f53;&quot;><i><b><br/></b></i></span><br/> </p>'
+      html: '<p style=&quot;text-align: left;&quot;><br/><span style=&quot;color: #f3c000;&quot;><b>평점없음</b></span><span style=&quot;color: inherit;&quot;><b> - </b><span style=&quot;background-color: transparent;&quot;><b>Jul 16, 2019</b></span><b><br/></b><b>보는 내내 기분이 좋아지는 영화입니다.</b></span><br/> <br/> <br/><span style=&quot;color: #f3c000;&quot;><b>평점없음</b></span><span style=&quot;color: inherit;&quot;><b> -</b><b> </b><span style=&quot;background-color: transparent;&quot;><b>Feb 7, 2019</b></span></span><br/><span style=&quot;color: inherit;&quot;><b>군침이 도는 프라이드치킨 외에도 영화에는 웃음도 있다.</b></span><span style=&quot;color: #ef6f53;&quot;><i><b><br/></b></i></span><br/> <br/> <br/><span style=&quot;color: #ee2323;&quot;><i><b>TOP CRITIC</b></i></span><span style=&quot;color: inherit;&quot;><i><b><br/></b></i><i><b>어느 정도까지는 꽤 재미있지만, </b></i><i><b>불행하게도 \'그 어느 정도가\' </b></i><i><b>거의 2시간 길이의 상영시간 중 초반부까지 입니다.</b></i></span><span style=&quot;color: #ef6f53;&quot;><i><b><br/></b></i></span><br/> </p>'
     },
     {
       type: 'body',
-      html: '<p><br/><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: #000000;&quot;><b>평점 7.0/10</b></span></span><br/><span style=&quot;color: #000000;&quot;>미국 최대 영화 리뷰사이트 IMDB 극한직업 평점입니다. 시리즈 1편 &lt;베테랑&gt;과 2편 &lt;범죄도시 2&gt;와 마찬가지로 로튼 토마토보다 낮은 평점을 받았습니다. (아이러니하게도 세 영화 모두 7.0 입니다. )</span><br/> </p>'
+      html: '<p><br/><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><b>평점 7.0/10</b></span></span><br/><span style=&quot;color: inherit;&quot;>미국 최대 영화 리뷰사이트 IMDB 극한직업 평점입니다. 시리즈 1편 &lt;베테랑&gt;과 2편 &lt;범죄도시 2&gt;와 마찬가지로 로튼 토마토보다 낮은 평점을 받았습니다. (아이러니하게도 세 영화 모두 7.0 입니다. )</span><br/> </p>'
     },
     {
       type: 'body',
@@ -72,15 +72,23 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;> <br/><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>2024년 최고 기대작을 끝으로 역대 박스오피스 시리즈 3편, 영화 &quot;극한직업&quot; 포스팅 마치겠습니다.</span><br/><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>&lt;역대 박스오피스 시리즈 4편&gt;은 영화 &quot;신과 함께&quot; 입니다.</span><br/> <br/> <br/><a href=&quot;https://ambitstock.com/14&quot; target=&quot;_self&quot;><span><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: #000000;&quot;><b>영화 파묘</b></span></span></span></a></p>'
+      html: '<p style=&quot;text-align: left;&quot;> <br/><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;>2024년 최고 기대작을 끝으로 역대 박스오피스 시리즈 3편, 영화 &quot;극한직업&quot; 포스팅 마치겠습니다.</span><br/><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;>&lt;역대 박스오피스 시리즈 4편&gt;은 영화 &quot;신과 함께&quot; 입니다.</span><br/> <br/> <br/><a href=&quot;https://ambitstock.com/14&quot; target=&quot;_self&quot;><span><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><b>영화 파묘</b></span></span></span></a></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;><a href=&quot;https://ambitstock.com/12&quot; target=&quot;_self&quot;><span><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: #000000;&quot;><b>조커 2: 폴리 아 되</b></span></span></span></a></p>'
+      html: '<p style=&quot;text-align: left;&quot;><a href=&quot;https://ambitstock.com/12&quot; target=&quot;_self&quot;><span><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><b>조커 2: 폴리 아 되</b></span></span></span></a></p>'
     },
+    ,
+    { type: 'image', src: '/images/post459_img7.jpg', alt: 'IMDB 영화 극한직업 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post459_img6.jpg', alt: 'IMDB 극한직업 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post459_img5.jpg', alt: '영화 극한직업 배우 오정세 ( 테드 창 역 )', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post459_img4.jpg', alt: '영화 극한직업 배우 단체사진', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post459_img3.jpg', alt: '영화 극한직업 배우 단체사진', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post459_img2.jpg', alt: '영화 극한직업 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post459_img1.jpg', alt: '영화 극한직업 포스터', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
-      html: '<p><a href=&quot;https://ambitstock.com/9&quot; target=&quot;_self&quot;><span><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: #000000;&quot;><u><b>미키 17</b></u></span></span></span></a></p>'
+      html: '<p><a href=&quot;https://ambitstock.com/9&quot; target=&quot;_self&quot;><span><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><u><b>미키 17</b></u></span></span></span></a></p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

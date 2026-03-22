@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>해외 시청자들의 결말 후기반응 리뷰입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post286_img1.jpg', alt: '완전무결한 커플', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>더 나은 대본과 감독이 필요한 캐스팅</b><br>6/10<br/></br></span></blockquote>'
@@ -49,7 +50,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>평범한 오락물</b><br/><span style=&quot;font-family: \'Noto Serif KR\'; color: #333333; text-align: center;&quot;>6/10</span><br/></span></blockquote>'
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>평범한 오락물</b><br/><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: center;&quot;>6/10</span><br/></span></blockquote>'
     },
     {
       type: 'body',
@@ -117,6 +118,13 @@ const post = {
       type: 'body',
       html: '<p><b>그렇다면 넷플릭스 시리즈 완전무결한 커플 볼지 말지 딱 정해드리겠습니다.</b></p>'
     },
+    { type: 'image', src: '/images/post286_img8.jpg', alt: '완전무결한 커플', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post286_img7.jpg', alt: '완전무결한 커플', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post286_img6.jpg', alt: '완전무결한 커플', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post286_img5.jpg', alt: '완전무결한 커플', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post286_img4.jpg', alt: '완전무결한 커플', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post286_img3.jpg', alt: '완전무결한 커플', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post286_img2.jpg', alt: '완전무결한 커플', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;><b>킬링타임용 코미디 드라마</b> <br/><b>기대하지 않고 본다면 꽤 재밌다.</b></span></blockquote>'

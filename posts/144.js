@@ -29,6 +29,7 @@ const post = {
       type: 'body',
       html: '<h4 data-pm-slice=&quot;1 1 []&quot;><b>영화 제목 : 리얼 페인 A REAL PAIN, 2024</b></h4>'
     },
+    { type: 'image', src: '/images/post144_img1.jpg', alt: '리얼 페인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>개요</b><br>폴란드코미디 외90분</br></p>'
@@ -67,6 +68,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>A Real Pain<br/></span>진짜 고통, 실제 고통</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post144_img2.jpg', alt: '리얼 페인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 제목인 &quot;리얼 페인 ( 영어제목 : A Real Pain )&quot;은 직역하면 &quot;진짜 고통&quot; 또는 &quot;실제 고통&quot;이라는 뜻입니다.</p>'
@@ -88,8 +90,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>리얼 페인 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>리얼 페인 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post144_img3.jpg', alt: '리얼 페인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 96%, 관객 평점은 80%를 기록하였습니다.</b></span></p>'
@@ -112,6 +115,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>리얼 페인 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post144_img10.jpg', alt: '리얼 페인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post144_img9.jpg', alt: '리얼 페인 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post144_img8.jpg', alt: '리얼 페인 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post144_img7.jpg', alt: '리얼 페인 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post144_img6.jpg', alt: '리얼 페인 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post144_img5.jpg', alt: '리얼 페인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post144_img4.jpg', alt: '리얼 페인 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Jake Wilson - 평점(3.5/5)</b><br/>영화가 통제 불능 상태로 빠지기보다는 깔끔한 공식으로 남아있다면, 더 깊이를 얻을 수 있을 것 같은 순간들이 있다. 하지만 이는 가능성 없어 보인다. 즉, 아이젠버그는 벤지가 아닌 데이비드와 더 잘 어울린다.</p>'

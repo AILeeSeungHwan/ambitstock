@@ -20,7 +20,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>아마 한국에서 가장 빠른 미키 17 시사회 후기 포스팅이라 감히 예상해보며</b></span>,<span> </span></span>압도적 기대작 미키 17 시사회 후기반응 살펴보겠습니다.</p>'
+      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>아마 한국에서 가장 빠른 미키 17 시사회 후기 포스팅이라 감히 예상해보며</b></span>,<span> </span></span>압도적 기대작 미키 17 시사회 후기반응 살펴보겠습니다.</p>'
     },
     {
       type: 'body',
@@ -32,7 +32,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>시사회 후기를 남긴 두번째는 평론가 루시 버글라스로, &lt;테크레이더&gt;에서 이 영화를 <span style=&quot;background-color: #9feec3;&quot;><b>&quot;&lt;봉준호의 기생충&gt;과 &lt;배트맨&gt;이 만난 것 같은 작품&quot;</b></span>이라고 표현하며, 영화의 깊이와 풍자적 요소가 인상적이라고 언급했습니다. 그녀는 봉 감독의 전작들과 비교하면서도 이번 영화는 새로운 방향을 제시했다고 평가했습니다</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>시사회 후기를 남긴 두번째는 평론가 루시 버글라스로, &lt;테크레이더&gt;에서 이 영화를 <span style=&quot;background-color: #9feec3;&quot;><b>&quot;&lt;봉준호의 기생충&gt;과 &lt;배트맨&gt;이 만난 것 같은 작품&quot;</b></span>이라고 표현하며, 영화의 깊이와 풍자적 요소가 인상적이라고 언급했습니다. 그녀는 봉 감독의 전작들과 비교하면서도 이번 영화는 새로운 방향을 제시했다고 평가했습니다</p>'
     },
     {
       type: 'body',
@@ -52,7 +52,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화의 철학적 주제와 복잡한 캐릭터 관계가 특히 깊이 있는 작품으로 보이며, <span style=&quot;background-color: #9feec3;&quot;><b>내년에 열릴 아카데미상에서도 후보로 주목받을 가능성이 있다는 의견이 나왔습니다.</b></span> 철학적인 면에서 인간의 존재와 복제에 대한 성찰이 영화 전반에 걸쳐 흥미롭게 다루어졌다는 평가입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화의 철학적 주제와 복잡한 캐릭터 관계가 특히 깊이 있는 작품으로 보이며, <span style=&quot;background-color: #9feec3;&quot;><b>내년에 열릴 아카데미상에서도 후보로 주목받을 가능성이 있다는 의견이 나왔습니다.</b></span> 철학적인 면에서 인간의 존재와 복제에 대한 성찰이 영화 전반에 걸쳐 흥미롭게 다루어졌다는 평가입니다.</p>'
     },
     {
       type: 'body',
@@ -74,6 +74,12 @@ const post = {
       type: 'body',
       html: '<p><b>한국계 배우 스티븐 연 부터, 로버트 패틴슨의 연기, 봉준호 감독의 연출, 그리고 시사회 긍정적인 후기반응까지!</b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post292_img5.jpg', alt: '미키 17 한국계 배우 스티븐 연', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post292_img4.jpg', alt: '미키 17 시사회 후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post292_img3.jpg', alt: '미키 17 시사회 후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post292_img2.jpg', alt: '미키 17 시사회 후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post292_img1.jpg', alt: '영화 미키 17', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>2025년 1월 큰 작품 옵니다.</b></p>'

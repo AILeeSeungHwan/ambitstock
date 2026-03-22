@@ -52,12 +52,18 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>그들은 우주 정거장에서 <span style=&quot;color: #000000; background-color: #ffffff; padding: 2px;&quot;>페이스허거</span>를 발견하고, 이로 인해 나바로(아일린 우)라는 캐릭터는 감염됩니다.</p>'
+      html: '<p>그들은 우주 정거장에서 <span style=&quot;color: inherit; background-color: transparent; padding: 2px;&quot;>페이스허거</span>를 발견하고, 이로 인해 나바로(아일린 우)라는 캐릭터는 감염됩니다.</p>'
     },
     {
       type: 'body',
-      html: '<p>이후 <span style=&quot;color: #000000; background-color: #ffffff; padding: 2px;&quot;>체스트버스터</span>가 등장하며 혼란이 시작됩니다.</p>'
+      html: '<p>이후 <span style=&quot;color: inherit; background-color: transparent; padding: 2px;&quot;>체스트버스터</span>가 등장하며 혼란이 시작됩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post370_img5.jpg', alt: '에일리언: 로물루스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post370_img4.jpg', alt: '에일리언: 로물루스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post370_img3.jpg', alt: '에일리언: 로물루스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post370_img2.jpg', alt: '에일리언: 로물루스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post370_img1.jpg', alt: '에일리언: 로물루스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>영화는 에일리언 시리즈의 전통적인 공포와 긴장감을 유지하면서도, 새로운 이야기와 등장인물을 통해 신선한 시도를 합니다.</p>'

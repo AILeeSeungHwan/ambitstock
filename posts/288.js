@@ -119,6 +119,14 @@ const post = {
       type: 'body',
       html: '<p>관련 정보는 아래 포스팅을 확인해보시길 바랍니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post288_img7.jpg', alt: '개봉예정작 어벤져스 둠스데이', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post288_img6.jpg', alt: '개봉예정작 마블영화', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post288_img5.jpg', alt: '개봉예정작 드림 프로덕션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post288_img4.jpg', alt: '개봉예정작 조커 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post288_img3.jpg', alt: '개봉예정작 미키 17', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post288_img2.jpg', alt: '개봉예정작 트랜스포머 ONE', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post288_img1.jpg', alt: '개봉예정작 총정리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;> 최고 시청률 6.0%, 조정석 신세경 주연의 <b><span style=&quot;background-color: #f3c000;&quot;>세작, 매혹된 자들(영어제목 <b>Captivating the King) </b>해외 반응 및 평점 리뷰</span></b>입니다. </span><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>드라마 세작, 매혹된 자들은 <span style=&quot;font-family: \'Noto Serif KR\'; color: #000000; text-align: start;&quot;>24.01.21 1화를 시작으로 </span><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000; text-align: start;&quot;>총 16부작으며,<span style=&quot;font-family: \'Noto Serif KR\'; color: #000000; text-align: start;&quot;><span> </span>TvN에서<span> </span></span>금~일 오후 9시20분 시청하실 수 있습니다.</span> </span><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>다시보기 OTT 사이트는 Tving, Netflix, 시리즈온에서 시청가능합니다.</span></p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>이인 (배우 조정석) </span></b></span></p><p>드라마 제목인 \'세작\'의 뜻은 두가지 사전적 의미를 살펴보아야 합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;> 최고 시청률 6.0%, 조정석 신세경 주연의 <b><span style=&quot;background-color: #f3c000;&quot;>세작, 매혹된 자들(영어제목 <b>Captivating the King) </b>해외 반응 및 평점 리뷰</span></b>입니다. </span><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>드라마 세작, 매혹된 자들은 <span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;>24.01.21 1화를 시작으로 </span><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;>총 16부작으며,<span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;><span> </span>TvN에서<span> </span></span>금~일 오후 9시20분 시청하실 수 있습니다.</span> </span><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>다시보기 OTT 사이트는 Tving, Netflix, 시리즈온에서 시청가능합니다.</span></p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>이인 (배우 조정석) </span></b></span></p><p>드라마 제목인 \'세작\'의 뜻은 두가지 사전적 의미를 살펴보아야 합니다.</p>'
     },
     {
       type: 'image',
@@ -31,115 +31,131 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>드라마 제목 세작의 뜻은 이 두가지 사전적 의미를 모두 포함한 중의적 의미로, </span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>드라마 제목 세작의 뜻은 이 두가지 사전적 의미를 모두 포함한 중의적 의미로, </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>작품은 <b><span style=&quot;background-color: #f3c000;&quot;>세작이 된 여인 강희수의 치열한 암투를 기록</span></b>하고 있습니다.</span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>작품은 <b><span style=&quot;background-color: #f3c000;&quot;>세작이 된 여인 강희수의 치열한 암투를 기록</span></b>하고 있습니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000; text-align: start;&quot;>드라마 세작, 매혹된 자들 해외 반응 및 평점 알아보겠습니다. </span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;>드라마 세작, 매혹된 자들 해외 반응 및 평점 알아보겠습니다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>넷플릭스 시리즈 선산 볼만할까?</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;><b>넷플릭스 시리즈 선산 볼만할까?</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>해외 반응과 평점리뷰</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;><b>해외 반응과 평점리뷰</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>넷플릭스 시리즈 살인자ㅇ난감</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;><b>넷플릭스 시리즈 살인자ㅇ난감</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>어떻게 읽어야 하는지 궁금하다면</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;><b>어떻게 읽어야 하는지 궁금하다면</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>평점 7.3/10</span></b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>평점 7.3/10</span></b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>IMDB 세작, 매혹된 자들 평점입니다. 현재 인기순위 832위로 최초 공개된 시점에 비해선 286위나 떨어졌지만, 나쁘지 않은 평점을 기록하고 있습니다.<span> <span style=&quot;font-family: \'Noto Serif KR\'; color: #000000; text-align: start;&quot;>또한<span> </span></span><b><span style=&quot;color: #ee2323;&quot;>1화 평점 7.1<span style=&quot;color: #000000;&quot;>에서 꾸준히 상승하여</span><span> </span>3화 8.1점, 4화 8.4점, 5화 7.9점</span></b><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000; text-align: start;&quot;>으로 최초 점수보다 평점이 점점 높아지고 있습니다. 해외 반응 및 리뷰 살펴보겠습니다.</span></span></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>IMDB 세작, 매혹된 자들 평점입니다. 현재 인기순위 832위로 최초 공개된 시점에 비해선 286위나 떨어졌지만, 나쁘지 않은 평점을 기록하고 있습니다.<span> <span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;>또한<span> </span></span><b><span style=&quot;color: #ee2323;&quot;>1화 평점 7.1<span style=&quot;color: inherit;&quot;>에서 꾸준히 상승하여</span><span> </span>3화 8.1점, 4화 8.4점, 5화 7.9점</span></b><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;>으로 최초 점수보다 평점이 점점 높아지고 있습니다. 해외 반응 및 리뷰 살펴보겠습니다.</span></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;><b>맙소사(oh my god)...\'Oh my Ghost\'는 잊어버리세요. ( Oh my Ghost 오 나의 귀신님 조정석 주연 드라마)</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;><b>맙소사(oh my god)...\'Oh my Ghost\'는 잊어버리세요. ( Oh my Ghost 오 나의 귀신님 조정석 주연 드라마)</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★<span> </span><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★ <b><span style=&quot;color: #f3c000;&quot;><b><b><span style=&quot;color: #f3c000;&quot;><b>★</b></span></b></b></span></b> </b></span></b><b>☆</b><span> </span></b></span></b></span><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;><b>9/10</b> </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★<span> </span><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★ <b><span style=&quot;color: #f3c000;&quot;><b><b><span style=&quot;color: #f3c000;&quot;><b>★</b></span></b></b></span></b> </b></span></b><b>☆</b><span> </span></b></span></b></span><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;><b>9/10</b> </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>\'오 나의 귀신님 (영어제목 Oh my Ghost)\', \'질투의 화신 (영어제목 - <span style=&quot;background-color: #fbfbfb; text-align: start;&quot;>Don\'t dare to dream)</span>\'의 조정석 배우를 좋아해서 이 드라마에 쉽게 끌렸습니다. 가장 좋아하는 점은... 여주인공에게 내미는 강렬한 눈빛이 심장을 뛰게 만드는데... 그는 이 드라마에서도 \'신세경\'과의 호흡을 통해 실망시키지 않았습니다. </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>\'오 나의 귀신님 (영어제목 Oh my Ghost)\', \'질투의 화신 (영어제목 - <span style=&quot;background-color: #fbfbfb; text-align: start;&quot;>Don\'t dare to dream)</span>\'의 조정석 배우를 좋아해서 이 드라마에 쉽게 끌렸습니다. 가장 좋아하는 점은... 여주인공에게 내미는 강렬한 눈빛이 심장을 뛰게 만드는데... 그는 이 드라마에서도 \'신세경\'과의 호흡을 통해 실망시키지 않았습니다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>에피소드 중 하나는 특정 만남을 기대하며 얼마나 숨 참고 지켜봤는지 모릅니다. 방금 5화를 다 봤는데 다음 화를 기다리다 죽을것 같습니다. (<b>어떻게 하죠?</b>) 배우들의 연기는 지루할 틈 없이 훌륭했습니다. 많은 조연분들이 그들의 캐릭터에 생명을 불어넣는 덕분에, 그 모든 조연들 또한 사랑합니다.</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>에피소드 중 하나는 특정 만남을 기대하며 얼마나 숨 참고 지켜봤는지 모릅니다. 방금 5화를 다 봤는데 다음 화를 기다리다 죽을것 같습니다. (<b>어떻게 하죠?</b>) 배우들의 연기는 지루할 틈 없이 훌륭했습니다. 많은 조연분들이 그들의 캐릭터에 생명을 불어넣는 덕분에, 그 모든 조연들 또한 사랑합니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;color: #781b33;&quot;>왜 기대했던 것보다 낮은 평가를 받았는지 잘 모르겠습니다.</span></b> <span style=&quot;color: #000000;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; text-align: start;&quot;>당시 권력을 원했던</span> 사람들을 담은 캐릭터들의 때때로 보기 힘들 정도의 배신행위들은 현재 세계에도 그대로 투영됩니다. 남은 11화도 실망시키지 않기를 바라고 기도하고 있습니다.</span></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;color: #781b33;&quot;>왜 기대했던 것보다 낮은 평가를 받았는지 잘 모르겠습니다.</span></b> <span style=&quot;color: inherit;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; text-align: start;&quot;>당시 권력을 원했던</span> 사람들을 담은 캐릭터들의 때때로 보기 힘들 정도의 배신행위들은 현재 세계에도 그대로 투영됩니다. 남은 11화도 실망시키지 않기를 바라고 기도하고 있습니다.</span></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #333333; text-align: start;&quot;>진부한 클리세덩어리가 아닌 또 하나의 명작</span></b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;>진부한 클리세덩어리가 아닌 또 하나의 명작</span></b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★<span> </span><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★ <b>☆</b></b></span></b><span> </span><b>☆</b><span> </span></b></span></b></span><span style=&quot;color: #333333;&quot;><b>8/10</b></span></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★<span> </span><b><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★ <b>☆</b></b></span></b><span> </span><b>☆</b><span> </span></b></span></b></span><span style=&quot;color: inherit;&quot;><b>8/10</b></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2화까지 보며, 가장 큰 줄거리의 반전은 제목 그 자체로 너무나 확실하게 쓰여 있어 예상이 되고, 이 로맨스 드라마가 후반부에서 관객들을 눈물 흘리게 할 것이라는 데는 의심의 여지가 없습니다. 예, 너무나 당연합니다. 언제나 그랬듯.</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2화까지 보며, 가장 큰 줄거리의 반전은 제목 그 자체로 너무나 확실하게 쓰여 있어 예상이 되고, 이 로맨스 드라마가 후반부에서 관객들을 눈물 흘리게 할 것이라는 데는 의심의 여지가 없습니다. 예, 너무나 당연합니다. 언제나 그랬듯.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>하지만 주연배우, 제작, 대본, 연출은 지금까지 훌륭했습니다. </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>하지만 주연배우, 제작, 대본, 연출은 지금까지 훌륭했습니다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #000000;&quot;><span>좋은 작품이 될 뻔했으나 조연 배우들의 관계에 너무 집중한 나머지 시간을 잡아 먹어 작품성을 저하시켰던 이전 다른 시리즈의 길을 가지않고, </span><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #781b33;&quot;><b>스토리텔링의 메인 트랙을 유지하길 바랄 뿐</b></span>입니다. 두 주연배우는 평소에도 예상했던 대로 훌륭한 활약을 펼치고 있지만, 놀라울 정도로 두 배우 사이의 설정이 잘 잡혀 있는 점은 보기가 너무 벅찹니다.</span></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;><span>좋은 작품이 될 뻔했으나 조연 배우들의 관계에 너무 집중한 나머지 시간을 잡아 먹어 작품성을 저하시켰던 이전 다른 시리즈의 길을 가지않고, </span><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #781b33;&quot;><b>스토리텔링의 메인 트랙을 유지하길 바랄 뿐</b></span>입니다. 두 주연배우는 평소에도 예상했던 대로 훌륭한 활약을 펼치고 있지만, 놀라울 정도로 두 배우 사이의 설정이 잘 잡혀 있는 점은 보기가 너무 벅찹니다.</span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: #000000;&quot;>아래 데이터를 통해 세작, 매혹된 자들의 평점분포 알아보겠습니다.</span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>아래 데이터를 통해 세작, 매혹된 자들의 평점분포 알아보겠습니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>데이터 표본은 미국, 영국, 일본, 그리스, 스웨덴 순이며, 한국데이터의 비율이 낮은 순수한 해외 반응 평점임을 알 수 있습니다. </span><span style=&quot;color: #000000; font-family: \'Noto Serif KR\';&quot;>데이터 총표본수는 151명으로 아직 많은 표본이 모이진 않은 것을 알 수 있습니다.</span></p>'
+      html: '<p><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;>데이터 표본은 미국, 영국, 일본, 그리스, 스웨덴 순이며, 한국데이터의 비율이 낮은 순수한 해외 반응 평점임을 알 수 있습니다. </span><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;>데이터 총표본수는 151명으로 아직 많은 표본이 모이진 않은 것을 알 수 있습니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\'; color: #000000;&quot;><b>2024년 개봉 예정작 영화 추천입니다.</b></span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\'; color: inherit;&quot;><b>2024년 개봉 예정작 영화 추천입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>영화 파묘 개봉일 확정!</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>영화 파묘 개봉일 확정!</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>24년 2월 22일 개봉 전 살펴보기</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>24년 2월 22일 개봉 전 살펴보기</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>영화 조커 2: 폴리 아 되 개봉정보</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>영화 조커 2: 폴리 아 되 개봉정보</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>그리고 조커 1 해외 반응</b> </span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>그리고 조커 1 해외 반응</b> </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>영화 미키 17 개봉정보와</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>영화 미키 17 개봉정보와</b></span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post442_img15.jpg', alt: '영화 미키17 개봉정보와 봉준호 감독 기생충 해외 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img14.jpg', alt: '영화 조커 2: 폴리 아 되 개봉정보&amp;#44; 그리고 조커1 해외 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img13.jpg', alt: '영화 파묘 개봉일 확정! 24년 2월 22일 개봉전 살펴보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img12.jpg', alt: '드라마 세작 인물 관계도', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img11.jpg', alt: '세작&amp;#44; 매혹된 자들 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img10.jpg', alt: '세작&amp;#44; 매혹된 자들 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img9.jpg', alt: '세작&amp;#44; 매혹된 자들 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img8.jpg', alt: '세작&amp;#44; 매혹된 자들 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img7.jpg', alt: '세작&amp;#44; 매혹된 자들 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img6.jpg', alt: '세작&amp;#44; 매혹된 자들 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img5.jpg', alt: '세작&amp;#44; 매혹된 자들 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img4.jpg', alt: '세작&amp;#44; 매혹된 자들 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img3.jpg', alt: '넷플릭스 시리즈 살인자ㅇ난감 어떻게 읽어야 하는지 궁금하다면', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img2.jpg', alt: '넷플릭스 시리즈 선산 볼만할까? 해외 반응과 평점리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post442_img1.jpg', alt: '세작 매혹된 자들 스틸컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000;&quot;><b>봉준호 감독 </b><b>기생충 해외 반응</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>봉준호 감독 </b><b>기생충 해외 반응</b></span></p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

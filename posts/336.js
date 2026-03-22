@@ -55,7 +55,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>드라마 폭군의 해외 후기반응 </b><b>긍정리뷰와 부정리뷰로 나누어 전해드립니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>드라마 폭군의 해외 후기반응 </b><b>긍정리뷰와 부정리뷰로 나누어 전해드립니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -125,6 +125,13 @@ const post = {
       type: 'body',
       html: '<p><b>의미 없는 혼란과 살인</b> - <i>1/10</i></p>'
     },
+    ,
+    { type: 'image', src: '/images/post336_img6.jpg', alt: '디즈니 플러스 드라마 폭군 해외 후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post336_img5.jpg', alt: '디즈니 플러스 드라마 폭군 해외 후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post336_img4.jpg', alt: '디즈니 플러스 드라마 폭군 해외 후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post336_img3.jpg', alt: 'IMDB 폭군 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post336_img2.jpg', alt: '로튼 토마토 폭군 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post336_img1.jpg', alt: '드라마 폭군 해외 평점 후기반응', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>한국 드라마를 좋아하지만, 이 작품은 전혀 이해할 수 없습니다. 캐릭터들이 왜 서로를 죽이는지 알 수 없고, 그 이유조차 제대로 설명되지 않습니다. 액션 장면은 지루하고 반복적이며, 스토리도 없기 때문에 공감할 수 있는 캐릭터도 없습니다.</p>'

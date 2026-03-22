@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post189_img1.jpg', alt: '피아노 레슨', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -56,8 +57,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>피아노 레슨 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>피아노 레슨 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post189_img2.jpg', alt: '피아노 레슨 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 90%, 관객 평점은 아직 기록되지 않았습니다.</b></span></p>'
@@ -80,6 +82,16 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>피아노 레슨 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post189_img12.jpg', alt: '피아노 레슨 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post189_img11.jpg', alt: '피아노 레슨 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post189_img10.jpg', alt: '피아노 레슨 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post189_img9.jpg', alt: '피아노 레슨 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post189_img8.jpg', alt: '피아노 레슨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post189_img7.jpg', alt: '피아노 레슨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post189_img6.jpg', alt: '피아노 레슨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post189_img5.jpg', alt: '피아노 레슨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post189_img4.jpg', alt: '피아노 레슨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post189_img3.jpg', alt: '피아노 레슨', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Charles Koplinski - 평점 3.5/4.0</span></i><br>좋은 배우진이 모든 것을 잘 이끌어 가며, 그들의 노력은 올해 가장 뛰어난 앙상블 연기의 하나로 결실을 맺는다. 그들은 Wilson의 작품에 가득 찬 분노를 잘 묘사하지만, 우리가 남게 되는 것은 이 영화가 담고 있는 치유와 희망의 감정이다.</br></p>'

@@ -28,6 +28,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>James Marsh (South China Morning Post)</b> — 마카오 카지노와 포르투갈풍 거리라는 배경 확장 덕분에 전작보다 더 웅장하지만, 완성도 면에선 3/5 평점.</li> <li><b>Avi Offer (NYC Movie Guru)</b> — “무간도 이후 가장 서스펜스 있고 흥미로운 범죄 스릴러”라며 극찬.</li> <li><b>John Lui (The Straits Times)</b> — “성룡과 양가휘는 더 타이트한 각본을 받을 자격이 있다”며 2/5 낮은 평점.</li> <li><b>Casey Chong (Movie Mania)</b> — “성룡의 복귀, 양가휘의 존재감”을 높게 평가하며 4/5 점수를 부여.</li> </ul>'
     },
+    { type: 'image', src: '/images/post74_img1.jpg', alt: '포풍추영 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>종합하면, <b>서스펜스와 배우 연기는 호평</b>이 많았으나, <b>각본과 스토리 전개는 아쉽다</b>는 지적도 있습니다.</p>'
@@ -42,6 +43,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>Selina F</b> — “2025년 최고의 영화! 가족과 친구들에게 다 추천했다”며 강력 추천.</li> <li><b>Jah B</b> — “성룡의 최고 영화는 <i>더 포리너</i>(2017) 이후 처음”이라며 엔딩 크레딧까지 꼭 보라고 강조.</li> <li><b>Chris C</b> — “드디어 성룡의 컴백 무비!”라며 열광.</li> </ul>'
     },
+    { type: 'image', src: '/images/post74_img2.jpg', alt: '포풍추영 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>Frank L</b> — 2007년작 <i>Eye in the Sky</i>와 비교하며, 액션은 부족하지만 감정선이 더해져 다른 매력이 있다고 평함.</li> <li><b>Calvin B</b> — “재미있지만, 왜 이런 일이 벌어지는지 설명이 부족하다”고 아쉬움을 언급.</li> <li><b>E C.</b> — “액션이 훌륭하고 약간 잔인하다. 그래도 즐겁게 봤다.”</li> </ul>'
@@ -64,6 +66,7 @@ const post = {
       type: 'body',
       html: '<p><i>포풍추영</i>의 결말은 전형적인 권선징악으로 끝나지 않습니다.</p>'
     },
+    { type: 'image', src: '/images/post74_img3.jpg', alt: '포풍추영 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>경찰과 범죄 조직의 추격 속에서 드러나는 것은 각 인물들의 <b>믿음과 배신, 세대 교체</b>입니다. 성룡이 맡은 황더중은 노년의 수사관으로 후배 허추궈를 이끌며 세대를 넘기는 메시지를 담았고, 양가휘의 푸룽성은 ‘악’이지만 가족 같은 조직 내 갈등으로 인간적인 면모도 보여줍니다. 그래서 관객들은 기대하는 액션 블록버스터 이상의, <b>시대와 인간을 함께 비춘 범죄극</b>으로 받아들이고 있습니다.</p>'
@@ -79,6 +82,9 @@ const post = {
       type: 'body',
       html: '<p>해외 평론가 반응은 호불호가 갈렸지만, 일반 관객 평가는 압도적으로 긍정적이었습니다.</p>'
     },
+    { type: 'image', src: '/images/post74_img6.jpg', alt: '포풍추영 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post74_img5.jpg', alt: '포풍추영 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post74_img4.jpg', alt: '포풍추영 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>성룡의 현역 가치, 양가휘의 카리스마, 준의 가능성이 모두 부각되며 “성룡의 진짜 컴백작”이라는 말이 나올 정도입니다. 반면, 각본 완성도와 전개 리듬에 아쉬움을 남긴다는 평도 공존합니다.</p>'

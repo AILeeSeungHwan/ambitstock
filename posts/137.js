@@ -27,8 +27,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>6888 중앙우편대대 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>6888 중앙우편대대 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post137_img1.jpg', alt: '6888 중앙우편대대', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 50%, 관객 평점 75%입니다.</b></span></p>'
@@ -47,6 +48,7 @@ const post = {
       type: 'body',
       html: '<p><b>6888 중앙우편대대 ( 영어제목 : The Six Triple Eight )의 세계 인기순위입니다.</b></p>'
     },
+    { type: 'image', src: '/images/post137_img2.jpg', alt: '6888 중앙우편대대 (The Six Triple Eight) 정보 넷플릭스 추천영화 평점 순위 < 진짜 PC영화를 향해 갈린 국내 해외반응 >', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>시청자 평점 6.5점, 드라마 영화 애니메이션 포함 세계 순위 47위</b>로 높은 순위를 기록 중에 있습니다.</p>'
@@ -70,6 +72,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>6888 중앙우편대대 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post137_img9.jpg', alt: '6888 중앙우편대대', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post137_img8.jpg', alt: '6888 중앙우편대대', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post137_img7.jpg', alt: '6888 중앙우편대대', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post137_img6.jpg', alt: '6888 중앙우편대대', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post137_img5.jpg', alt: '6888 중앙우편대대', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post137_img4.jpg', alt: '6888 중앙우편대대 (The Six Triple Eight) 정보 넷플릭스 추천영화 평점 순위 < 진짜 PC영화를 향해 갈린 국내 해외반응 >', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post137_img3.jpg', alt: '6888 중앙우편대대 (The Six Triple Eight) 정보 넷플릭스 추천영화 평점 순위 < 진짜 PC영화를 향해 갈린 국내 해외반응 >', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Keith Garlington - 평점 3/5</b><br>“6888 중앙우편대대”는 여전히 훨씬 더 풍부한 이야기의 작은 부분처럼 느껴진다. 하지만 페리는 이 감동적인 실제 이야기를 화면에 담아낸 공로가 있다. 이 영화는 충분한 주목을 받지 못했음에도 불구하고 그 가치를 인정받을 만하다.</br></p>'

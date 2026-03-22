@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<table border=&quot;1&quot; cellpadding=&quot;10&quot; cellspacing=&quot;0&quot; data-ke-align=&quot;alignLeft&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;> <tbody> <tr> <th>제목</th> <td><b>화이트 아웃 (Whiteout, 2025)</b></td> </tr> <tr> <th>국가</th> <td>캐나다</td> </tr> <tr> <th>장르</th> <td>액션 / 스릴러</td> </tr> <tr> <th>러닝타임</th> <td>91분</td> </tr> <tr> <th>등급</th> <td>청소년 관람불가</td> </tr> <tr> <th>감독</th> <td>데릭 반스 (Derek Barnes)</td> </tr> <tr> <th>주연</th> <td>제임스 맥두걸, 더글라스 니백, 조엘 라벨, 이안 매튜스</td> </tr> <tr> <th>국내 개봉</th> <td>2025-10-16 예정</td> </tr> </tbody> </table>'
     },
+    { type: 'image', src: '/images/post58_img1.jpg', alt: '화이트 아웃 정보', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section2',
@@ -33,6 +34,7 @@ const post = {
       type: 'body',
       html: '<p>외부와 단절된 채 운영되던 <b>폐쇄형 노동 수용소</b>. 수감자 헨리와 세 명의 수감자가 함께 탈옥을 시도하지만, 곧 <b>거센 눈보라</b>에 고립돼요. 도의 혹한·굶주림·맹수의 위협·서로에 대한 불신이 한계까지 치닫는 가운데, 이들은 생존을 위해 싸우기 시작합니다. <b>인간의 광기와 연대</b>가 교차하는 설원 드라마가 펼쳐져요.</p>'
     },
+    { type: 'image', src: '/images/post58_img2.jpg', alt: '화이트아웃', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section3',
@@ -43,6 +45,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;line-height: 1.8;&quot;> <li><b>Emilie Black (Cinema Crazed)</b> — <b>Fresh</b>. “어느 부분은 크게 성공하지만, <b>호흡(페이싱)</b>과 <b>조명</b> 문제로 답답한 지점도 있다. 다른 요소들이 잘 받쳐주는 만큼 더 아쉽다.”</li> </ul>'
     },
+    { type: 'image', src: '/images/post58_img3.jpg', alt: '화이트아웃', caption: 'ⓒ R의 필름공장' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'h2',
@@ -54,6 +57,7 @@ const post = {
       type: 'body',
       html: '<table border=&quot;1&quot; cellpadding=&quot;10&quot; cellspacing=&quot;0&quot; data-ke-align=&quot;alignLeft&quot; style=&quot;border-collapse: collapse; width: 100%; text-align: center;&quot;> <thead> <tr> <th>관객</th> <th>평점(요약)</th> <th>키워드</th> <th>작성일</th> </tr> </thead> <tbody> <tr> <td>A.L.Jude P</td> <td>★1.5</td> <td>“초현실적 테마, 방향성 없음”</td> <td>2024-12-07</td> </tr> <tr> <td>Elizabeth F</td> <td>★4.0</td> <td>“인디 감성의 유머·폭력·액션 결합, 볼 만함”</td> <td>2024-11-28</td> </tr> <tr> <td>Cate P</td> <td>★4.0</td> <td>“어둡지만 <b>촬영 훌륭</b>, 고립·추위 체감”</td> <td>2024-11-27</td> </tr> <tr> <td>Allison L</td> <td>★4.5</td> <td>“장르 비틀기 재미, <b>고어 강함</b> 주의”</td> <td>2024-11-27</td> </tr> <tr> <td>A M</td> <td>★4.0</td> <td>“<b>The Grey / The Edge</b> 좋아하면 추천, 템포 빠름”</td> <td>2024-11-25</td> </tr> </tbody> </table>'
     },
+    { type: 'image', src: '/images/post58_img4.jpg', alt: '화이트아웃 해외 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section5',
@@ -64,6 +68,7 @@ const post = {
       type: 'body',
       html: '<div style=&quot;display: grid; grid-template-columns: 1fr 1fr; gap: 14px;&quot;> <div style=&quot;border: 1px solid #ddd; padding: 14px; border-radius: 12px;&quot;> <h3>👍 좋았던 점</h3> <ul style=&quot;list-style-type: disc;&quot;> <li><b>설경·고립감</b>을 살린 촬영과 음향</li> <li><b>생존전 + 추격전</b> 결합으로 긴장감 유지</li> <li>인디 감성의 <b>러프한 액션</b>과 장르 비틀기</li> </ul> </div> <div style=&quot;border: 1px solid #ddd; padding: 14px; border-radius: 12px;&quot;> <h3>🤔 아쉬운 점</h3> <ul style=&quot;list-style-type: disc;&quot;> <li>일부 구간 <b>페이싱</b> 불균형</li> <li>어두운 씬의 <b>조명 정보량</b> 부족 지적</li> <li><b>고어 수위</b>가 취향 타는 편</li> </ul> </div> </div>'
     },
+    { type: 'image', src: '/images/post58_img5.jpg', alt: '화이트아웃', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section6',

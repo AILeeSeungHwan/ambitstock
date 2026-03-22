@@ -157,6 +157,15 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;color: #781b33;&quot;><b>편견 없이 즐기는 시청자라면 추천!</b></span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post404_img8.jpg', alt: '넷플릭스 오리지널 시리즈 슈퍼 셀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post404_img7.jpg', alt: '넷플릭스 오리지널 시리즈 슈퍼 셀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post404_img6.jpg', alt: '넷플릭스 오리지널 시리즈 슈퍼 셀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post404_img5.jpg', alt: '넷플릭스 오리지널 시리즈 슈퍼 셀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post404_img4.jpg', alt: '넷플릭스 오리지널 시리즈 슈퍼 셀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post404_img3.jpg', alt: '넷플릭스 슈퍼 셀 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post404_img2.jpg', alt: '넷플릭스 슈퍼 셀 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post404_img1.jpg', alt: '넷플릭스 오리지널 시리즈 슈퍼 셀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;color: #1a5490;&quot;><b>모두가 좋아하는 완벽한 명작을 좋아한다면 그다지..?</b></span></p>'

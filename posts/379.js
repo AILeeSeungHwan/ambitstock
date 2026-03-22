@@ -226,6 +226,17 @@ const post = {
       type: 'body',
       html: '<p>이또한 상당히 높은 점수로, 더욱 영화에 대한 기대감을 높히는 부분이 될 것입니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post379_img10.jpg', alt: '영화 트위스터스 평론가 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post379_img9.jpg', alt: '영화 트위스터스 평론가 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post379_img8.jpg', alt: '영화 트위스터스 평론가 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post379_img7.jpg', alt: '영화 트위스터스 등장인물 캐스팅', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post379_img6.jpg', alt: '영화 트위스터스 등장인물 캐스팅', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post379_img5.jpg', alt: '영화 트위스터스 등장인물 캐스팅', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post379_img4.jpg', alt: '영화 트위스터스 뜻 해외 반응 및 로튼토마토 평론가 평점 - 미나리 정이삭 감독 작품 등장인물 배우 캐스팅 정보 개봉일', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post379_img3.jpg', alt: '영화 트위스터스 등장인물 캐스팅', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post379_img2.jpg', alt: '영화 트위스터스 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post379_img1.jpg', alt: '영화 트위스터스 뜻 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>다음 포스팅에서 영화 트위스터스의 해외 평론가들의 후기 살펴보겠습니다.</p>'

@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><br><span style=&quot;font-family: \'Noto Serif KR\';&quot;>\'탈출: 프로젝트 사일런스\'는 2024년 7월 12일 개봉 예정인 재난 스릴러 영화입니다. 8월 개봉할 행복의 나라와 더불어 고 이선균 배우의 유작 두편 중 하나 입니다. 짙은 안개 속에서 공항대교에서 벌어지는 재난 상황을 배경으로 하며 </span><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;background-color: #f3c000;&quot;><b>제작비 200억원, 손익분기점은 약 400만 명의 관객 수준으로 알려져있습니다.</b></span></span></br></p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2023년 5월 21일 자정 국제 칸영화제 시사회에서 최초로 공개된 이 작품은 약 5분동안의 기립 박수를 받으며 성황리에 시사회를 마무리 지었고, 2024년 7월 12일 개봉을 앞두고 있습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;832&quot; data-origin-width=&quot;1290&quot;><span data-alt=&quot;탈출 프로젝트 사일런스 스틸컷&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/YZhxy/btsH2kvs68D/AAAAAAAAAAAAAAAAAAAAAKgBzAuT5656TaE0ntiTuzKAVqycQyz5me4NBOIa4iCW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=To3Phbu2mZ7MC4OvOFM2BeJZn7A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/YZhxy/btsH2kvs68D/AAAAAAAAAAAAAAAAAAAAAKgBzAuT5656TaE0ntiTuzKAVqycQyz5me4NBOIa4iCW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=To3Phbu2mZ7MC4OvOFM2BeJZn7A%3D&quot;></span><figcaption>탈출 프로젝트 사일런스 스틸컷</figcaption> </figure> </p><blockquote style=&quot;background-color: #fcfcfc; text-align: left;&quot;> <h2 style=&quot;color: #000000;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>목 차<br/></b></span></h2> <ul style=&quot;list-style-type: circle;&quot;> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><span style=&quot;caret-color: #456771;&quot;><b>탈출 프로젝트 사일런스 줄거리</b></span></span></li> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>주요 등장인물 및 배우</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>제작정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>쿠키 및 후속작 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>탈출 프로젝트 사일런스 OTT 다시보기 정보 </b></span></li> </ul> </blockquote>'
+      html: '<p><br><span style=&quot;font-family: \'Noto Serif KR\';&quot;>\'탈출: 프로젝트 사일런스\'는 2024년 7월 12일 개봉 예정인 재난 스릴러 영화입니다. 8월 개봉할 행복의 나라와 더불어 고 이선균 배우의 유작 두편 중 하나 입니다. 짙은 안개 속에서 공항대교에서 벌어지는 재난 상황을 배경으로 하며 </span><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;background-color: #f3c000;&quot;><b>제작비 200억원, 손익분기점은 약 400만 명의 관객 수준으로 알려져있습니다.</b></span></span></br></p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2023년 5월 21일 자정 국제 칸영화제 시사회에서 최초로 공개된 이 작품은 약 5분동안의 기립 박수를 받으며 성황리에 시사회를 마무리 지었고, 2024년 7월 12일 개봉을 앞두고 있습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;832&quot; data-origin-width=&quot;1290&quot;><span data-alt=&quot;탈출 프로젝트 사일런스 스틸컷&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/YZhxy/btsH2kvs68D/AAAAAAAAAAAAAAAAAAAAAKgBzAuT5656TaE0ntiTuzKAVqycQyz5me4NBOIa4iCW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=To3Phbu2mZ7MC4OvOFM2BeJZn7A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/YZhxy/btsH2kvs68D/AAAAAAAAAAAAAAAAAAAAAKgBzAuT5656TaE0ntiTuzKAVqycQyz5me4NBOIa4iCW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=To3Phbu2mZ7MC4OvOFM2BeJZn7A%3D&quot;></span><figcaption>탈출 프로젝트 사일런스 스틸컷</figcaption> </figure> </p><blockquote style=&quot;background-color: #fcfcfc; text-align: left;&quot;> <h2 style=&quot;color: inherit;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>목 차<br/></b></span></h2> <ul style=&quot;list-style-type: circle;&quot;> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><span style=&quot;caret-color: #456771;&quot;><b>탈출 프로젝트 사일런스 줄거리</b></span></span></li> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>주요 등장인물 및 배우</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>제작정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>쿠키 및 후속작 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>탈출 프로젝트 사일런스 OTT 다시보기 정보 </b></span></li> </ul> </blockquote>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>영화 \'탈출: 프로젝트 사일런스\'는 공항대교에서 발생한 대규모 재난을 배경으로 펼쳐지는 긴박한 스릴러입니다. 짙은 안개가 낀 날, 공항대교에서 일어난 연쇄 추돌 사고와 이를 둘러싼 사람들의 생존기를 다룹니다. 대통령 보좌관인 차정원(이선균)은 딸과 함께 공항대교를 지나던 중 예기치 못한 사고에 휘말리게 됩니다.</span></p>'
     },
+    { type: 'image', src: '/images/post427_img1.jpg', alt: '탈출 프로젝트 사일런스 스틸컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>연쇄 추돌 사고로 인해 대교는 붕괴 위기에 처하고, 차정원과 그의 딸을 포함한 많은 사람들이 고립됩니다. 이 상황에서 비밀 군사 프로젝트인 \'프로젝트 사일런스\'의 군사용 실험견 \'에코\'가 탈출하여 사람들을 위협합니다. \'에코\'는 원래 군사용으로 개발된 공격적인 실험견으로, 사람들에게 무차별적인 공격을 가합니다. 대교는 폭발과 붕괴의 위협 속에서 공포의 현장이 되고, 사람들은 살아남기 위해 힘을 합치기 시작합니다.</span></p>'
@@ -65,6 +66,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>차정원 (이선균)</b> </span></p>'
     },
+    { type: 'image', src: '/images/post427_img2.jpg', alt: '탈출 프로젝트 사일런스 스틸컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>대통령 보좌관으로, 딸과 함께 공항대교에 고립됩니다.</span></p>'
@@ -115,6 +117,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 감독: 김태곤</span><br/><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 촬영 감독: 홍경표</span><br/><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 미술 감독: 한아름</span><br/><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 배급사: CJ ENM</span><br/><br/></p>'
     },
+    { type: 'image', src: '/images/post427_img3.jpg', alt: '탈출 프로젝트 사일런스 스틸컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;832&quot; data-origin-width=&quot;1290&quot;><span data-alt=&quot;탈출 프로젝트 사일런스 스틸컷&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cbhJR3/btsH165kd0B/AAAAAAAAAAAAAAAAAAAAAKS6ypmF4piZA-wR1RtjC8PlYlVxegWZdfuxzruUWAX3/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pV8eWCKYaoh5KYd0rl9WCXNr9KA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cbhJR3/btsH165kd0B/AAAAAAAAAAAAAAAAAAAAAKS6ypmF4piZA-wR1RtjC8PlYlVxegWZdfuxzruUWAX3/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pV8eWCKYaoh5KYd0rl9WCXNr9KA%3D&quot;></span><figcaption>탈출 프로젝트 사일런스 스틸컷</figcaption> </figure> </p>'
@@ -130,6 +133,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 쿠키 영상: 현재까지 쿠키 영상에 대한 정보는 없습니다.</span><br/><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 후속작 여부: 아직 후속작에 대한 공식 발표는 없습니다</span></p>'
     },
+    { type: 'image', src: '/images/post427_img9.jpg', alt: '탈출 프로젝트 사일런스 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post427_img8.jpg', alt: '탈출 프로젝트 사일런스 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post427_img7.jpg', alt: '탈출 프로젝트 사일런스 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post427_img6.jpg', alt: '탈출 프로젝트 사일런스 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post427_img5.jpg', alt: '탈출 프로젝트 사일런스 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post427_img4.jpg', alt: '탈출 프로젝트 사일런스 스틸컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section5',

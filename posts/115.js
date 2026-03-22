@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>영화 해관전선이 2025년 1월 02일 개봉합니다.</b></p>'
     },
+    { type: 'image', src: '/images/post115_img1.jpg', alt: '해관전선', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 제목인 해관전선의 영어 제목 뜻과 그 의미를 해석, 해외 로튼 토마토 평론가 반응 후기</b></span>를 함께 알아보도록 하겠습니다.</p>'
@@ -41,6 +42,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post115_img2.jpg', alt: '해관전선', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-drama-recommend-netflix/',
@@ -66,6 +68,7 @@ const post = {
       type: 'body',
       html: '<p>홍콩 해경은 불법 밀수를 단속하던 중, 선원들이 모두 살해되고 배를 버린 밀수 선장을 체포하게 된다.</p>'
     },
+    { type: 'image', src: '/images/post115_img3.jpg', alt: '해관 전선 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이 과정에서 불법 무기 밀수의 정황을 발견하고, 인터폴까지 파견되어 본격적인 수사가 시작된다. 그러나 무장 강도들의 기습적인 공격으로 중요한 증거들이 도난당하고, 라이는 동료들의 죽음을 목격하게 된다.</p>'
@@ -89,6 +92,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>해관전선<br/></span>Customs Frontline</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post115_img4.jpg', alt: '해관전선', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>해관전선은 \'Customs Frontline\'의 번역으로, <span style=&quot;background-color: #9feec3;&quot;><b>세관이란 국가의 수출입 물품을 관리하고 규제하는 관세청의 업무와 관련된 최전선 역할</b></span>을 하는 곳을 의미한다.</p>'
@@ -105,8 +109,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>해관 전선 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>해관 전선 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post115_img5.jpg', alt: '해관전선', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 13%, 관객 평점 50%입니다.</b></span></p>'
@@ -129,6 +134,8 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>해관전선 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post115_img7.jpg', alt: '해관전선', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post115_img6.jpg', alt: '해관전선', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Dennis Schwartz - 평점(C)</b><br/>이 영화는 별로 의미가 없다. 내용이 잘 이해되지 않는다.</p>'

@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>먼저 영화 인셉션 로튼 토마토 평론가 평점 및 관객 평점을 알아보겠습니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>먼저 영화 인셉션 로튼 토마토 평론가 평점 및 관객 평점을 알아보겠습니다.</b></p>'
     },
     {
       type: 'body',
@@ -23,11 +23,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>평론가 평점 87%, 관람객 평점 91%의 인셉션</b>입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>평론가 평점 87%, 관람객 평점 91%의 인셉션</b>입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>크리스토퍼 놀란 영화 중에서도 손꼽히는 명작으로 평가받는 인셉션은 평론가 평점과 관람객 평점도 상당히 높은 평점을 기록하고 있습니다. 현재 인셉션은 넷플릭스에서 시청가능합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>크리스토퍼 놀란 영화 중에서도 손꼽히는 명작으로 평가받는 인셉션은 평론가 평점과 관람객 평점도 상당히 높은 평점을 기록하고 있습니다. 현재 인셉션은 넷플릭스에서 시청가능합니다.</p>'
     },
     {
       type: 'body',
@@ -65,6 +65,13 @@ const post = {
       type: 'body',
       html: '<p>이 결말은 영화가 말하고자 하는 핵심 메시지와도 맞닿아 있습니다. 인셉션은 \'현실\'과 \'꿈\', \'의식\'과 \'무의식\'의 경계를 탐구하며, 우리가 경험하는 세계가 과연 무엇이 진짜인지에 대한 철학적 질문을 던집니다. 코브가 마지막에 팽이가 멈추는지 확인하지 않는다는 점은 그가 더 이상 현실 여부에 집착하지 않고, 자신이 원하는 삶을 살기로 했다는 해석도 가능합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post308_img6.jpg', alt: '인셉션 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post308_img5.jpg', alt: '인셉션 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post308_img4.jpg', alt: '인셉션 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post308_img3.jpg', alt: '인셉션 제목 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post308_img2.jpg', alt: '영화 인셉션 IMDB 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post308_img1.jpg', alt: '인셉션 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>즉, 그의 진정한 목표는 아이디어의 주입이나 복수심을 넘어서, 자신의 내면에서 가족과의 재회를 찾는 것이었을지도 모릅니다.</p>'

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post193_img1.jpg', alt: '강남 비 사이드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>디즈니 드라마 강남 비 사이드 해외 평점과 인기 순위입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post193_img2.jpg', alt: '강남 비 사이드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>시청자 평점 7.5점, 인기 순위 389위를 기록한 강남 비 사이드입니다.</b></span></p>'
@@ -66,6 +68,17 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>그렇다면 해외 시청자는 강남 비 사이드 어떻게 평가하는지</b></span></p>'
     },
+    { type: 'image', src: '/images/post193_img13.jpg', alt: '강남 비 사이드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post193_img12.jpg', alt: '강남 비 사이드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post193_img11.jpg', alt: '강남 비 사이드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post193_img10.jpg', alt: '강남 비 사이드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post193_img9.jpg', alt: '강남 비 사이드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post193_img8.jpg', alt: '강남 비 사이드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post193_img7.jpg', alt: '강남 비 사이드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post193_img6.jpg', alt: '강남 비 사이드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post193_img5.jpg', alt: '강남 비 사이드 해외 반응은? <평점 리뷰 후기> 실화기반 디즈니 플러스 드라마', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post193_img4.jpg', alt: '강남 비 사이드 평점 분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post193_img3.jpg', alt: '강남 비 사이드 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>해외 리뷰를 확인하며 알아보도록 하겠습니다.</b></span></p>'

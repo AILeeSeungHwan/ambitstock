@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이제훈 구교환 주연 영화 탈주 (<b><span style=&quot;color: #953b34;&quot;>영어제목: Escape</span></b>) 해외 반응 및 결말 후기 입니다.</p><p>24년 7월 3일 개봉 후 <span style=&quot;background-color: #f3c000;&quot;><b>약 2주동안 150만명 관객수를 돌파!</b></span></p><p>손익분기점 200만명을 넘기까지 얼마남지 않았습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이제훈 구교환 주연 영화 탈주 (<b><span style=&quot;color: #953b34;&quot;>영어제목: Escape</span></b>) 해외 반응 및 결말 후기 입니다.</p><p>24년 7월 3일 개봉 후 <span style=&quot;background-color: #f3c000;&quot;><b>약 2주동안 150만명 관객수를 돌파!</b></span></p><p>손익분기점 200만명을 넘기까지 얼마남지 않았습니다.</p>'
     },
     {
       type: 'image',
@@ -46,15 +46,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 탈주 (영어제목 : Escape) 로튼토마토 평론가 평점 및 관람객 평점입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 탈주 (영어제목 : Escape) 로튼토마토 평론가 평점 및 관람객 평점입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점 75%, 관람객 평점 94%</b></span>로 관람객 평점이 준수한 점수를 기록하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점 75%, 관람객 평점 94%</b></span>로 관람객 평점이 준수한 점수를 기록하고 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가 평가 75% 또한 양호한 점수로, 전체적으로 호평을 받은 것을 알 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평론가 평가 75% 또한 양호한 점수로, 전체적으로 호평을 받은 것을 알 수 있습니다.</p>'
     },
     {
       type: 'body',
@@ -62,11 +62,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 탈주 IMDB 평점입니다. </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 탈주 IMDB 평점입니다. </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>로튼토마토보다 상대적으로 <b><span style=&quot;background-color: #f3c000;&quot;>낮은 평점 6.7점을 기록하였고,</span> 인기 순위는 1,817위</b>를 기록하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>로튼토마토보다 상대적으로 <b><span style=&quot;background-color: #f3c000;&quot;>낮은 평점 6.7점을 기록하였고,</span> 인기 순위는 1,817위</b>를 기록하였습니다.</p>'
     },
     {
       type: 'body',
@@ -74,31 +74,31 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평점 분포에 1점을 준 관람객이 적고</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평점 분포에 1점을 준 관람객이 적고</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>애매한 6-7점의 점수가 높은 것으로 보아, 평점테러는 없는 것으로 보입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>애매한 6-7점의 점수가 높은 것으로 보아, 평점테러는 없는 것으로 보입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>허나, <span style=&quot;color: #781b33;&quot;><b>전체적으로 10점보다 7점의 평점분포가 높은것은 115명이라는 표본임을 감안해도 낮은 점수대를 형성</b></span>하고 있음을 알 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>허나, <span style=&quot;color: #781b33;&quot;><b>전체적으로 10점보다 7점의 평점분포가 높은것은 115명이라는 표본임을 감안해도 낮은 점수대를 형성</b></span>하고 있음을 알 수 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>국내 네이버 평점은 8점이상으로 호평</b><b>임을 감안하면 상당한 온도차</b></span>를 확인 할 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>국내 네이버 평점은 8점이상으로 호평</b><b>임을 감안하면 상당한 온도차</b></span>를 확인 할 수 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그렇다면 영화 탈주 후기 해외 반응은 어떠한지, 해외 리뷰 살펴보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>그렇다면 영화 탈주 후기 해외 반응은 어떠한지, 해외 리뷰 살펴보겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>해당 리뷰에 대한 긍정 부정 평가를 나누어 전달드리겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>해당 리뷰에 대한 긍정 부정 평가를 나누어 전달드리겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;> </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;> </p>'
     },
     {
       type: 'body',
@@ -110,7 +110,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;> </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;> </p>'
     },
     {
       type: 'body',
@@ -128,6 +128,21 @@ const post = {
       type: 'body',
       html: '<p><b>막상스 빈센트</b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post385_img14.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img13.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img12.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img11.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img10.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img9.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img8.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img7.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img6.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img5.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img4.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img3.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img2.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post385_img1.jpg', alt: '영화 탈주 해외 반응 결말 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;728&quot; data-origin-width=&quot;1211&quot;><span data-alt=&quot;영화 탈주 해외 반응 결말 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dCQWYB/btsIGJ9zSh1/AAAAAAAAAAAAAAAAAAAAACsZdL4znpBUmLzjEl76MDdhqunqMmQJaEozFhN80ZY_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=iJ083UkIAFJhGxZQP8x%2BTvz1bAQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dCQWYB/btsIGJ9zSh1/AAAAAAAAAAAAAAAAAAAAACsZdL4znpBUmLzjEl76MDdhqunqMmQJaEozFhN80ZY_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=iJ083UkIAFJhGxZQP8x%2BTvz1bAQ%3D&quot;></span><figcaption>영화 탈주 해외 반응 결말 후기</figcaption> </figure> </p>'

@@ -55,59 +55,78 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>IMDB 드라마 낮과 밤이 다른 그녀 평점 및 인기순위 입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>IMDB 드라마 낮과 밤이 다른 그녀 평점 및 인기순위 입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>현재 IMDB 인기순위 782위를 기록하고 있는 중입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>현재 IMDB 인기순위 782위를 기록하고 있는 중입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평점은 7.6점으로, 평균적으로 7점 초반, 혹은 6점대의 점수도 많은 것을 감안하면 준수한 성적을 기록하는 중인 것을 알 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평점은 7.6점으로, 평균적으로 7점 초반, 혹은 6점대의 점수도 많은 것을 감안하면 준수한 성적을 기록하는 중인 것을 알 수 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그렇다면 드라마 낮과 밤이 다른 그녀 후기 해외 반응 어떠한지, 해외 리뷰 살펴보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>그렇다면 드라마 낮과 밤이 다른 그녀 후기 해외 반응 어떠한지, 해외 리뷰 살펴보겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><br/>주요 촬영지는 청주시 청원구 오창읍의 스타벅스 오창호수공원점과 청주 소재 충북도청 등입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><br/>주요 촬영지는 청주시 청원구 오창읍의 스타벅스 오창호수공원점과 청주 소재 충북도청 등입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이 외에도 청주시 일대에서 여러 장면이 촬영되었습니다.<br/> </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이 외에도 청주시 일대에서 여러 장면이 촬영되었습니다.<br/> </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>낮과 밤이 다른 그녀는 총 16부작으로 구성되어 있으며,</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>낮과 밤이 다른 그녀는 총 16부작으로 구성되어 있으며,</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><b>2024년 6월 15일부터 8월 4일까지 JTBC에서 매주 토요일과 일요일 저녁 10시 30분에 방영</b></span>됩니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><b>2024년 6월 15일부터 8월 4일까지 JTBC에서 매주 토요일과 일요일 저녁 10시 30분에 방영</b></span>됩니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>낮과 밤이 다른 그녀 재방송은 JTBC, DRAMACUBE, ENA, JTBC2, JTBC4에서 시청가능 하며,</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>낮과 밤이 다른 그녀 재방송은 JTBC, DRAMACUBE, ENA, JTBC2, JTBC4에서 시청가능 하며,</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>방영 후 익일 12시-15시 사이에 공개됩니다. </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>방영 후 익일 12시-15시 사이에 공개됩니다. </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>OTT 구독 스트리밍을 이용하시는 분들은 티빙 및 넷플릭스에서 바로 시청 가능합니다.<br/>  </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>OTT 구독 스트리밍을 이용하시는 분들은 티빙 및 넷플릭스에서 바로 시청 가능합니다.<br/>  </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;> <br/>드라마 낮과 밤이 다른 그녀 시청률입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;> <br/>드라마 낮과 밤이 다른 그녀 시청률입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>1화 4.0%, 2화 시청률 3.6%로 시작하여 꾸준한 상승세를 이어왔고, <span style=&quot;background-color: #f3c000;&quot;><b>현재 10화 시청률은 8.4%로 집계</b></span>됩니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>1화 4.0%, 2화 시청률 3.6%로 시작하여 꾸준한 상승세를 이어왔고, <span style=&quot;background-color: #f3c000;&quot;><b>현재 10화 시청률은 8.4%로 집계</b></span>됩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post391_img18.jpg', alt: '드라마 낮과 밤이 다른 그녀 해외 반응 후기를 알아보자 | 재방송정보 줄거리 시청률 인기순위 평점 리뷰 총정리!', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img17.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img16.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img15.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img14.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img13.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img12.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img11.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img10.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img9.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img8.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img7.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img6.jpg', alt: '드라마 낮과 밤이 다른 그녀 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img5.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img4.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img3.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img2.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post391_img1.jpg', alt: '드라마 낮과 밤이 다른 그녀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>드라마 낮과 밤이 다른 그녀 <b>최고 시펑률은 8회 8.391%</b>이고, 이와 더불어 넷플릭스에서의 낮과 밤이 다른 그녀 드라마 순위 또한 1위를 기록하는 중입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>드라마 낮과 밤이 다른 그녀 <b>최고 시펑률은 8회 8.391%</b>이고, 이와 더불어 넷플릭스에서의 낮과 밤이 다른 그녀 드라마 순위 또한 1위를 기록하는 중입니다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

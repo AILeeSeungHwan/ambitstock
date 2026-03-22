@@ -108,6 +108,14 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><b>로튼토마토 에일리언 로물루스 평론가 후기 </b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post354_img7.jpg', alt: '에일리언 로물루스 4DX 첫 해외 시사회 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post354_img6.jpg', alt: '에일리언 로물루스 4DX 첫 해외 시사회 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post354_img5.jpg', alt: '에일리언 로물루스 4DX 첫 해외 시사회 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post354_img4.jpg', alt: '에일리언 로물루스 4DX 첫 해외 시사회 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post354_img3.jpg', alt: '에일리언 로물루스 4DX 첫 해외 시사회 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post354_img2.jpg', alt: '영화 에일리언 로물루스 4DX 예매 첫 SNS 시사회 해외 반응 역대 최고의 결말 스틸컷과 함께 보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post354_img1.jpg', alt: '에일리언 로물루스 4DX 첫 해외 시사회 반응', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;>빠르게 전해드리겠습니다.</p>'

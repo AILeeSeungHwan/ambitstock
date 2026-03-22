@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>라이언 레이놀즈 휴잭맨 주연, 영화 데드풀 ( Deadpool ) 3: 데드풀과 울버린이 개봉합니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>개봉일은 2024년 07월 24일로 데드풀과 울버린이 함께 영상에 나온다는 것만으로</p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;> <a href=&quot;https://ambitstock.com/62&quot; style=&quot;background-color: #f3c000;&quot; title=&quot;2024년 하반기 해외 블록버스터 영화 추천&quot;><b>엄청난 기대감을 몰고 있는 2024년 할리우드 영화 기대작</b></a></span>입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>라이언 레이놀즈 휴잭맨 주연, 영화 데드풀 ( Deadpool ) 3: 데드풀과 울버린이 개봉합니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>개봉일은 2024년 07월 24일로 데드풀과 울버린이 함께 영상에 나온다는 것만으로</p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;> <a href=&quot;https://ambitstock.com/62&quot; style=&quot;background-color: #f3c000;&quot; title=&quot;2024년 하반기 해외 블록버스터 영화 추천&quot;><b>엄청난 기대감을 몰고 있는 2024년 할리우드 영화 기대작</b></a></span>입니다.</p>'
     },
     {
       type: 'image',
@@ -35,15 +35,15 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><b>(업데이트) 데드풀과 울버린 개봉! </b></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><b>(업데이트) 데드풀과 울버린 개봉! </b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><b>평점, 해외 반응과 로튼 토마토 평론가 후기 </b></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><b>평점, 해외 반응과 로튼 토마토 평론가 후기 </b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>신규 포스팅으로 이동하세요</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>신규 포스팅으로 이동하세요</b></span></p>'
     },
     {
       type: 'body',
@@ -51,7 +51,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>내한행사를 진행한 데드풀 멤버들은 워터밤과 더불어 \'인기 가요\' 등, 각종 행사에 얼굴을 비추며 개봉일이 임박했음을 알리고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>내한행사를 진행한 데드풀 멤버들은 워터밤과 더불어 \'인기 가요\' 등, 각종 행사에 얼굴을 비추며 개봉일이 임박했음을 알리고 있습니다.</p>'
     },
     {
       type: 'body',
@@ -63,7 +63,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아쉽게도 데드풀 3: <span style=&quot;background-color: #f3c000;&quot;><b>데드풀과 울버린의 등급은 청소년 관람 불가 등급 R등급</b></span>으로 ( 데드풀의 이전 작품들 행보를 보면 당연..한 결과물 ) 또 한번 아이들과 함께 시청하기엔 부적절한 어른들의 영화가 될 것으로 보입니다. </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아쉽게도 데드풀 3: <span style=&quot;background-color: #f3c000;&quot;><b>데드풀과 울버린의 등급은 청소년 관람 불가 등급 R등급</b></span>으로 ( 데드풀의 이전 작품들 행보를 보면 당연..한 결과물 ) 또 한번 아이들과 함께 시청하기엔 부적절한 어른들의 영화가 될 것으로 보입니다. </p>'
     },
     {
       type: 'body',
@@ -79,19 +79,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 데드풀1 (영어제목 : DeadPool ) 로튼토마토 평론가 평점 및 관람객 평점입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 데드풀1 (영어제목 : DeadPool ) 로튼토마토 평론가 평점 및 관람객 평점입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점 85%, 관람객 평점 90%</b></span>로 마블 영화의 이단아스러운 점수를 기록하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점 85%, 관람객 평점 90%</b></span>로 마블 영화의 이단아스러운 점수를 기록하고 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아시는 바와 같이 데드풀 영화의 탄생 비하인드 스토리는 우여곡절이 많았습니다. (특히나 캐릭터 판권 문제가 컸음 )</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아시는 바와 같이 데드풀 영화의 탄생 비하인드 스토리는 우여곡절이 많았습니다. (특히나 캐릭터 판권 문제가 컸음 )</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><b>라이언 레이놀즈가 10년이 넘는 시간동안 끝까지 밀어붙여 개봉시킨 영화</b></span>로 제작이 무산될 뻔한 상황에서 2분짜리 테스트 영상이 온라인에 뿌려지며 해당 영상의 엄청난 인기를 바탕으로 영화 제작과 개봉까지 성공한 작품입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><b>라이언 레이놀즈가 10년이 넘는 시간동안 끝까지 밀어붙여 개봉시킨 영화</b></span>로 제작이 무산될 뻔한 상황에서 2분짜리 테스트 영상이 온라인에 뿌려지며 해당 영상의 엄청난 인기를 바탕으로 영화 제작과 개봉까지 성공한 작품입니다.</p>'
     },
     {
       type: 'body',
@@ -99,15 +99,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 데드풀 1 IMDB 평점입니다. </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 데드풀 1 IMDB 평점입니다. </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>무려 <span style=&quot;background-color: #01ff51;&quot;><b>평점 표본 100만개의 대작으로, 평점 8점</b></span>을 기록하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>무려 <span style=&quot;background-color: #01ff51;&quot;><b>평점 표본 100만개의 대작으로, 평점 8점</b></span>을 기록하였습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>개봉한지 8년이 지난 영화이지만 <span style=&quot;background-color: #01ff51;&quot;><b>인기순위도 98위</b></span>로 개봉전 해외에서도 상당한 기대감을 가진 것을 알 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>개봉한지 8년이 지난 영화이지만 <span style=&quot;background-color: #01ff51;&quot;><b>인기순위도 98위</b></span>로 개봉전 해외에서도 상당한 기대감을 가진 것을 알 수 있습니다.</p>'
     },
     {
       type: 'body',
@@ -115,15 +115,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평점 분포는 <b><span style=&quot;background-color: #f3c000;&quot;>8점, 9점, 10점, 7점 순으로 평가</span></b>받았고,</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평점 분포는 <b><span style=&quot;background-color: #f3c000;&quot;>8점, 9점, 10점, 7점 순으로 평가</span></b>받았고,</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>데이터 표본 국가는<span style=&quot;background-color: #f3c000;&quot;><b> 미국 영국 터키 독일 인도 순</b></span>입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>데이터 표본 국가는<span style=&quot;background-color: #f3c000;&quot;><b> 미국 영국 터키 독일 인도 순</b></span>입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 데드풀 1 후기 해외 반응은 어떠한지, 해외 리뷰 살펴보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 데드풀 1 후기 해외 반응은 어떠한지, 해외 리뷰 살펴보겠습니다.</p>'
     },
     {
       type: 'body',
@@ -151,7 +151,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>데드풀 시리즈 1,2 OTT 다시보기는 디즈니 플러스에서 시청 가능</b></span>합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>데드풀 시리즈 1,2 OTT 다시보기는 디즈니 플러스에서 시청 가능</b></span>합니다.</p>'
     },
     {
       type: 'body',
@@ -179,11 +179,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;>데드풀과 울버린 OTT 보는곳 또한 지금까지의 추세를 바탕으로</p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;>데드풀과 울버린 OTT 보는곳 또한 지금까지의 추세를 바탕으로</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;>공개 후 6개월 후 디즈니 플러스에서 시청 가능할 것으로 예상됩니다. </p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;>공개 후 6개월 후 디즈니 플러스에서 시청 가능할 것으로 예상됩니다. </p>'
     },
     {
       type: 'body',
@@ -201,6 +201,26 @@ const post = {
       type: 'body',
       html: '<p>다음 포스팅에서 <span style=&quot;background-color: #f3c000;&quot;><b>데드풀 2와 데드풀 3- 데드풀과 울버린 평점 및 후기</b></span>로 찾아오겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post384_img19.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img18.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img17.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img16.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img15.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img14.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img13.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img12.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img11.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img10.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img9.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img8.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img7.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img6.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img5.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img4.jpg', alt: '영화 데드풀1 해외 반응 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img3.jpg', alt: '영화 데드풀3 : 데드풀과 울버린', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img2.jpg', alt: '영화 데드풀3 : 데드풀과 울버린', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post384_img1.jpg', alt: '영화 데드풀3 : 데드풀과 울버린', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>즐겨찾기 구독 후 7월 24일 올라올 데드풀 3 해외 반응과 평점 후기 바로 확인하세요.</p>'

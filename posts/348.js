@@ -141,6 +141,14 @@ const post = {
       type: 'body',
       html: '<p>여러 번 보기 힘들 정도로 어두운 분위기와 충격적인 전개는 오랫동안 기억에 남을 것입니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post348_img7.jpg', alt: '영화 널 기다리며', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post348_img6.jpg', alt: '영화 널 기다리며', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post348_img5.jpg', alt: '널-기다리며-넷플릭스-평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post348_img4.jpg', alt: '널-기다리며-넷플릭스-IMDB-평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post348_img3.jpg', alt: '널 기다리며 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post348_img2.jpg', alt: '널-기다리며-넷플릭스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post348_img1.jpg', alt: '널-기다리며-넷플릭스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>영화의 결말은 감정적으로 깊이 박히며, 이를 통해 \'미씽 유\'는 잊을 수 없는 작품으로 자리 잡았습니다.</p>'

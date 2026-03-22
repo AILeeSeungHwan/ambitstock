@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post89_img1.jpg', alt: '계시록 영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>영화 계시록은 실종 사건의 범인을 단죄하는 것이 신의 계시라 믿는 목사 성민찬(류준열)과, 죽은 동생의 환영에 시달리면서도 끈질기게 범인을 쫓는 형사 이연희(신현빈)의 이야기를 그린 작품입니다.</p>'
     },
+    { type: 'image', src: '/images/post89_img2.jpg', alt: '계시록', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>두 인물은 각자의 믿음을 따라 행동하며, 그 과정에서 진실과 신념의 경계가 흐려지는 모습을 보여줍니다. </p>'
@@ -62,6 +64,7 @@ const post = {
       type: 'body',
       html: '<p>영화 계시록의 영어 제목은 Revelations로, 이는 \'계시\' 또는 \'묵시록\'을 의미합니다.</p>'
     },
+    { type: 'image', src: '/images/post89_img3.jpg', alt: '계시록', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이는 성경의 마지막 장인 \'요한계시록\'에서 따온 것으로, 영화의 주제인 신의 계시와 인간의 신념을 강조합니다.</p>'
@@ -93,6 +96,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 해외 평론가 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post89_img4.jpg', alt: '계시록', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>내용에 스포일러는 크게 없으니 안심하고 확인해 보시길 바랍니다.</p>'
@@ -107,6 +111,7 @@ const post = {
       type: 'body',
       html: '<p>계시록은 인상적인 비주얼과 심리적 긴장감을 강조한 연출로 호평을 받았습니다.</p>'
     },
+    { type: 'image', src: '/images/post89_img5.jpg', alt: '계시록', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>많은 평론가들이 영화가 종교적 광신과 신념의 경계를 탐구하면서도, 강렬한 연기와 섬세한 연출로 몰입감을 높였다고 평가했습니다.</p>'
@@ -141,6 +146,10 @@ const post = {
       type: 'body',
       html: '<p>반면, 일부 평론가들은 영화의 전개가 지나치게 복잡하거나 산만하며,</p>'
     },
+    { type: 'image', src: '/images/post89_img9.jpg', alt: '계시록', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post89_img8.jpg', alt: '계시록', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post89_img7.jpg', alt: '계시록', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post89_img6.jpg', alt: '계시록', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>감독의 기존 작품들과 비교했을 때 다소 부족한 면이 있다고 지적했습니다.</p>'

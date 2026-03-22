@@ -98,6 +98,15 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post249_img8.jpg', alt: '영화 스마일 2 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post249_img7.jpg', alt: '영화 스마일 2 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post249_img6.jpg', alt: '영화 스마일 2 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post249_img5.jpg', alt: '영화 스마일 2 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post249_img4.jpg', alt: '영화 스마일 2 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post249_img3.jpg', alt: '영화 스마일 2 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post249_img2.jpg', alt: '영화 스마일 2 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post249_img1.jpg', alt: '영화 스마일 2 시사회 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

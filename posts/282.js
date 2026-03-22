@@ -112,6 +112,14 @@ const post = {
       type: 'body',
       html: '<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post282_img7.jpg', alt: '반지의 제왕 힘의 반지 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post282_img6.jpg', alt: '반지의 제왕 스틸컷 입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post282_img5.jpg', alt: '반지의 제왕 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post282_img4.jpg', alt: '반지의 제왕 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post282_img3.jpg', alt: '반지의 제왕 힘의 반지 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post282_img2.jpg', alt: '반지의 제왕 힘의 반지 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post282_img1.jpg', alt: '반지의 제왕 힘의 반지', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>반지의 제왕 시리즈뿐만 아니라 애니메이션 영화로도 곧 찾아옵니다.</b></p>'

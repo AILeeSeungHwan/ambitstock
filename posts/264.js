@@ -89,7 +89,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000; background-color: #9feec3;&quot;><b>여기서 \'와일드\'는 단순히 자연의 환경을 넘어 로즈의 자유로운 변화와 성장, 그리고 자아 발견의 여정을 상징합니다.</b></span></p>'
+      html: '<p><span style=&quot;color: inherit; background-color: #9feec3;&quot;><b>여기서 \'와일드\'는 단순히 자연의 환경을 넘어 로즈의 자유로운 변화와 성장, 그리고 자아 발견의 여정을 상징합니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -115,6 +115,13 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post264_img6.jpg', alt: '와일드 로봇', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post264_img5.jpg', alt: '와일드 로봇', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post264_img4.jpg', alt: '와일드 로봇', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post264_img3.jpg', alt: '와일드 로봇', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post264_img2.jpg', alt: '와일드 로봇', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post264_img1.jpg', alt: '와일드 로봇', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

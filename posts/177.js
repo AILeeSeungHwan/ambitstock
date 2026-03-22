@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post177_img1.jpg', alt: '헬보이: 크룩드 맨', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>헬보이: 크룩드 맨 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>헬보이: 크룩드 맨 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post177_img2.jpg', alt: '헬보이: 크룩드 맨 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;582&quot; data-origin-width=&quot;1870&quot;><span data-alt=&quot;헬보이: 크룩드 맨 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/L3E41/btsKUwTmtRx/AAAAAAAAAAAAAAAAAAAAAOSPv9gpi4XiHS7aBKdK8k-Lu-Q6IzkCgtByVdXaGVRh/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4ud94r6XKhyEJxgkRLPsTDX%2FBzA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/L3E41/btsKUwTmtRx/AAAAAAAAAAAAAAAAAAAAAOSPv9gpi4XiHS7aBKdK8k-Lu-Q6IzkCgtByVdXaGVRh/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4ud94r6XKhyEJxgkRLPsTDX%2FBzA%3D&quot;></span><figcaption>헬보이: 크룩드 맨 로튼 토마토 평점</figcaption> </figure> </p>'
@@ -74,6 +76,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>헬보이: 크룩드 맨 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post177_img3.jpg', alt: '헬보이: 크룩드 맨 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Alistair Lawrence - 평점 없음</b><br>이전의 헬보이 영화들이 다채롭고 활기찬 분위기를 지녔던 반면, ‘헬보이: 더 크룩드 맨’은 어두운 조명 아래에서 저가적인 느낌만을 준다.</br></p>'
@@ -141,6 +144,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>헬보이: 크룩드 맨의 부제 크룩드 맨의 뜻 의미 해석</b></span>을 마지막으로 포스팅 마칩니다.</p>'
     },
+    { type: 'image', src: '/images/post177_img10.jpg', alt: '헬보이: 크룩드 맨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post177_img9.jpg', alt: '헬보이: 크룩드 맨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post177_img8.jpg', alt: '헬보이: 크룩드 맨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post177_img7.jpg', alt: '헬보이: 크룩드 맨 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post177_img6.jpg', alt: '헬보이: 크룩드 맨 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post177_img5.jpg', alt: '헬보이: 크룩드 맨 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post177_img4.jpg', alt: '헬보이: 크룩드 맨 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>쿠룩드 맨 Crooked Man<br/></span>비뚤어진 사내</b></span></blockquote>'

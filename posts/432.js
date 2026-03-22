@@ -31,7 +31,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #333333; text-align: start;&quot;>새로운 시리즈의 제목인 </span><b><span style=&quot;color: #1a5490;&quot;>&quot;로히림의 전쟁&quot;에서 &quot;로히림&quot;은 &quot;로한인&quot;을 뜻</span></b><span style=&quot;color: #333333; text-align: start;&quot;>합니다. </span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; text-align: start;&quot;>새로운 시리즈의 제목인 </span><b><span style=&quot;color: #1a5490;&quot;>&quot;로히림의 전쟁&quot;에서 &quot;로히림&quot;은 &quot;로한인&quot;을 뜻</span></b><span style=&quot;color: inherit; text-align: start;&quot;>합니다. </span></p>'
     },
     {
       type: 'body',
@@ -103,7 +103,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>- 역할:</b> 헤라는 헬름 해머핸드의 딸로, 영화의 주요 인물 중 하나입니다. 헬름과 그의 백성들이 동부 서스키테어의 지도자인 울프(Wulf)와 맞서 싸우는 과정에서 중요한 역할을 합니다. 헤라는 점점 더 절박해지는 상황 속에서 저항군을 이끌어야 하는 임무를 맡게 되며, 그녀의 용기와 결단력이 영화의 주요 테마 중 하나입니다​.<span data-state=&quot;closed&quot; style=&quot;color: #333333; text-align: start;&quot;> </span></span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>- 역할:</b> 헤라는 헬름 해머핸드의 딸로, 영화의 주요 인물 중 하나입니다. 헬름과 그의 백성들이 동부 서스키테어의 지도자인 울프(Wulf)와 맞서 싸우는 과정에서 중요한 역할을 합니다. 헤라는 점점 더 절박해지는 상황 속에서 저항군을 이끌어야 하는 임무를 맡게 되며, 그녀의 용기와 결단력이 영화의 주요 테마 중 하나입니다​.<span data-state=&quot;closed&quot; style=&quot;color: inherit; text-align: start;&quot;> </span></span></p>'
     },
     {
       type: 'body',
@@ -139,7 +139,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>-</b> <b>역할</b>: <span style=&quot;color: #333333; text-align: start;&quot;>울프는 동부 서스키테어의 지도자로, 그의 아버지의 죽음에 대한 복수를 위해 로한을 공격합니다. 그는 냉혹하고 교활한 성격을 지니고 있으며, 헬름과 그의 백성들에게 큰 위협을 가하는 인물입니다. 울프의 행동과 결정들은 예측할 수 없는 면모를 보여주며, 그의 복잡한 캐릭터는 영화의 긴장감을 더합니다​ </span> </span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>-</b> <b>역할</b>: <span style=&quot;color: inherit; text-align: start;&quot;>울프는 동부 서스키테어의 지도자로, 그의 아버지의 죽음에 대한 복수를 위해 로한을 공격합니다. 그는 냉혹하고 교활한 성격을 지니고 있으며, 헬름과 그의 백성들에게 큰 위협을 가하는 인물입니다. 울프의 행동과 결정들은 예측할 수 없는 면모를 보여주며, 그의 복잡한 캐릭터는 영화의 긴장감을 더합니다​ </span> </span></p>'
     },
     {
       type: 'body',
@@ -209,6 +209,18 @@ const post = {
       type: 'body',
       html: '<p> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post432_img11.jpg', alt: '반지의 제왕 OTT', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post432_img10.jpg', alt: '반지의 제왕 로히림의 전쟁', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post432_img9.jpg', alt: '루크 파스콸리노', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post432_img8.jpg', alt: '반지의 제왕 메인인물 울프', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post432_img7.jpg', alt: '반지의 제왕 헤라역 가이아 와이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post432_img6.jpg', alt: '반지의 제왕 메인인물 헤라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post432_img5.jpg', alt: '브라이언 콕스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post432_img4.jpg', alt: '반지의제왕 등장인물 헬름 해머핸드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post432_img3.jpg', alt: '헤라 헬름 할레스 하마', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post432_img2.jpg', alt: '반지의 제왕 로히림의 전쟁', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post432_img1.jpg', alt: '반지의 제왕 로히림의 전쟁', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>반지의 제왕 전 시리즈 시청 가능한 OTT는 현재 시리즈온, 웨이브, 쿠팡 플레이입니다.</span></p>'

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post191_img1.jpg', alt: '밀실 70억', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>밀실 70억( 영어제목 : The Immaculate Room ) 로튼 토마토 평점 입니다.</p>'
     },
+    { type: 'image', src: '/images/post191_img2.jpg', alt: '밀실 70억 평점', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post191_poster.jpg', alt: '포스트 191 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'h2',
@@ -59,6 +61,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>The Immaculate Room<br/></span>티 하나 없이 깨끗한 방</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post191_img3.jpg', alt: '밀실 70억', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>밀실 70억의 영어제목인 The Immaculate Room는 <span style=&quot;background-color: #9feec3;&quot;><b>티 하나 없이 깨끗한 방, 즉 아무것도 할 것 없는 밀실</b></span>을 의미합니다.</p>'
@@ -73,7 +76,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #ffffff; text-align: start;&quot;>The Immaculate RoomThe Immaculate RoomThe Immaculate Room</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: #ffffff; text-align: start;&quot;>The Immaculate RoomThe Immaculate RoomThe Immaculate Room</span></p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -86,6 +89,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>밀실 70억 관람평 결말 후기 입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post191_img10.jpg', alt: '밀실 70억', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post191_img9.jpg', alt: '밀실 70억', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post191_img8.jpg', alt: '밀실 70억', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post191_img7.jpg', alt: '밀실 70억', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post191_img6.jpg', alt: '밀실 70억', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post191_img5.jpg', alt: '밀실 70억', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post191_img4.jpg', alt: '밀실 70억', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>후기에서 영화의 제목은 영어 제목인 The Immaculate Room 으로 그대로 표기하였습니다.</p>'

@@ -45,6 +45,11 @@ const post = {
       type: 'body',
       html: '<p><br/>드라마 미녀와 순정남은 김사경 작가가 집필한 작품으로, 지현우와 임수향이 주연을 맡고 있습니다. 드라마의 이야기는 고등학생 고대충이 나이 많은 언니와 사귀는 것을 알게 된 도라가 그의 엄마에게 사실을 말하면서 벌어지는 사건을 중심으로 전개됩니다. 고대충은 자신의 출생의 비밀을 알게 되면서 큰 충격을 받게 되고, 다양한 인물들과의 관계 속에서 이야기가 펼쳐집니다</p>'
     },
+    ,
+    { type: 'image', src: '/images/post423_img4.jpg', alt: '드라마 미녀와 순정남 시청률', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post423_img3.jpg', alt: '미녀와 순정남 주요 등장인물관계도', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post423_img2.jpg', alt: '미녀와 순정남 주요 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post423_img1.jpg', alt: '드라마 미녀와 순정남', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><br/>추가적인 정보는 해당 드라마의 공식 홈페이지나 스트리밍 플랫폼에서 확인할 수 있습니다.</p>'

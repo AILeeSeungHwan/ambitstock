@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post87_img1.jpg', alt: '영화 승부', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>영화 \'승부\'는 대한민국 바둑의 전설 조훈현(이병헌)과 그의 제자 이창호(유아인) 사이의 복잡한 관계와 그들의 대결을 중심으로 전개됩니다. 조훈현은 바둑계의 살아있는 전설로 군림하지만, 그의 제자인 이창호가 급성장하며 스승의 자리를 위협합니다. 영화는 두 사람의 스승과 제자 관계, 그리고 그들 사이의 경쟁과 갈등을 섬세하게 그려내며, 바둑이라는 게임을 통해 인생과 승부의 의미를 볼 수 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post87_img2.jpg', alt: '승부', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<div><center><a href=&quot;https://www.imdb.com/title/tt13498824/?ref_=fn_all_ttl_1&quot; title=&quot;승부 해외 평점은?&quot;><button class=&quot;btn-hover color-8&quot;>승부 해외 평점 보러 가기 👉</button></a></center></div>'
@@ -78,6 +80,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 영화 승부 입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post87_img3.jpg', alt: '승부', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>내용에 스포는 크게 없기에 바로 이어서 확인해 보시길 바랍니다.</p>'
@@ -93,6 +96,7 @@ const post = {
       type: 'body',
       html: '<p>\'승부\'는 이병헌과 유아인의 뛰어난 연기력으로 많은 찬사를 받고 있습니다. 특히 이병헌은 조훈현 9단의 복잡한 내면을 섬세하게 표현하며 관객들의 감정을 이끌어냅니다. 한 관객은 &quot;이병헌의 연기는 역시 기대를 저버리지 않는다. 바둑에 대한 지식이 없어도 그의 감정선이 그대로 전달된다&quot;고 전했습니다.</p>'
     },
+    { type: 'image', src: '/images/post87_img4.jpg', alt: '승부', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>또한, 영화의 스토리 전개와 연출에 대한 긍정적인 반응도 많습니다. 바둑이라는 전문적인 소재를 다루면서도 비전문가들도 쉽게 이해할 수 있도록 구성되었으며, 스승과 제자의 관계를 깊이 있게 그려내 감동을 자아냈다는 평가입니다. 한 평론가는 &quot;바둑판 위의 긴장감이 스크린을 통해 고스란히 전달된다. 스포츠 영화의 새로운 지평을 열었다&quot;고 언급했습니다.</p>'
@@ -115,6 +119,7 @@ const post = {
       type: 'body',
       html: '<p>반면, 일부 관객들은 영화의 전개 방식과 캐릭터 표현에 아쉬움을 표명하고 있습니다. 특히, 바둑 경기의 묘사가 단조롭고 반복적이라는 지적이 있습니다. 한 관객은 &quot;초반에는 흥미로웠지만, 중반 이후로는 비슷한 패턴의 경기 장면이 이어져 지루함을 느꼈다&quot;고 말했습니다. 또한, 스승과 제자의 갈등이 예상 가능한 방향으로 흘러가며, 클리셰에 의존했다는 의견도 있습니다. 한 평론가는 &quot;인물 간의 갈등이 깊이 있게 다뤄지지 않아 감정 이입이 어려웠다&quot;고 평가했습니다.</p>'
     },
+    { type: 'image', src: '/images/post87_img5.jpg', alt: '승부', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>더불어, 유아인 배우의 개인적인 논란이 영화에 대한 몰입을 방해했다는 의견도 제기되었습니다. 일부 관객들은 &quot;배우의 사생활 문제가 떠올라 영화에 집중하기 어려웠다&quot;고 토로했습니다. 이러한 부정적인 반응에도 불구하고, \'승부\'는 다양한 해석과 토론을 불러일으키며 관객들의 관심을 받고 있습니다.</p>'
@@ -129,6 +134,8 @@ const post = {
       type: 'body',
       html: '<p>영화 평론가 이동진은 \'승부\'에 대해 별점 3점을 부여하며, &quot;전설적인 순간을 고스란히 살려낸 배우들이 감탄스럽다&quot;는 평을 남기며 배우들의 연기력이 영화의 주요한 강점임이라 평가하였습니다. 그러나 별점 3점은 그의 평가 기준에서 중간 정도의 점수로, 작품성에 대한 아쉬움도 내포되어 있는 것으로 해석됩니다. 이러한 평가는 관객들에게 영화 선택 시 참고할 만한 지표가 될 수 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post87_img7.jpg', alt: '승부', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post87_img6.jpg', alt: '승부', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=top_sly.hst&amp;fbm=0&amp;acr=1&amp;acq=%EC%8A%B9%EB%B6%80+&amp;qdt=0&amp;ie=utf8&amp;query=%EC%98%81%ED%99%94+%EC%8A%B9%EB%B6%80+%EC%98%88%EB%A7%A4&quot; style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: -webkit-center;&quot;> 승부 바로 보러 가기👉</a></p>'

@@ -58,7 +58,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>외모에 따라 사람을 분류하는 디스토피아적 사회를 배경으로 하는 영화 어글리의 영어제목은 \'<span style=&quot;color: #333333; text-align: start;&quot;>Uglies\'입니다.<span> </span></span></p>'
+      html: '<p>외모에 따라 사람을 분류하는 디스토피아적 사회를 배경으로 하는 영화 어글리의 영어제목은 \'<span style=&quot;color: inherit; text-align: start;&quot;>Uglies\'입니다.<span> </span></span></p>'
     },
     {
       type: 'body',
@@ -96,6 +96,11 @@ const post = {
       type: 'body',
       html: '<p><i><b> ( 안보는게 좋다는 말입니다. )</b></i></p>'
     },
+    ,
+    { type: 'image', src: '/images/post296_img4.jpg', alt: '넷플릭스 영화 추천 어글리 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post296_img3.jpg', alt: '넷플릭스 영화 추천 어글리 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post296_img2.jpg', alt: '넷플릭스 영화 어글리 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post296_img1.jpg', alt: '넷플릭스 영화 어글리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>다음 포스팅에서 영화 어글리의 평가가 왜이리 낮은지, 평론가 후기에 대해서 알아보겠습니다.</p>'

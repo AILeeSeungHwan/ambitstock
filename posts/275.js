@@ -67,7 +67,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>스릴과 긴장감이 빠진 &quot;스피드&quot;와 같은 영화라 할 수 있다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>스릴과 긴장감이 빠진 &quot;스피드&quot;와 같은 영화라 할 수 있다.</p>'
     },
     {
       type: 'body',
@@ -127,20 +127,27 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Jack Bottomley - 평점:</b><span> </span>4/5</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Jack Bottomley - 평점:</b><span> </span>4/5</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>당연히 이와 비슷한 것을 본 적이 있을 것이다. 하지만 우리의 믿음직한 영웅은 여전히 멋져 보이며, 몇몇 매끄럽게 전달되는 스릴도 즐길 수 있다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>당연히 이와 비슷한 것을 본 적이 있을 것이다. 하지만 우리의 믿음직한 영웅은 여전히 멋져 보이며, 몇몇 매끄럽게 전달되는 스릴도 즐길 수 있다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>전체적으로 &quot;스피드&quot;라는 원작 영화를 모방하였다는 평가와 더불어 리암니슨에 대한 연기력은 의심할 여지가 없다는 평가가 지배적입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>전체적으로 &quot;스피드&quot;라는 원작 영화를 모방하였다는 평가와 더불어 리암니슨에 대한 연기력은 의심할 여지가 없다는 평가가 지배적입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>좋은 작품이라고는 말 할 수 없지만 스릴있는 영화를 즐기시고 싶으신 분들이라면 시청해보셔도 무방할 듯 합니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>좋은 작품이라고는 말 할 수 없지만 스릴있는 영화를 즐기시고 싶으신 분들이라면 시청해보셔도 무방할 듯 합니다.</b></span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post275_img6.jpg', alt: '레트리뷰션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post275_img5.jpg', alt: '레트리뷰션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post275_img4.jpg', alt: '레트리뷰션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post275_img3.jpg', alt: '레트리뷰션 리암니슨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post275_img2.jpg', alt: '레트리뷰션 리암니슨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post275_img1.jpg', alt: '레트리뷰션', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

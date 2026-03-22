@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; background-color: #ffffff;&quot;><br>JTBC 드라마 역대 시청률 순위 TOP10으로 알아보는<span> </span><b><span style=&quot;background-color: #f3c000;&quot;>넷플릭스 디즈니플러스 티빙 와챠 등 OTT 드라마 추천</span></b>입니다.</br></span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시청률 순위는 역순으로 10위부터 1위까지 알아보도록 하겠습니다. 드라마 영어제목, 간략한 설명 및 시청률, 그리고 등장인물 함께 확인하겠습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;924&quot; data-origin-width=&quot;1182&quot;><span data-alt=&quot;JTBC 역대 시청률 드라마 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bZpj24/btsH98bwpfi/AAAAAAAAAAAAAAAAAAAAAL2gqtDwgxfIzVXviTSwkaJM5uoEPkp1r-X2Pa312ogE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=75w7b2CTFqtKZpCr83J2MxDg0cc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bZpj24/btsH98bwpfi/AAAAAAAAAAAAAAAAAAAAAL2gqtDwgxfIzVXviTSwkaJM5uoEPkp1r-X2Pa312ogE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=75w7b2CTFqtKZpCr83J2MxDg0cc%3D&quot;></span><figcaption>JTBC 역대 시청률 드라마 추천</figcaption> </figure> </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; background-color: transparent;&quot;><br>JTBC 드라마 역대 시청률 순위 TOP10으로 알아보는<span> </span><b><span style=&quot;background-color: #f3c000;&quot;>넷플릭스 디즈니플러스 티빙 와챠 등 OTT 드라마 추천</span></b>입니다.</br></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시청률 순위는 역순으로 10위부터 1위까지 알아보도록 하겠습니다. 드라마 영어제목, 간략한 설명 및 시청률, 그리고 등장인물 함께 확인하겠습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;924&quot; data-origin-width=&quot;1182&quot;><span data-alt=&quot;JTBC 역대 시청률 드라마 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bZpj24/btsH98bwpfi/AAAAAAAAAAAAAAAAAAAAAL2gqtDwgxfIzVXviTSwkaJM5uoEPkp1r-X2Pa312ogE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=75w7b2CTFqtKZpCr83J2MxDg0cc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bZpj24/btsH98bwpfi/AAAAAAAAAAAAAAAAAAAAAL2gqtDwgxfIzVXviTSwkaJM5uoEPkp1r-X2Pa312ogE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=75w7b2CTFqtKZpCr83J2MxDg0cc%3D&quot;></span><figcaption>JTBC 역대 시청률 드라마 추천</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -21,19 +21,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 8.452%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 8.452%</b></span></p>'
+    },
+    { type: 'image', src: '/images/post420_img1.jpg', alt: 'JTBC 역대 시청률 드라마 추천', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>살인 사건에 얽힌 앵커우먼의 이야기를 중심으로 한 미스터리 드라마입니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>살인 사건에 얽힌 앵커우먼의 이야기를 중심으로 한 미스터리 드라마입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
     },
     {
       type: 'body',
@@ -41,11 +42,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>미스티 OTT 다시보기 보는 곳</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>미스티 OTT 다시보기 보는 곳</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX)</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX)</span></p>'
     },
     {
       type: 'h2',
@@ -55,19 +56,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 9.230%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 9.230%</b></span></p>'
+    },
+    { type: 'image', src: '/images/post420_img2.jpg', alt: '드라마 미스티', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>자녀와의 관계 속에서 겪는 다양한 갈등과 해프닝을 다룬 드라마입니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>자녀와의 관계 속에서 겪는 다양한 갈등과 해프닝을 다룬 드라마입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
     },
     {
       type: 'body',
@@ -75,11 +77,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>무자식 상팔자 OTT 다시보기 보는 곳</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>무자식 상팔자 OTT 다시보기 보는 곳</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING)</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING)</span></p>'
     },
     {
       type: 'h2',
@@ -89,19 +91,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 9.668%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 9.668%</b></span></p>'
+    },
+    { type: 'image', src: '/images/post420_img3.jpg', alt: '드라마 무자식 상팔자', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>초인적인 힘을 가진 여성이 보디가드로 일하게 되면서 벌어지는 이야기를 다룬 드라마입니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>초인적인 힘을 가진 여성이 보디가드로 일하게 되면서 벌어지는 이야기를 다룬 드라마입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
     },
     {
       type: 'body',
@@ -109,11 +112,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>힘쎈여자 도봉순 OTT 다시보기 보는 곳</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>힘쎈여자 도봉순 OTT 다시보기 보는 곳</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX), 디즈니 플러스(DISNEY+)</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX), 디즈니 플러스(DISNEY+)</span></p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -124,19 +127,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 9.731%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 9.731%</b></span></p>'
+    },
+    { type: 'image', src: '/images/post420_img4.jpg', alt: '드라마 힘쎈여자 도봉순', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시간을 되돌릴 수 있는 능력을 가진 여주인공의 이야기를 다룬 드라마입니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시간을 되돌릴 수 있는 능력을 가진 여주인공의 이야기를 다룬 드라마입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
     },
     {
       type: 'body',
@@ -144,11 +148,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>눈이 부시게 OTT 다시보기 보는 곳</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>눈이 부시게 OTT 다시보기 보는 곳</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX)<span> </span>, 디즈니 플러스(DISNEY+)</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX)<span> </span>, 디즈니 플러스(DISNEY+)</span></p>'
     },
     {
       type: 'h2',
@@ -158,19 +162,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 12.065%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 12.065%</b></span></p>'
+    },
+    { type: 'image', src: '/images/post420_img5.jpg', alt: '드라마 눈이 부시게', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>상류층 사회의 비밀과 갈등을 다룬 드라마입니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>상류층 사회의 비밀과 갈등을 다룬 드라마입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
     },
     {
       type: 'body',
@@ -178,11 +183,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>품위있는 그녀 OTT 다시보기 보는 곳</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>품위있는 그녀 OTT 다시보기 보는 곳</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX)<span> </span>, 디즈니 플러스(DISNEY+)</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX)<span> </span>, 디즈니 플러스(DISNEY+)</span></p>'
     },
     {
       type: 'cta',
@@ -197,19 +202,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 16.548%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 16.548%</b></span></p>'
+    },
+    { type: 'image', src: '/images/post420_img6.jpg', alt: '드라마 품위있는 그녀', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>복수를 꿈꾸는 청년이 이태원에서 자신의 꿈을 이루기 위해 고군분투하는 이야기를 그린 웹툰 원작 드라마! 이태원 클라쓰 입니다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>복수를 꿈꾸는 청년이 이태원에서 자신의 꿈을 이루기 위해 고군분투하는 이야기를 그린 웹툰 원작 드라마! 이태원 클라쓰 입니다. </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
     },
     {
       type: 'body',
@@ -217,11 +223,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>이태원 클라쓰 OTT 다시보기 보는 곳</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>이태원 클라쓰 OTT 다시보기 보는 곳</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX)</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX)</span></p>'
     },
     {
       type: 'h2',
@@ -231,19 +237,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 18.54%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 18.54%</b></span></p>'
+    },
+    { type: 'image', src: '/images/post420_img7.jpg', alt: '드라마 이태원 클라쓰', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>의사로서 두 번째 인생을 시작하는 중년 여성의 이야기를 다룬 드라마입니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>의사로서 두 번째 인생을 시작하는 중년 여성의 이야기를 다룬 드라마입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
     },
     {
       type: 'body',
@@ -251,11 +258,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>닥터 차정숙 OTT 보는 곳</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>닥터 차정숙 OTT 보는 곳</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: #333333; text-align: start;&quot;>티빙 (TVING), 넷플릭스 (NETFLIX)</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;>티빙 (TVING), 넷플릭스 (NETFLIX)</span></p>'
     },
     {
       type: 'h2',
@@ -265,19 +272,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 23.779%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 23.779%</b></span></p>'
+    },
+    { type: 'image', src: '/images/post420_img8.jpg', alt: '드라마 닥터 차정숙', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>상류층 가정의 자녀 교육을 둘러싼 이야기를 다룬 드라마입니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>상류층 가정의 자녀 교육을 둘러싼 이야기를 다룬 드라마입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
     },
     {
       type: 'body',
@@ -285,11 +293,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>SKY 캐슬 OTT 보는 곳</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>SKY 캐슬 OTT 보는 곳</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX), 디즈니 플러스(DISNEY+)</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX), 디즈니 플러스(DISNEY+)</span></p>'
     },
     {
       type: 'h2',
@@ -299,19 +307,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 26.948%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 26.948%</b></span></p>'
+    },
+    { type: 'image', src: '/images/post420_img9.jpg', alt: '드라마 스카이 캐슬', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>충성스러운 직원이 배신당하고 죽임을 당한 후, 재벌가의 막내 손자로 환생하여 복수를 꿈꾸는 이야기를 그린 드라마입니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>충성스러운 직원이 배신당하고 죽임을 당한 후, 재벌가의 막내 손자로 환생하여 복수를 꿈꾸는 이야기를 그린 드라마입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
     },
     {
       type: 'body',
@@ -319,11 +328,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>재벌집 막내아들 OTT 다시보기 보는 곳</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>재벌집 막내아들 OTT 다시보기 보는 곳</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX), 디즈니 플러스(DISNEY+)</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX), 디즈니 플러스(DISNEY+)</span></p>'
     },
     {
       type: 'h2',
@@ -333,19 +342,21 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 28.371%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 28.371%</b></span></p>'
+    },
+    { type: 'image', src: '/images/post420_img11.jpg', alt: '드라마 부부의 세계', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post420_img10.jpg', alt: '드라마 재벌집 막내아들', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>결혼과 배신을 주제로 한 치정 멜로드라마로, 주인공이 배우자의 배신을 알게 되면서 벌어지는 이야기를 다룹니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>결혼과 배신을 주제로 한 치정 멜로드라마로, 주인공이 배우자의 배신을 알게 되면서 벌어지는 이야기를 다룹니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'
     },
     {
       type: 'body',
@@ -353,11 +364,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>부부의 세계 OTT 다시보기 보는 곳</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>부부의 세계 OTT 다시보기 보는 곳</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 왓챠(WATCHA), 넷플릭스 (NETFLIX), 디즈니 플러스(DISNEY+)</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 왓챠(WATCHA), 넷플릭스 (NETFLIX), 디즈니 플러스(DISNEY+)</span></p>'
     },
     {
       type: 'h2',

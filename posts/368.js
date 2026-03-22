@@ -25,15 +25,15 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #01ff51;&quot;>그냥 우리가 이 바다 한가운데서 죽길 바라는 거죠?</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #01ff51;&quot;>그냥 우리가 이 바다 한가운데서 죽길 바라는 거죠?</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>사촌 무사와 함께 가수의 꿈을 품고 고향을 떠나 유럽행을 결심한 10대 소년<span> </span><span style=&quot;background-color: #ffffff;&quot;>세이두</span>.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>사촌 무사와 함께 가수의 꿈을 품고 고향을 떠나 유럽행을 결심한 10대 소년<span> </span><span style=&quot;background-color: transparent;&quot;>세이두</span>.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그러나 국경 너머엔<span> </span><b><span style=&quot;background-color: #01ff51;&quot;>사막, 리비아 구금 시설, 바다의 위협</span></b><span> </span>등 생과 사를 넘나드는 끔찍한 현실만이 겹겹이 기다리고 있는데.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>그러나 국경 너머엔<span> </span><b><span style=&quot;background-color: #01ff51;&quot;>사막, 리비아 구금 시설, 바다의 위협</span></b><span> </span>등 생과 사를 넘나드는 끔찍한 현실만이 겹겹이 기다리고 있는데.</p>'
     },
     {
       type: 'body',
@@ -41,11 +41,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>어린 나이에 선장으로서 많은 이들을 책임지기 위한 무모한 첫 항해를 하는 주인공처럼,</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>어린 나이에 선장으로서 많은 이들을 책임지기 위한 무모한 첫 항해를 하는 주인공처럼,</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>세상을 향해 도전하는 모든 이들을 응원하는 영화</b></span>가 될 것입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>세상을 향해 도전하는 모든 이들을 응원하는 영화</b></span>가 될 것입니다.</p>'
     },
     {
       type: 'body',
@@ -111,6 +111,14 @@ const post = {
       type: 'body',
       html: '<p>평점 표본 국가 순위는 이탈리아, 미국, 영국, 브라질, 네덜란드 순입니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post368_img7.jpg', alt: '이오 카피타노 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post368_img6.jpg', alt: '영화 이오 카피타노 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post368_img5.jpg', alt: '이오 카피타노 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post368_img4.jpg', alt: '영화 이오 카피타노', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post368_img3.jpg', alt: '영화 이오 카피타노', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post368_img2.jpg', alt: '영화 이오 카피타노', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post368_img1.jpg', alt: '영화 이오 카피타노', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>다음 포스팅에서는 평론가 반응 및 후기 살펴보겠습니다.</b></span></p>'

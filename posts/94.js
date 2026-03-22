@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><b>영화 그 시절, 우리가 좋아했던 소녀 (영어제목 : <span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>You Are the Apple of My Eye </span>)이 2025년 2월 21일 개봉하였습니다.</b></p><p>이번 포스팅에서는 대만영화로 유명한 원작의 리메이크, <span style=&quot;background-color: #9feec3;&quot;><b>영화 그 시절, 우리가 좋아했던 소녀 줄거리와 영어제목의 뜻, 그리고 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=34230236&amp;qvt=0&amp;query=영화%20그%20시절%20우리가%20좋아했던%20소녀%20상영일정&quot; title=&quot;영화 그 시절, 우리가 좋아했던 소녀 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 그 시절, 우리가 좋아했던 소녀 바로 보러 가기👉</button></a></center></div><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1306&quot; data-origin-width=&quot;2448&quot;><span data-alt=&quot;그 시절, 우리가 좋아했던 소녀&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dBRTC9/btsMpStIY1N/AAAAAAAAAAAAAAAAAAAAAOU4uv-WYNPPfJsph5G2O_Wjrky-cKPD7fqxUZLlvPAG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=D7vgZnPrNJhe1f83aW5ldLqq10A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dBRTC9/btsMpStIY1N/AAAAAAAAAAAAAAAAAAAAAOU4uv-WYNPPfJsph5G2O_Wjrky-cKPD7fqxUZLlvPAG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=D7vgZnPrNJhe1f83aW5ldLqq10A%3D&quot;></span><figcaption>그 시절, 우리가 좋아했던 소녀</figcaption> </figure> </p>'
+      html: '<p><b>영화 그 시절, 우리가 좋아했던 소녀 (영어제목 : <span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>You Are the Apple of My Eye </span>)이 2025년 2월 21일 개봉하였습니다.</b></p><p>이번 포스팅에서는 대만영화로 유명한 원작의 리메이크, <span style=&quot;background-color: #9feec3;&quot;><b>영화 그 시절, 우리가 좋아했던 소녀 줄거리와 영어제목의 뜻, 그리고 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=34230236&amp;qvt=0&amp;query=영화%20그%20시절%20우리가%20좋아했던%20소녀%20상영일정&quot; title=&quot;영화 그 시절, 우리가 좋아했던 소녀 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 그 시절, 우리가 좋아했던 소녀 바로 보러 가기👉</button></a></center></div><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1306&quot; data-origin-width=&quot;2448&quot;><span data-alt=&quot;그 시절, 우리가 좋아했던 소녀&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dBRTC9/btsMpStIY1N/AAAAAAAAAAAAAAAAAAAAAOU4uv-WYNPPfJsph5G2O_Wjrky-cKPD7fqxUZLlvPAG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=D7vgZnPrNJhe1f83aW5ldLqq10A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dBRTC9/btsMpStIY1N/AAAAAAAAAAAAAAAAAAAAAOU4uv-WYNPPfJsph5G2O_Wjrky-cKPD7fqxUZLlvPAG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=D7vgZnPrNJhe1f83aW5ldLqq10A%3D&quot;></span><figcaption>그 시절, 우리가 좋아했던 소녀</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post94_img1.jpg', alt: '그 시절, 우리가 좋아했던 소녀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>어느 날, 수업 시간에 장난을 치다 걸린 ‘진우’는 <br>벌로 반장 ‘선아’의 앞에 앉아 특별 감시를 받게 된다.</br></p>'
     },
+    { type: 'image', src: '/images/post94_img2.jpg', alt: '그 시절, 우리가 좋아했던 소녀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>어울릴 것 같지 않았던 모범생 ‘선아’와 장난스러운 ‘진우’의 사이는 점점 가까워지고 <br>서로에게 끌리는 속마음과는 달리 자신의 마음을 표현하는데 서툴기만 한데…</br></p>'
@@ -70,6 +72,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>You are the apple of my Eye<br/>내 눈에 넣어도 아프지 않을 <br/>소중한 존재</span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post94_img3.jpg', alt: '그 시절, 우리가 좋아했던 소녀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>You Are the Apple of My Eye</b>라는 영어 제목은 직역하면 &quot;너는 내 눈의 사과&quot;가 되지만, 이는 영어권에서 흔히 쓰이는 표현으로 &quot;내 눈에 넣어도 아프지 않을 만큼 소중한 존재&quot;라는 의미를 가집니다.</p>'
@@ -121,6 +124,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 그 시절, 우리가 좋아했던 소녀 해외 평론가 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post94_img4.jpg', alt: '그 시절, 우리가 좋아했던 소녀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>내용에 스포는 크게 없기에 바로 이어서 확인해 보시길 바랍니다.</p>'
@@ -131,7 +135,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;><i>★★★★☆</i></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><i>★★★★☆</i></p>'
     },
     {
       type: 'body',
@@ -171,6 +175,8 @@ const post = {
       type: 'body',
       html: '<p>영화 \'그 시절, 우리가 좋아했던 소녀\'는 2011년 대만에서 개봉한 동명의 영화를 원작으로 한 한국 리메이크 작품입니다. 2024년 10월 3일 제29회 부산국제영화제에서 첫 선을 보였으며, 앞서 살펴본 것과 같이 2025년 2월 21일 정식 개봉을 앞두고 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post94_img6.jpg', alt: '그 시절, 우리가 좋아했던 소녀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post94_img5.jpg', alt: '그 시절, 우리가 좋아했던 소녀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>최근 언론 시사회를 통해 공개된 이 영화는 첫사랑의 추억을 아름답게 그려내며 관객들의 공감을 이끌어냈다는 평가를 받고 있습니다.</p>'

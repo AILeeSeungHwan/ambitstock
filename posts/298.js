@@ -87,6 +87,13 @@ const post = {
       type: 'body',
       html: '<p>이상으로 나우 유 씨미 2 평점 포스팅 마칩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post298_img6.jpg', alt: '나우 유 씨미 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post298_img5.jpg', alt: '나우 유 씨미 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post298_img4.jpg', alt: '나우 유 씨미 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post298_img3.jpg', alt: '나우 유 씨미 평점 분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post298_img2.jpg', alt: '나우 유 씨미 2 시리즈 로튼 해외 평점 반응 | 흥행이란 마술은 없었다 2-1', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post298_img1.jpg', alt: '나우 유 씨미 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

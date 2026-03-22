@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post186_img1.jpg', alt: '아들들 SONS', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>영화 아들들 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>영화 아들들 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post186_img2.jpg', alt: '아들들 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 82%, 관객 평점은 아직 기록되지 않았습니다.</b></span></p>'
@@ -70,6 +72,11 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>아들들 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post186_img7.jpg', alt: '아들들', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post186_img6.jpg', alt: '아들들', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post186_img5.jpg', alt: '아들들', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post186_img4.jpg', alt: '아들들', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post186_img3.jpg', alt: '아들들 SONS', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>William Stottor - 평점(오리지널 스코어: 4/5)</span></i><br>Sidse Babett Knudsen은 Gustav Möller의 영화 *Sons (Vogter)*에서 도덕, 처벌, 정의, 그리고 재활을 탐구하는 다소 비현실적이지만 섬뜩한 감옥 스릴러에서 훌륭한 연기를 펼쳤다.</br></p>'

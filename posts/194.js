@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>칸 영화제 수상작 모든 것은 아르망에서 시작되었다 해외 시사회 후기 관람평 포스팅입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>로튼 토마토 평론가 평점과 후기를 바탕으로 황금카메라상 수상 12월 개봉 예정작 \'모든 것은 아르망에서 시작되었다.\' 볼지 말지 확인해 보시길 바랍니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;722&quot; data-origin-width=&quot;496&quot;><span data-alt=&quot;모든 것은 아르망에서 시작되었다&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/FzRZ8/btsKONVUGKh/AAAAAAAAAAAAAAAAAAAAAFVC0523VlbcUvBhA6pSNwtrljFpueRw8zWOYdiQxWht/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=j6DWwPxTtCncEc7ehrgBGeK2a5g%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/FzRZ8/btsKONVUGKh/AAAAAAAAAAAAAAAAAAAAAFVC0523VlbcUvBhA6pSNwtrljFpueRw8zWOYdiQxWht/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=j6DWwPxTtCncEc7ehrgBGeK2a5g%3D&quot;></span><figcaption>모든 것은 아르망에서 시작되었다</figcaption> </figure> </p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>칸 영화제 수상작 모든 것은 아르망에서 시작되었다 해외 시사회 후기 관람평 포스팅입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토 평론가 평점과 후기를 바탕으로 황금카메라상 수상 12월 개봉 예정작 \'모든 것은 아르망에서 시작되었다.\' 볼지 말지 확인해 보시길 바랍니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;722&quot; data-origin-width=&quot;496&quot;><span data-alt=&quot;모든 것은 아르망에서 시작되었다&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/FzRZ8/btsKONVUGKh/AAAAAAAAAAAAAAAAAAAAAFVC0523VlbcUvBhA6pSNwtrljFpueRw8zWOYdiQxWht/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=j6DWwPxTtCncEc7ehrgBGeK2a5g%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/FzRZ8/btsKONVUGKh/AAAAAAAAAAAAAAAAAAAAAFVC0523VlbcUvBhA6pSNwtrljFpueRw8zWOYdiQxWht/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=j6DWwPxTtCncEc7ehrgBGeK2a5g%3D&quot;></span><figcaption>모든 것은 아르망에서 시작되었다</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post194_img1.jpg', alt: '모든 것은 아르망에서 시작되었다', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -46,19 +47,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>영화 모든 것은 아르망에서 시작되었다 ( 영어 제목 : Armand ) 로튼토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #9feec3;&quot;></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>영화 모든 것은 아르망에서 시작되었다 ( 영어 제목 : Armand ) 로튼토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #9feec3;&quot;></span></p>'
     },
+    { type: 'image', src: '/images/post194_img2.jpg', alt: '모든 것은 아르망에서 시작되었다 로튼 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;352&quot; data-origin-width=&quot;1119&quot;><span data-alt=&quot;모든 것은 아르망에서 시작되었다 로튼 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/mbGCI/btsKOqmqKUQ/AAAAAAAAAAAAAAAAAAAAAFhMtVEHlA6BPcjRwKgnb22k53XgdjfhomBLVVadabmj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tiywUHdPDUkcQs0f9qw3MDnrfes%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/mbGCI/btsKOqmqKUQ/AAAAAAAAAAAAAAAAAAAAAFhMtVEHlA6BPcjRwKgnb22k53XgdjfhomBLVVadabmj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tiywUHdPDUkcQs0f9qw3MDnrfes%3D&quot;></span><figcaption>모든 것은 아르망에서 시작되었다 로튼 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 71%, 관람객 평점은 아직 기록되지 않았습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 71%, 관람객 평점은 아직 기록되지 않았습니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>칸 영화제 수상작이지만 평론가 평점은 높지 않은 70점대를 기록하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>칸 영화제 수상작이지만 평론가 평점은 높지 않은 70점대를 기록하였습니다.</p>'
     },
     {
       type: 'h2',
@@ -68,15 +70,22 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 모든 것은 아르망에서 시작되었다 시사회 후기 관람평입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 모든 것은 아르망에서 시작되었다 시사회 후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post194_img9.jpg', alt: '모든 것은 아르망에서 시작되었다', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post194_img8.jpg', alt: '모든 것은 아르망에서 시작되었다', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post194_img7.jpg', alt: '모든 것은 아르망에서 시작되었다 후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post194_img6.jpg', alt: '모든 것은 아르망에서 시작되었다 후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post194_img5.jpg', alt: '모든 것은 아르망에서 시작되었다 후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post194_img4.jpg', alt: '모든 것은 아르망에서 시작되었다 후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post194_img3.jpg', alt: '모든 것은 아르망에서 시작되었다 후기 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;826&quot; data-origin-width=&quot;1017&quot;><span data-alt=&quot;모든 것은 아르망에서 시작되었다 후기 관람평&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ch6aEE/btsKN3E86CQ/AAAAAAAAAAAAAAAAAAAAAG3n5lsAHCrXmp_jpsvtzdfMBDAiEShvelcrwdAQyk-V/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jvY%2B2jA8RE42N6iLOxN5OTkjxe8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ch6aEE/btsKN3E86CQ/AAAAAAAAAAAAAAAAAAAAAG3n5lsAHCrXmp_jpsvtzdfMBDAiEShvelcrwdAQyk-V/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jvY%2B2jA8RE42N6iLOxN5OTkjxe8%3D&quot;></span><figcaption>모든 것은 아르망에서 시작되었다 후기 관람평</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><i><span style=&quot;background-color: #f3c000;&quot;>댄 스컬리 - 평점 없음</span></i><br>“마을이 필요하다”는 말을 크게 확장하고 무기화한 이야기이다.</br></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><i><span style=&quot;background-color: #f3c000;&quot;>댄 스컬리 - 평점 없음</span></i><br>“마을이 필요하다”는 말을 크게 확장하고 무기화한 이야기이다.</br></p>'
     },
     {
       type: 'body',
@@ -88,15 +97,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><i><span style=&quot;background-color: #f3c000;&quot;>남라타 조시 - 평점 없음</span></i><br/>아르망은 흥미로운 시작을 보이지만 그 후에는 그 흥미를 지속하기 어렵다. 이야기는 흥미를 끌지만 만족감을 주지 않으며, 플롯의 반전과 전개가 너무 과시적이고 인위적으로 느껴진다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><i><span style=&quot;background-color: #f3c000;&quot;>남라타 조시 - 평점 없음</span></i><br/>아르망은 흥미로운 시작을 보이지만 그 후에는 그 흥미를 지속하기 어렵다. 이야기는 흥미를 끌지만 만족감을 주지 않으며, 플롯의 반전과 전개가 너무 과시적이고 인위적으로 느껴진다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><i><span style=&quot;background-color: #f3c000;&quot;>구스타보 에레라 타보아다 - 평점 없음</span></i><br/>톤델 감독은 그의 할아버지처럼 영화적 언어나 드라마를 혁신하지는 않지만, 인간 행동의 한계를 실험하는 지적이고 흥미</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><i><span style=&quot;background-color: #f3c000;&quot;>구스타보 에레라 타보아다 - 평점 없음</span></i><br/>톤델 감독은 그의 할아버지처럼 영화적 언어나 드라마를 혁신하지는 않지만, 인간 행동의 한계를 실험하는 지적이고 흥미</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>로운 영화를 선보이며 그 유산을 기린다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>로운 영화를 선보이며 그 유산을 기린다.</p>'
     },
     {
       type: 'body',
@@ -120,7 +129,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><i><span style=&quot;background-color: #f3c000;&quot;>주오-닝 수 - 평점 없음</span></i><br/>몇 가지 주제와 플롯 장치가 이미 익숙하게 느껴지지만, 그럼에도 불구하고 이 강렬하고 스타일리시한 첫 번째 영화는 여전히 인상적이다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><i><span style=&quot;background-color: #f3c000;&quot;>주오-닝 수 - 평점 없음</span></i><br/>몇 가지 주제와 플롯 장치가 이미 익숙하게 느껴지지만, 그럼에도 불구하고 이 강렬하고 스타일리시한 첫 번째 영화는 여전히 인상적이다.</p>'
     },
     {
       type: 'body',

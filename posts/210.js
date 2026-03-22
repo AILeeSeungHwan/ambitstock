@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>블링크 트와이스 예매 할까 말까? 고민중이신 분들을 위한 영화제목 뜻 의미 해석, 로튼 토마토 평론가 평점 포스팅입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>이번 포스팅을 통해서 고민되는 영화에 대해 볼지 말지 정보 전해드리겠습니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>블링크 트와이스 예매 할까 말까? 고민중이신 분들을 위한 영화제목 뜻 의미 해석, 로튼 토마토 평론가 평점 포스팅입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅을 통해서 고민되는 영화에 대해 볼지 말지 정보 전해드리겠습니다.</p>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>Blink Twice<br/></span>두 번 깜빡이다</b></blockquote>'
     },
+    { type: 'image', src: '/images/post210_img1.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 <i>블링크 트와이스</i>는 제목이 의미하는 바가 중요합니다.</p>'
@@ -59,23 +60,24 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 블링크 트와이스 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 블링크 트와이스 로튼토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post210_img2.jpg', alt: '블링크 트와이스 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;478&quot; data-origin-width=&quot;1506&quot;><span data-alt=&quot;블링크 트와이스 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/qso5f/btsKJkF1U9k/AAAAAAAAAAAAAAAAAAAAAFvcsP_yEYvM8J6RaZ9C1mpbFRiBdxQZ1hGc8-YHaMNa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=e6KR%2BYWPwrj0KZeHRYsfX%2BXS5EE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/qso5f/btsKJkF1U9k/AAAAAAAAAAAAAAAAAAAAAFvcsP_yEYvM8J6RaZ9C1mpbFRiBdxQZ1hGc8-YHaMNa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=e6KR%2BYWPwrj0KZeHRYsfX%2BXS5EE%3D&quot;></span><figcaption>블링크 트와이스 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 75%, 관람객 평점 70%의 영화 블링크 트와이스 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 75%, 관람객 평점 70%의 영화 블링크 트와이스 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>무려 평론가 217명의 평점이 모여있으며, 평론가들에게서 좋은 평점을 받으며 신선도 보증마크를 획득하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>무려 평론가 217명의 평점이 모여있으며, 평론가들에게서 좋은 평점을 받으며 신선도 보증마크를 획득하였습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>관람객 평점은 상대적으로 낮은 평점을 기록하고 있기에, 관객평점을 알 수 있는 또 다른 사이트를 함께 확인해보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>관람객 평점은 상대적으로 낮은 평점을 기록하고 있기에, 관객평점을 알 수 있는 또 다른 사이트를 함께 확인해보겠습니다.</p>'
     },
     {
       type: 'h2',
@@ -85,27 +87,28 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 블링크 트와이스 인기 순위 및 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 블링크 트와이스 인기 순위 및 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post210_img3.jpg', alt: '블링크 트와이스 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;864&quot; data-origin-width=&quot;1994&quot;><span data-alt=&quot;블링크 트와이스 평점 인기순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bxP0DO/btsKItw1JjQ/AAAAAAAAAAAAAAAAAAAAAJA2s8UVfdCZaIzOToT_x3ckRyWSoA-Uwf_R0ihEIGPT/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WcLxloV57YwJDHstxAH2ssZG50Q%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bxP0DO/btsKItw1JjQ/AAAAAAAAAAAAAAAAAAAAAJA2s8UVfdCZaIzOToT_x3ckRyWSoA-Uwf_R0ihEIGPT/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WcLxloV57YwJDHstxAH2ssZG50Q%3D&quot;></span><figcaption>블링크 트와이스 평점 인기순위</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>IMDB 평점은 6.5점, 인기순위는 47위입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>IMDB 평점은 6.5점, 인기순위는 47위입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>높은 인기순위를 기록하고 있지만, 평점은 로튼 토마토보다 낮은 6점대를 기록하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>높은 인기순위를 기록하고 있지만, 평점은 로튼 토마토보다 낮은 6점대를 기록하고 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가들에게는 호평을, 관객들에게는 좋지 못한 평점을 기록한 것으로 보아 주제와 내용 전개가 난해한 부분이 있을 것으로 예상되어집니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평론가들에게는 호평을, 관객들에게는 좋지 못한 평점을 기록한 것으로 보아 주제와 내용 전개가 난해한 부분이 있을 것으로 예상되어집니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화를 시청 할 계획이신 분들은 이점 주의하시길 바랍니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화를 시청 할 계획이신 분들은 이점 주의하시길 바랍니다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -116,31 +119,32 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 블링크 트와이스 평점 분포 살펴보겠습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 블링크 트와이스 평점 분포 살펴보겠습니다.</b></span></p>'
+    },
+    { type: 'image', src: '/images/post210_img4.jpg', alt: '블링크 트와이스 평점 인기순위', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>총 표본 수는 5천 개 이상이며, 7점과 6점에 가장 많은 평점표본을 기록하였습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>총 표본 수는 5천 개 이상이며, 7점과 6점에 가장 많은 평점표본을 기록하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평점표본 국가는 미국 영국 네덜란드 브라질 독일 순입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평점표본 국가는 미국 영국 네덜란드 브라질 독일 순입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아쉽게도 10점 표본을 준 관객의 비율이 낮아 최고의 작품이라고 평가하기에는 어렵겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아쉽게도 10점 표본을 준 관객의 비율이 낮아 최고의 작품이라고 평가하기에는 어렵겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>그렇다면 도대체 어떠한 부분이 평론가들, 관람객들이 이러한 평점을 주게 되었을까요.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그렇다면 도대체 어떠한 부분이 평론가들, 관람객들이 이러한 평점을 주게 되었을까요.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>다음 포스팅에서 블링크 트와이스 해외 평론가 결말후기반응 리뷰 살펴보겠습니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>다음 포스팅에서 블링크 트와이스 해외 평론가 결말후기반응 리뷰 살펴보겠습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>감사합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>감사합니다.</p>'
     },
     {
       type: 'h2',
@@ -152,6 +156,9 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post210_img7.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post210_img6.jpg', alt: '블링크 트와이스 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post210_img5.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10</b></span></p>'

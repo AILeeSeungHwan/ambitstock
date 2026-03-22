@@ -53,6 +53,15 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;558&quot; data-origin-width=&quot;1203&quot;><span data-alt=&quot;넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/k9QNF/btsIZOwvXOz/AAAAAAAAAAAAAAAAAAAAANtNeg8FSzL15-V_8IK-QRxwEgcPvTZiE3Ju4Yp-7Lib/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cy%2FpjN%2FdxValVlXh4gnhJDkBSWk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/k9QNF/btsIZOwvXOz/AAAAAAAAAAAAAAAAAAAAANtNeg8FSzL15-V_8IK-QRxwEgcPvTZiE3Ju4Yp-7Lib/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cy%2FpjN%2FdxValVlXh4gnhJDkBSWk%3D&quot;></span><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post355_img8.jpg', alt: '넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post355_img7.jpg', alt: '넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post355_img6.jpg', alt: '넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post355_img5.jpg', alt: '넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post355_img4.jpg', alt: '넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post355_img3.jpg', alt: '넷플릭스 영화 크로스 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post355_img2.jpg', alt: '넷플릭스 영화 크로스 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post355_img1.jpg', alt: '넷플릭스 영화 크로스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;556&quot; data-origin-width=&quot;1206&quot;><span data-alt=&quot;넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cz3YZF/btsI2gdhddp/AAAAAAAAAAAAAAAAAAAAAGgvQDhUp_GxSl4ItkoD2daXy3-i6lX0HCxgUtdzz7eU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rY3%2Be6TX26Q28iugJWIKMYjM6d0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cz3YZF/btsI2gdhddp/AAAAAAAAAAAAAAAAAAAAAGgvQDhUp_GxSl4ItkoD2daXy3-i6lX0HCxgUtdzz7eU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rY3%2Be6TX26Q28iugJWIKMYjM6d0%3D&quot;></span><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'

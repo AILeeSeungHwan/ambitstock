@@ -35,11 +35,11 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화는 서울의 젊은이들이 겪는 사랑과 자아 찾기에 대한 이야기를 다루며 청춘의 혼란과 소용돌이를 묘사합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화는 서울의 젊은이들이 겪는 사랑과 자아 찾기에 대한 이야기를 다루며 청춘의 혼란과 소용돌이를 묘사합니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>감독 이언희의 로맨스 장르로의 복귀작으로 주연을 맡은 김고은과 노상현의 연기가 특히 호평받았습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>감독 이언희의 로맨스 장르로의 복귀작으로 주연을 맡은 김고은과 노상현의 연기가 특히 호평받았습니다.</p>'
     },
     { type: 'image', src: '/images/post268_poster.jpg', alt: '포스트 268 관련 이미지', caption: '출처: 네이버 영화' },
     {
@@ -72,7 +72,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;letter-spacing: 0px;&quot;>아직 표본이 많지 않아서 큰 의미는 없지만</span><span style=&quot;color: #333333; text-align: start;&quot;> 평점 표본에 대해서도 한번 살펴보도록 하겠습니다.</span></p>'
+      html: '<p><span style=&quot;letter-spacing: 0px;&quot;>아직 표본이 많지 않아서 큰 의미는 없지만</span><span style=&quot;color: inherit; text-align: start;&quot;> 평점 표본에 대해서도 한번 살펴보도록 하겠습니다.</span></p>'
     },
     {
       type: 'body',
@@ -102,6 +102,14 @@ const post = {
       type: 'body',
       html: '<p>다음 포스팅에서 대도시의 사랑법 토론토 국제 영화제 시사회 해외 평론가 후기 리뷰 살펴보도록 하겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post268_img7.jpg', alt: '대도시의 사랑법 노상현', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post268_img6.jpg', alt: '대도시의 사랑법 김고은', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post268_img5.jpg', alt: '대도시의 사랑법 해외 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post268_img4.jpg', alt: '대도시의 사랑법 해외 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post268_img3.jpg', alt: '대도시의 사랑법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post268_img2.jpg', alt: '대도시의 사랑법 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post268_img1.jpg', alt: '대도시의 사랑법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'

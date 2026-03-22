@@ -31,7 +31,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>2024년 9월 11일 개봉한 <span style=&quot;color: #333333; text-align: start;&quot;>스픽 노 이블 ( 영어제목 : speak no evil ) 은<span> </span></span>심리 스릴러 공포 영화로, 덴마크 원작 영화 리메이크작입니다.</p>'
+      html: '<p>2024년 9월 11일 개봉한 <span style=&quot;color: inherit; text-align: start;&quot;>스픽 노 이블 ( 영어제목 : speak no evil ) 은<span> </span></span>심리 스릴러 공포 영화로, 덴마크 원작 영화 리메이크작입니다.</p>'
     },
     {
       type: 'body',
@@ -65,6 +65,12 @@ const post = {
       type: 'body',
       html: '<p>영화에서 악행을 목격하고도 그에 대해 말하지 않고 지나치는 태도가 얼마나 파괴적일 수 있는지를 보여주며, 제목은 이러한 메시지를 함축적으로 전달합니다. 즉, <span style=&quot;background-color: #9feec3;&quot;><b>그들이 진작에 악을 인정하고 말했더라면, 결국 비극적인 결말을 피할 수 있었을지도 모른다는 점</b></span>에서 제목과 줄거리는 밀접하게 연관됩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post306_img5.jpg', alt: '스픽 노 이블 뜻 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post306_img4.jpg', alt: '스픽 노 이블 뜻 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post306_img3.jpg', alt: '스픽 노 이블 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post306_img2.jpg', alt: '로튼 토마토 스픽 노 이블 줄거리 내용', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post306_img1.jpg', alt: '로튼 토마토 스픽 노 이블 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>다음 포스팅에서 평론가 후기 반응 살펴보도록 하겠습니다.</p>'

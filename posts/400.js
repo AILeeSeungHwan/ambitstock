@@ -24,7 +24,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333; text-align: start;&quot;>현재 1화까지만 공개된 시점에 최애의 아이 시즌 2의 평점은 3.9점으로 굉장히 높은 점수를 기록하고 있습니다.</span></p>'
+      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>현재 1화까지만 공개된 시점에 최애의 아이 시즌 2의 평점은 3.9점으로 굉장히 높은 점수를 기록하고 있습니다.</span></p>'
     },
     {
       type: 'body',
@@ -116,15 +116,31 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>10점대가 다수이지만, 7,8,9점에 점수가 많이 분포되어 있는 것으로 보아 <b><span style=&quot;color: #781b33;&quot;>아직은</span> </b><span style=&quot;background-color: #ffffff; color: #781b33;&quot;><b>최애의 아이 2기 재미있는지를 논하기는 어려울 듯 합니다.</b></span></p>'
+      html: '<p>10점대가 다수이지만, 7,8,9점에 점수가 많이 분포되어 있는 것으로 보아 <b><span style=&quot;color: #781b33;&quot;>아직은</span> </b><span style=&quot;background-color: transparent; color: #781b33;&quot;><b>최애의 아이 2기 재미있는지를 논하기는 어려울 듯 합니다.</b></span></p>'
     },
     {
       type: 'body',
       html: '<p><b>최애의 아이 2기 보는 곳, 다시보기는 </b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post400_img15.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img14.jpg', alt: '최애의 아이 2기 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img13.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img12.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img11.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img10.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img9.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img8.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img7.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img6.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img5.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img4.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img3.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img2.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post400_img1.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
-      html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>넷플릭스, 애니플러스에서 일본 현지와 동시 방영 스트리밍, 티빙과 웨이브</span>에서도 시청 가능합니다.</b><span style=&quot;background-color: #ffffff; color: #202124; text-align: left;&quot;></span></p>'
+      html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>넷플릭스, 애니플러스에서 일본 현지와 동시 방영 스트리밍, 티빙과 웨이브</span>에서도 시청 가능합니다.</b><span style=&quot;background-color: transparent; color: #202124; text-align: left;&quot;></span></p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

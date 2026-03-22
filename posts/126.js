@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>볼만한 영화 드라마를 찾으시나요</b></span></p>'
     },
+    { type: 'image', src: '/images/post126_img1.jpg', alt: '볼만한 영화 드라마 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이 포스팅에서 찾고자 하는 영화를 반드시 찾으실 수 있으실 겁니다.</p>'

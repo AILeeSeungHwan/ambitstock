@@ -27,8 +27,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>색, 계(영어 제목 : Lust, Caution) 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>색, 계(영어 제목 : Lust, Caution) 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
     },
+    { type: 'image', src: '/images/post143_img1.jpg', alt: '색, 계', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 73%, 관객 평점 84% 입니다.</b></span></p>'
@@ -51,6 +52,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>색, 계 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post143_img2.jpg', alt: '색, 계 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Bianca Garner - 평점 없음</b><br>이 영화는 순수한 시각적 스토리텔링의 힘을 이해하는 감독 이안의 작품이다. 색, 계는 강력한 연기와 잘 짜인 서사로 거의 완벽한 영화이다.</br></p>'
@@ -122,6 +124,14 @@ const post = {
       type: 'body',
       html: '<h3>색, 계 -  Lust, Caution의 한국어 제목</h3>'
     },
+    { type: 'image', src: '/images/post143_img10.jpg', alt: '색, 계 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post143_img9.jpg', alt: '색, 계 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post143_img8.jpg', alt: '색, 계 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post143_img7.jpg', alt: '색, 계 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post143_img6.jpg', alt: '색, 계', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post143_img5.jpg', alt: '색, 계', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post143_img4.jpg', alt: '색, 계', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post143_img3.jpg', alt: '색, 계', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>색 - 욕망 성적인 끌림</b><br/></span><b>계 - 경계, 조심스러운 태도</b></span></blockquote>'

@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>일본 애니메이션 영화 룩백 ( 영어제목 : Look Back ) 제목 뜻과 해외 현지 평점 후기 입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>한국에서도 좋은 평가를 받으며 영화 예매 인기순위 4위를 기록하고 있는 룩백, 볼만한 영화인지 예매할지 말지 확실히 알아보겠습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>일본 애니메이션 영화 룩백 ( 영어제목 : Look Back ) 의 IMDB 평점입니다.</b></span></p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>일본 애니메이션 영화 룩백 ( 영어제목 : Look Back ) 제목 뜻과 해외 현지 평점 후기 입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>한국에서도 좋은 평가를 받으며 영화 예매 인기순위 4위를 기록하고 있는 룩백, 볼만한 영화인지 예매할지 말지 확실히 알아보겠습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>일본 애니메이션 영화 룩백 ( 영어제목 : Look Back ) 의 IMDB 평점입니다.</b></span></p>'
     },
     {
       type: 'image',
@@ -78,12 +78,18 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #222225;&quot;><span style=&quot;caret-color: #222225; background-color: #ffffff;&quot;>영화 제목이 그들의 대표곡을 연상케 하는 것은, 이 노래가 주는 오랜 여운과도 일맥상통함은 영화를 봐야할 충분한 이유가 될 것 입니다.</span></span></p>'
+      html: '<p><span style=&quot;color: #222225;&quot;><span style=&quot;caret-color: #222225; background-color: transparent;&quot;>영화 제목이 그들의 대표곡을 연상케 하는 것은, 이 노래가 주는 오랜 여운과도 일맥상통함은 영화를 봐야할 충분한 이유가 될 것 입니다.</span></span></p>'
     },
     {
       type: 'body',
       html: '<p><span style=&quot;color: #444447; text-align: left;&quot;>짧고도 진한 여운이 남는 58분, 잔잔하고도 긴 여운을 느끼고자 하신 분이라면 이 영화를 꼭 보시길 바랍니다.</span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post295_img5.jpg', alt: '일본 애니메이션 영화 룩백', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post295_img4.jpg', alt: '일본 애니메이션 영화 룩백 예매할만 할까? 제목 뜻 해외 현지 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post295_img3.jpg', alt: '일본 애니메이션 영화 룩백 예매할만 할까? 제목 뜻 해외 현지 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post295_img2.jpg', alt: '룩백 IMDB 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post295_img1.jpg', alt: '일본 애니메이션 영화 룩백 예매할만 할까? 제목 뜻 해외 현지 평점 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;color: #444447;&quot;><span style=&quot;caret-color: #444447;&quot;><b>함께 보면 좋은 컨텐츠를 추천해드립니다.</b></span></span></p>'

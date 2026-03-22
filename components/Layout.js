@@ -529,14 +529,15 @@ function ThemePanel({ show, onClose, themes, currentIdx, onSelect, fonts, fontId
     { label: '다크', range: [16, 22] },
   ]
   return (
-    <div style={{ position:'fixed', inset:0, zIndex:9999, display:'flex', justifyContent:'flex-end' }}>
-      <div onClick={onClose} style={{ position:'absolute', inset:0, background:'rgba(0,0,0,0.4)', backdropFilter:'blur(4px)' }} />
+    <div style={{ position:'fixed', inset:0, zIndex:9999, display:'flex', justifyContent:'center', alignItems:'center' }}>
+      <div onClick={onClose} style={{ position:'absolute', inset:0, background:'rgba(0,0,0,0.5)', backdropFilter:'blur(6px)' }} />
       <div style={{
-        position:'relative', width:320, maxWidth:'85vw',
+        position:'relative', width:420, maxWidth:'90vw', maxHeight:'80vh',
         background: themes[currentIdx].card, color: themes[currentIdx].text,
-        borderLeft: '1px solid ' + themes[currentIdx].border,
-        padding: '24px 20px', overflowY: 'auto',
-        animation: 'slideInRight 0.25s ease-out',
+        border: '1px solid ' + themes[currentIdx].border,
+        borderRadius: 16, padding: '24px 20px', overflowY: 'auto',
+        animation: 'popIn 0.2s ease-out',
+        boxShadow: '0 20px 60px rgba(0,0,0,0.3)',
       }}>
         <div style={{ display:'flex', justifyContent:'space-between', alignItems:'center', marginBottom:20 }}>
           <h3 style={{ fontSize:16, fontWeight:700, margin:0 }}>테마 설정</h3>
@@ -574,7 +575,7 @@ function ThemePanel({ show, onClose, themes, currentIdx, onSelect, fonts, fontId
           </div>
         </div>
       </div>
-      <style>{`@keyframes slideInRight { from{transform:translateX(100%);opacity:0} to{transform:translateX(0);opacity:1} }`}</style>
+      <style>{`@keyframes popIn { from{transform:scale(0.9);opacity:0} to{transform:scale(1);opacity:1} }`}</style>
     </div>
   )
 }
@@ -590,21 +591,21 @@ const CATEGORIES = [
 ]
 
 export default function Layout({ children, title, description, onCategoryChange }) {
-  const [themeIdx, setThemeIdx] = useState(0)
+  const [themeIdx, setThemeIdx] = useState(6)
   const [fontIdx, setFontIdx] = useState(0)
   const [showPanel, setShowPanel] = useState(false)
   const [showCatMenu, setShowCatMenu] = useState(false)
   const [selectedCat, setSelectedCat] = useState(null)
 
   useEffect(() => {
-    const saved = localStorage.getItem('car-theme')
-    if (saved) setThemeIdx(parseInt(saved, 10))
-    const savedFont = localStorage.getItem('car-font')
-    if (savedFont) setFontIdx(parseInt(savedFont, 10))
+    const saved = localStorage.getItem('film-theme')
+    if (saved !== null) setThemeIdx(parseInt(saved, 10))
+    const savedFont = localStorage.getItem('film-font')
+    if (savedFont !== null) setFontIdx(parseInt(savedFont, 10))
   }, [])
 
-  const selectTheme = useCallback((idx) => { setThemeIdx(idx); localStorage.setItem('car-theme', idx) }, [])
-  const selectFont = useCallback((idx) => { setFontIdx(idx); localStorage.setItem('car-font', idx) }, [])
+  const selectTheme = useCallback((idx) => { setThemeIdx(idx); localStorage.setItem('film-theme', idx) }, [])
+  const selectFont = useCallback((idx) => { setFontIdx(idx); localStorage.setItem('film-font', idx) }, [])
 
   const handleCatSelect = (cat) => {
     setSelectedCat(cat)
@@ -760,12 +761,21 @@ export default function Layout({ children, title, description, onCategoryChange 
         fonts={FONTS} fontIdx={fontIdx} onFontSelect={selectFont} />
 
       <style jsx global>{`
+        :root {
+          --primary-color: ${t.primary};
+          --border-color: ${t.border};
+          --card-bg: ${t.card};
+          --text-color: ${t.text};
+          --bg-color: ${t.bg};
+          --secondary-color: ${t.secondary};
+          --accent-color: ${t.accent};
+        }
         * { margin: 0; padding: 0; box-sizing: border-box; }
         html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+        body { color: ${t.text}; background: ${t.bg}; overflow-x: hidden; }
         a { color: inherit; }
         img { max-width: 100%; }
         ::selection { background: ${t.primary}33; }
-        body { overflow-x: hidden; }
       `}</style>
     </>
   )

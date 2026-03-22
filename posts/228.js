@@ -88,6 +88,14 @@ const post = {
       type: 'body',
       html: '<p>좋은 평가를 받는 작품인 만큼, 영화관에서 꼭 시청해 보시길 바랍니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post228_img7.jpg', alt: '더 킬러스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post228_img6.jpg', alt: '더 킬러스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post228_img5.jpg', alt: '더 킬러스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post228_img4.jpg', alt: '더 킬러스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post228_img3.jpg', alt: '더 킬러스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post228_img2.jpg', alt: '더 킬러스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post228_img1.jpg', alt: '더 킬러스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

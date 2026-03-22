@@ -54,6 +54,13 @@ const post = {
       type: 'body',
       html: '<p>배우 여진구의 연기에 대해서도 아쉬움을 표하며, 그의 굵직한 목소리가 사투리와 극적인 상황과 맞물려 잘 들리지 않았다고 언급되었습니다. 영화 속 상황에 관객이 몰입하기 어렵다는 점이 지적되었고, 특히 주인공이 사람들을 구하고 목숨을 잃는 장면이 큰 감동을 주었으나 전반적인 영화의 완성도는 부족하다는 평가를 받았습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post416_img6.jpg', alt: '영화 하이재킹 4DX', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post416_img5.jpg', alt: '영화 하이재킹 채수빈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post416_img4.jpg', alt: '영화 하이재킹 여진구', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post416_img3.jpg', alt: '영화 하이재킹 성동일', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post416_img2.jpg', alt: '영화 하이재킹 하정우', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post416_img1.jpg', alt: '영화 하이재킹', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>영화 하이재킹은 4DX 또한 예매 가능하며, 웅장한 여객기 촬영액션씬을 볼만한 가치가 있다는 평가가 많습니다. 큰 화면과 웅장한 사운드를 선호하시는 분은 하이재킹 4DX로 꼭 시청하시길 바랍니다. 현재 상영작 영화 하이재킹 쿠키 영상은 없습니다.</p>'

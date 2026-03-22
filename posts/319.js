@@ -45,6 +45,13 @@ const post = {
       type: 'body',
       html: '<p><b>Kenneth L</b> (3.0 stars): 흥미로운 설정, 좋은 첫 한 시간. 하지만 후반부는 별로였음. 스토리의 방향을 모르고 간 것 같았음. 아니면 방향을 알았어도 그다지 흥미롭지 않았음.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post319_img6.jpg', alt: '넷플릭스 원더랜드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post319_img5.jpg', alt: '넷플릭스 원더랜드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post319_img4.jpg', alt: '넷플릭스 원더랜드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post319_img3.jpg', alt: '넷플릭스 원더랜드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post319_img2.jpg', alt: '넷플릭스 원더랜드 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post319_img1.jpg', alt: '넷플릭스 원더랜드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>Ardine Cahya P</b> (5.0 stars): 좋은 콘셉트, 좋은 실행. 영화 정말 좋았음</p>'

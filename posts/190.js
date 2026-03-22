@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post190_img1.jpg', alt: '영화 위키드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>위키드 Wicked 로튼 토마토 평론가, 관객 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post190_img2.jpg', alt: '위키드 Wicked 평점 영화 예매 순위 압도적 1위 결말 리뷰 <2024년 최고의 영화>', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 91%, 관객 평점 99%의 위키드 로튼 토마토 평점입니다.</b></span></p>'
@@ -82,6 +84,15 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>위키드 해외 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post190_img11.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post190_img10.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post190_img9.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post190_img8.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post190_img7.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post190_img6.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post190_img5.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post190_img4.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post190_img3.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Julian Roman - 평점 3.5/5</span></i><br>위키드는 화려한 극적인 각색으로 브로드웨이 쇼의 팬들과 신규 관객 모두를 매료시킬 만한 높은 점수를 기록한다.</br></p>'
@@ -164,7 +175,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Fred Topel - 평점 없음</span></i><br/>위키드는 <span style=&quot;color: #333333; text-align: start;&quot;>최고의<span> 영화인 </span></span>두 개의 &quot;Step Up&quot; 속편을 만든 감독의 작품답게 확실한 뮤지컬이다.</p>'
+      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Fred Topel - 평점 없음</span></i><br/>위키드는 <span style=&quot;color: inherit; text-align: start;&quot;>최고의<span> 영화인 </span></span>두 개의 &quot;Step Up&quot; 속편을 만든 감독의 작품답게 확실한 뮤지컬이다.</p>'
     },
     {
       type: 'body',

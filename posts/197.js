@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post197_img1.jpg', alt: '선댄스 영화제', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -48,17 +49,18 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>첫 번째 영화제는 선댄스 영화제입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post197_img2.jpg', alt: '베를린 영화제', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>독립영화의 메카로 불리는 영화제로, 주로 독립영화와 저예산 영화가 상영됩니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>&quot;그랜드 저리&quot; 상 등을 수여하며, 인디 영화계의 큰 행사</b></span>입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>&quot;그랜드 저리&quot; 상 등을 수여하며, 인디 영화계의 큰 행사</b></span>입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>신인 감독과 배우들에게 중요한 기회를 제공하며, 디지털 플랫폼에서의 영화 상영에 대한 논의도 활발히 이루어집니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>신인 감독과 배우들에게 중요한 기회를 제공하며, 디지털 플랫폼에서의 영화 상영에 대한 논의도 활발히 이루어집니다.</p>'
     },
     {
       type: 'body',
@@ -78,13 +80,14 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>두 번째 영화제는 베를린 영화제입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post197_img3.jpg', alt: '트라이베카 영화제', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b><span style=&quot;background-color: #9feec3;&quot;>&quot;황금곰상&quot;(Golden Bear)을 수여하는 세계적인 영화제입니다.</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>베를린 영화제는 정치적이고 사회적인 메시지를 담은 작품들이 많이 상영되며, 아시아, 유럽, 아프리카 등 전 세계의 다양한 영화들이 상영됩니다. Berlinale Talents와 같은 프로그램을 통해 신인 감독들이 두각을 나타낼 기회를 가집니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>베를린 영화제는 정치적이고 사회적인 메시지를 담은 작품들이 많이 상영되며, 아시아, 유럽, 아프리카 등 전 세계의 다양한 영화들이 상영됩니다. Berlinale Talents와 같은 프로그램을 통해 신인 감독들이 두각을 나타낼 기회를 가집니다.</p>'
     },
     {
       type: 'body',
@@ -103,23 +106,24 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>세 번째 영화제는 트라이베카 영화제입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>세 번째 영화제는 트라이베카 영화제입니다.</b></span></p>'
+    },
+    { type: 'image', src: '/images/post197_img4.jpg', alt: '칸 영화제', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>로버트 드 니로가 창립한 영화제로, 다양한 장르의 독립영화와 다큐멘터리, 실험 영화들이 상영됩니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>로버트 드 니로가 창립한 영화제로, 다양한 장르의 독립영화와 다큐멘터리, 실험 영화들이 상영됩니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>독립영화의 새로운 흐름을 보여주는 작품들이 많고, 영화 외에도 다양한 문화 행사가 함께 진행됩니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>독립영화의 새로운 흐름을 보여주는 작품들이 많고, 영화 외에도 다양한 문화 행사가 함께 진행됩니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>위치: 미국, 뉴욕</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>위치: 미국, 뉴욕</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>일정: 2025년 4월 16일 ~ 4월 27일</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>일정: 2025년 4월 16일 ~ 4월 27일</p>'
     },
     {
       type: 'h2',
@@ -129,19 +133,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>네 번째 영화제는 칸 영화제입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>네 번째 영화제는 칸 영화제입니다.</b></span></p>'
+    },
+    { type: 'image', src: '/images/post197_img5.jpg', alt: '시드니 영화제', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>세계에서 가장 권위 있는 영화제 중 하나로, <span style=&quot;background-color: #9feec3;&quot;><b>&quot;황금종려상&quot;(Palme d\'Or)을 수여하는 것</b></span>으로 유명합니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>세계에서 가장 권위 있는 영화제 중 하나로, <span style=&quot;background-color: #9feec3;&quot;><b>&quot;황금종려상&quot;(Palme d\'Or)을 수여하는 것</b></span>으로 유명합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>칸 영화제는 예술적인 영화들이 중심이 되어 상영되며, 전 세계 영화계의 트렌드를 선도합니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>칸 영화제는 예술적인 영화들이 중심이 되어 상영되며, 전 세계 영화계의 트렌드를 선도합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>레드카펫과 스타들의 참석, Cinefondation과 같은 국제 영화 마켓이 함께 열리며, 영화의 대중성과 예술성을 함께 다루는 중요한 행사입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>레드카펫과 스타들의 참석, Cinefondation과 같은 국제 영화 마켓이 함께 열리며, 영화의 대중성과 예술성을 함께 다루는 중요한 행사입니다.</p>'
     },
     {
       type: 'body',
@@ -149,7 +154,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>일정: 2025년 5월 13일 ~ 5월 24일</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>일정: 2025년 5월 13일 ~ 5월 24일</p>'
     },
     {
       type: 'h2',
@@ -159,15 +164,16 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>다섯 번째 영화제는 시드니 영화제입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>다섯 번째 영화제는 시드니 영화제입니다.</b></span></p>'
+    },
+    { type: 'image', src: '/images/post197_img6.jpg', alt: '로카르노 영화제', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아시아태평양 지역에서 중요한 영화제로, 다양한 국제 영화들이 상영됩니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아시아태평양 지역에서 중요한 영화제로, 다양한 국제 영화들이 상영됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화의 새 흐름을 선도하는 작품들이 자주 상영되며, 현지 및 국제 영화 산업과의 교류의 장을 제공합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화의 새 흐름을 선도하는 작품들이 자주 상영되며, 현지 및 국제 영화 산업과의 교류의 장을 제공합니다.</p>'
     },
     {
       type: 'body',
@@ -175,7 +181,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>일정: 2025년 6월 4일 ~ 6월 15일</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>일정: 2025년 6월 4일 ~ 6월 15일</p>'
     },
     {
       type: 'h2',
@@ -185,11 +191,12 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>여섯 번째 영화제는 로카르노 영화제입니다. </b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>여섯 번째 영화제는 로카르노 영화제입니다. </b></span></p>'
     },
+    { type: 'image', src: '/images/post197_img7.jpg', alt: '베니스 영화제', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>&quot;황금표범상&quot;(Golden Leopard)을 수여하는 로카르노 영화제는 예술적인 영화들이 많이 상영되는 유럽의 중요한 영화제입니다. 실험적이고 예술적인 작품에 초점을 맞추며, 로카르노 프로와 같은 프로그램을 통해 영화 산업의 트렌드를 제시합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>&quot;황금표범상&quot;(Golden Leopard)을 수여하는 로카르노 영화제는 예술적인 영화들이 많이 상영되는 유럽의 중요한 영화제입니다. 실험적이고 예술적인 작품에 초점을 맞추며, 로카르노 프로와 같은 프로그램을 통해 영화 산업의 트렌드를 제시합니다.</p>'
     },
     {
       type: 'body',
@@ -197,7 +204,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>일정: 2025년 8월 6일 ~ 8월 16일</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>일정: 2025년 8월 6일 ~ 8월 16일</p>'
     },
     {
       type: 'h2',
@@ -209,6 +216,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>일곱 번째 영화제는 베니스 영화제입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post197_img8.jpg', alt: '토론토 국제영화제', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;letter-spacing: 0px;&quot;>&quot;황금사자상&quot;(Golden Lion)을 수여하는 베니스 영화제는 영화 역사상 가장 오래된 영화제 중 하나입니다. </span></p>'
@@ -223,7 +231,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>일정: 2025년 8월 27일 ~ 9월 6일</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>일정: 2025년 8월 27일 ~ 9월 6일</p>'
     },
     {
       type: 'h2',

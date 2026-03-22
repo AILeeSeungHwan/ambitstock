@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>아직 영화를 관람하지 못한 분들, 다시보기 시청을 원하시는 분들을 위해 </b></span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>인사이드 아웃 2 디즈니 플러스<span> </span></b></span><span style=&quot;background-color: #9feec3;&quot;><b>공개일부터 디즈니 플러스 스핀오프<span> </span><span style=&quot;background-color: #9feec3;&quot;>소식까지</span></b><b><span> </span>알아보겠습니다.</b></span></p><p><span style=&quot;color: #333333; text-align: start;&quot;>6월 12일 개봉 후 한국에서만 872만명의 관객수를 기록한 <span style=&quot;color: #333333; text-align: start;&quot;>인사이드 아웃 2는<span> </span></span></span>전 세계 박스 오피스에서 15억 달러의 수익을 올리며 겨울왕국의 흥행을 뛰어넘은 큰 성공을 거두었고, 흥행 부진에 빠진 픽사에게 새로운 활력을 불어 넣어 주었습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>아직 영화를 관람하지 못한 분들, 다시보기 시청을 원하시는 분들을 위해 </b></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>인사이드 아웃 2 디즈니 플러스<span> </span></b></span><span style=&quot;background-color: #9feec3;&quot;><b>공개일부터 디즈니 플러스 스핀오프<span> </span><span style=&quot;background-color: #9feec3;&quot;>소식까지</span></b><b><span> </span>알아보겠습니다.</b></span></p><p><span style=&quot;color: inherit; text-align: start;&quot;>6월 12일 개봉 후 한국에서만 872만명의 관객수를 기록한 <span style=&quot;color: inherit; text-align: start;&quot;>인사이드 아웃 2는<span> </span></span></span>전 세계 박스 오피스에서 15억 달러의 수익을 올리며 겨울왕국의 흥행을 뛰어넘은 큰 성공을 거두었고, 흥행 부진에 빠진 픽사에게 새로운 활력을 불어 넣어 주었습니다.</p>'
     },
     {
       type: 'image',
@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><i><span style=&quot;color: #333333; text-align: center;&quot;>제목 뜻과<span> </span></span>해외 후기반응</i></p>'
+      html: '<p style=&quot;text-align: center;&quot;><i><span style=&quot;color: inherit; text-align: center;&quot;>제목 뜻과<span> </span></span>해외 후기반응</i></p>'
     },
     {
       type: 'body',
@@ -31,7 +31,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333; text-align: start;&quot;>시리즈는 매일 밤 라일리의 꿈이 정해진 시간과 예산 내에서 제작되는 과정을 그리고 있으며, 이는 \'소울\'의 각본가 중 한 명인<span> </span></span><b>마이크 존스</b>가 감독을 맡았습니다. 기존 1편의 캐릭터들 중심으로 스토리가 전개되며, 2편에서 새로 등장한 감정들은 이 작품에 등장하지 않을 것으로 보입니다. </p>'
+      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>시리즈는 매일 밤 라일리의 꿈이 정해진 시간과 예산 내에서 제작되는 과정을 그리고 있으며, 이는 \'소울\'의 각본가 중 한 명인<span> </span></span><b>마이크 존스</b>가 감독을 맡았습니다. 기존 1편의 캐릭터들 중심으로 스토리가 전개되며, 2편에서 새로 등장한 감정들은 이 작품에 등장하지 않을 것으로 보입니다. </p>'
     },
     {
       type: 'body',
@@ -65,6 +65,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>때문에 디즈니 플러스 공개 예정일은 24년 9월 20일</b><b>이며, 이르면 9월 12일, 미뤄질 경우 10월 초에 공개 될 것으로 예상</b></span>됩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post343_img5.jpg', alt: '디즈니 플러스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post343_img4.jpg', alt: '스핀오프 드림 프로덕션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post343_img3.jpg', alt: '인사이드 아웃 2 디즈니 플러스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post343_img2.jpg', alt: '스핀오프 드림 프로덕션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post343_img1.jpg', alt: '인사이드 아웃 2 디즈니 플러스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>디즈니 플러스 드라마 추천은 하단 포스팅에서 이어집니다.</p>'

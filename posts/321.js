@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시청가능 영화 더 유니온 해외 평점 후기 반응입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 더 유니온 로튼토마토, IMDB평점 알아보겠습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>시작하기에 앞서 이 영화를 보고자 하는 분들은 큰 기대를 하지 마시길 바랍니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시청가능 영화 더 유니온 해외 평점 후기 반응입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 더 유니온 로튼토마토, IMDB평점 알아보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>시작하기에 앞서 이 영화를 보고자 하는 분들은 큰 기대를 하지 마시길 바랍니다.</p>'
     },
     {
       type: 'image',
@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그 이유는 후기반응에서 살펴보시죠.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>그 이유는 후기반응에서 살펴보시죠.</p>'
     },
     {
       type: 'body',
@@ -31,15 +31,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>영화 더 유니온 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>영화 더 유니온 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 38%, 관람객 평점 23%의 더 유니온( The union )</b></span>입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 38%, 관람객 평점 23%의 더 유니온( The union )</b></span>입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>단언컨데 평론가 평점 40점 밑인 작품이 나름 볼만한 적은 있지만, 관람객 평점 23점은 처음보는 점수고 50점대만 해도 재미를 보장할 수 없었습니다. 그만큼 최악의 작품으로 평가 받는 더 유니온, 최근 넷플릭스 공개된 마더 웹이 그 결을 함께 합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>단언컨데 평론가 평점 40점 밑인 작품이 나름 볼만한 적은 있지만, 관람객 평점 23점은 처음보는 점수고 50점대만 해도 재미를 보장할 수 없었습니다. 그만큼 최악의 작품으로 평가 받는 더 유니온, 최근 넷플릭스 공개된 마더 웹이 그 결을 함께 합니다.</p>'
     },
     {
       type: 'body',
@@ -121,6 +121,14 @@ const post = {
       type: 'body',
       html: '<p><b>데니스 슈워츠 (Dennis Schwartz Movie Reviews)</b>: 주연 배우들을 좋아하는 사람이라면 스토리의 비현실성에도 불구하고 좋아할 수 있을 것임. 평점 C+.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post321_img7.jpg', alt: '더 유니온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post321_img6.jpg', alt: '더 유니온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post321_img5.jpg', alt: '더 유니온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post321_img4.jpg', alt: '더 유니온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post321_img3.jpg', alt: '더 유니온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post321_img2.jpg', alt: '더 유니온 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post321_img1.jpg', alt: '더 유니온', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>후안 파블로 루소 (EscribiendoCine)</b>: 이야기의 흥미가 빠르게 사라졌고, 캐릭터들이 서로 혹은 관객과 연결되지 못했음. 엔터테인먼트 요소는 있지만, 끝나고 나면 기억에 남기 힘든 영화였음. 평점 5/10.</p>'

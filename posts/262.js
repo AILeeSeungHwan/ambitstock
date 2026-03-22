@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 더 플랫폼 2 해외 평론가 평점 반응입니다.</b></span></p><p>지난 포스팅에서 전작의 줄거리 내용과 평점 및 결말 정보를 모두 확인해 보았습니다. 이를 바탕으로 차기작의 반응이 어떠한지 해외 시청자들을 바탕으로 평점 확인해 보고, 다음 포스팅에서 해외 평론가 후기반응을 알아보겠습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 더 플랫폼 2 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 더 플랫폼 2 해외 평론가 평점 반응입니다.</b></span></p><p>지난 포스팅에서 전작의 줄거리 내용과 평점 및 결말 정보를 모두 확인해 보았습니다. 이를 바탕으로 차기작의 반응이 어떠한지 해외 시청자들을 바탕으로 평점 확인해 보고, 다음 포스팅에서 해외 평론가 후기반응을 알아보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 더 플랫폼 2 로튼토마토 평론가 평점입니다.</b></span></p>'
     },
     {
       type: 'image',
@@ -35,19 +35,19 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 55%, 관람객 평점 26%의 영화 더 플랫폼 2 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 55%, 관람객 평점 26%의 영화 더 플랫폼 2 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>왜 항상 넷플릭스에서 공개 된 후속작, 시즌 2는 성공하지 못하는 것일까요.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>왜 항상 넷플릭스에서 공개 된 후속작, 시즌 2는 성공하지 못하는 것일까요.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>공개된 지 3일 정도 되는 시점이지만, 완벽히 망해버린 평점을 기록하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>공개된 지 3일 정도 되는 시점이지만, 완벽히 망해버린 평점을 기록하고 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>전작에서의 로튼토마토 평점은 상당히 좋았던 것에 비해 대비되는 결과입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>전작에서의 로튼토마토 평점은 상당히 좋았던 것에 비해 대비되는 결과입니다.</p>'
     },
     {
       type: 'body',
@@ -85,6 +85,12 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post262_img5.jpg', alt: '더 플랫폼 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post262_img4.jpg', alt: '더 플랫폼 2 평점 분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post262_img3.jpg', alt: '더 플랫폼 2 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post262_img2.jpg', alt: '더 플랫폼 2 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post262_img1.jpg', alt: '더 플랫폼 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>'

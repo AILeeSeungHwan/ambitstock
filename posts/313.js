@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 2024년 9월 인기순위 영화 노 웨이 업 평론가 결말 후기 리뷰를 노 스포로 전해드립니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>쏟아지는 컨텐츠들과 영화들, 한번 보더라도 제대로 된 영화를 보고 싶은 분들을 위해서 영화 노 웨이 업 재밌는 영화인지, 볼만한지 정확하게 팩트체크 해보도록 하겠습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>이전 포스팅을 통하여 영화 노 웨이 업 제목 뜻 의미와 평점을 확인해보실 수 있습니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 2024년 9월 인기순위 영화 노 웨이 업 평론가 결말 후기 리뷰를 노 스포로 전해드립니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>쏟아지는 컨텐츠들과 영화들, 한번 보더라도 제대로 된 영화를 보고 싶은 분들을 위해서 영화 노 웨이 업 재밌는 영화인지, 볼만한지 정확하게 팩트체크 해보도록 하겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>이전 포스팅을 통하여 영화 노 웨이 업 제목 뜻 의미와 평점을 확인해보실 수 있습니다.</p>'
     },
     {
       type: 'image',
@@ -36,7 +36,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Mike McGranaghan</b><span> </span>- 3/4.<br/>재난 영화, 생존 이야기, 상어 공격 스릴러가 기가 막히게 혼합된 즐거운 작품이다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Mike McGranaghan</b><span> </span>- 3/4.<br/>재난 영화, 생존 이야기, 상어 공격 스릴러가 기가 막히게 혼합된 즐거운 작품이다.</p>'
     },
     {
       type: 'body',
@@ -158,6 +158,15 @@ const post = {
       type: 'body',
       html: '<p>이상으로 노 웨이 업 (영어제목 : No Way Up) 영화 결말 후기 리뷰 마칩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post313_img8.jpg', alt: '노 웨이 업 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post313_img7.jpg', alt: '노 웨이 업 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post313_img6.jpg', alt: '노 웨이 업 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post313_img5.jpg', alt: '노 웨이 업 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post313_img4.jpg', alt: '노 웨이 업 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post313_img3.jpg', alt: '노 웨이 업 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post313_img2.jpg', alt: '노 웨이 업 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post313_img1.jpg', alt: '노 웨이 업 결말 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

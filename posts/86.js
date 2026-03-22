@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>2025년 9월 현재상영작 영화 예매 순위 총정리 포스팅입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post86_img1.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>각 작품의 줄거리, 개봉일과 예매율을 확인해 보세요.</p>'
@@ -41,6 +42,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>10위는 좀비딸입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post86_img2.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 07월 30일 개봉 / 예매율 1.9%</p>'
@@ -79,6 +81,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>9위는 홈캠입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post86_img3.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 09월 10일 개봉 / 예매율 1.9%</p>'
@@ -118,6 +121,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>8위는 모노노케 히메입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post86_img4.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 09월 17일 재개봉 / 예매율 2.8%</p>'
@@ -156,6 +160,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>7위는 투게더입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post86_img5.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 09월 03일 개봉 / 예매율 3.0%</p>'
@@ -190,6 +195,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>6위는 F1 더 무비입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post86_img6.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 06월 25일 개봉 / 예매율 3.5%</p>'
@@ -228,6 +234,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>5위는 얼굴입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post86_img7.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 09월 11일 개봉 / 예매율 3.9%</p>'
@@ -266,6 +273,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>4위는 컨저링: 마지막 의식입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post86_img8.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 09월 17일 개봉 / 예매율 4.2%</p>'
@@ -304,6 +312,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>3위는 살인자 리포트입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post86_img9.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 09월 04일 개봉 / 예매율 7.2%</p>'
@@ -342,6 +351,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2위는 어쩔 수가 없다입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post86_img10.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 09월 18일 개봉 / 예매율 14.1%</p>'
@@ -380,6 +390,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>현재 상영작 1위는 귀멸의 칼날: 무한성편입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post86_img11.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 09월 10일 개봉 / 예매율 20.3%</p>'

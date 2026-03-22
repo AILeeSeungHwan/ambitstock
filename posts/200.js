@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post200_img1.jpg', alt: '캐롤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>영화 제목이 <b>캐롤</b>인 이유는 영화의 중심 인물이자 중요한 캐릭터인 <b>캐롤 에런스</b>의 이름을 직접적으로 따왔기 때문입니다.</p>'
     },
+    { type: 'image', src: '/images/post200_img2.jpg', alt: '캐롤 제목 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post200_poster.jpg', alt: '포스트 200 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
@@ -67,6 +69,7 @@ const post = {
       type: 'body',
       html: '<p>&quot;캐롤&quot;이라는 단어는 우리가 흔히 알고 있는 것처럼 원래 <b>성탄절 찬송가</b> 또는 <b>노래</b>를 의미하는데, 영화에서 이 제목은 더 깊은 상징적 의미를 지닙니다.</p>'
     },
+    { type: 'image', src: '/images/post200_img3.jpg', alt: '영화 캐롤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 속에서 &quot;캐롤&quot;이라는 이름은 <b>음악적이고 감동적인 성격</b>을 나타낼 수 있습니다.</p>'
@@ -90,6 +93,7 @@ const post = {
       type: 'body',
       html: '<p>영화에서 캐롤은 사랑과 자유를 향한 갈망을 지닌 인물로 그려집니다.</p>'
     },
+    { type: 'image', src: '/images/post200_img4.jpg', alt: '영화 캐롤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>당시 1950년대 사회에서는 동성애가 금기시되었고, <span style=&quot;background-color: #f3c000;&quot;><b>캐롤과 테레즈의 관계는 금지된 사랑을 상징</b></span>합니다.</p>'
@@ -112,6 +116,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화의 제목은 캐롤이 경험하는 감정의 여정을 의미하기도 합니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post200_img5.jpg', alt: '영화 캐롤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>캐롤은 초기에는 가족과 사회의 압박을 받아 속박된 삶을 살고 있지만, 테레즈와의 관계를 통해 점차 자신을 발견하고, 더 이상 숨지 않으려는 욕망을 키웁니다.</p>'
@@ -130,6 +135,7 @@ const post = {
       type: 'body',
       html: '<p>캐롤이라는 이름 자체는 <span style=&quot;background-color: #f3c000;&quot;><b>영어권에서 전통적으로 \'노래\'를 의미하는 단어</b></span>로, \'노래\'가 표현하는 감정의 흐름과도 유사한 측면을 지니고 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post200_img6.jpg', alt: '영화 캐롤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>즉, 영화에서 캐롤은 감정의 흐름이 자연스럽고 순차적으로 발전하는 과정을 겪게 되며, 이 과정은 마치 하나의 음악처럼 다가옵니다.</p>'
@@ -148,6 +154,7 @@ const post = {
       type: 'body',
       html: '<p>또한, 1950년대의 시대적 배경에서 캐롤은 <b>사회적 제약과 억압 속에서 사랑을 찾으려는 인물</b>입니다.</p>'
     },
+    { type: 'image', src: '/images/post200_img7.jpg', alt: '영화 캐롤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>\'캐롤\'이라는 이름은 당시 사회에서 억압된 여성의 갈망을 나타내며, 그 사랑이 금지된 것일지라도 그럼에도 불구하고 <span style=&quot;background-color: #f3c000;&quot;><b>자기 자신을 찾으려는 강한 의지를 상징하는 이름으로 사용되었습니다. </b></span></p>'

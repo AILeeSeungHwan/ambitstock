@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post103_img1.jpg', alt: '히트맨', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>욱해서 그린 웹툰 \'암살요원 준\'의 성공으로 잠깐 흥행 작가가 된 \'준\'은 시즌2 연재 시작과 동시에 \'뇌절작가\'로 전락하고, 망작이 된 시즌2는 되려 \'준\'을 노리는 글로벌한 악당들의 내한 열풍을 일으킨다.</p>'
     },
+    { type: 'image', src: '/images/post103_img2.jpg', alt: '히트맨', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>아무것도 모른 채, 다시 한번 대히트를 꿈꾸며 신작 웹툰 연재에 돌입한 \'준\'. 그러나 그의 웹툰을 모방한 테러가 발생하고, 국정원은 다름 아닌 \'준\'을 범인으로 지목하는데… 과연 ‘준’은 예언자인가, 테러리스트인가.</p>'
@@ -62,6 +64,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;color: #781b33;&quot;>히트맨<br>영어제목 Hit Man</br></span><br/></b></blockquote>'
     },
+    { type: 'image', src: '/images/post103_img3.jpg', alt: '히트맨', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>한국 영화 \'히트맨\'의 제목은 두 가지 의미를 담고 있습니다.</p>'
@@ -125,6 +128,9 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 히트맨 해외 시청자 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post103_img6.jpg', alt: '히트맨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post103_img5.jpg', alt: '히트맨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post103_img4.jpg', alt: '히트맨', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b><i><span style=&quot;background-color: #f3c000;&quot;>즐길만한 영화 7/10</span></i></b><br/>한국에서 만화(Manhwa)와 실사 영화를 섞는 경우는 흔치 않아요. 보통 둘 중 하나만 제작되곤 하죠. 그래서 \'누가 로저 래빗을 죽였나(Who Framed Roger Rabbit)\'나 \'툰 월드(Toon World)\' 같은 요소가 이 영화에 섞여 있는 걸 보는 건 정말 재미있었어요.</p>'

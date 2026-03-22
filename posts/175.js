@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post175_img1.jpg', alt: '애시드 레인: 죽음의 비', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>애시드 레인(Acid Rain) 죽음의 비 관객 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>애시드 레인(Acid Rain) 죽음의 비 관객 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post175_img2.jpg', alt: '애시드 레인: 죽음의 비 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;553&quot; data-origin-width=&quot;1259&quot;><span data-alt=&quot;애시드 레인: 죽음의 비 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/UAM2k/btsKVTADuAc/AAAAAAAAAAAAAAAAAAAAACcwfQy9mj9vN6YGh1L1iNce1iXu_RSCC5T6H8KNZXjM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9AZA7RrSaVzuD7XawI3ZM6gpJTc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/UAM2k/btsKVTADuAc/AAAAAAAAAAAAAAAAAAAAACcwfQy9mj9vN6YGh1L1iNce1iXu_RSCC5T6H8KNZXjM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9AZA7RrSaVzuD7XawI3ZM6gpJTc%3D&quot;></span><figcaption>애시드 레인: 죽음의 비 평점</figcaption> </figure> </p>'
@@ -74,6 +76,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>애시드 레인: 죽음의 비 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post175_img3.jpg', alt: '애시드 레인: 죽음의 비', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Alissa Wilkinson - 평점 없음</b><br>이 영화는 기후 변화에 관한 픽션이며, 그만큼 암울하다. 감동적인 순간이 전혀 없는 스릴러 영화이다...</br></p>'
@@ -225,6 +228,11 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 애시드 레인의 뜻 의미입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post175_img8.jpg', alt: '애시드 레인: 죽음의 비 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post175_img7.jpg', alt: '애시드 레인: 죽음의 비 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post175_img6.jpg', alt: '애시드 레인: 죽음의 비', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post175_img5.jpg', alt: '애시드 레인: 죽음의 비', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post175_img4.jpg', alt: '애시드 레인: 죽음의 비', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>애시드 레인 (Acid Rain)<br/></span>산성 비</b></span></blockquote>'

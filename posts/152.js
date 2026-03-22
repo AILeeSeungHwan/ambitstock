@@ -29,6 +29,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post152_img1.jpg', alt: '그해 크리스마스에는', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -57,8 +58,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>그해 크리스마스에는 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>그해 크리스마스에는 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
     },
+    { type: 'image', src: '/images/post152_img2.jpg', alt: '그해 크리스마스에는 넷플릭스 애니메이션 영화 평점 관람평 정보 < 겨울 영화 추천 feat 애드 시런 ost>', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 64%, 관객 평점은 74%를 기록하였습니다.</b></span></p>'
@@ -82,6 +84,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>그해 크리스마스에는 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post152_img9.jpg', alt: '그해 크리스마스에는', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post152_img8.jpg', alt: '그해 크리스마스에는', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post152_img7.jpg', alt: '그해 크리스마스에는', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post152_img6.jpg', alt: '그해 크리스마스에는', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post152_img5.jpg', alt: '그해 크리스마스에는', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post152_img4.jpg', alt: '그해 크리스마스에는', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post152_img3.jpg', alt: '그해 크리스마스에는', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Alan French - 평점 없음</b><br>애니메이션 영화에서 충분한 감정적인 카타르시스를 제공한 끝에, 그해 크리스마스에는 <b>어린이와 청소년들을 위한 크리스마스 이야기의 좋은 입문</b>이 될 수 있을 것이다.</br></p>'

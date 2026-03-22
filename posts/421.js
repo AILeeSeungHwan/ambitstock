@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; background-color: #ffffff;&quot;>2024년 TVN 티빙 드라마 역대 시청률 순위 TOP10으로 알아보는 티빙 드라마 추천입니다.</span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시청률 순위는 역순으로 10위부터 1위까지 알아보겠습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;575&quot; data-origin-width=&quot;664&quot;><span data-alt=&quot;tvn 티빙 드라마 추천 역대 시청률 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cVVukF/btsH9EsYUSj/AAAAAAAAAAAAAAAAAAAAAMF7dXy12aRVmX1THsqqDsc0xoA4ZESPaIWzHYhsfEj1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=07hkvNAgO%2Fd8crncWXyPINvMvlU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cVVukF/btsH9EsYUSj/AAAAAAAAAAAAAAAAAAAAAMF7dXy12aRVmX1THsqqDsc0xoA4ZESPaIWzHYhsfEj1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=07hkvNAgO%2Fd8crncWXyPINvMvlU%3D&quot;></span><figcaption>tvn 티빙 드라마 추천 역대 시청률 순위</figcaption> </figure> </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; background-color: transparent;&quot;>2024년 TVN 티빙 드라마 역대 시청률 순위 TOP10으로 알아보는 티빙 드라마 추천입니다.</span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시청률 순위는 역순으로 10위부터 1위까지 알아보겠습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;575&quot; data-origin-width=&quot;664&quot;><span data-alt=&quot;tvn 티빙 드라마 추천 역대 시청률 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cVVukF/btsH9EsYUSj/AAAAAAAAAAAAAAAAAAAAAMF7dXy12aRVmX1THsqqDsc0xoA4ZESPaIWzHYhsfEj1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=07hkvNAgO%2Fd8crncWXyPINvMvlU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cVVukF/btsH9EsYUSj/AAAAAAAAAAAAAAAAAAAAAMF7dXy12aRVmX1THsqqDsc0xoA4ZESPaIWzHYhsfEj1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=07hkvNAgO%2Fd8crncWXyPINvMvlU%3D&quot;></span><figcaption>tvn 티빙 드라마 추천 역대 시청률 순위</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -43,7 +43,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #212529; text-align: center; font-family: \'Noto Serif KR\';&quot;>조직의 배신으로 한국으로 온 이탈리아 마피아 변호사 빈센조 송중기, 베테랑 독종 변호사와 함께 악당의 방식으로 악당을 쓸어버리는 이야기</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: #212529; text-align: center; font-family: \'Noto Serif KR\';&quot;>조직의 배신으로 한국으로 온 이탈리아 마피아 변호사 빈센조 송중기, 베테랑 독종 변호사와 함께 악당의 방식으로 악당을 쓸어버리는 이야기</span></p>'
     },
     {
       type: 'body',
@@ -173,6 +173,18 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;눈물의 여왕&quot;은 가족의 희생과 사랑을 중심으로 펼쳐지는 이야기를 그린 드라마로, 힘든 현실 속에서 꿈과 희망을 잃지 않으려는 사람들의 이야기를 담고 있다.</span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post421_img11.jpg', alt: '드라마 눈물의 여왕', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post421_img10.jpg', alt: '드라마 사랑의 불시착', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post421_img9.jpg', alt: '드라마 도깨비', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post421_img8.jpg', alt: '드라마 응답하라 1988', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post421_img7.jpg', alt: '드라마 미스터 선샤인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post421_img6.jpg', alt: '드라마 철인왕후', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post421_img5.jpg', alt: '드라마 일타 스캔들', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post421_img4.jpg', alt: '2024년 TVN 역대 시청률 TOP 10 티빙 드라마 순위 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post421_img3.jpg', alt: '드라마 빈센조', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post421_img2.jpg', alt: '드라마 우리들의 블루스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post421_img1.jpg', alt: 'tvn 티빙 드라마 추천 역대 시청률 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>주요 출연진</b></span></p>'

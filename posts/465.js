@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>신카이 마코토 감독의 애니메이션 영화 <span style=&quot;color: #000000;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>&lt;스즈메의 문단속 - 다녀왔어&gt; 특별판이 24년 01월 10일 개봉 예정</span></b></span>입니다. 스즈메의 문단속은 재난영화시리즈의 3번째 작품으로 한국에서도 인기를 끌었던 작품입니다. 그렇다면 북미,유럽등 (미국 영국 독일 프랑스 등) 해외반응과 일본에서의 평가는 어떠한지 살펴보겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;243&quot; data-origin-width=&quot;752&quot;><span data-alt=&quot;로튼 토마토 스즈메의 문단속 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/be33Fb/btsC6pba7yB/AAAAAAAAAAAAAAAAAAAAAOSPrb-w7ZhhQR3W_7DyYEobQYSIDGyI0jdkzz7y9hZR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=u126p3yLHNb7%2B%2Bd033KCqlnBCds%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/be33Fb/btsC6pba7yB/AAAAAAAAAAAAAAAAAAAAAOSPrb-w7ZhhQR3W_7DyYEobQYSIDGyI0jdkzz7y9hZR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=u126p3yLHNb7%2B%2Bd033KCqlnBCds%3D&quot;></span><figcaption>로튼 토마토 스즈메의 문단속 평점</figcaption> </figure> </p><p style=&quot;color: #333333; text-align: start;&quot;>로튼 토마토 영화 스즈메의 문단속 평점입니다. 평론가 리뷰를 Fresh(긍정)와 Rotten(부정)으로 분류, 긍정률 60% 이상일 때 Fresh로 분류됩니다.</p>'
+      html: '<p>신카이 마코토 감독의 애니메이션 영화 <span style=&quot;color: inherit;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>&lt;스즈메의 문단속 - 다녀왔어&gt; 특별판이 24년 01월 10일 개봉 예정</span></b></span>입니다. 스즈메의 문단속은 재난영화시리즈의 3번째 작품으로 한국에서도 인기를 끌었던 작품입니다. 그렇다면 북미,유럽등 (미국 영국 독일 프랑스 등) 해외반응과 일본에서의 평가는 어떠한지 살펴보겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;243&quot; data-origin-width=&quot;752&quot;><span data-alt=&quot;로튼 토마토 스즈메의 문단속 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/be33Fb/btsC6pba7yB/AAAAAAAAAAAAAAAAAAAAAOSPrb-w7ZhhQR3W_7DyYEobQYSIDGyI0jdkzz7y9hZR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=u126p3yLHNb7%2B%2Bd033KCqlnBCds%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/be33Fb/btsC6pba7yB/AAAAAAAAAAAAAAAAAAAAAOSPrb-w7ZhhQR3W_7DyYEobQYSIDGyI0jdkzz7y9hZR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=u126p3yLHNb7%2B%2Bd033KCqlnBCds%3D&quot;></span><figcaption>로튼 토마토 스즈메의 문단속 평점</figcaption> </figure> </p><p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토 영화 스즈메의 문단속 평점입니다. 평론가 리뷰를 Fresh(긍정)와 Rotten(부정)으로 분류, 긍정률 60% 이상일 때 Fresh로 분류됩니다.</p>'
     },
     {
       type: 'image',
@@ -15,15 +15,15 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>스즈메의 문단속은 SUZUME 라는 영어제목으로 개봉하였습니다. 평론가 평점은 96%, 관람객 평점은 98%를 기록하며 압도적인 찬사를 받은 것으로 알 수 있습니다. 특히나, TOP 평론가 5명이상이 좋은 점수를 줄 때 얻게 되는 신선도 보증 마크를 받으며, 타 영화와는 차별되는 압도적인 점수를 받은 것으로 알 수 있습니다. 그렇다면 탑 평론가 평점과 리뷰 확인해보도록 하겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>스즈메의 문단속은 SUZUME 라는 영어제목으로 개봉하였습니다. 평론가 평점은 96%, 관람객 평점은 98%를 기록하며 압도적인 찬사를 받은 것으로 알 수 있습니다. 특히나, TOP 평론가 5명이상이 좋은 점수를 줄 때 얻게 되는 신선도 보증 마크를 받으며, 타 영화와는 차별되는 압도적인 점수를 받은 것으로 알 수 있습니다. 그렇다면 탑 평론가 평점과 리뷰 확인해보도록 하겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Matthew Lickona - San Diego Reader </b><b><span style=&quot;color: #f3c000;&quot;><span style=&quot;letter-spacing: 0px;&quot;>4점</span></span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Matthew Lickona - San Diego Reader </b><b><span style=&quot;color: #f3c000;&quot;><span style=&quot;letter-spacing: 0px;&quot;>4점</span></span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>여행, 반항, 이룰 수 없는 사랑, 수색, 추적, 데드라인, 그리고 주인공의 성장과정 등, 이 모든 것으로부터 소년소녀물 특유의 훌륭한 모험을 만듭니다.<span> </span>그리고 어떤 문제는 진정한 희생 없이는 해결되지 않는다는 점을 전달합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>여행, 반항, 이룰 수 없는 사랑, 수색, 추적, 데드라인, 그리고 주인공의 성장과정 등, 이 모든 것으로부터 소년소녀물 특유의 훌륭한 모험을 만듭니다.<span> </span>그리고 어떤 문제는 진정한 희생 없이는 해결되지 않는다는 점을 전달합니다.</p>'
     },
     {
       type: 'body',
@@ -31,7 +31,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #2a2c32; text-align: start;&quot;>신카이 마코토의 이 작품은 관객들에게 놀라운 <span style=&quot;background-color: #ffffff; color: #2a2c32; text-align: start;&quot;>시각적 즐거움을</span> 선사합니다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: #2a2c32; text-align: start;&quot;>신카이 마코토의 이 작품은 관객들에게 놀라운 <span style=&quot;background-color: transparent; color: #2a2c32; text-align: start;&quot;>시각적 즐거움을</span> 선사합니다. </span></p>'
     },
     {
       type: 'body',
@@ -39,7 +39,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #2a2c32; text-align: start;&quot;> 치유와 희망을 전하는 감동적인 이야기... </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: #2a2c32; text-align: start;&quot;> 치유와 희망을 전하는 감동적인 이야기... </span></p>'
     },
     {
       type: 'body',
@@ -47,7 +47,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #2a2c32; text-align: start;&quot;>일본 감독 신카이 마코토의 또 다른 눈부시고 유쾌한 애니메이션.</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: #2a2c32; text-align: start;&quot;>일본 감독 신카이 마코토의 또 다른 눈부시고 유쾌한 애니메이션.</span></p>'
     },
     {
       type: 'body',
@@ -55,19 +55,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #2a2c32; text-align: start;&quot;>스즈메는 아마도 지금까지 신카이의 작품 중 가장 으스스할 정도로 아름다운 작품이면서 동시에 매우 기묘한 작품일 것입니다.</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: #2a2c32; text-align: start;&quot;>스즈메는 아마도 지금까지 신카이의 작품 중 가장 으스스할 정도로 아름다운 작품이면서 동시에 매우 기묘한 작품일 것입니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #2a2c32; text-align: start;&quot;> \'스즈메\'는 \'너의 이름은\'만큼 걸작은 아니지만, 이 작품과 사랑에 빠졌다고 해서 누구도 비난할 수는 없습니다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: #2a2c32; text-align: start;&quot;> \'스즈메\'는 \'너의 이름은\'만큼 걸작은 아니지만, 이 작품과 사랑에 빠졌다고 해서 누구도 비난할 수는 없습니다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Alicia Haddick - Little White Lies </b><b><span style=&quot;color: #f3c000;&quot;>4점</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Alicia Haddick - Little White Lies </b><b><span style=&quot;color: #f3c000;&quot;>4점</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #2a2c32; text-align: start;&quot;> 국가적 슬픔을 애도하는 대담한 시도이지만 신카이는 그 모든 것을 이전에 이미 해냈고, 이 작품은 이전보다 못합니다.</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: #2a2c32; text-align: start;&quot;> 국가적 슬픔을 애도하는 대담한 시도이지만 신카이는 그 모든 것을 이전에 이미 해냈고, 이 작품은 이전보다 못합니다.</span></p>'
     },
     {
       type: 'body',
@@ -75,47 +75,47 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><b>평점 7.7/10</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><b>평점 7.7/10</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>미국의 영화 정보 모음 사이트인 IMDB 평점입니다. 전 세계 영화사이트 중 압도적 트래픽 유저 수를 보유하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>미국의 영화 정보 모음 사이트인 IMDB 평점입니다. 전 세계 영화사이트 중 압도적 트래픽 유저 수를 보유하고 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>로튼 토마토의 압도적 신선도 지수와 평점에 비하여 미비한 7.7의 평점을 기록하였습니다. 데이터 표본수는 3만2천명이상이며, 인기순위는 1,258등을 기록하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토의 압도적 신선도 지수와 평점에 비하여 미비한 7.7의 평점을 기록하였습니다. 데이터 표본수는 3만2천명이상이며, 인기순위는 1,258등을 기록하고 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b> 신카이 감독의 최고의 작품 중 하나 </b><b><span style=&quot;color: #f3c000;&quot;><span style=&quot;letter-spacing: 0px;&quot;><span>10</span>점</span></span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b> 신카이 감독의 최고의 작품 중 하나 </b><b><span style=&quot;color: #f3c000;&quot;><span style=&quot;letter-spacing: 0px;&quot;><span>10</span>점</span></span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>1 전작과의 비교<br/>스즈메는 &lt;너의 이름은&gt;, &lt;날씨의 아이&gt;와 전혀 다르다. 이 영화에는 &lt;너의 이름은&gt;과 같은 그런 반전이 없다.<br/>또한 이 영화에는 날씨의 아이에서 보여준 주인공의 결단력 또한 보이지 않는다. 하지만 이 영화에는 이 세상을 살아가기 위해 꼭 필요한 내용이 담겨 있다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>1 전작과의 비교<br/>스즈메는 &lt;너의 이름은&gt;, &lt;날씨의 아이&gt;와 전혀 다르다. 이 영화에는 &lt;너의 이름은&gt;과 같은 그런 반전이 없다.<br/>또한 이 영화에는 날씨의 아이에서 보여준 주인공의 결단력 또한 보이지 않는다. 하지만 이 영화에는 이 세상을 살아가기 위해 꼭 필요한 내용이 담겨 있다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>2 내용<br/>이 영화는 현세대에게 일본에서 일어난 심각한 사건의 기억을 불러일으키고, 미래 세대에게도 그 기억을 전달해주도록 해주고, 이러한 사건을 극복하기 위해 필요한 것을 가르쳐 준다. &lt;너의 이름은&gt;와 견주는 영화이다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>2 내용<br/>이 영화는 현세대에게 일본에서 일어난 심각한 사건의 기억을 불러일으키고, 미래 세대에게도 그 기억을 전달해주도록 해주고, 이러한 사건을 극복하기 위해 필요한 것을 가르쳐 준다. &lt;너의 이름은&gt;와 견주는 영화이다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>완전 대박! (stunning) </b><b><span style=&quot;color: #f3c000;&quot;><span style=&quot;letter-spacing: 0px;&quot;><span>9점</span></span></span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>완전 대박! (stunning) </b><b><span style=&quot;color: #f3c000;&quot;><span style=&quot;letter-spacing: 0px;&quot;><span>9점</span></span></span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>세부 사항에 많은 관심을 기울인 아름다운 애니메이션, 훌륭합니다.<span> </span>반짝이는 도로와 반짝이는 바다로 자연을 완벽하게 포착합니다. 더 좋게 만들 수 있는 부분도 있지만, 전반적으로 흥미로운 이야기구성입니다.<span> </span>과거의 추억이 담긴 옛 장소의 느낌이 끈끈하게 느껴졌습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>세부 사항에 많은 관심을 기울인 아름다운 애니메이션, 훌륭합니다.<span> </span>반짝이는 도로와 반짝이는 바다로 자연을 완벽하게 포착합니다. 더 좋게 만들 수 있는 부분도 있지만, 전반적으로 흥미로운 이야기구성입니다.<span> </span>과거의 추억이 담긴 옛 장소의 느낌이 끈끈하게 느껴졌습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>러브 스토리에 관해서는 \'저 사람은 정말 아름다워 보여\'라는 마음이 어떻게 \'그 사람 없는 세상이 더 무서워\'라는 깊은 사랑으로 바뀌었는지 모르겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>러브 스토리에 관해서는 \'저 사람은 정말 아름다워 보여\'라는 마음이 어떻게 \'그 사람 없는 세상이 더 무서워\'라는 깊은 사랑으로 바뀌었는지 모르겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>무엇이 지진을 일으키는지에 대한 아이디어가 좋습니다. 일본 애니메이션이 늘 그렇듯이, 마지막 &quot;교훈&quot;은 쉽게 눈물을 흘리게 할 수 있는 내용이지만, 인생에 관한 교훈이기에, 기억하시면 좋을 것 같습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>무엇이 지진을 일으키는지에 대한 아이디어가 좋습니다. 일본 애니메이션이 늘 그렇듯이, 마지막 &quot;교훈&quot;은 쉽게 눈물을 흘리게 할 수 있는 내용이지만, 인생에 관한 교훈이기에, 기억하시면 좋을 것 같습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;>아래 자료를 통해<span><span> </span>영화 </span></span><span style=&quot;background-color: #fbfbfb; color: #333333; text-align: center;&quot;>&lt;스즈메의 문단속 - suzume&gt;</span><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;><span> </span>평점분포를 확인하실 수 있습니다. &lt;데이터 표본 3만2천명이상&gt;</span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;>아래 자료를 통해<span><span> </span>영화 </span></span><span style=&quot;background-color: #fbfbfb; color: inherit; text-align: center;&quot;>&lt;스즈메의 문단속 - suzume&gt;</span><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;><span> </span>평점분포를 확인하실 수 있습니다. &lt;데이터 표본 3만2천명이상&gt;</span></p>'
     },
     {
       type: 'body',
@@ -135,7 +135,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #333333; text-align: start;&quot;><b>jeanoakの感想・評価 </b><b><span style=&quot;color: #f3c000;&quot;><span style=&quot;letter-spacing: 0px;&quot;>6점</span></span></b></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b>jeanoakの感想・評価 </b><b><span style=&quot;color: #f3c000;&quot;><span style=&quot;letter-spacing: 0px;&quot;>6점</span></span></b></p>'
     },
     {
       type: 'body',
@@ -155,7 +155,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #333333; text-align: start;&quot;>잘 만들어진 영화입니다만, 스토리에 몰입하지 못하고 무언가가 부족한 느낌.</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>잘 만들어진 영화입니다만, 스토리에 몰입하지 못하고 무언가가 부족한 느낌.</span></p>'
     },
     {
       type: 'body',
@@ -169,6 +169,14 @@ const post = {
       type: 'body',
       html: '<p>이상으로 스즈메의 문단속 재개봉 소식과 더불어 해외 미국 반응 및 일본 반응 평점 리뷰 마치겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post465_img7.jpg', alt: '스즈메의 문단속 OTT 공개정보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post465_img6.jpg', alt: 'Filmarks 스즈메의 문단속 일본 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post465_img5.jpg', alt: 'IMDB 스즈메의 문단속 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post465_img4.jpg', alt: 'IMDB 스즈메의 문단속 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post465_img3.jpg', alt: '스즈메의 문단속 - 다이진', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post465_img2.jpg', alt: '스즈메의 문단속 - 스즈메', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post465_img1.jpg', alt: '로튼 토마토 스즈메의 문단속 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>구독 및 즐겨찾기 후 궁금하신 영화 해외 평점 및 반응 빠르게 확인하세요.</p>'

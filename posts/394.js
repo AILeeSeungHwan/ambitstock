@@ -39,7 +39,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>드라마 감사합니다 의 기획의도, 작가의 말을 인용하며 포스팅 시작하겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>드라마 감사합니다 의 기획의도, 작가의 말을 인용하며 포스팅 시작하겠습니다.</p>'
     },
     {
       type: 'body',
@@ -63,7 +63,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #000000; background-color: #f3c000;&quot;><b>&lt;감사합니다&gt;에서는 베일에 싸인 그들의 실제 활약</b></span>을 다룹니다.<span> </span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; background-color: #f3c000;&quot;><b>&lt;감사합니다&gt;에서는 베일에 싸인 그들의 실제 활약</b></span>을 다룹니다.<span> </span></p>'
     },
     {
       type: 'body',
@@ -221,6 +221,16 @@ const post = {
       type: 'body',
       html: '<p>각 인물들은 자신의 상처와 복수심을 극복하고, 진실을 밝혀내는 과정에서 성장하고 변화합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post394_img9.jpg', alt: 'tvn 토일 주말 드라마 감사합니다', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post394_img8.jpg', alt: 'tvn 토일 주말 드라마 감사합니다 조아람', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post394_img7.jpg', alt: 'tvn 토일 주말 드라마 감사합니다 진구', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post394_img6.jpg', alt: 'tvn 토일 주말 드라마 감사합니다 이정하', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post394_img5.jpg', alt: 'tvn 토일 주말 드라마 감사합니다 신하균', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post394_img4.jpg', alt: '드라마 감사합니다 인물관계도', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post394_img3.jpg', alt: 'tvn 토일 주말 드라마 감사합니다 줄거리 인물관계도', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post394_img2.jpg', alt: 'tvn 토일 주말 드라마 감사합니다 줄거리 인물관계도', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post394_img1.jpg', alt: 'tvn 토일 주말 드라마 감사합니다 줄거리 인물관계도', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>구한수와 윤서진은 감사팀에서의 경험을 통해 서로의 다름을 이해하고, 협력하여 문제를 해결해 나갑니다.</p>'

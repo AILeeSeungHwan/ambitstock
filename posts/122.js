@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>영화 애니멀 킹덤이 2025년 1월 22일 개봉합니다.</b></p>'
     },
+    { type: 'image', src: '/images/post122_img1.jpg', alt: '애니멀 킹덤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>프랑스 영화인 이 작품은 이미 해외 평론가에게도 좋은 평가를 받으며 2025년 1월 기대작으로 뽑히고 있습니다.</p>'
@@ -41,6 +42,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post122_img2.jpg', alt: '애니멀 킹덤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-drama-recommend-netflix/',
@@ -66,6 +68,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>사랑하는 가족과 친구들, 이웃들이 </b><br><b>하나둘 동물로 변해가기 시작했다.</b> </br></span></blockquote>'
     },
+    { type: 'image', src: '/images/post122_img3.jpg', alt: '애니멀 킹덤 뜻 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>원인 불명의 바이러스가 퍼지면서 인간이 동물로 변하는 세상이 펼쳐진다. ‘에밀’은 모든 것이 혼란스러워지고, 그의 아버지 ‘프랑수아’는 그런 아들을 지키기 위해 애쓴다.</p>'
@@ -85,6 +88,7 @@ const post = {
       type: 'body',
       html: '<p>프랑스 영화 <i>‘애니멀 킹덤’(The Animal Kingdom)</i>은 인간과 동물의 경계를 탐구하는 독특한 SF 작품이다. 영화의 배경은 지구 곳곳에서 인간이 동물로 변이 하는 현상이 발생하는 세계이며, 주인공 에밀은 아버지와 함께 변이로 인해 탈출한 어머니를 찾는 여정을 떠나며 자신에게도 변이 증상이 나타나는 것을 경험한다.</p>'
     },
+    { type: 'image', src: '/images/post122_img4.jpg', alt: '애니멀 킹덤 로튼토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>애니멀 킹덤의 뜻은? 제목의 상징성 해석</h3>'
@@ -121,8 +125,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>애니멀 킹덤 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>애니멀 킹덤 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post122_img5.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;562&quot; data-origin-width=&quot;1716&quot;><span data-alt=&quot;애니멀 킹덤 로튼토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cZwHNl/btsLBugRaL7/AAAAAAAAAAAAAAAAAAAAAOCE8nJkWYjB0W4Zqj8FbJ8RetOs9FCNlhQKGtl2U7pN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ku7SEmU4EPpUKN1rgR5vEQjfYwA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cZwHNl/btsLBugRaL7/AAAAAAAAAAAAAAAAAAAAAOCE8nJkWYjB0W4Zqj8FbJ8RetOs9FCNlhQKGtl2U7pN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ku7SEmU4EPpUKN1rgR5vEQjfYwA%3D&quot;></span><figcaption>애니멀 킹덤 로튼토마토 평론가 평점</figcaption> </figure> </p>'
@@ -153,6 +158,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>애니멀 킹덤 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post122_img12.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post122_img11.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post122_img10.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post122_img9.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post122_img8.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post122_img7.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post122_img6.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Marcelo Stiletano - 평점 4/5 (오리지널 스코어: 4/5)</b><br>이 영화는 발견과 배움의 이야기로, 그 안에 충분한 판타지적 요소가 담겨 있어 다른 모든 작품들과는 다른 특이한 작품으로 인정받을 만하다.</br></p>'

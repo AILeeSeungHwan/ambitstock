@@ -66,6 +66,18 @@ const post = {
       type: 'body',
       html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>Fresh score: 4/5</span></b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post378_img11.jpg', alt: '영화 트위스터스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post378_img10.jpg', alt: '영화 트위스터스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post378_img9.jpg', alt: '영화 트위스터스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post378_img8.jpg', alt: '영화 트위스터스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post378_img7.jpg', alt: '영화 트위스터스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post378_img6.jpg', alt: '영화 트위스터스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post378_img5.jpg', alt: '영화 트위스터스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post378_img4.jpg', alt: '영화 트위스터스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post378_img3.jpg', alt: '영화 트위스터스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post378_img2.jpg', alt: '영화 트위스터스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post378_img1.jpg', alt: '영화 트위스터스 결말 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>Rotten score: C+</span></b></p>'

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post90_img1.jpg', alt: '사랑은 사라지지 않는다', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>“아빠, <br>엄마를 지금도 사랑해?”</br></span></b></blockquote>'
     },
+    { type: 'image', src: '/images/post90_img2.jpg', alt: '사랑은 사라지지 않는다', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>“없는 사람을 사랑할 순 없어” </span></b></blockquote>'
@@ -106,6 +108,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 사랑은 사라지지 않는다  해외 평론가 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post90_img3.jpg', alt: '사랑은 사라지지 않는다', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>내용에 스포는 크게 없기에 바로 이어서 확인해 보시길 바랍니다.</p>'
@@ -121,6 +124,7 @@ const post = {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Roger Salvans - 평점 3/5</span></i><br>이미지의 구성, 프레이밍의 준비, 색채의 활용이 감독의 시그니처처럼 드러난다. 장르를 혼합하는 그의 독창적인 스타일이 인상적이다. [전체 리뷰는 스페인어로 작성됨]</br></p>'
     },
+    { type: 'image', src: '/images/post90_img4.jpg', alt: '사랑은 사라지지 않는다', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Philipp Engel - 평점 4/5</span></i><br/>Céleste Brunnquell은 이 따뜻한 팝 동화에서 놀라운 연기를 선보인다.</p>'
@@ -139,6 +143,7 @@ const post = {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Morris Yang - 평점: 부정적</span></i><br/>일부 관객에게는 아쉽게도, \'사랑은 사라지지 않는다\'는 노골적인 감상주의나 슬랩스틱 코미디의 세계를 공감으로 포장하지 않는다.</p>'
     },
+    { type: 'image', src: '/images/post90_img5.jpg', alt: '사랑은 사라지지 않는다', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Fionnuala Halligan - 평점: 부정적</span></i><br/>Le Duc 감독은 작품의 핵심 메시지를 제대로 전달하지 못한다. 때때로 즉흥적으로 만든 듯한 얇은 시퀀스들이 이어지며 혼란을 준다.</p>'

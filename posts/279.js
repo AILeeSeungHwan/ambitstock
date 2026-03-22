@@ -77,7 +77,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>다음은 흑백요리사 평점분포입니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>다음은 흑백요리사 평점분포입니다.</b></p>'
     },
     {
       type: 'body',
@@ -119,6 +119,14 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post279_img7.jpg', alt: '넷플릭스 추천 흑백요리사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post279_img6.jpg', alt: '흑백요리사 각 회차별 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post279_img5.jpg', alt: '흑백요리사 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post279_img4.jpg', alt: '넷플릭스 추천 흑백요리사 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post279_img3.jpg', alt: '넷플릭스 추천 흑백요리사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post279_img2.jpg', alt: '넷플릭스 추천 흑백요리사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post279_img1.jpg', alt: '흑백요리사', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;><b>흑백요리사 해외 후기리뷰 반응</b></p>'

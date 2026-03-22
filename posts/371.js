@@ -36,7 +36,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span>에일리언: 로물루스는 </span><b><span style=&quot;color: #000000; background-color: #ffffff; padding: 2px;&quot;>샌디에이고 코믹콘 2024</span>에서 첫 공개</b>되었으며, 실물 특수효과와 정교한 세트 디자인으로 많은 주목을 받았습니다.</p>'
+      html: '<p><span>에일리언: 로물루스는 </span><b><span style=&quot;color: inherit; background-color: transparent; padding: 2px;&quot;>샌디에이고 코믹콘 2024</span>에서 첫 공개</b>되었으며, 실물 특수효과와 정교한 세트 디자인으로 많은 주목을 받았습니다.</p>'
     },
     {
       type: 'body',
@@ -64,7 +64,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><br><b><span style=&quot;background-color: #01ff51; color: #333333; text-align: start;&quot;>시사회 평론가 후기 살펴보겠습니다.</span> </b></br></p>'
+      html: '<p><br><b><span style=&quot;background-color: #01ff51; color: inherit; text-align: start;&quot;>시사회 평론가 후기 살펴보겠습니다.</span> </b></br></p>'
     },
     {
       type: 'body',
@@ -80,7 +80,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>특히 <span style=&quot;color: #000000; background-color: #01ff51;&quot;><b>6,000명 이상의 팬들이 <span style=&quot;padding: 2px;&quot;>페이스허거 마스크</span>를 쓰고 감독 <span style=&quot;padding: 2px;&quot;>페데 알바레즈</span>와 출연진과 함께 단체 사진을 찍는 등 몰입감 넘치는 체험으로 깊은 인상</b></span>을 남겼습니다.</p>'
+      html: '<p>특히 <span style=&quot;color: inherit; background-color: #01ff51;&quot;><b>6,000명 이상의 팬들이 <span style=&quot;padding: 2px;&quot;>페이스허거 마스크</span>를 쓰고 감독 <span style=&quot;padding: 2px;&quot;>페데 알바레즈</span>와 출연진과 함께 단체 사진을 찍는 등 몰입감 넘치는 체험으로 깊은 인상</b></span>을 남겼습니다.</p>'
     },
     {
       type: 'body',
@@ -88,19 +88,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #01ff51; color: #000000;&quot;><b>패널에서는 독점 영상이 공개되었으며, 특히 실물 특수 효과와 새로운 시각의 융합</b></span>이 돋보였습니다.</p>'
+      html: '<p><span style=&quot;background-color: #01ff51; color: inherit;&quot;><b>패널에서는 독점 영상이 공개되었으며, 특히 실물 특수 효과와 새로운 시각의 융합</b></span>이 돋보였습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p>한 장면에서는 등장인물들이 실험실에서 <span style=&quot;color: #000000; padding: 2px;&quot;>페이스허거의 공격</span>을 간신히 피하는 모습을 보여주었는데, 이는 현실감 넘치는 실물 특수 효과 덕분에 더욱 생생하게 표현되었습니다.</p>'
+      html: '<p>한 장면에서는 등장인물들이 실험실에서 <span style=&quot;color: inherit; padding: 2px;&quot;>페이스허거의 공격</span>을 간신히 피하는 모습을 보여주었는데, 이는 현실감 넘치는 실물 특수 효과 덕분에 더욱 생생하게 표현되었습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>감독<span style=&quot;color: #000000; padding: 2px;&quot;> 페데 알바레즈</span>는 실물 특수 효과의 중요성을 강조</b></span>하며, 디지털 특수 효과보다는 실물 효과를 통한 진짜 같은 공포감을 추구했다고 밝혔습니다.</p>'
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>감독<span style=&quot;color: inherit; padding: 2px;&quot;> 페데 알바레즈</span>는 실물 특수 효과의 중요성을 강조</b></span>하며, 디지털 특수 효과보다는 실물 효과를 통한 진짜 같은 공포감을 추구했다고 밝혔습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p>팬들과 비평가들로부터 긍정적인 평가를 받은 에일리언 로물루스는 <span style=&quot;color: #000000; background-color: #ffffff; padding: 2px;&quot;>2024년 8월 14일 극장에서 확인 가능합니다.</span></p>'
+      html: '<p>팬들과 비평가들로부터 긍정적인 평가를 받은 에일리언 로물루스는 <span style=&quot;color: inherit; background-color: transparent; padding: 2px;&quot;>2024년 8월 14일 극장에서 확인 가능합니다.</span></p>'
     },
     {
       type: 'body',
@@ -112,55 +112,61 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>전체적으로 젊은 배우들이 주를 이루는 에일리언 로물루스입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>전체적으로 젊은 배우들이 주를 이루는 에일리언 로물루스입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>레인 캐러딘 (카일리 스페이니)</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>레인 캐러딘 (카일리 스페이니)</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>젊은 우주 식민지 주민으로, 리더십을 발휘하며 팀을 이끄는 역할을 맡습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>젊은 우주 식민지 주민으로, 리더십을 발휘하며 팀을 이끄는 역할을 맡습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>스페이니는 영화<span> </span>프리실라와<span> </span>퍼시픽 림: 업라이징으로 유명합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>스페이니는 영화<span> </span>프리실라와<span> </span>퍼시픽 림: 업라이징으로 유명합니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>앤디 (데이비드 존슨)</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>앤디 (데이비드 존슨)</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>팀의 일원으로, 에일리언과의 대치에서 중요한 역할을 합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>팀의 일원으로, 에일리언과의 대치에서 중요한 역할을 합니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>HBO<span> </span>시리즈<span> </span>인더스트리와<span> </span>라일 레인에서 주연을 맡은 바 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>HBO<span> </span>시리즈<span> </span>인더스트리와<span> </span>라일 레인에서 주연을 맡은 바 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>타일러 (아치 레녹스)</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>타일러 (아치 레녹스)</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>네플릭스 시리즈<span> </span>섀도우 앤 본에서 주연을 맡은 배우로, 팀의 또 다른 멤버입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>네플릭스 시리즈<span> </span>섀도우 앤 본에서 주연을 맡은 배우로, 팀의 또 다른 멤버입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>케이 (이사벨라 메르세드)</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>케이 (이사벨라 메르세드)</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화<span> </span>도라와 잃어버린 황금도시의 주인공으로도 잘 알려져 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화<span> </span>도라와 잃어버린 황금도시의 주인공으로도 잘 알려져 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>나바로 (아일린 우)</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>나바로 (아일린 우)</b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post371_img5.jpg', alt: '에일리언 로물루스 보러가기 시사회 미친 해외 반응과 후기 출연진 쿠키 정보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post371_img4.jpg', alt: '에일리언 로물루스 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post371_img3.jpg', alt: '에일리언 로물루스 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post371_img2.jpg', alt: '에일리언 로물루스 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post371_img1.jpg', alt: '에일리언 로물루스 시사회 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화에서 중요한 사건에 관여하는 인물로, 이번 영화에서 첫 주요 역할을 맡았습니다​</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화에서 중요한 사건에 관여하는 인물로, 이번 영화에서 첫 주요 역할을 맡았습니다​</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

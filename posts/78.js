@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>개봉일:</b> 2025년 9월 17일</li> <li><b>국가:</b> 한국</li> <li><b>장르:</b> 드라마 / 스릴러 / 액션 / 로맨스 / 멜로</li> <li><b>러닝타임:</b> 37분</li> <li><b>감독:</b> 이종석, 라희찬, 박범수</li> <li><b>등급:</b> 12세 이상 관람가</li> </ul>'
     },
+    { type: 'image', src: '/images/post78_img1.webp', alt: '영화 빌리브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section2',
@@ -33,6 +34,7 @@ const post = {
       type: 'body',
       html: '<p><i>빌리브</i>는 세 가지 단편으로 구성된 옴니버스 영화입니다.</p>'
     },
+    { type: 'image', src: '/images/post78_img2.jpg', alt: '빌리브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이종석 감독의 단편에서는 빨간 원피스를 입은 여자를 쫓는 형사 ‘태수’가 등장합니다. 현실과 환상이 뒤섞이며, 그가 붙잡으려는 대상은 실체 없는 ‘믿음’ 그 자체일 수도 있다는 긴장감을 자아냅니다.</p>'
@@ -55,6 +57,7 @@ const post = {
       type: 'body',
       html: '<p>형사 ‘태수’ 역에는 <b>강기영</b>이 출연하여 현실적인 연기와 특유의 인간적인 매력을 보여줍니다.</p>'
     },
+    { type: 'image', src: '/images/post78_img3.jpg', alt: '영화 빌리브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>옴니버스 각각의 단편에는 <b>주진모</b>, <b>박호산</b>, <b>고창석</b>이 합류해 각자의 색깔을 더했습니다.</p>'
@@ -74,6 +77,7 @@ const post = {
       type: 'body',
       html: '<p>세 명의 감독은 “믿음이라는 단어가 가진 다층적인 의미를 풀어내고 싶었다”는 공통된 화두로 작품을 기획했습니다.</p>'
     },
+    { type: 'image', src: '/images/post78_img4.jpg', alt: '영화 빌리브 줄거리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>짧은 러닝타임 속에서 각 단편의 색깔을 극명히 나누고, 서로 다른 정서가 하나의 주제로 수렴되도록 구성했습니다. 인터뷰에서는 현실과 환상의 경계를 넘나드는 형사 이야기, 유머와 액션을 결합한 창석의 세계, 스포츠를 통한 자기 극복이라는 세 가지 축이 “믿음”이라는 키워드 아래 모이는 과정을 강조했습니다.</p>'
@@ -92,6 +96,9 @@ const post = {
       type: 'body',
       html: '<p><i>빌리브</i>라는 제목은 신념을 넘어선 의미를 담고 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post78_img7.jpg', alt: '영화 빌리브', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post78_img6.jpg', alt: '빌리브', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post78_img5.jpg', alt: '영화 빌리브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>첫째, 믿음은 언제나 시험받는 감정이라는 점입니다. 형사 태수의 환상은 ‘믿음의 불확실성’을 보여줍니다.</p>'

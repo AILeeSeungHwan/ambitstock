@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;color: #000000;&quot;>볼만한 영화를 찾으시나요.</span></p><p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #5e5e64; background-color: #ffffff;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>이동진 평론가의 별점 다섯개 영화</b></span>로 볼만한 명작 영화 최신작들을 추천합니다.</span></span></p><p><span style=&quot;color: #000000;&quot;>각 작품에 대한 포스터와 이동진 평론가의 담담한 한줄 평, 그리고 영화의 줄거리를 함께 소개해드리겠습니다. </span></p><p><span style=&quot;color: #000000;&quot;><span style=&quot;background-color: #ffffff; text-align: start;&quot;><b>누구나 당연히 알고 있는 명작 영화가 아닌, </b></span><span style=&quot;background-color: #ffffff; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>익히 들어보지 않은, 흔치 않은 작품들만 선별하여 정리</b></span>하였습니다.</span></span></p><p><span style=&quot;color: #000000;&quot;>순서는 순위와 관계없습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;960&quot; data-origin-width=&quot;976&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bjyot9/btsIPZRKUSo/AAAAAAAAAAAAAAAAAAAAAG9I_C9Y6mpa-brpjvjgDHUaI0D0QRFDBHobfGhCZqF4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hhhuxZ%2BVjED8Lejkb7YMLW%2BLILM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bjyot9/btsIPZRKUSo/AAAAAAAAAAAAAAAAAAAAAG9I_C9Y6mpa-brpjvjgDHUaI0D0QRFDBHobfGhCZqF4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hhhuxZ%2BVjED8Lejkb7YMLW%2BLILM%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
+      html: '<p><span style=&quot;color: inherit;&quot;>볼만한 영화를 찾으시나요.</span></p><p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: #5e5e64; background-color: transparent;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>이동진 평론가의 별점 다섯개 영화</b></span>로 볼만한 명작 영화 최신작들을 추천합니다.</span></span></p><p><span style=&quot;color: inherit;&quot;>각 작품에 대한 포스터와 이동진 평론가의 담담한 한줄 평, 그리고 영화의 줄거리를 함께 소개해드리겠습니다. </span></p><p><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent; text-align: start;&quot;><b>누구나 당연히 알고 있는 명작 영화가 아닌, </b></span><span style=&quot;background-color: transparent; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>익히 들어보지 않은, 흔치 않은 작품들만 선별하여 정리</b></span>하였습니다.</span></span></p><p><span style=&quot;color: inherit;&quot;>순서는 순위와 관계없습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;960&quot; data-origin-width=&quot;976&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bjyot9/btsIPZRKUSo/AAAAAAAAAAAAAAAAAAAAAG9I_C9Y6mpa-brpjvjgDHUaI0D0QRFDBHobfGhCZqF4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hhhuxZ%2BVjED8Lejkb7YMLW%2BLILM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bjyot9/btsIPZRKUSo/AAAAAAAAAAAAAAAAAAAAAG9I_C9Y6mpa-brpjvjgDHUaI0D0QRFDBHobfGhCZqF4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hhhuxZ%2BVjED8Lejkb7YMLW%2BLILM%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -23,29 +23,30 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1518&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 볼만한 명작 영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/loO3f/btsIPrBfWmm/AAAAAAAAAAAAAAAAAAAAAOCLhg8VTmqyz6SMuxDmNQS-Iqzhcz1zvGJJVV2Yms4z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=D6whFJ2ETRuWcvhViiv6pPm8fzc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/loO3f/btsIPrBfWmm/AAAAAAAAAAAAAAAAAAAAAOCLhg8VTmqyz6SMuxDmNQS-Iqzhcz1zvGJJVV2Yms4z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=D6whFJ2ETRuWcvhViiv6pPm8fzc%3D&quot;></span><figcaption>이동진 평론가 볼만한 명작 영화 추천</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post141_img1.jpg', alt: '이동진 평론가 추천 볼만한 명작 영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>언제 찍거나 멈출 것인가 <br>어디로 따라갈 것인가,</br></span><br><span style=&quot;font-family: \'Noto Serif KR\';&quot;>때론 그게 영화의 전부.</span></br></blockquote>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000; color: #000000;&quot;><b><span style=&quot;text-align: start;&quot;>이동진 평론가의 2024년 첫 만점 작품! </span></b></span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b><span style=&quot;text-align: start;&quot;>이동진 평론가의 2024년 첫 만점 작품! </span></b></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>이란에서 출국 금지 처분을 받은 영화 감독 자파르 파나히는 국경 마을에 머무르며 원격으로 영화 촬영을 진행한다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>이란에서 출국 금지 처분을 받은 영화 감독 자파르 파나히는 국경 마을에 머무르며 원격으로 영화 촬영을 진행한다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>그의 영화에는 터키에서 프랑스로 도피하려는 커플이 등장하며, </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>그의 영화에는 터키에서 프랑스로 도피하려는 커플이 등장하며, </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>그가 머무는 <span style=&quot;background-color: #f3c000;&quot;><b>마을에는 오랜 관습으로 인해 사랑을 허락받지 못한 연인들이 도피를 계획</b></span>하고 있다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>그가 머무는 <span style=&quot;background-color: #f3c000;&quot;><b>마을에는 오랜 관습으로 인해 사랑을 허락받지 못한 연인들이 도피를 계획</b></span>하고 있다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #01ff51; color: #000000;&quot;><b><span style=&quot;text-align: start;&quot;>시간이 지나면서 감독은 마을을 뒤흔드는 사건에 휘말리게 된다.</span></b></span></p>'
+      html: '<p><span style=&quot;background-color: #01ff51; color: inherit;&quot;><b><span style=&quot;text-align: start;&quot;>시간이 지나면서 감독은 마을을 뒤흔드는 사건에 휘말리게 된다.</span></b></span></p>'
     },
     {
       type: 'h2',
@@ -57,6 +58,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1516&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Q5wIq/btsIQElVjWk/AAAAAAAAAAAAAAAAAAAAANYJSbyU7jzdZslmCLUK6qYS8GThhvnOOn0K-SRj2x3_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qjZVILB8Kn0DJJIwJ2cPRhf%2FCEM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Q5wIq/btsIQElVjWk/AAAAAAAAAAAAAAAAAAAAANYJSbyU7jzdZslmCLUK6qYS8GThhvnOOn0K-SRj2x3_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qjZVILB8Kn0DJJIwJ2cPRhf%2FCEM%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post141_img2.jpg', alt: '이동진 평론가 추천 볼만한 명작 영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;보지 못한 것을 <br/>어떻게 보여줄 것인가&quot;<br/>에 대한 독창적인 대답들.</span></blockquote>'
@@ -119,6 +121,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1500&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/brn7Jj/btsIRu36PIH/AAAAAAAAAAAAAAAAAAAAAKKKLnJdK1d6Du27O2KqYHvkcnRv8IIsChd8v6Lsn7s0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=iWROKCpQgDHY1c3YgPDPC79r8rk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/brn7Jj/btsIRu36PIH/AAAAAAAAAAAAAAAAAAAAAKKKLnJdK1d6Du27O2KqYHvkcnRv8IIsChd8v6Lsn7s0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=iWROKCpQgDHY1c3YgPDPC79r8rk%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post141_img3.jpg', alt: '이동진 평론가 추천 볼만한 명작 영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;> 그 모든 곳에서 <br/>그 모든 것이 <br/>한꺼번에 될 수 있다 해도 <br/>지금 이 순간을.</span></blockquote>'
@@ -169,6 +172,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1508&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wi904/btsIPWtYzg4/AAAAAAAAAAAAAAAAAAAAAFfdEBElXVDob50D2leaRB0YOl3uU4VErxQtPWLkpLbR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CaBg5EHU7x%2B9j64QaaKWAH0xhZQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wi904/btsIPWtYzg4/AAAAAAAAAAAAAAAAAAAAAFfdEBElXVDob50D2leaRB0YOl3uU4VErxQtPWLkpLbR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CaBg5EHU7x%2B9j64QaaKWAH0xhZQ%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post141_img4.jpg', alt: '이동진 평론가 추천 볼만한 명작 영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>우정의 안식처에서 상상하며 <br/>다시 살펴보는 <br/>서부극의 깊은 순간들.</span></blockquote>'
@@ -195,6 +199,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1508&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/kL8rG/btsIP79ZRJW/AAAAAAAAAAAAAAAAAAAAAD5-_00oM50z35lKJA6e-TDc_tksORMeEdXY_r1W81fw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hScErcDU5fPGEiVRVViQJgfz3Bg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/kL8rG/btsIP79ZRJW/AAAAAAAAAAAAAAAAAAAAAD5-_00oM50z35lKJA6e-TDc_tksORMeEdXY_r1W81fw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hScErcDU5fPGEiVRVViQJgfz3Bg%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post141_img5.jpg', alt: '이동진 평론가 추천 볼만한 명작 영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>중심과 주변, 문명과 야만을 구분짓는 <br/>서구의 근대적 이분법에 <br/>교란과 분산으로 선명하게 맞선다.</span></blockquote>'
@@ -225,6 +230,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1508&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/zyzz1/btsIPX0IvMF/AAAAAAAAAAAAAAAAAAAAACrD1LmUCWcTh3b0M5kkroRhn5dVd3NDugCQvSIJEwzH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8JABULjdx%2BDuzkToYbZQrOR%2BD5M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/zyzz1/btsIPX0IvMF/AAAAAAAAAAAAAAAAAAAAACrD1LmUCWcTh3b0M5kkroRhn5dVd3NDugCQvSIJEwzH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8JABULjdx%2BDuzkToYbZQrOR%2BD5M%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post141_img6.jpg', alt: '이동진 평론가 추천 볼만한 명작 영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>집에 돌아와 자리에 누워도 <br/>천장에서 영화가 계속 상영된다.<br/><br/><br/><br/><br/></span></blockquote>'
@@ -259,6 +265,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1494&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/2XRmb/btsIRNiche6/AAAAAAAAAAAAAAAAAAAAAF95MuPMumuBDBTUM8olRbCKEsdrx_CaWDDEj21I9Eud/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qL4ac7mkJVQ13rLRDMCLp6BBu1s%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/2XRmb/btsIRNiche6/AAAAAAAAAAAAAAAAAAAAAF95MuPMumuBDBTUM8olRbCKEsdrx_CaWDDEj21I9Eud/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qL4ac7mkJVQ13rLRDMCLp6BBu1s%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post141_img7.jpg', alt: '이동진 평론가 추천 볼만한 명작 영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>파리하게 회귀하는 강박과 슬픔 끝에 <br/>눅눅한 구두점을 향하여.</span></blockquote>'
@@ -289,9 +296,10 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1518&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cMZDlp/btsIPk3ig1R/AAAAAAAAAAAAAAAAAAAAAO4gpmNEIRFX9hJww3VMEdnRDe003BBGT4SKzG85GEAH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SD%2B29ZPlPoFPbJiVE2xc5uwrE6M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cMZDlp/btsIPk3ig1R/AAAAAAAAAAAAAAAAAAAAAO4gpmNEIRFX9hJww3VMEdnRDe003BBGT4SKzG85GEAH/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SD%2B29ZPlPoFPbJiVE2xc5uwrE6M%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post141_img8.jpg', alt: '이동진 평론가 추천 볼만한 명작 영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시선이 없다면</span> <span style=&quot;color: #5e5e64;&quot;><span style=&quot;caret-color: #5e5e64; background-color: #ffffff;&quot;>사건도 없다.</span></span></blockquote>'
+      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시선이 없다면</span> <span style=&quot;color: #5e5e64;&quot;><span style=&quot;caret-color: #5e5e64; background-color: transparent;&quot;>사건도 없다.</span></span></blockquote>'
     },
     {
       type: 'body',
@@ -323,17 +331,20 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;이동진 평론가 추천 볼만한 명작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/7HEFo/btsIQyzn8tC/AAAAAAAAAAAAAAAAAAAAABCrCwLv64rKC3P2057O-dvy6zDYgzCRs9N1QRhbi6ku/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qfEBH25qA7UlkNmv24lvan79A%2F0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/7HEFo/btsIQyzn8tC/AAAAAAAAAAAAAAAAAAAAABCrCwLv64rKC3P2057O-dvy6zDYgzCRs9N1QRhbi6ku/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qfEBH25qA7UlkNmv24lvan79A%2F0%3D&quot;></span><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post141_img11.jpg', alt: '이동진 평론가 추천 볼만한 명작 영화', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post141_img10.jpg', alt: '이동진 평론가 추천 볼만한 명작 영화', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post141_img9.jpg', alt: '이동진 평론가 추천 볼만한 명작 영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>이미 다 소화해버린 악에 대하여, <br/>체온으로만 볼 수 있는 선에 관하여.</span></blockquote>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #5e5e64; text-align: start;&quot;><br/>독일 장교 루돌프 회스(크리스티안 프리델)와 그의 <span style=&quot;background-color: #f3c000;&quot;><b>가족이 꿈꾸는 이상향, 아우슈비츠. </b></span></span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: #5e5e64; text-align: start;&quot;><br/>독일 장교 루돌프 회스(크리스티안 프리델)와 그의 <span style=&quot;background-color: #f3c000;&quot;><b>가족이 꿈꾸는 이상향, 아우슈비츠. </b></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #5e5e64; text-align: start;&quot;>아내 헤트비히(산드라 휠러)가 정성스럽게 가꾼 꽃들이 <span style=&quot;background-color: #f3c000;&quot;><b>만발한 정원은 아이들의 웃음소리로 가득</b></span>하다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: #5e5e64; text-align: start;&quot;>아내 헤트비히(산드라 휠러)가 정성스럽게 가꾼 꽃들이 <span style=&quot;background-color: #f3c000;&quot;><b>만발한 정원은 아이들의 웃음소리로 가득</b></span>하다. </span></p>'
     },
     {
       type: 'ending',

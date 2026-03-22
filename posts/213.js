@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 추천 페드로 파라모 입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>볼까 말까 고민되시는 분들을 위해 로튼 토마토 평점, 평론가 관람평과 후기, 그리고 제목의 뜻과 의미를 해석해보는 시간을 가지도록 하겠습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>이 포스팅을 통해 영화 시청에 도움이 되시길 바랍니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 추천 페드로 파라모 입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>볼까 말까 고민되시는 분들을 위해 로튼 토마토 평점, 평론가 관람평과 후기, 그리고 제목의 뜻과 의미를 해석해보는 시간을 가지도록 하겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>이 포스팅을 통해 영화 시청에 도움이 되시길 바랍니다.</p>'
     },
     {
       type: 'image',
@@ -46,19 +46,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>페드로 파라모 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>페드로 파라모 로튼토마토 평론가 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 75%, 관람객 평점 86%의 영화 페드로 파라모 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 75%, 관람객 평점 86%의 영화 페드로 파라모 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가와 관람객 모두 준수한 평점을 받으며 좋은 성적을 기록 중이고 ,특히 관람객 평점이 평론가 평점보다 상대적으로 높은 점수를 기록하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평론가와 관람객 모두 준수한 평점을 받으며 좋은 성적을 기록 중이고 ,특히 관람객 평점이 평론가 평점보다 상대적으로 높은 점수를 기록하고 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 페드로 파라모 평론가 결말 후기 관람평 입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 페드로 파라모 평론가 결말 후기 관람평 입니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -136,6 +136,19 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7</b></span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post213_img12.jpg', alt: '페드로 파라모 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post213_img11.jpg', alt: '페드로 파라모 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post213_img10.jpg', alt: '페드로 파라모 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post213_img9.jpg', alt: '페드로 파라모 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post213_img8.jpg', alt: '페드로 파라모 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post213_img7.jpg', alt: '페드로 파라모 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post213_img6.jpg', alt: '페드로 파라모 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post213_img5.jpg', alt: '넷플릭스 멕시코 영화 추천 페드로 파라모 제목 뜻과 의미 해석 평점 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post213_img4.jpg', alt: '페드로 파라모', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post213_img3.jpg', alt: '페드로 파라모', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post213_img2.jpg', alt: '페드로 파라모', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post213_img1.jpg', alt: '페드로 파라모', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>'

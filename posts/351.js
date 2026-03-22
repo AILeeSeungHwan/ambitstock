@@ -232,6 +232,15 @@ const post = {
       type: 'body',
       html: '<p> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post351_img8.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post351_img7.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post351_img6.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post351_img5.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post351_img4.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post351_img3.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post351_img2.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post351_img1.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>이외 7위 사랑의 하츄핑 9위 8월 21일 개봉하는 필사의 추격, 10위에 슈퍼배드 4가 랭크하였습니다.</p>'

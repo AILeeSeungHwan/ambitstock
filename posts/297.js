@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 9월 13일 넷플릭스 공개된, 김우빈 주연 영화 무도실무관입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>한국에서는 믿고 보는 배우인 김우빈 영화, 해외에서는 반응이 어떠한지, 무도 실무관의 뜻과 영어제목, 해외 반응 평점 후기 모두 알아보겠습니다. 해외 반응은 로튼토마토와 IMDB 를 바탕으로 확인하였습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>먼저 IMDB 평점 알아보겠습니다.</b></span></p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 9월 13일 넷플릭스 공개된, 김우빈 주연 영화 무도실무관입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>한국에서는 믿고 보는 배우인 김우빈 영화, 해외에서는 반응이 어떠한지, 무도 실무관의 뜻과 영어제목, 해외 반응 평점 후기 모두 알아보겠습니다. 해외 반응은 로튼토마토와 IMDB 를 바탕으로 확인하였습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>먼저 IMDB 평점 알아보겠습니다.</b></span></p>'
     },
     {
       type: 'image',
@@ -132,6 +132,16 @@ const post = {
       type: 'body',
       html: '<p>이후에 해외 반응과 넷플릭스 순위정보 갱신되면 다음 포스팅으로 찾아뵙겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post297_img9.jpg', alt: '넷플릭스 영화 무도실무관 해외 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post297_img8.jpg', alt: '넷플릭스 영화 무도실무관 해외 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post297_img7.jpg', alt: '무도실무관 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post297_img6.jpg', alt: '넷플릭스 영화 추천 무도실무관 볼만한가? 영어 제목 뜻 해외 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post297_img5.jpg', alt: '무도의 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post297_img4.jpg', alt: '무도실무관 해외 영어제목 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post297_img3.jpg', alt: '무도실무관 네이버 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post297_img2.jpg', alt: '넷플릭스 영화 추천 무도실무관 볼만한가? 영어 제목 뜻 해외 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post297_img1.jpg', alt: '넷플릭스 영화 무도실무관', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

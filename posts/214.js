@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>아케인 시즌 2가 전 시즌에 이어 압도적인 평점으로 공개되었습니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>아마 많은 분들이 기다리던 넷플릭스 시리즈라 한다면 롤 시네마틱 시리즈인 아케인일 것입니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>애니메이션임에도 불구하고 그 작품성과 연출, 시리즈 내내 보여주는 화려한 전투씬과 그 색감은 롤을 모르더라도 보신 분들이라면 빠져들 수 밖에 없는 매력을 보여주었습니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>아케인 시즌 2가 전 시즌에 이어 압도적인 평점으로 공개되었습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>아마 많은 분들이 기다리던 넷플릭스 시리즈라 한다면 롤 시네마틱 시리즈인 아케인일 것입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>애니메이션임에도 불구하고 그 작품성과 연출, 시리즈 내내 보여주는 화려한 전투씬과 그 색감은 롤을 모르더라도 보신 분들이라면 빠져들 수 밖에 없는 매력을 보여주었습니다.</p>'
     },
     {
       type: 'image',
@@ -30,27 +30,27 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이번 포스팅에서 아케인 시즌 2의 로튼 토마토 평점과 평론가 후기를 함께 알아보도록 하겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서 아케인 시즌 2의 로튼 토마토 평점과 평론가 후기를 함께 알아보도록 하겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>아케인 시즌 2 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>아케인 시즌 2 로튼토마토 평론가 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 100%, 관람객 평점 97%의 아케인 시즌 2 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 100%, 관람객 평점 97%의 아케인 시즌 2 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>시즌 1에서도 로튼 토마토 평론가 평점 100%를 기록하였고, 그 다음 시즌도 기대를 저버리지 않고 좋은 퀄리티로 가져왔습니다. 역시나 시즌 1에 이어서 전투씬에서의 색감이 미쳤습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>시즌 1에서도 로튼 토마토 평론가 평점 100%를 기록하였고, 그 다음 시즌도 기대를 저버리지 않고 좋은 퀄리티로 가져왔습니다. 역시나 시즌 1에 이어서 전투씬에서의 색감이 미쳤습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아직 3부만 공개되었으나 벌써부터 좋은 평가를 받고 있는 중입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아직 3부만 공개되었으나 벌써부터 좋은 평가를 받고 있는 중입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>아케인 시즌 2 평론가 후기입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>아케인 시즌 2 평론가 후기입니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -120,6 +120,16 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7</b></span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post214_img9.jpg', alt: '아케인 시즌2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post214_img8.jpg', alt: '아케인 시즌2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post214_img7.jpg', alt: '아케인 시즌2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post214_img6.jpg', alt: '아케인 시즌2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post214_img5.jpg', alt: '아케인 시즌2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post214_img4.jpg', alt: '아케인 시즌2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post214_img3.jpg', alt: '아케인 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post214_img2.jpg', alt: '아케인 시즌 2 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post214_img1.jpg', alt: '아케인 시즌 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>'

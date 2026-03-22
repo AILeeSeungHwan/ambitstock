@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>무파사: 라이온 킹은 무파사의 성장과 리더십의 시작을 다룬 프리퀄</b></span>로,</p>'
     },
+    { type: 'image', src: '/images/post180_img1.jpg', alt: '무파사: 라이온 킹', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이미 뮤지컬과 영화에서 인기작인 \'라이온 킹\' 세계관의 또 한번의 흥행을 노립니다.</p>'
@@ -53,6 +54,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>무파사: 라이온 킹 해외 시사회 평론가 후기 관람평 반응입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post180_img7.jpg', alt: '무파사: 라이온 킹 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post180_img6.jpg', alt: '무파사: 라이온 킹 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post180_img5.jpg', alt: '무파사: 라이온 킹 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post180_img4.jpg', alt: '무파사: 라이온 킹', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post180_img3.jpg', alt: '무파사: 라이온 킹', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post180_img2.jpg', alt: '무파사: 라이온 킹 정보', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b>실제와 구분하기 어려울 수준의<br>엄청난 CGI 기술!</br></b></span></blockquote>'

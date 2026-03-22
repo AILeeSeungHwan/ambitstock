@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>스캔들은 2024년 6월 17일부터 KBS2에서 방영되는 일일 드라마입니다. 복수를 위해 모든 것을 건 여자와 세상을 가지고 싶었던 여자가 벌이는 미스터리 격정 멜로를 다룹니다. </span></p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #333333; text-align: start;&quot;>KBS 일일드라마 스캔들은 </span>세상을 손에 넣고자 하는 여자와 복수를 위해 모든 것을 걸고 싸우는 또 다른 여자, 두 여자의 복수와 야망을 중심으로 한 미스터리 격정 멜로 드라마입니다. 주인공은 복수를 위해 모든 것을 걸고 싸우는 여자와 세상을 손에 넣으려는 야망을 가진 여자입니다. 이 드라마는 이 두 여자의 얽히고설킨 운명과 그로 인해 벌어지는 사건들을 그립니다.</span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>한채영이 연기하는 주인공은 어린 시절 부모를 잃고, 그 원수들에게 복수하기 위해 모든 것을 걸고 싸우는 여자입니다. 그녀는 사랑과 증오, 절망 속에서 자신의 삶을 이어가며, 복수의 길에서 만나게 되는 다양한 사람들과의 관계를 통해 성장합니다.</span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>스캔들은 2024년 6월 17일부터 KBS2에서 방영되는 일일 드라마입니다. 복수를 위해 모든 것을 건 여자와 세상을 가지고 싶었던 여자가 벌이는 미스터리 격정 멜로를 다룹니다. </span></p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: inherit; text-align: start;&quot;>KBS 일일드라마 스캔들은 </span>세상을 손에 넣고자 하는 여자와 복수를 위해 모든 것을 걸고 싸우는 또 다른 여자, 두 여자의 복수와 야망을 중심으로 한 미스터리 격정 멜로 드라마입니다. 주인공은 복수를 위해 모든 것을 걸고 싸우는 여자와 세상을 손에 넣으려는 야망을 가진 여자입니다. 이 드라마는 이 두 여자의 얽히고설킨 운명과 그로 인해 벌어지는 사건들을 그립니다.</span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>한채영이 연기하는 주인공은 어린 시절 부모를 잃고, 그 원수들에게 복수하기 위해 모든 것을 걸고 싸우는 여자입니다. 그녀는 사랑과 증오, 절망 속에서 자신의 삶을 이어가며, 복수의 길에서 만나게 되는 다양한 사람들과의 관계를 통해 성장합니다.</span></p>'
     },
     {
       type: 'image',
@@ -19,11 +19,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>한보름이 연기하는 또 다른 주인공은 세상의 부와 권력을 손에 넣고자 하는 야망을 가진 여자입니다. 그녀는 자신의 목적을 이루기 위해 수단과 방법을 가리지 않으며, 냉혹하고 이성적인 판단력으로 자신이 원하는 것을 쟁취해 나갑니다.</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>한보름이 연기하는 또 다른 주인공은 세상의 부와 권력을 손에 넣고자 하는 야망을 가진 여자입니다. 그녀는 자신의 목적을 이루기 위해 수단과 방법을 가리지 않으며, 냉혹하고 이성적인 판단력으로 자신이 원하는 것을 쟁취해 나갑니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>이 두 여자의 인생이 얽히고설키며 벌어지는 갈등과 대립, 그리고 그 과정에서 드러나는 인간의 본성과 감정들이 이 드라마의 주요 내용입니다. </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>이 두 여자의 인생이 얽히고설키며 벌어지는 갈등과 대립, 그리고 그 과정에서 드러나는 인간의 본성과 감정들이 이 드라마의 주요 내용입니다. </span></p>'
     },
     {
       type: 'body',
@@ -91,7 +91,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><br><span style=&quot;font-family: \'Noto Serif KR\'; color: #333333; text-align: start;&quot;>KBS2 일일드라마 스캔들 방송시간은 월요일 - 금요일 오후 7시50분~오후 8시30분 입니다. 드라마 스캔들 다시 보는곳은 KBS2 공식페이지 및 U+tv를 통하여 재방송 시청 가능합니다.</span></br></p>'
+      html: '<p><br><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;>KBS2 일일드라마 스캔들 방송시간은 월요일 - 금요일 오후 7시50분~오후 8시30분 입니다. 드라마 스캔들 다시 보는곳은 KBS2 공식페이지 및 U+tv를 통하여 재방송 시청 가능합니다.</span></br></p>'
     },
     {
       type: 'body',
@@ -117,6 +117,17 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&lt;금이야옥이야&gt; &lt;국가대표 와이프&gt; &lt;오늘부터 사랑해&gt; &lt;또 한번의 웨딩&gt; &lt;외등&gt;</span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post425_img10.jpg', alt: '황순영 최지영 이전작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post425_img9.jpg', alt: '드라마 스캔들 김석기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post425_img8.jpg', alt: '드라마 스캔들 고은별', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post425_img7.jpg', alt: '드라마 스캔들 인물관계도', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post425_img6.jpg', alt: '드라마 스캔들 민주련과 서진호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post425_img5.jpg', alt: '드라마 스캔들 서진호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post425_img4.jpg', alt: '드라마 스캔들 백설아', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post425_img3.jpg', alt: '드라마 스캔들 출연배우', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post425_img2.jpg', alt: '드라마 스캔들 한채영 (문정인)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post425_img1.jpg', alt: '일일드라마 스캔들', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>KBS2 일일드라마 스캔들은 첫 회에서 AGB 기준 전국 시청률 7.2%를 기록하며 좋은 반응을 얻고 있습니다.</span></p>'

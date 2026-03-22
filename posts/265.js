@@ -30,7 +30,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333; text-align: start;&quot;>John Flickinger - 평점 (A-)<span> </span></span><br>\'와일드 로봇\'은 롤러코스터를 타는 듯 예상치 못한 감정 오르내림을 이끌어냈고, \'터미네이터 2: 심판의 날\' 이후 느껴보지 못한 보호 본능을 다시 일으켰다.</br></p>'
+      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>John Flickinger - 평점 (A-)<span> </span></span><br>\'와일드 로봇\'은 롤러코스터를 타는 듯 예상치 못한 감정 오르내림을 이끌어냈고, \'터미네이터 2: 심판의 날\' 이후 느껴보지 못한 보호 본능을 다시 일으켰다.</br></p>'
     },
     {
       type: 'body',
@@ -125,6 +125,16 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post265_img9.jpg', alt: '와일드 로봇 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post265_img8.jpg', alt: '와일드 로봇 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post265_img7.jpg', alt: '와일드 로봇 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post265_img6.jpg', alt: '와일드 로봇 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post265_img5.jpg', alt: '와일드 로봇 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post265_img4.jpg', alt: '와일드 로봇 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post265_img3.jpg', alt: '와일드 로봇 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post265_img2.jpg', alt: '와일드 로봇 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post265_img1.jpg', alt: '와일드 로봇', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

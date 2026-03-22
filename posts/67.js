@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<h3>정보</h3>'
     },
+    { type: 'image', src: '/images/post67_img1.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025.10.16 공개. 연출 츠키카와 쇼. 출연 오구리 슌, <b>한효주</b>, 나카무라 유리, 나리타 료 등.</p>'
@@ -57,6 +58,7 @@ const post = {
       type: 'body',
       html: '<h3>핵심 요약</h3>'
     },
+    { type: 'image', src: '/images/post67_img2.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025.10.17 공개. 감독 변성현. 출연 설경구·홍경·류승범.</p>'
@@ -95,6 +97,7 @@ const post = {
       type: 'body',
       html: '<h3>한 줄 개요</h3>'
     },
+    { type: 'image', src: '/images/post67_img3.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025.10.24 공개. 감독 캐서린 비글로우.</p>'
@@ -138,6 +141,7 @@ const post = {
       type: 'body',
       html: '<h3>기본 스펙</h3>'
     },
+    { type: 'image', src: '/images/post67_img4.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025.11.14 공개 / 99분. 감독 알렉산더 우. 성우 줄리 호앙-래퍼포트, 일라이어스 잰슨, 에릭 벤스, 크레이그 로빈슨.</p>'
@@ -168,6 +172,7 @@ const post = {
       type: 'body',
       html: '<h3>작품 한눈에</h3>'
     },
+    { type: 'image', src: '/images/post67_img5.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025.10.03 공개. 극본 김은숙. ‘천 년 만에 깨어난 정령 지니’가 감정 결여 인간과 얽히며 벌어지는 판타지 로맨틱 코미디.</p>'
@@ -206,6 +211,7 @@ const post = {
       type: 'body',
       html: '<h3>정보</h3>'
     },
+    { type: 'image', src: '/images/post67_img6.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025.09.26 공개. 감독 이태성. 출연 임시완·박규영·조우진.</p>'
@@ -240,6 +246,7 @@ const post = {
       type: 'body',
       html: '<h3>무대 설정</h3>'
     },
+    { type: 'image', src: '/images/post67_img7.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025.12.19 공개. 감독 김병우.</p>'
@@ -282,6 +289,7 @@ const post = {
       type: 'body',
       html: '<p>9/26 <b>사마귀</b> → 10/03 <b>다 이루어질지니</b> → 10/16 <b>로맨틱 어나니머스</b> → 10/17 <b>굿뉴스</b> → 10/24 <b>하우스 오브 다이너마이트</b> → 11/14 <b>인 유어 드림</b> → 12/19 <b>대홍수</b>.</p>'
     },
+    { type: 'image', src: '/images/post67_img8.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>날짜는 공개 일정에 따라 변동될 수 있으니, ‘찜+알림’은 미리 눌러두는 게 마음 편합니다. 올해 넷플릭스, 확실히 풍성합니다.</p>'

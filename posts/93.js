@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post93_img1.jpg', alt: '퇴마록', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;삼백이 반으로 나뉘고, <br>다섯이 모자랄 때 불씨가 <br>하늘을 모두 태우리라&quot;</br></br></span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post93_img2.jpg', alt: '퇴마록', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>수백 년간 은거하던 해동밀교의 145대 교주가 생명을 제물로 바쳐 절대 악(惡)의 힘을 얻기 위한 의식을 시작한다.</p>'
@@ -78,6 +80,7 @@ const post = {
       type: 'body',
       html: '<p>\'퇴마록\'이라는 제목은 한자어로 이루어져 있으며, 각각의 단어가 의미하는 바는 다음과 같습니다.</p>'
     },
+    { type: 'image', src: '/images/post93_img3.jpg', alt: '퇴마록', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>퇴마(退魔)</b>: \'퇴(退)\'는 물러나다, 쫓아내다의 뜻을 가지고 있으며, \'마(魔)\'는 악마, 요괴, 사악한 존재를 의미합니다. 따라서 \'퇴마\'는 악령이나 사악한 존재를 쫓아내는 행위를 뜻합니다.</p>'
@@ -125,6 +128,11 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 영화 퇴마록 시사회 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post93_img8.jpg', alt: '퇴마록', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post93_img7.jpg', alt: '퇴마록', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post93_img6.jpg', alt: '퇴마록', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post93_img5.jpg', alt: '퇴마록', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post93_img4.jpg', alt: '퇴마록', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;letter-spacing: 0px;&quot;>최근 애니메이션 영화 \'퇴마록\'의 시사회가 여러 차례 열렸으며, 다양한 후기들이 전해지고 있습니다.</span></p>'
@@ -171,7 +179,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>한 인스타그램 사용자는 SCREENX 상영관에서 영화를 관람한 후, 3면 스크린을 통해 배경의 섬세함과 액션의 생동감을 더욱 실감할 수 있었다며 만족감을 표현했습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>한 인스타그램 사용자는 SCREENX 상영관에서 영화를 관람한 후, 3면 스크린을 통해 배경의 섬세함과 액션의 생동감을 더욱 실감할 수 있었다며 만족감을 표현했습니다.</p>'
     },
     {
       type: 'body',

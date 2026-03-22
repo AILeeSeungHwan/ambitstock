@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p>범죄 액션 스릴러 <span style=&quot;color: #333333; text-align: start;&quot;>영화 리볼버 ( 영어제목 : Revolver ) 가 <span style=&quot;color: #333333; text-align: start;&quot;>2024년 8월 7일 개봉합니다.</span></span></p><p>영화 제목인 리볼버는 <span style=&quot;background-color: #ff5722; color: #ffffff;&quot;><b>회전, 공전하다를 의미하는 revolve에서 유래하여 \'회전하는 것\' - 회전 권총을 의미</b></span>합니다. </p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1478&quot; data-origin-width=&quot;1064&quot;><span data-alt=&quot;영화 리볼버 시사회 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/4tI3L/btsIRVaZaG7/AAAAAAAAAAAAAAAAAAAAADT_qFEL3m_wpfc7Z1dkdDrwgdOH37cDkJ2okvEsrwHC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KbFGMc9QmEl6nVhFhs5uTd4c2%2FA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/4tI3L/btsIRVaZaG7/AAAAAAAAAAAAAAAAAAAAADT_qFEL3m_wpfc7Z1dkdDrwgdOH37cDkJ2okvEsrwHC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KbFGMc9QmEl6nVhFhs5uTd4c2%2FA%3D&quot;></span><figcaption>영화 리볼버 시사회 평점 후기</figcaption> </figure> </p>'
+      html: '<p>범죄 액션 스릴러 <span style=&quot;color: inherit; text-align: start;&quot;>영화 리볼버 ( 영어제목 : Revolver ) 가 <span style=&quot;color: inherit; text-align: start;&quot;>2024년 8월 7일 개봉합니다.</span></span></p><p>영화 제목인 리볼버는 <span style=&quot;background-color: #ff5722; color: #ffffff;&quot;><b>회전, 공전하다를 의미하는 revolve에서 유래하여 \'회전하는 것\' - 회전 권총을 의미</b></span>합니다. </p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1478&quot; data-origin-width=&quot;1064&quot;><span data-alt=&quot;영화 리볼버 시사회 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/4tI3L/btsIRVaZaG7/AAAAAAAAAAAAAAAAAAAAADT_qFEL3m_wpfc7Z1dkdDrwgdOH37cDkJ2okvEsrwHC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KbFGMc9QmEl6nVhFhs5uTd4c2%2FA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/4tI3L/btsIRVaZaG7/AAAAAAAAAAAAAAAAAAAAADT_qFEL3m_wpfc7Z1dkdDrwgdOH37cDkJ2okvEsrwHC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KbFGMc9QmEl6nVhFhs5uTd4c2%2FA%3D&quot;></span><figcaption>영화 리볼버 시사회 평점 후기</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -133,6 +133,18 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><b>영화 리볼버의 손익분기점은 140억입니다.</b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post373_img11.jpg', alt: '영화 리볼버 시사회 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post373_img10.jpg', alt: '영화 리볼버 시사회 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post373_img9.jpg', alt: '영화 리볼버 시사회 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post373_img8.jpg', alt: '영화 리볼버 시사회 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post373_img7.jpg', alt: '영화 리볼버 시사회 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post373_img6.jpg', alt: '영화 리볼버 시사회 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post373_img5.jpg', alt: '영화 리볼버 시사회 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post373_img4.jpg', alt: '영화 리볼버 시사회 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post373_img3.jpg', alt: '영화 리볼버 시사회 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post373_img2.jpg', alt: '영화 리볼버 시사회 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post373_img1.jpg', alt: '영화 리볼버 시사회 평점 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1464&quot; data-origin-width=&quot;1978&quot;><span data-alt=&quot;영화 리볼버 시사회 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ImDLx/btsISVOPREo/AAAAAAAAAAAAAAAAAAAAAEJdfm6A97I8wppjIQUNi1lCh2BRvRY5ofi1U9IHw0su/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CMkyaxx60EcoK8yJ8QPNQOj2vs8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ImDLx/btsISVOPREo/AAAAAAAAAAAAAAAAAAAAAEJdfm6A97I8wppjIQUNi1lCh2BRvRY5ofi1U9IHw0su/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CMkyaxx60EcoK8yJ8QPNQOj2vs8%3D&quot;></span><figcaption>영화 리볼버 시사회 평점 후기</figcaption> </figure> </p>'

@@ -40,7 +40,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><b><br>스포일러 경고: 여기서부터는 원작 만화의 스포일러가 포함되어 있습니다.</br></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><b><br>스포일러 경고: 여기서부터는 원작 만화의 스포일러가 포함되어 있습니다.</br></b></p>'
     },
     {
       type: 'body',
@@ -174,6 +174,19 @@ const post = {
       type: 'body',
       html: '<p>그러나 원작을 충실히 따른다면 대략적인 줄거리는 이와 비슷할 것입니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post399_img12.jpg', alt: '괴수 8호 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post399_img11.jpg', alt: '괴수 8호 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post399_img10.jpg', alt: '괴수 8호 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post399_img9.jpg', alt: '괴수 8호 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post399_img8.jpg', alt: '괴수 8호 2기 - 괴수 9호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post399_img7.jpg', alt: '괴수 8호 2기 - 괴수 11호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post399_img6.jpg', alt: '괴수 8호 2기 - 괴수 10호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post399_img5.jpg', alt: '괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post399_img4.jpg', alt: '괴수 8호 2기 1대장 나루미 겐', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post399_img3.jpg', alt: '괴수 8호 2기 주요인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post399_img2.jpg', alt: '괴수 8호 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post399_img1.jpg', alt: '괴수 8호 2기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>이상으로 괴수 8호 시즌 2기 정보 마칩니다.</p>'

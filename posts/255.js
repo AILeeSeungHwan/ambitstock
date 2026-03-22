@@ -68,6 +68,19 @@ const post = {
       type: 'body',
       html: '<p>부정적인 평가도 있지만, 긍정적인 관람평 리뷰도 많으므로 개봉예정영화 더러운 돈에 손대지 마라, 10월 17일 극장에서 확인해 보시길 바랍니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post255_img12.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post255_img11.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post255_img10.jpg', alt: '더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리보기 개봉예정영화', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post255_img9.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post255_img8.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post255_img7.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post255_img6.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post255_img5.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post255_img4.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post255_img3.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post255_img2.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post255_img1.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

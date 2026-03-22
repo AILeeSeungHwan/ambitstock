@@ -8,7 +8,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p>현재 상영작 영화 스픽 노 이블 로튼 토마토 해외 평론가 결말후기 반응 알아보겠습니다.</p><p>스픽 노 이블의 평점과 제목 뜻 의미가 궁금하시다면 <span style=&quot;color: #333333; text-align: start;&quot;>이전 포스팅을 참고하세요.</span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>스픽 노 이블 해외 평론가 후기 알아보겠습니다.</b></span></p>'
+      html: '<p>현재 상영작 영화 스픽 노 이블 로튼 토마토 해외 평론가 결말후기 반응 알아보겠습니다.</p><p>스픽 노 이블의 평점과 제목 뜻 의미가 궁금하시다면 <span style=&quot;color: inherit; text-align: start;&quot;>이전 포스팅을 참고하세요.</span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>스픽 노 이블 해외 평론가 후기 알아보겠습니다.</b></span></p>'
     },
     {
       type: 'image',
@@ -142,6 +142,14 @@ const post = {
       type: 'body',
       html: '<p>여기까지 스픽 노 이블의 해외 평론가 후기 포스팅 마무리합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post305_img7.jpg', alt: '스픽 노 이블 결말 후기 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post305_img6.jpg', alt: '스픽 노 이블 결말 후기 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post305_img5.jpg', alt: '스픽 노 이블 결말 후기 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post305_img4.jpg', alt: '스픽 노 이블 결말 후기 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post305_img3.jpg', alt: '스픽 노 이블 결말 후기 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post305_img2.jpg', alt: '스픽 노 이블 결말 후기 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post305_img1.jpg', alt: '스픽 노 이블 결말 후기 반응', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

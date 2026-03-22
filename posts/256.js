@@ -104,6 +104,10 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><b>더 플랫폼 2 해외 평론가 결말 후기</b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post256_img3.jpg', alt: '더 플랫폼 2 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post256_img2.jpg', alt: '더 플랫폼 2 줄거리 내용', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post256_img1.jpg', alt: '더 플랫폼 2 결말 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

@@ -77,6 +77,10 @@ const post = {
       type: 'body',
       html: '<p>원하시는 컨텐츠가 있다면 댓글로 남겨주세요.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post301_img3.jpg', alt: '나우 유 씨미 뜻 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post301_img2.jpg', alt: '나우 유 씨미 뜻 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post301_img1.jpg', alt: '나우 유 씨미 뜻 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

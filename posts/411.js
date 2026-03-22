@@ -131,6 +131,18 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;>개봉일: 2014-07-30<br/>매출액: 135,762,080,310원<br/>관객 수: 17,616,299명<br/>상영관 수: 1,587<br/>상영 횟수: 188,729<br/>출연진: 최민식, 류승룡, 조진웅, 진구</p>'
     },
+    ,
+    { type: 'image', src: '/images/post411_img11.jpg', alt: '영화 명량', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post411_img10.jpg', alt: '영화 극한직업', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post411_img9.jpg', alt: '영화 신과 함께 죄와 벌', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post411_img8.jpg', alt: '영화 국제 시장', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post411_img7.jpg', alt: '어벤저스 엔드 게임', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post411_img6.jpg', alt: '영화 겨울왕국 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post411_img5.jpg', alt: '영화 베테랑', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post411_img4.jpg', alt: '영화 아바타', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post411_img3.jpg', alt: '영화 서울의 봄', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post411_img2.jpg', alt: '도둑들', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post411_img1.jpg', alt: '역대 영화 박스오피스 순위 TOP 10', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;>명량 OTT 다시보기 보는곳 : 넷플릭스 왓챠 티빙</p>'

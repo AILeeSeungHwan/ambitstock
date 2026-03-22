@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>이야기는 &quot;고지&quot;라는 초자연적 현상에서 시작된다. </b></span></p>'
     },
+    { type: 'image', src: '/images/post219_img1.jpg', alt: '지옥 시즌 1 줄거리 내용 요약', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>특정 인물에게 죽음의 날짜가 예고되고, 약속된 날 &quot;지옥의 사자&quot;들이 나타나 끔찍하게 그들을 처단하는 &quot;시연&quot;을 진행하며 사람들은 혼란에 빠진다.</p>'
@@ -41,6 +42,7 @@ const post = {
       type: 'body',
       html: '<p>주인공 민혜진 변호사는 <span style=&quot;background-color: #f3c000;&quot;><b>고지를 받은 박정자의 시연을 목격하며 새 진리회와 화살촉 같은 광신 집단의 위험성을 인식</b></span>한다.</p>'
     },
+    { type: 'image', src: '/images/post219_img2.jpg', alt: '지옥 시즌 1 줄거리 내용 요약', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>그녀는 고지와 시연이 신의 뜻이라는 새 진리회의 주장을 비판하고, 진경훈 형사와 함께 새 진리회의 숨겨진 진실을 파헤치려 노력한다.</p>'
@@ -71,6 +73,8 @@ const post = {
       type: 'body',
       html: '<p>시즌 후반부에서는</p>'
     },
+    { type: 'image', src: '/images/post219_img4.jpg', alt: '지옥 시즌 1 줄거리 내용 요약', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post219_img3.jpg', alt: '지옥 시즌 1 줄거리 내용 요약', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>&quot;죄가 없는 갓난아기가 시연을 예고받았다&quot;는 사건이 벌어지며 </b></span></p>'

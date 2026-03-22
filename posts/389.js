@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 드라마, 많은데 뭘 봐야할지 모르겠다?</span></b></p><p>2024년 7월 12일 공개 된 장나라 남지현 주연 SBS 금토 <span style=&quot;color: #333333; text-align: start;&quot;>신작 드라마</span> 굿 파트너!</p><p>볼 만 한지 기본 정보와 함께 해외 반응, 평점 후기 알아보겠습니다.</p>'
+      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 드라마, 많은데 뭘 봐야할지 모르겠다?</span></b></p><p>2024년 7월 12일 공개 된 장나라 남지현 주연 SBS 금토 <span style=&quot;color: inherit; text-align: start;&quot;>신작 드라마</span> 굿 파트너!</p><p>볼 만 한지 기본 정보와 함께 해외 반응, 평점 후기 알아보겠습니다.</p>'
     },
     {
       type: 'image',
@@ -55,19 +55,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>드라마 제목인 굿 파트너의 뜻은 우리가 자주 쓰는 단어인 만큼 쉽게 유추할 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>드라마 제목인 굿 파트너의 뜻은 우리가 자주 쓰는 단어인 만큼 쉽게 유추할 수 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영어로 Good Patner이며, Good은 좋은, <span style=&quot;background-color: #f3c000;&quot;><b>Patner는 비즈니스 또는 자신의 삶과 관련된 활동, 관심사, 특히 낭만적인 활동을 공유하는 사람</b></span>을 뜻 합니다. </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영어로 Good Patner이며, Good은 좋은, <span style=&quot;background-color: #f3c000;&quot;><b>Patner는 비즈니스 또는 자신의 삶과 관련된 활동, 관심사, 특히 낭만적인 활동을 공유하는 사람</b></span>을 뜻 합니다. </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>가볍게 좋은 관계의 동료 정도로 해석할 수 있겠네요.<span> </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>가볍게 좋은 관계의 동료 정도로 해석할 수 있겠네요.<span> </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><i>( 파트너라는 단어가 외래어 수준으로 익숙한 단어라 해석이 무의미할지도..? )</i></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><i>( 파트너라는 단어가 외래어 수준으로 익숙한 단어라 해석이 무의미할지도..? )</i></p>'
     },
     {
       type: 'body',
@@ -95,19 +95,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>IMDB 드라마 굿 파트너 평점 및 인기순위 입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>IMDB 드라마 굿 파트너 평점 및 인기순위 입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><b>7월 12일 공개된 작품인만큼 평가 표본은 15개</b></span>로, 아직은 그 신빙성이 부족한 상황입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><b>7월 12일 공개된 작품인만큼 평가 표본은 15개</b></span>로, 아직은 그 신빙성이 부족한 상황입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>평점은 7.4점, 인기순위는 미확인</b></span>입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>평점은 7.4점, 인기순위는 미확인</b></span>입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><b>7월 23일 현재 평점 7.9점 인기순위 4,051위!</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><b>7월 23일 현재 평점 7.9점 인기순위 4,051위!</b></p>'
     },
     {
       type: 'body',
@@ -115,15 +115,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>myDramaList의 드라마 굿 파트너 평점입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>myDramaList의 드라마 굿 파트너 평점입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>굿 파트너 평가 표본 총 187명에 평점 8.0점</span></b>으로 상대적으로 IMDB 보다 신빙성있는 자료입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>굿 파트너 평가 표본 총 187명에 평점 8.0점</span></b>으로 상대적으로 IMDB 보다 신빙성있는 자료입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>마지막으로 드라마 굿 파트너 1화 2화에 대한 후기 살펴보며 마무리하겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>마지막으로 드라마 굿 파트너 1화 2화에 대한 후기 살펴보며 마무리하겠습니다.</p>'
     },
     {
       type: 'body',
@@ -137,6 +137,21 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;1180&quot; data-origin-width=&quot;1970&quot;><span data-alt=&quot;SBS 금토 드라마 굿 파트너&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ceGswX/btsIBo4Qo02/AAAAAAAAAAAAAAAAAAAAADHAJK5qEUqDaEFBLGfabZZTolYOG7QClWBhgI8gxoKO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=EG%2BMDN%2F4I9JxOWB6LOoRMtKaHdk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ceGswX/btsIBo4Qo02/AAAAAAAAAAAAAAAAAAAAADHAJK5qEUqDaEFBLGfabZZTolYOG7QClWBhgI8gxoKO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=EG%2BMDN%2F4I9JxOWB6LOoRMtKaHdk%3D&quot;></span><figcaption>SBS 금토 드라마 굿 파트너</figcaption> </figure> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post389_img14.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img13.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img12.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img11.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img10.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img9.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img8.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img7.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img6.jpg', alt: 'SBS 금토 드라마 굿 파트너 등장인물관계도', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img5.jpg', alt: 'SBS 금토 드라마 굿 파트너 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img4.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img3.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img2.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post389_img1.jpg', alt: 'SBS 금토 드라마 굿 파트너', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>드라마 굿 파트너 영어 제목 Good Patner 총평입니다.</p>'

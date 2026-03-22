@@ -27,8 +27,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>시빌 워: 분열의 시대 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>시빌 워: 분열의 시대 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post134_img1.jpg', alt: '시빌 워: 분열의 시대', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 81%, 관객 평점 69%입니다.</b></span></p>'
@@ -51,6 +52,7 @@ const post = {
       type: 'body',
       html: '<p><b>24년 12월 26일 공개된 오징어 게임 시즌 2 로튼토마토 평점입니다.</b></p>'
     },
+    { type: 'image', src: '/images/post134_img2.jpg', alt: '시빌 워: 분열의 시대 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>시빌 워와 마찬가지로 평론가 평점과 관객 평점이 상이하게 갈리는 모습</b>입니다.</p>'
@@ -83,6 +85,16 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>시빌 워: 분열의 시대 로튼 토마토 TOP 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post134_img12.jpg', alt: '시빌 워: 분열의 시대 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post134_img11.jpg', alt: '시빌 워: 분열의 시대 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post134_img10.jpg', alt: '시빌 워: 분열의 시대 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post134_img9.jpg', alt: '시빌 워: 분열의 시대 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post134_img8.jpg', alt: '시빌 워: 분열의 시대 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post134_img7.jpg', alt: '시빌 워: 분열의 시대 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post134_img6.jpg', alt: '시빌 워: 분열의 시대 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post134_img5.jpg', alt: '시빌 워: 분열의 시대 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post134_img4.jpg', alt: '시빌 워: 분열의 시대 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post134_img3.jpg', alt: '오징어 게임 시즌 2 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Christina Newland - 평점 3/5 (Original Score: 3/5)</b><br>이 영화는 마취된 기자들의 폭력적인 이야기를 다루고 있으며, 전쟁 이야기에 반전을 더한 작품이다.</br></p>'

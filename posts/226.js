@@ -109,6 +109,13 @@ const post = {
       type: 'body',
       html: '<p>결론적으로, 롱레그스는 공포의 외연을 넘어 인간 존재에 대한 깊은 통찰을 제공하는 작품이다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post226_img6.jpg', alt: '롱레그스 리뷰 결말', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post226_img5.jpg', alt: '롱레그스 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post226_img4.jpg', alt: '롱레그스 줄거리 내용', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post226_img3.jpg', alt: '롱레그스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post226_img2.jpg', alt: '롱레그스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post226_img1.jpg', alt: '롱레그스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>관객은 이 영화를 통해 삶에서 마주치는 두려움에 대한 이해를 넓히고, 자신의 내면을 돌아보는 기회를 얻게 된다.</p>'

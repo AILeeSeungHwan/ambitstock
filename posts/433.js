@@ -347,6 +347,18 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>김복동</span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post433_img11.jpg', alt: '영화 판문점 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post433_img10.jpg', alt: '영화 크로스 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post433_img9.jpg', alt: '영화 행복의 나라 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post433_img8.jpg', alt: '영화 한국이 싫어서 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post433_img7.jpg', alt: '영화 빅토리 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post433_img6.jpg', alt: '영화 탈출 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post433_img5.jpg', alt: '영화 탈주 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post433_img4.jpg', alt: '영화 드라이브 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post433_img3.jpg', alt: '영화 카브리올레 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post433_img2.jpg', alt: '영화 하이재킹 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post433_img1.jpg', alt: '2024년 하반기 한국영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;하반기 해외 블록버스터 영화 추천&quot;>2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리</a></p>'

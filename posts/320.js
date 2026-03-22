@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시청가능 영화 딜리버런스 제목 뜻 의미와 해외 평점 후기반응 알아보겠습니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>최근 공개된 넷플릭스 영화들의 퀄리티에 실망감을 가진 분들이 많으실겁니다. ( 재밌었던 작품이 무엇이었는지 기억이 잘 나지 않음.. )</p><p style=&quot;color: #333333; text-align: start;&quot;>과연 여름맞이 공포영화 딜리버런스의 후기는 어떠한지, 로튼 토마토 평점과 후기 반응을 통해 알아보도록 하겠습니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시청가능 영화 딜리버런스 제목 뜻 의미와 해외 평점 후기반응 알아보겠습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>최근 공개된 넷플릭스 영화들의 퀄리티에 실망감을 가진 분들이 많으실겁니다. ( 재밌었던 작품이 무엇이었는지 기억이 잘 나지 않음.. )</p><p style=&quot;color: inherit; text-align: start;&quot;>과연 여름맞이 공포영화 딜리버런스의 후기는 어떠한지, 로튼 토마토 평점과 후기 반응을 통해 알아보도록 하겠습니다.</p>'
     },
     {
       type: 'image',
@@ -27,19 +27,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>딜리버런스 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>딜리버런스 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가 평점 32%, 관람객 평점 52%의 딜리버런스입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평론가 평점 32%, 관람객 평점 52%의 딜리버런스입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>상당히 낮은 점수의 딜리버런스, 지난 포스팅에서 더 유니온과 비슷한 평점을 기록하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>상당히 낮은 점수의 딜리버런스, 지난 포스팅에서 더 유니온과 비슷한 평점을 기록하고 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>최근에 공개된 넷플릭스 오리지널 작품 중 성공한 작품이 있었나 생각해봐야 할 정도로 그 퀄리티와 각본 연출이 실망스럽습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>최근에 공개된 넷플릭스 오리지널 작품 중 성공한 작품이 있었나 생각해봐야 할 정도로 그 퀄리티와 각본 연출이 실망스럽습니다.</p>'
     },
     {
       type: 'body',
@@ -117,6 +117,14 @@ const post = {
       type: 'body',
       html: '<p><b>Sean Collier</b> - 8/10<br/>악마들은 초자연적일 수 있지만, 진짜 공포는 중독, 세대적 트라우마와 경제적 어려움에 있음.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post320_img7.jpg', alt: '딜리버런스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post320_img6.jpg', alt: '딜리버런스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post320_img5.jpg', alt: '딜리버런스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post320_img4.jpg', alt: '영화 딜리버런스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post320_img3.jpg', alt: '영화 딜리버런스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post320_img2.jpg', alt: '딜리버런스 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post320_img1.jpg', alt: '넷플릭스 영화 딜리버런스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>Elliott Collins</b> - 2.8/5<br/>\'The Deliverance\'는 \'The Exorcist Believer\'가 추구했던 것을 예기치 않게 더 나은 버전으로 제공하였음. 매력적인 캐릭터와 관계에 투자하였지만, 공포를 제공하는 데는 실패하였음.</p>'

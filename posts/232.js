@@ -96,6 +96,15 @@ const post = {
       type: 'body',
       html: '<p>마지막으로 할 말은 박수! 그들의 공연에 정말 잘했으며, 앞으로도 사람들을 계속 웃게 만들어 주기를 바란다. 시즌 2가 나온다면 꼭 보고 싶다. 7/10, 시작으로는 훌륭했다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post232_img8.jpg', alt: '코미디 로얄', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post232_img7.jpg', alt: '코미디 로얄', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post232_img6.jpg', alt: '코미디 로얄', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post232_img5.jpg', alt: '코미디 로얄', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post232_img4.jpg', alt: '코미디 로얄', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post232_img3.jpg', alt: '코미디 로얄', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post232_img2.jpg', alt: '코미디 로얄', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post232_img1.jpg', alt: '코미디 로얄 해외 평점 반응', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

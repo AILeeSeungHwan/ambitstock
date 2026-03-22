@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>김현주, 박희순, 박병은 주연 넷플릭스 드라마 선산 해외 반응 및 평점리뷰입니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>카카오웹툰 원작으로, 해외에서는 어떻게 시청하였는지 바로 살펴보겠습니다.</p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>선산과 같은 분위기의 영화는?</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>김현주, 박희순, 박병은 주연 넷플릭스 드라마 선산 해외 반응 및 평점리뷰입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>카카오웹툰 원작으로, 해외에서는 어떻게 시청하였는지 바로 살펴보겠습니다.</p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>선산과 같은 분위기의 영화는?</b></span></p>'
     },
     {
       type: 'image',
@@ -39,7 +39,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;color: #000000; background-color: #f3c000;&quot;>평점 6.7/10</span></b></p>'
+      html: '<p><b><span style=&quot;color: inherit; background-color: #f3c000;&quot;>평점 6.7/10</span></b></p>'
     },
     {
       type: 'body',
@@ -55,7 +55,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <span style=&quot;color: #f3c000;&quot;>★ ★</span><span style=&quot;color: #f3c000;&quot;> </span><span style=&quot;color: #f3c000;&quot;>★ ★ ★</span><span style=&quot;color: #f3c000;&quot;> ★ ★ ★ ★ </span><span style=&quot;color: #f3c000;&quot;>☆ <span style=&quot;color: #333333;&quot;>9/10</span></span></span></b></p>'
+      html: '<p><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <span style=&quot;color: #f3c000;&quot;>★ ★</span><span style=&quot;color: #f3c000;&quot;> </span><span style=&quot;color: #f3c000;&quot;>★ ★ ★</span><span style=&quot;color: #f3c000;&quot;> ★ ★ ★ ★ </span><span style=&quot;color: #f3c000;&quot;>☆ <span style=&quot;color: inherit;&quot;>9/10</span></span></span></b></p>'
     },
     {
       type: 'body',
@@ -71,7 +71,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #f3c000;&quot;>★ ★</span><span style=&quot;color: #f3c000;&quot;> </span><span style=&quot;color: #f3c000;&quot;>★ ★ ★</span><span style=&quot;color: #f3c000;&quot;><span> </span>★ ★ ★ ★<span> </span></span><span style=&quot;color: #f3c000;&quot;>☆<span style=&quot;color: #333333;&quot;> 9/10</span></span></span></b></p>'
+      html: '<p><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #f3c000;&quot;>★ ★</span><span style=&quot;color: #f3c000;&quot;> </span><span style=&quot;color: #f3c000;&quot;>★ ★ ★</span><span style=&quot;color: #f3c000;&quot;><span> </span>★ ★ ★ ★<span> </span></span><span style=&quot;color: #f3c000;&quot;>☆<span style=&quot;color: inherit;&quot;> 9/10</span></span></span></b></p>'
     },
     {
       type: 'body',
@@ -91,7 +91,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <b><span style=&quot;color: #f3c000;&quot;>★ ★</span><span style=&quot;color: #f3c000;&quot;> </span><span style=&quot;color: #f3c000;&quot;>★ ★ ★</span><span style=&quot;color: #f3c000;&quot;> ★ ★ <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> </span><span style=&quot;color: #f3c000;&quot;>☆ <span style=&quot;color: #333333;&quot;>7<b>/10</b></span></span></b></span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <b><span style=&quot;color: #f3c000;&quot;>★ ★</span><span style=&quot;color: #f3c000;&quot;> </span><span style=&quot;color: #f3c000;&quot;>★ ★ ★</span><span style=&quot;color: #f3c000;&quot;> ★ ★ <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> </span><span style=&quot;color: #f3c000;&quot;>☆ <span style=&quot;color: inherit;&quot;>7<b>/10</b></span></span></b></span></p>'
     },
     {
       type: 'body',
@@ -107,15 +107,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333;&quot;><b>잔인한 인생</b></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><b>잔인한 인생</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;color: #f3c000;&quot;>★ ★</span><span style=&quot;color: #f3c000;&quot;> </span><span style=&quot;color: #f3c000;&quot;>★ ★ ★</span><span style=&quot;color: #f3c000;&quot;> ★ ★<span> </span><b><span style=&quot;color: #f3c000;&quot;>☆</span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;>☆</span></b><span> </span></span><span style=&quot;color: #f3c000;&quot;>☆<span> </span><span style=&quot;color: #333333;&quot;>7<b>/10</b></span></span></b></p>'
+      html: '<p><b><span style=&quot;color: #f3c000;&quot;>★ ★</span><span style=&quot;color: #f3c000;&quot;> </span><span style=&quot;color: #f3c000;&quot;>★ ★ ★</span><span style=&quot;color: #f3c000;&quot;> ★ ★<span> </span><b><span style=&quot;color: #f3c000;&quot;>☆</span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;>☆</span></b><span> </span></span><span style=&quot;color: #f3c000;&quot;>☆<span> </span><span style=&quot;color: inherit;&quot;>7<b>/10</b></span></span></b></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> 김현주는 책 대필을 시키고 바람을 피우는 <span style=&quot;color: #333333; text-align: start;&quot;>교수 </span>남편을 둔 윤서하 역을 맡았습니다. 그녀는 자신이 모르는 삼촌이 산꼭대기에 자신의 묘지를 남기고 세상을 떠났다는 소식을 듣게 됩니다. 그 땅이 엄청난 돈이 될지도 모른다는 사실을 알게 되자, 주인공 윤서하의 동생이라 주장하는 남자가 나타나더니, 살인사건이 벌어지기 시작합니다. </span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> 김현주는 책 대필을 시키고 바람을 피우는 <span style=&quot;color: inherit; text-align: start;&quot;>교수 </span>남편을 둔 윤서하 역을 맡았습니다. 그녀는 자신이 모르는 삼촌이 산꼭대기에 자신의 묘지를 남기고 세상을 떠났다는 소식을 듣게 됩니다. 그 땅이 엄청난 돈이 될지도 모른다는 사실을 알게 되자, 주인공 윤서하의 동생이라 주장하는 남자가 나타나더니, 살인사건이 벌어지기 시작합니다. </span></p>'
     },
     {
       type: 'body',
@@ -141,6 +141,23 @@ const post = {
       type: 'body',
       html: '<p>최성준(박희순) 예리한</p>'
     },
+    ,
+    { type: 'image', src: '/images/post451_img16.jpg', alt: '넷플릭스 시리즈 선산 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img15.jpg', alt: '넷플릭스 시리즈 선산 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img14.jpg', alt: '넷플릭스 시리즈 선산 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img13.jpg', alt: 'IMDB 넷플릭스 선산 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img12.jpg', alt: '넷플릭스 시리즈 선산 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img11.jpg', alt: '넷플릭스 시리즈 선산 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img10.jpg', alt: '넷플릭스 시리즈 선산 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img9.jpg', alt: '넷플릭스 시리즈 선산 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img8.jpg', alt: '넷플릭스 시리즈 선산 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img7.jpg', alt: '넷플릭스 시리즈 선산 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img6.jpg', alt: '넷플릭스 시리즈 선산 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img5.jpg', alt: '넷플릭스 시리즈 선산 IMDB 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img4.jpg', alt: '봉준호 감독 미키17 정보 및 오스카상 수상작 기생충 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img3.jpg', alt: '조커 2: 폴리 아 되 개봉일 및 전작 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img2.jpg', alt: '최고 기대작 영화 &amp;lt;파묘&amp;gt; 개봉일 및 티저 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post451_img1.jpg', alt: '넷플릭스 드라마 선산 스틸컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>박상민(박병은) 최성준의</p>'

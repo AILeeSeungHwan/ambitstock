@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post162_img1.jpg', alt: '크리스마스에 기적을 만날 확률', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -56,8 +57,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>크리스마스에 기적을 만날 확률 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>크리스마스에 기적을 만날 확률 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post162_img2.jpg', alt: '크리스마스에 기적을 만날 확률 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post162_poster.jpg', alt: '포스트 162 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
@@ -89,6 +91,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>크리스마스에 기적을 만날 확률 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post162_img8.jpg', alt: '크리스마스에 기적을 만날 확률', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post162_img7.jpg', alt: '크리스마스에 기적을 만날 확률', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post162_img6.jpg', alt: '크리스마스에 기적을 만날 확률', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post162_img5.jpg', alt: '크리스마스에 기적을 만날 확률', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post162_img4.jpg', alt: '크리스마스에 기적을 만날 확률', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post162_img3.jpg', alt: '크리스마스에 기적을 만날 확률', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;608&quot; data-origin-width=&quot;1138&quot;><span data-alt=&quot;크리스마스에 기적을 만날 확률&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bYRZHV/btsK2xM0h07/AAAAAAAAAAAAAAAAAAAAAAb4CstgM6NchDelgnb8TO0JTTqTwVDNgX5GhQnhCCxR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=P3UnGtoIncLLvuLZ5Jcaqv58ISE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bYRZHV/btsK2xM0h07/AAAAAAAAAAAAAAAAAAAAAAb4CstgM6NchDelgnb8TO0JTTqTwVDNgX5GhQnhCCxR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=P3UnGtoIncLLvuLZ5Jcaqv58ISE%3D&quot;></span><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'

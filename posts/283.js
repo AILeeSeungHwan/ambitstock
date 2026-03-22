@@ -109,6 +109,14 @@ const post = {
       type: 'body',
       html: '<p>다음 포스팅에서 넷플릭스 시리즈 괴물 해외 평론가 후기 리뷰 살펴보겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post283_img7.jpg', alt: '괴물 : 메넨 데스 형제 이야기 실화 주인공 입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post283_img6.jpg', alt: '괴물 : 메넨 데즈 형제 이야기 주요 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post283_img5.jpg', alt: '괴물 메넨 데즈 형제 이야기 평점분포 입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post283_img4.jpg', alt: '괴물 IMDB 인기순위 상승한 모습입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post283_img3.jpg', alt: '넷플릭스 시리즈 인기 순위 추천 실화 기반 괴물 메넨 데즈 형제 이야기 - 주요 등장인물 평점 해외 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post283_img2.jpg', alt: '괴물 메넨 데즈 형제 이야기 로튼토마토 평점입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post283_img1.jpg', alt: '괴물 메넨 데즈 형제 이야기 스틸컷 입니다.', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

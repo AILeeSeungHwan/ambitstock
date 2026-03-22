@@ -166,7 +166,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000; color: #000000;&quot;><b>‘스파이더맨: 유어 프렌들리 네이버후드 스파이더맨’ 정보 요약</b></span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b>‘스파이더맨: 유어 프렌들리 네이버후드 스파이더맨’ 정보 요약</b></span></p>'
     },
     {
       type: 'body',
@@ -216,6 +216,13 @@ const post = {
       type: 'body',
       html: '<p><b><span style=&quot;color: #1a5490;&quot;>메인 빌런으로 예상되는 우주에서 온 다른 심비오트의 공격과 더불어 인류에게도 공격당하는 에디와 베놈의, 생존이 아닌 죽음을 향한 라스트 댄스가 될 것 입니다.</span></b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post366_img6.jpg', alt: '2024년 마블 개봉 예정작 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post366_img5.jpg', alt: '2024년 마블 개봉 예정작 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post366_img4.jpg', alt: '2024년 마블 개봉 예정작 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post366_img3.jpg', alt: '2024년 마블 개봉 예정작 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post366_img2.jpg', alt: '2024년 마블 개봉 예정작 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post366_img1.jpg', alt: '2024년 마블 개봉 예정작 총정리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>다음 포스팅에서 2025년부터 2027년까지 마블 개봉, 공개 예정작을 전해드리겠습니다.</b></span></p>'

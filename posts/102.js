@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post102_img1.jpg', alt: '도어즈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>반항아, 시인, 천재, 전설… 록의 아이콘 ‘짐 모리슨’. 그리고 신화가 된 밴드 ‘도어즈’의 이야기. 어린 시절, 사막에서 인디언의 죽음을 목격한 후 삶과 죽음의 의미에 사로잡힌 ‘짐 모리슨’(발 킬머). 영화 학교에서 만난 ‘레이 만자렉’(카일 매클라클런)과 함께 밴드 ‘도어즈’(The Doors)를 결성한다.</p>'
     },
+    { type: 'image', src: '/images/post102_img2.jpg', alt: '도어즈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>LA 록의 중심지, ‘위스키 어 고고’ 클럽 무대에서 시작해 도어즈는 “Light My Fire”와 같은 대히트곡으로 명성을 얻으며 도전과 저항의 상징이 된 1960년대의 아이콘으로 자리 잡는다.</p>'
@@ -70,6 +72,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;color: #781b33;&quot;><span style=&quot;caret-color: #781b33;&quot;>도어즈</span></span><br/><span style=&quot;color: #781b33;&quot;><span style=&quot;caret-color: #781b33;&quot;>영어제목 The Doors</span></span></b></blockquote>'
     },
+    { type: 'image', src: '/images/post102_img3.jpg', alt: '도어즈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 &lt;도어즈(The Doors)&gt;의 제목은 1960년대 전설적인 록밴드 &quot;The Doors&quot;의 이름에서 따왔습니다.</p>'
@@ -117,6 +120,14 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 영화 도어즈 해외 평론가 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post102_img11.jpg', alt: '도어즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post102_img10.jpg', alt: '도어즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post102_img9.jpg', alt: '도어즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post102_img8.jpg', alt: '도어즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post102_img7.jpg', alt: '도어즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post102_img6.jpg', alt: '도어즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post102_img5.jpg', alt: '도어즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post102_img4.jpg', alt: '도어즈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>내용에 스포는 크게 없기에 바로 이어서 확인해 보시길 바랍니다.</p>'

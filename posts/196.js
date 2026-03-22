@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post196_img1.jpg', alt: '모아나 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>모아나(Moana)<br/></span>하와이어 - 깊고 넓은 바다</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post196_img2.jpg', alt: '모아나 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 모아나(Moana)의 제목은 주인공의 이름이자 하와이어로 &quot;바다&quot;를 의미합니다.</p>'
@@ -78,6 +80,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>모아나 2 시사회 후기 긍정적 반응입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post196_img3.jpg', alt: '모아나 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 Moana 2는 디즈니의 애니메이션 스튜디오에서 일부 미리 공개되었으며, <b>여러 평론가들은 첫 작품의 전통을 잘 계승</b>하면서도 새로운 요소를 성공적으로 결합했다고 평가하였습니다.</p>'
@@ -109,6 +112,9 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>모아나 2 시사회 후기 부정적 반응입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post196_img6.jpg', alt: '모아나 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post196_img5.jpg', alt: '모아나 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post196_img4.jpg', alt: '모아나 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 제작 과정에서 초기에는 <b>디즈니+ 시리즈로 기획되었다가 극장용 영화로 전환된 점</b>이 일부 팬들과 평론가들에게 불안 요소로 작용하였습니다. 또한, 디즈니가 <b>영화의 리뷰 엠바고를 개봉 하루 전까지 유지하기로 결정하면서 영화에 대한 자신감이 부족한 것이 아니냐는 의문</b>이 제기되었습니다.</p>'

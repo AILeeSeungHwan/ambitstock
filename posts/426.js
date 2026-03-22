@@ -8,7 +8,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>콰이어트 플레이스: 첫째 날 (A Quiet Place: Day One) 은 \'콰이어트 플레이스\' 시리즈 세번째 작품, 스핀오프 프리퀄로, 첫 외계 생명체 침공 당시의 이야기를 다룹니다. 영화 제목 콰이어트 플레이스의 뜻은 영어 그대로 \'조용한 장소\'이며, 소리를 감지하여 인류를 사냥하는 외계 생명체로 인해 만들어진 환경을 의미합니다. <b><span style=&quot;background-color: #f3c000;&quot;>영화는 한국기준 2024년 6월 26일 개봉 예정</span></b>이며, 해외에서는 6월 28일 개봉 예정이고, </span><span style=&quot;font-family: \'Noto Serif KR\';&quot;>프랜차이즈의 전작들처럼 흥행을 기대하고 있습니다. 손익분기점은 아직 알려지지 않았습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1536&quot; data-origin-width=&quot;1768&quot;><span data-alt=&quot;콰이어트 플레이스 : 첫째날 스틸컷&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bJwZfZ/btsH4CIrfUe/AAAAAAAAAAAAAAAAAAAAACIV-7Exkj2QjTD_5xH66CVsoIH0YJtnGN-tcKlIgeZ8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hyMGULs3fo%2FOkEQ54glgm%2B1OetM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bJwZfZ/btsH4CIrfUe/AAAAAAAAAAAAAAAAAAAAACIV-7Exkj2QjTD_5xH66CVsoIH0YJtnGN-tcKlIgeZ8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hyMGULs3fo%2FOkEQ54glgm%2B1OetM%3D&quot;></span><figcaption>콰이어트 플레이스 : 첫째날 스틸컷</figcaption> </figure> </p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>개봉전 해당 게시글과 이전 콰이어트 플레이스 시리즈 글을 보시며, 남들보다 먼저 콰이어트 플레이스 3을 즐기실 수 있도록 알차게 준비했습니다. 그럼 영화 &lt;콰이어트 플레이스: 첫째 날&gt; 의 모든것, 시작하겠습니다. 콰이어트 플레이스: 첫째 날 예고편은 아래 링크를 통해 확인 가능합니다.</span></p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2024 하반기 해외 개봉예정영화&quot;>[2024년 하반기 해외 개봉예정영화 기대작 순위] 조커2 글래디에이터 2 데드풀 3 까지, 개봉일 공식 티저 예고편 총정리</a></span></p><p>개봉 후 <b><span style=&quot;background-color: #f3c000;&quot;>콰이어트 플레이스: 첫째 날 평점은 네이버 기준 8.12점</span></b>으로 확인됩니다. 이전 작품의 평점보단 낮은 점수를 기록하고 있음을 알 수. 있습니다. 인기 시리즈인 만큼 여러 상영관에서 예매 가능하니 영화관에서 해당 영화 콰이어트 플레이스: 첫째 날의 평점이 적합한지 확인해보시길 바랍니다.</p><blockquote style=&quot;background-color: #fcfcfc; text-align: left;&quot;> <h2 style=&quot;color: #000000;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>목 차<br/></b></span></h2> <ul style=&quot;list-style-type: circle;&quot;> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><span style=&quot;caret-color: #456771;&quot;><b>콰이어트 플레이스:첫째 날 스토리라인</b></span></span></li> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>주요 등장인물 및 배우</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>제작정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>쿠키 및 후속작 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>OTT 다시보기 보는곳 정보</b></span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #456771;&quot;><span style=&quot;caret-color: #456771;&quot;><b>글로 보는 영화, 줄거리 완벽 정리</b></span></span></span></li> </ul> </blockquote>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>콰이어트 플레이스: 첫째 날 (A Quiet Place: Day One) 은 \'콰이어트 플레이스\' 시리즈 세번째 작품, 스핀오프 프리퀄로, 첫 외계 생명체 침공 당시의 이야기를 다룹니다. 영화 제목 콰이어트 플레이스의 뜻은 영어 그대로 \'조용한 장소\'이며, 소리를 감지하여 인류를 사냥하는 외계 생명체로 인해 만들어진 환경을 의미합니다. <b><span style=&quot;background-color: #f3c000;&quot;>영화는 한국기준 2024년 6월 26일 개봉 예정</span></b>이며, 해외에서는 6월 28일 개봉 예정이고, </span><span style=&quot;font-family: \'Noto Serif KR\';&quot;>프랜차이즈의 전작들처럼 흥행을 기대하고 있습니다. 손익분기점은 아직 알려지지 않았습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1536&quot; data-origin-width=&quot;1768&quot;><span data-alt=&quot;콰이어트 플레이스 : 첫째날 스틸컷&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bJwZfZ/btsH4CIrfUe/AAAAAAAAAAAAAAAAAAAAACIV-7Exkj2QjTD_5xH66CVsoIH0YJtnGN-tcKlIgeZ8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hyMGULs3fo%2FOkEQ54glgm%2B1OetM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bJwZfZ/btsH4CIrfUe/AAAAAAAAAAAAAAAAAAAAACIV-7Exkj2QjTD_5xH66CVsoIH0YJtnGN-tcKlIgeZ8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hyMGULs3fo%2FOkEQ54glgm%2B1OetM%3D&quot;></span><figcaption>콰이어트 플레이스 : 첫째날 스틸컷</figcaption> </figure> </p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>개봉전 해당 게시글과 이전 콰이어트 플레이스 시리즈 글을 보시며, 남들보다 먼저 콰이어트 플레이스 3을 즐기실 수 있도록 알차게 준비했습니다. 그럼 영화 &lt;콰이어트 플레이스: 첫째 날&gt; 의 모든것, 시작하겠습니다. 콰이어트 플레이스: 첫째 날 예고편은 아래 링크를 통해 확인 가능합니다.</span></p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2024 하반기 해외 개봉예정영화&quot;>[2024년 하반기 해외 개봉예정영화 기대작 순위] 조커2 글래디에이터 2 데드풀 3 까지, 개봉일 공식 티저 예고편 총정리</a></span></p><p>개봉 후 <b><span style=&quot;background-color: #f3c000;&quot;>콰이어트 플레이스: 첫째 날 평점은 네이버 기준 8.12점</span></b>으로 확인됩니다. 이전 작품의 평점보단 낮은 점수를 기록하고 있음을 알 수. 있습니다. 인기 시리즈인 만큼 여러 상영관에서 예매 가능하니 영화관에서 해당 영화 콰이어트 플레이스: 첫째 날의 평점이 적합한지 확인해보시길 바랍니다.</p><blockquote style=&quot;background-color: #fcfcfc; text-align: left;&quot;> <h2 style=&quot;color: inherit;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>목 차<br/></b></span></h2> <ul style=&quot;list-style-type: circle;&quot;> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><span style=&quot;caret-color: #456771;&quot;><b>콰이어트 플레이스:첫째 날 스토리라인</b></span></span></li> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>주요 등장인물 및 배우</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>제작정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>쿠키 및 후속작 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>OTT 다시보기 보는곳 정보</b></span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #456771;&quot;><span style=&quot;caret-color: #456771;&quot;><b>글로 보는 영화, 줄거리 완벽 정리</b></span></span></span></li> </ul> </blockquote>'
     },
     {
       type: 'image',
@@ -28,6 +28,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>\'A Quiet Place: Day One\'는 뉴욕 시에서 벌어지는 외계 생명체 침공의 첫날을 배경으로 합니다. 주인공인 Sam(루피타 뇽오)은 외계 생명체가 침공하던 날 뉴욕을 방문한 후 생존을 위해 고군분투합니다. 외계 생명체는 초음파를 통해 소리를 감지하여 사람들을 사냥합니다.</span></p>'
     },
+    { type: 'image', src: '/images/post426_img1.jpg', alt: '콰이어트 플레이스 : 첫째날 스틸컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>Sam은 낯선 사람인 Eric(조셉 퀸)과 팀을 이루어 소리를 내지 않고 도시를 탈출하려 합니다. 이 과정에서 그들은 다양한 생존 전략을 사용하며 외계 생명체의 위협을 피하려 노력합니다. </span></p>'
@@ -50,6 +51,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>Sam (루피타 뇽오): 외계 생명체 침공 첫날 뉴욕에서 생존을 위해 싸우는 주인공.</span></p>'
     },
+    { type: 'image', src: '/images/post426_img2.jpg', alt: '콰이어트 플레이스 : 첫째날 스틸컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>Eric (조셉 퀸): Sam과 함께 생존을 위해 협력하는 낯선 사람.</span></p>'
@@ -68,15 +70,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;background-color: #01fa55;&quot;><span style=&quot;background-color: #ffffff; color: #000000;&quot;>콰이어트 플레이스 : 첫째날에 나오는 </span></span></b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;background-color: #01fa55;&quot;><span style=&quot;background-color: transparent; color: inherit;&quot;>콰이어트 플레이스 : 첫째날에 나오는 </span></span></b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;background-color: #01fa55;&quot;><span style=&quot;background-color: #ffffff; color: #000000;&quot;>반려 동물 고양이와 </span></span></b><b><span style=&quot;background-color: #01fa55;&quot;><span style=&quot;background-color: #ffffff; color: #000000;&quot;>함께 등장하여 </span></span></b><b><span style=&quot;background-color: #01fa55;&quot;><span style=&quot;background-color: #ffffff; color: #000000;&quot;>화제가 된 </span></span></b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;background-color: #01fa55;&quot;><span style=&quot;background-color: transparent; color: inherit;&quot;>반려 동물 고양이와 </span></span></b><b><span style=&quot;background-color: #01fa55;&quot;><span style=&quot;background-color: transparent; color: inherit;&quot;>함께 등장하여 </span></span></b><b><span style=&quot;background-color: #01fa55;&quot;><span style=&quot;background-color: transparent; color: inherit;&quot;>화제가 된 </span></span></b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;background-color: #01fa55;&quot;><span style=&quot;background-color: #ffffff; color: #000000;&quot;>루피타 뇽오 - 옆 조셉 퀸</span></span></b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b><span style=&quot;background-color: #01fa55;&quot;><span style=&quot;background-color: transparent; color: inherit;&quot;>루피타 뇽오 - 옆 조셉 퀸</span></span></b></span></p>'
     },
     {
       type: 'h2',
@@ -88,6 +90,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>감독: 마이클 사르노스키</span></p>'
     },
+    { type: 'image', src: '/images/post426_img3.jpg', alt: '콰이어트 플레이스 : 첫째날 주연배우', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>각본: 마이클 사르노스키와 존 크래신스키 공동 집필</span></p>'
@@ -115,6 +118,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;&quot;>개봉 후 확인 된 바로 콰이어트 플레이스 : 첫째날의 쿠키는 없습니다.</span></p>'
     },
+    { type: 'image', src: '/images/post426_img4.jpg', alt: '콰이어트 플레이스 : 첫째날 출연진 및 제작진', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>후속작 여부: 아직 후속작에 대한 공식 발표는 없지만, 시리즈의 인기를 고려할 때 후속작 제작 가능성이 높습니다.</span></p>'
@@ -129,6 +133,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>\'A Quiet Place\' 시리즈는 파라마운트+에서 스트리밍이 가능합니다.</span></p>'
     },
+    { type: 'image', src: '/images/post426_img5.jpg', alt: '콰이어트 플레이스 : 첫째날 스틸컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>\'A Quiet Place: Day One\'도 개봉 후 해당 플랫폼에서 제공될 가능성이 높습니다</span></p>'
@@ -143,6 +148,8 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>\'콰이어트 플레이스: 데이 원\'은 \'콰이어트 플레이스\' 시리즈의 프리퀄로, 외계 생명체가 처음으로 지구를 침공한 날의 이야기를 다룹니다. 영화는 뉴욕 시를 배경으로 하며, 첫 침공 당시 도시의 혼란과 공포를 생생하게 묘사합니다. 주인공 Sam(루피타 뇽오)은 뉴욕에 머무르던 중 외계 생명체의 침공을 겪게 됩니다. 이 생명체들은 초음파를 통해 소리를 감지하여 사람들을 사냥하는 특징을 가지고 있습니다.</span></p>'
     },
+    { type: 'image', src: '/images/post426_img7.jpg', alt: '콰이어트 플레이스 : 첫째날 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post426_img6.jpg', alt: '콰이어트 플레이스 : 첫째날 스틸컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1570&quot; data-origin-width=&quot;1272&quot;><span data-alt=&quot;콰이어트 플레이스 : 첫째날 스틸컷&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/psc7a/btsH3lOr0Xk/AAAAAAAAAAAAAAAAAAAAAN7ObepPX50Q0nqXUeRFB-TbnUUKNwUh9jy3X_GxfVRr/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uUSy0uVWiGJcENhnV5WCcfiC%2Bzw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/psc7a/btsH3lOr0Xk/AAAAAAAAAAAAAAAAAAAAAN7ObepPX50Q0nqXUeRFB-TbnUUKNwUh9jy3X_GxfVRr/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uUSy0uVWiGJcENhnV5WCcfiC%2Bzw%3D&quot;></span><figcaption>콰이어트 플레이스 : 첫째날 스틸컷</figcaption> </figure> </p>'
@@ -220,7 +227,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<ul style=&quot;list-style-type: disc;&quot;> <li style=&quot;color: #000000;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;https://en.wikipedia.org/wiki/A_Quiet_Place:_Day_One&quot; title=&quot;위키피디아&quot;>A Quiet Place: Day One - Wikipedia</a></span></li> <li style=&quot;color: #000000;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;https://www.space.com/a-quiet-place-day-one-alien-invasion-trailer-paramount&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;space.com&quot;>A Quiet Place: Day One - Space.com</a></span></li> </ul>'
+      html: '<ul style=&quot;list-style-type: disc;&quot;> <li style=&quot;color: inherit;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;https://en.wikipedia.org/wiki/A_Quiet_Place:_Day_One&quot; title=&quot;위키피디아&quot;>A Quiet Place: Day One - Wikipedia</a></span></li> <li style=&quot;color: inherit;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><a href=&quot;https://www.space.com/a-quiet-place-day-one-alien-invasion-trailer-paramount&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;space.com&quot;>A Quiet Place: Day One - Space.com</a></span></li> </ul>'
     },
     {
       type: 'ending',

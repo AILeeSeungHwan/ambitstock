@@ -13,7 +13,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>어벤져스 둠스데이 결말 로다주의 닥터 둠, 아이언맨이 될 수 있다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>어벤져스 둠스데이 시리즈 마지막 5화, 저번 화에 이어서</p><p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>로버트 다우니 주니어의 닥터 둠이 아이언맨이 될 수 있을 것인가</span></b>에 대해 원작 코믹스 내용을 바탕으로 알아보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>어벤져스 둠스데이 결말 로다주의 닥터 둠, 아이언맨이 될 수 있다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>어벤져스 둠스데이 시리즈 마지막 5화, 저번 화에 이어서</p><p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>로버트 다우니 주니어의 닥터 둠이 아이언맨이 될 수 있을 것인가</span></b>에 대해 원작 코믹스 내용을 바탕으로 알아보겠습니다.</p>'
     },
     {
       type: 'image',
@@ -54,32 +54,37 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>현재 모든 정황은 로버트 다우니 주니어가 2027년 개봉하는 시크릿 워즈에서 닥터 둠의 신분으로 아이언맨이 되어 활약</b>하<b>고, 엔드 게임에서의 아이언맨처럼 길이 남을 명대사를 남기며 마블 멀티버스 사가 페이지 6를 화려하게 마무리하는 그림을 그리고 있습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>현재 모든 정황은 로버트 다우니 주니어가 2027년 개봉하는 시크릿 워즈에서 닥터 둠의 신분으로 아이언맨이 되어 활약</b>하<b>고, 엔드 게임에서의 아이언맨처럼 길이 남을 명대사를 남기며 마블 멀티버스 사가 페이지 6를 화려하게 마무리하는 그림을 그리고 있습니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이러한 역할이 아니고서야 마블영화의 상징과도 같은 아이언 맨 로버트 다우니 주니어가 위험부담을 감수하고 어벤져스 메인빌런으로 돌아올 일은 없기 때문이죠.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이러한 역할이 아니고서야 마블영화의 상징과도 같은 아이언 맨 로버트 다우니 주니어가 위험부담을 감수하고 어벤져스 메인빌런으로 돌아올 일은 없기 때문이죠.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아무리 가면을 쓰고 닥터둠을 연기한다 하더라도 \'나 아이언 맨 아니다\' 하기엔 <b>로버트 다우니 주니어는 마블의 아이언맨 그 자체</b>입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아무리 가면을 쓰고 닥터둠을 연기한다 하더라도 \'나 아이언 맨 아니다\' 하기엔 <b>로버트 다우니 주니어는 마블의 아이언맨 그 자체</b>입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>기다릴 일만 남았습니다. 앞으로 2026년 개봉 할 둠스데이의 닥터 둠, 그리고 2027년 개봉할 시크릿 워즈에서 아이언 맨으로 다시 등장할 로버트 다우니 주니어를.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>기다릴 일만 남았습니다. 앞으로 2026년 개봉 할 둠스데이의 닥터 둠, 그리고 2027년 개봉할 시크릿 워즈에서 아이언 맨으로 다시 등장할 로버트 다우니 주니어를.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이것으로 어벤져스5 둠스데이 시리즈 5부작을 마칩니다. </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이것으로 어벤져스5 둠스데이 시리즈 5부작을 마칩니다. </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>감사합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>감사합니다.</p>'
     },
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;>2024년 하반기부터</p>'
     },
+    ,
+    { type: 'image', src: '/images/post358_img4.jpg', alt: '닥터둠과 토니 스타크', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post358_img3.jpg', alt: '닥터둠 아이언맨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post358_img2.jpg', alt: '닥터둠 아이언맨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post358_img1.jpg', alt: '어벤져스 5 둠스데이 시리즈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;>2025년-2027년 마블 개봉 예정작 총정리</p>'

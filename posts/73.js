@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>개봉일:</b> 2025년 9월 24일</li> <li><b>국가:</b> 미국, 영국</li> <li><b>장르:</b> 드라마</li> <li><b>상영시간:</b> 117분</li> <li><b>등급:</b> 15세 이상 관람가</li> <li><b>감독:</b> 엘렌 커러스</li> <li><b>출연:</b> 케이트 윈슬렛, 알렉산더 스카스가드, 마리옹 꼬띠아르, 앤디 샘버그</li> </ul>'
     },
+    { type: 'image', src: '/images/post73_img1.jpg', alt: '영화 리 밀러: 카메라를 든 여자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;681&quot; data-origin-width=&quot;1002&quot;><span data-alt=&quot;영화 리 밀러: 카메라를 든 여자&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/2gJEb/btsQFovRAxn/AAAAAAAAAAAAAAAAAAAAACYuvrmh1HwU3ycOvAcVAyD0PGIOL3vK8k-FWzmSdFJ7/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=30r5wkHFh2KqzJtbGtWbim1uiS0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/2gJEb/btsQFovRAxn/AAAAAAAAAAAAAAAAAAAAACYuvrmh1HwU3ycOvAcVAyD0PGIOL3vK8k-FWzmSdFJ7/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=30r5wkHFh2KqzJtbGtWbim1uiS0%3D&quot;></span><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
@@ -37,6 +38,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>Marta Medina (mundoCine)</b> — “리 밀러 같은 복합적인 인물은 더 깊이 있는 접근이 필요했다”며 2/5 낮은 평점.</li> <li><b>Clotilde Chinnici (The People’s Movies)</b> — “서사가 다소 단조롭지만, 영화가 주는 강렬한 울림은 여전하다” 3.5/5.</li> <li><b>Anthony Whyte (The Movie Blog)</b> — “전쟁·예술·정체성을 시각적으로 매혹적으로 풀어낸 감정적 탐구”라며 7.7/10.</li> </ul>'
     },
+    { type: 'image', src: '/images/post73_img2.jpg', alt: '영화 리 밀러: 카메라를 든 여자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;460&quot; data-origin-width=&quot;692&quot;><span data-alt=&quot;영화 리 밀러: 카메라를 든 여자&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bBPAdV/btsQGSCK7Nm/AAAAAAAAAAAAAAAAAAAAAHK-UdzXJNEa9Rg9l0DLbzWPoj9brEmqddhPKymlJF_3/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ecm86rY9Bwq%2FvpTLZrAIgQvPueU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bBPAdV/btsQGSCK7Nm/AAAAAAAAAAAAAAAAAAAAAHK-UdzXJNEa9Rg9l0DLbzWPoj9brEmqddhPKymlJF_3/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ecm86rY9Bwq%2FvpTLZrAIgQvPueU%3D&quot;></span><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
@@ -59,6 +61,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>Pete S</b> — “잘 만들어진 전기 영화. 케이트 윈슬렛의 연기가 돋보였고, 다만 중반부는 조금 지루했다.”</li> <li><b>Stephanie J</b> — “사진집과 똑같이 구현된 장면들이 인상적. 올해 최고의 영화 중 하나.”</li> <li><b>Frans B</b> — “엘렌 커러스의 연출이 빛났다. 감각적인 촬영과 진정성 있는 연기. 잠재적으로 명작.”</li> </ul>'
     },
+    { type: 'image', src: '/images/post73_img3.jpg', alt: '영화 리 밀러: 카메라를 든 여자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;460&quot; data-origin-width=&quot;692&quot;><span data-alt=&quot;영화 리 밀러: 카메라를 든 여자&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/yes5x/btsQEK7jMfS/AAAAAAAAAAAAAAAAAAAAAC8qkt2zdiSQY-3vNs3A0A2JOke4K8GS5UfFQwiOkYjj/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8fz6IaarzriFb8kBBy%2FGU5zVCEU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/yes5x/btsQEK7jMfS/AAAAAAAAAAAAAAAAAAAAAC8qkt2zdiSQY-3vNs3A0A2JOke4K8GS5UfFQwiOkYjj/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8fz6IaarzriFb8kBBy%2FGU5zVCEU%3D&quot;></span><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
@@ -98,6 +101,10 @@ const post = {
       type: 'body',
       html: '<p><i>리 밀러: 카메라를 든 여자</i>는 평론가들에게는 호불호가 갈렸지만, <b>대부분의 관객 평가에서는 높은 만족도</b>를 얻고 있습니다. 무엇보다 케이트 윈슬렛의 연기에 대한 찬사가 압도적으로 많아, 그녀의 또 다른 커리어 하이라이트가 될 가능성이 큽니다.</p>'
     },
+    { type: 'image', src: '/images/post73_img7.jpg', alt: '영화 리 밀러: 카메라를 든 여자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post73_img6.jpg', alt: '영화 리 밀러: 카메라를 든 여자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post73_img5.jpg', alt: '영화 리 밀러: 카메라를 든 여자', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post73_img4.jpg', alt: '영화 리 밀러: 카메라를 든 여자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;460&quot; data-origin-width=&quot;692&quot;><span data-alt=&quot;영화 리 밀러: 카메라를 든 여자&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bFHchF/btsQFYReR4n/AAAAAAAAAAAAAAAAAAAAABDNMRoNQgBXcUkEXRrB03gp3_p_NeU19gU92j2MamiP/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=coj5mAWkOGwmUBE0rPkOec969kM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bFHchF/btsQFYReR4n/AAAAAAAAAAAAAAAAAAAAABDNMRoNQgBXcUkEXRrB03gp3_p_NeU19gU92j2MamiP/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=coj5mAWkOGwmUBE0rPkOec969kM%3D&quot;></span><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'

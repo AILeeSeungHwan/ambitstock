@@ -100,6 +100,13 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post317_img6.jpg', alt: '터미네이터 제로 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post317_img5.jpg', alt: '터미네이터 제로 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post317_img4.jpg', alt: '터미네이터 제로 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post317_img3.jpg', alt: '터미네이터 제로 결말 해석 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post317_img2.jpg', alt: '터미네이터 제로 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post317_img1.jpg', alt: '터미네이터 제로 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>함께 보면 좋은 컨텐츠</b></span></p>'

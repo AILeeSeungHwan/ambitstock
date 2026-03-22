@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>개봉일:</b> 2025년 9월 24일</li> <li><b>국가:</b> 이탈리아, 프랑스</li> <li><b>장르:</b> 드라마, 로맨스, 멜로</li> <li><b>상영시간:</b> 137분</li> <li><b>등급:</b> 청소년 관람불가</li> <li><b>감독:</b> 파올로 소렌티노</li> <li><b>출연:</b> 셀레스테 달라 포르타, 게리 올드만, 스테파노 산드렐리, 실비오 올란도</li> </ul>'
     },
+    { type: 'image', src: '/images/post72_img1.jpg', alt: '영화 파르테노페', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section2',
@@ -33,6 +34,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>Guillermo Troncoso (Screen Realm)</b> — “시각적 화려함은 있지만 감정적 중심이 부족하다” (3/5).</li> <li><b>Clotilde Chinnici (Movies We Texted About)</b> — “향수 광고 같은 남성 시선에 치우쳤다”며 혹평.</li> <li><b>Maxance Vincent (Film Speak)</b> — “삶의 자리를 오해해도 괜찮다는 희망을 담은 여운 있는 작품” (A-).</li> </ul>'
     },
+    { type: 'image', src: '/images/post72_img2.jpg', alt: '영화 파르테노페', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>Yasser Medina (Cinefilia)</b> — “겉멋든 미학 속 빈 서사, 공허한 세이렌 송 같다” (4/10).</li> <li><b>John Serba (Decider)</b> — “의미 없는 만남들의 나열, 산만한 전개”라며 부정적 평가.</li> <li><b>Steve Morrissey (Radio Times)</b> — “주연 셀레스테 달라 포르타가 매혹적으로 캐릭터를 끌고 간다” (3/5).</li> </ul>'
@@ -55,6 +57,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>Nicolas J</b> — “결함이 있지만, 반쯤 기억나는 꿈처럼 오래 남는다.”</li> <li><b>익명 관객</b> — “겉은 화려하지만 내용은 텅 빈 에클레어 같다. 주인공은 결국 사랑 없이 늙어간다.”</li> <li><b>Mary J</b> — “<i>그레이트 뷰티</i>의 아류처럼 느껴졌다. 너무 길고 반복적.”</li> </ul>'
     },
+    { type: 'image', src: '/images/post72_img3.jpg', alt: '영화 파르테노페', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>Trebor T</b> — “소렌티노 팬이지만 이번 작품은 가식적으로 느껴졌다. 주연 배우 캐스팅이 아쉬움.”</li> <li><b>Christophe M</b> — “소렌티노 최고의 영화 중 하나. 멜랑콜리하면서도 풍부한 영상미.”</li> <li><b>Andrew F</b> — “나폴리를 찬미하는 아름다운 오마주. 신화와 현실을 엮어낸 점이 좋았다.”</li> </ul>'
@@ -74,6 +77,10 @@ const post = {
       type: 'body',
       html: '<p><i>파르테노페</i>는 파올로 소렌티노 감독의 특유의 화려한 영상미와 나폴리의 신화적 분위기를 전면에 내세운 작품입니다. 그러나 <b>스토리의 완성도와 내러티브의 힘</b>에서는 평단과 관객 모두 아쉬움을 드러냈습니다. 주연 셀레스테 달라 포르타의 매력과 나폴리의 풍광은 인상적이었지만, 감정적 몰입은 부족하다는 지적이 많았습니다.</p>'
     },
+    { type: 'image', src: '/images/post72_img7.jpg', alt: '영화 파르테노페 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post72_img6.jpg', alt: '영화 파르테노페', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post72_img5.jpg', alt: '영화 파르테노페', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post72_img4.jpg', alt: '영화 파르테노페', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>결과적으로 위 로튼토마토 결과물처럼, 처참한 평점을 기록중입니다. 몇몇 긍정적인 리뷰들이 보이기는 하나, 큰 기대감을 얻기엔 어려울 듯 한 점수입니다.</p>'

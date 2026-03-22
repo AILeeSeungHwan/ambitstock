@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000; color: #333333;&quot;><span style=&quot;background-color: #ffffff;&quot;>천만관객영화 암살 타짜의 최동훈감독의 외계인 2부가 개봉하였습니다. 외계인 2부 개봉 전 걱정과는 다르게, 개봉 첫날 반응은 <span style=&quot;color: #000000;&quot;><b>8.7/10 평점으로, 외계인 1부의 6.84점보다 월등히 높은 평점</b></span>을 기록중입니다. 잠시동안이지만 오전엔 9점대의 평점도 기록하며 좋은 성적을 내고 있는 중입니다. 외계인 1부는 국내에선 혹평이지만 해외에선 상당히 좋은 평을 받았습니다.</span></span></p><p style=&quot;color: #333333; text-align: center;&quot;><span style=&quot;color: #666666;&quot;>영화 외계인 1부 해외 반응 및 평점, 손익분기점이 궁금하신 분들! 이곳에서 확인해보세요!</span></p><p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;2부포스터-김태리.JPG&quot; data-origin-height=&quot;406&quot; data-origin-width=&quot;738&quot;><span data-alt=&quot;영화 외계인 2부 배우 김태리&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/vo1Nw/btsDhBbacPU/AAAAAAAAAAAAAAAAAAAAANVGuUGjCDQ7fxlnM4Z8TubCYa2GOE9A-6YS3Ghf0T77/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CrWFoIjJlbSUFfMBvJg%2FW4k8lfE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/vo1Nw/btsDhBbacPU/AAAAAAAAAAAAAAAAAAAAANVGuUGjCDQ7fxlnM4Z8TubCYa2GOE9A-6YS3Ghf0T77/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CrWFoIjJlbSUFfMBvJg%2FW4k8lfE%3D&quot;></span><figcaption>영화 외계인 2부 배우 김태리</figcaption> </figure> </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;>천만관객영화 암살 타짜의 최동훈감독의 외계인 2부가 개봉하였습니다. 외계인 2부 개봉 전 걱정과는 다르게, 개봉 첫날 반응은 <span style=&quot;color: inherit;&quot;><b>8.7/10 평점으로, 외계인 1부의 6.84점보다 월등히 높은 평점</b></span>을 기록중입니다. 잠시동안이지만 오전엔 9점대의 평점도 기록하며 좋은 성적을 내고 있는 중입니다. 외계인 1부는 국내에선 혹평이지만 해외에선 상당히 좋은 평을 받았습니다.</span></span></p><p style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;color: #666666;&quot;>영화 외계인 1부 해외 반응 및 평점, 손익분기점이 궁금하신 분들! 이곳에서 확인해보세요!</span></p><p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;2부포스터-김태리.JPG&quot; data-origin-height=&quot;406&quot; data-origin-width=&quot;738&quot;><span data-alt=&quot;영화 외계인 2부 배우 김태리&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/vo1Nw/btsDhBbacPU/AAAAAAAAAAAAAAAAAAAAANVGuUGjCDQ7fxlnM4Z8TubCYa2GOE9A-6YS3Ghf0T77/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CrWFoIjJlbSUFfMBvJg%2FW4k8lfE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/vo1Nw/btsDhBbacPU/AAAAAAAAAAAAAAAAAAAAANVGuUGjCDQ7fxlnM4Z8TubCYa2GOE9A-6YS3Ghf0T77/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CrWFoIjJlbSUFfMBvJg%2FW4k8lfE%3D&quot;></span><figcaption>영화 외계인 2부 배우 김태리</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #ffffff;&quot;><span style=&quot;color: #333333;&quot;>외계인 2부는 현재 아이맥스와 4DX 모두 상영중이며, 저는 오늘 판교 4DX로 본 후 따끈따끈한 글을 작성하고 있는 중입니다. 영화적인 요소만 보았을 때 훌륭한<span> CG와 </span>연출, 설득력있는 캐릭터 간의 관계, 1부에서 뿌려놓은 떡밥을 아주 완벽하게  회수하여 만족스러운 결말까지 이어질 수 있었습니다. </span></span><i><span style=&quot;background-color: #ffffff; color: #333333; text-align: start;&quot;>(※ 쿠키는 없으니 기다리지 않으셔도 됩니다 <i><span style=&quot;background-color: #ffffff; color: #333333; text-align: start;&quot;>※</span></i>) </span></i></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: inherit;&quot;>외계인 2부는 현재 아이맥스와 4DX 모두 상영중이며, 저는 오늘 판교 4DX로 본 후 따끈따끈한 글을 작성하고 있는 중입니다. 영화적인 요소만 보았을 때 훌륭한<span> CG와 </span>연출, 설득력있는 캐릭터 간의 관계, 1부에서 뿌려놓은 떡밥을 아주 완벽하게  회수하여 만족스러운 결말까지 이어질 수 있었습니다. </span></span><i><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>(※ 쿠키는 없으니 기다리지 않으셔도 됩니다 <i><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>※</span></i>) </span></i></p>'
     },
     {
       type: 'body',
@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #ffffff;&quot;><span style=&quot;color: #333333;&quot;>끊임없는 웃음유발, 웃고 웃고 웃다 정신 차리니 2시간이 훌쩍 지나갔고, 더군다나 4DX의 화려한(?) 흔들림과 장풍에 맞춰 흐르는 바람 덕분에, 밤시간대 살짝 걸친 와인과 맥주에도 졸릴 틈 없었습니다.</span></span><span style=&quot;background-color: #ffffff;&quot;><span style=&quot;color: #333333;&quot;></span></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: inherit;&quot;>끊임없는 웃음유발, 웃고 웃고 웃다 정신 차리니 2시간이 훌쩍 지나갔고, 더군다나 4DX의 화려한(?) 흔들림과 장풍에 맞춰 흐르는 바람 덕분에, 밤시간대 살짝 걸친 와인과 맥주에도 졸릴 틈 없었습니다.</span></span><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: inherit;&quot;></span></span></p>'
     },
     {
       type: 'body',
@@ -31,19 +31,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #ffffff;&quot;><span style=&quot;color: #333333;&quot;>개인적으로 최동훈 감독님의 영화 연출 스타일을 좋아하는 입장에서, 이전 작품인 &lt;전우치&gt;와<span> </span><span style=&quot;color: #333333;&quot;>비슷한<span><span> </span>풍의 영화를 또 한번 만들어주심에 감사하는 마음과 감동의 눈물을 흘리며 보았습니다. </span></span></span></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: inherit;&quot;>개인적으로 최동훈 감독님의 영화 연출 스타일을 좋아하는 입장에서, 이전 작품인 &lt;전우치&gt;와<span> </span><span style=&quot;color: inherit;&quot;>비슷한<span><span> </span>풍의 영화를 또 한번 만들어주심에 감사하는 마음과 감동의 눈물을 흘리며 보았습니다. </span></span></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #ffffff;&quot;><span style=&quot;color: #333333;&quot;><span style=&quot;color: #333333;&quot;><span>전우치를 보신 분들은 아시겠지만<span> </span></span></span></span></span><span style=&quot;background-color: #ffffff;&quot;>지금 보아도 세련된 연출을 보여주며, 특히나 일부러 유도한 것 같은 과장된 연극톤은 영화의 재미를 더욱 살리는 요소 중에 하나였습니다. 이번 외계인 2부 또한 같은 결의 작품인 만큼 상당한 재미를 보장할 테니 꼭 영화관에서 확인해 보시길 바랍니다. <b>외계인 2부 개봉에 대해, 아래와 같이 해외에서도 기대하는 반응이 있으니!</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;color: inherit;&quot;><span>전우치를 보신 분들은 아시겠지만<span> </span></span></span></span></span><span style=&quot;background-color: transparent;&quot;>지금 보아도 세련된 연출을 보여주며, 특히나 일부러 유도한 것 같은 과장된 연극톤은 영화의 재미를 더욱 살리는 요소 중에 하나였습니다. 이번 외계인 2부 또한 같은 결의 작품인 만큼 상당한 재미를 보장할 테니 꼭 영화관에서 확인해 보시길 바랍니다. <b>외계인 2부 개봉에 대해, 아래와 같이 해외에서도 기대하는 반응이 있으니!</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><i>24년 1월 11일 19시 Raddit에서 발췌한 글입니다. </i></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><i>24년 1월 11일 19시 Raddit에서 발췌한 글입니다. </i></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이전<b><span style=&quot;background-color: #f3c000; color: #000000;&quot;> <a href=&quot;https://ambitstock.com/8&quot; style=&quot;background-color: #f3c000; color: #000000;&quot;>외계인1부 게시글</a></span></b>에서 확인하신 것과 같이, 해외 관객은 외계인 1부 또한 재밌게 시청하였음을 알 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이전<b><span style=&quot;background-color: #f3c000; color: inherit;&quot;> <a href=&quot;https://ambitstock.com/8&quot; style=&quot;background-color: #f3c000; color: inherit;&quot;>외계인1부 게시글</a></span></b>에서 확인하신 것과 같이, 해외 관객은 외계인 1부 또한 재밌게 시청하였음을 알 수 있습니다.</p>'
     },
     {
       type: 'body',
@@ -59,11 +59,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>2주차에는 최동훈 감독님, 배우 류준열 와 김태리, 김우빈 김의성 그리고 염정아 배우님이 참여하시고,</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>2주차에는 최동훈 감독님, 배우 류준열 와 김태리, 김우빈 김의성 그리고 염정아 배우님이 참여하시고,</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>장소는 롯데시네마 김포공항, 메가박스 목동, CGV 영등포, CGV 용산아이파크몰, 씨네 Q 신도림에서 진행합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>장소는 롯데시네마 김포공항, 메가박스 목동, CGV 영등포, CGV 용산아이파크몰, 씨네 Q 신도림에서 진행합니다.</p>'
     },
     {
       type: 'body',
@@ -91,8 +91,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #ffffff; color: #666666;&quot;><b>조커 2: 폴리 아 되 알아보기</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent; color: #666666;&quot;><b>조커 2: 폴리 아 되 알아보기</b></span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post462_img11.jpg', alt: '봉준호 감독 미키17 개봉일 티저 예고편 및 기생충 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post462_img10.jpg', alt: '조커 2: 폴리 아 되 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post462_img9.jpg', alt: '최민식 김고은 주연 영화 &amp;lt;파묘&amp;gt; 개봉일 및 예고편 해외반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post462_img8.jpg', alt: '영화 외계인 2부 2주차 무대인사 일정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post462_img7.jpg', alt: '영화 외계인 2부 1주차 무대인사 일정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post462_img6.jpg', alt: '영화 외계인2 배우 김태리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post462_img5.jpg', alt: '외계인 2부 개봉 해외반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post462_img4.jpg', alt: '영화 외계인 개그콤비 도사 2인방', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post462_img3.jpg', alt: '영화 외계인 2부 배우 류준열', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post462_img2.jpg', alt: '영화 외계인 2부 배우 김태리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post462_img1.jpg', alt: '영화 외계인 1부 해외 반응 및 평점&amp;#44; 손익분기점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;><b><span style=&quot;color: #666666;&quot;> 봉준호 감독 미키17 개봉일 티저 예고편 및 기생충 평점 </span></b></p>'

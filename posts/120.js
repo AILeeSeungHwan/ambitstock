@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>영화 더 킬러 죽음의 여왕이 넷플릭스 인기 순위 1위를 기록하고 있습니다.</b></p>'
     },
+    { type: 'image', src: '/images/post120_img1.jpg', alt: '영화 더 킬러 죽음의 여왕', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이번 포스팅에서는 더 킬러 죽음의 여왕의 해외 로튼 토마토 평론가 평점과 반응 후기를 바탕으로 볼지말지 정해드리겠습니다.</p>'
@@ -37,6 +38,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post120_img2.jpg', alt: '더 킬러: 죽음의 여왕 평점 로튼 관람평, 이 영화 꼭 보셔야 겠어요?', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-drama-recommend-netflix/',
@@ -60,11 +62,12 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>철두철미한 킬러가 어떤 살인 임무를 중도에 포기해 버린다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>철두철미한 킬러가 어떤 살인 임무를 중도에 포기해 버린다. </span></p>'
     },
+    { type: 'image', src: '/images/post120_img3.jpg', alt: '더 킬러: 죽음의 여왕 평점 로튼 관람평, 이 영화 꼭 보셔야 겠어요?', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>그 뒤로 몸담았던 조직에 쫓기던 그녀는 악착같은 경찰과 만나고, 동시에 자신의 과거와 대면한다.</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>그 뒤로 몸담았던 조직에 쫓기던 그녀는 악착같은 경찰과 만나고, 동시에 자신의 과거와 대면한다.</span></p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -75,8 +78,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>더 킬러 죽음의 여왕 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>더 킬러 죽음의 여왕 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post120_img4.jpg', alt: '더 킬러: 죽음의 여왕', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 58%, 관객 평점 51%입니다.</b></span></p>'
@@ -95,6 +99,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>더 킬러: 죽음의 여왕 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post120_img11.jpg', alt: '더 킬러: 죽음의 여왕', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post120_img10.jpg', alt: '더 킬러: 죽음의 여왕', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post120_img9.jpg', alt: '더 킬러: 죽음의 여왕', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post120_img8.jpg', alt: '더 킬러: 죽음의 여왕', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post120_img7.jpg', alt: '더 킬러: 죽음의 여왕', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post120_img6.jpg', alt: '더 킬러: 죽음의 여왕 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post120_img5.jpg', alt: '더 킬러: 죽음의 여왕', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Jacob Oller - 평점 없음</b><br>존 우 감독의 느슨한 리메이크인 &lt;더 킬러 죽음의 여왕&gt;은 예상보다 더 강하게 싸우지만 결국 진리의 법칙에 의해 무너진다. 범죄는 결코 보상을 받지 않으며, 같은 총알을 두 번 쏠 수 없다는 것처럼.</br></p>'

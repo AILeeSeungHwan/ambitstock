@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li>요금제: 베이식 7,900원 / 스탠다드 10,900원 / 프리미엄 13,900원</li> <li>할인 혜택: SKT 고객 데이터 프리, 제휴카드 3천~5천 원 할인</li> <li>특징: 지상파·예능·드라마 강점</li> </ul>'
     },
+    { type: 'image', src: '/images/post60_img1.jpg', alt: '2025 OTT 추천 점유율 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>웨이브는 한국 예능과 드라마를 좋아하는 분께 추천할 만해요. 다만 콘텐츠 다양성은 제한적이라 5위로 선정했습니다.</p>'
@@ -37,6 +38,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li>요금제: 쿠팡 와우 멤버십 4,990원 (OTT 포함)</li> <li>할인 혜택: 와우 멤버십 무료체험 / 쿠팡 카드 캐시백</li> <li>특징: EPL·스포츠 중계 최강자</li> </ul>'
     },
+    { type: 'image', src: '/images/post60_img2.jpg', alt: '5위 웨이브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>쿠팡플레이는 사실상 와우 멤버십 보너스 혜택에 가까워요. 5천 원대 가격으로 OTT + 무료배송 + 음악까지 가능하다는 점에서 가성비는 최고입니다.</p>'
@@ -51,6 +53,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li>요금제: 베이식 9,500원 / 스탠다드 13,900원 / 프리미엄 17,000원</li> <li>할인 혜택: KT·LG U+ 제휴 시 20~30% 할인</li> <li>특징: 한국 드라마·예능 + 파라마운트+ 콘텐츠 제공</li> </ul>'
     },
+    { type: 'image', src: '/images/post60_img3.jpg', alt: '4위 쿠팡플레이', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>티빙은 국내 제작 드라마와 예능을 좋아한다면 필수 OTT예요. 통신사 제휴 할인까지 적용하면 <b>월 1만 원 이하</b>로 스탠다드를 쓸 수 있어, 가격 대비 만족도가 높습니다.</p>'
@@ -66,6 +69,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li>요금제: 베이식(광고형) 6,500원 / 스탠다드 11,900원 / 프리미엄 15,900원</li> <li>할인 혜택: 연간 결제 시 16% 할인, 통신사 제휴 결합 할인</li> <li>특징: 마블·픽사·스타워즈 독점</li> </ul>'
     },
+    { type: 'image', src: '/images/post60_img4.jpg', alt: '3위 티빙', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>디즈니플러스는 <b>연간 결제 할인</b>이 있다는 점이 강점이에요. 마블·픽사 팬이라면 무조건 가치 있는 선택이고, 통신사 결합까지 적용하면 월 부담을 크게 낮출 수 있습니다.</p>'
@@ -85,6 +89,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li>요금제: 광고형 5,500원 / 스탠다드 13,500원 / 프리미엄 17,000원</li> <li>할인 혜택: 통신사 결합(최대 25%), 카드 캐시백, 가족 공유 시 1인당 4천 원대</li> <li>특징: 글로벌 콘텐츠 + 추천 알고리즘 최강자</li> </ul>'
     },
+    { type: 'image', src: '/images/post60_img5.jpg', alt: '2025 OTT 추천 점유율 순위 TOP5 - 넷플릭스부터 쿠팡플레이 웨이브까지(요금제·할인 혜택)', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>넷플릭스는 여전히 1위입니다. 비싸다고 생각할 수 있지만, 통신사·카드 할인과 가족 공유까지 활용하면 실제 부담은 훨씬 줄어듭니다. 특히 KT ‘넷플릭스 초이스’ 상품은 <b>프리미엄 요금제를 무료</b>로 제공해 가장 큰 혜택을 줍니다.</p>'
@@ -104,6 +109,7 @@ const post = {
       type: 'body',
       html: '<p>2025년 OTT 시장은 <b>할인 혜택과 가격 경쟁</b>이 가장 큰 관전 포인트예요. 순위를 정리하면, <b>5위 웨이브 → 4위 쿠팡플레이 → 3위 티빙 → 2위 디즈니플러스 → 1위 넷플릭스</b>입니다. 여러 OTT를 쓰고 있다면, <b>통신사 제휴 + 카드 할인 + 가족 공유</b> 조합으로 연간 수십만 원을 아낄 수 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post60_img6.jpg', alt: '1위 넷플릭스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section7',

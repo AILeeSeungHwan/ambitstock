@@ -72,6 +72,14 @@ const post = {
       type: 'body',
       html: '<p>이전 작품들에서 보여준 탄탄한 연기력으로 새로운 정진수 캐릭터에 깊이를 더할 것으로 기대되지만, 지난 시즌에서 유아인이 보여준 연기력을 뛰어넘는 존재감을 보여줄지에 대해서는 지옥 시즌 2 공개 후 확인 해보아야겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post273_img7.jpg', alt: '지옥 시즌 2 김성철', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post273_img6.jpg', alt: '지옥 시즌 2 김성철', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post273_img5.jpg', alt: '지옥 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post273_img4.jpg', alt: '지옥 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post273_img3.jpg', alt: '지옥 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post273_img2.jpg', alt: '지옥 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post273_img1.jpg', alt: '지옥 2 김성철', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

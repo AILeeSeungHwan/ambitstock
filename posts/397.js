@@ -545,6 +545,22 @@ const post = {
       type: 'body',
       html: '<p>아마도 내가 기대한 것이 너무 높았던 것 같습니다.<br/><br/>줄거리는 단순할 수 없었습니다. 반전이 계속해서 이어지고, 대부분이 비현실적인 반전입니다.<br/><br/>최고의 캐스팅과 중간 정도의 딱딱한 연기.<br/><br/>솔직히 3화까지 인내심을 갖고 봐야 했다고 고백해야 하지만, 3화까지 보고 난 후에 실망감을 표현해야 했습니다. 높은 평점을 보고 나서 실망을 표출하지 않을 수 없었습니다. 만약 3화까지 본 것만으로 점수를 준다면 8점 만점에 3점을 주겠습니다.<br/><br/>넷플릭스는 양보다 질을 신경 써야 합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post397_img15.jpg', alt: '넷플릭스 드라마 돌풍 해외 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img14.jpg', alt: '넷플릭스 드라마 돌풍 해외 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img13.jpg', alt: '넷플릭스 드라마 돌풍 해외 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img12.jpg', alt: '넷플릭스 드라마 돌풍 해외 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img11.jpg', alt: '넷플릭스 드라마 돌풍 해외 평점 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img10.jpg', alt: '넷플릭스 드라마 돌풍 해외 평점 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img9.jpg', alt: '넷플릭스 드라마 돌풍 해외 평점 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img8.jpg', alt: '넷플릭스 드라마 돌풍 해외 평점 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img7.jpg', alt: '넷플릭스 드라마 돌풍 해외 평점 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img6.jpg', alt: '넷플릭스 드라마 돌풍 해외 평점 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img5.jpg', alt: '넷플릭스 드라마 돌풍 해외 평점 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img4.jpg', alt: '넷플릭스 드라마 돌풍 해외 평점 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img3.jpg', alt: '넷플릭스 드라마 돌풍 해외 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img2.jpg', alt: '넷플릭스 드라마 돌풍 인물관계도', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post397_img1.jpg', alt: '넷플릭스 드라마 돌풍 해외 평점 결말 후기 리뷰', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>원점수: 3/10</b></span></p>'

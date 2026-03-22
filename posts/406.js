@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;background-color: #ffffff; text-align: center;&quot;>애니메이션 괴수 8호 ( 일본어 : 怪獣8号 영어제목 : </span>Kaiju No.8 ) 의 마지막회 방영 이후 TV 도쿄를 통해 괴수 8호 2기 속편 제작정보 공개! 2 기 제작이 확정되었습니다.</span></p><p>괴수 8호 1기 <span style=&quot;background-color: #f3c000;&quot;><b>방영일은 24년 4월부터 6월</b></span>이며, 방영 이후 압도적인 인기를 바탕으로 애니메이션 순위에서도 상위권을 차지하고 있습니다. 이러한 인기를 바탕으로 괴수 8호 게임으로도 출시가 예정되어 있습니다.<span style=&quot;color: #000000;&quot;><b></b></span></p><p><span style=&quot;color: #000000;&quot;>애니메이션 괴수 8호, 해외 시청자들의 평점 및 반응 리뷰, 인기 순위 살펴보겠습니다.</span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent; text-align: center;&quot;>애니메이션 괴수 8호 ( 일본어 : 怪獣8号 영어제목 : </span>Kaiju No.8 ) 의 마지막회 방영 이후 TV 도쿄를 통해 괴수 8호 2기 속편 제작정보 공개! 2 기 제작이 확정되었습니다.</span></p><p>괴수 8호 1기 <span style=&quot;background-color: #f3c000;&quot;><b>방영일은 24년 4월부터 6월</b></span>이며, 방영 이후 압도적인 인기를 바탕으로 애니메이션 순위에서도 상위권을 차지하고 있습니다. 이러한 인기를 바탕으로 괴수 8호 게임으로도 출시가 예정되어 있습니다.<span style=&quot;color: inherit;&quot;><b></b></span></p><p><span style=&quot;color: inherit;&quot;>애니메이션 괴수 8호, 해외 시청자들의 평점 및 반응 리뷰, 인기 순위 살펴보겠습니다.</span></p>'
     },
     {
       type: 'image',
@@ -30,7 +30,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;>먼저 <span style=&quot;background-color: #f3c000;&quot;><b>\'괴수 8호 볼 만한가?\' 고민하고 계신 분들을 위한 기본적인 줄거리 소개</b></span>로 시작하겠습니다.</span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;>먼저 <span style=&quot;background-color: #f3c000;&quot;><b>\'괴수 8호 볼 만한가?\' 고민하고 계신 분들을 위한 기본적인 줄거리 소개</b></span>로 시작하겠습니다.</span></span></p>'
     },
     {
       type: 'body',
@@ -50,19 +50,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;><b>일본에서는 괴수라는 괴물들이 자주 나타나 사람들을 공격하며, 일본 방위대는 이들을 처치하는 임무를 맡고 있다. </b></span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;><b>일본에서는 괴수라는 괴물들이 자주 나타나 사람들을 공격하며, 일본 방위대는 이들을 처치하는 임무를 맡고 있다. </b></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;><b>어린 시절 괴수에게 마을이 파괴된 후, 어린 친구였던 카프카 히비노와 미나 아시로는 둘 다 방위대원이 되기로 맹세한다.</b></span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;><b>어린 시절 괴수에게 마을이 파괴된 후, 어린 친구였던 카프카 히비노와 미나 아시로는 둘 다 방위대원이 되기로 맹세한다.</b></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;><b>미나는 방위대 제3부대의 지휘관으로 유명해졌지만, </b></span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;><b>미나는 방위대 제3부대의 지휘관으로 유명해졌지만, </b></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;><b>카프카는 시험에 여러 번 실패한 후 몬스터 청소부 회사인 \'몬스터 스위퍼 주식회사\'의 일원이 된다.</b></span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;><b>카프카는 시험에 여러 번 실패한 후 몬스터 청소부 회사인 \'몬스터 스위퍼 주식회사\'의 일원이 된다.</b></span></span></p>'
     },
     {
       type: 'body',
@@ -70,23 +70,23 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;><b>어느 날, 날아다니는 작은 말하는 괴물이 그의 입을 통해 몸속으로 들어가면서 카프카는 자신이 괴물로 변신할 수 있는 능력을 얻게 된다.</b></span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;><b>어느 날, 날아다니는 작은 말하는 괴물이 그의 입을 통해 몸속으로 들어가면서 카프카는 자신이 괴물로 변신할 수 있는 능력을 얻게 된다.</b></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;><b>이 능력은 방위대에 의해 &quot;괴수 8호&quot;로 명명된다.</b></span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;><b>이 능력은 방위대에 의해 &quot;괴수 8호&quot;로 명명된다.</b></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;><b>카프카는 괴물 형태에서도 완전한 의식을 유지하며 초인적인 힘을 발휘하고, 방위대를 처음으로 탈출한 괴수가 된다.</b></span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;><b>카프카는 괴물 형태에서도 완전한 의식을 유지하며 초인적인 힘을 발휘하고, 방위대를 처음으로 탈출한 괴수가 된다.</b></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;><b>새로운 결의를 다지며, 카프카는 미나와 함께 싸우기 위해 방위대에 입대하고,</b></span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;><b>새로운 결의를 다지며, 카프카는 미나와 함께 싸우기 위해 방위대에 입대하고,</b></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;><b>자신의 새로운 능력을 비밀로 유지하며 싸우기로 결심한다.</b></span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;><b>자신의 새로운 능력을 비밀로 유지하며 싸우기로 결심한다.</b></span></span></p>'
     },
     {
       type: 'body',
@@ -160,6 +160,25 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;486&quot; data-origin-width=&quot;1380&quot;><span data-alt=&quot;괴수 8호 다시보기 OTT 보는곳&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/mjZjj/btsIk0bg0Xx/AAAAAAAAAAAAAAAAAAAAAOYmwVgmKBjZg2yBwdTjbDG-BG9l2OB9TrC6aWOmvPqv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NGvCRVDAi7T0zWwAiLgeK8Mu7Js%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/mjZjj/btsIk0bg0Xx/AAAAAAAAAAAAAAAAAAAAAOYmwVgmKBjZg2yBwdTjbDG-BG9l2OB9TrC6aWOmvPqv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NGvCRVDAi7T0zWwAiLgeK8Mu7Js%3D&quot;></span><figcaption>괴수 8호 다시보기 OTT 보는곳</figcaption> </figure> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post406_img18.jpg', alt: '괴수 8호 다시보기 OTT 보는곳', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img17.jpg', alt: '괴수 8호 평점 분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img16.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img15.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img14.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img13.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img12.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img11.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img10.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img9.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img8.jpg', alt: '괴수 8호 시즌 2기 제작 확정! 해외 평점 및 리뷰 반응 정보 총정리 | 넷플릭스 볼만한 애니메이션 추천 인기 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img7.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img6.jpg', alt: '괴수 8호 해외 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img5.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img4.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img3.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img2.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post406_img1.jpg', alt: '괴수 8호', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>애니메이션 괴수 8호 다시보기 OTT 보는 곳, <b><span style=&quot;background-color: #f3c000;&quot;>넷플릭스, 디즈니 플러스, 왓챠</span></b>에서 시청가능합니다.</p>'

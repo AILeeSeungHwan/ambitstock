@@ -8,7 +8,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 9월 현재 넷플릭스 영화 인기 순위권인 노 웨이 업( 영어 제목 : No Way Up ) 의 제목 뜻 의미와 평점을 알아보도록 하겠습니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 노 웨이 업의 로튼토마토, IMDB평점 알아보겠습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;><b>노 웨이 업 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 9월 현재 넷플릭스 영화 인기 순위권인 노 웨이 업( 영어 제목 : No Way Up ) 의 제목 뜻 의미와 평점을 알아보도록 하겠습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 노 웨이 업의 로튼토마토, IMDB평점 알아보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><b>노 웨이 업 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></p>'
     },
     {
       type: 'image',
@@ -20,15 +20,15 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 36%, 관람객 평점은 등록되지 않았습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 36%, 관람객 평점은 등록되지 않았습니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가 리뷰 총 25개의 40점 이하 점수는 상당히 낮은 점수로, 평론가 평점도 로튼, 썩은 토마토의 모습입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평론가 리뷰 총 25개의 40점 이하 점수는 상당히 낮은 점수로, 평론가 평점도 로튼, 썩은 토마토의 모습입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>IMDB 평점과 평점분포 확인해 보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>IMDB 평점과 평점분포 확인해 보겠습니다.</p>'
     },
     {
       type: 'body',
@@ -64,7 +64,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>다음 포스팅에서 노 웨이 업 결말과 후기리뷰 알아보도록 하겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>다음 포스팅에서 노 웨이 업 결말과 후기리뷰 알아보도록 하겠습니다.</p>'
     },
     {
       type: 'body',
@@ -106,6 +106,11 @@ const post = {
       type: 'body',
       html: '<p class=&quot;og-desc&quot;>넷플릭스 시청가능 영화 딜리버런스 제목 뜻 의미와 해외 평점 후기반응 알아보겠습니다. 최근 공개된 넷플릭스 영화들의 퀄리티에 실망감을 가진 분들이 많으실겁니다. ( 재밌었던 작품이 무</p>'
     },
+    ,
+    { type: 'image', src: '/images/post314_img4.jpg', alt: '영화 노 웨이 업 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post314_img3.jpg', alt: '영화 노 웨이 업 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post314_img2.jpg', alt: '영화 노 웨이 업 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post314_img1.jpg', alt: '영화 노 웨이 업', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p class=&quot;og-host&quot;>ambitstock.com</p>'

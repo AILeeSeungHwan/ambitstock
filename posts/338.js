@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>먼저 지상파 방송사 3사의 정치 성향입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post338_img1.jpg', alt: '모든 방송사 뉴스 시청률 총정리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>KBS1</h3>'
@@ -69,6 +70,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>지상파 방송에 이어 종합편성, 케이블 뉴스 정치 성향을 알아보겠습니다.</b></span><b></b></p>'
     },
+    { type: 'image', src: '/images/post338_img2.jpg', alt: '뉴스 시청률 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>YTN</h3>'
@@ -147,6 +149,8 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>뉴스 프로그램 종합 시청률 순위입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post338_img4.jpg', alt: '뉴스 시청률 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post338_img3.jpg', alt: '뉴스 시청률 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>1등부터 13등까지 모든 시청률을 총 망라하였습니다.</p>'
@@ -181,7 +185,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #ffffff; color: #000000; text-align: left;&quot;>8. 채널A 뉴스 TOP10: 시청률 1.9%</span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent; color: inherit; text-align: left;&quot;>8. 채널A 뉴스 TOP10: 시청률 1.9%</span></p>'
     },
     {
       type: 'body',
@@ -189,7 +193,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>10. MBN 뉴스와이드: 시청률 1.4%</span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>10. MBN 뉴스와이드: 시청률 1.4%</span></p>'
     },
     {
       type: 'body',

@@ -261,6 +261,15 @@ const post = {
       type: 'body',
       html: '<p>이 영화는 우리의 생활 방식을 변화시키고 다른 사람들에게 더 개방적이게 도와줄 거라고 생각해요.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post403_img8.jpg', alt: '넷플릭스 영화 봄이 사라진 세계', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post403_img7.jpg', alt: '넷플릭스 영화 봄이 사라진 세계', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post403_img6.jpg', alt: '넷플릭스 영화 봄이 사라진 세계', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post403_img5.jpg', alt: '넷플릭스 영화 봄이 사라진 세계', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post403_img4.jpg', alt: '넷플릭스 영화 봄이 사라진 세계', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post403_img3.jpg', alt: '봄이 사라진 세계 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post403_img2.jpg', alt: '봄이 사라진 세계 네이버 사전 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post403_img1.jpg', alt: '넷플릭스 영화 봄이 사라진 세계', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>&quot;Drawing Closer&quot;는 눈물을 쏙 빼놓는 영화예요! 이 영화는 정말 감정 깊숙이 와 닿는 영화입니다. 이야기가 너무 좋아서 퍼즐처럼 완벽하게 맞아떨어져요. 몇 번이나 울었는지 셀 수 없을 정도예요.<br/><br/>하지만 이 영화는 슬픔만 있는 게 아니라, 사랑에 대해 새로운 시각을 갖게 해줍니다. <span style=&quot;color: #781b33;&quot;><b>관계가 얼마나 복잡하고 엉망이 될 수 있는지, 하지만 동시에 얼마나 강하고 아름다울 수 있는지도 보여줘요.</b></span><br/><br/>캐릭터들이 너무 현실적이라서 마치 그들을 개인적으로 아는 것 같아요. 그들이 겪는 모든 일을 응원하게 됩니다. 이 영화는 끝난 후에도 계속 마음에 남는 영화 중 하나예요.<br/><br/>감독이 사람을 이해하고, 시각적으로 아름답고 감정적으로 강력한 영화를 만든다는 느낌이 들어요. 배우들도 놀라운 연기를 보여주며 캐릭터에 생명을 불어넣습니다. 이 영화를 강력 추천해요, 꼭 봐야 할 영화입니다!<br/><br/>눈물을 닦을 휴지를 꼭 챙기세요!</p>'

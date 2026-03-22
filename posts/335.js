@@ -57,6 +57,12 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;742&quot; data-origin-width=&quot;754&quot;><span data-alt=&quot;넷플릭스 시리즈 추천 아무도 없는 숲속에서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lm93W/btsJdbj1LVI/AAAAAAAAAAAAAAAAAAAAAHyuUNizGirI8BrwrFrYpIzFzn358_-fZJcYW7Ivo-tS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LKRkOpL9DkRrCbtB%2BH%2FnFM6d0GY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lm93W/btsJdbj1LVI/AAAAAAAAAAAAAAAAAAAAAHyuUNizGirI8BrwrFrYpIzFzn358_-fZJcYW7Ivo-tS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LKRkOpL9DkRrCbtB%2BH%2FnFM6d0GY%3D&quot;></span><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post335_img5.jpg', alt: '넷플릭스 시리즈 추천 아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post335_img4.jpg', alt: '넷플릭스 시리즈 추천 아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post335_img3.jpg', alt: '넷플릭스 시리즈 추천 아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post335_img2.jpg', alt: '넷플릭스 시리즈 추천 아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post335_img1.jpg', alt: '넷플릭스 시리즈 추천 아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>아무도 없는 숲속에서 해외 평점과 후기반응, 평론가 평점 포스팅으로 돌아오겠습니다.</p>'

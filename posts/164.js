@@ -29,6 +29,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post164_img1.jpg', alt: '시빌 워: 분열의 시대', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -54,6 +55,7 @@ const post = {
       type: 'body',
       html: '<h4 data-pm-slice=&quot;1 1 []&quot;><b>영화 제목 : 시빌 워: 분열의 시대 Civil War, 2024</b></h4>'
     },
+    { type: 'image', src: '/images/post164_img2.jpg', alt: '시빌 워: 분열의 시대', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h4><b>개요</b></h4>'
@@ -95,8 +97,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>시빌 워: 분열의 시대 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>시빌 워: 분열의 시대 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
     },
+    { type: 'image', src: '/images/post164_img3.jpg', alt: '시빌워 분열의 시대 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;343&quot; data-origin-width=&quot;1118&quot;><span data-alt=&quot;시빌워 분열의 시대 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/UgXCK/btsK2Y3lTDR/AAAAAAAAAAAAAAAAAAAAAH6su1IwbhoHeustisYX0G1_5YOHZtLryLKMgGhjLDq6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LhYPlacY28yJDb2zZYU5ocs6oig%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/UgXCK/btsK2Y3lTDR/AAAAAAAAAAAAAAAAAAAAAH6su1IwbhoHeustisYX0G1_5YOHZtLryLKMgGhjLDq6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LhYPlacY28yJDb2zZYU5ocs6oig%3D&quot;></span><figcaption>시빌워 분열의 시대 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
@@ -123,6 +126,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>시빌 워: 분열의 시대 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post164_img4.jpg', alt: '시빌 워: 분열의 시대', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Elissa Suh - 평점 없음</b><br>시빌 워: 분열의 시대는 전통적인 이야기 전개에 얽매여 있지만, 작은 순간들에서는 더 큰 흥미를 유발한다.</br></p>'
@@ -193,6 +197,11 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 제목 &quot;시빌 워: 분열의 시대&quot;의 뜻 의미 해석</b></span>입니다.</p>'
     },
+    { type: 'image', src: '/images/post164_img9.jpg', alt: '시빌 워: 분열의 시대 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post164_img8.jpg', alt: '시빌 워: 분열의 시대 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post164_img7.jpg', alt: '시빌 워: 분열의 시대 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post164_img6.jpg', alt: '시빌 워: 분열의 시대', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post164_img5.jpg', alt: '시빌 워: 분열의 시대', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;>&quot;시빌 워&quot;는 <br/>\'내전\'을 의미하는 영어 표현</span></b></blockquote>'

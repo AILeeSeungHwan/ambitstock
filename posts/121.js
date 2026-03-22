@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>영화 메모리가 2025년 1월 22일 개봉합니다.</b></p>'
     },
+    { type: 'image', src: '/images/post121_img1.jpg', alt: '메모리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>베니스국제영화제 볼피컵 - 남우주연상을 수상한 피터 사스가드의 작품으로 </b>이번 포스팅에서는 영화 제목인 메모리의 뜻 해석 그리고 해외 로튼 토마토 평론가 반응 후기를 함께 알아보도록 하겠습니다.</p>'
@@ -38,6 +39,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post121_img2.jpg', alt: '영화 메모리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-drama-recommend-netflix/',
@@ -63,6 +65,7 @@ const post = {
       type: 'body',
       html: '<p><b>뉴욕에서 딸과 함께 단둘이 살아가던 실비아는 고등학교 동창회에서 사울과 재회한다.</b></p>'
     },
+    { type: 'image', src: '/images/post121_img3.jpg', alt: '메모리 뜻', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>알 수 없는 이유로 실비아의 집까지 따라온 사울은 집 앞에서 묵묵히 밤을 보내고, 실비아는 그가 점점 기억을 잃어가고 있다는 사실을 알게 된다. 며칠 뒤, 과거에 사울을 만난 적이 있다고 확신한 실비아는 그를 찾아가 질문을 던지기 시작한다. 그러나 자신의 기억을 신뢰할 수 없는 사울은 혼란스러워하며 갈등하고, 실비아는 예기치 못한 사실을 발견하면서 그와 점차 가까워지게 된다…</p>'
@@ -78,6 +81,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>메모리 (Memory)<br/></span>기억 기록</b></blockquote>'
     },
+    { type: 'image', src: '/images/post121_img4.jpg', alt: '메모리 관람평 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>영화의 제목 메모리는 영단어 Memory이며, 기억, 기록을 뜻합니다. </b></p>'
@@ -94,8 +98,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>영화 메모리 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>영화 메모리 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post121_img5.jpg', alt: '메모리 관람평 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 85%, 관객 평점 73%입니다.</b></span></p>'
@@ -122,6 +127,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 메모리 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post121_img12.jpg', alt: '메모리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post121_img11.jpg', alt: '메모리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post121_img10.jpg', alt: '메모리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post121_img9.jpg', alt: '메모리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post121_img8.jpg', alt: '메모리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post121_img7.jpg', alt: '메모리 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post121_img6.jpg', alt: '메모리 관람평 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>James Croot - 평점: 4/5</span></i><br>후회와 비난으로 가득 찬 이야기지만, 작가 겸 감독인 미셸 프랑코는 모든 세부 사항을 서서히 드러내며 시청자가 공감의 대상을 추측하게 만든다.</br></p>'

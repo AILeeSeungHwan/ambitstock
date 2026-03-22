@@ -124,6 +124,16 @@ const post = {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Catherine Bray - 1/5</span></i><br/>저렴해 보이는 CGI 애니메이션은 매력이 전혀 없으며, 뻔한 캐릭터 디자인은 <span style=&quot;background-color: #9feec3;&quot;><b>이 영화가 지친 부모들로부터 돈을 빼앗기 위해 거의 전적으로 제작된 것 같은 느낌</b></span>을 준다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post229_img9.jpg', alt: '마이펫의 컴백홈 어드벤처 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post229_img8.jpg', alt: '마이펫의 컴백홈 어드벤처 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post229_img7.jpg', alt: '마이펫의 컴백홈 어드벤처 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post229_img6.jpg', alt: '마이펫의 컴백홈 어드벤처 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post229_img5.jpg', alt: '마이펫의 컴백홈 어드벤처 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post229_img4.jpg', alt: '마이펫의 컴백홈 어드벤처 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post229_img3.jpg', alt: '마이펫의 컴백홈 어드벤처 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post229_img2.jpg', alt: '마이펫의 컴백홈 어드벤처 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post229_img1.jpg', alt: '마이펫의 컴백홈 어드벤처', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>처참한 평가를 받은 영화 마이펫의 컴백홈 어드벤처입니다. 혹시라도 아이와 함께 이 영화를 볼 생각이 있으셨던 부모님들은 다시 한번 생각해 보는 시간을 가지시는 것이 좋을 것 같습니다.</p>'

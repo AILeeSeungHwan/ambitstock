@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post106_img1.jpg', alt: '삶이 다할때까지', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>전직 GIGN(프랑스 국가 헌병 특수부대) 요원인 <b>프랑크 라자레프(기욤 카네 분)가 직장에서의 암살 시도를 피한 후</b>, <b>집에서 임신한 아내 레오(스테판 카이야르 분)와 함께 공격을 받는 장면으로 시작</b>됩니다.</p>'
     },
+    { type: 'image', src: '/images/post106_img2.jpg', alt: '삶이 다할때까지', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이후 플래시백을 통해 프랑크와 레오가 GIGN 훈련 중에 만나 사랑에 빠진 과거가 그려집니다.</p>'
@@ -70,6 +72,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;></span><span style=&quot;color: #781b33;&quot;>영어제목 Ad Vitam</span><br><span style=&quot;color: #781b33;&quot;>라틴어 - 삶을 위하여</span></br></b></blockquote>'
     },
+    { type: 'image', src: '/images/post106_img3.jpg', alt: '삶이 다할때까지', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>\'Ad Vitam\'의 제목과 영화의 연관성은 주인공의 생존과 가족을 지키기 위한 사투에 뿌리를 두고 있습니다.</p>'
@@ -125,6 +128,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 영화 삶이 다할때까지 해외 평론가 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post106_img4.jpg', alt: '삶이 다할때까지', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>총 6개의 후기를 가져왔으며, 소제목 하나당 2개의 평론가 후기를 함께 정리하였습니다.</p>'

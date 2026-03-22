@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>영화 렛미인이 2025년 1월 15일 재개봉합니다.</b></p>'
     },
+    { type: 'image', src: '/images/post124_img1.jpg', alt: '렛미인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이번 포스팅에서는 영화 제목인 렛미인의 뜻 해석 그리고 해외 로튼 토마토 평론가 반응 후기를 함께 알아보도록 하겠습니다.</p>'
@@ -37,6 +38,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>내가 평범한 소녀가 아니라도… <br>나를 좋아해 줄래?<br/></br></span></b></blockquote>'
     },
+    { type: 'image', src: '/images/post124_img2.jpg', alt: '렛미인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>눈 내리는 어느 겨울밤, 외톨이 소년 ‘오스칼’은 옆집으로 이사 온 신비로운 소녀 ‘이엘리’를 만나게 된다.</p>'
@@ -59,6 +61,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>렛 미 인 Let Me In<br/></span>나를 들여보내줘</b></blockquote>'
     },
+    { type: 'image', src: '/images/post124_img3.jpg', alt: '렛미인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 <b>『렛 미 인 (Let Me In)』</b>의 영어제목은 Let The Right on In입니다.</p>'
@@ -80,8 +83,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>렛미인 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>렛미인 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post124_img4.jpg', alt: '렛미인 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 98%, 관객 평점 90%입니다.</b></span></p>'
@@ -108,6 +112,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>렛미인 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post124_img11.jpg', alt: '렛미인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post124_img10.jpg', alt: '렛미인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post124_img9.jpg', alt: '렛미인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post124_img8.jpg', alt: '렛미인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post124_img7.jpg', alt: '렛미인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post124_img6.jpg', alt: '렛미인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post124_img5.jpg', alt: '렛미인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Brian Eggert - 평점 3/4 (오리지널 스코어: 3/4)</b><br/>『렛미인』은 고립된 환경과 간결한 이야기로, 감동적인 드라마를 풀어낸다. 스토리와 설정의 적절한 사용이 감정을 풍부하게 만들어낸다.</p>'

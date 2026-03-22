@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>2025년 1월 현재상영작 영화 예매 순위 총정리 포스팅입니다.</p>'
     },
+    { type: 'image', src: '/images/post127_img1.jpg', alt: '현재상영작 영화 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>각 작품의 자세한 정보와 후기, 평점을 포함하여 포스팅으로 준비하였습니다.</p>'
@@ -41,6 +42,7 @@ const post = {
       type: 'body',
       html: '<p>10위는 러브레터입니다.</p>'
     },
+    { type: 'image', src: '/images/post127_img2.jpg', alt: '현재상영작 순위 러브레터', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 1월 1일 재개봉하는 영화로 예매율 2.6%를 차지하였습니다.</p>'
@@ -75,6 +77,7 @@ const post = {
       type: 'body',
       html: '<p>9위는 모아나 2 입니다.</p>'
     },
+    { type: 'image', src: '/images/post127_img3.jpg', alt: '현재상영작 순위 모아나 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2024년 11월 27일 개봉하였으며 예매율 2.7%를 기록하였습니다.</p>'
@@ -111,6 +114,7 @@ const post = {
       type: 'body',
       html: '<p>8위는 뽀로로 극장판 바닷속 대모험 입니다.</p>'
     },
+    { type: 'image', src: '/images/post127_img4.jpg', alt: '현재상영작 순위 뽀로로 극장판 바닷속 대모험', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 01월 01일 새해 첫날 개봉하며 예매율 2.8%를 기록중입니다.</p>'
@@ -153,6 +157,7 @@ const post = {
       type: 'body',
       html: '<p>7위는 위키드 입니다. 두개의 파트로 나뉘는 영화로 2024년 연말 최고의 화제작이라고 생각됩니다.</p>'
     },
+    { type: 'image', src: '/images/post127_img5.jpg', alt: '현재상영작 7위 위키드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2024년 11월 20일 개봉하였고 현재도 예매율 3.2%를 유지중입니다.</p>'
@@ -180,6 +185,7 @@ const post = {
       type: 'body',
       html: '<p>6위는 무파사: 라이온 킹 입니다.</p>'
     },
+    { type: 'image', src: '/images/post127_img6.jpg', alt: '현재상영작 순위 무파사: 라이온 킹', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2024년 12월 18일 개봉 후 61만명의 관객수를 기록하고 있습니다.</p>'
@@ -215,6 +221,7 @@ const post = {
       type: 'body',
       html: '<p>5위는 수퍼 소닉 3입니다.</p>'
     },
+    { type: 'image', src: '/images/post127_img7.jpg', alt: '현재 상영작 순위 수퍼 소닉 3', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>뽀로로와 마찬가지로 2025년 새해 1월 1일 개봉하는 영화로 아이들과 함께 시청하기 좋은 영화 중 하나입니다. 현재 예매율은 4.6%입니다.</p>'
@@ -250,6 +257,7 @@ const post = {
       type: 'body',
       html: '<p>4위는 시빌 워: 분열의 시대 입니다.</p>'
     },
+    { type: 'image', src: '/images/post127_img8.jpg', alt: '현재상영작 순위 시빌 워: 분열의 시대', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2024년 12월 31일 개봉하며 예매율은 5.0%를 기록하고 있습니다. </p>'
@@ -289,6 +297,7 @@ const post = {
       type: 'body',
       html: '<p>3위는 소방관입니다.</p>'
     },
+    { type: 'image', src: '/images/post127_img9.jpg', alt: '현재상영작 순위 소방관', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2024년 말 개봉한 영화중 선방한 한국영화가 거의 없었는데 320만이라는 관객수와 높은 평점을 얻으며 좋은 평가를 받고 있는 작품입니다. 2024년 12월 4일 개봉하였으며 예매율은 5.2%입니다.</p>'
@@ -316,6 +325,7 @@ const post = {
       type: 'body',
       html: '<p>2위는 보고타: 마지막 기회의 땅 입니다.</p>'
     },
+    { type: 'image', src: '/images/post127_img10.jpg', alt: '현재상영작 순위 보고타: 마지막 기회의 땅', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2024년 12월 31일 개봉하며 예매율은 18.6%를 기록중입니다. 보고타 라는 제목의 뜻은 콜롬비아의 수도 이름이며, 제목과 줄거리, 시사회 후기와 같은 자세한 내용은 아래 포스팅을 통해 확인하실 수 있습니다.</p>'
@@ -355,6 +365,7 @@ const post = {
       type: 'body',
       html: '<p>현재 상영작 1위는 하얼빈입니다.</p>'
     },
+    { type: 'image', src: '/images/post127_img11.jpg', alt: '현재상영작 순위 하얼빈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2024년 연말 최고의 화제작으로 평가받는 영화로 엄청난 속도로 100만 관객수를 넘어섰고 개봉 일주일이 안된 현재 300만에 근접해 가는 관객수를 기록중에 있습니다. 2024년 12월 24일 개봉하였으며 예매율은 36.7%이며 앞으로 또 하나의 한국 천만영화가 등장할 수 있을것 같습니다.</p>'

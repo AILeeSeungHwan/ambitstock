@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post163_img1.jpg', alt: '영화 1승', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>영화 <i>1승</i>은 <b><span style=&quot;background-color: #9feec3;&quot;>인생에서도 &quot;패배 그랜드슬램&quot;을 달성한 배구선수 출신 감독</span> <i>우진</i> (송강호)이 주인공</b>입니다.</p>'
     },
+    { type: 'image', src: '/images/post163_img2.jpg', alt: '영화 1승', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>그는 <b>해체 직전의 여자배구팀 <i>핑크스톰</i></b>을 맡게 됩니다.</p>'
@@ -82,6 +84,7 @@ const post = {
       type: 'body',
       html: '<h4><b>1승 시사회 일정</b> </h4>'
     },
+    { type: 'image', src: '/images/post163_img3.jpg', alt: '영화 1승', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>시사회는 11월 30일과 12월 1일 양일간 서울 주요 극장에서 열렸습니다.</p>'
@@ -125,6 +128,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b><i>1승</i>은 단순한 경기 승리 이상의 메시지</b></span>를 담고 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post163_img4.jpg', alt: '영화 1승', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>팀워크와 실패를 극복하는 과정을 통해 인간적 성장을 그리고, 개인의 노력과 팀의 조화가 얼마나 중요한지를 보여줍니다.</p>'
@@ -143,6 +147,8 @@ const post = {
       type: 'body',
       html: '<p>영화 1승은 경쾌한 스토리와 배우들의 열연, <span style=&quot;background-color: #9feec3;&quot;><b>박진감 넘치는 경기 장면을 통해 관객들에게 가슴 벅찬 감동을 선사할 예정</b></span>입니다.</p>'
     },
+    { type: 'image', src: '/images/post163_img6.jpg', alt: '영화 1승', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post163_img5.jpg', alt: '영화 1승', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>아마 우리가 알고 있는 한국 영화의 맛을 그대로 재연할 것으로 예상 되지만,</p>'

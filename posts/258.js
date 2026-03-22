@@ -46,7 +46,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 악이 도사리고 있을 때 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 악이 도사리고 있을 때 로튼토마토 평론가 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -54,7 +54,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>평론가 평점 96%, 관람객 평점 78%의 영화 평점입니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>평론가 평점 96%, 관람객 평점 78%의 영화 평점입니다.</b></p>'
     },
     {
       type: 'body',
@@ -128,6 +128,13 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post258_img6.jpg', alt: '악이 도사리고 있을 때 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post258_img5.jpg', alt: '악이 도사리고 있을 때 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post258_img4.jpg', alt: '악이 도사리고 있을 때 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post258_img3.jpg', alt: '악이 도사리고 있을 때 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post258_img2.jpg', alt: '악이 도사리고 있을 때', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post258_img1.jpg', alt: '악이 도사리고 있을 때', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>'

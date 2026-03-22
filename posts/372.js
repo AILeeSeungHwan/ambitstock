@@ -111,7 +111,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff;&quot;>가족과 직장 생활의 갈등을 현실감 있게 그렸습니다.</span></p>'
+      html: '<p><span style=&quot;background-color: transparent;&quot;>가족과 직장 생활의 갈등을 현실감 있게 그렸습니다.</span></p>'
     },
     {
       type: 'body',
@@ -289,6 +289,18 @@ const post = {
       type: 'body',
       html: '<p>톰 히들스턴의 로키 역이 많은 찬사를 받았습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post372_img11.jpg', alt: '디즈니 플러스 볼만한 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post372_img10.jpg', alt: '디즈니 플러스 볼만한 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post372_img9.jpg', alt: '디즈니 플러스 볼만한 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post372_img8.jpg', alt: '디즈니 플러스 볼만한 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post372_img7.jpg', alt: '디즈니 플러스 볼만한 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post372_img6.jpg', alt: '디즈니 플러스 볼만한 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post372_img5.jpg', alt: '디즈니 플러스 볼만한 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post372_img4.jpg', alt: '디즈니 플러스 볼만한 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post372_img3.jpg', alt: '디즈니 플러스 볼만한 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post372_img2.jpg', alt: '디즈니 플러스 볼만한 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post372_img1.jpg', alt: '디즈니 플러스 볼만한 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>토니 스타크 이후 마블 유니버스의 유일한 희망이라 평 받는 로키입니다.</b></span></p>'

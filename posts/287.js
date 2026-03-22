@@ -173,6 +173,17 @@ const post = {
       type: 'body',
       html: '<p>다음 포스팅에서 평론가들의 후기 리뷰 살펴보도록 하겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post287_img10.jpg', alt: '완전무결한 커플 출연진 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post287_img9.jpg', alt: '완전무결한 커플 출연진 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post287_img8.jpg', alt: '완전무결한 커플 출연진 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post287_img7.jpg', alt: '완전무결한 커플 출연진 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post287_img6.jpg', alt: '완전무결한 커플 IMDB 출연진 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post287_img5.jpg', alt: '완전무결한 커플 IMDB 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post287_img4.jpg', alt: '완전무결한 커플 평점표본', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post287_img3.jpg', alt: '완전무결한 커플 IMDB 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post287_img2.jpg', alt: '넷플릭스 시리즈 완전무결한 커플 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post287_img1.jpg', alt: '넷플릭스 시리즈 완전무결한 커플', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

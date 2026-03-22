@@ -132,6 +132,15 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post289_img8.jpg', alt: '트랜스포머 ONE 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post289_img7.jpg', alt: '트랜스포머 ONE 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post289_img6.jpg', alt: '트랜스포머 ONE 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post289_img5.jpg', alt: '트랜스포머 ONE 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post289_img4.jpg', alt: '트랜스포머 ONE 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post289_img3.jpg', alt: '트랜스포머 ONE 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post289_img2.jpg', alt: '트랜스포머 ONE 후기 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post289_img1.jpg', alt: '트랜스포머 ONE 해외 평론가 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>함께 보면 좋은 콘텐츠 소개해드리며 포스팅 마칩니다.</b></p>'

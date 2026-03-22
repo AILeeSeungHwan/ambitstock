@@ -43,6 +43,17 @@ const post = {
       type: 'body',
       html: '<blockquote><b>10위 가족이라서 문제입니다. (영어제목 A family affair)</b></blockquote>'
     },
+    { type: 'image', src: '/images/post392_img11.jpg', alt: '2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post392_img10.jpg', alt: '2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post392_img9.jpg', alt: '2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post392_img8.jpg', alt: '2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post392_img7.jpg', alt: '2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post392_img6.jpg', alt: '2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post392_img5.jpg', alt: '2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post392_img4.jpg', alt: '2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post392_img3.jpg', alt: '2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post392_img2.jpg', alt: '2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post392_img1.jpg', alt: '2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1296&quot; data-origin-width=&quot;1572&quot;><span data-alt=&quot;2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/tMulB/btsIwrawFfr/AAAAAAAAAAAAAAAAAAAAABdClOte70X3X0EA1o83Xbp4TlRg77foTkbtEGo72ZJp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=gTQpF1jVdxVub%2FB3DqBaRbpblDg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/tMulB/btsIwrawFfr/AAAAAAAAAAAAAAAAAAAAABdClOte70X3X0EA1o83Xbp4TlRg77foTkbtEGo72ZJp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=gTQpF1jVdxVub%2FB3DqBaRbpblDg%3D&quot;></span><figcaption>2024년 넷플릭스 신작 볼만한 영화 애니 드라마 추천 순위</figcaption> </figure> </p>'
@@ -210,7 +221,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #ffffff;&quot;><b>호시노 아이의 쌍둥이로 환생해버렸다.</b></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent;&quot;><b>호시노 아이의 쌍둥이로 환생해버렸다.</b></span></p>'
     },
     {
       type: 'body',

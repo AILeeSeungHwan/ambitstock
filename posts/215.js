@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 타임컷 볼까말까? 결정해드립니다.</b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>영화 타임컷 해외반응 로튼토마토 평론가 평점 후기입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 타임컷 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 타임컷 볼까말까? 결정해드립니다.</b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>영화 타임컷 해외반응 로튼토마토 평론가 평점 후기입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 타임컷 로튼토마토 평론가 평점입니다.</b></span></p>'
     },
     {
       type: 'image',
@@ -30,19 +30,19 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 29%, 관람객 평점 32%의 영화 타임컷 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 29%, 관람객 평점 32%의 영화 타임컷 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>처참한 평점을 기록하고 있는 작품으로, 영화 순위는 8위에 올라있지만, 평론가와 관람객 모두에게 혹평을 받은 작품입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>처참한 평점을 기록하고 있는 작품으로, 영화 순위는 8위에 올라있지만, 평론가와 관람객 모두에게 혹평을 받은 작품입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 타임컷 해외 평론가 결말후기입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 타임컷 해외 평론가 결말후기입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>Rotten은 썩은토마토(나쁜 평점), Fresh는 신선한토마토(좋은 평점) 을 의미합니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>Rotten은 썩은토마토(나쁜 평점), Fresh는 신선한토마토(좋은 평점) 을 의미합니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -116,6 +116,17 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7</b></span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post215_img10.jpg', alt: '타임컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post215_img9.jpg', alt: '타임컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post215_img8.jpg', alt: '타임컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post215_img7.jpg', alt: '타임컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post215_img6.jpg', alt: '타임컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post215_img5.jpg', alt: '타임컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post215_img4.jpg', alt: '타임컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post215_img3.jpg', alt: '타임컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post215_img2.jpg', alt: '타임컷 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post215_img1.jpg', alt: '타임컷', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>'

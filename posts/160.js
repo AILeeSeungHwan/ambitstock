@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post160_img1.jpg', alt: 'X를 담아, 당신에게', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>X를 담아, 당신에게 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>X를 담아, 당신에게 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post160_img2.jpg', alt: 'X를 담아, 당신에게 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post160_poster.jpg', alt: '포스트 160 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
@@ -79,6 +81,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>X를 담아, 당신에게 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post160_img9.jpg', alt: 'X를 담아, 당신에게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post160_img8.jpg', alt: 'X를 담아, 당신에게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post160_img7.jpg', alt: 'X를 담아, 당신에게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post160_img6.jpg', alt: 'X를 담아, 당신에게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post160_img5.jpg', alt: 'X를 담아, 당신에게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post160_img4.jpg', alt: 'X를 담아, 당신에게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post160_img3.jpg', alt: 'X를 담아, 당신에게', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Susan Granger - 평점(7/10)</b><br>만약 욕설이 불편하지 않다면, <b>\'X를 담아, 당신에게\'는 <span style=&quot;background-color: #9feec3;&quot;>정말 재밌게 볼 수 있는 저속한 시대 코미디</span></b>로, \'The Lost Daughter\'(2021)에서 인상 깊었던 올리비아 콜먼과 제시 버클리가 다시 만난 작품이다.</br></p>'

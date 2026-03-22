@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>지난 13일 모든 회차가 공개된 \'더 인플루언서\'는 파이널 라운드까지 하루만에 정주행한 분들이 많을 정도로 <span style=&quot;color: #333333; text-align: start;&quot;>예측할 수 없는 전개와 적절한 속도감으로 엄청난 흡입력을 가집니다. </span>특히, \'관심이 곧 생존\'이라는 미션이 강조된 세 번째 라운드는 인플루언서들의 운명을 좌우하는 중요한 단계였으며, 최첨단 아이 트래킹 기술을 활용한 독특한 게임이 눈길을 끌었습니다.</p>'
+      html: '<p>지난 13일 모든 회차가 공개된 \'더 인플루언서\'는 파이널 라운드까지 하루만에 정주행한 분들이 많을 정도로 <span style=&quot;color: inherit; text-align: start;&quot;>예측할 수 없는 전개와 적절한 속도감으로 엄청난 흡입력을 가집니다. </span>특히, \'관심이 곧 생존\'이라는 미션이 강조된 세 번째 라운드는 인플루언서들의 운명을 좌우하는 중요한 단계였으며, 최첨단 아이 트래킹 기술을 활용한 독특한 게임이 눈길을 끌었습니다.</p>'
     },
     {
       type: 'body',
@@ -69,6 +69,11 @@ const post = {
       type: 'body',
       html: '<p>대한민국 최고의 관심을 받는 인플루언서를 선정하는 프로그램 우승자 오킹은 프로그램이 종료되고 정말로 좋든 싫든 대한민국에서 가장 큰 관심을 받는 인플루언서가 되었습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post345_img4.jpg', alt: '넷플릭스 더 인플루언서 오킹', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post345_img3.jpg', alt: '더 인플루언서 과즙세연', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post345_img2.jpg', alt: '넷플릭스 인기 순위 더 인플루언서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post345_img1.jpg', alt: '넷플릭스 인기 순위 더 인플루언서', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>다음 포스팅에서는 넷플릭스 더 인플루언서 해외 평점과 후기 반응을 전해드리겠습니다.</p>'

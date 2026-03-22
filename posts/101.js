@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post101_img1.jpg', alt: '백 인 액션', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>영화 \'백 인 액션(Back in Action)\'은 전직 CIA 요원인 에밀리(카메론 디아즈)와 매티(제이미 폭스)가 평범한 가정을 꾸리며 살아가던 중, 과거의 임무로 인해 다시 첩보 세계로 복귀하게 되는 이야기를 그린 액션 코미디입니다.</p>'
     },
+    { type: 'image', src: '/images/post101_img2.jpg', alt: '백 인 액션', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section3',
@@ -58,6 +60,7 @@ const post = {
       type: 'body',
       html: '<p>에밀리와 매티는 CIA 소속 신속 대응 비공식 위장 요원(QRN)으로 활동하던 중, 전 세계 모든 시스템을 장악할 수 있는 ICS 키를 훔치는 임무를 성공적으로 수행합니다. 그러나 에밀리가 임신 사실을 알게 되면서 두 사람은 첩보 생활을 청산하고 평범한 가정을 꾸리기로 결심합니다.</p>'
     },
+    { type: 'image', src: '/images/post101_img3.jpg', alt: '백 인 액션', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>시간이 흘러 두 사람은 14세 딸 앨리스와 12세 아들 리오와 함께 평범한 삶을 살고 있었습니다. 어느 날, 앨리스가 클럽에 몰래 다녀온 사실을 알게 된 에밀리와 매티는 클럽에서 딸을 데려오는 과정에서 과거의 전투 기술을 사용하게 되고, 이 장면이 영상으로 촬영되어 인터넷에 퍼집니다. 이로 인해 과거 동료였던 척이 두 사람을 찾아와, ICS 키를 노리는 적들이 그들의 생존을 알게 되었음을 경고합니다.</p>'
@@ -81,6 +84,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;color: #781b33;&quot;>백 인 액션 Back In Action</span><br><span style=&quot;color: #781b33;&quot;>다시 활동을 시작하다, 복귀하다</span></br></b></blockquote>'
     },
+    { type: 'image', src: '/images/post101_img4.jpg', alt: '백 인 액션', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 \'백 인 액션(Back in Action)\'의 제목은 \'다시 활동을 시작하다\' 또는 \'복귀하다\'는 의미를 담고 있습니다.</p>'
@@ -135,6 +139,14 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 백 인 액션 해외 평론가 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post101_img12.jpg', alt: '백 인 액션 back in action', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post101_img11.jpg', alt: '백 인 액션 back in action', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post101_img10.jpg', alt: '백 인 액션 back in action', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post101_img9.jpg', alt: '백 인 액션 back in action', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post101_img8.jpg', alt: '백 인 액션 back in action', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post101_img7.jpg', alt: '백 인 액션 back in action', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post101_img6.jpg', alt: '백 인 액션 back in action', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post101_img5.jpg', alt: '백 인 액션 back in action', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>내용에 스포는 크게 없기에 바로 이어서 확인해 보시길 바랍니다.</p>'

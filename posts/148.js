@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1410&quot; data-origin-width=&quot;2426&quot;><span data-alt=&quot;보고타: 마지막 기회의 땅 포토&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wEBdF/btsLsqrI1E3/AAAAAAAAAAAAAAAAAAAAACTC0XtSO1doikd9oYrr9_dFou7Bzp_Ol1CswkokzXD_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pQjEyV0Z7Kgn1ls1dKAipFKG5KE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wEBdF/btsLsqrI1E3/AAAAAAAAAAAAAAAAAAAAACTC0XtSO1doikd9oYrr9_dFou7Bzp_Ol1CswkokzXD_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pQjEyV0Z7Kgn1ls1dKAipFKG5KE%3D&quot;></span><figcaption>보고타: 마지막 기회의 땅 포토</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post148_img1.jpg', alt: '보고타: 마지막 기회의 땅 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section2',
@@ -33,6 +34,7 @@ const post = {
       type: 'body',
       html: '<h3>메가박스 코엑스 언론 배급 시사회</h3>'
     },
+    { type: 'image', src: '/images/post148_img2.jpg', alt: '보고타: 마지막 기회의 땅 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 <i>\'보고타: 마지막 기회의 땅\'</i>의 언론·배급 시사회가 2024년 12월 19일 오후 서울 강남구 삼성동에 위치한 메가박스 코엑스에서 열렸습니다. 이 자리에는 김성제 감독과 주연 배우인 송중기, 이희준, 권해효, 박지환 등이 참석하여 작품에 대한 이야기를 나누었습니다.</p>'
@@ -71,6 +73,7 @@ const post = {
       type: 'body',
       html: '<p>배급사 SNS 를 통해 공개된 공식 보고타 무대인사 일정을 확인해 보세요. </p>'
     },
+    { type: 'image', src: '/images/post148_img3.jpg', alt: '보고타: 마지막 기회의 땅 포토', caption: 'ⓒ R의 필름공장' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'h2',
@@ -82,6 +85,7 @@ const post = {
       type: 'body',
       html: '<p>김성제 감독은 영화의 제작 과정과 현지 반응에 대해 이야기했습니다.</p>'
     },
+    { type: 'image', src: '/images/post148_img4.jpg', alt: '보고타 무대인사 일정', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;미국인들이 <br>더 험한 작품을 만들어서 그런지, <br>현지에서의 반발은 없었다&quot;</br></br></span></b></span></blockquote>'
@@ -100,6 +104,7 @@ const post = {
       type: 'body',
       html: '<h3>시사회 긍정적 반응</h3>'
     },
+    { type: 'image', src: '/images/post148_img5.jpg', alt: '보고타: 마지막 기회의 땅', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>시사회에 참석한 언론과 평론가들은 영화에 대한 다양한 반응을 보였습니다. 많은 평론가들은 송중기의 연기 변신에 주목하며 긍정적인 평가를 내렸습니다. 특히, 송중기가 극 중에서 보여준 깊이 있는 연기와 캐릭터 해석에 대한 찬사가 이어졌습니다.</p>'
@@ -142,6 +147,7 @@ const post = {
       type: 'body',
       html: '<p>영화 <i>\'보고타: 마지막 기회의 땅\'</i>은 2024년 12월 31일 개봉을 앞두고 있으며, 시사회를 통해 공개된 이후 관객들의 기대감이 더욱 높아지고 있습니다. <b>송중기의 연기 변신과 콜롬비아를 배경으로 한 독특한 스토리</b>가 관객들에게 어떤 반응을 이끌어낼지 주목됩니다.</p>'
     },
+    { type: 'image', src: '/images/post148_img6.jpg', alt: '보고타: 마지막 기회의 땅 시사회 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1528&quot; data-origin-width=&quot;2274&quot;><span data-alt=&quot;보고타: 마지막 기회의 땅 포토&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/BRLKK/btsLszvhRnc/AAAAAAAAAAAAAAAAAAAAAHNgOQ0GzLZJnf0UtbOoE-UhoQoPOxXaiObAzZ-sc8Tj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1Uqi0iOk1T4OegI957YQYaXaPqQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/BRLKK/btsLszvhRnc/AAAAAAAAAAAAAAAAAAAAAHNgOQ0GzLZJnf0UtbOoE-UhoQoPOxXaiObAzZ-sc8Tj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1Uqi0iOk1T4OegI957YQYaXaPqQ%3D&quot;></span><figcaption>보고타: 마지막 기회의 땅 포토</figcaption> </figure> </p>'
@@ -168,6 +174,7 @@ const post = {
       type: 'body',
       html: '<p>영화의 배경이 되는 콜롬비아 보고타는 1990년대 후반 경제 위기(IMF) 시기, 새로운 삶을 찾아 떠나는 한국인의 이야기를 그립니다.</p>'
     },
+    { type: 'image', src: '/images/post148_img7.jpg', alt: '보고타: 마지막 기회의 땅 시사회 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>송중기는 주인공 국희 역을 맡아 가족을 지키기 위해 고군분투하는 모습을 보여주며, 그의 연기력은 영화의 감정을 더욱 풍부하게 만들었습니다. 이번 작품은 송중기의 새로운 연기 도전과 김성제 감독의 뛰어난 연출로 더욱 기대되는 작품이죠.</p>'
@@ -191,6 +198,10 @@ const post = {
       type: 'body',
       html: '<p>전반적으로, <i>\'보고타: 마지막 기회의 땅\'</i>은 송중기의 연기 변신과 김성제 감독의 능숙한 연출 덕분에 큰 기대감을 모은 작품입니다. 영화의 스토리와 배경, 그리고 캐릭터 간의 갈등이 잘 결합되어 관객들에게 깊은 인상을 남기기 좋은 영화입니다.</p>'
     },
+    { type: 'image', src: '/images/post148_img11.jpg', alt: '보고타: 마지막 기회의 땅', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post148_img10.jpg', alt: '보고타: 마지막 기회의 땅', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post148_img9.jpg', alt: '보고타: 마지막 기회의 땅 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post148_img8.jpg', alt: '보고타: 마지막 기회의 땅 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>개봉일을 앞두고 관객들의 반응이 더욱 기대되며, 송중기의 새로운 연기 도전이 영화에 어떤 변화를 가져올지 지켜볼 필요가 있습니다.</p>'

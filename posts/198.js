@@ -8,7 +8,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 위키드에 대한 해외 평론가 시사회 후기 반응 포스팅입니다.</b></span></p><p><b>2024년 10월 30일에 진행된 영화 위키드의 첫 시사회는 미국의 비공개 프리뷰 행사</b>로 열렸습니다. 이번 시사회는 영화 제작사 유니버설 픽처스의 주도로, 평론가와 영화 업계 관계자들을 초청하여 진행되었습니다. 이 시사회에서 나온 초기 반응은 트위터와 관련 매체를 통해 공개되었으며, 각종 매체에서 소개된 평론가들의 호평과 의견들을 가져왔습니다.</p><p><span style=&quot;background-color: #f3c000;&quot;><b>영화에 대한 평론가들의 반응은 대부분 긍정적으로 평가</b></span>되었으며, 주요 반응을 긍정적, 부정적으로 나누어 정리하면 다음과 같습니다.</p><p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #ffffff;&quot;><i>영화 위키드에 대한 뜻과 의미 해석, 그리고 줄거리 내용은 이전 포스팅을 참고하시길 바랍니다.</i></span></p><p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;위키드 뜻 뮤지컬 소설 원작&quot;>2024.11.19 - [영화/영화 정보] - 현재상영작 영화 위키드 뜻 뮤지컬 소설 원작 줄거리 내용 &lt;아리아나 그란데 출연작&gt;</a></p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 위키드에 대한 해외 평론가 시사회 후기 반응 포스팅입니다.</b></span></p><p><b>2024년 10월 30일에 진행된 영화 위키드의 첫 시사회는 미국의 비공개 프리뷰 행사</b>로 열렸습니다. 이번 시사회는 영화 제작사 유니버설 픽처스의 주도로, 평론가와 영화 업계 관계자들을 초청하여 진행되었습니다. 이 시사회에서 나온 초기 반응은 트위터와 관련 매체를 통해 공개되었으며, 각종 매체에서 소개된 평론가들의 호평과 의견들을 가져왔습니다.</p><p><span style=&quot;background-color: #f3c000;&quot;><b>영화에 대한 평론가들의 반응은 대부분 긍정적으로 평가</b></span>되었으며, 주요 반응을 긍정적, 부정적으로 나누어 정리하면 다음과 같습니다.</p><p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent;&quot;><i>영화 위키드에 대한 뜻과 의미 해석, 그리고 줄거리 내용은 이전 포스팅을 참고하시길 바랍니다.</i></span></p><p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;위키드 뜻 뮤지컬 소설 원작&quot;>2024.11.19 - [영화/영화 정보] - 현재상영작 영화 위키드 뜻 뮤지컬 소설 원작 줄거리 내용 &lt;아리아나 그란데 출연작&gt;</a></p>'
     },
     {
       type: 'image',
@@ -28,6 +28,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post198_img1.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -53,6 +54,7 @@ const post = {
       type: 'body',
       html: '<h4><span style=&quot;background-color: #f3c000;&quot;><b>1. 연출과 캐스팅</b></span></h4>'
     },
+    { type: 'image', src: '/images/post198_img2.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>평론가들은 감독 존 추(Jon M. Chu)의 연출과 시각적 요소를 극찬했습니다. 특히 아리아나 그란데(Ariana Grande)는 글린다 역할에 &quot;완벽히 어울린다&quot;는 평가를 받으며 유머와 에너지 넘치는 연기로 호평받았습니다. 신시아 에리보(Cynthia Erivo) 또한 독창적인 보컬로 엘파바 캐릭터를 새롭게 재해석했다는 평을 얻었습니다.</p>'
@@ -75,6 +77,7 @@ const post = {
       type: 'body',
       html: '<h4><span style=&quot;background-color: #f3c000;&quot;><b>1. 긴 상영 시간</b></span></h4>'
     },
+    { type: 'image', src: '/images/post198_img3.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>일부 관객은 <b>2시간 40분에 달하는 상영 시간과 이야기의 2부 분할이 불필요</b>하게 느껴질 수 있다는 점을 지적했습니다. 이는 영화 팬들 사이에서 다소 논란을 일으켰으나, 대체로 이러한 우려는 실제 영화를 보고 나서 감소했다는 평가도 있었습니다.</p>'
@@ -98,6 +101,7 @@ const post = {
       type: 'body',
       html: '<p>영화 위키드에 대한 로튼토마토 후기 관람평이 공개되었습니다.</p>'
     },
+    { type: 'image', src: '/images/post198_img4.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>아직 하나의 리뷰만을 확인할 수 있으며, 추후 더 많은 리뷰가 공개되면 전달드리도록 하겠습니다.</p>'
@@ -124,6 +128,9 @@ const post = {
       type: 'body',
       html: '<p>전반적으로, <b>평론가들은 영화가 뮤지컬 팬들에게는 특히 큰 감동을 줄 수 있는 작품이라며 찬사</b>를 보냈으며, 아리아나 그란데와 신시아 에리보의 연기가 돋보인다고 평가했습니다.</p>'
     },
+    { type: 'image', src: '/images/post198_img7.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post198_img6.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post198_img5.jpg', alt: '위키드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이는 향후 개봉 후 대중들의 반응에도 긍정적인 영향을 미칠 가능성이 높아 보입니다.</p>'

@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2025년 넷플릭스 영화 뭐 볼까?</b></span></p><p><b>넷플릭스 영화 추천 TOP 20, 2025년입니다.</b></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;636&quot; data-origin-width=&quot;635&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bpSvFE/btsLEhaf79m/AAAAAAAAAAAAAAAAAAAAAERbl-0Nyd8wXq6hPcqjetexBHXw5QGhemYTpxETwZbN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rEcwfLrsuX2Q09EeYwHlOsmLFYQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bpSvFE/btsLEhaf79m/AAAAAAAAAAAAAAAAAAAAAERbl-0Nyd8wXq6hPcqjetexBHXw5QGhemYTpxETwZbN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rEcwfLrsuX2Q09EeYwHlOsmLFYQ%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p><p>넷플릭스 영화 정말 많은데 막상 보려고 하면 뭘 봐야 할지 모를 때가 많죠?</p><p><b>속 편히 현재 넷플릭스에서 시청가능한 평론가 인정 작품들을 선택</b>해보세요.</p><p>이동진 평론가, 박평식 평론가가 사랑한 명작 영화들을<span> </span><b>한줄평, 줄거리와 함께 전달</b>드리겠습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;><b>이 포스팅을 즐겨찾기</b><span> </span>하시고<span> </span><b>넷플릭스에서 시청가능한 명작 영화</b>들을 하나씩 꺼내보세요.</p><p>한국 영화계 <b>평론가 양대산맥 박평식 평론가의 평점 9점 영화 모음</b>입니다.</p><p>평생토록 만점영화가 없었던 평론가이기에, <b>9점을 준 영화들이 주는 만족감</b>이 상당하실 겁니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>후회하지 않는 시청되실 수 있습니다. 꼭 확인해보세요.</b></span></p><p>명실상부 현재 대한민국에서 <b>가장 핫하고 인기 있는 영화 평론가 이동진</b>입니다.</p><p>이동진 평론가의 평점 만점작들을 모아보았습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>이 포스팅을 통해 인생 영화를 갱신해 보세요!</b></span></p><p>자 그럼 <b>넷플릭스에서 시청가능한 박평식, 이동진 평론가의 영화추천 시작</b>합니다.</p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2025년 넷플릭스 영화 뭐 볼까?</b></span></p><p><b>넷플릭스 영화 추천 TOP 20, 2025년입니다.</b></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;636&quot; data-origin-width=&quot;635&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bpSvFE/btsLEhaf79m/AAAAAAAAAAAAAAAAAAAAAERbl-0Nyd8wXq6hPcqjetexBHXw5QGhemYTpxETwZbN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rEcwfLrsuX2Q09EeYwHlOsmLFYQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bpSvFE/btsLEhaf79m/AAAAAAAAAAAAAAAAAAAAAERbl-0Nyd8wXq6hPcqjetexBHXw5QGhemYTpxETwZbN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rEcwfLrsuX2Q09EeYwHlOsmLFYQ%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p><p>넷플릭스 영화 정말 많은데 막상 보려고 하면 뭘 봐야 할지 모를 때가 많죠?</p><p><b>속 편히 현재 넷플릭스에서 시청가능한 평론가 인정 작품들을 선택</b>해보세요.</p><p>이동진 평론가, 박평식 평론가가 사랑한 명작 영화들을<span> </span><b>한줄평, 줄거리와 함께 전달</b>드리겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><b>이 포스팅을 즐겨찾기</b><span> </span>하시고<span> </span><b>넷플릭스에서 시청가능한 명작 영화</b>들을 하나씩 꺼내보세요.</p><p>한국 영화계 <b>평론가 양대산맥 박평식 평론가의 평점 9점 영화 모음</b>입니다.</p><p>평생토록 만점영화가 없었던 평론가이기에, <b>9점을 준 영화들이 주는 만족감</b>이 상당하실 겁니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>후회하지 않는 시청되실 수 있습니다. 꼭 확인해보세요.</b></span></p><p>명실상부 현재 대한민국에서 <b>가장 핫하고 인기 있는 영화 평론가 이동진</b>입니다.</p><p>이동진 평론가의 평점 만점작들을 모아보았습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>이 포스팅을 통해 인생 영화를 갱신해 보세요!</b></span></p><p>자 그럼 <b>넷플릭스에서 시청가능한 박평식, 이동진 평론가의 영화추천 시작</b>합니다.</p>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>박평식 평론가가 추천하는 넷플릭스에서 시청가능 영화</b></span>입니다.</p>'
     },
+    { type: 'image', src: '/images/post110_img1.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>박평식 평론가의 7점은 97점이다 말할 수 있을 정도로 <b>평생 만점을 준 영화가 없기로 유명</b>하죠.</p>'
@@ -45,6 +46,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;><b>트럼프가 </b><br><b>무릎 꿇고 봐야 할 영화</b></br></span></blockquote>'
     },
+    { type: 'image', src: '/images/post110_img2.jpg', alt: '박평식 영화추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b4jD2l/btsLEqE026V/AAAAAAAAAAAAAAAAAAAAAATMPD_s1vuk9R5iVw5smUZXMa6xBGLA1i5Sx-VHHywJ/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4LrzKF00EejoRXUuGHDkqF85Q1o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b4jD2l/btsLEqE026V/AAAAAAAAAAAAAAAAAAAAAATMPD_s1vuk9R5iVw5smUZXMa6xBGLA1i5Sx-VHHywJ/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4LrzKF00EejoRXUuGHDkqF85Q1o%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
@@ -75,6 +77,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #781b33;&quot;><b>따라잡은 만큼 읽히는 <br/>유령일기</b></span><br/><br/></span></blockquote>'
     },
+    { type: 'image', src: '/images/post110_img3.jpg', alt: '이동진 영화추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/S6KXj/btsLBV0SdOp/AAAAAAAAAAAAAAAAAAAAABhSaSqANzysdNjgsZfY-Zdvo40g4bZT9HT8SH0J0YGa/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=U3PcQMuyzvFb2m5kfFYH6j%2F%2B76E%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/S6KXj/btsLBV0SdOp/AAAAAAAAAAAAAAAAAAAAABhSaSqANzysdNjgsZfY-Zdvo40g4bZT9HT8SH0J0YGa/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=U3PcQMuyzvFb2m5kfFYH6j%2F%2B76E%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
@@ -110,6 +113,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;> 올해 최고의 서스펜스 </span></b></blockquote>'
     },
+    { type: 'image', src: '/images/post110_img4.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;695&quot; data-origin-width=&quot;482&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bUbZhg/btsLEK4iyyG/AAAAAAAAAAAAAAAAAAAAAIRaEQ0otPjIEsk4ZaUASfdft852qYPrfWtxxIdNDj33/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JhtB8%2BnoYAMWFDnt%2BTL12YxVaHc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bUbZhg/btsLEK4iyyG/AAAAAAAAAAAAAAAAAAAAAIRaEQ0otPjIEsk4ZaUASfdft852qYPrfWtxxIdNDj33/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JhtB8%2BnoYAMWFDnt%2BTL12YxVaHc%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
@@ -144,6 +148,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>풍경! <br/>곡선도 날카롭구나.</span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post110_img5.jpg', alt: '박평식 평론가 넷플릭스 영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/KKQTM/btsLC4CSAH8/AAAAAAAAAAAAAAAAAAAAAHaWJRE6d4rMM_GCW-xuz6jp1zFnfI9_9Wz3Qr63BqAA/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=5aevWSkwDjoaX4sZPVPnQTRXZsU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/KKQTM/btsLC4CSAH8/AAAAAAAAAAAAAAAAAAAAAHaWJRE6d4rMM_GCW-xuz6jp1zFnfI9_9Wz3Qr63BqAA/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=5aevWSkwDjoaX4sZPVPnQTRXZsU%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
@@ -174,6 +179,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>혼만 남아 &lt;쇼아&gt;로 가시나요, 아버지</span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post110_img6.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bxh5qm/btsLD0sZzZN/AAAAAAAAAAAAAAAAAAAAAIto2ssadobAZtkoahcQFwrgxt3RsoSekdfT9hgoWVLq/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FOvyHp8UULKCGePIaVo%2Fr3SXM5o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bxh5qm/btsLD0sZzZN/AAAAAAAAAAAAAAAAAAAAAIto2ssadobAZtkoahcQFwrgxt3RsoSekdfT9hgoWVLq/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FOvyHp8UULKCGePIaVo%2Fr3SXM5o%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
@@ -204,6 +210,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>유쾌한 전율이 스멀스멀</span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post110_img7.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/oUHRq/btsLENfDnFs/AAAAAAAAAAAAAAAAAAAAAJlZjxpcjNsZyLgomUZ27Ti-B5hXxrnBRWQ6tZwArPLH/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FrJ5hoYOGZmE8446Y5%2BEdhBVAU0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/oUHRq/btsLENfDnFs/AAAAAAAAAAAAAAAAAAAAAJlZjxpcjNsZyLgomUZ27Ti-B5hXxrnBRWQ6tZwArPLH/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FrJ5hoYOGZmE8446Y5%2BEdhBVAU0%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
@@ -242,6 +249,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>주목, 해결사로서 탐사 저널리즘</span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post110_img8.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/qQwG1/btsLBY4r4XH/AAAAAAAAAAAAAAAAAAAAAKxp2tNlb8H_pTmS40GC6pfOT0TGYDtqtJ_L6GYGhnJ2/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=02Xrv0fyd1IZTaMQZPscl2eNSsg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/qQwG1/btsLBY4r4XH/AAAAAAAAAAAAAAAAAAAAAKxp2tNlb8H_pTmS40GC6pfOT0TGYDtqtJ_L6GYGhnJ2/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=02Xrv0fyd1IZTaMQZPscl2eNSsg%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
@@ -276,6 +284,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>영혼을 베고 베이다</span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post110_img9.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lnwlw/btsLDIsCOwx/AAAAAAAAAAAAAAAAAAAAAJGOWXk9Kfc_qe5uV-DP78IIlIfMcx9nwA-A-s0Cblyj/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FTaoiFpRP06zzNs2Zu8NE%2F9WD1w%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lnwlw/btsLDIsCOwx/AAAAAAAAAAAAAAAAAAAAAJGOWXk9Kfc_qe5uV-DP78IIlIfMcx9nwA-A-s0Cblyj/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FTaoiFpRP06zzNs2Zu8NE%2F9WD1w%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
@@ -306,6 +315,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>여전히 싱싱한 플롯과 색채, 메시지</span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post110_img10.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/d35PJF/btsLEqSw6lX/AAAAAAAAAAAAAAAAAAAAAKdRp0SX0pHBZ5e1MDi28y1lvS5ThvFUJXImO2kwusXS/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=UdCrIaAImCmGhW5yTW3XVTXzJok%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/d35PJF/btsLEqSw6lX/AAAAAAAAAAAAAAAAAAAAAKdRp0SX0pHBZ5e1MDi28y1lvS5ThvFUJXImO2kwusXS/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=UdCrIaAImCmGhW5yTW3XVTXzJok%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
@@ -348,6 +358,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>부럽다! <br/>브라질영화의 인간탐구와 시대정신</span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post110_img11.jpg', alt: '박평식 평론가 넷플릭스 영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bXND4K/btsLE1EKpkL/AAAAAAAAAAAAAAAAAAAAAK4OxYDfNwNWjkMOqv68BovdjU7N5CxZrOp3GSo6aQ6a/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Xm8167QUiJet6HyEy1j61pZXNec%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bXND4K/btsLE1EKpkL/AAAAAAAAAAAAAAAAAAAAAK4OxYDfNwNWjkMOqv68BovdjU7N5CxZrOp3GSo6aQ6a/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Xm8167QUiJet6HyEy1j61pZXNec%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
@@ -390,6 +401,7 @@ const post = {
       type: 'body',
       html: '<p>이동진 평론가가 평점 만점을 준 작품에서 찾은 볼만한 넷플릭스 영화 추천 작품들입니다.</p>'
     },
+    { type: 'image', src: '/images/post110_img12.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>인생 영화들로 구성된 리스트들은 <span style=&quot;background-color: #9feec3;&quot;><b>모두 넷플릭스에서 시청 가능한 작품</b></span>들입니다.</p>'
@@ -404,6 +416,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bKmTwF/btsLELPENuD/AAAAAAAAAAAAAAAAAAAAAK6gG5-OTY395qWTIRLGX56gAS2u3aG9Gn72nxLp8D4N/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=x%2BtXvU3SFFeB%2FQrnwibGjz%2BX4jY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bKmTwF/btsLELPENuD/AAAAAAAAAAAAAAAAAAAAAK6gG5-OTY395qWTIRLGX56gAS2u3aG9Gn72nxLp8D4N/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=x%2BtXvU3SFFeB%2FQrnwibGjz%2BX4jY%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post110_img13.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;>미칠 것 같은, 미치고 싶은, <br/>미쳐지지 않는,  미칠 수 없는.<br/></span>박평식, 이동진 극찬 영화</b></blockquote>'
@@ -418,6 +431,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/7ZoBd/btsLCIz4wrR/AAAAAAAAAAAAAAAAAAAAANr2VrnXrhl4Zu2EX3VINdTR-Tsd9JZHX7cLuqqCZcsD/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=30XskJcmp8QuSmJdir390dLL%2F0Y%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/7ZoBd/btsLCIz4wrR/AAAAAAAAAAAAAAAAAAAAANr2VrnXrhl4Zu2EX3VINdTR-Tsd9JZHX7cLuqqCZcsD/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=30XskJcmp8QuSmJdir390dLL%2F0Y%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post110_img14.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>현대문명의 허상을 조롱하는<br/>통렬한 블랙코미디.</span></b></span></blockquote>'
@@ -464,6 +478,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/GxVD3/btsLCtb7sZ5/AAAAAAAAAAAAAAAAAAAAALnzS8mC64VImEhWno56qI0tuB9z6RfBOZe9ItRRj6ne/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1DsrKPZmAZm%2Fz14OkKYwl306Djc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/GxVD3/btsLCtb7sZ5/AAAAAAAAAAAAAAAAAAAAALnzS8mC64VImEhWno56qI0tuB9z6RfBOZe9ItRRj6ne/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1DsrKPZmAZm%2Fz14OkKYwl306Djc%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post110_img15.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #781b33;&quot;><b>서로를 응시하는 시선으로</b></span><br/><span style=&quot;color: #781b33;&quot;><b>선연하게 타오르는,</b></span><br/><span style=&quot;color: #781b33;&quot;><b>영화 자체가 아름다운 불꽃같다.</b></span><br/></span></blockquote>'
@@ -510,6 +525,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bGREFi/btsLC61MQh4/AAAAAAAAAAAAAAAAAAAAAPHZLkIqYv8AHW4m_YutiCmFvQuijU1CZRTtiUL6RwZE/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=zqxdSs5qSkM4I9i8VaDznrMZR0E%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bGREFi/btsLC61MQh4/AAAAAAAAAAAAAAAAAAAAAPHZLkIqYv8AHW4m_YutiCmFvQuijU1CZRTtiUL6RwZE/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=zqxdSs5qSkM4I9i8VaDznrMZR0E%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post110_img16.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #781b33;&quot;><b>J.K. 시몬즈의 명연조차 </b></span><br/><span style=&quot;color: #781b33;&quot;><b>이 영화의 탁월한 성취 중 일부분일 뿐.</b></span><br/></span></blockquote>'
@@ -558,6 +574,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dJTI2q/btsLDI0rjuX/AAAAAAAAAAAAAAAAAAAAADjJ_RAlnS35u1N2KJg6E7QPw1UM9Mz2CGAs52gxKLrx/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2k5kgLWYOADneKbdmaYTis%2FJHR4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dJTI2q/btsLDI0rjuX/AAAAAAAAAAAAAAAAAAAAADjJ_RAlnS35u1N2KJg6E7QPw1UM9Mz2CGAs52gxKLrx/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2k5kgLWYOADneKbdmaYTis%2FJHR4%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post110_img17.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>한국영화계가 <br/>2003년을 자꾸 되돌아보는 <br/>가장 큰 이유.</span></b></span></blockquote>'
@@ -608,6 +625,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;넷플릭스 영화 추천 2025년&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/AEr9h/btsLCuhOPno/AAAAAAAAAAAAAAAAAAAAAAbvlKF7iRCnxPuaRAO8uJSg1r8k965fZHOBTNPpZ5R0/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ZgoV0hzxYcKf%2BagQ27NsGVe9riA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/AEr9h/btsLCuhOPno/AAAAAAAAAAAAAAAAAAAAAAbvlKF7iRCnxPuaRAO8uJSg1r8k965fZHOBTNPpZ5R0/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ZgoV0hzxYcKf%2BagQ27NsGVe9riA%3D&quot;></span><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post110_img18.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;>천의무봉. <br/>보이지 않는 실의 역학.</span></b></blockquote>'
@@ -642,6 +660,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/nRNrD/btsLC4iyh1U/AAAAAAAAAAAAAAAAAAAAANDQIvraDpRTBM4UER7fg7MgpEzqRKC36m5cjfw3K3Ey/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hBJuXpLYgEGZ6Rv0vjeHdWuR1xk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/nRNrD/btsLC4iyh1U/AAAAAAAAAAAAAAAAAAAAANDQIvraDpRTBM4UER7fg7MgpEzqRKC36m5cjfw3K3Ey/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hBJuXpLYgEGZ6Rv0vjeHdWuR1xk%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post110_img19.jpg', alt: '넷플릭스 영화 추천 2025년', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #781b33;&quot;><b>인간의 굴레에 대한 </b></span><br/><span style=&quot;color: #781b33;&quot;><b>요르고스 란티모스의 </b></span><br/><span style=&quot;color: #781b33;&quot;><b>경이롭고도 몸서리쳐지는 신화.</b></span><br/></span></blockquote>'
@@ -672,6 +691,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bTe8Hn/btsLCHunYrP/AAAAAAAAAAAAAAAAAAAAAIlMrgQsjyeWj9YQfeAb3vZsHc19r2FguDwcmo0F7NNf/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GlXUnXRa5HzXzfR4EjMIMp7nFGQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bTe8Hn/btsLCHunYrP/AAAAAAAAAAAAAAAAAAAAAIlMrgQsjyeWj9YQfeAb3vZsHc19r2FguDwcmo0F7NNf/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GlXUnXRa5HzXzfR4EjMIMp7nFGQ%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post110_img20.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>마틴 스콜세지의 21세기 최고작. <br/>위대한 영화인들이 모여 <br/>기대를 제대로 충족시킨다.</span></b></span></blockquote>'
@@ -698,6 +718,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cuPWn7/btsLC5htAXL/AAAAAAAAAAAAAAAAAAAAAApyBWQ4ZEsZjEy4YmNTg51xal39-nDw3j9NVDW_FjIC/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sRKeTzG%2F4%2F9GuesPYk8M19Z5BqA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cuPWn7/btsLC5htAXL/AAAAAAAAAAAAAAAAAAAAAApyBWQ4ZEsZjEy4YmNTg51xal39-nDw3j9NVDW_FjIC/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sRKeTzG%2F4%2F9GuesPYk8M19Z5BqA%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post110_img21.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>파란색으로도 보이고 <br/>녹색으로도 보이는 그 옷처럼, <br/>미결과 영원 사이에서 사무치도록.</span></b></span></blockquote>'
@@ -732,6 +753,8 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/w3Quf/btsLDYaQpmh/AAAAAAAAAAAAAAAAAAAAAOk1dOUGmp6kltpNVffOheXbY0k7tt7UafSzfpNY-8KL/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ClLM%2F%2FJgpqfqQ%2Bk1JsvmikIlBC0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/w3Quf/btsLDYaQpmh/AAAAAAAAAAAAAAAAAAAAAOk1dOUGmp6kltpNVffOheXbY0k7tt7UafSzfpNY-8KL/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ClLM%2F%2FJgpqfqQ%2Bk1JsvmikIlBC0%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post110_img23.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post110_img22.jpg', alt: '볼만한 넷플릭스 인생영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>특정한 시공간 속의 개인적 추억에 <br/>감동 넘치는 보편성의 날개를 달아준 <br/>기술, 예술, 마술.</span></b></span></blockquote>'

@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>극장판 &lt;귀멸의 칼날 4기: 인연의 기적, 그리고 합동 강화 훈련으로&gt;가 개봉 예정입니다.</p><p>전세계 140개 한국 380개 <span style=&quot;color: #333333; text-align: start;&quot;>상영관에서 공개 될 </span>4기 합동 강화 훈련 개봉 전, 최고의 명작으로 불리는 귀멸의 칼날 : 무한열차편 해외 평점 및 반응 살펴보도록 하겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;귀멸의 칼날 포스터.jpg&quot; data-origin-height=&quot;500&quot; data-origin-width=&quot;500&quot;><span data-alt=&quot;극장판 귀멸의 칼날 : 무한열차편 렌고쿠&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bcJoHe/btsDxiuUW1N/AAAAAAAAAAAAAAAAAAAAAK9MFWRQ0Ah5LX2Byy3xgkEqi33zXqPdP3wKDRM2fKP9/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WDXRqf4g1FcCP%2FACgUCyNPx5aFY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bcJoHe/btsDxiuUW1N/AAAAAAAAAAAAAAAAAAAAAK9MFWRQ0Ah5LX2Byy3xgkEqi33zXqPdP3wKDRM2fKP9/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WDXRqf4g1FcCP%2FACgUCyNPx5aFY%3D&quot;></span><figcaption>극장판 귀멸의 칼날 : 무한열차편 렌고쿠</figcaption> </figure> </p>'
+      html: '<p>극장판 &lt;귀멸의 칼날 4기: 인연의 기적, 그리고 합동 강화 훈련으로&gt;가 개봉 예정입니다.</p><p>전세계 140개 한국 380개 <span style=&quot;color: inherit; text-align: start;&quot;>상영관에서 공개 될 </span>4기 합동 강화 훈련 개봉 전, 최고의 명작으로 불리는 귀멸의 칼날 : 무한열차편 해외 평점 및 반응 살펴보도록 하겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;귀멸의 칼날 포스터.jpg&quot; data-origin-height=&quot;500&quot; data-origin-width=&quot;500&quot;><span data-alt=&quot;극장판 귀멸의 칼날 : 무한열차편 렌고쿠&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bcJoHe/btsDxiuUW1N/AAAAAAAAAAAAAAAAAAAAAK9MFWRQ0Ah5LX2Byy3xgkEqi33zXqPdP3wKDRM2fKP9/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WDXRqf4g1FcCP%2FACgUCyNPx5aFY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bcJoHe/btsDxiuUW1N/AAAAAAAAAAAAAAAAAAAAAK9MFWRQ0Ah5LX2Byy3xgkEqi33zXqPdP3wKDRM2fKP9/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WDXRqf4g1FcCP%2FACgUCyNPx5aFY%3D&quot;></span><figcaption>극장판 귀멸의 칼날 : 무한열차편 렌고쿠</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -55,11 +55,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>Michael Ordoña </span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>Michael Ordoña </span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>Los Angeles Times</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>Los Angeles Times</span></b></p>'
     },
     {
       type: 'body',
@@ -141,6 +141,20 @@ const post = {
       type: 'body',
       html: '<p>애니메이션 귀멸의 칼날 4기 공개 전 월드투어 프로모션 개념의 일환으로 전세계 개봉하는 영화로, 2월 11일 CGV 용산에서 월드투어 내한 행사를 개최합니다. 아직 예매 및 응모 방식등은 공개되지 않았습니다. 업데이트 되는 내용 빠르게 공유하도록 하겠습니다. </p>'
     },
+    ,
+    { type: 'image', src: '/images/post457_img13.jpg', alt: '귀멸의 칼날 4기 : 인연의 기적&amp;#44; 그리고 합동 강화 훈련', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img12.jpg', alt: 'IMDB 극장판 귀멸의 칼날 : 무한열차편 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img11.jpg', alt: 'IMDB 극장판 귀멸의 칼날 : 무한열차편 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img10.jpg', alt: '극장판 귀멸의 칼날 : 무한열차편', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img9.jpg', alt: '극장판 귀멸의 칼날 : 무한열차편', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img8.jpg', alt: '극장판 귀멸의 칼날 : 무한열차편', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img7.jpg', alt: '극장판 귀멸의 칼날 : 무한열차편', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img6.jpg', alt: '극장판 귀멸의 칼날 : 무한열차편', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img5.jpg', alt: '로튼토마토 극장판 귀멸의 칼날 : 무한열차편', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img4.jpg', alt: '봉준호 감독 미키17 정보 및 오스카상 수상작 기생충 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img3.jpg', alt: '조커 2: 폴리 아 되 개봉일 및 전작 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img2.jpg', alt: '최고 기대작 영화 &amp;lt;파묘&amp;gt; 개봉일 및 티저 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post457_img1.jpg', alt: '극장판 귀멸의 칼날 : 무한열차편 렌고쿠', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>마지막으로 아래 영상을 통해 귀멸의 칼날 4기 인연의 기적 월드투어 공식 예고편을 시청하실 수 있습니다.</p>'

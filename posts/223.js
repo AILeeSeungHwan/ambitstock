@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>베놈 라스트 댄스 로튼 토마토 평론가 관람평 결말 후기 입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post223_img1.jpg', alt: '베놈 라스트 댄스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>팝콘 영화로 그럭저럭 <br>시간 때우기 좋은 영화</br></span></b></span></blockquote>'
@@ -133,6 +134,15 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>현재 <i>베놈 4</i>에 대한 공식적인 정보는 나오지 않은 상태입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post223_img10.jpg', alt: '베놈 라스트 댄스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post223_img9.jpg', alt: '베놈 라스트 댄스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post223_img8.jpg', alt: '베놈 라스트 댄스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post223_img7.jpg', alt: '베놈 라스트 댄스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post223_img6.jpg', alt: '베놈 라스트 댄스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post223_img5.jpg', alt: '베놈 라스트 댄스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post223_img4.jpg', alt: '베놈 라스트 댄스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post223_img3.jpg', alt: '베놈 라스트 댄스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post223_img2.jpg', alt: '베놈 라스트 댄스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i>베놈: 라스트 댄스</i>가 톰 하디가 마지막으로 베놈을 연기하는 작품이라는 점에서, 이 영화가 에디 브록과 베놈의 이야기를 마무리 짓는 것으로 알려져 있으며, 톰 하디가 \'마지막 춤\'이라고 표현한 만큼, 추가 속편에 대한 언급은 아직 없습니다.</p>'

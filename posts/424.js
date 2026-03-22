@@ -113,6 +113,17 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 방송사: KBS1</span><br/><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 방영 기간: 2024년 3월 25일 ~ (예정)</span><br/><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 총 회차: 120부작</span><br/><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 극본: 남선혜</span><br/><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 연출: 박기현</span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post424_img10.jpg', alt: '드라마 수지맞은 우리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post424_img9.jpg', alt: '드라마 수지맞은 우리 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post424_img8.jpg', alt: '드라마 수지맞은 우리 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post424_img7.jpg', alt: '드라마 수지맞은 우리 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post424_img6.jpg', alt: '드라마 수지맞은 우리 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post424_img5.jpg', alt: '드라마 수지맞은 우리 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post424_img4.jpg', alt: '드라마 수지맞은 우리 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post424_img3.jpg', alt: '드라마 수지맞은 우리 등장인물', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post424_img2.jpg', alt: '드라마 수지맞은 우리 함은정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post424_img1.jpg', alt: '드라마 수지맞은 우리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>KBS1 드라마 수지맞은 우리는 첫 회에서 전국 시청률 12.6%를 기록하였고,  최근 방영된 62화는 13.1%로 방영이후 최고 시청률을 기록 하였습니다.</span></p>'

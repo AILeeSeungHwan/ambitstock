@@ -121,6 +121,17 @@ const post = {
       type: 'body',
       html: '<p>이상으로 영화 룸 넥스트 도어 해외 평론가 후기 관람평 리뷰 포스팅 마칩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post236_img10.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post236_img9.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post236_img8.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post236_img7.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post236_img6.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post236_img5.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post236_img4.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post236_img3.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post236_img2.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post236_img1.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

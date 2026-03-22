@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>8위는 늘봄가든입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post244_img1.jpg', alt: '늘봄가든', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>개봉 전까지는 곤지암의 아성을 무너뜨릴 공포영화의 등장이라 기대를 모았습니다.</p>'
@@ -52,8 +53,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>7위는 이매지너리입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>7위는 이매지너리입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post244_img2.jpg', alt: '공포 영화 이매지너리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>로튼토마토 평점이 아주 박살이 났습니다.</b></span></p>'
@@ -93,6 +95,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>6위는 딜리버런스입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post244_img3.jpg', alt: '공포영화 딜리버런스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>넷플릭스에서 공개한 공포영화 딜리버런스입니다.</b></span></p>'
@@ -129,6 +132,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>5위는 스픽 노 이블입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post244_img4.jpg', alt: '공포영화 추천 스픽 노 이블', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>이제부터는 볼만한 공포 영화 작품들을 추천할 수 있게 되었습니다.</b></span></p>'
@@ -160,6 +164,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>4위는 파묘입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post244_img5.jpg', alt: '공포 영화 추천 파묘', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>장르적으로 오컬트영화 또한 공포영화의 범주에 들어가기에, 올해 한국영화 인기작품 중 하나인 파묘가 빠지면 섭섭할 것 같습니다.</p>'
@@ -187,6 +192,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>3위는 악이 도사리고 있을 때입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post244_img6.jpg', alt: '공포 영화 추천 악이 도사리고 있을 때', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;733&quot; data-origin-width=&quot;1247&quot;><span data-alt=&quot;공포 영화 추천 악이 도사리고 있을 때&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/uyLYU/btsJW2rQupu/AAAAAAAAAAAAAAAAAAAAAH4thPavSl8VXn3c9QtCZOdyZ76UqUz-7mlmfPX3sYQo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=k1kQvzq%2B4xijSxrQZzkCtvfYlbM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/uyLYU/btsJW2rQupu/AAAAAAAAAAAAAAAAAAAAAH4thPavSl8VXn3c9QtCZOdyZ76UqUz-7mlmfPX3sYQo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=k1kQvzq%2B4xijSxrQZzkCtvfYlbM%3D&quot;></span><figcaption>공포 영화 추천 악이 도사리고 있을 때</figcaption> </figure> </p>'
@@ -216,8 +222,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>2위는 스마일 2입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>2위는 스마일 2입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post244_img7.jpg', alt: '공포 영화 추천 스마일 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>해외 평론가들로부터 올해 최고의 공포영화라고 평가받는 스마일 2입니다.</b></span></p>'
@@ -256,8 +263,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>1위는 에일리언: 로물루스입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>1위는 에일리언: 로물루스입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post244_img8.jpg', alt: '공포 영화 추천 에일리언 로물루스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1096&quot; data-origin-width=&quot;2024&quot;><span data-alt=&quot;공포 영화 추천 에일리언 로물루스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/TRPqL/btsI5w88jNV/AAAAAAAAAAAAAAAAAAAAAEE3Dpj9ua7ejW1ph2QkpX4YkoLpPwmVDQtGBg_Xz3Di/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kTJaLJyvlb9kBc5Zi2Y5LKtOZtE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/TRPqL/btsI5w88jNV/AAAAAAAAAAAAAAAAAAAAAEE3Dpj9ua7ejW1ph2QkpX4YkoLpPwmVDQtGBg_Xz3Di/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kTJaLJyvlb9kBc5Zi2Y5LKtOZtE%3D&quot;></span><figcaption>공포 영화 추천 에일리언 로물루스</figcaption> </figure> </p>'

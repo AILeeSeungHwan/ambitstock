@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>애니메이션 영화 나의 히어로 아카데미아 더 무비: 유어 넥스트가 로튼 토마토에서 압도적인 평점을 기록 중입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>이번 포스팅에서는 영화 <b>나의 히어로 아카데미아 더 무비: 유어 넥스트의 </b>로튼 토마토 평점과 해외 시사회 후기 관람평에 대해 알아보도록 하겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1552&quot; data-origin-width=&quot;1040&quot;><span data-alt=&quot;나의 히어로 아카데미아 더 무비: 유어 넥스트&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/oCjop/btsKPIy9RAl/AAAAAAAAAAAAAAAAAAAAAF8dEThUZCGIGFEMLV2He7uroXlbQzPKrHJ8jq6EjYaz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tURrRym%2FjE9gEgiaoZrpgfeXGPY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/oCjop/btsKPIy9RAl/AAAAAAAAAAAAAAAAAAAAAF8dEThUZCGIGFEMLV2He7uroXlbQzPKrHJ8jq6EjYaz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tURrRym%2FjE9gEgiaoZrpgfeXGPY%3D&quot;></span><figcaption>나의 히어로 아카데미아 더 무비: 유어 넥스트</figcaption> </figure> </p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>애니메이션 영화 나의 히어로 아카데미아 더 무비: 유어 넥스트가 로튼 토마토에서 압도적인 평점을 기록 중입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서는 영화 <b>나의 히어로 아카데미아 더 무비: 유어 넥스트의 </b>로튼 토마토 평점과 해외 시사회 후기 관람평에 대해 알아보도록 하겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1552&quot; data-origin-width=&quot;1040&quot;><span data-alt=&quot;나의 히어로 아카데미아 더 무비: 유어 넥스트&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/oCjop/btsKPIy9RAl/AAAAAAAAAAAAAAAAAAAAAF8dEThUZCGIGFEMLV2He7uroXlbQzPKrHJ8jq6EjYaz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tURrRym%2FjE9gEgiaoZrpgfeXGPY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/oCjop/btsKPIy9RAl/AAAAAAAAAAAAAAAAAAAAAF8dEThUZCGIGFEMLV2He7uroXlbQzPKrHJ8jq6EjYaz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tURrRym%2FjE9gEgiaoZrpgfeXGPY%3D&quot;></span><figcaption>나의 히어로 아카데미아 더 무비: 유어 넥스트</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post195_img1.jpg', alt: '나의 히어로 아카데미아 더 무비: 유어 넥스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -46,15 +47,16 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 나의 히어로 아카데미아 더 무비: 유어 넥스트 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 나의 히어로 아카데미아 더 무비: 유어 넥스트 로튼토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post195_img2.jpg', alt: '나의 히어로 아카데미아 더 무비: 유어 넥스트 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;632&quot; data-origin-width=&quot;1896&quot;><span data-alt=&quot;나의 히어로 아카데미아 더 무비: 유어 넥스트 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dYuqcS/btsKOcaqBo0/AAAAAAAAAAAAAAAAAAAAANKqDmD8LCfLodw6O23H1Wqv7DT7Rng0FHxlLG8IDS2k/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2F7ISISguaV61oINYjRfSxfkWI4c%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dYuqcS/btsKOcaqBo0/AAAAAAAAAAAAAAAAAAAAANKqDmD8LCfLodw6O23H1Wqv7DT7Rng0FHxlLG8IDS2k/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2F7ISISguaV61oINYjRfSxfkWI4c%3D&quot;></span><figcaption>나의 히어로 아카데미아 더 무비: 유어 넥스트 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 94%, 관람객 평점 91% 평점을 기록하였습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 94%, 관람객 평점 91% 평점을 기록하였습니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -62,7 +64,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>높은 평론가 평점뿐만 아니라 관객 평점에서 압도적인 평점과 더불어 인증마크까지 획득</b>하며 해외에서 상당히 만족스러운 평가를 받았습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>높은 평론가 평점뿐만 아니라 관객 평점에서 압도적인 평점과 더불어 인증마크까지 획득</b>하며 해외에서 상당히 만족스러운 평가를 받았습니다.</p>'
     },
     {
       type: 'h2',
@@ -72,8 +74,16 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 나의 히어로 아카데미아 더 무비: 유어 넥스트 시사회 후기 관람평입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 나의 히어로 아카데미아 더 무비: 유어 넥스트 시사회 후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post195_img10.jpg', alt: '나의 히어로 아카데미아 더 무비: 유어 넥스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post195_img9.jpg', alt: '나의 히어로 아카데미아 더 무비: 유어 넥스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post195_img8.jpg', alt: '나의 히어로 아카데미아 더 무비: 유어 넥스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post195_img7.jpg', alt: '나의 히어로 아카데미아 더 무비: 유어 넥스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post195_img6.jpg', alt: '나의 히어로 아카데미아 더 무비: 유어 넥스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post195_img5.jpg', alt: '나의 히어로 아카데미아 더 무비: 유어 넥스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post195_img4.jpg', alt: '나의 히어로 아카데미아 더 무비: 유어 넥스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post195_img3.jpg', alt: '나의 히어로 아카데미아 더 무비: 유어 넥스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1318&quot; data-origin-width=&quot;2478&quot;><span data-alt=&quot;나의 히어로 아카데미아 더 무비: 유어 넥스트&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/c1M52s/btsKOTIbzgu/AAAAAAAAAAAAAAAAAAAAAOUeMzjNe7qLHThWDTddvpZvhdjOrlcsWrkT_U1XxnAM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=gECkdFEywKXg30UONtJp13XRwSI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/c1M52s/btsKOTIbzgu/AAAAAAAAAAAAAAAAAAAAAOUeMzjNe7qLHThWDTddvpZvhdjOrlcsWrkT_U1XxnAM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=gECkdFEywKXg30UONtJp13XRwSI%3D&quot;></span><figcaption>나의 히어로 아카데미아 더 무비: 유어 넥스트</figcaption> </figure> </p>'

@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 애니메이션 신들의 황혼 (영어제목 : Twiliight of the Gods) 해외 평점 반응입니다.</b></span></p><p>인기에 비해 전체적으로 아쉬운 평점을 기록하고 있는데요. 로튼토마토 평점을 바탕으로 신들의 황혼 평점 확인해 보고 볼만한 애니메이션인지 알아보겠습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>신들의 황혼 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 애니메이션 신들의 황혼 (영어제목 : Twiliight of the Gods) 해외 평점 반응입니다.</b></span></p><p>인기에 비해 전체적으로 아쉬운 평점을 기록하고 있는데요. 로튼토마토 평점을 바탕으로 신들의 황혼 평점 확인해 보고 볼만한 애니메이션인지 알아보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>신들의 황혼 로튼토마토 평론가 평점입니다.</b></span></p>'
     },
     {
       type: 'image',
@@ -30,11 +30,11 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>평론가 평점 64%, 관람객 평점 79%을 기록하고 있습니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>평론가 평점 64%, 관람객 평점 79%을 기록하고 있습니다.</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>낮은 평론가 평점에 비해 관람객 평점에서는 꽤나 높은 평점을 기록하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>낮은 평론가 평점에 비해 관람객 평점에서는 꽤나 높은 평점을 기록하고 있습니다.</p>'
     },
     {
       type: 'body',
@@ -80,6 +80,12 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post276_img5.jpg', alt: '신들의 황혼', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post276_img4.jpg', alt: '신들의 황혼 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post276_img3.jpg', alt: '신들의 황혼 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post276_img2.jpg', alt: '신들의 황혼 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post276_img1.jpg', alt: '신들의 황혼', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>'

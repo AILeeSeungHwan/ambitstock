@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>스위트홈 은 차현수(송강 분)가 가족을 잃은 후 은둔형 외톨이로 살며, 자살을 결심하고 이사한 아파트에서 벌어지는 기이한 사건들을 그린 시리즈입니다. 갑작스럽게 사람들을 괴물로 변이 시키는 원인 불명의 바이러스가 퍼지며, 아파트 주민들은 생존을 위해 힘을 합치게 됩니다. </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>스위트홈 은 차현수(송강 분)가 가족을 잃은 후 은둔형 외톨이로 살며, 자살을 결심하고 이사한 아파트에서 벌어지는 기이한 사건들을 그린 시리즈입니다. 갑작스럽게 사람들을 괴물로 변이 시키는 원인 불명의 바이러스가 퍼지며, 아파트 주민들은 생존을 위해 힘을 합치게 됩니다. </span></p>'
     },
     {
       type: 'body',
@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><br><span style=&quot;font-family: \'Noto Serif KR\';&quot;>현수는 자신도 바이러스에 감염되어 괴물화의 위기에 처하지만, 인간성과 괴물성을 동시에 지니고 싸우며 중요한 역할을 합니다. 생존자들 가운데 군인 출신의 이경(이시영 분)과 생존의지 강한 은혁(이도현 분), 그리고 다양한 캐릭터들이 괴물들과 맞서며 생존을 위해 고군분투합니다. </span></br></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><br><span style=&quot;font-family: \'Noto Serif KR\';&quot;>현수는 자신도 바이러스에 감염되어 괴물화의 위기에 처하지만, 인간성과 괴물성을 동시에 지니고 싸우며 중요한 역할을 합니다. 생존자들 가운데 군인 출신의 이경(이시영 분)과 생존의지 강한 은혁(이도현 분), 그리고 다양한 캐릭터들이 괴물들과 맞서며 생존을 위해 고군분투합니다. </span></br></p>'
     },
     {
       type: 'body',
@@ -31,7 +31,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><br/><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시즌 2에서는 괴물화 현상이 더욱 확산되며, 새로운 생존자들이 등장하고 기존 캐릭터들이 더 강력한 위협에 직면하게 됩니다. 현수와 그의 동료들은 더욱 치열한 전투를 벌이며, 인간성과 생존의 갈림길에서 고뇌하게 됩니다.</span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><br/><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시즌 2에서는 괴물화 현상이 더욱 확산되며, 새로운 생존자들이 등장하고 기존 캐릭터들이 더 강력한 위협에 직면하게 됩니다. 현수와 그의 동료들은 더욱 치열한 전투를 벌이며, 인간성과 생존의 갈림길에서 고뇌하게 됩니다.</span></p>'
     },
     {
       type: 'body',
@@ -81,6 +81,21 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1320&quot; data-origin-width=&quot;2332&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 김시아&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/LiJsb/btsIg5Zv8Fk/AAAAAAAAAAAAAAAAAAAAAAwyv8DCsz-DGukpwy12Nz_kVkXK3PHMbby9UA72dU50/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1vDpPZhXG9wWEVpbAXgvxbK1e5Q%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/LiJsb/btsIg5Zv8Fk/AAAAAAAAAAAAAAAAAAAAAAwyv8DCsz-DGukpwy12Nz_kVkXK3PHMbby9UA72dU50/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1vDpPZhXG9wWEVpbAXgvxbK1e5Q%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 김시아</figcaption> </figure> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post413_img14.jpg', alt: '넷플릭스 시리즈 스위트홈 김시아', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img13.jpg', alt: '넷플릭스 시리즈 스위트홈 김무열', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img12.jpg', alt: '넷플릭스 시리즈 스위트홈 정진영', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img11.jpg', alt: '넷플릭스 시리즈 스위트홈 고민서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img10.jpg', alt: '넷플릭스 시리즈 스위트홈 이도현', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img9.jpg', alt: '넷플릭스 시리즈 스위트홈 이도현', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img8.jpg', alt: '넷플릭스 시리즈 스위트홈 이시영', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img7.jpg', alt: '넷플릭스 시리즈 스위트홈 이진욱', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img6.jpg', alt: '넷플릭스 시리즈 스위트홈 송강', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img5.jpg', alt: '스위트홈 시즌3 출연진', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img4.jpg', alt: '넷플릭스 시리즈 스위트홈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img3.jpg', alt: '넷플릭스 시리즈 스위트홈 이도현', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img2.jpg', alt: '넷플릭스 시리즈 스위트홈 송강', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post413_img1.jpg', alt: '넷플릭스 시리즈 스위트홈 시즌3', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>현재 &quot;스위트홈&quot; 시즌 3에 대한 평점 및 평가반응, 몇 부작인지에 대한 정보는 공개되지 않았습니다. 공개 후 새로운 포스팅을 통해 소식 전해드리겠습니다.</span></p>'

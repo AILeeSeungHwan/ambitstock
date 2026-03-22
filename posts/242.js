@@ -121,6 +121,15 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post242_img8.jpg', alt: '탈출 : 프로젝트 사일런스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post242_img7.jpg', alt: '탈출 : 프로젝트 사일런스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post242_img6.jpg', alt: '탈출 : 프로젝트 사일런스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post242_img5.jpg', alt: '탈출 : 프로젝트 사일런스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post242_img4.jpg', alt: '탈출 : 프로젝트 사일런스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post242_img3.jpg', alt: '탈출 : 프로젝트 사일런스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post242_img2.jpg', alt: '탈출 : 프로젝트 사일런스 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post242_img1.jpg', alt: '넷플릭스 공개 탈출 : 프로젝트 사일런스 결말후기 반응 관람평 리뷰 | 이 영화는 무엇이 잘 못 되었나', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

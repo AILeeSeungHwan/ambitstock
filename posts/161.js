@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post161_img1.jpg', alt: '극장판 주술회전 0', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>극장판 주술회전 0 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>극장판 주술회전 0 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post161_img2.jpg', alt: '극장판 주술회전 0', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post161_poster.jpg', alt: '포스트 161 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
@@ -75,6 +77,14 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>극장판 주술회전 0 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post161_img10.jpg', alt: '극장판 주술회전 0', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post161_img9.jpg', alt: '극장판 주술회전 0', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post161_img8.jpg', alt: '극장판 주술회전 0', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post161_img7.jpg', alt: '극장판 주술회전 0', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post161_img6.jpg', alt: '극장판 주술회전 0', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post161_img5.jpg', alt: '극장판 주술회전 0', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post161_img4.jpg', alt: '극장판 주술회전 0', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post161_img3.jpg', alt: '극장판 주술회전 0', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Joseph Tomastik - 평점(2.5/5)</b><br>주술회전 0은 얼마나 많은 것을 설명해야 할지, 얼마나 간단히 해야 할지,</br></p>'

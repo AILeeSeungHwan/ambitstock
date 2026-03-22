@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<h3>한 줄 핵심</h3>'
     },
+    { type: 'image', src: '/images/post77_img1.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>9월 26일 전 세계 넷플릭스 공개. &lt;길복순&gt; 세계관을 확장한 스핀오프 영화로, A급 킬러 ‘사마귀(한울)’가 무정부 상태가 된 청부살인 판에 복귀하면서 시작되는 정면승부 이야기입니다. 주연은 임시완·박규영·조우진입니다.</p>'
@@ -45,6 +46,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>형식/플랫폼:</b> 넷플릭스 오리지널 영화</li> <li><b>연출:</b> 이태성</li> <li><b>각본:</b> 변성현, 이태성 외</li> <li><b>주연:</b> 임시완(한울), 박규영(재이), 조우진(독고)</li> <li><b>제작:</b> 씨앳필름(SEE AT Film)</li> <li><b>공개일:</b> 2025년 9월 26일 전 세계 공개</li> </ul>'
     },
+    { type: 'image', src: '/images/post77_img2.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section3',
@@ -55,6 +57,7 @@ const post = {
       type: 'body',
       html: '<p>최정예 킬러 ‘한울’은 오랜 휴식 끝에 업계로 돌아오지만, 그가 맞닥뜨린 현실은 무너진 질서와 혼돈입니다.</p>'
     },
+    { type: 'image', src: '/images/post77_img3.webp', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>조직의 수장이 사라진 뒤 무정부 상태가 된 암살자 세계에서, 한울은 옛 동기이자 라이벌인 ‘재이’, 은퇴한 전설의 킬러 ‘독고’와 정면으로 부딪히게 됩니다.</p>'
@@ -74,6 +77,7 @@ const post = {
       type: 'body',
       html: '<p>주인공 한울의 콜사인인 ‘사마귀(Mantis)’는 기다림과 일격의 상징입니다.</p>'
     },
+    { type: 'image', src: '/images/post77_img4.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>사마귀는 먹잇감을 앞에 두고 침착하게 각을 재며, 단 한 번의 치명적인 공격으로 승부를 내는 존재입니다.</p>'
@@ -108,6 +112,7 @@ const post = {
       type: 'body',
       html: '<h3>관람 포인트</h3>'
     },
+    { type: 'image', src: '/images/post77_img5.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ol style=&quot;list-style-type: decimal;&quot;> <li><b>세계관 연결성:</b> &lt;길복순&gt;의 설정을 이어받아 혼란 이후의 판을 본격적으로 다룹니다.</li> <li><b>전투 시퀀스:</b> 근거리 격투와 무기 액션이 절제된 안무로 재현됩니다.</li> <li><b>삼자 구도 드라마:</b> 실력, 야망, 전설이 맞부딪히는 긴장감 넘치는 캐릭터 플레이가 핵심입니다.</li> </ol>'
@@ -122,9 +127,14 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>언제/어디서:</b> 2025년 9월 26일, 넷플릭스</li> <li><b>먼저 보면 좋은 작품:</b> &lt;길복순&gt; (세계관 이해도에 도움)</li> </ul>'
     },
+    { type: 'image', src: '/images/post77_img10.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post77_img9.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post77_img8.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post77_img7.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post77_img6.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333; text-align: start;&quot;>길복순을 재밌게 보신분들,<span> </span></span>9월 26일 넷플릭스에서 직접 확인해 보시길 권합니다.</p>'
+      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>길복순을 재밌게 보신분들,<span> </span></span>9월 26일 넷플릭스에서 직접 확인해 보시길 권합니다.</p>'
     },
     {
       type: 'h2',

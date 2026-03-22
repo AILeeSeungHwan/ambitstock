@@ -28,6 +28,7 @@ const post = {
       type: 'body',
       html: '<h3>인류의 개척과 소모품 인간</h3>'
     },
+    { type: 'image', src: '/images/post92_img1.jpg', alt: '미키 7', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>소설은 먼 미래, 인류가 새로운 행성을 개척하는 시대를 배경으로 합니다.</p>'
@@ -46,6 +47,7 @@ const post = {
       type: 'body',
       html: '<h3>미키 7의 탄생</h3>'
     },
+    { type: 'image', src: '/images/post92_img2.jpg', alt: '미키 7', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>주인공 미키는 일곱 번째 소모품 인간, 즉 \'미키 7\'입니다. 그는 얼음 행성 니펠하임(Niflheim)에서 위험한 탐사 임무를 맡고 있습니다. 하지만 어느 날, 극한의 환경에서 죽음을 맞이할 뻔한 후 기적적으로 생존합니다.</p>'
@@ -56,11 +58,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>문제는 미키 7이 살아있는 동안, 새로운 복제체 \'미키 8\'이 생성되었다는 것입니다.<span> </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>문제는 미키 7이 살아있는 동안, 새로운 복제체 \'미키 8\'이 생성되었다는 것입니다.<span> </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>기존 규칙에 따르면, 같은 개체가 두 명 존재해서는 안 됩니다. 이 사실이 밝혀지면 둘 중 하나는 반드시 제거될 운명입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>기존 규칙에 따르면, 같은 개체가 두 명 존재해서는 안 됩니다. 이 사실이 밝혀지면 둘 중 하나는 반드시 제거될 운명입니다.</p>'
     },
     {
       type: 'body',
@@ -84,6 +86,7 @@ const post = {
       type: 'body',
       html: '<h3>진정한 자아는 누구인가?</h3>'
     },
+    { type: 'image', src: '/images/post92_img3.jpg', alt: '미키 7', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>미키 7과 미키 8은 자신들이 같은 존재임에도 불구하고 각기 다른 방식으로 사고하고 행동한다는 사실을 깨닫습니다. 이는 그들이 완전히 같은 존재가 아니라는 점을 시사합니다. 결말에서 미키 7은 그동안 자신이 소모품 인간으로 살아온 삶에 대한 질문을 던지며, 죽음을 피할 수 없는 운명에서 벗어나기 위한 방법을 모색합니다. 복제체가 계속해서 살아남을 수 있다는 사실이 밝혀지며, 자신을 여러 번 대체한 복제체들에 대한 의미를 생각하게 됩니다. 그가 복제되었다는 사실은 결국 그 자신이 과연 \'진짜\'인가, 아니면 단지 반복되는 복제체 중 하나에 불과한가라는 철학적인 문제를 초래합니다.</p>'
@@ -119,6 +122,10 @@ const post = {
       type: 'body',
       html: '<p>인간의 본질과 정체성에 대한 깊은 질문을 던지는 작품, 미키7!</p>'
     },
+    { type: 'image', src: '/images/post92_img7.jpg', alt: '미키7 에드워드 애슈턴', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post92_img6.jpg', alt: '미키 7', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post92_img5.jpg', alt: '미키 7', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post92_img4.jpg', alt: '미키 7', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>복제와 의식의 연속성에 대한 철학적 고민을 바탕으로, 흥미진진한 전개와 독창적인 세계관을 제공합니다.</p>'

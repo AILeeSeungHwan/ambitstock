@@ -52,11 +52,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p> <br/> <br/> <br/>어벤져스 둠스데이는 마블 시네마틱 유니버스(MCU)의 멀티버스사가 페이지 6의 중요 작품으로, 로버트 다우니 주니어의 닥터 둠이 주요 빌런으로 등장하는 이야기입니다.<br/> <br/><span style=&quot;background-color: #01ff51;&quot;><b>멀티버스를 위협하는 메인빌런 닥터둠이 </b></span><span style=&quot;background-color: #01ff51;&quot;><b>여러 차원에 존재하는 \'히어로들과 빌런들\'와의 전투를 </b></span><span style=&quot;background-color: #01ff51;&quot;><b>중심 스토리라인으로 전개됩니다.</b></span><br/> <br/><span style=&quot;background-color: #ffffff;&quot;>기존에 예정되어 있던 </span><span style=&quot;background-color: #ffffff;&quot;><span style=&quot;color: #781b33;&quot;><b>어벤져스 캉 다이내스티가 정복자 캉 역 조나단 메이저스 배우의 여자친구 폭행사건에 의해 구속되어 하차한 후 </b></span></span><span style=&quot;background-color: #ffffff;&quot;><span style=&quot;color: #781b33;&quot;><b>배우교체가 아닌 메인빌런 자체를 닥터둠으로 변경한 마블.</b></span></span></p>'
+      html: '<p> <br/> <br/> <br/>어벤져스 둠스데이는 마블 시네마틱 유니버스(MCU)의 멀티버스사가 페이지 6의 중요 작품으로, 로버트 다우니 주니어의 닥터 둠이 주요 빌런으로 등장하는 이야기입니다.<br/> <br/><span style=&quot;background-color: #01ff51;&quot;><b>멀티버스를 위협하는 메인빌런 닥터둠이 </b></span><span style=&quot;background-color: #01ff51;&quot;><b>여러 차원에 존재하는 \'히어로들과 빌런들\'와의 전투를 </b></span><span style=&quot;background-color: #01ff51;&quot;><b>중심 스토리라인으로 전개됩니다.</b></span><br/> <br/><span style=&quot;background-color: transparent;&quot;>기존에 예정되어 있던 </span><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: #781b33;&quot;><b>어벤져스 캉 다이내스티가 정복자 캉 역 조나단 메이저스 배우의 여자친구 폭행사건에 의해 구속되어 하차한 후 </b></span></span><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: #781b33;&quot;><b>배우교체가 아닌 메인빌런 자체를 닥터둠으로 변경한 마블.</b></span></span></p>'
     },
     {
       type: 'body',
-      html: '<p> <br/> <br/><span style=&quot;background-color: #ffffff;&quot;>메인 빌런이 교체되고 둠스데이로 부제를 바꾼 위태로운 MCU의 상황 속 가장 중요한 것은 </span><span style=&quot;background-color: #ffffff;&quot;>결국 바뀐 </span><span style=&quot;background-color: #ffffff; color: #781b33;&quot;><b>메인빌런 닥터둠이 캉보다 매력적인 캐릭터인가, 닥터둠을 맡는 배우가 조나단 이상의 존재감을 뽐 낼 수 있는가</b></span><span style=&quot;background-color: #ffffff;&quot;> 였습니다. </span><br/> <br/><span style=&quot;background-color: #01ff51;&quot;><b>그리고 마블의 로버트 다우니 주니어라는 선택은 모든 팬들의 걱정을 환호로 바꾸었습니다.</b></span><br/> <br/> </p>'
+      html: '<p> <br/> <br/><span style=&quot;background-color: transparent;&quot;>메인 빌런이 교체되고 둠스데이로 부제를 바꾼 위태로운 MCU의 상황 속 가장 중요한 것은 </span><span style=&quot;background-color: transparent;&quot;>결국 바뀐 </span><span style=&quot;background-color: transparent; color: #781b33;&quot;><b>메인빌런 닥터둠이 캉보다 매력적인 캐릭터인가, 닥터둠을 맡는 배우가 조나단 이상의 존재감을 뽐 낼 수 있는가</b></span><span style=&quot;background-color: transparent;&quot;> 였습니다. </span><br/> <br/><span style=&quot;background-color: #01ff51;&quot;><b>그리고 마블의 로버트 다우니 주니어라는 선택은 모든 팬들의 걱정을 환호로 바꾸었습니다.</b></span><br/> <br/> </p>'
     },
     {
       type: 'body',
@@ -76,8 +76,16 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p> <br/> <br/>중요한 사실은 2015년부터 2018년까지 이어진 인퍼머스 아이언맨(Infamous Iron Man) <span style=&quot;color: #333333;&quot;>원작 코믹스에서</span><span style=&quot;color: #333333;&quot;> </span>닥터 둠<span style=&quot;color: #1a5490;&quot;>은</span><span style=&quot;color: #333333;&quot;> 그는 자신의 과거를 속죄하고 히어로로서 새로운 길을 걷기 위해 </span><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: #000000;&quot;><b>토니 스타크가 사라진 이후 아이언맨의 갑옷을 입고 히어로로 활동</b></span></span><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: #000000;&quot;><b>하였다는 내용이 존재</b></span></span><span style=&quot;color: #333333;&quot;>한다는 것입니다.</span><br/> <br/><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: #333333;&quot;><b>모습은 다르지만 로버트 다우니 주니어의 아이언 맨 복귀를 기대</b></span></span><span style=&quot;color: #333333;&quot;>하는 말이 팬들 사이에서 나올 수 밖에 없습니다.</span><br/>이에 대한 구체적인 설명은 어벤져스 둠스데이 포스팅 마지막에서 다룰 예정입니다.<br/> </p>'
+      html: '<p> <br/> <br/>중요한 사실은 2015년부터 2018년까지 이어진 인퍼머스 아이언맨(Infamous Iron Man) <span style=&quot;color: inherit;&quot;>원작 코믹스에서</span><span style=&quot;color: inherit;&quot;> </span>닥터 둠<span style=&quot;color: #1a5490;&quot;>은</span><span style=&quot;color: inherit;&quot;> 그는 자신의 과거를 속죄하고 히어로로서 새로운 길을 걷기 위해 </span><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: inherit;&quot;><b>토니 스타크가 사라진 이후 아이언맨의 갑옷을 입고 히어로로 활동</b></span></span><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: inherit;&quot;><b>하였다는 내용이 존재</b></span></span><span style=&quot;color: inherit;&quot;>한다는 것입니다.</span><br/> <br/><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: inherit;&quot;><b>모습은 다르지만 로버트 다우니 주니어의 아이언 맨 복귀를 기대</b></span></span><span style=&quot;color: inherit;&quot;>하는 말이 팬들 사이에서 나올 수 밖에 없습니다.</span><br/>이에 대한 구체적인 설명은 어벤져스 둠스데이 포스팅 마지막에서 다룰 예정입니다.<br/> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post362_img7.jpg', alt: '어벤져스 둠스데이 완벽정리 시리즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post362_img6.jpg', alt: '어벤져스 둠스데이 뜻 줄거리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post362_img5.jpg', alt: '어벤져스 둠스데이 완벽정리 시리즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post362_img4.jpg', alt: '어벤져스 둠스데이 완벽정리 시리즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post362_img3.jpg', alt: '어벤져스 둠스데이 줄거리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post362_img2.jpg', alt: '어벤져스 둠스데이 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post362_img1.jpg', alt: '어벤져스 둠스데이 완벽정리 시리즈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><br/><b>여기까지 어벤져스 둠스데이 첫번째 포스팅, 둠스데이의 뜻과 줄거리 내용 포스팅을 마칩니다.</b><br/> <br/><b>다음 포스팅에서는 </b><b>닥터 둠의 과거와 배경 - 빌런이 된 이유와 타노스와 티어비교 알아보겠습니다.</b><br/> </p>'

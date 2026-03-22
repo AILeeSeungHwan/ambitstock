@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 레블리지 후기 결말 리뷰 로튼토마토 평론가 반응입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>레블리지의 뜻과 의미, 평점이 궁금하신 분은 이전 포스팅을 참고하시길 바랍니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>최근 공개된 넷플릭스 영화 중 최고의 작품으로 평가 받는 레블리지, 후기 살펴보도록 하겠습니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 레블리지 후기 결말 리뷰 로튼토마토 평론가 반응입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>레블리지의 뜻과 의미, 평점이 궁금하신 분은 이전 포스팅을 참고하시길 바랍니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>최근 공개된 넷플릭스 영화 중 최고의 작품으로 평가 받는 레블리지, 후기 살펴보도록 하겠습니다.</p>'
     },
     {
       type: 'image',
@@ -213,6 +213,12 @@ const post = {
       type: 'body',
       html: '<p>이상으로 레블리지 영화 결말 후기 리뷰 마칩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post315_img5.jpg', alt: '넷플릭스 영화 레블리지 후기 결말리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post315_img4.jpg', alt: '넷플릭스 영화 레블리지 후기 결말리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post315_img3.jpg', alt: '넷플릭스 영화 레블리지 후기 결말리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post315_img2.jpg', alt: '넷플릭스 영화 레블리지 후기 결말리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post315_img1.jpg', alt: '넷플릭스 영화 레블리지 후기 결말리뷰', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post179_img1.jpg', alt: '파라다이스 이즈 버닝', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -51,8 +52,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>파라다이스 이즈 버닝 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>파라다이스 이즈 버닝 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post179_img2.jpg', alt: '파라다이스 이즈 버닝 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;600&quot; data-origin-width=&quot;1880&quot;><span data-alt=&quot;파라다이스 이즈 버닝 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b9vpYF/btsKRcoCDGd/AAAAAAAAAAAAAAAAAAAAAAJWVi9E5DIM7l_b4DfYJhcjBkABiN5gMGLopNDyW0St/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=77r4uwMsli1ZE5J4yGN%2FDfab%2FKk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b9vpYF/btsKRcoCDGd/AAAAAAAAAAAAAAAAAAAAAAJWVi9E5DIM7l_b4DfYJhcjBkABiN5gMGLopNDyW0St/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=77r4uwMsli1ZE5J4yGN%2FDfab%2FKk%3D&quot;></span><figcaption>파라다이스 이즈 버닝 로튼 토마토 평점</figcaption> </figure> </p>'
@@ -79,6 +81,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>파라다이스 이즈 버닝 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post179_img3.jpg', alt: '파라다이스 이즈 버닝 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Marya E. Gates - 평점 없음</b><br>이 영화는 격렬하면서도 시적인 매력을 지니고 있으며, 십대 소녀들의 어지럽고 아름다우며 덧없는 영광을 잘 담아낸 작품이다.</br></p>'
@@ -170,6 +173,16 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>파라다이스 이즈 버닝 뜻 의미 해석을 마지막으로 포스팅 마칩니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post179_img13.jpg', alt: '파라다이스 이즈 버닝 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post179_img12.jpg', alt: '파라다이스 이즈 버닝 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post179_img11.jpg', alt: '파라다이스 이즈 버닝 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post179_img10.jpg', alt: '파라다이스 이즈 버닝 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post179_img9.jpg', alt: '파라다이스 이즈 버닝 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post179_img8.jpg', alt: '파라다이스 이즈 버닝 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post179_img7.jpg', alt: '파라다이스 이즈 버닝 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post179_img6.jpg', alt: '파라다이스 이즈 버닝 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post179_img5.jpg', alt: '파라다이스 이즈 버닝 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post179_img4.jpg', alt: '파라다이스 이즈 버닝 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 &quot;파라다이스 이즈 버닝 (Paradise Is Burning)&quot;의 제목을 표면적인 한국어 해석으로만 보면 다음과 같습니다.</p>'

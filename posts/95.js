@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post95_img1.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>위험한 일에 투입되는 소모품(익스펜더블)으로, 죽으면 다시 프린트되는 ‘미키’가 17번째 죽음의 위기를 겪던 중, <br>그가 죽은 줄 알고 ‘미키 18’이 프린트되면서 벌어지는 예측불허의 이야기를 그리는 영화</br></p>'
     },
+    { type: 'image', src: '/images/post95_img2.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section3',
@@ -58,6 +60,7 @@ const post = {
       type: 'body',
       html: '<p>영화 제목 &quot;미키 17&quot;에서 &quot;미키&quot;는 주인공의 이름을 의미하며, &quot;17&quot;은 숫자로, 이 영화의 중요한 설정과 관련이 있다.</p>'
     },
+    { type: 'image', src: '/images/post95_img3.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>&quot;미키 17&quot;에서 &quot;17&quot;은 주인공이 반복적으로 죽고 다시 태어나는 과정에서의 번호를 나타내는 것으로, \'미키\'라는 캐릭터가 여러 번 죽고 복제되어 다시 살아나는 상황을 묘사하는 데 중요한 역할을 한다. 이 숫자는 미키라는 인물이 끊임없이 재탄생하는 반복적인 구조를 암시하며, 영화 내에서 인간성과 존재에 대한 질문을 던진다.</p>'
@@ -101,6 +104,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 영화 미키 17의 해외 평론가 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post95_img4.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>내용에 스포는 크게 없기에 바로 이어서 확인해 보시길 바랍니다.</p>'
@@ -123,6 +127,7 @@ const post = {
       type: 'body',
       html: '<p><b>Wendy Lee Szany - 평점(3/5)</b><br/>봉준호 감독의 가장 기괴하고 Wild한 다크 코미디가 자본주의, 부패, 식민지화, 탐욕에 대해 깊이 탐구하였다. 패틴슨은 미키 역에 완벽한 배우였다. 마지막 장면은 조금 길고 불균형하게 느껴졌다.</p>'
     },
+    { type: 'image', src: '/images/post95_img5.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Alistair Ryder - 평점(6/10)</b><br/>&quot;스타쉽 트루퍼스&quot;가 패러디로서 너무 직설적이었다면, &quot;미키 17&quot;은 그보다 더 많은 등장인물들이 자신들이 파시즘을 패러디한다고 관객에게 직접 설명하는 작품이다. 이 영화는 그런 점에서 좋다.</p>'
@@ -197,6 +202,7 @@ const post = {
       type: 'body',
       html: '<p><b>Hugh Montgomery - 평점(2/5)</b><br/>안타깝게도 이 영화는 어떤 접근법을 취할지 확실하지 않다. 출시가 지연된 이유가 될 수도 있다. 전반적으로 감독에게 심각한 실망감을 안겨주는 작품이다.</p>'
     },
+    { type: 'image', src: '/images/post95_img6.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section7',
@@ -207,6 +213,8 @@ const post = {
       type: 'body',
       html: '<p>지금 확인해 보신 후기만을 보더라도 해외 평론가들의 부정적인 평가보다는 긍정적인 평가가 주를 이루고 있음을 알 수 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post95_img8.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post95_img7.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>모두가 기다리던 2025년의 대작 \'미키17\'! 영화관에서 꼭 확인해보시길 바랍니다.</p>'

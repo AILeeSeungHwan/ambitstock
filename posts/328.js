@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>크리스토퍼 놀란 감독 모든 작품 시리즈, 두 번째 작품은 영화 인터스텔라입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 인터스텔라 로튼토마토, IMDB평점 알아보겠습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>크리스토퍼 놀란 감독의 모든 영화 중 평점 1등은 무엇일지 궁금하신 분은 아래 포스팅을 참고하세요.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>크리스토퍼 놀란 감독 모든 작품 시리즈, 두 번째 작품은 영화 인터스텔라입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 인터스텔라 로튼토마토, IMDB평점 알아보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>크리스토퍼 놀란 감독의 모든 영화 중 평점 1등은 무엇일지 궁금하신 분은 아래 포스팅을 참고하세요.</p>'
     },
     {
       type: 'image',
@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>영화 인터스텔라 제목 뜻 의미입니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>영화 인터스텔라 제목 뜻 의미입니다.</b></p>'
     },
     {
       type: 'body',
@@ -107,7 +107,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>쿠퍼는 테서랙트를 통해 과거 머피의 방으로 접속하고, 시계의 초침을 통해 중력 신호를 보내어 양자 데이터를 전달합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>쿠퍼는 테서랙트를 통해 과거 머피의 방으로 접속하고, 시계의 초침을 통해 중력 신호를 보내어 양자 데이터를 전달합니다.</p>'
     },
     {
       type: 'body',
@@ -125,6 +125,17 @@ const post = {
       type: 'body',
       html: '<p>크리스토퍼 놀란 감독 시리즈 영화 인터스텔라 모든 장면 결말 해석 마칩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post328_img10.jpg', alt: '인터스텔라 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post328_img9.jpg', alt: '인터스텔라 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post328_img8.gif', alt: '인터스텔라 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post328_img7.jpg', alt: '인터스텔라 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post328_img6.jpg', alt: '인터스텔라 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post328_img5.jpg', alt: '인터스텔라 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post328_img4.jpg', alt: '인터스텔라 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post328_img3.jpg', alt: '인터스텔라 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post328_img2.jpg', alt: '인터스텔라 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post328_img1.jpg', alt: '영화 인터스텔라 제목 뜻', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

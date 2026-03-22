@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>2025년 4월 현재상영작 영화 예매 순위 총정리 포스팅입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post88_img1.jpg', alt: '현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>각 작품의 자세한 줄거리, 개봉일과 예매율을 함께 확인하실 수 있으며, 영화의 후기와 평점은 개별 포스팅을 통해 R의 필름공장에서 추후 확인하실 수 있습니다.</p>'
@@ -37,6 +38,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>10위는 라스트 마일입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post88_img2.jpg', alt: '4월 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 3월 26일 개봉한 일본 작품으로 예매율 2.2%를 기록하고 있습니다.</p>'
@@ -47,7 +49,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>2.7m/s → 0, 70Kg. 유통 업계 최대 이벤트 중 하나인 블랙프라이데이 전날 밤, 글로벌 쇼핑 사이트 ‘Daily Fast’에서 배송된 택배가 폭발하는 사건이 발생한다. 전 국민을 공포에 빠트리는 연쇄 폭탄 테러가 이어지는 가운데 새로운 센터장으로 부임한 후나도 엘레나(미츠시마 히카리)는 팀 매니저 나시모토 코우(오카다 마사키)와 함께 사태를 수습하기 위해 고군분투 한다. 한편, 현장에 출동한 경시청 제4기동수사대 이부키 아이(아야노 고)와 시마 카즈미(호시노 겐), 피해자의 시신을 부검한 부자연사 규명 연구소 UDI 라보의 미스미 미코토(이시하라 사토미)는 그 누구도 예상치 못했던 새로운 가능성을 제시하는데... 누가, 무엇을 위해 폭탄을 설치했으며, 남은 폭탄은 지금 어디에 있는가? 주어진 시간은 단 4일! 폭탄이 든 12개의 택배의 행방을 찾아야만 한다.</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>2.7m/s → 0, 70Kg. 유통 업계 최대 이벤트 중 하나인 블랙프라이데이 전날 밤, 글로벌 쇼핑 사이트 ‘Daily Fast’에서 배송된 택배가 폭발하는 사건이 발생한다. 전 국민을 공포에 빠트리는 연쇄 폭탄 테러가 이어지는 가운데 새로운 센터장으로 부임한 후나도 엘레나(미츠시마 히카리)는 팀 매니저 나시모토 코우(오카다 마사키)와 함께 사태를 수습하기 위해 고군분투 한다. 한편, 현장에 출동한 경시청 제4기동수사대 이부키 아이(아야노 고)와 시마 카즈미(호시노 겐), 피해자의 시신을 부검한 부자연사 규명 연구소 UDI 라보의 미스미 미코토(이시하라 사토미)는 그 누구도 예상치 못했던 새로운 가능성을 제시하는데... 누가, 무엇을 위해 폭탄을 설치했으며, 남은 폭탄은 지금 어디에 있는가? 주어진 시간은 단 4일! 폭탄이 든 12개의 택배의 행방을 찾아야만 한다.</span></p>'
     },
     {
       type: 'body',
@@ -63,6 +65,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>9위는 공포특급입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post88_img3.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 04월 02일 개봉하였으며 고이경 이태리 오하늬 이기창 주연의 영화로 예매율 2.6%를 기록하였습니다.</p>'
@@ -73,7 +76,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>주작한 심령 현상을 생중계하며 인기 유튜버로 급성장한 ‘쥬저링’. 하지만 기쁨도 잠시, 주작을 들킨 ‘쥬저링’은 채널을 접어야 하는 위기에 빠진다. 불리한 상황을 한방에 뒤집으려는 ‘쥬저링’은 ‘마야신녀’와 함께 인적이 드문 외딴 집에서 회심의 심령 현상 라이브 쇼를 시작한다. 그 순간 이유를 알 수 없는 섬뜩한 일들이 벌어지고, 의문의 남성 ‘성민’과 마주치는데… 절대 그 문을 열지 말아야 했다! </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>주작한 심령 현상을 생중계하며 인기 유튜버로 급성장한 ‘쥬저링’. 하지만 기쁨도 잠시, 주작을 들킨 ‘쥬저링’은 채널을 접어야 하는 위기에 빠진다. 불리한 상황을 한방에 뒤집으려는 ‘쥬저링’은 ‘마야신녀’와 함께 인적이 드문 외딴 집에서 회심의 심령 현상 라이브 쇼를 시작한다. 그 순간 이유를 알 수 없는 섬뜩한 일들이 벌어지고, 의문의 남성 ‘성민’과 마주치는데… 절대 그 문을 열지 말아야 했다! </span></p>'
     },
     {
       type: 'body',
@@ -94,6 +97,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>8위는 브리짓 존스의 일기 : 뉴 챕터 입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post88_img4.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 04월 16일 개봉하며 현재 예매율 2.8%를 기록 중입니다.</p>'
@@ -104,7 +108,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>4년 전, 사랑하는 남편 ‘마크 다아시’를 잃고 싱글맘으로 살아가던 ‘브리짓 존스’. 정체된 그녀의 삶을 걱정하는 주변인들의 권유와 압박으로 데이팅 앱에서 매력적인 연하남과 만나 오랜만에 설레는 사랑의 감정을 되찾는 한편 방송국에도 복직해 일과 가정, 로맨스를 병행하게 된다. 고군분투하며 최선을 다하지만 연하남과의 연애도, 직장 생활도, 아이들과의 관계도 모든 것이 쉽지 않은 상황 속에서 ‘브리짓’은 무엇이 정말 자신을 위한 삶인지 고민하게 되는데…</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>4년 전, 사랑하는 남편 ‘마크 다아시’를 잃고 싱글맘으로 살아가던 ‘브리짓 존스’. 정체된 그녀의 삶을 걱정하는 주변인들의 권유와 압박으로 데이팅 앱에서 매력적인 연하남과 만나 오랜만에 설레는 사랑의 감정을 되찾는 한편 방송국에도 복직해 일과 가정, 로맨스를 병행하게 된다. 고군분투하며 최선을 다하지만 연하남과의 연애도, 직장 생활도, 아이들과의 관계도 모든 것이 쉽지 않은 상황 속에서 ‘브리짓’은 무엇이 정말 자신을 위한 삶인지 고민하게 되는데…</span></p>'
     },
     {
       type: 'body',
@@ -124,6 +128,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>7위는 너의 췌장을 먹고 싶어입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post88_img5.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>재개봉 일본 영화로 2025년 04월 09일 재개봉하며, 예매율 3.6%를 기록하고입니다.</p>'
@@ -134,7 +139,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>스스로를 외톨이로 만드는 ‘나’ 학교 최고의 인기인 ‘그녀’. 어느 날, 우연히 주운 [공병문고]를 통해 나는 그녀와 비밀을 공유하게 되었다. &quot;너 한 사람밖에 없어. 나에게 평범한 나날을 선사해줄 사람&quot; 네가 건넨 영원히 잊지 못할 고백. 그때 나는 그 말의 의미를 알지 못했다.</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>스스로를 외톨이로 만드는 ‘나’ 학교 최고의 인기인 ‘그녀’. 어느 날, 우연히 주운 [공병문고]를 통해 나는 그녀와 비밀을 공유하게 되었다. &quot;너 한 사람밖에 없어. 나에게 평범한 나날을 선사해줄 사람&quot; 네가 건넨 영원히 잊지 못할 고백. 그때 나는 그 말의 의미를 알지 못했다.</span></p>'
     },
     {
       type: 'body',
@@ -150,6 +155,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>6위는 세븐틴 [라잇 히어] 월드 투어 인 시네마입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post88_img6.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 04월 02일 개봉하는 세븐틴 월드 투어 시네마입니다.</p>'
@@ -168,7 +174,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>SEVENTEEN RIGHT HERE! 전 세계에 세븐틴의 강한 발자취를 남긴 월드투어 [RIGHT HERE] 그 시작을 알린 고양 콘서트의 감동을 스크린에서 만난다! ‘독 : Fear’ 콘서트 버전부터, ‘LOVE, MONEY, FAME (feat. DJ Khaled)’, ‘Ash’ 등 오직 콘서트에서만 만날 수 있는 스페셜 셋 리스트 전체 상영 확정! 힙합팀, 퍼포먼스팀, 보컬팀 세 고유 유닛의 다채로운 매력부터, 세븐틴의 A to Z를 이루는 타이틀 곡 릴레이까지! 세븐틴만의, 세븐틴을 위한, 세븐틴에 의한 역대급 현장이 SCREENX, 4DX, ULTRA 4DX 그리고 IMAX로 되살아난다!</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>SEVENTEEN RIGHT HERE! 전 세계에 세븐틴의 강한 발자취를 남긴 월드투어 [RIGHT HERE] 그 시작을 알린 고양 콘서트의 감동을 스크린에서 만난다! ‘독 : Fear’ 콘서트 버전부터, ‘LOVE, MONEY, FAME (feat. DJ Khaled)’, ‘Ash’ 등 오직 콘서트에서만 만날 수 있는 스페셜 셋 리스트 전체 상영 확정! 힙합팀, 퍼포먼스팀, 보컬팀 세 고유 유닛의 다채로운 매력부터, 세븐틴의 A to Z를 이루는 타이틀 곡 릴레이까지! 세븐틴만의, 세븐틴을 위한, 세븐틴에 의한 역대급 현장이 SCREENX, 4DX, ULTRA 4DX 그리고 IMAX로 되살아난다!</span></p>'
     },
     {
       type: 'body',
@@ -184,6 +190,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>5위는 헤레틱입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post88_img7.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 04월 02일 개봉하는 작품들이 많습니다. 휴 그랜트, 소피 대처 주연영화 헤레틱, 현재 예매율 5.4%입니다.</p>'
@@ -194,7 +201,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>외딴 집을 찾은 신앙심 깊은 두 소녀에게 집주인은 믿음을 뒤흔드는 이야기를 꺼낸다. 무언가 의심스럽다고 느끼는 순간, 두 소녀는 꼼짝없이 집안에 갇히게 된다. 친절했던 남자는 돌변하고, 그녀들은 살기 위해 위험한 선택을 하는데…</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>외딴 집을 찾은 신앙심 깊은 두 소녀에게 집주인은 믿음을 뒤흔드는 이야기를 꺼낸다. 무언가 의심스럽다고 느끼는 순간, 두 소녀는 꼼짝없이 집안에 갇히게 된다. 친절했던 남자는 돌변하고, 그녀들은 살기 위해 위험한 선택을 하는데…</span></p>'
     },
     {
       type: 'body',
@@ -210,6 +217,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>4위는 미스터 로봇입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post88_img8.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 4월 4일 개봉하는 한국 애니메이션 영화로 예매율 5.8프로를 기록하고 있습니다.</p>'
@@ -220,7 +228,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>인공지능 로봇으로 자동화된 근 미래. K-ROBOT 인더스트리의 쇼케이스 현장에서 새로 출시된 로봇 ‘맥스’가 치명적인 사고를 일으키고, 로봇 관리대 대원(RCC) ‘한태평’은 그 과정에서 혼수상태에 빠지게 된다. 이후, \'한태평\'은 폐기 직전에 놓인 \'맥스\'의 몸으로 눈을 뜨게 되는데... 한편, K-ROBOT 인더스트리의 부사장이자 삼촌 \'강민\'에 의해 위험에 처한 소녀 \'나나\'. 그 순간 등장한 \'맥스\'에 의해 \'강민\'의 위협에서 탈출하고 두 사람의 특별한 여정이 시작된다!</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>인공지능 로봇으로 자동화된 근 미래. K-ROBOT 인더스트리의 쇼케이스 현장에서 새로 출시된 로봇 ‘맥스’가 치명적인 사고를 일으키고, 로봇 관리대 대원(RCC) ‘한태평’은 그 과정에서 혼수상태에 빠지게 된다. 이후, \'한태평\'은 폐기 직전에 놓인 \'맥스\'의 몸으로 눈을 뜨게 되는데... 한편, K-ROBOT 인더스트리의 부사장이자 삼촌 \'강민\'에 의해 위험에 처한 소녀 \'나나\'. 그 순간 등장한 \'맥스\'에 의해 \'강민\'의 위협에서 탈출하고 두 사람의 특별한 여정이 시작된다!</span></p>'
     },
     {
       type: 'body',
@@ -236,6 +244,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>3위는 극장판 진격의 거인 완결편 더 라스트 어택입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post88_img9.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>일본 애니메이션을 즐겨 보지 않은 분들에게도 추천할만한 작품, 진격의 거인의 스크린버전이 3위에 올랐습니다.</p>'
@@ -254,7 +263,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>거인의 위협으로부터 몸을 지키기 위해 거대한 벽을 쌓고 그 안에서 숨을 죽이고 살고 있는 인류. 백 년의 평화는 초대형 거인의 습격으로 파괴됐고, 어머니를 잃은 소년 엘런 예거는 모든 거인을 없앨 것을 맹세하고 거인과 싸우는 조사병단의 일원이 되었다. 글자 그대로 목숨을 건 싸움 속에서 엘런 예거는 자신도 거인이 되는 능력을 손에 넣었고 인류의 승리에 공헌하면서 조금씩 세계의 진실에 가까워지고 있었다. 이윽고 시간이 흘러 벽 밖으로 나간 엘런은 조사병단의 동료들과 갈라섰고 어떤 무시무시한 계획을 실행한다. 수많은 거인을 이끌고, 이 세계의 살아있는 모든 것들을 짓밟는 「땅울림」. 미카사와 아르민을 시작으로 남겨진 자들은 세계를 멸망시키려 하는 엘런을 막기 위해 최후의 싸움에 나선다.</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>거인의 위협으로부터 몸을 지키기 위해 거대한 벽을 쌓고 그 안에서 숨을 죽이고 살고 있는 인류. 백 년의 평화는 초대형 거인의 습격으로 파괴됐고, 어머니를 잃은 소년 엘런 예거는 모든 거인을 없앨 것을 맹세하고 거인과 싸우는 조사병단의 일원이 되었다. 글자 그대로 목숨을 건 싸움 속에서 엘런 예거는 자신도 거인이 되는 능력을 손에 넣었고 인류의 승리에 공헌하면서 조금씩 세계의 진실에 가까워지고 있었다. 이윽고 시간이 흘러 벽 밖으로 나간 엘런은 조사병단의 동료들과 갈라섰고 어떤 무시무시한 계획을 실행한다. 수많은 거인을 이끌고, 이 세계의 살아있는 모든 것들을 짓밟는 「땅울림」. 미카사와 아르민을 시작으로 남겨진 자들은 세계를 멸망시키려 하는 엘런을 막기 위해 최후의 싸움에 나선다.</span></p>'
     },
     {
       type: 'body',
@@ -270,6 +279,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2위는 로비입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post88_img10.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 04월 02일 개봉하였으며 하정우 김의성 강해림 이동휘 주연영화로 예매율은 19.9%를 기록 중입니다. </p>'
@@ -288,11 +298,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>연구밖에 모르는 스타트업 대표 창욱(하정우)은 라이벌 회사 대표 광우(박병은)의 뒷거래 때문에 기회도, 기술도 번번히 빼앗긴다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>연구밖에 모르는 스타트업 대표 창욱(하정우)은 라이벌 회사 대표 광우(박병은)의 뒷거래 때문에 기회도, 기술도 번번히 빼앗긴다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>그의 회사의 유일한 탈출구는 4조 원에 달하는 국책사업을 따내어, 한방에 자본을 확보하는 것! 하지만 로비에 있어선 한수 위인 광우는 조장관(강말금)을 일찌감치 포섭한 상황, 창욱은 눈을 돌려 조장관의 최측근이자 실무를 쥐고 있는 남편 최실장(김의성)에게 접근해 더러운 싸움에 참전하게 되는데... 마침내 뒷거래가 이뤄지는 골프장에 한날 한시 각자의 목적을 위해 모인 로비팀들</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>그의 회사의 유일한 탈출구는 4조 원에 달하는 국책사업을 따내어, 한방에 자본을 확보하는 것! 하지만 로비에 있어선 한수 위인 광우는 조장관(강말금)을 일찌감치 포섭한 상황, 창욱은 눈을 돌려 조장관의 최측근이자 실무를 쥐고 있는 남편 최실장(김의성)에게 접근해 더러운 싸움에 참전하게 되는데... 마침내 뒷거래가 이뤄지는 골프장에 한날 한시 각자의 목적을 위해 모인 로비팀들</span></p>'
     },
     {
       type: 'body',
@@ -312,6 +322,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>현재 상영작 1위는 승부입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post88_img11.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 03월 26일 개봉 후 총 관객수 70만명을 기록 중인 이병헌 유아인 고창석 주연 영화 승부, 현재 예매율은 20.4%로 압도적인 1등을 기록하고 있습니다.</p>'
@@ -322,15 +333,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>세계 최고 바둑 대회에서 국내 최초 우승자가 된 조훈현. 전 국민적 영웅으로 대접받던 그는 바둑 신동이라 불리는 이창호를 제자로 맞는다. “실전에선 기세가 8할이야”, 제자와 한 지붕 아래에서 먹고 자며 가르친 지 수년. </span><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>모두가 스승의 뻔한 승리를 예상했던 첫 사제 대결에서 조훈현은 전 국민이 지켜보는 가운데, 기세를 탄 제자에게 충격적으로 패한다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>세계 최고 바둑 대회에서 국내 최초 우승자가 된 조훈현. 전 국민적 영웅으로 대접받던 그는 바둑 신동이라 불리는 이창호를 제자로 맞는다. “실전에선 기세가 8할이야”, 제자와 한 지붕 아래에서 먹고 자며 가르친 지 수년. </span><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>모두가 스승의 뻔한 승리를 예상했던 첫 사제 대결에서 조훈현은 전 국민이 지켜보는 가운데, 기세를 탄 제자에게 충격적으로 패한다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>오랜만에 패배를 맛본 조훈현과 이제 승부의 맛을 알게 된 이창호. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>오랜만에 패배를 맛본 조훈현과 이제 승부의 맛을 알게 된 이창호. </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>조훈현은 타고난 승부사적 기질을 되살리며 다시 한번 올라갈 결심을 하게 되는데…</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>조훈현은 타고난 승부사적 기질을 되살리며 다시 한번 올라갈 결심을 하게 되는데…</span></p>'
     },
     {
       type: 'body',

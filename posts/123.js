@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>영화 하얼빈이 박스오피스 1위를 기록하고 있습니다. 개봉 후 엄청난 기세로 관객수를 올리고 있으며 천만영화까지도 노려볼 것으로 예상됩니다. 이번 포스팅에서 하얼빈의 해외 평가와 평점, 그리고 평론가 후기를 함께 살펴보도록 하겠습니다.</p>'
     },
+    { type: 'image', src: '/images/post123_img1.jpg', alt: '하얼빈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section2',
@@ -31,8 +32,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>하얼빈 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>하얼빈 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
     },
+    { type: 'image', src: '/images/post123_img2.jpg', alt: '하얼빈 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>현재 평론가 관객 평점은 측정되지 않았지만 5개의 평론가 후기를 확인할 수 있습니다.</b></span></p>'
@@ -59,6 +61,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>하얼빈 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post123_img3.jpg', alt: '하얼빈 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;> 긴장감 넘치는 이야기를 <br>다소 텅 비어있는 느낌으로 만든 전개</br></span></b></span></blockquote>'
@@ -107,6 +110,11 @@ const post = {
       type: 'body',
       html: '<h3>하얼빈역 이토 히로부미 암살</h3>'
     },
+    { type: 'image', src: '/images/post123_img8.jpg', alt: '하얼빈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post123_img7.jpg', alt: '하얼빈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post123_img6.jpg', alt: '하얼빈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post123_img5.jpg', alt: '하얼빈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post123_img4.jpg', alt: '하얼빈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화의 클라이맥스는 1909년 10월 26일, 하얼빈역에서 일본 제국의 초대 조선 통감인 이토 히로부미를 저격하는 장면입니다. 안중근 의사는 동지들과 치밀하게 계획을 세운 끝에, 하얼빈역에서 이토를 암살하는 데 성공합니다. 그는 현장에서 체포되지만, 자신의 행동이 그저 테러가 아니라 조국의 독립을 위한 정당한 항거였음을 전 세계에 알리기 위해 재판에서 담담히 자신의 신념을 밝힙니다.</p>'

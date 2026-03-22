@@ -88,12 +88,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이 쇼가 왜 이렇게 부정적인 평가를 받는지 이해할 수 없다. 아름다운 시각적 표현, 훌륭한 연기, 흥미로운 이야기가 돋보인다. 시즌 1의 느린 진행이 불만이었지만, 시즌 말미에서 해결되었으며 시즌 2는 더 나아졌다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이 쇼가 왜 이렇게 부정적인 평가를 받는지 이해할 수 없다. 아름다운 시각적 표현, 훌륭한 연기, 흥미로운 이야기가 돋보인다. 시즌 1의 느린 진행이 불만이었지만, 시즌 말미에서 해결되었으며 시즌 2는 더 나아졌다.</p>'
     },
     {
       type: 'body',
       html: '<p><b>리뷰 폭격이 좋은 작품을 죽일 것이다 - 10/10</b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post280_img6.jpg', alt: '반지의 제왕 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post280_img5.jpg', alt: '반지의 제왕 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post280_img4.jpg', alt: '반지의 제왕 후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post280_img3.jpg', alt: '반지의 제왕 후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post280_img2.jpg', alt: '반지의 제왕 후기반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post280_img1.jpg', alt: '반지의 제왕 후기반응', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>리뷰 폭격으로 인해 쇼의 질이 평가절하되는 것에 실망하였다. \'반지의 제왕\' 세계관의 훌륭한 추가작이며, 비판적인 의견에 흔들리지 말고 시청할 가치가 충분한 작품이다.</p>'

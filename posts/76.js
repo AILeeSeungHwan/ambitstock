@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>개봉일:</b> 2025년 9월 20일</li> <li><b>국가:</b> 홍콩, 중국</li> <li><b>장르:</b> 액션 / 범죄</li> <li><b>상영시간:</b> 142분</li> <li><b>등급:</b> 15세 이상 관람가</li> <li><b>감독:</b> 래리 양</li> <li><b>출연:</b> 성룡, 양가휘, 준(세븐틴 문준휘), 장자퐁</li> <li><b>관객 반응:</b> 예매 오픈과 동시에 6,241석이 전석 매진되며 화제를 모음</li> </ul>'
     },
+    { type: 'image', src: '/images/post76_img1.jpg', alt: '영화 포풍추영', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section2',
@@ -33,6 +34,7 @@ const post = {
       type: 'body',
       html: '<p>마카오 경찰은 첨단 기술을 무기로 삼는 범죄 조직에 속수무책으로 당합니다.</p>'
     },
+    { type: 'image', src: '/images/post76_img2.jpg', alt: '영화 포풍추영', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>결국 은퇴한 전설의 범죄 추적 전문가 황더중(성룡)을 다시 불러들이고, 신입 경찰 허추궈(장쯔펑)와 함께 새로운 감시반을 꾸립니다.</p>'
@@ -51,6 +53,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>성룡(황더중):</b> 전설의 범죄 추적 전문가. 이번에는 직접 뛰기보다는 팀을 이끌고 정보전을 지휘하는 역할. 노장의 무게와 세월의 흔적이 담긴 연기로 묵직한 울림을 준다고 합니다.</li> </ul>'
     },
+    { type: 'image', src: '/images/post76_img3.jpg', alt: '영화 포풍추영', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>양가휘(푸룽성):</b> 냉철하면서도 양아버지로서의 따뜻함을 가진 복합적인 빌런. 변장술과 암살 기술을 통해 압도적인 존재감을 발산합니다.</li> <li><b>준(시왕/시멍):</b> 세븐틴 멤버 문준휘의 스크린 데뷔작. 쌍둥이 캐릭터로서 갈등과 드라마를 형성하며 빌런 서사를 더욱 풍성하게 만듭니다.</li> <li><b>장자퐁(허추궈):</b> 신입 경찰로서 성룡의 멘토링을 받으며 성장하는 인물. 영화의 젊은 에너지와 드라마적 핵심을 담당합니다.</li> </ul>'
@@ -66,6 +69,7 @@ const post = {
       type: 'body',
       html: '<ol style=&quot;list-style-type: decimal;&quot;> <li><b>성룡의 새로운 얼굴:</b> 직접 몸으로 보여주는 액션보다 팀을 운영하고 후배를 이끄는 노장의 모습. 여전히 남아 있는 클래식한 액션 장면도 기대 포인트입니다.</li> <li><b>압도적인 빌런 서사:</b> 양가휘가 이끄는 범죄 조직의 화려한 액션과 기술력. 특히 CCTV 조작과 첨단 장비 활용이 현대적 재미를 더합니다.</li> </ol>'
     },
+    { type: 'image', src: '/images/post76_img4.jpg', alt: '영화 포풍추영', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>3. 새 얼굴의 발견:</b> 세븐틴 준의 스크린 데뷔는 이미 팬들 사이에서 큰 화제. 아이돌에서 배우로 성장할 수 있을지 궁금증을 자극합니다.</p>'
@@ -84,6 +88,7 @@ const post = {
       type: 'body',
       html: '<p>성룡은 이번 작품을 통해 “여전히 현역 액션 배우로서 설 수 있다”는 걸 증명했다고 합니다. 실제로 그는 여의봉처럼 길이가 변하는 도구 액션, 지형지물을 활용한 코믹 액션을 준비해 팬들의 향수를 자극했죠. 동시에 후배들을 이끌며 정보전을 지휘하는 새로운 포지션을 선택하면서, 세월의 무게를 고스란히 드러냈습니다.</p>'
     },
+    { type: 'image', src: '/images/post76_img5.jpg', alt: '영화 포풍추영', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>양가휘는 냉철한 킬러 본능과 양아버지로서의 따뜻한 면모를 동시에 보여주며 강렬한 빌런을 완성했습니다. 그의 연기력이 성룡과의 대립 구도를 더욱 팽팽하게 만들었다는 평을 받고 있습니다.</p>'
@@ -106,6 +111,7 @@ const post = {
       type: 'body',
       html: '<p>영화 제목 <b>포풍추영</b>은 영어 부제 <i>The Shadow’s Edge</i>와 함께 ‘거센 바람 속에서 그림자를 추격한다’는 이미지를 떠올리게 합니다. 추격과 액션을 넘어서, 예측 불가능한 시대에 서로를 시험하는 인간들의 이야기라는 느낌을 주기도 하죠.</p>'
     },
+    { type: 'image', src: '/images/post76_img6.jpg', alt: '영화 포풍추영', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>범죄자와 경찰, 그리고 그 사이에 놓인 인물들의 갈등과 선택을 상징하는 제목이라고 할 수 있습니다.</p>'
@@ -120,6 +126,9 @@ const post = {
       type: 'body',
       html: '<p>저는 개인적으로 <i>포풍추영</i>에서 보여줄 노년 성룡의 새로운 모습이 가장 기대됩니다.</p>'
     },
+    { type: 'image', src: '/images/post76_img9.jpg', alt: '영화 포풍추영', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post76_img8.jpg', alt: '영화 포풍추영', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post76_img7.jpg', alt: '영화 포풍추영', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>예전처럼 통쾌한 액션을 보여주진 못하더라도, 세월을 담아낸 무게 있는 연기와 후배들을 이끄는 리더십이 지금 시대에는 더 소중한 가치일 수 있겠죠.</p>'

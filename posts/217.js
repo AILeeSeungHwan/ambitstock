@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 인기 순위 작품 볼지 말지 알려드립니다.</b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>원더우먼 1984 해외 평론가 후기와 로튼 토마토 평점입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 로튼토마토 1984 평론가 평점입니다.</b></span></p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 인기 순위 작품 볼지 말지 알려드립니다.</b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>원더우먼 1984 해외 평론가 후기와 로튼 토마토 평점입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 로튼토마토 1984 평론가 평점입니다.</b></span></p>'
     },
     {
       type: 'image',
@@ -34,19 +34,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 58%, 관람객 평점 73%의 영화 원더우먼 1984 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 58%, 관람객 평점 73%의 영화 원더우먼 1984 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아쉬운 평론가 평점을 기록하고 있는 작품입니다. 관객 평점은 나쁘지 않은 73%를 기록하고 있으며, 원더우먼이라는 작품이 DC에서 가지는 상징적 의미가 크기 때문에 해외 평론가들의 기대감을 충족시키지 못한 아쉬운 평점을 기록하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아쉬운 평론가 평점을 기록하고 있는 작품입니다. 관객 평점은 나쁘지 않은 73%를 기록하고 있으며, 원더우먼이라는 작품이 DC에서 가지는 상징적 의미가 크기 때문에 해외 평론가들의 기대감을 충족시키지 못한 아쉬운 평점을 기록하였습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그렇다면 어떠한 점이 평론가들의 낮은 평점을 기록하게 하였는지, 후기 알아보도록 하겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>그렇다면 어떠한 점이 평론가들의 낮은 평점을 기록하게 하였는지, 후기 알아보도록 하겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 원더우먼 1984 평론가 후기입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 원더우먼 1984 평론가 후기입니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -116,6 +116,15 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7</b></span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post217_img8.jpg', alt: '원더우먼 1984', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post217_img7.jpg', alt: '원더우먼 1984', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post217_img6.jpg', alt: '원더우먼 1984', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post217_img5.jpg', alt: '원더우먼 1984', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post217_img4.jpg', alt: '원더우먼 1984', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post217_img3.jpg', alt: '원더우먼 1984', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post217_img2.jpg', alt: '원더우먼 1984 로튼토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post217_img1.jpg', alt: '원더우먼 1984', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>'

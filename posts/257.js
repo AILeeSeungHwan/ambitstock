@@ -129,6 +129,16 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post257_img9.jpg', alt: '악이 도사리고 있을 때 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post257_img8.jpg', alt: '악이 도사리고 있을 때 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post257_img7.jpg', alt: '악이 도사리고 있을 때 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post257_img6.jpg', alt: '악이 도사리고 있을 때 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post257_img5.jpg', alt: '악이 도사리고 있을 때', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post257_img4.jpg', alt: '악이 도사리고 있을 때', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post257_img3.jpg', alt: '악이 도사리고 있을 때', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post257_img2.jpg', alt: '악이 도사리고 있을 때 포스터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post257_img1.jpg', alt: '악이 도사리고 있을 때', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>일본과 프랑스의 애니메이션 영화 고스트캣 앙주가 2025년 1월 22일 개봉합니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post118_img1.jpg', alt: '고스트캣 앙주', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 제목인 고스트캣 앙주의 영어 뜻 해석, 그리고 해외 로튼 토마토 평론가 반응 결말 후기를 포토와 함께</b></span> 알아보도록 하겠습니다.</p>'
@@ -37,6 +38,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post118_img2.jpg', alt: '고스트캣 앙주', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-drama-recommend-netflix/',
@@ -62,6 +64,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>꾹꾹이 알바하는 고양이 실존?! <br>귀여운 동안 외모지만 37세다냥~</br></span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post118_img3.jpg', alt: '고스트캣 앙주', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><br>한적한 시골 마을에 위치한 ‘소세지절’. 아빠 ‘테츠야’는 엄마 기일 전까지 돌아온다는 말을 남기고 떠나고, 11세 소녀 ‘카린’만 혼자 남는다. 그런 ‘카린’의 무료한 일상에 37살 고양이 요괴 ‘앙주’가 등장한다.</br></p>'
@@ -81,6 +84,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;color: #781b33;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>고스트캣 앙주 (Ghost Cat ANZU)<br/></span>고양이요괴 앙주</span></b></blockquote>'
     },
+    { type: 'image', src: '/images/post118_img4.jpg', alt: '고스트캣 앙주 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 제목 고스트캣 앙주의 영어제목은 Ghost Cat ANZU입니다.</p>'
@@ -105,8 +109,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>고스트캣 앙주 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>고스트캣 앙주 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post118_img5.jpg', alt: '고스트캣 앙주', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 65%, 관객 평점 86%입니다.</b></span></p>'
@@ -129,6 +134,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>고스트캣 앙주 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post118_img11.jpg', alt: '고스트캣 앙주 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post118_img10.jpg', alt: '고스트캣 앙주 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post118_img9.jpg', alt: '고스트캣 앙주 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post118_img8.jpg', alt: '고스트캣 앙주', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post118_img7.jpg', alt: '고스트캣 앙주', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post118_img6.jpg', alt: '고스트캣 앙주', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Charles Solomon - 평점 없음</b><br/>매우 답답한 영화로, 무엇을 하고 싶은지 제대로 정하지 못한 영화이다.</p>'

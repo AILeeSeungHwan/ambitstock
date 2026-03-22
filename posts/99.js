@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post99_img1.jpg', alt: '반지의 제왕: 로히림의 전쟁', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>‘반지 전쟁’ 200년 전, 전설로 남을 거대한 전투가 펼쳐진다.</p>'
     },
+    { type: 'image', src: '/images/post99_img2.jpg', alt: '반지의 제왕: 로히림의 전쟁', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>로한의 전설적인 왕, 무쇠주먹으로 불리는 ‘헬름’은 공주 ‘헤라’를 아들 ‘울프’와 결혼시키려는 웨스트마크 영주 ‘프레카’와의 결투 도중 뜻밖의 사고로 그를 죽이고 만다. 아버지의 죽음에 분노한 ‘울프’는 복수를 다짐하며 모습을 감춘다.</p>'
@@ -70,6 +72,7 @@ const post = {
       type: 'body',
       html: '<p>영화 ‘반지의 제왕: 로히림의 전쟁(The Lord of the Rings: The War of the Rohirrim)’의 제목은 로한 왕국의 기마 전사들, 즉 로히림(Rohirrim)의 용맹과 희생을 중심으로 한 이야기를 담고 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post99_img3.jpg', alt: '반지의 제왕: 로히림의 전쟁', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>반지의 제왕 세계관 속 로한 왕국의 역사적인 전투를 조명하며, <b>\'그들의 영광스러운 전투와 전설로 남을 헬름 왕의 이야기\'</b>를 강조합니다.</p>'
@@ -117,6 +120,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 영화 반지의 제왕: 로히림의 전쟁의 해외 평론가 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post99_img4.jpg', alt: '반지의 제왕: 로히림의 전쟁', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>긍정적인 평가와 부정적인 평가, 그리고 전체적으로 어떠한 평가가 주를 이루고 있는지 함께 확인해 보시길 바랍니다.</p>'
@@ -139,6 +143,7 @@ const post = {
       type: 'body',
       html: '<p>Sarah Gopaul (Digital Journal)은 &quot;영화 제작자들이 텅 빈 캔버스를 활용해 톨킨의 세계에 등장하는 여성 캐릭터들에게 깊이와 개성을 부여했다&quot;라고 평하며, 특히 헤라(Hèra)와 그녀의 시녀 올윈(Olwyn)이 <b>기존의 전형적인 묘사보다 더 세밀하게 그려졌다</b>고 언급합니다.</p>'
     },
+    { type: 'image', src: '/images/post99_img5.jpg', alt: '반지의 제왕: 로히림의 전쟁', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>Juanma Fernández París (El Nuevo Día)는 &quot;이야기의 구성이 탄탄하며, 애니메이션의 예술적 불일치가 영화의 즐거움을 방해하지 않는다&quot;라고 말하며 <b>팬들에게 충분히 매력적인 작품임을 강조</b>했습니다.</p>'
@@ -157,6 +162,7 @@ const post = {
       type: 'body',
       html: '<p>반면, Charles Solomon (FilmWeek)은 &quot;<b>올해 가장 실망스러운 영화</b>&quot;라고 강하게 비판하며, 스토리의 무게감 부족을 지적했습니다.</p>'
     },
+    { type: 'image', src: '/images/post99_img6.jpg', alt: '반지의 제왕: 로히림의 전쟁', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>Ayaan Paul Chowdhury (The Hindu)는 &quot;애니메이션 특유의 초현실주의와 미야자키의 내적 경이로움을 보여주는 순간도 있지만, <b>대체로 안전한 선택에 그친다&quot;라고</b> 아쉬움을 표현했습니다.</p>'

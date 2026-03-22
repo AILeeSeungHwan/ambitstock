@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post167_img1.jpg', alt: '호리아', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -54,6 +55,7 @@ const post = {
       type: 'body',
       html: '<h4 data-pm-slice=&quot;1 1 []&quot;><b>영화 제목 : 호리아 Houria, 2024</b></h4>'
     },
+    { type: 'image', src: '/images/post167_img2.jpg', alt: '호리아', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h4><b>개요</b></h4>'
@@ -95,8 +97,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>호리아 해외 관객 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>호리아 해외 관객 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post167_img3.jpg', alt: '호리아 해외 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>해외 관객 평점은 6.4점으로 높지 않은 평점을 기록하였습니다.</b></span></p>'
@@ -115,6 +118,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>호리아 결말후기 관람평 포토입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post167_img4.jpg', alt: '호리아', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Blai Morell - 평점(4/5)</b><br>재건, 저항, 자매애에 대한 이야기를 이번에는 춤을 탈출구이자 자유의 공간으로 삼아 풀어내었다.</br></p>'
@@ -189,6 +193,12 @@ const post = {
       type: 'body',
       html: '<p><b>영화 호리아의 제목 호리아는 주인공인 호리아의 이름을 그대로 차용한 영화 제목입니다.</b></p>'
     },
+    { type: 'image', src: '/images/post167_img10.jpg', alt: '호리아', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post167_img9.jpg', alt: '호리아', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post167_img8.jpg', alt: '호리아', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post167_img7.jpg', alt: '호리아', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post167_img6.jpg', alt: '호리아', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post167_img5.jpg', alt: '호리아', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이상으로 영화 호리아 해외 평론가 관람평 결말후기 포스팅 마칩니다.</p>'

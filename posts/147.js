@@ -27,8 +27,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>해리 포터와 죽음의 성물 1 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>해리 포터와 죽음의 성물 1 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
     },
+    { type: 'image', src: '/images/post147_img1.jpg', alt: '해리 포터와 죽음의 성물 1', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;562&quot; data-origin-width=&quot;1716&quot;><span data-alt=&quot;해리 포터와 죽음의 성물 1 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bk77Ty/btsLsd0nlRA/AAAAAAAAAAAAAAAAAAAAAE2eqXgNYnBxdHKLzjZ4BOaVy7rOqtuSjvLOTmiH0zJQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XRaHieu98OI2CZ7Q4ebIL%2B82KAI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bk77Ty/btsLsd0nlRA/AAAAAAAAAAAAAAAAAAAAAE2eqXgNYnBxdHKLzjZ4BOaVy7rOqtuSjvLOTmiH0zJQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XRaHieu98OI2CZ7Q4ebIL%2B82KAI%3D&quot;></span><figcaption>해리 포터와 죽음의 성물 1 로튼 토마토 평점</figcaption> </figure> </p>'
@@ -63,6 +64,14 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>해리 포터와 죽음의 성물 1 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post147_img9.jpg', alt: '해리 포터와 죽음의 성물 1', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post147_img8.jpg', alt: '해리 포터와 죽음의 성물 1', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post147_img7.jpg', alt: '해리 포터와 죽음의 성물 1', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post147_img6.jpg', alt: '해리 포터와 죽음의 성물 1', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post147_img5.jpg', alt: '해리 포터와 죽음의 성물 1', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post147_img4.jpg', alt: '해리 포터와 죽음의 성물 1', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post147_img3.jpg', alt: '해리 포터와 죽음의 성물 1', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post147_img2.jpg', alt: '해리 포터와 죽음의 성물 1 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Don Shanahan - 평점 없음</b><br>영화의 모든 노력에서 오는 즐거움을 느낄 수 있을 정도로, 시리즈의 마지막 장을 구성한 두 영화는 영화 역사에서 그만한 자리를 차지할 만한 서사적 오락을 전달하였다.</br></p>'

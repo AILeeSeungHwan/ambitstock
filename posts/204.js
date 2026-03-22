@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시청가능 영화 히든 페이스 평론가 평점 및 결말후기 관람평 리뷰입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>동명의 한국영화 히든 페이스 개봉의 영향인지 현재 넷플릭스 영화 순위와 관심도가 상승 중인 영화 히든 페이스 입니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>우연히 접하게 되실 이 영화, 제목의 뜻 의미 해석과 어떤 평가를 받았는지 이번 포스팅을 통하여 확인해보시길 바랍니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시청가능 영화 히든 페이스 평론가 평점 및 결말후기 관람평 리뷰입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>동명의 한국영화 히든 페이스 개봉의 영향인지 현재 넷플릭스 영화 순위와 관심도가 상승 중인 영화 히든 페이스 입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>우연히 접하게 되실 이 영화, 제목의 뜻 의미 해석과 어떤 평가를 받았는지 이번 포스팅을 통하여 확인해보시길 바랍니다.</p>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>히든 페이스<br/></span>숨겨진 얼굴 숨겨진 면</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post204_img1.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 <b>《히든 페이스 (La Cara Oculta)》</b>에서 <b>&quot;히든 페이스&quot;</b>라는 제목은 <b>&quot;숨겨진 얼굴&quot;</b> 또는 <b>&quot;숨겨진 면&quot;</b>이라는 의미로 해석할 수 있습니다. 이 제목은 영화의 주요 테마와 긴밀하게 연결됩니다. 영화에서 등장인물들은 <b>진실을 숨기거나, 감추고 싶은 비밀이 있는</b> 상황에 놓이게 되며, 그들의 내면과 외면에서 나타나는 <b>숨겨진 측면</b>을 탐구합니다.</p>'
@@ -51,19 +52,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 로튼토마토 히든 페이스 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 로튼토마토 히든 페이스 평론가 평점입니다.</b></span></p>'
+    },
+    { type: 'image', src: '/images/post204_img2.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 없음, 관람객 평점 73%의 영화 히든 페이스 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 없음, 관람객 평점 73%의 영화 히든 페이스 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>개봉한지 10년이 넘은 영화이지만 평론가 평점이 많이 수집되지 않아 확인할 수 없는 상태입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>개봉한지 10년이 넘은 영화이지만 평론가 평점이 많이 수집되지 않아 확인할 수 없는 상태입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>관객 평점은 나쁘지 않은 그럭저럭 한 73%를 기록하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>관객 평점은 나쁘지 않은 그럭저럭 한 73%를 기록하였습니다.</p>'
     },
     {
       type: 'h2',
@@ -73,15 +75,16 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 히든 페이스 인기 순위 및 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 히든 페이스 인기 순위 및 평점입니다.</b></span></p>'
+    },
+    { type: 'image', src: '/images/post204_img3.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>IMDB 평점은 7.3점, 인기순위는 기록되지 않았습니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>IMDB 평점은 7.3점, 인기순위는 기록되지 않았습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>로튼 토마토 평점과 일치하는 평점을 기록하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토 평점과 일치하는 평점을 기록하였습니다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -92,8 +95,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 히든 페이스 결말 후기 관람평 알아보도록 하겠습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 히든 페이스 결말 후기 관람평 알아보도록 하겠습니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post204_img4.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Laura Hiros - 평점 3/5</span></i><br/>만약 다른 것을 보고 싶고, 특히 라틴 아메리카 영화의 매력을 만끽하고 싶다면, 이 흥미로운 영화를 놓치지 마라.</p>'
@@ -132,6 +136,13 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post204_img11.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post204_img10.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post204_img9.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post204_img8.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post204_img7.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post204_img6.jpg', alt: '히든 페이스 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post204_img5.jpg', alt: '히든 페이스 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10</b></span></p>'

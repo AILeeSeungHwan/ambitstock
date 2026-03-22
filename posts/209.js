@@ -28,6 +28,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post209_img1.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -53,6 +54,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 블링크 트와이스 해외 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post209_img8.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post209_img7.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post209_img6.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post209_img5.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post209_img4.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post209_img3.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post209_img2.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Katie Hogan - 평점 없음</span></i><br>\'Blink Twice\'는 \'부유한 자들을 처치하라\'는 주제를 다룬 영화 목록에 기쁜 마음으로 추가된다. 다만, 그 방식은 조금 다르게 나타난다.</br></p>'

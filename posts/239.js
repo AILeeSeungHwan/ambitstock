@@ -59,7 +59,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>유유상종 근묵자흑이라, 범죄를 저지르는 경찰 명덕의 옆에 있던 <span style=&quot;color: #333333; text-align: start;&quot;>동혁은 결국 점점 더 깊이 범죄에 빠지게 되지만, 자신이 처한 상황에서 벗어나기 위해 치열한 싸움을 벌입니다.<span> </span></span></p>'
+      html: '<p>유유상종 근묵자흑이라, 범죄를 저지르는 경찰 명덕의 옆에 있던 <span style=&quot;color: inherit; text-align: start;&quot;>동혁은 결국 점점 더 깊이 범죄에 빠지게 되지만, 자신이 처한 상황에서 벗어나기 위해 치열한 싸움을 벌입니다.<span> </span></span></p>'
     },
     {
       type: 'body',
@@ -85,6 +85,13 @@ const post = {
       type: 'body',
       html: '<p>영화에 대한 평가는 대체로 흔한 소재를 흔한 방식으로 풀어 쓴 영화라는 관람평이 지배적입니다. 또한 스토리가 너무나 빈약하여 몰입이 안된다는 평가도 있고요. 하지만 배우진들의 완벽한 연기와 기본에 충실한 전개에 대해 긍정적인 평가도 있습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post239_img6.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post239_img5.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post239_img4.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post239_img3.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post239_img2.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post239_img1.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>가볍게 관람할 수 있는 영화 더러운 돈에 손대지 마라 입니다.</p>'

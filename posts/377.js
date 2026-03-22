@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>2024년 7월 31일 영화 파일럿이 개봉하였습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>현재 개봉일 기준 <span style=&quot;background-color: #01ff51;&quot;><b>오전 9점대의 영화 파일럿 네이버 평점은 8.4점으로 하락</b></span>하고 있는 추세입니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>영화 파일럿 <b>관객수는 첫날 23만명</b>으로 현재상영작 <b>영화 인기 순위 1위</b>를 기록하고 있습니다.</p>'
+      html: '<p>2024년 7월 31일 영화 파일럿이 개봉하였습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>현재 개봉일 기준 <span style=&quot;background-color: #01ff51;&quot;><b>오전 9점대의 영화 파일럿 네이버 평점은 8.4점으로 하락</b></span>하고 있는 추세입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>영화 파일럿 <b>관객수는 첫날 23만명</b>으로 현재상영작 <b>영화 인기 순위 1위</b>를 기록하고 있습니다.</p>'
     },
     {
       type: 'image',
@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><br/>조정석이 5년 만에 스크린으로 돌아오는 작품으로, 영화 파일럿의 기본 줄거리는 주인공 한정우(조정석)가 <span style=&quot;background-color: #01ff51;&quot;><b>갑작스러운 실직과 이혼 등으로 인생이 엉망</b></span>이 된 후 여동생 한정미(한선화)의 정체성을 빌려 <span style=&quot;background-color: #01ff51;&quot;><b>새로운 삶을 시작하게 되는 과정</b></span>을 그립니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><br/>조정석이 5년 만에 스크린으로 돌아오는 작품으로, 영화 파일럿의 기본 줄거리는 주인공 한정우(조정석)가 <span style=&quot;background-color: #01ff51;&quot;><b>갑작스러운 실직과 이혼 등으로 인생이 엉망</b></span>이 된 후 여동생 한정미(한선화)의 정체성을 빌려 <span style=&quot;background-color: #01ff51;&quot;><b>새로운 삶을 시작하게 되는 과정</b></span>을 그립니다.</p>'
     },
     {
       type: 'body',
@@ -27,15 +27,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>정우는 여동생이 운영하는 뷰티 유튜브 채널을 통해  새로운 직업을 찾고, 자신의 인생을 재정비하는 여정을 시작합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>정우는 여동생이 운영하는 뷰티 유튜브 채널을 통해  새로운 직업을 찾고, 자신의 인생을 재정비하는 여정을 시작합니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 파일럿에서 <span style=&quot;background-color: #01ff51;&quot;><b>조정석은 성별을 포함한 다양한 변신</b></span>을 보여주며, </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 파일럿에서 <span style=&quot;background-color: #01ff51;&quot;><b>조정석은 성별을 포함한 다양한 변신</b></span>을 보여주며, </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이견이 없는<span> </span>연기파 배우<span> </span>조정석의 1인 2역의 연기 차력 원맨쇼를 보실 수 있을 것입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이견이 없는<span> </span>연기파 배우<span> </span>조정석의 1인 2역의 연기 차력 원맨쇼를 보실 수 있을 것입니다.</p>'
     },
     {
       type: 'body',
@@ -197,6 +197,21 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>영화 파일럿 쿠키영상은 영화가 끝난 후 바로</b></span> 나옵니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post377_img14.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img13.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img12.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img11.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img10.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img9.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img8.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img7.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img6.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img5.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img4.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img3.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img2.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post377_img1.jpg', alt: '현재상영작 영화 파일럿 후기 평점 쿠키', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>크레딧 영상 이후엔 쿠키영상이 없습니다.</p>'

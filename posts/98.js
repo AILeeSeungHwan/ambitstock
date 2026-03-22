@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><b>영화 멜랑콜리아 (영어제목 : <span style=&quot;color: #000000; text-align: start;&quot;>Melancholia</span>)가 2025년 1월 28일 재개봉합니다.</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 멜랑콜리아의 제목 뜻을 줄거리와 함께 연관지어 알아보고, 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=1812446&amp;qvt=0&amp;query=영화%20멜랑콜리아%20상영일정&quot; title=&quot;영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>멜랑콜리아 바로 보러 가기👉</button></a></center></div>'
+      html: '<p><b>영화 멜랑콜리아 (영어제목 : <span style=&quot;color: inherit; text-align: start;&quot;>Melancholia</span>)가 2025년 1월 28일 재개봉합니다.</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 멜랑콜리아의 제목 뜻을 줄거리와 함께 연관지어 알아보고, 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=1812446&amp;qvt=0&amp;query=영화%20멜랑콜리아%20상영일정&quot; title=&quot;영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>멜랑콜리아 바로 보러 가기👉</button></a></center></div>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post98_img1.jpg', alt: '멜랑콜리아', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>“세상의 끝이 아닌, 아름다운 종말의 시작” 광고계의 라이징 스타 저스틴은 완벽한 결혼식을 꿈꿨지만 우울증으로 결국 망쳐버리고, 상태가 심각해진 그는 언니 클레어의 저택에 머물며 보살핌을 받는다.</p>'
     },
+    { type: 'image', src: '/images/post98_img2.jpg', alt: '멜랑콜리아', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>한편, ‘멜랑콜리아’라는 푸른 빛의 거대 행성이 지구를 향해 날아오고 있다는 소식이 전해지고,</p>'
@@ -78,6 +80,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>멜랑콜리아<br/></span>우울감 비애, 멜랑콜리</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post98_img3.jpg', alt: '멜랑콜리아', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>\'멜랑콜리아(Melancholia)\'는 영어 단어로 \'우울감\'이나 \'비애\', 혹은 우리가 가끔 사용하는 표현인 \'멜랑꼴리하다\'로 불리는 심리적 상태를 뜻합니다.</p>'
@@ -125,6 +128,9 @@ const post = {
       type: 'body',
       html: '<p>영화는 대재앙을 다루지만 <b>주인공들의 심리적, 정서적인 부분을 집중합니다. </b></p>'
     },
+    { type: 'image', src: '/images/post98_img6.jpg', alt: '멜랑콜리아', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post98_img5.jpg', alt: '멜랑콜리아', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post98_img4.jpg', alt: '멜랑콜리아', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>이는 영화의 제목이 멜랑콜리아인 이유가 되죠.</b></p>'

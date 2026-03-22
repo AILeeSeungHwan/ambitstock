@@ -29,6 +29,7 @@ const post = {
       type: 'body',
       html: '<h3>영화 제목 : 쇼잉 업 Showing Up, 2024</h3>'
     },
+    { type: 'image', src: '/images/post155_img1.jpg', alt: '쇼잉 업 Showing Up 뜻 해석 관람평 정보 출연진 결말 후기 리뷰 포토 <R의 영화 총정리>', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>개요</h3>'
@@ -91,6 +92,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post155_img2.jpg', alt: '쇼잉 업', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/critic-recommend-masterpiece-movie-top-10/',
@@ -127,6 +129,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>쇼잉 업 로튼 토마토 평론가, 관객 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post155_img3.jpg', alt: '쇼잉 업', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점은 89%, 관객 평점은 50%를 기록하였습니다.</b></span></p>'
@@ -157,6 +160,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>쇼잉 업 해외 평론가들의 관람평 리뷰 결말 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post155_img4.jpg', alt: '쇼잉 업', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>CJ Sheu - 평점 없음</b><br/>Reichardt는 <b>Williams를 효과적으로 활용할 수 있는 몇 안 되는 감독</b> 중 한 명이다.</p>'
@@ -251,6 +255,16 @@ const post = {
       type: 'body',
       html: '<p>영화 <b>\'Showing Up\'</b>의 제목은 다양한 의미를 내포하고 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post155_img14.jpg', alt: '쇼잉 업 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post155_img13.jpg', alt: '쇼잉 업 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post155_img12.jpg', alt: '쇼잉 업 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post155_img11.jpg', alt: '쇼잉 업 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post155_img10.jpg', alt: '쇼잉 업 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post155_img9.jpg', alt: '쇼잉 업 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post155_img8.jpg', alt: '쇼잉 업 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post155_img7.jpg', alt: '쇼잉 업 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post155_img6.jpg', alt: '쇼잉 업 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post155_img5.jpg', alt: '쇼잉 업 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 줄거리와의 연관관계를 바탕으로 영화 제목의 뜻을 해석해 보도록 하겠습니다.</p>'

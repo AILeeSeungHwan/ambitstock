@@ -73,6 +73,14 @@ const post = {
       type: 'body',
       html: '<p>악마와의 토크쇼 결말에서 잭이 아내를 찌르는 장면은 단순한 폭력이 아니라, 그녀의 희생을 완성시키는 의식적 행위입니다. 이 장면은 잭이 자신의 성공과 명성을 위해 사랑하는 사람을 완전히 희생시켰음을 보여줍니다. 매들린의 암과 그녀의 죽음은 잭의 도덕적 타락과 그의 야망의 대가를 상징하며, 잭은 이로 인해 시청률 1위를 달성하게 됩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post333_img7.jpg', alt: '악마와의 토크쇼 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post333_img6.jpg', alt: '악마와의 토크쇼 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post333_img5.jpg', alt: '악마와의 토크쇼 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post333_img4.jpg', alt: '악마와의 토크쇼 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post333_img3.jpg', alt: '악마와의 토크쇼 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post333_img2.jpg', alt: '악마와의 토크쇼 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post333_img1.jpg', alt: '악마와의 토크쇼 결말 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>영화의 마지막에서 잭이 TV를 끄라고 외치는 장면은 미디어의 자극적인 콘텐츠와 그로 인한 타락을 경고하는 메시지로 해석됩니다. 이는 영화가 단순한 오컬트 공포물을 넘어, 미디어와 권력의 어두운 면을 비판하는 작품임을 강조합니다.</p>'

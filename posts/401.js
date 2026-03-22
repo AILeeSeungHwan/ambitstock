@@ -8,7 +8,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p>최애의 아이 시즌2가 드디어 공개되었습니다. </p><p><span style=&quot;background-color: #f3c000;&quot;><b>방영일은 24년 7월 3일이며,</b></span> 당연하게도 공개 이후 압도적인 인기를 몰고 있습니다.</p><p><span style=&quot;color: #000000;&quot;>최애의 아이를 모티브로 밴드 QWER이 탄생한 만큼, 한국에서 엄청난 인기를 끌고 있는 최애의 아이.</span></p>'
+      html: '<p>최애의 아이 시즌2가 드디어 공개되었습니다. </p><p><span style=&quot;background-color: #f3c000;&quot;><b>방영일은 24년 7월 3일이며,</b></span> 당연하게도 공개 이후 압도적인 인기를 몰고 있습니다.</p><p><span style=&quot;color: inherit;&quot;>최애의 아이를 모티브로 밴드 QWER이 탄생한 만큼, 한국에서 엄청난 인기를 끌고 있는 최애의 아이.</span></p>'
     },
     {
       type: 'image',
@@ -20,19 +20,19 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;>과연 이번 시즌도 시즌1에 이어 파격적인 전개로 인기를 몰 수 있을지,</span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;>과연 이번 시즌도 시즌1에 이어 파격적인 전개로 인기를 몰 수 있을지,</span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;> \'시즌1보다 못한 최애의 아이 시즌 2 노잼\' 이라는 평가를 받게 될지, </span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;> \'시즌1보다 못한 최애의 아이 시즌 2 노잼\' 이라는 평가를 받게 될지, </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;>애니메이션 최애의 아이 시즌 2, 일본 현지 시청자들의 반응과 해외 시청자들의 평점 및 반응 리뷰 살펴보겠습니다.</span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;>애니메이션 최애의 아이 시즌 2, 일본 현지 시청자들의 반응과 해외 시청자들의 평점 및 반응 리뷰 살펴보겠습니다.</span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000;&quot;><span style=&quot;caret-color: #000000;&quot;>먼저 <span style=&quot;background-color: #f3c000;&quot;><b>\'최애의 아이 시즌2\' 기본적인 줄거리 소개</b></span>로 시작하겠습니다.</span></span></p>'
+      html: '<p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit;&quot;>먼저 <span style=&quot;background-color: #f3c000;&quot;><b>\'최애의 아이 시즌2\' 기본적인 줄거리 소개</b></span>로 시작하겠습니다.</span></span></p>'
     },
     {
       type: 'body',
@@ -68,19 +68,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #01ff51;&quot;>4. 사랑과 우정</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #01ff51;&quot;>4. 사랑과 우정</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>아쿠아마린과 루비는 각각의 여정에서 다양한 사람들을 만나고, 그들과의 관계 속에서 성장해 나갑니다. 이 과정에서 사랑과 우정의 복잡한 감정이 얽히고, 이는 이야기의 긴장감을 높이는 요소로 작용합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아쿠아마린과 루비는 각각의 여정에서 다양한 사람들을 만나고, 그들과의 관계 속에서 성장해 나갑니다. 이 과정에서 사랑과 우정의 복잡한 감정이 얽히고, 이는 이야기의 긴장감을 높이는 요소로 작용합니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><br/><b><span style=&quot;background-color: #01ff51;&quot;>5. 서스펜스와 반전</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><br/><b><span style=&quot;background-color: #01ff51;&quot;>5. 서스펜스와 반전</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>시즌 2는 시즌 1에 이어 서스펜스와 반전 요소가 가득합니다. 아쿠아마린의 복수 계획이 진행될수록, 예상치 못한 사건들이 벌어지며 이야기는 더욱 흥미진진해집니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>시즌 2는 시즌 1에 이어 서스펜스와 반전 요소가 가득합니다. 아쿠아마린의 복수 계획이 진행될수록, 예상치 못한 사건들이 벌어지며 이야기는 더욱 흥미진진해집니다.</p>'
     },
     {
       type: 'body',
@@ -148,7 +148,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;background-color: #01ff55;&quot;>1. 히메카와 <span style=&quot;color: #333333; text-align: start;&quot;>타이키 </span>(Taiki Himekawa)</span></b></p>'
+      html: '<p><b><span style=&quot;background-color: #01ff55;&quot;>1. 히메카와 <span style=&quot;color: inherit; text-align: start;&quot;>타이키 </span>(Taiki Himekawa)</span></b></p>'
     },
     {
       type: 'body',
@@ -170,6 +170,25 @@ const post = {
       type: 'body',
       html: '<p>최애의 아이 시즌 2 몇 부작? 총 13부작으로 아래 표를 통해 출시 일정을 확인해 보세요.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post401_img18.jpg', alt: '최애의 아이 시즌 2기 공개 일정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img17.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img16.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img15.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img14.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img13.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img12.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img11.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img10.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img9.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img8.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img7.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img6.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img5.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img4.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img3.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img2.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post401_img1.jpg', alt: '최애의 아이 시즌 2기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;585&quot; data-origin-width=&quot;625&quot;><span data-alt=&quot;최애의 아이 시즌 2기 공개 일정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dFzr5Y/btsIohLyeDQ/AAAAAAAAAAAAAAAAAAAAAI3hRcVbPxSAflumwT2Fl5rkUBrdIHtU0Ar7QVgXGOCK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cTMf4%2FkF%2FTBn5J%2BolDiWSPk%2FVgk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dFzr5Y/btsIohLyeDQ/AAAAAAAAAAAAAAAAAAAAAI3hRcVbPxSAflumwT2Fl5rkUBrdIHtU0Ar7QVgXGOCK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cTMf4%2FkF%2FTBn5J%2BolDiWSPk%2FVgk%3D&quot;></span><figcaption>최애의 아이 시즌 2기 공개 일정</figcaption> </figure> </p>'

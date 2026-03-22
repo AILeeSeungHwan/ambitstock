@@ -118,6 +118,13 @@ const post = {
       type: 'body',
       html: '<p>곧 만나요,</p>'
     },
+    ,
+    { type: 'image', src: '/images/post375_img6.jpg', alt: '오징어게임 시즌2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post375_img5.jpg', alt: '오징어게임 시즌2 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post375_img4.jpg', alt: '오징어게임 시즌2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post375_img3.jpg', alt: '오징어 게임 시즌2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post375_img2.jpg', alt: '오징어게임 시즌2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post375_img1.jpg', alt: '오징어게임 시즌2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>여러분.</p>'

@@ -78,6 +78,13 @@ const post = {
       type: 'body',
       html: '<p>이전 포스팅을 통해 시즌 1에서의 평점과 해외반응을 참고하세요.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post274_img6.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post274_img5.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post274_img4.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post274_img3.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post274_img2.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post274_img1.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

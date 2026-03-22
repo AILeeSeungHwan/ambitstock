@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post207_img1.jpg', alt: '미스터 플랑크톤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p>이번 K-드라마는 빠르게 시청자들의 마음을 사로잡으며, <span style=&quot;background-color: #9feec3;&quot;><b>유머와 사랑, 슬픔, 깊이 있는 감정적 스토리텔링을 신선하고 강렬하게 결합한 드문 작품이다.</b> </span>우도환 (Woo Do Hwan)과 이유미(Lee Yoo Mi)의 연기는 감정이 섬세하고 사실감 있게 그려져 있으며, 이야기의 중심에서 관객들과 강력하게 공명한다.</p>'
     },
+    { type: 'image', src: '/images/post207_img2.jpg', alt: '미스터 플랑크톤 해외 시청자 후기 리뷰 평점! 넷플릭스 한국 드라마 추천 극찬일색 평가', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이 드라마는 웃음과 눈물, 그리고 감정적인 성장의 균형을 잘 잡은 작품으로, 모든 이들이 만족할 수 있는 요소를 담고 있다. 등장인물들의 갈등과 내면의 변화, 그리고 그들이 함께 나아가는 여정은 자연스럽고 몰입감 있게 그려져 관객들이 그들과 함께 공감할 수 있게 만든다.</p>'
@@ -62,6 +64,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이 드라마는 희귀하고 불치의 뇌 질환을 앓고 있는 젊은 남자, 해조(Hae Jo - 우도환)가 주인공이다. </b></span></p>'
     },
+    { type: 'image', src: '/images/post207_img3.jpg', alt: '미스터 플랑크톤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>그는 자신의 생애 마지막 여행을 떠나기 위해 결혼식 날 다시 만난 전 아내 재미 (Jae-mi - 이유미)를 납치하며 이야기가 시작된다.</p>'
@@ -81,6 +84,7 @@ const post = {
       type: 'body',
       html: '<p>이 드라마에서 중요한 점은, 감정적 여정을 통해 관객들에게 큰 울림을 주며, 그들이 겪는 변화와 성장이 매우 현실적으로 그려진다는 것이다.</p>'
     },
+    { type: 'image', src: '/images/post207_img4.jpg', alt: '미스터 플랑크톤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>우도환은 감정적으로나 신체적으로 힘든 상황에서 Hae Jo라는 캐릭터를 진지하게 풀어내며, 이유미는 그와의 관계에서 복잡한 감정을 섬세하게 표현한다.</p>'
@@ -99,6 +103,7 @@ const post = {
       type: 'body',
       html: '<p>이 드라마의 또 다른 강점은 그 외의 등장인물들도 매우 잘 그려졌다는 점이다.</p>'
     },
+    { type: 'image', src: '/images/post207_img5.jpg', alt: '미스터 플랑크톤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>특히 <span style=&quot;background-color: #9feec3;&quot;><b>김해숙(오정세)과 같은 강한 외모를 가진 인물이 사실은 부드럽고 따뜻한 마음을 지닌 인물로 등장하는 부분</b></span>이 인상적이다.</p>'
@@ -117,6 +122,7 @@ const post = {
       type: 'body',
       html: '<p>이 드라마는 매우 철학적인 요소를 담고 있으며, 플랑크톤처럼 작고 보잘것없는 존재가 결국 중요한 의미를 지닌다는 메시지를 전달한다. 삶의 의미를 찾는 여정을 떠나는 두 사람의 이야기는 관객들에게 삶과 죽음에 대한 깊은 생각을 하게 만든다.</p>'
     },
+    { type: 'image', src: '/images/post207_img6.jpg', alt: '미스터 플랑크톤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>작은 존재가 세상에 얼마나 중요한 빛을 발할 수 있는지를 상징적으로 보여주는 이 드라마는, 인생의 진정한 아름다움이 무엇인지를 되새기게 한다.</p>'
@@ -131,6 +137,10 @@ const post = {
       type: 'body',
       html: '<p>음악도 중요한 역할을 한다.</p>'
     },
+    { type: 'image', src: '/images/post207_img10.jpg', alt: '미스터 플랑크톤', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post207_img9.jpg', alt: '미스터 플랑크톤', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post207_img8.jpg', alt: '미스터 플랑크톤', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post207_img7.jpg', alt: '미스터 플랑크톤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>Junha Park의 음악은 감동적인 장면에서 자주 흐르며, Damien Rice와 비슷한 감성을 느낄 수 있다. </b></span></p>'

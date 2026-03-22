@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>최근 넷플릭스에서 보안 침해로 인해 아케인 시즌2 관련된 일부 내용이 유출</b></span>되었습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>현재 해당 유출은 애니메이션 업계와 아케인 시즌2를 기다리고 있는 팬들 사이에서 큰 논란을 일으키고 있습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>유출된 내용은 1화에서 5화까지 분량이며 360p 화질 내부 사용 only 파일</b></span>로,<span> </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>최근 넷플릭스에서 보안 침해로 인해 아케인 시즌2 관련된 일부 내용이 유출</b></span>되었습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>현재 해당 유출은 애니메이션 업계와 아케인 시즌2를 기다리고 있는 팬들 사이에서 큰 논란을 일으키고 있습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>유출된 내용은 1화에서 5화까지 분량이며 360p 화질 내부 사용 only 파일</b></span>로,<span> </span></p>'
     },
     {
       type: 'image',
@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>3화까지는 제작완료 된 것으로 보이나 4화 5화는 아직 제작중인 미완성본이라 합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>3화까지는 제작완료 된 것으로 보이나 4화 5화는 아직 제작중인 미완성본이라 합니다.</p>'
     },
     {
       type: 'body',
@@ -53,6 +53,12 @@ const post = {
       type: 'body',
       html: '<p>유출 사건은 다양한 엔터테인먼트 업계에서 빈번하게 발생하며, 영화, TV 시리즈, 게임 등 여러 분야에서 그 사례를 찾아볼 수 있습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post357_img5.jpg', alt: '아케인 시즌2기 스포 유출 공개일 넷플릭스 보안 침해 사건 공식 예고편', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post357_img4.jpg', alt: '아케인 시즌2기 스포 유출 공개일 넷플릭스 보안 침해 사건 공식 예고편', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post357_img3.jpg', alt: '아케인 시즌2기 스포 유출', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post357_img2.jpg', alt: '아케인 시즌2기 스포 유출 공개일 넷플릭스 보안 침해 사건 공식 예고편', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post357_img1.jpg', alt: '아케인 시즌2기 스포 유출', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>다음 포스팅에서 계속됩니다.</p>'

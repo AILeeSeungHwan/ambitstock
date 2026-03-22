@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;438&quot; data-origin-width=&quot;656&quot;><span data-alt=&quot;개봉예정작 영화 2025년 10월&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bDPoVR/btsQzQ1llSb/AAAAAAAAAAAAAAAAAAAAAMkGJJw-Oc5MErtM60YDVDCxsV9H1aNFT_ezsBT4R7FH/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rfrwFXYKq5reu1g9SGPx0CHhq4c%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bDPoVR/btsQzQ1llSb/AAAAAAAAAAAAAAAAAAAAAMkGJJw-Oc5MErtM60YDVDCxsV9H1aNFT_ezsBT4R7FH/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rfrwFXYKq5reu1g9SGPx0CHhq4c%3D&quot;></span><figcaption>개봉예정작 영화 2025년 10월</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post80_img1.jpg', alt: '개봉예정작 영화 2025년 10월', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>개봉일</h3>'
@@ -61,6 +62,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;824&quot; data-origin-width=&quot;1558&quot;><span data-alt=&quot;개봉예정작 영화 2025년 10월&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cIqeJT/btsQBoiUX7T/AAAAAAAAAAAAAAAAAAAAADSaguSV70UNAOXhic-uBU2N6mIL3cwAZz4hwC-5liKU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=T%2FxCXzQdc6AsyR7jZwnD8Gnd1dI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cIqeJT/btsQBoiUX7T/AAAAAAAAAAAAAAAAAAAAADSaguSV70UNAOXhic-uBU2N6mIL3cwAZz4hwC-5liKU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=T%2FxCXzQdc6AsyR7jZwnD8Gnd1dI%3D&quot;></span><figcaption>개봉예정작 영화 2025년 10월</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post80_img2.jpg', alt: '개봉예정작 영화 2025년 10월', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>개봉일</h3>'
@@ -99,6 +101,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;935&quot; data-origin-width=&quot;656&quot;><span data-alt=&quot;개봉예정작 영화 2025년 10월&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/5Amr5/btsQBGKm7ro/AAAAAAAAAAAAAAAAAAAAAPx5-r_UW_gUOjCagTdL792IQA7az04DbCABUjcVxnm3/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=INWlJXpzKUKOCuz0aOGAGVDxv54%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/5Amr5/btsQBGKm7ro/AAAAAAAAAAAAAAAAAAAAAPx5-r_UW_gUOjCagTdL792IQA7az04DbCABUjcVxnm3/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=INWlJXpzKUKOCuz0aOGAGVDxv54%3D&quot;></span><figcaption>개봉예정작 영화 2025년 10월</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post80_img3.jpg', alt: '개봉예정작 영화 2025년 10월', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>개봉일</h3>'
@@ -138,6 +141,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;860&quot; data-origin-width=&quot;600&quot;><span data-alt=&quot;개봉예정작 영화 2025년 10월&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dQRzn4/btsQCCgaYnI/AAAAAAAAAAAAAAAAAAAAAH42GIGXejCJY-V6qnGQHxdE9ynkd46EFasc5-VETGEz/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4RFkZOwUjLHQ%2FB0bvxwpI4jjv%2BU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dQRzn4/btsQCCgaYnI/AAAAAAAAAAAAAAAAAAAAAH42GIGXejCJY-V6qnGQHxdE9ynkd46EFasc5-VETGEz/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4RFkZOwUjLHQ%2FB0bvxwpI4jjv%2BU%3D&quot;></span><figcaption>개봉예정작 영화 2025년 10월</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post80_img4.jpg', alt: '개봉예정작 영화 2025년 10월', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>개봉일</h3>'
@@ -184,6 +188,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;500&quot; data-origin-width=&quot;350&quot;><span data-alt=&quot;개봉예정작 영화 2025년 10월&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/P7yZz/btsQBv9LqPn/AAAAAAAAAAAAAAAAAAAAAO1YwnYpHyW_rr7SugWZvflCTgNWjJX5LLCLTXJFlzTF/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kipaI1A0LBGBul00vrQ0twjENPA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/P7yZz/btsQBv9LqPn/AAAAAAAAAAAAAAAAAAAAAO1YwnYpHyW_rr7SugWZvflCTgNWjJX5LLCLTXJFlzTF/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kipaI1A0LBGBul00vrQ0twjENPA%3D&quot;></span><figcaption>개봉예정작 영화 2025년 10월</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post80_img5.jpg', alt: '개봉예정작 영화 2025년 10월', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>개봉일</h3>'
@@ -222,6 +227,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;922&quot; data-origin-width=&quot;656&quot;><span data-alt=&quot;개봉예정작 영화 2025년 10월&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cmqXW8/btsQDI71ZAO/AAAAAAAAAAAAAAAAAAAAAHXctcy1QLVDfiOw-LgVF3i_gs3Q-wWBCEB2LhKwdPX9/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=BkZbcckDTHzRD7%2B8g7dg89L7n6k%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cmqXW8/btsQDI71ZAO/AAAAAAAAAAAAAAAAAAAAAHXctcy1QLVDfiOw-LgVF3i_gs3Q-wWBCEB2LhKwdPX9/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=BkZbcckDTHzRD7%2B8g7dg89L7n6k%3D&quot;></span><figcaption>개봉예정작 영화 2025년 10월</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post80_img6.jpg', alt: '개봉예정작 영화 2025년 10월', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>개봉일</h3>'
@@ -260,6 +266,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;844&quot; data-origin-width=&quot;596&quot;><span data-alt=&quot;개봉예정작 영화 2025년 10월&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cDWb7S/btsQB1AK3uF/AAAAAAAAAAAAAAAAAAAAAEyJKNfhai6KJrTOKJ898w_skiioXwQ4eutmAQ14XeJY/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=neF%2BItnzyFKI8r%2FIN9ZYtTznFvY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cDWb7S/btsQB1AK3uF/AAAAAAAAAAAAAAAAAAAAAEyJKNfhai6KJrTOKJ898w_skiioXwQ4eutmAQ14XeJY/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=neF%2BItnzyFKI8r%2FIN9ZYtTznFvY%3D&quot;></span><figcaption>개봉예정작 영화 2025년 10월</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post80_img7.jpg', alt: '개봉예정작 영화 2025년 10월', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>개봉일</h3>'
@@ -298,6 +305,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;940&quot; data-origin-width=&quot;656&quot;><span data-alt=&quot;개봉예정작 영화 2025년 10월&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/XXKbT/btsQAOor7CY/AAAAAAAAAAAAAAAAAAAAAC6aOAmHSuXNayaGLMqbm4TSyQAwVAJcv2PSb8VzOvtl/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sURwJ%2Fn%2FSS48QaNqbnqEQ3GU6Mw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/XXKbT/btsQAOor7CY/AAAAAAAAAAAAAAAAAAAAAC6aOAmHSuXNayaGLMqbm4TSyQAwVAJcv2PSb8VzOvtl/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sURwJ%2Fn%2FSS48QaNqbnqEQ3GU6Mw%3D&quot;></span><figcaption>개봉예정작 영화 2025년 10월</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post80_img8.jpg', alt: '개봉예정작 영화 2025년 10월', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>개봉일</h3>'
@@ -336,6 +344,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1013&quot; data-origin-width=&quot;580&quot;><span data-alt=&quot;개봉예정작 영화 2025년 10월&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bTRfCP/btsQAQGBTAD/AAAAAAAAAAAAAAAAAAAAAJyiZMQ--LvcAmhwxxFIPs0sNKA6e_ELlHAbPNPidcLo/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=z%2BproWiGeyGrWykHNliwABUsdXM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bTRfCP/btsQAQGBTAD/AAAAAAAAAAAAAAAAAAAAAJyiZMQ--LvcAmhwxxFIPs0sNKA6e_ELlHAbPNPidcLo/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=z%2BproWiGeyGrWykHNliwABUsdXM%3D&quot;></span><figcaption>개봉예정작 영화 2025년 10월</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post80_img9.jpg', alt: '개봉예정작 영화 2025년 10월', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>개봉일</h3>'
@@ -374,6 +383,8 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;866&quot; data-origin-width=&quot;600&quot;><span data-alt=&quot;개봉예정작 영화 2025년 10월&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/P4jDJ/btsQzJOIUz7/AAAAAAAAAAAAAAAAAAAAANldFAchB-l0q2d-PoqnRn6ahHsLKpCxwfBk3ZftvlXK/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Uf4AdyxEaflgZxccwTdPKarpoU0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/P4jDJ/btsQzJOIUz7/AAAAAAAAAAAAAAAAAAAAANldFAchB-l0q2d-PoqnRn6ahHsLKpCxwfBk3ZftvlXK/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Uf4AdyxEaflgZxccwTdPKarpoU0%3D&quot;></span><figcaption>개봉예정작 영화 2025년 10월</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post80_img11.jpg', alt: '개봉예정작 영화 2025년 10월', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post80_img10.jpg', alt: '개봉예정작 영화 2025년 10월', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>개봉일</h3>'

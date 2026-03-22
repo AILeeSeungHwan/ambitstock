@@ -373,6 +373,23 @@ const post = {
       type: 'body',
       html: '<p><b>명대사</b>: &quot;어떻게 살아야 할지, 스스로에게 물어보아라.&quot;</p>'
     },
+    ,
+    { type: 'image', src: '/images/post342_img16.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img15.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img14.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img13.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img12.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img11.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img10.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img9.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img8.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img7.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img6.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img5.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img4.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img3.jpg', alt: '지브리 영화 애니메이션 순서 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img2.jpg', alt: '지브리 애니메이션 순서대로 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post342_img1.jpg', alt: '지브리 애니메이션 순서대로 총정리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>감독</b>: 미야자키 하야오</p>'

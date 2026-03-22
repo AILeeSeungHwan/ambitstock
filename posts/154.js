@@ -29,6 +29,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post154_img1.jpg', alt: '넷플릭스 드라마 트렁크', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/critic-recommend-masterpiece-movie-top-10/',
@@ -57,8 +58,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>트렁크 해외 반응 인기 순위 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>트렁크 해외 반응 인기 순위 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post154_img2.jpg', alt: '드라마 트렁크 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>해외 관객 평점 7.1점, 평점표본 1,100명 이상으로, 인기 순위는 314위를 기록하고 있습니다.</b></span></p>'
@@ -82,6 +84,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>드라마 트렁크의 해외 시청자 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post154_img9.jpg', alt: '드라마 트렁크 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post154_img8.jpg', alt: '드라마 트렁크 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post154_img7.jpg', alt: '드라마 트렁크 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post154_img6.jpg', alt: '드라마 트렁크 결말 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post154_img5.jpg', alt: '드라마 트렁크 결말', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post154_img4.jpg', alt: '드라마 트렁크', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post154_img3.jpg', alt: '드라마 트렁크', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p style=&quot;border: 1px solid #ddd; border-radius: 8px; padding: 15px; background-color: #f9f9f9; line-height: 1.6; font-family: \'Apple SD Gothic Neo\', sans-serif; font-size: 15px;&quot;><b>Frank Swietek - One Guy\'s Opinion</b><br><span style=&quot;color: #555;&quot;>평점: C+</span><br>드라마 트렁크는 관객에게 충격을 주는 것을 목표로 하였으나, 상상력이 부족한 시리즈의 추가작으로 남아 아쉬움을 주었다.</br></br></p>'

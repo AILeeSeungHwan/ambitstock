@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>마이다스 Midas</b>는 ‘만지는 것마다 황금으로 바꾸는’ 그리스 신화의 미다스 왕을 가리킵니다.</p>'
     },
+    { type: 'image', src: '/images/post69_img1.webp', alt: '마이다스 맨 제목 뜻과 의미', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>마이다스 맨 Midas Man</b>은 곧 “황금 손을 가진 사람”, 즉 <b>흥행을 현실로 만드는 프로듀서/매니저</b>라는 관용적 표현입니다.</p>'
@@ -50,6 +51,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>1961</b> 리버풀 NEMS 레코드숍의 젊은 점장 엡스타인이 <b>캐번 클럽</b>에서 비틀즈를 보고 관심을 갖기 시작.</li> <li><b>1962</b> 매니지먼트 계약 체결(초기 계약은 법적 효력 제한), <b>데카 오디션</b> 불합격 후 <b>EMI/파롤로폰</b>과 연결, <b>조지 마틴</b>이 프로듀싱. 데뷔 싱글 <i>Love Me Do</i> 발매.</li> <li><b>1963</b> 영국 전역에 <b>비틀매니아</b> 확산. <i>Please Please Me</i> 등 히트.</li> <li><b>1964</b> <b>미국 진출</b>, 에드 설리반 쇼 출연, 세계적 신드롬.</li> <li><b>1964–1966</b> 강행군 투어링과 상품화(머천다이징) 붐.</li> <li><b>1966</b> 투어 중단 선언(과열·안전 문제·사운드 한계 등 복합).</li> <li><b>1967</b> <b>8월 27일</b> 엡스타인 사망(약물 과다 복용으로 인한 사고사로 알려짐). 이후 비틀즈는 경영적 공백 속에서 방향성 갈등을 겪고, 1970년 공식 해산.</li> </ul>'
     },
+    { type: 'image', src: '/images/post69_img2.jpg', alt: '마이다스 맨 제목 뜻과 의미', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이 연표는 영화가 다루는 <b>‘발견 → 이미지 구축 → 계약 → 세계화 → 공백’</b>의 흐름과 그대로 맞닿습니다.</p>'
@@ -68,6 +70,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>브랜딩·이미지 메이킹</b> — 가죽재킷과 무대 난장을 <b>맞춤 정장·통일된 무대 매너</b>로 정리. 무대에서의 언행·인사·세트리스트 운용을 체계화해 <b>대중·언론 친화적 브랜드</b>를 구축.</li> <li><b>계약·유통 창구</b> — 레이블(파롤로폰/EMI)과의 연결, 방송·투어·홍보 창구를 열어 <b>지역 밴드 → 전국구 → 글로벌</b>로 스케일업.</li> <li><b>프로모션 설계</b> — 라디오/TV 노출, 언론 인터뷰, 팬클럽 운영 등 <b>수요를 앞당기는 캠페인</b>을 주도.</li> </ul>'
     },
+    { type: 'image', src: '/images/post69_img3.jpg', alt: '마이다스 맨 제목 뜻과 의미', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>투어 매니지먼트</b> — 살인적 스케줄의 동선을 관리하고, 무대 조건·치안·현장 운영을 조율.</li> <li><b>머천다이징</b> — 대규모 굿즈 사업을 열었으나, 일부 계약(특히 미국 초기 라이선스)은 <b>수익 배분 측면에서 불리</b>했던 전례도 있음(그만큼 규모와 속도가 전례 없었다는 방증).</li> </ul>'
@@ -87,6 +90,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>캐번 클럽 장면</b> — ‘발견의 순간’은 비틀즈 신화의 출발점. 영화가 어떤 연출로 호기심 → 확신을 설득하는지 체크.</li> <li><b>이미지 변화</b> — 의상·헤어·무대 매너가 바뀌는 구간은 엡스타인의 <b>전략가 면모</b>를 보여주는 핵심.</li> <li><b>레이블·프로듀서 연결</b> — ‘거절(데카) → 수락(EMI/조지 마틴)’ 흐름을 어떻게 엮는지, 누가 무엇을 설득했는지에 주목.</li> </ul>'
     },
+    { type: 'image', src: '/images/post69_img4.jpg', alt: '마이다스 맨 제목 뜻과 의미', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>미국 시장 진입</b> — 에드 설리반 쇼 전후의 사전 준비·홍보의 디테일. (한 번의 TV 출연이 아니라 <b>정교한 캠페인</b>이었다는 점.)</li> <li><b>성공의 그늘</b> — 엡스타인의 정체성과 압박, 약물 의존, 그리고 <b>부재 이후의 공백</b>을 영화가 어디까지 그리는지.</li> </ul>'
@@ -101,6 +105,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>업적</b> (1) 무명 밴드를 세계적 브랜드로 스케일링, (2) 언론·방송·투어·팬덤을 <b>한 시스템</b>으로 엮음, (3) 위기 국면에서 밴드를 보호하는 <b>단일 의사결정 창구</b>를 제공.</li> </ul>'
     },
+    { type: 'image', src: '/images/post69_img5.jpg', alt: '마이다스 맨 제목 뜻과 의미', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>한계</b> — (1) 초기 머천다이징 계약 등 일부 비즈니스 설계의 미숙, (2) 초장기 과로·과열 노출이 초래한 <b>소진</b>, (3) 매니저 개인의 불안과 의존이 만든 <b>취약성</b>. 그의 갑작스러운 사망은 조직적 공백으로 직결되었습니다.</li> </ul>'
@@ -119,6 +124,10 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>제목</b> — 엡스타인의 ‘골든 터치’와 성공의 그늘(설화적 함의)까지 포괄.</li> <li><b>역사</b> — 1961~67년 사이, 발견→브랜딩→계약→세계화→부재라는 흐름은 <b>사실로 확인되는 큰 줄기</b>.</li> <li><b>영화</b> — 위 사실을 토대로 ‘사람 엡스타인’을 전면에 둔 <b>인물극</b>에 가깝다. 비틀즈 음악을 전면에 쓰지 못하더라도, <b>이미지·계약·캠페인</b>의 디테일로 설득력을 확보할 수 있다.</li> </ul>'
     },
+    { type: 'image', src: '/images/post69_img9.jpg', alt: '마이다스 맨 제목 뜻과 의미', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post69_img8.jpg', alt: '마이다스 맨 제목 뜻과 의미', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post69_img7.jpg', alt: '마이다스 맨 제목 뜻과 의미', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post69_img6.jpg', alt: '마이다스 맨 제목 뜻과 의미', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>엡스타인은 무명 밴드를 세계로 올린 <b>가속 장치</b>였고, 동시에 그가 사라졌을 때 시스템이 흔들렸다는 <b>현실의 역학</b> 또한 이 제목 안에 들어 있습니다. 이 양면을 함께 읽을 때, 영화의 의미는 가장 또렷해집니다.</p>'

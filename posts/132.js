@@ -27,8 +27,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>노스페라투 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>노스페라투 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post132_img1.jpg', alt: '영화 노스페라투', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;572&quot; data-origin-width=&quot;1730&quot;><span data-alt=&quot;노스페라투 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bBWDo5/btsLCtOGdmZ/AAAAAAAAAAAAAAAAAAAAAK8clref9WF37S072vSsstzR-qAkMmxvQ8oqU4bahTQf/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7uMn9CV%2BsTKPNjdDVxR6M2v6N4o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bBWDo5/btsLCtOGdmZ/AAAAAAAAAAAAAAAAAAAAAK8clref9WF37S072vSsstzR-qAkMmxvQ8oqU4bahTQf/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7uMn9CV%2BsTKPNjdDVxR6M2v6N4o%3D&quot;></span><figcaption>노스페라투 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
@@ -68,6 +69,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>노스페라투  관람평 평론가 결말후기 포토입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post132_img2.jpg', alt: '노스페라투 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Richard Propes - 평점 3.5/4.0 (Original Score: 3.5/4.0)</b></p>'
@@ -139,6 +141,13 @@ const post = {
       type: 'body',
       html: '<p><b>‘노스페라투’는 루마니아어에서 유래한 단어로, ‘흡혈귀’나 ‘괴물’을 의미합니다.</b></p>'
     },
+    { type: 'image', src: '/images/post132_img9.jpg', alt: '노스페라투 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post132_img8.jpg', alt: '노스페라투 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post132_img7.jpg', alt: '노스페라투 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post132_img6.jpg', alt: '노스페라투 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post132_img5.jpg', alt: '노스페라투 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post132_img4.jpg', alt: '노스페라투 관람평 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post132_img3.jpg', alt: '노스페라투 관람평 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>원래는 루마니아 민속에서 나온 용어로, 죽은 자가 살아 돌아와 사람의 피를 빨아먹는 괴물을 지칭합니다.</p>'

@@ -111,6 +111,19 @@ const post = {
       type: 'body',
       html: '<p>베테랑 2의 칸 시사회 후기반응과 베테랑2 정보는 아래 포스팅에서 확인가능합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post324_img12.jpg', alt: '베테랑 2 정해인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post324_img11.jpg', alt: '베테랑 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post324_img10.jpg', alt: '커넥트 정해인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post324_img9.jpg', alt: '베테랑 2 정해인 데뷔작 부터 대표작까지 필모 총정리 ( 잘생김주의 )', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post324_img8.jpg', alt: '슬기로운 감빵생활 정해인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post324_img7.jpg', alt: 'DP 정해인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post324_img6.jpg', alt: '봄밤 정해인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post324_img5.jpg', alt: '밥 잘 사주는 예쁜 누나 정해인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post324_img4.jpg', alt: '도깨비 정해인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post324_img3.jpg', alt: '응팔 정해인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post324_img2.jpg', alt: '백년의 신부 정해인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post324_img1.jpg', alt: '당신이 잠든 사이 정해인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

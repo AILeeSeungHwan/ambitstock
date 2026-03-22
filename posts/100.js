@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post100_img1.jpg', alt: '서바이브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>지구의 여섯 번째 대멸종!</span> </b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post100_img2.jpg', alt: '서바이브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>카리브해에서 요트 여행중인 한 가족. 유성이 바다에 떨어지고 폭풍이 몰아친다. 그 순간 지구의 자기장이 뒤집히고 바다와 육지가 뒤바뀐다. 심해의 괴생명체가 공격해오고 바다는 다시 되돌아올 예정인데… 종말의 카운트다운에서 생존하라!</p>'
@@ -74,6 +76,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;color: #781b33;&quot;>서바이브</span><span style=&quot;color: #781b33;&quot;><span style=&quot;caret-color: #781b33;&quot;> survive<br>생존하다</br></span></span></b></blockquote>'
     },
+    { type: 'image', src: '/images/post100_img3.jpg', alt: '서바이브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>영화 &quot;서바이브&quot;의 영어 제목 \'Survive\'는 \'생존하다\'를 의미합니다.</b></p>'
@@ -105,6 +108,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 영화 서바이브 해외 평론가 결말 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post100_img10.jpg', alt: '서바이브 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post100_img9.jpg', alt: '서바이브 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post100_img8.jpg', alt: '서바이브 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post100_img7.jpg', alt: '서바이브', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post100_img6.jpg', alt: '서바이브', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post100_img5.jpg', alt: '서바이브', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post100_img4.jpg', alt: '서바이브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Erik Childress - 평점 1.5/4</b><br/>영화는 터무니없는 알람 장면으로 시작한 후, 인류 몰락을 서바이벌 상황으로 빠르게 전개하며, 마침내 ‘스타쉽 트루퍼스’를 모방한 게처럼 변모한다. 어리석은 전개이다.</p>'

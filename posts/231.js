@@ -34,7 +34,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333; text-align: start;&quot;>영화 글래디에이터 2가<span> </span></span>2024년 10월 8일 런던에서 열린 왕실 영화 공연(Royal Film Performance)에서 세계 최초로 공개되었습니다. 영화계와 왕실의 특별한 행사로, 필름 &amp; TV 자선단체의 기금 마련을 목적으로 합니다. 11월 4일에는 도쿄 국제영화제에서 상영이 진행될 예정입니다.</p>'
+      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>영화 글래디에이터 2가<span> </span></span>2024년 10월 8일 런던에서 열린 왕실 영화 공연(Royal Film Performance)에서 세계 최초로 공개되었습니다. 영화계와 왕실의 특별한 행사로, 필름 &amp; TV 자선단체의 기금 마련을 목적으로 합니다. 11월 4일에는 도쿄 국제영화제에서 상영이 진행될 예정입니다.</p>'
     },
     {
       type: 'body',
@@ -68,6 +68,14 @@ const post = {
       type: 'body',
       html: '<p>곧 개봉하게 될 영화 글래디에이터 2, 개봉 후 로튼 토마토 평점과 더욱 자세한 평론가 후기 리뷰 알아보도록 하겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post231_img7.jpg', alt: '글래디에이터 Ⅱ', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post231_img6.jpg', alt: '글래디에이터 Ⅱ', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post231_img5.jpg', alt: '글래디에이터 Ⅱ', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post231_img4.jpg', alt: '글래디에이터 Ⅱ', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post231_img3.jpg', alt: '글래디에이터 Ⅱ', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post231_img2.jpg', alt: '글래디에이터 Ⅱ', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post231_img1.jpg', alt: '글래디에이터 Ⅱ', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

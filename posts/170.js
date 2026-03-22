@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post170_img1.jpg', alt: '나 혼자만 레벨업 리어웨이크닝 관람평 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-critic-masterpiece-rating-top-10/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1364&quot; data-origin-width=&quot;976&quot;><span data-alt=&quot;나 혼자만 레벨업 리어웨이크닝&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/chpzzQ/btsKYxMCOND/AAAAAAAAAAAAAAAAAAAAAAo1GXoIeCpYjHa2vM2NMqUQPOuQRQjPjmLPZi0C2UH7/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qcJVhFyPqrKTXAzCAKYkvUb57Ek%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/chpzzQ/btsKYxMCOND/AAAAAAAAAAAAAAAAAAAAAAo1GXoIeCpYjHa2vM2NMqUQPOuQRQjPjmLPZi0C2UH7/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qcJVhFyPqrKTXAzCAKYkvUb57Ek%3D&quot;></span><figcaption>나 혼자만 레벨업 리어웨이크닝</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post170_img2.jpg', alt: '나 혼자만 레벨업 - 리어웨이크닝 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section3',
@@ -56,8 +58,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>나 혼자만 레벨업 - 리어웨이크닝 해외 관객 평점 반응입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>나 혼자만 레벨업 - 리어웨이크닝 해외 관객 평점 반응입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post170_img3.jpg', alt: '나 혼자만 레벨업 리어웨이크닝 관람평 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;836&quot; data-origin-width=&quot;2010&quot;><span data-alt=&quot;나 혼자만 레벨업 - 리어웨이크닝 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cpdRkV/btsKYYijW0h/AAAAAAAAAAAAAAAAAAAAAPAXNhQRYyIaxnSkiJWJ9-4nEZhLt90lf17ek25HzE8e/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2metgri9MINpr2AQzVGGno6jVYk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cpdRkV/btsKYYijW0h/AAAAAAAAAAAAAAAAAAAAAPAXNhQRYyIaxnSkiJWJ9-4nEZhLt90lf17ek25HzE8e/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2metgri9MINpr2AQzVGGno6jVYk%3D&quot;></span><figcaption>나 혼자만 레벨업 - 리어웨이크닝 평점</figcaption> </figure> </p>'
@@ -85,6 +88,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>나 혼자만 레벨업 - 리어웨이크닝 리뷰 포토 관람평 해외 반응입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post170_img9.jpg', alt: '나 혼자만 레벨업 리어웨이크닝', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post170_img8.jpg', alt: '나 혼자만 레벨업 리어웨이크닝 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post170_img7.jpg', alt: '나 혼자만 레벨업 리어웨이크닝 리뷰 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post170_img6.jpg', alt: '나 혼자만 레벨업 리어웨이크닝 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post170_img5.jpg', alt: '나 혼자만 레벨업 리어웨이크닝 리뷰 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post170_img4.jpg', alt: '나 혼자만 레벨업 리어웨이크닝 리뷰 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1328&quot; data-origin-width=&quot;2464&quot;><span data-alt=&quot;나 혼자만 레벨업 리어웨이크닝 관람평 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/kSEku/btsKZxsMsfI/AAAAAAAAAAAAAAAAAAAAAK2IU_X71dJNsZJuFFmteT8SnI7bRVLFYzhv5iKBHjQA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=aOiVb3bC7%2BGcj8lmDL3g9yNBXlE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/kSEku/btsKZxsMsfI/AAAAAAAAAAAAAAAAAAAAAK2IU_X71dJNsZJuFFmteT8SnI7bRVLFYzhv5iKBHjQA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=aOiVb3bC7%2BGcj8lmDL3g9yNBXlE%3D&quot;></span><figcaption>나 혼자만 레벨업 리어웨이크닝 관람평 후기</figcaption> </figure> </p>'

@@ -8,7 +8,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>경성크리처 파트2가 1월 5일 금요일 공개되었습니다. 파트1에 이어서 파트2에 대한 해외 반응 살펴보겠습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>파트1까지에 대한 해외 평점 및 일본 반응은 아래 링크를 통하여 확인하실 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>경성크리처 파트2가 1월 5일 금요일 공개되었습니다. 파트1에 이어서 파트2에 대한 해외 반응 살펴보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>파트1까지에 대한 해외 평점 및 일본 반응은 아래 링크를 통하여 확인하실 수 있습니다.</p>'
     },
     {
       type: 'image',
@@ -28,29 +28,30 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;306&quot; data-origin-width=&quot;950&quot;><span data-alt=&quot;로튼 토마토 경성크리처 파트2까지의 합 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cqcPE2/btsC4dIrbFy/AAAAAAAAAAAAAAAAAAAAACp35jZlIVX___rGyUlLP2d4f_aBcpAZgrtXVyleJyQs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=b0i%2B8Xio4aGV3bhjq1rpdOJgUkA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cqcPE2/btsC4dIrbFy/AAAAAAAAAAAAAAAAAAAAACp35jZlIVX___rGyUlLP2d4f_aBcpAZgrtXVyleJyQs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=b0i%2B8Xio4aGV3bhjq1rpdOJgUkA%3D&quot;></span><figcaption>로튼 토마토 경성크리처 파트2까지의 합 평점</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post467_img1.jpg', alt: '로튼 토마토 경성크리처 파트2까지의 합 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>평론가 리뷰가 메인인 로튼 토마토의 경성크리처 평점입니다. 평론가 리뷰를 Fresh(긍정-신선한 토마토)와 Rotten(부정-썩은 토마토) 으로 분류하고 신선도가 60% 이상일 때 Fresh로 분류됩니다.</p>'
     },
     {
       type: 'body',
-      html: '<p>경성크리처 파트1만 공개당시 86%였던 Tomatometer 지수가 파트2 합산 88%로 올랐습니다. 하지만 관객 평점은 86% 에서 84%로 감소하며 평론가 평점과 관객평점이 갈리는 모습입니다. 파트1 공개당시와 평론가 리뷰가 달라진 점이 없기 때문에, 이번 파트2 리뷰는 관객 리뷰를 바탕으로 살펴보도록 하겠습니다. 평론가 리뷰가 궁금하신 분들은 이전 게시글에서 확인해보시길 바랍니다. 로튼 토마토에 파트2 공개 이후 <span style=&quot;color: #333333; text-align: start;&quot;>현재까지<span> </span></span>추가된 리뷰는 2개 입니다. </p>'
+      html: '<p>경성크리처 파트1만 공개당시 86%였던 Tomatometer 지수가 파트2 합산 88%로 올랐습니다. 하지만 관객 평점은 86% 에서 84%로 감소하며 평론가 평점과 관객평점이 갈리는 모습입니다. 파트1 공개당시와 평론가 리뷰가 달라진 점이 없기 때문에, 이번 파트2 리뷰는 관객 리뷰를 바탕으로 살펴보도록 하겠습니다. 평론가 리뷰가 궁금하신 분들은 이전 게시글에서 확인해보시길 바랍니다. 로튼 토마토에 파트2 공개 이후 <span style=&quot;color: inherit; text-align: start;&quot;>현재까지<span> </span></span>추가된 리뷰는 2개 입니다. </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><b><span style=&quot;color: #f3c000;&quot;>★ ★ ★ ★ ★</span></b><span style=&quot;letter-spacing: 0px;&quot;> 5/5 Jan 6, 2024</span></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b><span style=&quot;color: #f3c000;&quot;>★ ★ ★ ★ ★</span></b><span style=&quot;letter-spacing: 0px;&quot;> 5/5 Jan 6, 2024</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>몰입감!<span> </span></span><span style=&quot;color: #ef5369;&quot;><i>(Gripping, 사로잡는 눈을 떼지 못하게 하는)</i></span> 나는 주연 배우의 이전 작품을 별로 좋아하지 않지만, 이 시리즈에서는 그들의 연기를 좋아합니다.<span> </span>저는 파트1과 파트2를 연이어 몰아봤습니다.<span> </span>그 정도로 재밌었다는 뜻입니다.<span> </span>허점이 있고 더 잘 만들수 있는 부분이 있었지만, 전반적으로 마음에 듭니다.<span> </span>또 다른 시즌을 기대하며.</p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>몰입감!<span> </span></span><span style=&quot;color: #ef5369;&quot;><i>(Gripping, 사로잡는 눈을 떼지 못하게 하는)</i></span> 나는 주연 배우의 이전 작품을 별로 좋아하지 않지만, 이 시리즈에서는 그들의 연기를 좋아합니다.<span> </span>저는 파트1과 파트2를 연이어 몰아봤습니다.<span> </span>그 정도로 재밌었다는 뜻입니다.<span> </span>허점이 있고 더 잘 만들수 있는 부분이 있었지만, 전반적으로 마음에 듭니다.<span> </span>또 다른 시즌을 기대하며.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><b><span style=&quot;color: #f3c000;&quot;>★ ★ ★ ★ ★</span></b><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><span> </span>5/5 Jan 6, 2024</span></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b><span style=&quot;color: #f3c000;&quot;>★ ★ ★ ★ ★</span></b><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><span> </span>5/5 Jan 6, 2024</span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><span>경성크리처를 꼭 보셔야합니다. </span>미스터리, 공포, 역사, 코미디, 로맨스가 모두 담겨 있습니다.<span> </span>저는 일제의 한국 점령 기간 동안 우리 역사책에서는 알려주지 않는 역사적 측면을 배우는 것을 좋아합니다.<span> </span>정말 좋은 작품이였기 때문에 시즌 2를 만들길 바랍니다!</p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><span>경성크리처를 꼭 보셔야합니다. </span>미스터리, 공포, 역사, 코미디, 로맨스가 모두 담겨 있습니다.<span> </span>저는 일제의 한국 점령 기간 동안 우리 역사책에서는 알려주지 않는 역사적 측면을 배우는 것을 좋아합니다.<span> </span>정말 좋은 작품이였기 때문에 시즌 2를 만들길 바랍니다!</p>'
     },
     {
       type: 'h2',
@@ -62,6 +63,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;514&quot; data-origin-width=&quot;1264&quot;><span data-alt=&quot;IMDB 경성크리처 시즌1 파트2까지의 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/X4jle/btsC7ubnUKs/AAAAAAAAAAAAAAAAAAAAAJK0womxvTSbpLVnSiXL4VWB5VOHsCBlPRTt3vQPenYM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JgPFmQZHrt6GLoqnRyQA7lIYtvU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/X4jle/btsC7ubnUKs/AAAAAAAAAAAAAAAAAAAAAJK0womxvTSbpLVnSiXL4VWB5VOHsCBlPRTt3vQPenYM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JgPFmQZHrt6GLoqnRyQA7lIYtvU%3D&quot;></span><figcaption>IMDB 경성크리처 시즌1 파트2까지의 평점</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post467_img2.jpg', alt: 'IMDB 경성크리처 시즌1 파트2까지의 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;color: #1a5490;&quot;><b>평점 7.4/10</b></span></p>'
@@ -92,7 +94,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #ffffff; color: #000000;&quot;><span style=&quot;text-align: center;&quot;>아래 자료를 통해 드라마 </span><span style=&quot;text-align: center;&quot;>&lt;경성 크리처&gt;</span><span style=&quot;text-align: center;&quot;> 평점분포를 확인하실 수 있습니다. &lt;데이터 표본 4,700명이상&gt;</span></span></p>'
+      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent; color: inherit;&quot;><span style=&quot;text-align: center;&quot;>아래 자료를 통해 드라마 </span><span style=&quot;text-align: center;&quot;>&lt;경성 크리처&gt;</span><span style=&quot;text-align: center;&quot;> 평점분포를 확인하실 수 있습니다. &lt;데이터 표본 4,700명이상&gt;</span></span></p>'
     },
     {
       type: 'body',
@@ -108,6 +110,9 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;489&quot; data-origin-width=&quot;1140&quot;><span data-alt=&quot;Filmarks 경성크리처 파트2까지의 일본평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/712ni/btsC518CQkA/AAAAAAAAAAAAAAAAAAAAADUIlmoqECRBSXmCifQ6urroZ-DBCM1jBKKMG1GvSqFZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mxipEvBXeOAW9uEz5M%2FD544uYZA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/712ni/btsC518CQkA/AAAAAAAAAAAAAAAAAAAAADUIlmoqECRBSXmCifQ6urroZ-DBCM1jBKKMG1GvSqFZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mxipEvBXeOAW9uEz5M%2FD544uYZA%3D&quot;></span><figcaption>Filmarks 경성크리처 파트2까지의 일본평점</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post467_img5.jpg', alt: '경성크리처 한소희 배우님', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post467_img4.jpg', alt: 'Filmarks 경성크리처 파트2까지의 일본평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post467_img3.jpg', alt: '경성크리처 시즌1 파트2 평점분포', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>일본의 대표적인 영화 드라마 리뷰사이트 Filmarks입니다. 경성크리처 시즌1 - 파트2 공개 이후의 일본시청자 반응입니다. </p>'
@@ -118,11 +123,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> ☆</span><span> 3.8</span>/5.0</span></b></p>'
+      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> <b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> <b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> ☆</span><span> 3.8</span>/5.0</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #333333; text-align: start;&quot;><b>飛んでくの感想・評価 2024/01/06 14:29 </b></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b>飛んでくの感想・評価 2024/01/06 14:29 </b></p>'
     },
     {
       type: 'body',
@@ -134,11 +139,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;color: #f3c000;&quot;>★<span> </span><b><span style=&quot;color: #f3c000;&quot;>★</span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;>★</span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;>★</span></b><span> </span>☆<span> </span><span style=&quot;color: #000000;&quot;>3.9/5.0</span></span></b></p>'
+      html: '<p><b><span style=&quot;color: #f3c000;&quot;>★<span> </span><b><span style=&quot;color: #f3c000;&quot;>★</span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;>★</span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;>★</span></b><span> </span>☆<span> </span><span style=&quot;color: inherit;&quot;>3.9/5.0</span></span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #333333; text-align: start;&quot;><b>飛んでくの感想・評価<span> </span><span style=&quot;color: #f3c000;&quot;><span style=&quot;color: #000000;&quot;>2024/01/06 14:29</span></span></b></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b>飛んでくの感想・評価<span> </span><span style=&quot;color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;>2024/01/06 14:29</span></span></b></p>'
     },
     {
       type: 'body',
@@ -162,11 +167,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b> </span></span></b> </span><span> </span>4.5/5.0</span></b></p>'
+      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> <b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★</span></span></b> <b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b> </span></span></b> </span><span> </span>4.5/5.0</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #333333; text-align: start;&quot;><b>MAAAAAの感想・評価 2024/01/06 14:03 </b></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b>MAAAAAの感想・評価 2024/01/06 14:03 </b></p>'
     },
     {
       type: 'body',
@@ -178,11 +183,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> </span>☆</span><span> </span><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;>평점없음</span></b></p>'
+      html: '<p><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> <b><span style=&quot;color: #f3c000;&quot;>☆</span></b> </span>☆</span><span> </span><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;>평점없음</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #333333; text-align: start;&quot;><b>A虎の感想・評価 2024/01/06 13:02 </b></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b>A虎の感想・評価 2024/01/06 13:02 </b></p>'
     },
     {
       type: 'body',
@@ -190,11 +195,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><span style=&quot;color: #f3c000;&quot;>★<span> </span><span style=&quot;color: #f3c000;&quot;>★</span><span> <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b> <b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b> </span></span>☆</span><span> 2</span>.0/5.0</span></b></p>'
+      html: '<p><b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><span style=&quot;color: #f3c000;&quot;>★<span> </span><span style=&quot;color: #f3c000;&quot;>★</span><span> <b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b> <b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b> </span></span>☆</span><span> 2</span>.0/5.0</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #333333; text-align: start;&quot;><b>アナスタシアの感想・評価 2024/01/06 10:17 </b></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b>アナスタシアの感想・評価 2024/01/06 10:17 </b></p>'
     },
     {
       type: 'body',

@@ -54,7 +54,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>훌륭한 배우들, 훌륭한 액션이다. 정말 훌륭한 시리즈이다. 박서준과 백현성의 뛰어난 연기에 감탄한다.<span> </span><span style=&quot;background-color: #9feec3;&quot;><b>시즌 3가 나올지 아는 사람이 있는가?</b></span><span> </span>시즌 2는 7편만 있는지 궁금하다. 이 시리즈는 매 회 서스펜스를 유지하며 다음에 무슨 일이 일어날지 생각하게 만든다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>훌륭한 배우들, 훌륭한 액션이다. 정말 훌륭한 시리즈이다. 박서준과 백현성의 뛰어난 연기에 감탄한다.<span> </span><span style=&quot;background-color: #9feec3;&quot;><b>시즌 3가 나올지 아는 사람이 있는가?</b></span><span> </span>시즌 2는 7편만 있는지 궁금하다. 이 시리즈는 매 회 서스펜스를 유지하며 다음에 무슨 일이 일어날지 생각하게 만든다.</p>'
     },
     {
       type: 'body',
@@ -62,11 +62,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>시즌 1은 8점을 주었고 정말 좋았다. 캐스트는 훌륭했지만 \'한소희\'는 잘못된 선택이라고 생각한다. 스토리에 집중하면 그녀가 문제가 되진 않지만, 시즌 2에 너무 실망했다. 시즌 2는 3점만 주었고, 정말 재앙이었다. 이야기를 망쳤고, 그녀가 주연이라니 믿을 수 없다. 처음 4편은 달리고 싸우는 것밖에 없어 너무 지루했다. 이야기가 어벤저스처럼 변했다. 청춘 로맨스가 넘쳐나서 지루했다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>시즌 1은 8점을 주었고 정말 좋았다. 캐스트는 훌륭했지만 \'한소희\'는 잘못된 선택이라고 생각한다. 스토리에 집중하면 그녀가 문제가 되진 않지만, 시즌 2에 너무 실망했다. 시즌 2는 3점만 주었고, 정말 재앙이었다. 이야기를 망쳤고, 그녀가 주연이라니 믿을 수 없다. 처음 4편은 달리고 싸우는 것밖에 없어 너무 지루했다. 이야기가 어벤저스처럼 변했다. 청춘 로맨스가 넘쳐나서 지루했다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>꼭 봐야 할 드라마라고 말할 수 있다. 캐스팅, 촬영, 스토리 모든 것이 훌륭하다. 두 번째 시즌도 첫 번째 시즌만큼 훌륭했지만 첫 번째가 더 나았던 것 같다. 한소희는 자신의 능력을 보여주었고, 박서준은 항상 기대를 저버리지 않았다. 이 쇼는 액션, 감정적 깊이, 호러를 마스터풀하게 조화롭게 잘 연결한다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>꼭 봐야 할 드라마라고 말할 수 있다. 캐스팅, 촬영, 스토리 모든 것이 훌륭하다. 두 번째 시즌도 첫 번째 시즌만큼 훌륭했지만 첫 번째가 더 나았던 것 같다. 한소희는 자신의 능력을 보여주었고, 박서준은 항상 기대를 저버리지 않았다. 이 쇼는 액션, 감정적 깊이, 호러를 마스터풀하게 조화롭게 잘 연결한다.</p>'
     },
     {
       type: 'body',
@@ -112,6 +112,18 @@ const post = {
       type: 'body',
       html: '<p>전체적으로 긍정적인 평가가 많은, 잘 뽑힌 작품이라 생각됩니다. 시즌 1을 재밌게 시청하신 분이라면 꼭 시즌 2도 시청해보시길 바랍니다. 이러한 좋은 평가 반응을 바탕으로 시즌 3가 이어졌으면 좋겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post270_img11.jpg', alt: '경성크리처 시즌 2 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post270_img10.jpg', alt: '경성크리처 시즌 2 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post270_img9.jpg', alt: '경성크리처 시즌 2 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post270_img8.jpg', alt: '경성크리처 시즌 2 한소희', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post270_img7.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post270_img6.jpg', alt: '경성크리처 시즌 2 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post270_img5.jpg', alt: '경성크리처 시즌 2 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post270_img4.jpg', alt: '경성크리처 시즌 2 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post270_img3.jpg', alt: '경성크리처 시즌 2 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post270_img2.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post270_img1.jpg', alt: '경성크리처 시즌 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

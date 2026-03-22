@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>박찬욱 감독의 신작 <b>어쩔 수가 없다</b>는 사실 1997년 발표된 소설 <b>The Ax</b>(도널드 E. 웨스트레이크 作)를 원작으로 하고 있다. 원작은 자본주의 사회에서 일자리를 잃은 한 남자가 살아남기 위해 어떤 극단적인 선택을 하는지를 적나라하게 보여준다.</p>'
     },
+    { type: 'image', src: '/images/post81_img1.jpg', alt: '어쩔수가없다 원작 소설 The Ax', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이 소설은 미국에서 출간 당시 큰 화제를 모았고, 현대 사회의 경쟁과 불안을 블랙코미디 같은 문체로 풀어내 “잔혹한데 묘하게 웃음이 나는” 작품이라는 평가도 받았다. 이번 영화는 그 이야기를 한국적 현실에 맞게 각색해, 우리에게 더욱 가까운 이야기로 다가온다.</p>'
@@ -41,6 +42,7 @@ const post = {
       type: 'body',
       html: '<p>주인공 버크 드보어는 제지 공장에서 근무하다가 구조조정으로 해고당한다. 오랫동안 성실하게 일했지만 기업은 그를 버렸고, 그는 18개월 동안 재취업을 시도하지만 번번이 실패한다. 은행 잔고는 줄어들고 가족과의 관계도 무너져간다. 자존심은 바닥에 떨어지고, 이제는 집을 잃을 위기까지 몰린다.</p>'
     },
+    { type: 'image', src: '/images/post81_img2.jpg', alt: '어쩔수가없다 원작 소설 The Ax', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>그러던 어느 날 버크는 충격적인 계획을 세운다. “경쟁자가 없다면 내가 일자리를 얻을 수 있지 않을까?” 그는 자신과 같은 직종에서 일자리를 노리는 잠재적 경쟁자들을 명단으로 정리하고, 하나씩 제거해 나가기로 마음먹는다. 처음에는 단순한 상상처럼 시작되지만, 곧 실제 행동으로 이어진다.</p>'
@@ -67,6 +69,7 @@ const post = {
       type: 'body',
       html: '<p>버크는 결국 모든 경쟁자를 제거하고, 자신이 원하는 일자리를 얻는 데 성공한다. 그러나 그 끝에서 남은 것은 승리의 기쁨이 아니라, 돌이킬 수 없는 자기 파괴였다. 그는 일자리를 얻었지만, 동시에 인간으로서의 양심과 도덕을 잃어버렸다. 소설은 버크가 일상으로 돌아가는 듯 보이지만, 독자는 그가 이미 더 이상 예전의 버크가 아님을 깨닫게 된다.</p>'
     },
+    { type: 'image', src: '/images/post81_img3.jpg', alt: '어쩔수가없다 박찬욱 감독', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>결말은 “과연 생존을 위해 어디까지 갈 수 있는가”라는 질문을 던지며, 자본주의 경쟁 사회의 잔혹한 민낯을 드러낸다.</p>'
@@ -82,6 +85,7 @@ const post = {
       type: 'body',
       html: '<p>박찬욱 감독은 여러 인터뷰에서 이 소설을 오래 전부터 영화화하고 싶었다고 말했다. 그는 한국 사회 역시 구조조정, 해고, 생존 경쟁이라는 문제에서 자유롭지 않기 때문에, 이 작품이 충분히 보편적인 공감을 얻을 수 있다고 본다.</p>'
     },
+    { type: 'image', src: '/images/post81_img4.jpg', alt: '어쩔수가없다 개봉 평론가 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>감독은 “The Ax의 이야기 자체가 이미 강렬했지만, 한국의 현실로 가져올 때 더 날카로운 공감을 줄 수 있다”고 전했다. 또한 단순히 범죄 스릴러가 아니라, 주인공의 절박함과 심리적 무너짐을 보여주는 데 초점을 맞추고 있다고 강조했다.</p>'
@@ -112,11 +116,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Serena Seghedoni (Loud and Clear Reviews)</b><br>“이병헌은 최고의 연기를 선보이며, 인류애의 상실을 경고하는 블랙 코미디 스릴러를 완성한다.” (평점: 4/5 | 2025-08-31)</br></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Serena Seghedoni (Loud and Clear Reviews)</b><br>“이병헌은 최고의 연기를 선보이며, 인류애의 상실을 경고하는 블랙 코미디 스릴러를 완성한다.” (평점: 4/5 | 2025-08-31)</br></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>James Mottram (Radio Times)</b><br>“박찬욱 영화 중 가장 넓고 덜 미묘하지만 여전히 활기찬 여정을 선사한다.” (평점: 3/5 | 2025-08-30)</br></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>James Mottram (Radio Times)</b><br>“박찬욱 영화 중 가장 넓고 덜 미묘하지만 여전히 활기찬 여정을 선사한다.” (평점: 3/5 | 2025-08-30)</br></p>'
     },
     {
       type: 'body',
@@ -124,11 +128,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Nicholas Barber (BBC.com, TOP CRITIC)</b><br/>“박찬욱의 가장 유머러스하면서도 가장 인간적인 영화. 폭력적이면서도 따뜻하다.” (평점: 5/5 | 2025-08-30)</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Nicholas Barber (BBC.com, TOP CRITIC)</b><br/>“박찬욱의 가장 유머러스하면서도 가장 인간적인 영화. 폭력적이면서도 따뜻하다.” (평점: 5/5 | 2025-08-30)</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Jordan Ruimy (World of Reel)</b><br/>“풍자극이자 폭력 스릴러, 가족 멜로드라마이자 희극. 영화는 스스로의 논리에 충실하다.” (평점: B | 2025-08-30)</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Jordan Ruimy (World of Reel)</b><br/>“풍자극이자 폭력 스릴러, 가족 멜로드라마이자 희극. 영화는 스스로의 논리에 충실하다.” (평점: B | 2025-08-30)</p>'
     },
     {
       type: 'body',

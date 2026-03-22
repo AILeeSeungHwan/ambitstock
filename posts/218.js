@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>제목을 처음 보았을 때는</p>'
     },
+    { type: 'image', src: '/images/post218_img1.jpg', alt: '섀도우의 13', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>13명의 암살자들이 활동하는 그런 액션 영화를 상상하였지만,</p>'
@@ -57,6 +58,8 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영어 제목 The Shadow Strays를 단어별로 해석하면 다음과 같습니다: </b></span></p>'
     },
+    { type: 'image', src: '/images/post218_img3.jpg', alt: '섀도우의 13 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post218_img2.jpg', alt: '섀도우의 13 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>Shadow<br/></span>그림자</b></span></blockquote>'

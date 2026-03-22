@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; line-height: 1.8;&quot;>넷플릭스 <b>브리저튼 시즌4</b>가 공개된 지 6일이 지났다. 시즌2 파트2까지 나온 시점에서 가장 많이 검색되는 키워드는 역시 <b>‘결말’과 ‘시즌5’</b>다. 이번 시즌은 감정선이 한층 더 복잡해졌고, 마지막 장면은 다음 이야기를 암시하듯 여지를 남겼다. 그래서인지 공개 직후보다 지금 검색량이 더 붙는 분위기다.</p><p style=&quot;color: #333333; line-height: 1.8;&quot;>브리저튼 특유의 화려한 무도회와 로맨스는 그대로지만, 시즌4는 관계의 균열과 선택의 문제에 더 집중했다. 단순한 연애 서사라기보다는, 각 인물이 어떤 방향을 택하는지가 중심에 놓인다.</p>'
+      html: '<p style=&quot;color: inherit; line-height: 1.8;&quot;>넷플릭스 <b>브리저튼 시즌4</b>가 공개된 지 6일이 지났다. 시즌2 파트2까지 나온 시점에서 가장 많이 검색되는 키워드는 역시 <b>‘결말’과 ‘시즌5’</b>다. 이번 시즌은 감정선이 한층 더 복잡해졌고, 마지막 장면은 다음 이야기를 암시하듯 여지를 남겼다. 그래서인지 공개 직후보다 지금 검색량이 더 붙는 분위기다.</p><p style=&quot;color: inherit; line-height: 1.8;&quot;>브리저튼 특유의 화려한 무도회와 로맨스는 그대로지만, 시즌4는 관계의 균열과 선택의 문제에 더 집중했다. 단순한 연애 서사라기보다는, 각 인물이 어떤 방향을 택하는지가 중심에 놓인다.</p>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<table border=&quot;1&quot; data-ke-align=&quot;alignLeft&quot; style=&quot;width: 100%; border-collapse: collapse; margin: 15px 0;&quot;> <tbody> <tr> <th>항목</th> <th>내용</th> </tr> <tr> <td>공개일</td> <td>2026년 (파트1, 파트2 분할 공개)</td> </tr> <tr> <td>플랫폼</td> <td>넷플릭스</td> </tr> <tr> <td>장르</td> <td>로맨스, 시대극</td> </tr> <tr> <td>주요 인물</td> <td>베네딕트 브리저튼, 브리저튼 가문, 레이디 휘슬다운</td> </tr> <tr> <td>구성</td> <td>파트1 + 파트2</td> </tr> </tbody> </table>'
     },
+    { type: 'image', src: '/images/post51_img1.jpg', alt: '브리저튼 시즌4', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section2',
@@ -31,12 +32,13 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; line-height: 1.8;&quot;>이번 시즌은 베네딕트 브리저튼을 중심으로 전개된다. 자유로운 성향을 지닌 그는 사랑 앞에서 예상보다 더 복잡한 선택을 하게 된다. 무도회에서의 만남, 사회적 위치, 그리고 가족이라는 울타리 안에서의 압박이 겹치며 이야기는 점점 긴장감을 더한다.</p>'
+      html: '<p style=&quot;color: inherit; line-height: 1.8;&quot;>이번 시즌은 베네딕트 브리저튼을 중심으로 전개된다. 자유로운 성향을 지닌 그는 사랑 앞에서 예상보다 더 복잡한 선택을 하게 된다. 무도회에서의 만남, 사회적 위치, 그리고 가족이라는 울타리 안에서의 압박이 겹치며 이야기는 점점 긴장감을 더한다.</p>'
     },
+    { type: 'image', src: '/images/post51_img2.jpg', alt: '브리저튼 시즌4', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post51_poster.jpg', alt: '포스트 51 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; line-height: 1.8;&quot;>한편 브리저튼 가문 주변 인물들의 서브플롯도 동시에 진행된다. 이전 시즌에서 이어진 관계의 변화가 자연스럽게 연결되며, 단순히 한 커플의 이야기로 끝나지 않는다. 그래서 이번 시즌은 감정선이 분산돼 있다는 느낌도 있다.</p>'
+      html: '<p style=&quot;color: inherit; line-height: 1.8;&quot;>한편 브리저튼 가문 주변 인물들의 서브플롯도 동시에 진행된다. 이전 시즌에서 이어진 관계의 변화가 자연스럽게 연결되며, 단순히 한 커플의 이야기로 끝나지 않는다. 그래서 이번 시즌은 감정선이 분산돼 있다는 느낌도 있다.</p>'
     },
     {
       type: 'h2',
@@ -48,6 +50,7 @@ const post = {
       type: 'body',
       html: '<h3>1. 선택의 의미</h3>'
     },
+    { type: 'image', src: '/images/post51_img3.jpg', alt: '브리저튼 시즌4', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li>베네딕트의 마지막 선택은 단순한 로맨스 완성이 아니다.</li> <li>가문의 기대와 개인의 욕망 사이에서 균형을 찾는 과정에 가깝다.</li> <li>이 장면은 이후 시즌으로 이어질 갈등의 씨앗처럼 보인다.</li> </ul>'
@@ -77,15 +80,16 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; line-height: 1.8;&quot;>브리저튼은 원작 소설이 여러 권으로 구성되어 있다. 아직 다뤄지지 않은 형제들의 이야기가 남아 있는 만큼, 시즌5 제작 가능성은 충분해 보인다. 특히 이번 시즌에서 미묘하게 비중을 늘린 인물이 있다면, 그가 다음 중심 인물이 될 가능성이 높다.</p>'
+      html: '<p style=&quot;color: inherit; line-height: 1.8;&quot;>브리저튼은 원작 소설이 여러 권으로 구성되어 있다. 아직 다뤄지지 않은 형제들의 이야기가 남아 있는 만큼, 시즌5 제작 가능성은 충분해 보인다. 특히 이번 시즌에서 미묘하게 비중을 늘린 인물이 있다면, 그가 다음 중심 인물이 될 가능성이 높다.</p>'
     },
+    { type: 'image', src: '/images/post51_img4.jpg', alt: '브리저튼 시즌5', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li>넷플릭스 내 글로벌 시청 순위 안정적</li> <li>파트 분할 공개 전략 유지</li> <li>스핀오프 성공 경험 존재</li> </ul>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; line-height: 1.8;&quot;>다만 시즌4에 대한 반응이 엇갈린 만큼, 제작진이 서사 밀도를 다시 조정할 가능성도 있다. 시즌2처럼 감정 중심으로 회귀할지, 확장형 세계관으로 갈지는 아직 미지수다.</p>'
+      html: '<p style=&quot;color: inherit; line-height: 1.8;&quot;>다만 시즌4에 대한 반응이 엇갈린 만큼, 제작진이 서사 밀도를 다시 조정할 가능성도 있다. 시즌2처럼 감정 중심으로 회귀할지, 확장형 세계관으로 갈지는 아직 미지수다.</p>'
     },
     {
       type: 'h2',
@@ -127,7 +131,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; line-height: 1.8;&quot;>브리저튼 시즌4는 화려함은 유지하면서도 다음 시즌을 향한 포석을 남긴 이야기다. 결말이 완전히 닫히지 않았기에, 시즌5에 대한 기대는 당분간 계속 이어질 듯하다.</p>'
+      html: '<p style=&quot;color: inherit; line-height: 1.8;&quot;>브리저튼 시즌4는 화려함은 유지하면서도 다음 시즌을 향한 포석을 남긴 이야기다. 결말이 완전히 닫히지 않았기에, 시즌5에 대한 기대는 당분간 계속 이어질 듯하다.</p>'
     },
     {
       type: 'h2',

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post202_img1.jpg', alt: '헤이트풀 8', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>헤이트풀 8</b><br/></span><b>The Hateful Eight</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post202_img2.jpg', alt: '헤이트풀 8 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>헤이트풀 8</b> (&quot;The Hateful Eight&quot;), 이 제목은 8명의 주된 등장인물들이 매우 증오스러운 성격을 가진 사람들임을 의미하며, 영화의 내용과 맞물려 있습니다.</p>'
@@ -76,8 +78,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 <b>헤이트풀 8 </b>로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 <b>헤이트풀 8 </b>로튼토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post202_img3.jpg', alt: '헤이트풀 8 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 74%, 관람객 평점 77%의 영화 헤이트풀 8 평점입니다.</b></span></p>'
@@ -93,6 +96,15 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>헤이트풀 8 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post202_img12.jpg', alt: '헤이트풀 8', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post202_img11.jpg', alt: '헤이트풀 8', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post202_img10.jpg', alt: '헤이트풀 8', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post202_img9.jpg', alt: '헤이트풀 8', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post202_img8.jpg', alt: '헤이트풀 8', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post202_img7.jpg', alt: '헤이트풀 8', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post202_img6.jpg', alt: '헤이트풀 8', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post202_img5.jpg', alt: '헤이트풀 8', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post202_img4.jpg', alt: '헤이트풀 8 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Don Shanahan - 평점 없음</span></i><br/>타란티노의 최신 영화는 언제 멈춰야 할지 모른다. 그저 계속해서 이어지다가 결국 죽음을 맞이한다. 문자 그대로, 그리고 비유적으로.</p>'

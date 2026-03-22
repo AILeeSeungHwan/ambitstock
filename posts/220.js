@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>섀도우의 13 평론가 관람평 결말후기반응 알아보도록 하겠습니다.</b></span></p><p>영화에 대한 로튼 토마토 평점과 IMDB 시청자 평점은 이전 포스팅을 통해 확인하실 수 있습니다.</p><p>올해의 액션 영화로 평가받을 정도로 좋은 반응을 이끌고 있는 영화.<br>섀도우의 13, <span style=&quot;color: #333333; text-align: start;&quot;>볼지 말지 고민중인 분 <span style=&quot;color: #333333; text-align: start;&quot;>이 포스팅을 통해<span> 확실하게 결정하실 수 있도록 전해드리겠습니다.</span></span></span></br></p><div><center><a href=&quot;https://ambitstock.com/&quot; title=&quot;보러가기&quot;><button class=&quot;primary&quot;>섀도우의 13 평점 바로가기</button></a></center></div>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>섀도우의 13 평론가 관람평 결말후기반응 알아보도록 하겠습니다.</b></span></p><p>영화에 대한 로튼 토마토 평점과 IMDB 시청자 평점은 이전 포스팅을 통해 확인하실 수 있습니다.</p><p>올해의 액션 영화로 평가받을 정도로 좋은 반응을 이끌고 있는 영화.<br>섀도우의 13, <span style=&quot;color: inherit; text-align: start;&quot;>볼지 말지 고민중인 분 <span style=&quot;color: inherit; text-align: start;&quot;>이 포스팅을 통해<span> 확실하게 결정하실 수 있도록 전해드리겠습니다.</span></span></span></br></p><div><center><a href=&quot;https://ambitstock.com/&quot; title=&quot;보러가기&quot;><button class=&quot;primary&quot;>섀도우의 13 평점 바로가기</button></a></center></div>'
     },
     {
       type: 'image',
@@ -23,6 +23,16 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>섀도우의 13 평론가 관람평 결말 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post220_img10.jpg', alt: '섀도우의 13', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post220_img9.jpg', alt: '섀도우의 13 결말 후기 해외 평론가 반응 넷플릭스 액션 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post220_img8.jpg', alt: '섀도우의 13', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post220_img7.jpg', alt: '섀도우의 13 결말 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post220_img6.jpg', alt: '섀도우의 13 결말 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post220_img5.jpg', alt: '섀도우의 13 결말 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post220_img4.jpg', alt: '섀도우의 13 결말 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post220_img3.jpg', alt: '섀도우의 13 결말 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post220_img2.jpg', alt: '섀도우의 13', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post220_img1.jpg', alt: '섀도우의 13', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>해외 평론가 후기인만큼 섀도우의 13 영어제목인 The Shadow Strays ( 더 섀도우 스트레이즈 ) 로 제목을 표기하였습니다.</p>'

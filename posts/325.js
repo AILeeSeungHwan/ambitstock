@@ -106,6 +106,14 @@ const post = {
       type: 'body',
       html: '<p><b>Hope Madden</b> - Rotten score: 2/4<br/><i>M3GAN</i>에서 훔친 것 같은데, 그 영화의 매력을 이해하지 못했다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post325_img7.jpg', alt: '이매지너리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post325_img6.jpg', alt: '이매지너리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post325_img5.jpg', alt: '이매지너리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post325_img4.jpg', alt: '이매지너리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post325_img3.jpg', alt: '이매지너리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post325_img2.jpg', alt: '이매지너리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post325_img1.jpg', alt: '이매지너리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><br/>이상으로 이매지너리 평론가 후기 포스팅 마칩니다.</p>'

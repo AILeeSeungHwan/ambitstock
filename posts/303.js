@@ -47,7 +47,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>그는 자신의 기억을 신뢰할 수 없기 때문에 단서들을 몸에 문신으로 새기거나 폴라로이드 사진에 기록한다. <span style=&quot;color: #333333; text-align: start;&quot;>그의 기억이 사라지고 매 순간 스스로에게 질문을 던져야만 하는 상황에서, 그는 기록된 문신과 사진으로 단서를 남기며 과거를 재구성하려 한다.</span></span></p>'
+      html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>그는 자신의 기억을 신뢰할 수 없기 때문에 단서들을 몸에 문신으로 새기거나 폴라로이드 사진에 기록한다. <span style=&quot;color: inherit; text-align: start;&quot;>그의 기억이 사라지고 매 순간 스스로에게 질문을 던져야만 하는 상황에서, 그는 기록된 문신과 사진으로 단서를 남기며 과거를 재구성하려 한다.</span></span></p>'
     },
     {
       type: 'body',
@@ -81,6 +81,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>하지만 그것이 마냥 나쁜 방식은 아닐것이다. 괴로운 일도 시간이 흐르면 잊혀지고 추억이 되는 것 처럼, 나의 방식대로 나의 과거를 재구성하는 것도 나의 오늘과 나의 미래를 만들어갈 수 있는 원동력이 되기 때문이다.</span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post303_img6.jpg', alt: '메멘토 결말 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post303_img5.jpg', alt: '진실은 어떻게 기억되는가', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post303_img4.jpg', alt: '메멘토 폴라로이드 사진', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post303_img3.jpg', alt: '흔들리는 기억속에서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post303_img2.jpg', alt: '메멘토 기억을 위한 문신', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post303_img1.jpg', alt: '영화 메멘토 의미와 주제', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>메멘토는 그저 한 남자의 복수극이 아닌, 우리의 기억이 얼마나 불완전한지를 되돌아보게 만드는 작품이다. 영화를 통해 우리는 자신을 더 깊이 들여다보고, 과거를 대하는 우리의 자세를 성찰할 수 있게 된다.</span></p>'

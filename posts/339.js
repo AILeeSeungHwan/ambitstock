@@ -60,11 +60,11 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>IMDb: 7.3/10</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>IMDb: 7.3/10</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>Rotten Tomatoes: 평론가 69%, 관객 76%</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>Rotten Tomatoes: 평론가 69%, 관객 76%</b></span></p>'
     },
     {
       type: 'body',
@@ -72,11 +72,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>시간의 흐름을 역행할 수 있는 능력을 지닌 주인공이 인류의 멸망을 막기 위해 시간을 거스르는 임무를 수행하는 과정을 그립니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>시간의 흐름을 역행할 수 있는 능력을 지닌 주인공이 인류의 멸망을 막기 위해 시간을 거스르는 임무를 수행하는 과정을 그립니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화를 보신 분들은 알겠지만 한 번의 시청만으로는 절대 이해하기 힘든 복잡한 시간 개념과 놀란 특유의 액션 시퀀스가 결합된 영화입니다. </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화를 보신 분들은 알겠지만 한 번의 시청만으로는 절대 이해하기 힘든 복잡한 시간 개념과 놀란 특유의 액션 시퀀스가 결합된 영화입니다. </p>'
     },
     {
       type: 'body',
@@ -132,11 +132,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b><span style=&quot;color: #333333; text-align: start;&quot;>IMDb: 7.5/10</span></b></span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>IMDb: 7.5/10</span></b></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b><span style=&quot;color: #333333; text-align: start;&quot;>Rotten Tomatoes: 평론가 81%, 관객 85%</span></b></span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>Rotten Tomatoes: 평론가 81%, 관객 85%</span></b></span></p>'
     },
     {
       type: 'body',
@@ -160,11 +160,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;color: #333333; text-align: start; background-color: #f3c000;&quot;>IMDb: 8.2/10</span></b></p>'
+      html: '<p><b><span style=&quot;color: inherit; text-align: start; background-color: #f3c000;&quot;>IMDb: 8.2/10</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;color: #333333; text-align: start; background-color: #f3c000;&quot;>Rotten Tomatoes: 평론가 84%, 관객 94%</span></b></p>'
+      html: '<p><b><span style=&quot;color: inherit; text-align: start; background-color: #f3c000;&quot;>Rotten Tomatoes: 평론가 84%, 관객 94%</span></b></p>'
     },
     {
       type: 'body',
@@ -330,6 +330,19 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post339_img12.jpg', alt: '다크 나이트 / The Dark Knight (2008)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post339_img11.jpg', alt: '메멘토 / Memento (2000)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post339_img10.jpg', alt: '오펜하이머 / Oppenheimer (2023)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post339_img9.jpg', alt: '덩케르크 / Dunkirk (2017)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post339_img8.jpg', alt: '인썸니아 / Insomnia (2002)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post339_img7.jpg', alt: '인셉션 / Inception (2010)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post339_img6.jpg', alt: '다크 나이트 라이즈 / The Dark Knight Rises (2012)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post339_img5.jpg', alt: '배트맨 비긴즈 / Batman Begins (2005)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post339_img4.jpg', alt: '미행 / Following (1998)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post339_img3.jpg', alt: '프레스티지 / The Prestige (2006)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post339_img2.jpg', alt: '인터스텔라 / Interstellar (2014)', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post339_img1.jpg', alt: '테넷 / Tenet (2020)', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

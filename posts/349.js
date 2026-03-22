@@ -113,6 +113,11 @@ const post = {
       type: 'body',
       html: '<p><b>이것으로 CGV 할인 통신사 멤버십 혜택 총정리 포스팅 마칩니다.</b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post349_img4.jpg', alt: 'CGV-할인-LG-U+-멤버십-혜택', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post349_img3.jpg', alt: 'CGV-할인-KT-멤버십-혜택', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post349_img2.jpg', alt: 'CGV-할인-SKT-멤버십-혜택', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post349_img1.jpg', alt: 'CGV-할인-통신사-혜택-총정리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>CGV 할인 총정리 다음 시리즈는 카드혜택입니다.</b></p>'

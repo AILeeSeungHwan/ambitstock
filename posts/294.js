@@ -31,15 +31,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 21%, 관람객 평점 57%입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 21%, 관람객 평점 57%입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가 평점의 이미지는 썩은 토마토, 그리고 관람객 평점 이미지는 쓰러진 팝콘의 이미지로 최악의 영화라는 평가가 지배적입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평론가 평점의 이미지는 썩은 토마토, 그리고 관람객 평점 이미지는 쓰러진 팝콘의 이미지로 최악의 영화라는 평가가 지배적입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 제목 그대로 어글리한 평점을 기록중인 영화 어글리(uglies) 입니다. 후속작이 나올 가능성이 상당히 높은데, 이러한 반응으로는 다음 작품이 공개 된다해도 좋지 못한 결과를 낼 가능성이 높아보입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 제목 그대로 어글리한 평점을 기록중인 영화 어글리(uglies) 입니다. 후속작이 나올 가능성이 상당히 높은데, 이러한 반응으로는 다음 작품이 공개 된다해도 좋지 못한 결과를 낼 가능성이 높아보입니다.</p>'
     },
     {
       type: 'body',
@@ -47,7 +47,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 32%, 관람객 평점 52%의 딜리버런스입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 32%, 관람객 평점 52%의 딜리버런스입니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -59,23 +59,23 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 38%, 관람객 평점 23%의 더 유니온( The union )</b></span>입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 38%, 관람객 평점 23%의 더 유니온( The union )</b></span>입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>단언컨데 평론가 평점 40점 아래 작품도 볼만할 때가 있지만, 관람객 평점 23점은 엄청난 혹평입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>단언컨데 평론가 평점 40점 아래 작품도 볼만할 때가 있지만, 관람객 평점 23점은 엄청난 혹평입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>7위는 노 웨이 업입니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>7위는 노 웨이 업입니다.</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 36%, 관람객 평점은 등록되지 않았습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 36%, 관람객 평점은 등록되지 않았습니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>넷플릭스 영화는 아니지만 9월 넷플릭스 순위에 오래 머무르고 있는 작품으로, 순위에 추가하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>넷플릭스 영화는 아니지만 9월 넷플릭스 순위에 오래 머무르고 있는 작품으로, 순위에 추가하였습니다.</p>'
     },
     {
       type: 'body',
@@ -83,11 +83,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>6위는 영화 크로스 입니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>6위는 영화 크로스 입니다.</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>10점 만점에 6.1점으로 상당히 저조한 성적을 기록</b></span>하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>10점 만점에 6.1점으로 상당히 저조한 성적을 기록</b></span>하고 있습니다.</p>'
     },
     {
       type: 'body',
@@ -95,23 +95,23 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>5위는 테넷입니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>5위는 테넷입니다.</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 69%, 관람객 평점 76%의 테넷입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 69%, 관람객 평점 76%의 테넷입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>테넷 또한 넷플릭스 영화는 아니지만 넷플릭스에 공개된 이후로 순위권을 유지하고 있기에, 순위에 포함시켰습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>테넷 또한 넷플릭스 영화는 아니지만 넷플릭스에 공개된 이후로 순위권을 유지하고 있기에, 순위에 포함시켰습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>크리스토퍼 놀란 영화들이 한국에서 굉장한 인기를 끌고 있고, 네이버 평점에서는 8.7점이 넘는 호평작임에 반하여 해외 평론가들은 상당한 악평을 하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>크리스토퍼 놀란 영화들이 한국에서 굉장한 인기를 끌고 있고, 네이버 평점에서는 8.7점이 넘는 호평작임에 반하여 해외 평론가들은 상당한 악평을 하였습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>크리스토퍼 놀란 모든 영화의 순위는 아래 포스팅에서 확인가능합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>크리스토퍼 놀란 모든 영화의 순위는 아래 포스팅에서 확인가능합니다.</p>'
     },
     {
       type: 'body',
@@ -123,15 +123,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>공개 전부터 김우빈 김성균 출연작으로 기대감을 높혔던 작품으로, 나름 선방한 평점을 기록하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>공개 전부터 김우빈 김성균 출연작으로 기대감을 높혔던 작품으로, 나름 선방한 평점을 기록하고 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>반면 한국에서는 현재 평점 9점이상의 좋은 점수를 기록하며 인기를 이어가고 있습니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>반면 한국에서는 현재 평점 9점이상의 좋은 점수를 기록하며 인기를 이어가고 있습니다.</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>무도 실무관 뜻과 해외 반응 후기는 아래 포스팅에서 확인가능합니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>무도 실무관 뜻과 해외 반응 후기는 아래 포스팅에서 확인가능합니다.</b></p>'
     },
     {
       type: 'body',
@@ -139,7 +139,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 88%, 관람객 평점 79%의 터미네이터 제로입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 88%, 관람객 평점 79%의 터미네이터 제로입니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -151,7 +151,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>2위는 영화 파묘입니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>2위는 영화 파묘입니다.</b></p>'
     },
     {
       type: 'body',
@@ -159,15 +159,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;> <br/>영화 파묘 ( 영어제목 : exhuma ) 의<span> </span><span style=&quot;background-color: #f3c000;&quot;><b>로튼 토마토 평론가 평점은 92%, 관객 평점은 88%</b></span><span> </span>입니다. <br/><br/></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;> <br/>영화 파묘 ( 영어제목 : exhuma ) 의<span> </span><span style=&quot;background-color: #f3c000;&quot;><b>로튼 토마토 평론가 평점은 92%, 관객 평점은 88%</b></span><span> </span>입니다. <br/><br/></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>파묘 또한 넷플릭스 영화는 아니지만, 7월 넷플릭스 공개 후 현재까지 순위권을 이어가고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>파묘 또한 넷플릭스 영화는 아니지만, 7월 넷플릭스 공개 후 현재까지 순위권을 이어가고 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>안타깝게도 상위권 순위에 기록할 넷플릭스 영화가 없는 것도, 파묘를 순위에 포함한 이유 중 하나입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>안타깝게도 상위권 순위에 기록할 넷플릭스 영화가 없는 것도, 파묘를 순위에 포함한 이유 중 하나입니다.</p>'
     },
     {
       type: 'body',
@@ -179,20 +179,32 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>최근에 나온 넷플릭스 영화 평점이 처참한 것에 비해 굉장히 높은 점수를 기록 중인 레브리지입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>최근에 나온 넷플릭스 영화 평점이 처참한 것에 비해 굉장히 높은 점수를 기록 중인 레브리지입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>특히나 평론가 평점 95%는 명작반열에 있음을 의미하며, 신선도 보증마크까지 획득하며 좋은 평가를 기록하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>특히나 평론가 평점 95%는 명작반열에 있음을 의미하며, 신선도 보증마크까지 획득하며 좋은 평가를 기록하였습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>레블리지의 뜻과 평점 해외 평론가 후기반응은 아래 포스팅에서 확인가능합니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>레블리지의 뜻과 평점 해외 평론가 후기반응은 아래 포스팅에서 확인가능합니다.</p>'
     },
     {
       type: 'body',
       html: '<p>이상으로 넷플릭스 영화 추천 컨텐츠 마무리합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post294_img11.jpg', alt: '넷플릭스 영화 레블리지', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post294_img10.jpg', alt: '영화 파묘', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post294_img9.jpg', alt: '넷플릭스 영화 터미네이터 제로', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post294_img8.jpg', alt: '넷플릭스 무도 실무관 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post294_img7.jpg', alt: '영화 테넷 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post294_img6.jpg', alt: '넷플릭스 영화 크로스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post294_img5.jpg', alt: '영화 노 웨이 업 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post294_img4.jpg', alt: '넷플릭스 영화 더 유니온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post294_img3.jpg', alt: '넷플릭스 영화 딜리버런스', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post294_img2.jpg', alt: '넷플릭스 영화 어글리 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post294_img1.jpg', alt: '넷플릭스 인기 순위 추천 TOP 10', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>2024년 12월 26일 공개된 오징어게임 시즌2 로튼 토마토 평론가 결말 후기 해외 반응입니다.</p>'
     },
+    { type: 'image', src: '/images/post125_img1.jpg', alt: '오징어 게임 시즌2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>오랜 시간 기다린 만큼 전작의 명성을 이어가는 작품이 완성되었을지 평론가 평점과 반응 살펴보도록 하겠습니다.</p>'
@@ -35,8 +36,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>오징어 게임 시즌2 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>오징어 게임 시즌2 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
     },
+    { type: 'image', src: '/images/post125_img2.jpg', alt: '오징어게임 시즌2 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 85%, 관객 평점 65%입니다.</b></span></p>'
@@ -67,6 +69,14 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>오징어게임 시즌2 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post125_img10.jpg', alt: '오징어 게임 시즌2 결말후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post125_img9.jpg', alt: '오징어 게임 시즌2 결말후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post125_img8.jpg', alt: '오징어 게임 시즌2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post125_img7.jpg', alt: '오징어 게임 시즌2 결말후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post125_img6.jpg', alt: '오징어 게임 시즌2 결말후기 관람평 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post125_img5.jpg', alt: '오징어 게임 시즌2 결말후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post125_img4.jpg', alt: '오징어 게임 시즌2 결말후기 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post125_img3.jpg', alt: '오징어 게임 시즌2 결말후기 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1520&quot; data-origin-width=&quot;1900&quot;><span data-alt=&quot;오징어 게임 시즌2 관람평 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/FxLFo/btsLAUMpWPW/AAAAAAAAAAAAAAAAAAAAACBgfkj-I--Ud2srtABkEcQf_QyqCulyKP4qASC7Y_V6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FAtgk9Ipx8C3M8qec5jUAL%2B2b%2Bw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/FxLFo/btsLAUMpWPW/AAAAAAAAAAAAAAAAAAAAACBgfkj-I--Ud2srtABkEcQf_QyqCulyKP4qASC7Y_V6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FAtgk9Ipx8C3M8qec5jUAL%2B2b%2Bw%3D&quot;></span><figcaption>오징어 게임 시즌2 관람평 후기</figcaption> </figure> </p>'

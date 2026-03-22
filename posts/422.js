@@ -13,7 +13,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; background-color: #ffffff;&quot;>2024년 6월 대한민국 지상파 방송 시청률 순위 TOP 10 입니다. </span></p><p><span style=&quot;font-family: \'Noto Serif KR\'; background-color: #ffffff;&quot;>드라마와 예능, 뉴스까지 종합 시청률 순위 확인해보도록 하겠습니다.</span></p><p><span style=&quot;&quot;><span style=&quot;background-color: #ffffff;&quot;>신규 업데이트 많은 분들의 요청에 의해 2024년 모든 방송사 뉴스 시청률 순위를 정리하였습니다.</span></span><span style=&quot;&quot;><span style=&quot;background-color: #ffffff;&quot;>이와 함께 각 방송사 뉴스별 정치 성향도 함께 확인하실 수 있습니다.</span></span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; background-color: transparent;&quot;>2024년 6월 대한민국 지상파 방송 시청률 순위 TOP 10 입니다. </span></p><p><span style=&quot;font-family: \'Noto Serif KR\'; background-color: transparent;&quot;>드라마와 예능, 뉴스까지 종합 시청률 순위 확인해보도록 하겠습니다.</span></p><p><span style=&quot;&quot;><span style=&quot;background-color: transparent;&quot;>신규 업데이트 많은 분들의 요청에 의해 2024년 모든 방송사 뉴스 시청률 순위를 정리하였습니다.</span></span><span style=&quot;&quot;><span style=&quot;background-color: transparent;&quot;>이와 함께 각 방송사 뉴스별 정치 성향도 함께 확인하실 수 있습니다.</span></span></p>'
     },
     {
       type: 'image',
@@ -73,7 +73,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>KBS2의 \'스캔들\'은 6.7%의 시청률로 6위에 올랐습니다. <span style=&quot;font-family: \'Noto Serif KR\'; color: #333333; text-align: start;&quot;>드라마 스캔들의 기본 정보 및 등장인물관계도는 아래 포스팅을 통해 확인가능합니다.</span> </span></p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>KBS2의 \'스캔들\'은 6.7%의 시청률로 6위에 올랐습니다. <span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;>드라마 스캔들의 기본 정보 및 등장인물관계도는 아래 포스팅을 통해 확인가능합니다.</span> </span></p>'
     },
     {
       type: 'body',
@@ -103,6 +103,18 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>SBS (5.5%)</span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post422_img11.jpg', alt: '궁금한 이야기 Y', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post422_img10.jpg', alt: '드라마 우리, 집', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post422_img9.jpg', alt: 'KBS 뉴스광장 2부', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post422_img8.jpg', alt: '아침마당', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post422_img7.jpg', alt: '드라마 스캔들', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post422_img6.jpg', alt: '예능 나 혼자 산다', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post422_img5.jpg', alt: 'KBS 뉴스 9', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post422_img4.jpg', alt: '다큐 미니시리즈 인간극장', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post422_img3.jpg', alt: '드라마 커넥션', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post422_img2.jpg', alt: '드라마 수지맞은우리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post422_img1.jpg', alt: '대한민국 지상파 시청률 TOP10', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>SBS의 \'궁금한 이야기 Y\'도 5.5%의 시청률로 공동 9위를 차지했습니다. 다양한 사회적 이슈와 미스터리한 사건들을 탐사하고 분석하는 이 프로그램은 시청자들의 궁금증을 해소해주고 있습니다.</span></p>'

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post104_img1.jpg', alt: '도그데이즈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p><b>깔끔하고 계획적인 성격의 싱글남 ‘민상’(유해진)</b>은 영혼을 쏟아 넣어 산 건물을 <b>세입자 ‘진영’(김서형) 때문에 고생</b>하고 있다. 매일 같이 티격태격하며 스트레스를 받는 민상은 오늘도 동물병원에서 성격이 강한 할머니를 만나게 되는데, 그 할머니는 <b>세계적인 건축가 ‘민서’(윤여정)</b>였다.</p>'
     },
+    { type: 'image', src: '/images/post104_img2.jpg', alt: '도그데이즈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>진행 중인 프로젝트를 위해 민상은 민서의 도움을 절실히 필요로 하고, <br>그녀에게 잘 보이기 위해 ‘진영’과 그녀의 반려견인 ‘차장님’을 공략하기 시작한다.</br></p>'
@@ -78,6 +80,7 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;></span><span style=&quot;color: #781b33;&quot;>도그 데이즈</span><br/><span style=&quot;color: #781b33;&quot;>Dog Days</span></b></blockquote>'
     },
+    { type: 'image', src: '/images/post104_img3.jpg', alt: '도그데이즈 영화 줄거리 제목 뜻 해석 해외 평점 <Dog Days 넷플릭스 ON>', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>\'도그데이즈\'는 반려견을 통해 다양한 인물들의 삶이 교차하고 변화하는 이야기를 담고 있습니다.</p>'
@@ -157,6 +160,11 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 영화 도그데이즈 </b></span><span style=&quot;background-color: #9feec3;&quot;><b>해외 시청자 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post104_img8.jpg', alt: '도그데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post104_img7.jpg', alt: '도그데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post104_img6.jpg', alt: '도그데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post104_img5.jpg', alt: '도그데이즈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post104_img4.jpg', alt: '도그데이즈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>다시 보고 싶을 정도로 너무 귀여운 영화</h3>'
@@ -187,11 +195,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>누구나 공감할 수 있는 이야기</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>누구나 공감할 수 있는 이야기</p>'
     },
     {
       type: 'ending',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>곳곳에 숨어있는 유머도 좋았고, 감동적인 장면들도 많았다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>곳곳에 숨어있는 유머도 좋았고, 감동적인 장면들도 많았다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

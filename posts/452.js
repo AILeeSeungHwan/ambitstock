@@ -105,6 +105,17 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;401&quot; data-origin-width=&quot;600&quot;><span data-alt=&quot;넷플릭스 드라마 살인자ㅇ난감 배우들 ( 왼쪽부터 최우식 손석구 이희준 배우님 )&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/d6nM5L/btsDJhQecxZ/AAAAAAAAAAAAAAAAAAAAAPtNOSgak3iQpWcROGCLb-MSIZPceK7Wt5x0Qov-9qRC/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ioQuG3RlzeERsWeswa5goljNiHs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/d6nM5L/btsDJhQecxZ/AAAAAAAAAAAAAAAAAAAAAPtNOSgak3iQpWcROGCLb-MSIZPceK7Wt5x0Qov-9qRC/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ioQuG3RlzeERsWeswa5goljNiHs%3D&quot;></span><figcaption>넷플릭스 드라마 살인자ㅇ난감 배우들 ( 왼쪽부터 최우식 손석구 이희준 배우님 )</figcaption> </figure> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post452_img10.jpg', alt: '넷플릭스 드라마 살인자ㅇ난감 배우들 ( 왼쪽부터 최우식 손석구 이희준 배우님 )', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post452_img9.jpg', alt: '[넷플릭스 웹툰 원작 드라마 살인장난감? 살인자ㅇ난감? 해외 반응 평점 제목읽는법] 등장인물 최우식 손석구 개봉일 예고편 공개 예정작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post452_img8.jpg', alt: '넷플릭스 드라마 살인자 ㅇ 난감 최우식', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post452_img7.jpg', alt: '넷플릭스 살인자 ㅇ 난감 손석구', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post452_img6.jpg', alt: '넷플릭스 살인자 ㅇ 난감 손석구', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post452_img5.jpg', alt: '넷플릭스 드라마 살인자 ㅇ 난감 최우식', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post452_img4.jpg', alt: '봉준호 감독 미키17 정보 및 오스카상 수상작 기생충 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post452_img3.jpg', alt: '조커 2: 폴리 아 되 개봉일 및 전작 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post452_img2.jpg', alt: '최고 기대작 영화 &amp;lt;파묘&amp;gt; 개봉일 및 티저 해외 반응 알아보기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post452_img1.jpg', alt: '넷플릭스 드라마 살인자 ㅇ 난감 포스터', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p> <br/>이상 살인자ㅇ난감 개봉일, 해외 반응부터 예고편, 제목 읽는 법까지 총정리 마치겠습니다.<br/>감사합니다.</p>'

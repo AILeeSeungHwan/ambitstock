@@ -83,7 +83,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #781b33;&quot;><b>또한 영어제목 TENET 은 앞뒤로 읽어도 똑같이 테넷으로 읽히는 글자입니다.</b></span><span style=&quot;font-family: \'Noto Serif KR\'; color: #333333; text-align: start;&quot;><span> </span>시간의 흐름은 앞으로가나 뒤로가나 반드시 중간에서 만나는 흐름을 지닌 영화의 전개처럼, <span style=&quot;background-color: #f3c000;&quot;><b>지금까지 다룬 복잡하고도 철학적인 주제들과 결정론들을 하나의 단어에 모두 포함시킨 완벽한 단어라고 생각합니다.</b></span></span></p>'
+      html: '<p><span style=&quot;color: #781b33;&quot;><b>또한 영어제목 TENET 은 앞뒤로 읽어도 똑같이 테넷으로 읽히는 글자입니다.</b></span><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;><span> </span>시간의 흐름은 앞으로가나 뒤로가나 반드시 중간에서 만나는 흐름을 지닌 영화의 전개처럼, <span style=&quot;background-color: #f3c000;&quot;><b>지금까지 다룬 복잡하고도 철학적인 주제들과 결정론들을 하나의 단어에 모두 포함시킨 완벽한 단어라고 생각합니다.</b></span></span></p>'
     },
     {
       type: 'body',
@@ -97,6 +97,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>감사합니다. </span></p>'
     },
+    ,
+    { type: 'image', src: '/images/post246_img5.jpg', alt: '영화 테넷 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post246_img4.jpg', alt: '영화 테넷 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post246_img3.jpg', alt: '영화 테넷 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post246_img2.jpg', alt: '영화 테넷 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post246_img1.jpg', alt: '영화 테넷 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

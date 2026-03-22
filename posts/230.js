@@ -88,6 +88,17 @@ const post = {
       type: 'body',
       html: '<p>전체적으로 시사회 평도 좋으니, 극한직업의 느낌을 기대하시는 분들은 영화관에서 꼭 예매하여 관람해 보시길 바랍니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post230_img10.jpg', alt: '아마존 활명수 원주민', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post230_img9.jpg', alt: '아마존 활명수 엄혜란', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post230_img8.jpg', alt: '아마존 활명수 고경표', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post230_img7.jpg', alt: '아마존 활명수 진선규', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post230_img6.jpg', alt: '아마존 활명수 류승룡', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post230_img5.jpg', alt: '아마존 활명수', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post230_img4.jpg', alt: '아마존 활명수', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post230_img3.jpg', alt: '아마존 활명수', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post230_img2.jpg', alt: '아마존 활명수', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post230_img1.jpg', alt: '영화 아마존 활명수', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

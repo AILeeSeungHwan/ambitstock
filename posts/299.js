@@ -116,6 +116,12 @@ const post = {
       type: 'body',
       html: '<p>다음 시리즈에서는 나우 유 씨미 2에 대한 평점과 후기 알아보겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post299_img5.jpg', alt: '나우 유 씨미 해외 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post299_img4.jpg', alt: '나우 유 씨미 영화 해외 평론가 로튼 토마토 후기 총정리', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post299_img3.jpg', alt: '나우 유 씨미 해외 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post299_img2.jpg', alt: '나우 유 씨미 해외 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post299_img1.jpg', alt: '나우 유 씨미 해외 평론가 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

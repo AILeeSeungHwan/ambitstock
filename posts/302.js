@@ -125,6 +125,13 @@ const post = {
       type: 'body',
       html: '<p><b><span style=&quot;background-color: #f3c000;&quot;><i>Clarence Tsui - 4/5</i></span></b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post302_img6.jpg', alt: '베테랑 2 로튼 토마토 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post302_img5.jpg', alt: '베테랑 2 로튼 토마토 평론가 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post302_img4.jpg', alt: '현재상영작 순위 1위 베테랑 2 예매할까? 영어 제목 뜻과 해외 평점 로튼 토마토 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post302_img3.jpg', alt: '베테랑 2 네이버 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post302_img2.jpg', alt: '베테랑 2 해외 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post302_img1.jpg', alt: '베테랑 2 해외 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>첫 번째 영화보다 거의 모든 면에서 더 큰 규모를 보여주며, <i>I, The Executioner</i>는 대중주의의 위험성을 경고하고, 폭력을 고발하며, 관객들을 손에 땀을 쥐게 하는 롤러코스터 같은 경험으로 이끕니다.</p>'

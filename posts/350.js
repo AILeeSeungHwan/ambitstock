@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>최근 일본 오사카 여행으로 남자 혼자 가는 이들이 많죠.</b></span></p><p>특히 <span style=&quot;color: #333333; text-align: start;&quot;>애니메이션의 성지인 일본인 만큼, 애니메이션과 관련된 컨텐츠들과 즐길거리가 넘치는 곳입니다.</span></p><p>그리고 일본 애니메이션의 대표라 한다면 역시 지브리 애니메이션 영화 일 것입니다.</p>'
+      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>최근 일본 오사카 여행으로 남자 혼자 가는 이들이 많죠.</b></span></p><p>특히 <span style=&quot;color: inherit; text-align: start;&quot;>애니메이션의 성지인 일본인 만큼, 애니메이션과 관련된 컨텐츠들과 즐길거리가 넘치는 곳입니다.</span></p><p>그리고 일본 애니메이션의 대표라 한다면 역시 지브리 애니메이션 영화 일 것입니다.</p>'
     },
     {
       type: 'image',
@@ -39,11 +39,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>1부에서 10개의 작품, 2부에서 15개의 작품을 전해드리겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>1부에서 10개의 작품, 2부에서 15개의 작품을 전해드리겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>시작하겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>시작하겠습니다.</p>'
     },
     {
       type: 'body',
@@ -257,6 +257,18 @@ const post = {
       type: 'body',
       html: '<p><b>감독</b>: 미야자키 하야오</p>'
     },
+    ,
+    { type: 'image', src: '/images/post350_img11.jpg', alt: '지브리 역대 애니메이션 영화 순서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post350_img10.jpg', alt: '지브리 역대 애니메이션 영화 순서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post350_img9.jpg', alt: '지브리 역대 애니메이션 영화 순서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post350_img8.jpg', alt: '지브리 역대 애니메이션 영화 순서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post350_img7.jpg', alt: '지브리 역대 애니메이션 영화 순서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post350_img6.jpg', alt: '지브리 역대 애니메이션 영화 순서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post350_img5.jpg', alt: '지브리 역대 애니메이션 영화 순서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post350_img4.jpg', alt: '지브리 역대 애니메이션 영화 순서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post350_img3.jpg', alt: '지브리 역대 애니메이션 영화 순서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post350_img2.jpg', alt: '지브리 역대 애니메이션 영화 순서', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post350_img1.jpg', alt: '지브리 역대 애니메이션 영화 순서', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>2부에서 이어집니다.</p>'

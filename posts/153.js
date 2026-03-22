@@ -27,8 +27,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>캐리온 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>캐리온 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post153_img1.jpg', alt: '캐리온', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 86%, 관객 평점은 60%입니다.</b></span></p>'
@@ -52,6 +53,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>캐리온(Carry On) 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post153_img2.jpg', alt: '캐리온 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2시간 동안 즐길 수 있는 <br>좋은 시간 때우기 영화다.</br></span></blockquote>'
@@ -123,6 +125,7 @@ const post = {
       type: 'body',
       html: '<p>넷플릭스 영화 캐리온 (Carry-On)은 공항 보안요원 이선 코펙(Ethan Kopek, 타론 에저튼 분)이 예상치 못한 위협과 맞서 싸우는 액션 스릴러입니다. 영화는 크리스마스 날, 이선이 정체불명의 인물(제이슨 베이트먼 분)에게 협박당하며 시작됩니다.</p>'
     },
+    { type: 'image', src: '/images/post153_img3.jpg', alt: '캐리온', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>그는 공항 보안 절차를 무시하고 특정 수하물을 통과시키라는 요구를 받으며, 이를 수락하지 않을 경우 자신과 가까운 사람들에게 치명적인 결과가 있을 것임을 경고받습니다.</p>'
@@ -137,6 +140,16 @@ const post = {
       type: 'body',
       html: '<p>제목 캐리온 ( 영어 제목 : Carry-On) 은 두 가지 의미로 해석될 수 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post153_img13.jpg', alt: '캐리온 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post153_img12.jpg', alt: '캐리온 뜻', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post153_img11.jpg', alt: '캐리온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post153_img10.jpg', alt: '캐리온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post153_img9.jpg', alt: '캐리온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post153_img8.jpg', alt: '캐리온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post153_img7.jpg', alt: '캐리온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post153_img6.jpg', alt: '캐리온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post153_img5.jpg', alt: '캐리온', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post153_img4.jpg', alt: '캐리온', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h4 style=&quot;text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;기내 반입 수하물&quot;</span></b></h4>'
@@ -151,15 +164,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #333333; text-align: center;&quot;>&quot;계속하다, 이어가다&quot;</span></b></h4>'
+      html: '<h4 style=&quot;text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: center;&quot;>&quot;계속하다, 이어가다&quot;</span></b></h4>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>둘째, &quot;계속하다, 이어가다&quot;라는 동사적 표현으로서,<span> </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>둘째, &quot;계속하다, 이어가다&quot;라는 동사적 표현으로서,<span> </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>이선이 위협과 상황에 맞서 끝까지 자신의 임무를 수행하려는 결단력과 연관 지어 볼 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이선이 위협과 상황에 맞서 끝까지 자신의 임무를 수행하려는 결단력과 연관 지어 볼 수 있습니다.</p>'
     },
     {
       type: 'body',

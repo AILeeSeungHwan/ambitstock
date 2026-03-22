@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>영국 국민으로 거듭난 ‘패딩턴’에게 어느 날 고향인 페루에서 날아온 의문의 편지 한 통.</p>'
     },
+    { type: 'image', src: '/images/post91_img1.jpg', alt: '페딩턴! 페루에 가다', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>“루시 숙모님이 사라졌어요!”</span> </b></span></blockquote>'
@@ -49,6 +50,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post91_img2.jpg', alt: '패딩턴 : 페루에 가다!', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-release-upcoming-guide/',
@@ -74,6 +76,7 @@ const post = {
       type: 'body',
       html: '<h3>&quot;Paddington in Peru&quot;의 직관적 의미</h3>'
     },
+    { type: 'image', src: '/images/post91_img3.jpg', alt: '패딩턴 : 페루에 가다!', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>&quot;패딩턴 : 페루에 가다&quot;</b>는 단순한 장소적 의미를 전달합니다. 하지만 영화의 핵심을 고려하면 단순한 여행이 아니라 특별한 모험과 성장의 여정을 의미하는 제목입니다.</p>'
@@ -133,6 +136,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이어서 패딩턴: 페루에 가다! 해외 평론가 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post91_img4.jpg', alt: '패딩턴 : 페루에 가다!', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>내용에 스포는 크게 없기에 바로 이어서 확인해 보시길 바랍니다.</p>'
@@ -155,65 +159,66 @@ const post = {
       type: 'body',
       html: '<p><b>Chase Hutchinson - 평점 B-</b><br/>패딩턴 자체는 언제나 즐거움을 주는 캐릭터이며, 위쇼의 훌륭한 목소리 연기가 돋보였다. 하지만 새 감독인 두걸 윌슨은 폴 킹이 남긴 큰 발자취를 완벽히 채우지는 못하였다.</p>'
     },
+    { type: 'image', src: '/images/post91_img5.jpg', alt: '패딩턴 : 페루에 가다!', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Mattie Lucas - 평점 3/4</b><br/>팬들은 이 사랑스러운 곰과 그의 가족과 함께하는 두 시간을 분명히 즐길 것이다. 다만 이번 모험은 이전 작품들이 보여준 높은 완성도에는 미치지 못하였다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Mattie Lucas - 평점 3/4</b><br/>팬들은 이 사랑스러운 곰과 그의 가족과 함께하는 두 시간을 분명히 즐길 것이다. 다만 이번 모험은 이전 작품들이 보여준 높은 완성도에는 미치지 못하였다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Ben Wasserman - 평점 8/10</b><br/>패딩턴: 페루에 가다!는 일반적인 가족 영화보다 한 단계 위에 있는 작품이다. 액션, 유머, 재치, 따뜻한 매력이 조화를 이루며, 아이들뿐만 아니라 부모들까지도 만족시킬 것이다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Ben Wasserman - 평점 8/10</b><br/>패딩턴: 페루에 가다!는 일반적인 가족 영화보다 한 단계 위에 있는 작품이다. 액션, 유머, 재치, 따뜻한 매력이 조화를 이루며, 아이들뿐만 아니라 부모들까지도 만족시킬 것이다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Alci Rengifo - 평점 없음</b><br/>패딩턴: 페루에 가다!는 유쾌하고 사랑스러운 작품이며, 이야기의 절정에서는 가족의 진정한 의미에 대한 멋진 우화를 만들어낸다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Alci Rengifo - 평점 없음</b><br/>패딩턴: 페루에 가다!는 유쾌하고 사랑스러운 작품이며, 이야기의 절정에서는 가족의 진정한 의미에 대한 멋진 우화를 만들어낸다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Abbie Bernstein - 평점 B</b><br/>매우 친근하고 유쾌한 가족 어드벤처 영화이다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Abbie Bernstein - 평점 B</b><br/>매우 친근하고 유쾌한 가족 어드벤처 영화이다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Ruth Maramis - 평점 3.5/5</b><br/>이전 작품만큼 완벽하지는 않지만, 여전히 매우 즐길 만한 가족 영화이다. 가장 매력적인 영화 속 곰이 다소 거대한 정글 모험 속에서 길을 잃은 듯하지만, 여전히 많은 매력을 선사한다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Ruth Maramis - 평점 3.5/5</b><br/>이전 작품만큼 완벽하지는 않지만, 여전히 매우 즐길 만한 가족 영화이다. 가장 매력적인 영화 속 곰이 다소 거대한 정글 모험 속에서 길을 잃은 듯하지만, 여전히 많은 매력을 선사한다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Kristy Puchko - 평점 없음</b><br/>패딩턴: 페루에 가다!는 만족스러운 속편으로, 팬들이 기대하는 웃음, 액션, 기발함, 그리고 희망을 충족시킨다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Kristy Puchko - 평점 없음</b><br/>패딩턴: 페루에 가다!는 만족스러운 속편으로, 팬들이 기대하는 웃음, 액션, 기발함, 그리고 희망을 충족시킨다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Austin Burke - 평점 7/10</b><br/>패딩턴은 순수하고 사랑스러운 캐릭터이며, 그와 함께하는 시간은 언제나 특별하다. 감탄할 요소가 많지만, 이전 작품이 지닌 특별한 요소 일부가 부족하게 느껴진다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Austin Burke - 평점 7/10</b><br/>패딩턴은 순수하고 사랑스러운 캐릭터이며, 그와 함께하는 시간은 언제나 특별하다. 감탄할 요소가 많지만, 이전 작품이 지닌 특별한 요소 일부가 부족하게 느껴진다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Sara Clements - 평점 없음</b><br/>두걸 윌슨의 패딩턴: 페루에 가다!는 전작들과 마찬가지로 따뜻하고 유머러스하며, 브라운 가족과 패딩턴을 새로운 감정적, 공간적 장소로 안내한다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Sara Clements - 평점 없음</b><br/>두걸 윌슨의 패딩턴: 페루에 가다!는 전작들과 마찬가지로 따뜻하고 유머러스하며, 브라운 가족과 패딩턴을 새로운 감정적, 공간적 장소로 안내한다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Mel Valentin - 평점 없음</b><br/>패딩턴: 페루에 가다!가 오랜 기다림을 보상해줄 만큼 대단한 작품인지 단언하기는 어렵다. 그러나 이는 속편 자체의 단점이라기보다, 전작들의 예술적 완성도가 너무 높았기 때문이다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Mel Valentin - 평점 없음</b><br/>패딩턴: 페루에 가다!가 오랜 기다림을 보상해줄 만큼 대단한 작품인지 단언하기는 어렵다. 그러나 이는 속편 자체의 단점이라기보다, 전작들의 예술적 완성도가 너무 높았기 때문이다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Michael Ward - 평점 4/5</b><br/>패딩턴 영화에서 가장 사랑스러운 점은 그의 순수함이 약점이 아니라 강점으로 작용한다는 것이다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Michael Ward - 평점 4/5</b><br/>패딩턴 영화에서 가장 사랑스러운 점은 그의 순수함이 약점이 아니라 강점으로 작용한다는 것이다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>M.V. Moorhead - 평점 없음</b><br/>패딩턴: 페루에 가다!는 패딩턴 2만큼 훌륭하지는 않지만 여전히 멋진 작품이다. 푸른 코트와 붉은 모자를 쓴 조용한 마멀레이드 애호가는 이번에도 익살스러운 캐릭터들 사이에서 멋진 균형을 잡아준다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>M.V. Moorhead - 평점 없음</b><br/>패딩턴: 페루에 가다!는 패딩턴 2만큼 훌륭하지는 않지만 여전히 멋진 작품이다. 푸른 코트와 붉은 모자를 쓴 조용한 마멀레이드 애호가는 이번에도 익살스러운 캐릭터들 사이에서 멋진 균형을 잡아준다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Keith Garlington - 평점 4/5</b><br/>엔딩 크레딧이 올라가며 우리는 이 마멀레이드를 사랑하는 곰과 그의 가족을 왜 이렇게 좋아하는지 다시금 떠올리게 된다. 또한 앞으로 더 많은 패딩턴 영화가 나오기를 바라는 마음을 남긴다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Keith Garlington - 평점 4/5</b><br/>엔딩 크레딧이 올라가며 우리는 이 마멀레이드를 사랑하는 곰과 그의 가족을 왜 이렇게 좋아하는지 다시금 떠올리게 된다. 또한 앞으로 더 많은 패딩턴 영화가 나오기를 바라는 마음을 남긴다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Richard Propes - 평점 4.0/4.0</b><br/>패딩턴: 페루에 가다!는 이 시리즈에서 사랑받아온 모든 요소를 그대로 담고 있으며, 아이들을 가르치는 영국식 감각을 잘 보여준다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Richard Propes - 평점 4.0/4.0</b><br/>패딩턴: 페루에 가다!는 이 시리즈에서 사랑받아온 모든 요소를 그대로 담고 있으며, 아이들을 가르치는 영국식 감각을 잘 보여준다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Rachel Wagner - 평점 없음</b><br/>패딩턴: 페루에 가다!는 가족 모두가 즐길 수 있는 작품이다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Rachel Wagner - 평점 없음</b><br/>패딩턴: 페루에 가다!는 가족 모두가 즐길 수 있는 작품이다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>Alison Gillmor - 평점 4/5</b><br/>전작들만큼 뛰어나지는 않지만, 여전히 대부분의 어린이용 콘텐츠보다 창의적이고 사려 깊은 이야기이다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Alison Gillmor - 평점 4/5</b><br/>전작들만큼 뛰어나지는 않지만, 여전히 대부분의 어린이용 콘텐츠보다 창의적이고 사려 깊은 이야기이다.</p>'
     },
     {
       type: 'h2',
@@ -225,6 +230,7 @@ const post = {
       type: 'body',
       html: '<p><b>G. Allen Johnson - 평점 1/4</b><br/>두걸 윌슨이 문제가 아니다. 오히려 문제는 각본을 맡은 세 명의 작가이며, 이들은 더 나은 결과를 만들어낼 능력이 있음에도 처참한 각본을 내놓았다.</p>'
     },
+    { type: 'image', src: '/images/post91_img6.jpg', alt: '패딩턴 : 페루에 가다!', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section7',

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post169_img1.jpg', alt: '나우 이즈 굿', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -52,8 +53,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>나우 이즈 굿 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>나우 이즈 굿 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
     },
+    { type: 'image', src: '/images/post169_img2.jpg', alt: '나우 이즈 굿 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;588&quot; data-origin-width=&quot;1890&quot;><span data-alt=&quot;나우 이즈 굿 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bwtWRS/btsK0l6rN50/AAAAAAAAAAAAAAAAAAAAAH83SwGUNV-1vsnLOzTzfrBIombgMcPQSBnxqEiOZrnI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BsgyMQTTKGxmXx2hjcVotBT%2BPFY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bwtWRS/btsK0l6rN50/AAAAAAAAAAAAAAAAAAAAAH83SwGUNV-1vsnLOzTzfrBIombgMcPQSBnxqEiOZrnI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BsgyMQTTKGxmXx2hjcVotBT%2BPFY%3D&quot;></span><figcaption>나우 이즈 굿 로튼 토마토 평점</figcaption> </figure> </p>'
@@ -81,6 +83,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>나우 이즈 굿 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post169_img3.jpg', alt: '나우 이즈 굿', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Joseph Walsh - 평점 1/5</b><br>나우 이즈 굿 ‘Now Is Good’는 피해야 할 영화이다.</br></p>'
@@ -159,6 +162,12 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b>Now Is Good</b></span><br/><span style=&quot;color: #781b33;&quot;><b>지금이 좋다</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post169_img9.jpg', alt: '나우 이즈 굿', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post169_img8.jpg', alt: '나우 이즈 굿', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post169_img7.jpg', alt: '나우 이즈 굿', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post169_img6.jpg', alt: '나우 이즈 굿', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post169_img5.jpg', alt: '나우 이즈 굿', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post169_img4.jpg', alt: '나우 이즈 굿', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>나우 이즈 굿의 뜻은 지금이 좋다입니다.</b></p>'

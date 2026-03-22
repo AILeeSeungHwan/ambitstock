@@ -29,6 +29,7 @@ const post = {
       type: 'body',
       html: '<p><b>제목:</b> 하얼빈<br><b>개봉일:</b> 2024년 12월 예정<br><b>감독:</b> 우민호<br/><b>출연:</b> 현빈 (안중근), 전여빈, 조우진, 유재명, 이동욱</br></br></p>'
     },
+    { type: 'image', src: '/images/post157_img1.jpg', alt: '영화 하얼빈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section3',
@@ -39,6 +40,7 @@ const post = {
       type: 'body',
       html: '<p>영화 &lt;하얼빈&gt;은 1909년 대한제국 말기, <b>일본 제국의 침략에 맞서 싸운 독립운동가 안중근 의사의 이야기를 중심</b>으로 전개됩니다.</p>'
     },
+    { type: 'image', src: '/images/post157_img2.jpg', alt: '영화 하얼빈', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post157_poster.jpg', alt: '포스트 157 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
@@ -75,6 +77,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post157_img3.jpg', alt: '영화 하얼빈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -100,6 +103,7 @@ const post = {
       type: 'body',
       html: '<h4>- <b>안중근 (현빈):</b> 조국 독립을 위해 헌신한 독립운동가로 영화의 중심인물.</h4>'
     },
+    { type: 'image', src: '/images/post157_img4.jpg', alt: '영화 하얼빈 개봉 정보 출연진 줄거리 결말 후기 < 2024년 12월 기대되는 한국 독립운동 개봉예정작 >', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h4><br/>- <b>지원군 (전여빈):</b> 안중근을 보조하며 같은 이상을 공유하는 인물.</h4>'
@@ -122,6 +126,7 @@ const post = {
       type: 'body',
       html: '<h4><b><b>(스포일러 포함) </b>결말과 해석 </b></h4>'
     },
+    { type: 'image', src: '/images/post157_img5.jpg', alt: '하얼빈 출연진 현빈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화는 안중근의 마지막 순간과 그의 신념을 강조하며 끝을 맺습니다.</p>'
@@ -176,6 +181,12 @@ const post = {
       type: 'body',
       html: '<h4>- <b>영화는 실제 사건을 기반으로 했나요?</b></h4>'
     },
+    { type: 'image', src: '/images/post157_img11.jpg', alt: '영화 하얼빈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post157_img10.jpg', alt: '영화 하얼빈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post157_img9.jpg', alt: '영화 하얼빈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post157_img8.jpg', alt: '하얼빈 출연진 이동욱', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post157_img7.jpg', alt: '하얼빈 출연진 조우진', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post157_img6.jpg', alt: '하얼빈 출연진 전여빈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li>네, &lt;하얼빈&gt;은 안중근 의사의 실제 사건을 중심으로 제작되었습니다.</li> </ul>'

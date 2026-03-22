@@ -127,6 +127,20 @@ const post = {
       type: 'body',
       html: '<p>원하시는 콘텐츠, 게시글이 있다면 언제든 문의 남겨주세요.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post402_img13.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img12.jpg', alt: '2024년 하반기 해외 영화 개봉예정 기대작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img11.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img10.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img9.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img8.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img7.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img6.jpg', alt: '미키17 정보 및 기생충 해외 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img5.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img4.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img3.jpg', alt: '영화 조커 2: 폴리 아 되 개봉정보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img2.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post402_img1.jpg', alt: '2024년 하반기 해외 영화 라인업', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>여러분이 만들어주시는 다양한 콘텐츠들과 함께 행복한 문화생활 즐기세요!</p>'

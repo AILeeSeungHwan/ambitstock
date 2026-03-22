@@ -23,9 +23,10 @@ const post = {
       type: 'body',
       html: '<p>해리 포터와 죽음의 성물 2가 2025년 1월 15일 돌아옵니다.</p>'
     },
+    { type: 'image', src: '/images/post129_img1.jpg', alt: '해리 포터와 죽음의 성물 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333; text-align: start;&quot;>해리포터 시리즈 중 당연 최고라고 말할 수 있을 정도의 이 작품,<span> </span></span>이번 포스팅에서는 <b>죽음의 성물 2가 왜 시리즈 최고작품인지</b> 해외 평론가 평점과 후기를 바탕으로 알아보도록 하겠습니다.</p>'
+      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>해리포터 시리즈 중 당연 최고라고 말할 수 있을 정도의 이 작품,<span> </span></span>이번 포스팅에서는 <b>죽음의 성물 2가 왜 시리즈 최고작품인지</b> 해외 평론가 평점과 후기를 바탕으로 알아보도록 하겠습니다.</p>'
     },
     {
       type: 'body',
@@ -48,8 +49,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>해리 포터와 죽음의 성물 2 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>해리 포터와 죽음의 성물 2 로튼 토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #f3c000;&quot;></span></p>'
     },
+    { type: 'image', src: '/images/post129_img2.jpg', alt: '해리 포터와 죽음의 성물 2 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;536&quot; data-origin-width=&quot;1722&quot;><span data-alt=&quot;해리 포터와 죽음의 성물 2 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dVQ8p2/btsLz4cfocy/AAAAAAAAAAAAAAAAAAAAAB-EgP__ASbsmBikN8jwYZAWB2UNKHYC0OIKWN6HxVXi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jHy7L2IrWY0omnGEohrglc0RRDU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dVQ8p2/btsLz4cfocy/AAAAAAAAAAAAAAAAAAAAAB-EgP__ASbsmBikN8jwYZAWB2UNKHYC0OIKWN6HxVXi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jHy7L2IrWY0omnGEohrglc0RRDU%3D&quot;></span><figcaption>해리 포터와 죽음의 성물 2 평점</figcaption> </figure> </p>'
@@ -85,6 +87,13 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>해리 포터와 죽음의 성물 2 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post129_img9.jpg', alt: '해리 포터와 죽음의 성물 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post129_img8.jpg', alt: '해리 포터와 죽음의 성물 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post129_img7.jpg', alt: '해리 포터와 죽음의 성물 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post129_img6.jpg', alt: '해리 포터와 죽음의 성물 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post129_img5.jpg', alt: '해리 포터와 죽음의 성물 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post129_img4.jpg', alt: '해리 포터와 죽음의 성물 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post129_img3.jpg', alt: '해리 포터와 죽음의 성물 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Don Shanahan - 평점(오리지널 스코어: 5/5)</b><br>해리 포터와 죽음의 성물 2는 시리즈의 마지막 장면을 결합하여, 그 자체로 영화 역사에 독특한 위치를 차지할 만한 서사적 즐거움을 선사한다. 이 영화는 모든 노력의 결실을 보여주며, 그 자체로 거대한 엔터테인먼트를 전달한다.</br></p>'

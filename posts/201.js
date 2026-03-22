@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>크리스마스 추천 영화 넷플릭스 시청 가능 캐롤 Carol 로튼 토마토 평점 및 후기 포스팅입니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>개봉 당시에도 좋은 평가를 받으며 이동진평론가의 극찬을 받은 영화 캐롤, 재개봉 기념 영화관에서 볼지말지 고민중이시라면 이 포스팅을 통해 결정해보시길 바랍니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>영화 캐롤은 현재 넷플릭스에서도 시청 가능합니다.</p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>크리스마스 추천 영화 넷플릭스 시청 가능 캐롤 Carol 로튼 토마토 평점 및 후기 포스팅입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>개봉 당시에도 좋은 평가를 받으며 이동진평론가의 극찬을 받은 영화 캐롤, 재개봉 기념 영화관에서 볼지말지 고민중이시라면 이 포스팅을 통해 결정해보시길 바랍니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>영화 캐롤은 현재 넷플릭스에서도 시청 가능합니다.</p>'
     },
     {
       type: 'image',
@@ -21,19 +21,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 캐롤 Carol 로튼토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 캐롤 Carol 로튼토마토 평론가 평점입니다.</b></span></p>'
+    },
+    { type: 'image', src: '/images/post201_img1.jpg', alt: '캐롤', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 94%, 관람객 평점 75%의 영화 캐롤 평점입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 94%, 관람객 평점 75%의 영화 캐롤 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평론가들로부터 극찬을 받으며 신선도 보증마크 또한 획득한 작품입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가들로부터 극찬을 받으며 신선도 보증마크 또한 획득한 작품입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>관객 평점은 상대적으로 낮은 70%대의 평점을 기록하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>관객 평점은 상대적으로 낮은 70%대의 평점을 기록하였습니다.</p>'
     },
     {
       type: 'h2',
@@ -43,8 +44,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 캐롤 평론가 결말후기 관람평 살펴보겠습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 캐롤 평론가 결말후기 관람평 살펴보겠습니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post201_img2.jpg', alt: '캐롤 로튼 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Brendan Cassidy - 평점 없음</span></i><br>‘캐롤’은 2015년에 본 영화 중 가장 아름다운 작품이라고 말할 수 있다.</br></p>'
@@ -127,6 +129,14 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post201_img10.jpg', alt: '캐롤 영화', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post201_img9.jpg', alt: '캐롤 영화', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post201_img8.jpg', alt: '캐롤 영화', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post201_img7.jpg', alt: '캐롤', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post201_img6.jpg', alt: '캐롤', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post201_img5.jpg', alt: '캐롤', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post201_img4.jpg', alt: '캐롤', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post201_img3.jpg', alt: '영화 캐롤', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10</b></span></p>'

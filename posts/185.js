@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post185_img1.jpg', alt: '리바이벌 69', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>리바이벌 69\' 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>리바이벌 69\' 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post185_img2.jpg', alt: '리바이벌 69', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;354&quot; data-origin-width=&quot;1117&quot;><span data-alt=&quot;리바이벌 69\' 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cdqhgW/btsKPez0yHY/AAAAAAAAAAAAAAAAAAAAAOgMv8K5t9LnGFRqHQlVxpyTCco4zY24Qtv0iGZl4t3B/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kD2KrdJxMTll36slTmY%2Flke5%2BeY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cdqhgW/btsKPez0yHY/AAAAAAAAAAAAAAAAAAAAAOgMv8K5t9LnGFRqHQlVxpyTCco4zY24Qtv0iGZl4t3B/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kD2KrdJxMTll36slTmY%2Flke5%2BeY%3D&quot;></span><figcaption>리바이벌 69\' 로튼 토마토 평점</figcaption> </figure> </p>'
@@ -74,6 +76,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>리바이벌 69\' 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post185_img3.jpg', alt: '리바이벌 69', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Patrick McDonald - 평점(오리지널 스코어: 5/5)</span></i><br>이것은 아마도 가장 훌륭한 록 이야기 중 하나일 것이다. 캐나다의 록 프로모터들이 1950년대 록커들, Alice Cooper, Chicago, THE DOORS와 함께 John Lennon을 라인업에 추가할 계획을 세운 불가능한 이야기. Plastic Ono Band가 탄생한다! 인터뷰와 함께.</br></p>'
@@ -97,6 +100,10 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>리바이벌 69\' 관객 관람평 입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post185_img7.jpg', alt: '리바이벌 69', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post185_img6.jpg', alt: '리바이벌 69', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post185_img5.jpg', alt: '리바이벌 69', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post185_img4.jpg', alt: '리바이벌 69', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Bahad J</span></i><br/>이야기의 기본적인 개요는 간단하지만, Garrity 감독은 이야기의 전개를 역으로 풀어내며 탄탄하게 내러티브를 이끌어간다. - Original Cin</p>'

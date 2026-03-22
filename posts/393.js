@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</span></b></p><p style=&quot;color: #333333; text-align: start;&quot;>2024년 7월 2주차 신작, 넷플릭스 영화 추천, 인기 순위 1위 영화 댓글부대 영어제목 Troll Factory 입니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1366&quot; data-origin-width=&quot;986&quot;><span data-alt=&quot;영화 댓글부대 해외 평점 반응 결말후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bfaauj/btsIwvKjgED/AAAAAAAAAAAAAAAAAAAAANuBNASCUUwOu2_FpHNFDvIdSjMixUvpM_ieOR7IuiIS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nFVIyYGj5nKIrQMqhz9HDaJ1yC4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bfaauj/btsIwvKjgED/AAAAAAAAAAAAAAAAAAAAANuBNASCUUwOu2_FpHNFDvIdSjMixUvpM_ieOR7IuiIS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nFVIyYGj5nKIrQMqhz9HDaJ1yC4%3D&quot;></span><figcaption>영화 댓글부대 해외 평점 반응 결말후기</figcaption> </figure> </p>'
+      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</span></b></p><p style=&quot;color: inherit; text-align: start;&quot;>2024년 7월 2주차 신작, 넷플릭스 영화 추천, 인기 순위 1위 영화 댓글부대 영어제목 Troll Factory 입니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1366&quot; data-origin-width=&quot;986&quot;><span data-alt=&quot;영화 댓글부대 해외 평점 반응 결말후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bfaauj/btsIwvKjgED/AAAAAAAAAAAAAAAAAAAAANuBNASCUUwOu2_FpHNFDvIdSjMixUvpM_ieOR7IuiIS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nFVIyYGj5nKIrQMqhz9HDaJ1yC4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bfaauj/btsIwvKjgED/AAAAAAAAAAAAAAAAAAAAANuBNASCUUwOu2_FpHNFDvIdSjMixUvpM_ieOR7IuiIS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nFVIyYGj5nKIrQMqhz9HDaJ1yC4%3D&quot;></span><figcaption>영화 댓글부대 해외 평점 반응 결말후기</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #333333; text-align: left;&quot;>2024년 7월 10일 넷플릭스 공개된 영화 댓글부대가 넷플릭스 대한민국 영화 순위 1위를 기록하고 있습니다.</span></p>'
+      html: '<p><span style=&quot;color: inherit; text-align: left;&quot;>2024년 7월 10일 넷플릭스 공개된 영화 댓글부대가 넷플릭스 대한민국 영화 순위 1위를 기록하고 있습니다.</span></p>'
     },
     {
       type: 'body',
@@ -39,19 +39,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>영화 댓글부대에 대한<span> <span style=&quot;color: #333333; text-align: start;&quot;>IMDB 평점,<span> MyDramaList 등 해외 사이트의 </span></span></span><b><span style=&quot;background-color: #f3c000;&quot;>영화 결말 후기를 종합적으로 살핀 객관적인 정보</span></b>를 바탕으로</p>'
+      html: '<p>영화 댓글부대에 대한<span> <span style=&quot;color: inherit; text-align: start;&quot;>IMDB 평점,<span> MyDramaList 등 해외 사이트의 </span></span></span><b><span style=&quot;background-color: #f3c000;&quot;>영화 결말 후기를 종합적으로 살핀 객관적인 정보</span></b>를 바탕으로</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>댓글부대 볼지 말지, 볼만한 영화인지 딱 정해드리겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>댓글부대 볼지 말지, 볼만한 영화인지 딱 정해드리겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>후기 다 읽기 귀찮다?<span> </span></b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>후기 다 읽기 귀찮다?<span> </span></b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;color: #781b33;&quot;>포스팅의 마지막으로</span></b><span style=&quot;color: #781b33;&quot;><b><span> </span>넘어가</b></span><span style=&quot;color: #781b33;&quot;><b><span> </span>영화 총평 꼭 살펴보시길 바랍니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;color: #781b33;&quot;>포스팅의 마지막으로</span></b><span style=&quot;color: #781b33;&quot;><b><span> </span>넘어가</b></span><span style=&quot;color: #781b33;&quot;><b><span> </span>영화 총평 꼭 살펴보시길 바랍니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -59,15 +59,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>IMDB 영화 댓글부대 평점 및 인기순위 입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>IMDB 영화 댓글부대 평점 및 인기순위 입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>현재 IMDB에서 인기순위를 확인할 수 없습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>현재 IMDB에서 인기순위를 확인할 수 없습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span>하지만 <b>평점은 10점만점에 6.1점으로 상당히 저조한 성적</b></span>을 거두고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span>하지만 <b>평점은 10점만점에 6.1점으로 상당히 저조한 성적</b></span>을 거두고 있습니다.</p>'
     },
     {
       type: 'body',
@@ -75,19 +75,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>특이한 점은 보통 대부분의 영화들의 평점표본국가에 대한민국은 없으나, 영화 댓글부대는 한국의 평점이 1등입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>특이한 점은 보통 대부분의 영화들의 평점표본국가에 대한민국은 없으나, 영화 댓글부대는 한국의 평점이 1등입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>해외 공개되지 않았던 작품인만큼 표본 또한 한국 평점 표본이 더 많은 것을 알 수 있고,</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>해외 공개되지 않았던 작품인만큼 표본 또한 한국 평점 표본이 더 많은 것을 알 수 있고,</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>평점 10점보다 6-7점, 그리고 1점 평점에 분포가 몰린 것</b>을 알 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>평점 10점보다 6-7점, 그리고 1점 평점에 분포가 몰린 것</b>을 알 수 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>그렇다면 영화 댓글부대 후기 해외 반응은 어떠한지, 해외 리뷰 살펴보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>그렇다면 영화 댓글부대 후기 해외 반응은 어떠한지, 해외 리뷰 살펴보겠습니다.</p>'
     },
     {
       type: 'body',
@@ -95,7 +95,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000; font-size: 1.62em; letter-spacing: -1px;&quot;>인터넷에서 진실은 무엇인가</span></p>'
+      html: '<p><span style=&quot;color: inherit; font-size: 1.62em; letter-spacing: -1px;&quot;>인터넷에서 진실은 무엇인가</span></p>'
     },
     {
       type: 'body',
@@ -183,23 +183,23 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>전체 점수: 9.0</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>전체 점수: 9.0</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>스토리: 9.0</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>스토리: 9.0</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>연기/출연진: 9.0</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>연기/출연진: 9.0</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>음악: 9.0</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>음악: 9.0</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>재관람 가치: 9.0</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>재관람 가치: 9.0</b></p>'
     },
     {
       type: 'body',
@@ -307,19 +307,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>스토리: 9.5</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>스토리: 9.5</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>연기/출연진: 10</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>연기/출연진: 10</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>음악: 9.5</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>음악: 9.5</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>재관람 가치: 9.5</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>재관람 가치: 9.5</b></p>'
     },
     {
       type: 'body',
@@ -395,20 +395,30 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>스토리: 6.5</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>스토리: 6.5</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>연기/출연진: 9.0</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>연기/출연진: 9.0</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>음악: 7.0</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>음악: 7.0</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>재관람 가치: 5.0</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>재관람 가치: 5.0</b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post393_img9.jpg', alt: '영화 댓글부대 해외 평점 반응 결말후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post393_img8.jpg', alt: '영화 댓글부대 해외 평점 반응 결말후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post393_img7.jpg', alt: '영화 댓글부대 해외 평점 반응 결말후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post393_img6.jpg', alt: '영화 댓글부대 해외 평점 반응 결말후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post393_img5.jpg', alt: '영화 댓글부대 해외 평점 반응 결말후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post393_img4.jpg', alt: '영화 댓글부대 해외 평점 반응 결말후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post393_img3.jpg', alt: '영화 댓글부대 해외 평점 반응 결말후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post393_img2.jpg', alt: '영화 댓글부대 해외 평점 반응 결말후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post393_img1.jpg', alt: '영화 댓글부대 해외 평점 반응 결말후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>영화 댓글부대 영어 제목 Troll Factory 총평입니다.</p>'

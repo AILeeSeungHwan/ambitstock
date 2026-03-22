@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post181_img1.jpg', alt: '더 크로우 The Crow', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>더 크로우 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>더 크로우 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post181_img2.jpg', alt: '더 크로우 ( The Crow ) 영화 관람평 포토 정보 결말 후기 뜻 의미 해석 <평론가 관객 엇갈린 평가>', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;542&quot; data-origin-width=&quot;1856&quot;><span data-alt=&quot;더 크로우 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/BSaYc/btsKSGaEUuz/AAAAAAAAAAAAAAAAAAAAABv6O7n0QJLPMgj5_0TnkQqWWlxX5eQbLjewMrD-DXcO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DejYWlj3Y6Zj0mkt6n5Xo1UGrFY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/BSaYc/btsKSGaEUuz/AAAAAAAAAAAAAAAAAAAAABv6O7n0QJLPMgj5_0TnkQqWWlxX5eQbLjewMrD-DXcO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DejYWlj3Y6Zj0mkt6n5Xo1UGrFY%3D&quot;></span><figcaption>더 크로우 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
@@ -82,6 +84,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>더 크로우 ( The Crow ) 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post181_img3.jpg', alt: '더 크로우 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Matt Brunson - 평점: 1/4</b><br>이 영화는 완전히 끔찍하다.</br></p>'
@@ -147,8 +150,16 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>더 크로우 뜻 의미 해석입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>더 크로우 뜻 의미 해석입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post181_img11.jpg', alt: '더 크로우 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post181_img10.jpg', alt: '더 크로우 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post181_img9.jpg', alt: '더 크로우 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post181_img8.jpg', alt: '더 크로우', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post181_img7.jpg', alt: '더 크로우', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post181_img6.jpg', alt: '더 크로우', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post181_img5.jpg', alt: '더 크로우', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post181_img4.jpg', alt: '더 크로우', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>더 크로우 The Crow<br/></span>까마귀</b></span></blockquote>'

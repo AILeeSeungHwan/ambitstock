@@ -73,7 +73,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><span style=&quot;color: #333333; text-align: start;&quot;>앤서니 매키가</span> 크리스 에반스의 캡틴 아메리카를 이어 새로운 캡틴이 됩니다. </b></p>'
+      html: '<p><b><span style=&quot;color: inherit; text-align: start;&quot;>앤서니 매키가</span> 크리스 에반스의 캡틴 아메리카를 이어 새로운 캡틴이 됩니다. </b></p>'
     },
     {
       type: 'body',
@@ -97,11 +97,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000; background-color: #01ff51;&quot;><b>걱정거리는 한가지 더 있습니다. </b></span></p>'
+      html: '<p><span style=&quot;color: inherit; background-color: #01ff51;&quot;><b>걱정거리는 한가지 더 있습니다. </b></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;color: #000000; background-color: #01ff51;&quot;><b>새로운 아이언맨의 시작입니다.</b></span></p>'
+      html: '<p><span style=&quot;color: inherit; background-color: #01ff51;&quot;><b>새로운 아이언맨의 시작입니다.</b></span></p>'
     },
     {
       type: 'body',
@@ -119,6 +119,12 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><b>차기 아이언맨 아이언하트에 대한 두가지 논란은 하단 포스팅에서 확인가능합니다.</b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post364_img5.jpg', alt: '2025년 디즈니 마블 논란 이슈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post364_img4.jpg', alt: '충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post364_img3.jpg', alt: '2025년 디즈니 마블 논란 이슈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post364_img2.jpg', alt: '2025년 디즈니 마블 논란 이슈', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post364_img1.jpg', alt: '충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, \'Malgun Gothic\', \'맑은 고딕\', dotum, 돋움, sans-serif;&quot;>다음 포스팅에서 2025년, 2026년 마블 공개 예정 모든 작품들을 전달해드리겠습니다.</span></p>'

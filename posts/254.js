@@ -72,6 +72,12 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post254_img5.jpg', alt: '싱글 에이트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post254_img4.jpg', alt: '싱글 에이트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post254_img3.jpg', alt: '싱글 에이트 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post254_img2.jpg', alt: '싱글 에이트 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post254_img1.jpg', alt: '싱글 에이트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>'

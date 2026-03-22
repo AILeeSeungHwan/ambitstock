@@ -180,6 +180,17 @@ const post = {
       type: 'body',
       html: '<p>이와 같은 평가들을 종합하면, 영화는 시각적 성과와 톰 하디의 연기가 돋보였으나, 스토리 전개에서는 다소 아쉬운 점이 지적된 베놈 : 라스트 댄스의 시사회 후기였습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post238_img10.jpg', alt: '베놈 라스트 댄스 시사회 후기 해외 관람평 리뷰반응 | 3부작 마지막 결말 예매 할까 말까?', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post238_img9.jpg', alt: '베놈 라스트 댄스 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post238_img8.jpg', alt: '베놈 라스트 댄스 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post238_img7.jpg', alt: '베놈 라스트 댄스 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post238_img6.jpg', alt: '베놈 라스트 댄스 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post238_img5.jpg', alt: '베놈 라스트 댄스 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post238_img4.jpg', alt: '베놈 라스트 댄스 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post238_img3.jpg', alt: '베놈 라스트 댄스 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post238_img2.jpg', alt: '베놈 라스트 댄스 시사회 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post238_img1.jpg', alt: '베놈 라스트 댄스 시사회 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>결론적으로 톰 하디의 연기와 베놈 시리즈 자체를 좋아하시는 팬분들은 걱정 없이 영화관에서 시청하시는 것을 추천드립니다.</p>'

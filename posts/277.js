@@ -153,6 +153,14 @@ const post = {
       type: 'body',
       html: '<p>보신 바와 같이 모든 리뷰를 가져왔으나 부정적인 리뷰는 하나뿐인 흑백요리사입니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post277_img7.jpg', alt: '넷플릭스 추천 흑백요리사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post277_img6.jpg', alt: '넷플릭스 추천 흑백요리사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post277_img5.jpg', alt: '넷플릭스 추천 흑백요리사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post277_img4.jpg', alt: '넷플릭스 추천 흑백요리사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post277_img3.jpg', alt: '넷플릭스 추천 흑백요리사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post277_img2.jpg', alt: '넷플릭스 추천 흑백요리사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post277_img1.jpg', alt: '넷플릭스 추천 흑백요리사', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>전체적인 평가가 굉장히 좋고, 새로운 한국음식을 볼 수 있었다는 것에 대한 평가, 심사위원의 평가방식과 전개방식, 경연스타일 연출 등 모든 부분에서 긍정적인 평가를 받고 있습니다. 과연 우승자는 누구일지, 이번 매주 화요일 공개되는 흑백요리사 3주 차도 기대해 보겠습니다.</p>'

@@ -29,9 +29,10 @@ const post = {
       type: 'body',
       html: '<blockquote><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>조명가게</span></b><br><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>Light Shop</span></b></br></blockquote>'
     },
+    { type: 'image', src: '/images/post146_img1.jpg', alt: '조명가게', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>조명가게의 영어제목은 Light Shop으로 다른 의미를 두지 않고 직역하여 한국어 제목과 같은 제목을 채택하였습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>조명가게의 영어제목은 Light Shop으로 다른 의미를 두지 않고 직역하여 한국어 제목과 같은 제목을 채택하였습니다.</p>'
     },
     {
       type: 'h2',
@@ -41,23 +42,24 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>드마라 조명가게 평점 및 인기 순위입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>드마라 조명가게 평점 및 인기 순위입니다.</b></span></p>'
+    },
+    { type: 'image', src: '/images/post146_img2.jpg', alt: '조명가게 영어제목', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>IMDB 평점은 7.7점, 인기순위는 156위입니다.</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>IMDB 평점은 7.7점, 인기순위는 156위입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>IMDB에서의 평점 7.7점은 타 사이트에 비해 높은 평점에 속하며, 인기 순위 또한 156위로 순위에 영화도 포함되기 때문에 높은 순위임을 알 수 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>IMDB에서의 평점 7.7점은 타 사이트에 비해 높은 평점에 속하며, 인기 순위 또한 156위로 순위에 영화도 포함되기 때문에 높은 순위임을 알 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>다른 사이트에서는 더욱 높은 평점을 확인할 수 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>다른 사이트에서는 더욱 높은 평점을 확인할 수 있습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>무려 8.6점으로 강풀 원작 드라마의 성공이 이어지는 모습</b>입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>무려 8.6점으로 강풀 원작 드라마의 성공이 이어지는 모습</b>입니다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -68,19 +70,20 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>드라마 조명가게 평점 분포 살펴보겠습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>드라마 조명가게 평점 분포 살펴보겠습니다.</b></span></p>'
+    },
+    { type: 'image', src: '/images/post146_img3.jpg', alt: '조명 가게 평점', caption: 'ⓒ R의 필름공장' },
+    {
+      type: 'body',
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>총 표본 수는 약 1,000개 이며, 전체적으로 높은 평점대를 형성하고 있음을 알 수 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>총 표본 수는 약 1,000개 이며, 전체적으로 높은 평점대를 형성하고 있음을 알 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평점표본 국가는 미국 태국 인도 인도네시아 영국 순입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평점표본 국가는 미국 태국 인도 인도네시아 영국 순입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>무려 10점의 비율이 27.6%로 압도적인 만족도를 보이고 있고, 7점에서 9점에 높은 평점 분포를 기록하였습니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>무려 10점의 비율이 27.6%로 압도적인 만족도를 보이고 있고, 7점에서 9점에 높은 평점 분포를 기록하였습니다.</b></span></p>'
     },
     {
       type: 'h2',
@@ -90,8 +93,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>1화 8점에서 시작한 평점이 마지막 화에서 8.9점을 기록하며 시즌 2에 대한 기대감이 반영된 것으로 보입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>1화 8점에서 시작한 평점이 마지막 화에서 8.9점을 기록하며 시즌 2에 대한 기대감이 반영된 것으로 보입니다.</p>'
     },
+    { type: 'image', src: '/images/post146_img4.jpg', alt: '조명 가게 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section6',
@@ -102,6 +106,10 @@ const post = {
       type: 'body',
       html: '<p>실제 해외 시청자들의 리뷰에서 시즌 2에 대한 절실한 제작 요청이 있을 정도로 빠른 시일 내에 시즌 2의 공개를 원하고 있음을 확인할 수 있습니다.</p>'
     },
+    { type: 'image', src: '/images/post146_img8.jpg', alt: '조명가게 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post146_img7.jpg', alt: '조명가게 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post146_img6.jpg', alt: '조명가게 회차별 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post146_img5.jpg', alt: '조명가게 평점분포', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #781b33;&quot;>It was good but </span><br><span style=&quot;color: #781b33;&quot;>season 2 definitely needed</span><br/><span style=&quot;color: #781b33;&quot;><b>좋은 작품이었고</b></span><br/><span style=&quot;color: #781b33;&quot;><b>시즌2가 절실하다.</b></span><br/></br></span></blockquote>'

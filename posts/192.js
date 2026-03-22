@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>최고의 시리즈로 기억되는 &lt;해리포터 시리즈&gt;를 인기 순위 및 평점 순으로 추천해 드립니다.</b></span></p><p>해리와 아이들의 성장과 함께 자란 어른이들이 영화 해리포터 시리즈를 <span style=&quot;color: #333333; text-align: start;&quot;>다시 찾아보고자 할 때</span></p><p><span style=&quot;color: #333333; text-align: start;&quot;> 이 포스팅을 통해 원하시는 추억을 돌아보시길 바랍니다. </span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;490&quot; data-origin-width=&quot;487&quot;><span data-alt=&quot;해리포터 시리즈 인기 순위 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/l0nRM/btsKPzQramy/AAAAAAAAAAAAAAAAAAAAAHAH_kJ0RwDtjlRBO1pqBgihUByP-M1phWRjg8dWmB41/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DUDvrS5Hk5L5fNAZ92MxSEky2R8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/l0nRM/btsKPzQramy/AAAAAAAAAAAAAAAAAAAAAHAH_kJ0RwDtjlRBO1pqBgihUByP-M1phWRjg8dWmB41/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DUDvrS5Hk5L5fNAZ92MxSEky2R8%3D&quot;></span><figcaption>해리포터 시리즈 인기 순위 추천</figcaption> </figure> </p><p><span style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>해리포터 모든 시리즈의 로튼 토마토 평점을 바탕으로 순위</b></span>를 정하였으며,</span></p><p><span style=&quot;color: #333333; text-align: start;&quot;> 평점순위가 실제로 영화의 흥행과 연관되지는 않습니다.</span></p><p><span style=&quot;color: #333333; text-align: start;&quot;>로튼 토마토 평론가 평점, 시청자 평점과 함께 영화 개봉당시의 반응, 그리고 줄거리 내용을 함께 알아보도록 하겠습니다.</span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>최고의 시리즈로 기억되는 &lt;해리포터 시리즈&gt;를 인기 순위 및 평점 순으로 추천해 드립니다.</b></span></p><p>해리와 아이들의 성장과 함께 자란 어른이들이 영화 해리포터 시리즈를 <span style=&quot;color: inherit; text-align: start;&quot;>다시 찾아보고자 할 때</span></p><p><span style=&quot;color: inherit; text-align: start;&quot;> 이 포스팅을 통해 원하시는 추억을 돌아보시길 바랍니다. </span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;490&quot; data-origin-width=&quot;487&quot;><span data-alt=&quot;해리포터 시리즈 인기 순위 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/l0nRM/btsKPzQramy/AAAAAAAAAAAAAAAAAAAAAHAH_kJ0RwDtjlRBO1pqBgihUByP-M1phWRjg8dWmB41/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DUDvrS5Hk5L5fNAZ92MxSEky2R8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/l0nRM/btsKPzQramy/AAAAAAAAAAAAAAAAAAAAAHAH_kJ0RwDtjlRBO1pqBgihUByP-M1phWRjg8dWmB41/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DUDvrS5Hk5L5fNAZ92MxSEky2R8%3D&quot;></span><figcaption>해리포터 시리즈 인기 순위 추천</figcaption> </figure> </p><p><span style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>해리포터 모든 시리즈의 로튼 토마토 평점을 바탕으로 순위</b></span>를 정하였으며,</span></p><p><span style=&quot;color: inherit; text-align: start;&quot;> 평점순위가 실제로 영화의 흥행과 연관되지는 않습니다.</span></p><p><span style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토 평론가 평점, 시청자 평점과 함께 영화 개봉당시의 반응, 그리고 줄거리 내용을 함께 알아보도록 하겠습니다.</span></p>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post192_img1.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-rating-top-9/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>8위는 해리포터와 죽음의 성물 1부입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post192_img2.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점: 77% 시청자 평점: 85%</b></span><br><br/></br></p>'
@@ -58,7 +60,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 죽음의 성물 1부 개요</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 죽음의 성물 1부 개요</span></b></h4>'
     },
     {
       type: 'body',
@@ -90,6 +92,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>7위는 해리포터와 불사조 기사단입니다. </b></span></p>'
     },
+    { type: 'image', src: '/images/post192_img3.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점: 78% 시청자 평점: 83%</b></span></p>'
@@ -100,7 +103,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 불사조 기사단 개요</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 불사조 기사단 개요</span></b></h4>'
     },
     {
       type: 'body',
@@ -112,7 +115,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 불사조 기사단 줄거리 내용</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 불사조 기사단 줄거리 내용</span></b></h4>'
     },
     {
       type: 'body',
@@ -139,11 +142,12 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>6위는 해리포터와 마법사의 돌입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>6위는 해리포터와 마법사의 돌입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post192_img4.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b><span style=&quot;color: #333333; text-align: start;&quot;>평론가 평점: 80%<span> </span></span>시청자 평점: 82% </b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>평론가 평점: 80%<span> </span></span>시청자 평점: 82% </b></span></p>'
     },
     {
       type: 'body',
@@ -151,7 +155,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 마법사의 돌 개요</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 마법사의 돌 개요</span></b></h4>'
     },
     {
       type: 'body',
@@ -163,7 +167,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 마법사의 돌 줄거리 내용</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 마법사의 돌 줄거리 내용</span></b></h4>'
     },
     {
       type: 'body',
@@ -195,6 +199,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b> 5위는 해리포터와 마법사의 돌입니다. </b></span></p>'
     },
+    { type: 'image', src: '/images/post192_img5.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점: 82% 시청자 평점: 80%</b></span></p>'
@@ -205,7 +210,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 비밀의 방 개요</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 비밀의 방 개요</span></b></h4>'
     },
     {
       type: 'body',
@@ -213,7 +218,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 비밀의 방 줄거리 내용</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 비밀의 방 줄거리 내용</span></b></h4>'
     },
     {
       type: 'body',
@@ -241,6 +246,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;> <b>4위는 해리포터와 혼혈 왕자입니다.</b> </span></p>'
     },
+    { type: 'image', src: '/images/post192_img6.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점: 83% 시청자 평점: 78%</b></span></p>'
@@ -251,7 +257,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 혼혈 왕자 개요</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 혼혈 왕자 개요</span></b></h4>'
     },
     {
       type: 'body',
@@ -263,7 +269,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 혼혈 왕자 줄거리 내용</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 혼혈 왕자 줄거리 내용</span></b></h4>'
     },
     {
       type: 'body',
@@ -291,6 +297,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>3위는 해리포터와 불의 잔입니다.</b> </span></p>'
     },
+    { type: 'image', src: '/images/post192_img7.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점: 88% 시청자 평점: 74%</b></span></p>'
@@ -301,7 +308,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 불의 잔 개요</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 불의 잔 개요</span></b></h4>'
     },
     {
       type: 'body',
@@ -317,7 +324,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 불의 잔 줄거리 내용</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 불의 잔 줄거리 내용</span></b></h4>'
     },
     {
       type: 'body',
@@ -345,6 +352,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;> <b>2위는 해리포터와 아즈카반의 죄수입니다.</b> </span></p>'
     },
+    { type: 'image', src: '/images/post192_img8.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점: 90% 시청자 평점: 89%</b></span></p>'
@@ -355,7 +363,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 아즈카반의 죄수 개요</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 아즈카반의 죄수 개요</span></b></h4>'
     },
     {
       type: 'body',
@@ -371,7 +379,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 아즈카반의 죄수 줄거리 내용</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 아즈카반의 죄수 줄거리 내용</span></b></h4>'
     },
     {
       type: 'body',
@@ -403,6 +411,15 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>1위는 해리포터와 죽음의 성물 - 2부입니다.</b> </span></p>'
     },
+    { type: 'image', src: '/images/post192_img17.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post192_img16.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post192_img15.jpg', alt: '해리포터와 아즈카반의 죄수', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post192_img14.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post192_img13.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post192_img12.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post192_img11.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post192_img10.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post192_img9.jpg', alt: '해리포터와 비밀의 방', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점: 96% 시청자 평점: 89%</b></span></p>'
@@ -413,7 +430,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 죽음의 성물 - 2부 개요</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 죽음의 성물 - 2부 개요</span></b></h4>'
     },
     {
       type: 'body',
@@ -429,7 +446,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<h4 style=&quot;color: #000000; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 죽음의 성물 - 2부 줄거리 내용</span></b></h4>'
+      html: '<h4 style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #9feec3;&quot;>해리포터와 죽음의 성물 - 2부 줄거리 내용</span></b></h4>'
     },
     {
       type: 'body',

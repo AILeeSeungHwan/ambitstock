@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 더 퍼스트 슬램덩크가 2025년 1월 04일 재개봉합니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post113_img1.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>일본 애니메이션 영화의 정점이라 할 수 있을 정도로 해외 뿐만 아니라 한국에서도 엄청난 인기몰이를 하였던 영화 더 퍼스트 슬램덩크, <span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 영화 제목인 더 퍼스트 슬램덩크의 뜻 해석 그리고 해외 로튼 토마토 평론가 반응 후기</b></span>를 함께 알아보도록 하겠습니다.</p>'
@@ -45,6 +46,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post113_img2.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-drama-recommend-netflix/',
@@ -70,6 +72,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>더 퍼스트 슬램덩크<br/></span>The First Slam Dunk</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post113_img3.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>더 퍼스트 슬램덩크(The First Slam Dunk)</b>의 제목을 해석해 보면 다음과 같습니다:</p>'
@@ -115,8 +118,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>더 퍼스트 슬램덩크 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>더 퍼스트 슬램덩크 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post113_img4.jpg', alt: '더 퍼스트 슬램덩크 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 100%, 관객 평점 99%입니다.</b></span></p>'
@@ -143,6 +147,14 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>더 퍼스트 슬램덩크 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post113_img12.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post113_img11.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post113_img10.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post113_img9.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post113_img8.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post113_img7.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post113_img6.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post113_img5.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Diego Batlle - 평점: 4/5</b><br/>“더 퍼스트 슬램덩크”의 가장 큰 발견은 농구 게임의 신체적, 감정적 경험을 다차원적으로 잘 전달한다는 점이다. [전체 리뷰는 스페인어로 제공]</p>'

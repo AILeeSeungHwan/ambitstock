@@ -94,7 +94,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><b><i><span style=&quot;background-color: #f6e199;&quot;> <span style=&quot;color: #333333; text-align: start;&quot;>완벽하지는 않지만 즐길 만한 영화</span> - 6/10</span></i></b></p>'
+      html: '<p><b><i><span style=&quot;background-color: #f6e199;&quot;> <span style=&quot;color: inherit; text-align: start;&quot;>완벽하지는 않지만 즐길 만한 영화</span> - 6/10</span></i></b></p>'
     },
     {
       type: 'body',
@@ -156,6 +156,14 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post251_img7.jpg', alt: '영화 전,란', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post251_img6.jpg', alt: '영화 전,란', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post251_img5.jpg', alt: '영화 전,란', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post251_img4.jpg', alt: '영화 전,란', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post251_img3.jpg', alt: '영화 전,란', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post251_img2.jpg', alt: '영화 전,란', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post251_img1.jpg', alt: '영화 전,란 해외 평론가 결말 후기 반응', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

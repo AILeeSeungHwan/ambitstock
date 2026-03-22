@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 04일 개봉예정영화 나이브스 아웃</b></span><span style=&quot;background-color: #f3c000;&quot;><b> 평론가 관람평 후기입니다.</b></span></p><p>개봉당시 여러 상을 휩쓸며 평단의 극찬을 받은 작품으로 2024년 12월 04일 재개봉을 통해 영화관에서 다시 한번 시청하실 수 있습니다.</p><blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>새틀라이트시상식 앙상블상<br/></span>미국비평가협회상 앙상블상 영화 톱<br>워싱턴비평가협회상 앙상블연기상</br></blockquote><p><span style=&quot;color: #333333; text-align: start;&quot;>로튼 토마토<span> </span></span>평론가뿐만<span style=&quot;color: #333333; text-align: start;&quot;><span> </span>아니라 관객 평점도 압도적인 평가를 받은 이 작품</span></p><p><span style=&quot;background-color: #f3c000;&quot;><b>이번 포스팅에서는 영화 나이브스 아웃의 제목의 뜻과 의미 그리고 평점 관람평 후기</b></span> 알아보겠습니다.</p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 04일 개봉예정영화 나이브스 아웃</b></span><span style=&quot;background-color: #f3c000;&quot;><b> 평론가 관람평 후기입니다.</b></span></p><p>개봉당시 여러 상을 휩쓸며 평단의 극찬을 받은 작품으로 2024년 12월 04일 재개봉을 통해 영화관에서 다시 한번 시청하실 수 있습니다.</p><blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>새틀라이트시상식 앙상블상<br/></span>미국비평가협회상 앙상블상 영화 톱<br>워싱턴비평가협회상 앙상블연기상</br></blockquote><p><span style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토<span> </span></span>평론가뿐만<span style=&quot;color: inherit; text-align: start;&quot;><span> </span>아니라 관객 평점도 압도적인 평가를 받은 이 작품</span></p><p><span style=&quot;background-color: #f3c000;&quot;><b>이번 포스팅에서는 영화 나이브스 아웃의 제목의 뜻과 의미 그리고 평점 관람평 후기</b></span> 알아보겠습니다.</p>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post184_img1.jpg', alt: '나이브스 아웃', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -46,8 +47,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>나이브스 아웃 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>나이브스 아웃 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post184_img2.jpg', alt: '나이브스 아웃 뜻 의미 해석 관람평 리뷰 < 로튼 토마토 평론가 극찬 재개봉 영화 >', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점은 97% , 관객 평점은 92%를 기록하였습니다.</b></span></p>'
@@ -70,6 +72,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>나이브스 아웃 뜻 의미 해석입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post184_img3.jpg', alt: '나이브스 아웃', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>나이브스 아웃 Knives Out<br/></span>칼날이 빠져 나왔다</b></span></blockquote>'
@@ -105,6 +108,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>나이브스 아웃 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post184_img9.jpg', alt: '나이브스 아웃 뜻 의미 해석 관람평 리뷰 < 로튼 토마토 평론가 극찬 재개봉 영화 >', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post184_img8.jpg', alt: '나이브스 아웃', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post184_img7.jpg', alt: '나이브스 아웃', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post184_img6.jpg', alt: '나이브스 아웃', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post184_img5.jpg', alt: '나이브스 아웃', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post184_img4.jpg', alt: '나이브스 아웃', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Calum Cooper 5/5</span></i><br/>이 영화는 여러 캐릭터들이 이야기에 잘 녹아들 수 있도록 치밀하게 구성되었을 뿐만 아니라, 미스터리를 접근하는 방식이 아주 교묘하고 똑똑하다.</p>'

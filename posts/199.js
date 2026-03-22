@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>브로드웨이 뮤지컬로 큰 성공을 거둔 작품 <b>위키드가 판타지 뮤지컬 영화로 개봉</b>합니다.</p><p><span style=&quot;background-color: #ffffff;&quot;><b>11월 20일 개봉한 영화 위키드는 오즈의 마법사의 프리퀄로</b>,</span> 서쪽 마녀 엘파바와 착한 마녀 글린다의 이야기를 중심으로 합니다.</p><p>두 인물은 성격과 가치관이 완전히 다르지만 우정을 쌓아가는 과정을 통해 예상치 못한 모험과 갈등을 겪습니다. </p><blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>아리아나 그란데<br>착한 마녀 글린다 역</br></span></b></span></blockquote><p><span style=&quot;background-color: #ffffff;&quot;><b>이번 영화는 2부작으로 제작되었으며, 2024년 11월 20일 파트 1이 개봉될 예정입니다. </b></span></p><p>감독은 존 추, 출연진으로는 신시아 에리보(엘파바 역)와 아리아나 그란데(글린다 역)가 등장해 기대를 모으고 있습니다.</p><p>영화의 주요 테마는 자신을 이해하고 진정한 정체성을 찾아가는 과정입니다.</p><p><span style=&quot;background-color: #f3c000;&quot;><b>이번 포스팅에서는 현재상영작 영화 제목인 위키드의 뜻 의미 해석, 그리고 원작 소설 뮤지컬 줄거리 내용에 대해서 알아보도록 하겠습니다.</b></span></p>'
+      html: '<p>브로드웨이 뮤지컬로 큰 성공을 거둔 작품 <b>위키드가 판타지 뮤지컬 영화로 개봉</b>합니다.</p><p><span style=&quot;background-color: transparent;&quot;><b>11월 20일 개봉한 영화 위키드는 오즈의 마법사의 프리퀄로</b>,</span> 서쪽 마녀 엘파바와 착한 마녀 글린다의 이야기를 중심으로 합니다.</p><p>두 인물은 성격과 가치관이 완전히 다르지만 우정을 쌓아가는 과정을 통해 예상치 못한 모험과 갈등을 겪습니다. </p><blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>아리아나 그란데<br>착한 마녀 글린다 역</br></span></b></span></blockquote><p><span style=&quot;background-color: transparent;&quot;><b>이번 영화는 2부작으로 제작되었으며, 2024년 11월 20일 파트 1이 개봉될 예정입니다. </b></span></p><p>감독은 존 추, 출연진으로는 신시아 에리보(엘파바 역)와 아리아나 그란데(글린다 역)가 등장해 기대를 모으고 있습니다.</p><p>영화의 주요 테마는 자신을 이해하고 진정한 정체성을 찾아가는 과정입니다.</p><p><span style=&quot;background-color: #f3c000;&quot;><b>이번 포스팅에서는 현재상영작 영화 제목인 위키드의 뜻 의미 해석, 그리고 원작 소설 뮤지컬 줄거리 내용에 대해서 알아보도록 하겠습니다.</b></span></p>'
     },
     {
       type: 'image',
@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post199_img1.jpg', alt: '현재상영작 영화 위키드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -48,6 +49,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>위키드(Wicked)<br/></span>사악한</b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post199_img2.jpg', alt: '현재상영작 영화 위키드', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>영화 제목 위키드의 뜻은 사악한 입니다.</p>'
@@ -82,6 +84,7 @@ const post = {
       type: 'body',
       html: '<p>영화는 서쪽의 초록 마녀 <b>엘파바</b>와 북쪽의 착한 마녀 <b>글린다</b>가 오즈의 땅에서 겪는 이야기를 그립니다. 엘파바는 초록 피부 때문에 어릴 때부터 따돌림을 당했지만, 강한 마법 능력을 가진 인물입니다. 대학에서 글린다와 룸메이트가 되며 처음에는 갈등을 겪지만, 서로를 이해하면서 우정을 쌓아갑니다.</p>'
     },
+    { type: 'image', src: '/images/post199_img3.jpg', alt: '위키드 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이들의 모험은 <b>오즈 세계의 정치적, 사회적 이슈와 맞물립니다.</b> 오즈에서 동물들이 억압당하며 말을 잃어가는 현실을 알게 된 엘파바는 그들을 구하기 위해 싸우기로 결심합니다. 그녀는 오즈의 마법사를 만나 동물들을 구하고 싶어 하지만, <span style=&quot;background-color: #f3c000;&quot;><b>마법사가 동물 억압 정책의 중심에 있다는 사실을 알게 되면서 대립</b></span>하게 됩니다.</p>'
@@ -101,6 +104,12 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 위키드의 주요 출연진과 등장인물입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post199_img9.jpg', alt: '위키드 제프 골드블룸', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post199_img8.jpg', alt: '위키드 아리아나 그란데', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post199_img7.jpg', alt: '위키드 신시아 에리보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post199_img6.jpg', alt: '위키드 줄거리 내용', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post199_img5.jpg', alt: '위키드 줄거리 내용', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post199_img4.jpg', alt: '위키드 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>엘파바 (신시아 에리보)</b>: 초록 피부를 가진 마녀로, 강력한 마법 능력을 지녔지만 사회에서 소외된 인물</li> </ul>'

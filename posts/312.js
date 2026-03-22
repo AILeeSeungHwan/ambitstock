@@ -89,6 +89,13 @@ const post = {
       type: 'body',
       html: '<p>다음 포스팅에서는 조커 2 시사회 후기 반응을 전해드리겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post312_img6.jpg', alt: '조커 2 폴리 아 되 제목 뜻 의미', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post312_img5.jpg', alt: '조커 2 폴리 아 되 제목 뜻 의미', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post312_img4.jpg', alt: '조커 2 폴리 아 되 제목 뜻 의미', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post312_img3.jpg', alt: '조커 2 폴리 아 되 제목 뜻 의미', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post312_img2.jpg', alt: '조커 2 폴리 아 되 제목 뜻 의미', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post312_img1.jpg', alt: '조커 2 폴리 아 되 제목 뜻 의미', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

@@ -50,6 +50,7 @@ const post = {
       type: 'body',
       html: '<p><b>뉴욕 코믹콘에서 공개된 크레이븐 더 헌터의 8분 오프닝은 강렬하고 잔인한 액션</b>을 선보였다.</p>'
     },
+    { type: 'image', src: '/images/post166_img1.jpg', alt: '크레이븐 더 헌터', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>주인공 크레이븐(에런 테일러-존슨 분)이 전투 중 곰덫, 도끼, 나무 그루터기 등을 사용해 적을 처치하는 모습은 <b>영화의 R등급을 잘 보여주는 장면</b>이었다.</p>'
@@ -77,6 +78,7 @@ const post = {
       type: 'body',
       html: '<p>평론가 Big Screen Leaks는 시사회 관람평에서 <b>크레이븐 더 헌터 영화를 &quot;탄탄한 작품&quot;이라 평가</b>하며,</p>'
     },
+    { type: 'image', src: '/images/post166_img2.jpg', alt: '크레이븐 더 헌터', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>특히 액션 연출과 배우의 몰입도 높은 연기를 높이 평가하였다.</p>'
@@ -95,6 +97,7 @@ const post = {
       type: 'body',
       html: '<p>크레이븐 더 헌터를 &quot;동물 애호가&quot;로 묘사한 설정은 일부 팬들 사이에서 논란을 일으켰다.</p>'
     },
+    { type: 'image', src: '/images/post166_img3.jpg', alt: '크레이븐 더 헌터', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이는 원작 캐릭터와의 차이점으로 지적되었으나,</p>'
@@ -121,6 +124,8 @@ const post = {
       type: 'body',
       html: '<p><b>크레이븐 더 헌터</b>의 제목은 캐릭터의 이름과 그의 주요 정체성을 반영한다.</p>'
     },
+    { type: 'image', src: '/images/post166_img5.jpg', alt: '크레이븐 더 헌터', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post166_img4.jpg', alt: '크레이븐 더 헌터', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>&quot;크레이븐(Kraven)&quot;은 원작 만화에서 주인공인 \'크레이븐 오브러비치\'의 이름에서 따왔으며, 이 캐릭터는 전설적인 사냥꾼콘셉트이다.</p>'

@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p>더 에이트 쇼를 모두 보신 분들은 아시겠지만,선정적인 농담, 배우 천우희의 노출씬, 고어한 장면 연출, 고문<span style=&quot;color: #333333; text-align: start;&quot;><span> </span></span>등 호불호가 갈릴 요소들이 포함되어 있기에, 좋은 평가만을 받기엔 힘들것이라 예상하실 수 있으실 겁니다.</p>'
+      html: '<p>더 에이트 쇼를 모두 보신 분들은 아시겠지만,선정적인 농담, 배우 천우희의 노출씬, 고어한 장면 연출, 고문<span style=&quot;color: inherit; text-align: start;&quot;><span> </span></span>등 호불호가 갈릴 요소들이 포함되어 있기에, 좋은 평가만을 받기엔 힘들것이라 예상하실 수 있으실 겁니다.</p>'
     },
     {
       type: 'body',
@@ -293,6 +293,16 @@ const post = {
       type: 'body',
       html: '<p> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post410_img9.jpg', alt: '더 에이트 쇼', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post410_img8.jpg', alt: '더 에이트 쇼', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post410_img7.jpg', alt: '더 에이트 쇼', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post410_img6.jpg', alt: '더 에이트 쇼', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post410_img5.jpg', alt: '더 에이트 쇼', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post410_img4.jpg', alt: '더 에이트 쇼', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post410_img3.jpg', alt: '더 에이트 쇼', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post410_img2.jpg', alt: '넷플릭스 시리즈 드라마 더 에이트 쇼 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post410_img1.jpg', alt: '넷플릭스 시리즈 더 에이트 쇼', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p> </p>'

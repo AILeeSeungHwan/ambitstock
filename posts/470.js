@@ -8,7 +8,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: left;&quot;>드라마 <b><span style=&quot;background-color: #f3c000; color: #333333;&quot;>고려거란전쟁이 <span style=&quot;text-align: left;&quot;>KBS2 연말시상식을 </span></span></b><span style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>싹슬이</span></b>하였습니다.</span></p><p style=&quot;color: #333333; text-align: left;&quot;><b><span style=&quot;color: #333333; text-align: start;&quot;>작가상의 이정우작가님, 조연상에 이원종배우님</span></b></p><p style=&quot;color: #333333; text-align: left;&quot;><b><span style=&quot;color: #333333; text-align: start;&quot;>인기상에 지승현배우님, </span><span style=&quot;color: #333333; text-align: start;&quot;>베스트 커플상에 김동준배우님 최수종배우님 </span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: left;&quot;>드라마 <b><span style=&quot;background-color: #f3c000; color: inherit;&quot;>고려거란전쟁이 <span style=&quot;text-align: left;&quot;>KBS2 연말시상식을 </span></span></b><span style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>싹슬이</span></b>하였습니다.</span></p><p style=&quot;color: inherit; text-align: left;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>작가상의 이정우작가님, 조연상에 이원종배우님</span></b></p><p style=&quot;color: inherit; text-align: left;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>인기상에 지승현배우님, </span><span style=&quot;color: inherit; text-align: start;&quot;>베스트 커플상에 김동준배우님 최수종배우님 </span></b></p>'
     },
     {
       type: 'image',
@@ -20,19 +20,19 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: left;&quot;><b><span style=&quot;color: #333333; text-align: start;&quot;>우수상에 지승현 배우님, 최우수상에 김동준 배우님 </span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: left;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>우수상에 지승현 배우님, 최우수상에 김동준 배우님 </span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: left;&quot;><b><span style=&quot;color: #333333; text-align: start;&quot;>그리고 최수종 배우님이 <b><span style=&quot;color: #333333; text-align: start;&quot;>무려 16년만에 연기대상을</span></b> 수상하셨습니다.</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: left;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>그리고 최수종 배우님이 <b><span style=&quot;color: inherit; text-align: start;&quot;>무려 16년만에 연기대상을</span></b> 수상하셨습니다.</span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: left;&quot;>사극 명가 KBS의 저력은 한국인이라면 모두 알고 계실겁니다. 그렇다면 해외 관객들의 평가는 어떠할까요.</p>'
+      html: '<p style=&quot;color: inherit; text-align: left;&quot;>사극 명가 KBS의 저력은 한국인이라면 모두 알고 계실겁니다. 그렇다면 해외 관객들의 평가는 어떠할까요.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: left;&quot;>그리고 우리와 깊은 역사적인 관계를 지니고 있는 중국의 반응은 어떠할지 살펴보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: left;&quot;>그리고 우리와 깊은 역사적인 관계를 지니고 있는 중국의 반응은 어떠할지 살펴보겠습니다.</p>'
     },
     {
       type: 'body',
@@ -40,47 +40,47 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;><span style=&quot;color: #1a5490; background-color: #ffffff;&quot;><b>평점 8.1/10</b> </span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #1a5490; background-color: transparent;&quot;><b>평점 8.1/10</b> </span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><span style=&quot;background-color: #ffffff; color: #373a3c; text-align: start;&quot;>해외 아시아 드라마&amp;영화 평점 플랫폼 사이트인 mydramalist의 드라마 고려거란전쟁 평점입니다. </span></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><span style=&quot;background-color: transparent; color: #373a3c; text-align: start;&quot;>해외 아시아 드라마&amp;영화 평점 플랫폼 사이트인 mydramalist의 드라마 고려거란전쟁 평점입니다. </span></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><span style=&quot;background-color: #ffffff; color: #373a3c; text-align: start;&quot;>117명의 평가 중 8.1점을 기록하였습니다.</span></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><span style=&quot;background-color: transparent; color: #373a3c; text-align: start;&quot;>117명의 평가 중 8.1점을 기록하였습니다.</span></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><i><b>우리에게 필요한지 몰랐던 사극 드라마</b></i></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><i><b>우리에게 필요한지 몰랐던 사극 드라마</b></i></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★<span><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★<span><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b><span>  </span></span></b></span></span></b></span></b></span></span></span></b></span></span></b></span></b></span></b></span></span></b></span></b></span></span></b></span></span></b><span style=&quot;color: #000000;&quot;><span>9.</span>5/10</span></span></b></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★<span><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★ <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★<span><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b><span>  </span></span></b></span></span></b></span></b></span></span></span></b></span></span></b></span></b></span></b></span></span></b></span></b></span></span></b></span></span></b><span style=&quot;color: inherit;&quot;><span>9.</span>5/10</span></span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;>고려-거란 전쟁은 10~11세기 고려와 발해, 거란 제국 사이의 투쟁을 그린 사극이다.<span> </span>발해의 시조 대조영, 그의 거란 공주 아내 초린, 그의 라이벌이자 동지인 이해고, 그의 첫사랑이자 스파이인 석영 등 주인공들의 삶과 사랑을 그린 드라마입니다 .<br>드라마는 인상적인 제작, 의상, 세트로 잘 만들어졌습니다.<span> </span>배우들은 설득력 있는 연기를 선보이며 캐릭터의 복잡한 감정과 동기를 표현합니다.<span> </span>줄거리는 흥미롭고 긴장감이 넘치며 시청자를 사로잡는 우여곡절이 있습니다.<span> </span>이 드라마는 또한 충성심, 배신, 야망, 희생, 사랑이라는 주제를 현실적이고 미묘한 방식으로 탐구합니다.<br>하지만 드라마에 결함이 없는 것은 아닙니다.<span> </span>몇몇 에피소드는 불필요한 장면과 대사로 인해 너무 길어요.<span> </span>또한 일부 역사적 사실은 극적 목적을 위해 왜곡되거나 과장되어 실제 역사를 잘 알고 있는 시청자들에게 불쾌감을 줄 수도 있습니다.<span> </span>결말 또한 다소 성급하고 불만족스러워서 일부 느슨한 결말과 질문에 대한 답이 없습니다.<br/>전반적으로 지금까지의 고려-거란 전쟁은 시청자들에게 매력적이고 몰입도 높은 경험을 제공하는 탄탄한 역사 드라마였습니다.<span> 해당 </span>장르를 좋아하는 팬이나 한국과 거란의 역사와 문화에 관심이 있는 사람이라면 꼭 봐야 할 작품입니다.<span> </span>평점은 10점 만점에 8.5점 주고 싶습니다.</br></br></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>고려-거란 전쟁은 10~11세기 고려와 발해, 거란 제국 사이의 투쟁을 그린 사극이다.<span> </span>발해의 시조 대조영, 그의 거란 공주 아내 초린, 그의 라이벌이자 동지인 이해고, 그의 첫사랑이자 스파이인 석영 등 주인공들의 삶과 사랑을 그린 드라마입니다 .<br>드라마는 인상적인 제작, 의상, 세트로 잘 만들어졌습니다.<span> </span>배우들은 설득력 있는 연기를 선보이며 캐릭터의 복잡한 감정과 동기를 표현합니다.<span> </span>줄거리는 흥미롭고 긴장감이 넘치며 시청자를 사로잡는 우여곡절이 있습니다.<span> </span>이 드라마는 또한 충성심, 배신, 야망, 희생, 사랑이라는 주제를 현실적이고 미묘한 방식으로 탐구합니다.<br>하지만 드라마에 결함이 없는 것은 아닙니다.<span> </span>몇몇 에피소드는 불필요한 장면과 대사로 인해 너무 길어요.<span> </span>또한 일부 역사적 사실은 극적 목적을 위해 왜곡되거나 과장되어 실제 역사를 잘 알고 있는 시청자들에게 불쾌감을 줄 수도 있습니다.<span> </span>결말 또한 다소 성급하고 불만족스러워서 일부 느슨한 결말과 질문에 대한 답이 없습니다.<br/>전반적으로 지금까지의 고려-거란 전쟁은 시청자들에게 매력적이고 몰입도 높은 경험을 제공하는 탄탄한 역사 드라마였습니다.<span> 해당 </span>장르를 좋아하는 팬이나 한국과 거란의 역사와 문화에 관심이 있는 사람이라면 꼭 봐야 할 작품입니다.<span> </span>평점은 10점 만점에 8.5점 주고 싶습니다.</br></br></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;><u><span style=&quot;color: #ef6f53;&quot;><i>( 하지만 실제 평점은 9.5점을 주었다.)</i></span></u></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><u><span style=&quot;color: #ef6f53;&quot;><i>( 하지만 실제 평점은 9.5점을 주었다.)</i></span></u></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><i><b>첫인상 - 하드코어 시대극 팬에게만 해당</b></i></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><i><b>첫인상 - 하드코어 시대극 팬에게만 해당</b></i></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★<span><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★<span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★<span><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><span><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b></span></b></span></span></b></span></b></span></span></span></b></span></span></b></span></b></span></b></span></span></b></span></b></span></span></b></span></span></b></span></b> </span><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;background-color: #fdfdfd; color: #000000; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b><span><span> </span> </span></span></b></span></span></b></span></b></span></span></span></b></span></span></b></span></b></span></b></span></span></b></span></b></span></span></b></span></span></b><span style=&quot;color: #000000;&quot;>8.0/10</span></span></b></p>'
+      html: '<p style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★<span><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★<span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★<span><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> </span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;>★</span></b></span></span></b></span></b><span> <b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><span><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b></span></b></span></span></b></span></b></span></span></span></b></span></span></b></span></b></span></b></span></span></b></span></b></span></span></b></span></span></b></span></b> </span><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;>☆</span></span></b><span><span> </span> </span></span></b></span></span></b></span></b></span></span></span></b></span></span></b></span></b></span></b></span></span></b></span></b></span></span></b></span></span></b><span style=&quot;color: inherit;&quot;>8.0/10</span></span></b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;>나는 시대극, 특히 역사적 인물이나 사건을 바탕으로 한 드라마를 좋아합니다.<span> </span>이 쇼는 한국정부 문화단체의 후원을 받아 제작되었기 때문에 적어도 세트장이나 의상의 관점에서 볼 때 매우 현실적일 것입니다.<span> </span>그들은 (다른 많은 시대극에 비해) 역사적으로 다소 정확하지만 여전히 극적인 목적을 위해서라면 약간의 소금을 쳐도 문제없다고 받아들입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>나는 시대극, 특히 역사적 인물이나 사건을 바탕으로 한 드라마를 좋아합니다.<span> </span>이 쇼는 한국정부 문화단체의 후원을 받아 제작되었기 때문에 적어도 세트장이나 의상의 관점에서 볼 때 매우 현실적일 것입니다.<span> </span>그들은 (다른 많은 시대극에 비해) 역사적으로 다소 정확하지만 여전히 극적인 목적을 위해서라면 약간의 소금을 쳐도 문제없다고 받아들입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #000000; text-align: start;&quot;><i><u><span style=&quot;color: #ef6f53;&quot;>( <span style=&quot;background-color: #ffffff; text-align: start;&quot;>grain of salt for dramatic purposes -  <span style=&quot;text-align: start;&quot;>액면 그대로의 정직한 음식보다 소금을 쳐서 먹는게 더 맛있듯 </span>)</span></span></u></i><b><span style=&quot;color: #1a5490;&quot;></span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><i><u><span style=&quot;color: #ef6f53;&quot;>( <span style=&quot;background-color: transparent; text-align: start;&quot;>grain of salt for dramatic purposes -  <span style=&quot;text-align: start;&quot;>액면 그대로의 정직한 음식보다 소금을 쳐서 먹는게 더 맛있듯 </span>)</span></span></u></i><b><span style=&quot;color: #1a5490;&quot;></span></b></p>'
     },
     {
       type: 'body',
@@ -88,19 +88,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><b>평점 8.3/10</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><b>평점 8.3/10</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>미국의 영화 정보 모음 사이트인 IMDB 평점입니다. 전 세계 영화사이트 중 압도적 트래픽 유저 수를 보유하고 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>미국의 영화 정보 모음 사이트인 IMDB 평점입니다. 전 세계 영화사이트 중 압도적 트래픽 유저 수를 보유하고 있습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>76명의 평가 중 8.3점으로 좋은 평가를 기록하며<span style=&quot;background-color: #ffffff; color: #373a3c; text-align: start;&quot;> mydramaList와 비슷한 평점을 기록하고 있습니다.</span> </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>76명의 평가 중 8.3점으로 좋은 평가를 기록하며<span style=&quot;background-color: transparent; color: #373a3c; text-align: start;&quot;> mydramaList와 비슷한 평점을 기록하고 있습니다.</span> </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><b><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;>아래 자료를 통해<span> </span></span><span style=&quot;background-color: #fbfbfb; color: #333333; text-align: center;&quot;>&lt;고려거란전쟁&gt;에 대한</span><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;><span> </span>평점분포를 확인하실 수 있습니다. &lt;데이터 표본 76명&gt;</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><b><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;>아래 자료를 통해<span> </span></span><span style=&quot;background-color: #fbfbfb; color: inherit; text-align: center;&quot;>&lt;고려거란전쟁&gt;에 대한</span><span style=&quot;background-color: #fbfbfb; color: #555555; text-align: center;&quot;><span> </span>평점분포를 확인하실 수 있습니다. &lt;데이터 표본 76명&gt;</span></b></p>'
     },
     {
       type: 'body',
@@ -212,7 +212,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>고려거란전쟁은 <b><span style=&quot;background-color: #f3c000; color: #333333;&quot;>총 32부작으로 24년 3월 3일 종영 예정</span></b>입니다. 1화 5.5% 시청률을 시작으로 꾸준히 상승하여 현재 <b><span style=&quot;background-color: #f3c000; color: #333333;&quot;>9%~11% 사이의 시청률</span></b>을 유지하고 있습니다.</p>'
+      html: '<p>고려거란전쟁은 <b><span style=&quot;background-color: #f3c000; color: inherit;&quot;>총 32부작으로 24년 3월 3일 종영 예정</span></b>입니다. 1화 5.5% 시청률을 시작으로 꾸준히 상승하여 현재 <b><span style=&quot;background-color: #f3c000; color: inherit;&quot;>9%~11% 사이의 시청률</span></b>을 유지하고 있습니다.</p>'
     },
     {
       type: 'body',
@@ -230,6 +230,13 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: left;&quot;>구독 및 즐겨찾기로 궁금하신 내용 빠르게 확인해보세요.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post470_img6.jpg', alt: '[고려거란전쟁 중국 반응 및 해외 평점 시청률 몇부작 종영일] 몰래보는 중국의 비아냥? - 넷플릭스 현재 상영작 재방송 다시보기 편성표 정보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post470_img5.jpg', alt: '[고려거란전쟁 중국 반응 및 해외 평점 시청률 몇부작 종영일] 몰래보는 중국의 비아냥? - 넷플릭스 현재 상영작 재방송 다시보기 편성표 정보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post470_img4.jpg', alt: '[고려거란전쟁 중국 반응 및 해외 평점 시청률 몇부작 종영일] 몰래보는 중국의 비아냥? - 넷플릭스 현재 상영작 재방송 다시보기 편성표 정보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post470_img3.jpg', alt: '[고려거란전쟁 중국 반응 및 해외 평점 시청률 몇부작 종영일] 몰래보는 중국의 비아냥? - 넷플릭스 현재 상영작 재방송 다시보기 편성표 정보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post470_img2.jpg', alt: '[고려거란전쟁 중국 반응 및 해외 평점 시청률 몇부작 종영일] 몰래보는 중국의 비아냥? - 넷플릭스 현재 상영작 재방송 다시보기 편성표 정보', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post470_img1.jpg', alt: '[고려거란전쟁 중국 반응 및 해외 평점 시청률 몇부작 종영일] 몰래보는 중국의 비아냥? - 넷플릭스 현재 상영작 재방송 다시보기 편성표 정보', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: left;&quot;>감사합니다.</p>'

@@ -47,15 +47,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>하지만 이와 관련된 구체적인 진짜 목적, 그리고 배후 세력의 존재에 대한 의문은 풀리지 않은 상태입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>하지만 이와 관련된 구체적인 진짜 목적, 그리고 배후 세력의 존재에 대한 의문은 풀리지 않은 상태입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>미국에 폭군 프로그램을 뺏기지 않기 위해 자결한 사 국장의 제대로 된 과거 스토리가 &quot;폭군 시즌 2&quot;에서 상세히 다뤄질 것입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>미국에 폭군 프로그램을 뺏기지 않기 위해 자결한 사 국장의 제대로 된 과거 스토리가 &quot;폭군 시즌 2&quot;에서 상세히 다뤄질 것입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>( 이와 더불어 국제적 음모에 대한 내용은 포스팅 마지막 )</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>( 이와 더불어 국제적 음모에 대한 내용은 포스팅 마지막 )</p>'
     },
     {
       type: 'body',
@@ -67,7 +67,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>다양한 인물들이 이 바이러스를 찾기 위해 고군분투했지만, 최종적으로 그 행방이 밝혀지지 않았습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>다양한 인물들이 이 바이러스를 찾기 위해 고군분투했지만, 최종적으로 그 행방이 밝혀지지 않았습니다.</p>'
     },
     {
       type: 'body',
@@ -115,15 +115,22 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>역시 MCU의 디즈니는 이러한 Sci-Fi(Science-Fiction) 초능력 장르를 키우는 것에 진심인 것 같습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>역시 MCU의 디즈니는 이러한 Sci-Fi(Science-Fiction) 초능력 장르를 키우는 것에 진심인 것 같습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>디즈니 플러스 폭군, 박훈정 감독 유니버스의 서막이 시작됩니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>디즈니 플러스 폭군, 박훈정 감독 유니버스의 서막이 시작됩니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post337_img6.jpg', alt: '디즈니 플러스 드라마 폭군 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post337_img5.jpg', alt: '디즈니 플러스 드라마 폭군 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post337_img4.jpg', alt: '디즈니 플러스 드라마 폭군 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post337_img3.jpg', alt: '디즈니 플러스 드라마 폭군 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post337_img2.jpg', alt: '디즈니 플러스 드라마 폭군 시즌 2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post337_img1.jpg', alt: '디즈니 플러스 드라마 폭군 시즌 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>다음 포스팅에서는 폭군 해외 평점과 후기반응 살펴보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>다음 포스팅에서는 폭군 해외 평점과 후기반응 살펴보겠습니다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

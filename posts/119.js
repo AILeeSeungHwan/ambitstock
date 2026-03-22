@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 대도시의 사랑법이 2024년 12월 30일 넷플릭스에 공개되었습니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post119_img1.jpg', alt: '대도시의 사랑법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2024년 10월 01일 개봉한 영화로 <span style=&quot;background-color: #9feec3;&quot;><b>3개월 정도 되는 시점에 OTT에 공개</b></span>되며, 디즈니 플러스와 마찬가지로 개봉 후 3개월 OTT 공식이 이어지는 모습입니다.</p>'
@@ -45,6 +46,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post119_img2.jpg', alt: '대도시의 사랑법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-drama-recommend-netflix/',
@@ -70,6 +72,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>미친X과 게이가 만났다! <br>바야흐로 애니멀 라이프가 <br>시작된 것이다.</br></br></span> </b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post119_img3.jpg', alt: '대도시의 사랑법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>시선을 사로잡는 과감한 스타일과 남의 시선을 의식하지 않는 당당한 애티튜드로 모두의 관심을 끄는 자유로운 영혼, 재희. 그런 재희가 특별히 관심을 두지 않던 흥수에게 위기가 찾아온다.</p>'
@@ -113,6 +116,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 대도시의 사랑법의 영어제목은 Love In the Big City 입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post119_img4.jpg', alt: '대도시의 사랑법 해외 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>한국어 제목과 동일한 제목을 채택한 것을 알 수 있습니다.</p>'
@@ -125,8 +129,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>대도시의 사랑법 해외 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>대도시의 사랑법 해외 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post119_img5.jpg', alt: '대도시의 사랑법 해외 결말후기 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>해외 시청자 평점 7.6점으로 높은 평점을 기록하였습니다.</b></span></p>'
@@ -149,6 +154,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>대도시의 사랑법 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post119_img6.jpg', alt: '대도시의 사랑법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;808&quot; data-origin-width=&quot;565&quot;><span data-alt=&quot;대도시의 사랑법 해외 결말후기 관람평&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cdVHds/btsLAwUeGZo/AAAAAAAAAAAAAAAAAAAAANq8On1E5qMzV5wVQordwORtFOPFRU6AUkjWCpvQINBS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=flrJwUNJusyC98DnJzUDpUs47P4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cdVHds/btsLAwUeGZo/AAAAAAAAAAAAAAAAAAAAANq8On1E5qMzV5wVQordwORtFOPFRU6AUkjWCpvQINBS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=flrJwUNJusyC98DnJzUDpUs47P4%3D&quot;></span><figcaption>대도시의 사랑법 해외 결말후기 관람평</figcaption> </figure> </p>'
@@ -183,6 +189,9 @@ const post = {
       type: 'body',
       html: '<p><b>평점 2.5/5</b><br/>그다지 나쁘지는 않지만, 내가 가장 좋아하는 영화는 아니다. 그저 라임 같은 느낌이다.</p>'
     },
+    { type: 'image', src: '/images/post119_img9.jpg', alt: '대도시의 사랑법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post119_img8.jpg', alt: '대도시의 사랑법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post119_img7.jpg', alt: '대도시의 사랑법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>평점 4/5</b><br/>의미 있고, 사랑스럽고, 친절하다 💖</p>'

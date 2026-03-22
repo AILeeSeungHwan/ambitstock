@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post168_img1.jpg', alt: '공각기동대', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-overseas-critic-rating-guide/',
@@ -52,8 +53,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>공각기동대 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>공각기동대 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post168_img2.jpg', alt: '공각기동대 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 95%, 관객 평점은 89%를 기록하였습니다.</b></span></p>'
@@ -77,6 +79,11 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>공각기동대 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post168_img7.jpg', alt: '공각기동대', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post168_img6.jpg', alt: '공각기동대', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post168_img5.jpg', alt: '공각기동대', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post168_img4.jpg', alt: '공각기동대', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post168_img3.jpg', alt: '공각기동대', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Rachel Wagner - 평점 없음</b><br>공각기동대는 놀라운 애니메이션을 자랑하는 SF 클래식이다.</br></p>'

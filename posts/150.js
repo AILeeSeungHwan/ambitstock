@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>2025년 최고 기대작이라 한다면 봉준호 감독의 신작 미키 17 일 것입니다.</p>'
     },
+    { type: 'image', src: '/images/post150_img1.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>봉준호 감독이라는 명장과 워너브라더스가 제작을 맡아 큰 기대를 모으고 있으며, 2025년 1월 개봉을 앞두고 있었습니다.</p>'
@@ -49,6 +50,7 @@ const post = {
       type: 'body',
       html: '<p><b>에드워드 애쉬튼의 소설 <i>\'미키 7\'</i>을 원작으로 하는 영화 미키17은</b>, 우주 개척과 복제 인간이라는 흥미로운 소재를 다룹니다.</p>'
     },
+    { type: 'image', src: '/images/post150_img2.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>주연으로는 로버트 패틴슨, 마크 러팔로, 나오미 애키, 토니 콜렛 등이 캐스팅되어 많은 영화 팬들의 기대를 받고 있죠. 현재까지 공식 시사회는 진행되지 않았지만, 내부 관계자와 일부 관객을 대상으로 한 비공식 테스트 시사회가 열렸으며, 이에 대한 후기가 조금씩 공개되고 있습니다.</p>'
@@ -68,6 +70,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>로버트 패틴슨의 연기는<br>마치 \'파이트 클럽\'의 <br>브래드 피트를 떠올리게 하는 <br/>강렬함이 있다.</br></br></span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post150_img3.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>한 테스트 시사회에 참석한 관계자는 &quot;봉준호 감독 특유의 연출과 분위기가 돋보이는 작품이다. 영화의 스토리는 철학적이며, 관객에게 우주 개척과 인간의 본질에 대해 깊은 고민을 던진다. 특히, 로버트 패틴슨의 연기는 탁월하며, 그의 1인 2역 연기는 영화를 더욱 몰입감 있게 만든다. <b>마치 <i>\'파이트 클럽\'</i>의 브래드 피트를 떠올리게 하는 강렬함이 있다.&quot;</b>라고 전했습니다.</p>'
@@ -87,6 +90,7 @@ const post = {
       type: 'body',
       html: '<p>그러나 일부 시사회 반응은 다소 엇갈렸습니다.</p>'
     },
+    { type: 'image', src: '/images/post150_img4.jpg', alt: '미키 17 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>워너브라더스 내부 시사회에서 일부 간부들은 영화의 완성도와 상업적 성공 가능성에 대한 우려를 표한 것</b>으로 전하였고,</p>'
@@ -109,6 +113,7 @@ const post = {
       type: 'body',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;이 작품은 인간 존재의 본질과 <br/>우주 개척이라는 거대한 주제를 다룬다. <br/>관객들이 스스로 질문하고 <br/>답을 찾을 수 있도록 설계된 영화다.&quot;</span></b></span></blockquote>'
     },
+    { type: 'image', src: '/images/post150_img5.jpg', alt: '미키 17 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>테스트 시사회에 대한 다양한 반응에도 불구하고, 봉준호 감독의 이름만으로도 <i>\'미키 17\'</i>은 충분히 화제를 모으고 있습니다.</p>'
@@ -135,6 +140,11 @@ const post = {
       type: 'body',
       html: '<p>2025년 1월로 예정되어 있던 <b>\'미키17\'의 개봉은 시사회 후기 반응에서 볼 수 있듯 작품의 흥행이 주 이유가 될 수 있겠지만, 오피셜로는 부활절 연휴 현지 대목 시즌을 고려하여 2025년 4월 18일로 개봉일을 변경</b>하였다고 전해집니다.</p>'
     },
+    { type: 'image', src: '/images/post150_img10.jpg', alt: '미키 17', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post150_img9.jpg', alt: '미키 17 봉준호 로버트 패틴슨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post150_img8.jpg', alt: '미키 17 로버트 패틴슨', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post150_img7.jpg', alt: '미키 17 봉준호', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post150_img6.jpg', alt: '미키 17 포토', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>공식 시사회와 평론가들의 리뷰는 추후 공개될 예정이며, 추가되는 정보에 대해서도 함께 전해드리도록 하겠습니다.</p>'

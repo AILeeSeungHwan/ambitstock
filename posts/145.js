@@ -29,6 +29,7 @@ const post = {
       type: 'body',
       html: '<h3>줄거리</h3>'
     },
+    { type: 'image', src: '/images/post145_img1.jpg', alt: '조명가게', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>어두운 골목 끝을 밝히는 유일한 곳 ‘조명가게’에 어딘가 수상한 비밀을 가진 손님들이 찾아오면서 벌어지는 이야기</b></p>'
@@ -99,6 +100,18 @@ const post = {
       type: 'body',
       html: '<h3>시즌 2가 확실히 필요했다.</h3>'
     },
+    { type: 'image', src: '/images/post145_img13.jpg', alt: '조명가게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post145_img12.jpg', alt: '조명가게 해외 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post145_img11.jpg', alt: '조명가게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post145_img10.jpg', alt: '조명가게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post145_img9.jpg', alt: '조명가게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post145_img8.jpg', alt: '조명가게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post145_img7.jpg', alt: '조명가게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post145_img6.jpg', alt: '조명가게', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post145_img5.jpg', alt: '조명가게 해외 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post145_img4.jpg', alt: '조명가게 해외 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post145_img3.jpg', alt: '조명가게 해외 리뷰', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post145_img2.jpg', alt: '조명가게 출연진', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>평점 8/10</b></p>'

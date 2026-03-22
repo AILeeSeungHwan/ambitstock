@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>넷플릭스에서 볼만한 애니에이션을 찾으신다면?</b></span></p>'
     },
+    { type: 'image', src: '/images/post109_img1.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>고민 없이 이 작품을 꼭 보세요! <b>월레스와 그로밋: 복수의 날개</b>입니다.</p>'
@@ -33,7 +34,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>실제 찰흙, 지점토로 애니메이션을 만들고 스톱모션으로 제작한 이 영화, 과연 어떤 평가를 받고 있는지,<span> </span><b>비하인드 씬과 함께 평론가 평점과 후기 함께 살펴보겠습니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>실제 찰흙, 지점토로 애니메이션을 만들고 스톱모션으로 제작한 이 영화, 과연 어떤 평가를 받고 있는지,<span> </span><b>비하인드 씬과 함께 평론가 평점과 후기 함께 살펴보겠습니다.</b></p>'
     },
     {
       type: 'body',
@@ -49,6 +50,7 @@ const post = {
       type: 'body',
       html: '<p>한국 영화계 <b>평론가 양대산맥 박평식 평론가의 평점 9점 영화 모음</b>입니다.</p>'
     },
+    { type: 'image', src: '/images/post109_img2.jpg', alt: '박평식 영화추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>평생토록 만점영화가 없었던 평론가이기에, <b>9점을 준 영화들이 주는 만족감</b>이 상당하실 겁니다.</p>'
@@ -79,6 +81,7 @@ const post = {
       type: 'body',
       html: '<p><b>최첨단 발명품을 만든 월레스. </b></p>'
     },
+    { type: 'image', src: '/images/post109_img3.jpg', alt: '이동진 영화추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>그런데 이 발명품이 제멋대로 작동하면서, 수상한 범죄에 대한 누명까지 쓰게 된다.</p>'
@@ -100,8 +103,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>월레스와 그로밋: 복수의 날개 로튼 토마토 평론가 평점이다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>월레스와 그로밋: 복수의 날개 로튼 토마토 평론가 평점이다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post109_img4.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;352&quot; data-origin-width=&quot;1120&quot;><span data-alt=&quot;월레스와 그로밋: 복수의 날개 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/vDGkA/btsLEjF5XwI/AAAAAAAAAAAAAAAAAAAAABEZwmF1jirWAppmMvYNbXXvr00lEE6dpW0rYigPdLgy/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=eZj2wGIAfsxX0AZAjTpqu6aPUBc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/vDGkA/btsLEjF5XwI/AAAAAAAAAAAAAAAAAAAAABEZwmF1jirWAppmMvYNbXXvr00lEE6dpW0rYigPdLgy/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=eZj2wGIAfsxX0AZAjTpqu6aPUBc%3D&quot;></span><figcaption>월레스와 그로밋: 복수의 날개 평점</figcaption> </figure> </p>'
@@ -128,6 +132,17 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>월레스와 그로밋: 복수의 날개 평론가 관람 후기입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post109_img15.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post109_img14.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post109_img13.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post109_img12.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post109_img11.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post109_img10.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post109_img9.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post109_img8.jpg', alt: '월레스와 그로밋 : 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post109_img7.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post109_img6.jpg', alt: '월레스와 그로밋: 복수의 날개', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post109_img5.jpg', alt: '월레스와 그로밋: 복수의 날개 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;572&quot; data-origin-width=&quot;1035&quot;><span data-alt=&quot;월레스와 그로밋: 복수의 날개&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/WxEW7/btsLCEx66EX/AAAAAAAAAAAAAAAAAAAAAHJIcrukfgWk8yKKmEk8lbJ1g-M8tqNkja__hTUcPlTk/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=r%2F1rpohCNjls%2FuPFzzz%2FNhtKkeQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/WxEW7/btsLCEx66EX/AAAAAAAAAAAAAAAAAAAAAHJIcrukfgWk8yKKmEk8lbJ1g-M8tqNkja__hTUcPlTk/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=r%2F1rpohCNjls%2FuPFzzz%2FNhtKkeQ%3D&quot;></span><figcaption>월레스와 그로밋: 복수의 날개</figcaption> </figure> </p>'

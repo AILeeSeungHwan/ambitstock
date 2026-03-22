@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p>영화 <b>하얼빈</b>은 <span style=&quot;background-color: #9feec3;&quot;><b>토론토국제영화제(TIFF)에서 월드 프리미어</b></span>로 처음 공개되었으며,</p>'
     },
+    { type: 'image', src: '/images/post156_img1.jpg', alt: '하얼빈 시사회 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이 시사회는 현지 언론과 관객들에게 큰 관심을 받았습니다.</p>'
@@ -41,6 +42,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post156_img2.jpg', alt: '하얼빈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -80,6 +82,7 @@ const post = {
       type: 'body',
       html: '<h4><b>1. 긴장감 넘치는 연출 - 역시 우민호!</b></h4>'
     },
+    { type: 'image', src: '/images/post156_img3.jpg', alt: '하얼빈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>우민호 감독의 <b>치밀한 연출과 몰입감 높은 전개</b>가 관객들로부터 찬사를 받았습니다.</p>'
@@ -127,6 +130,7 @@ const post = {
       type: 'body',
       html: '<h4><b>1. 다소 느린 템포</b></h4>'
     },
+    { type: 'image', src: '/images/post156_img4.jpg', alt: '하얼빈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>일부 관객들은 <b>중간 부분이 조금 늘어진다는 느낌</b>을 받았다는 의견을 제시했습니다.</p>'
@@ -165,6 +169,11 @@ const post = {
       type: 'body',
       html: '<p>토론토국제영화제에서 <b>하얼빈의 평가는 부정적인 평가보다는 긍정적인 평가가 지배적이었습니다.</b></p>'
     },
+    { type: 'image', src: '/images/post156_img9.jpg', alt: '하얼빈 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post156_img8.jpg', alt: '하얼빈 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post156_img7.jpg', alt: '하얼빈 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post156_img6.jpg', alt: '하얼빈 포토', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post156_img5.jpg', alt: '하얼빈', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이번 겨울 극장가에서 큰 주목을 받는 작품으로 자리 잡을 가능성을 보여주었으며, 실제로 12월 가장 기대되는 작품 중 하나입니다.</p>'

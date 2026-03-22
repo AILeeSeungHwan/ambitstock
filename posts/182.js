@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post182_img1.jpg', alt: '이처럼 사소한 것들', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/netflix-movie-recommend-guide-top-10/',
@@ -56,8 +57,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>이처럼 사소한 것들 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>이처럼 사소한 것들 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post182_img2.jpg', alt: '이처럼 사소한 것들', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;614&quot; data-origin-width=&quot;1868&quot;><span data-alt=&quot;이처럼 사소한 것들 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/vhzjA/btsKQ7GVDXK/AAAAAAAAAAAAAAAAAAAAANT3GobKT2CC27DOo_4FEJ3rNpjEIkR-JnpAUtOvwQow/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=zERwcbXlLSeexS2nNK9kPqAYzgU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/vhzjA/btsKQ7GVDXK/AAAAAAAAAAAAAAAAAAAAANT3GobKT2CC27DOo_4FEJ3rNpjEIkR-JnpAUtOvwQow/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=zERwcbXlLSeexS2nNK9kPqAYzgU%3D&quot;></span><figcaption>이처럼 사소한 것들 로튼 토마토 평점</figcaption> </figure> </p>'
@@ -88,6 +90,15 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>이처럼 사소한 것들 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post182_img11.jpg', alt: '이처럼 사소한 것들 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post182_img10.jpg', alt: '이처럼 사소한 것들 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post182_img9.jpg', alt: '이처럼 사소한 것들 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post182_img8.jpg', alt: '이처럼 사소한 것들 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post182_img7.jpg', alt: '이처럼 사소한 것들 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post182_img6.jpg', alt: '이처럼 사소한 것들 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post182_img5.jpg', alt: '이처럼 사소한 것들 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post182_img4.jpg', alt: '이처럼 사소한 것들 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post182_img3.jpg', alt: '이처럼 사소한 것들 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Stefan Pape - 평점 없음</b><br>이 영화는 감정적으로 깊이 있는 소설인 클레어 키건의 작품을 바탕으로 하여, 뛰어난 연기들이 더해져 강한 인상을 남긴다.</br></p>'

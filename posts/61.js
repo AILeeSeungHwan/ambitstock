@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<h3>① 통신사 결합 할인</h3>'
     },
+    { type: 'image', src: '/images/post61_img1.jpg', alt: '넷플릭스 요금제 할인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>KT ‘넷플릭스 초이스’</b> : 인터넷·IPTV 결합 시 프리미엄 요금제를 무료 제공 → 연간 약 20만 원 절약</li> <li><b>SKT ‘넷플릭스 팩’</b> : 휴대폰 요금제에 넷플릭스 포함, 약 25% 절약</li> <li><b>LG U+ 결합</b> : 인터넷·TV 요금제와 묶으면 월 3천~5천 원 할인</li> </ul>'
@@ -82,6 +83,8 @@ const post = {
       type: 'body',
       html: '<p>넷플릭스 요금제는 통신사, 카드, 결제 경로, 계정 공유 방식에 따라 실제 비용 차이가 큽니다.</p>'
     },
+    { type: 'image', src: '/images/post61_img3.jpg', alt: '넷플릭스 요금제 할인', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post61_img2.jpg', alt: '넷플릭스 요금제 할인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 기준 가장 확실한 할인법은 <b>통신사 결합 + 카드 캐시백</b> 조합이에요. 여기에 가족 계정 공유까지 활용하면, 프리미엄 요금제를 1인당 월 3천~4천 원 수준으로 즐길 수 있습니다.</p>'

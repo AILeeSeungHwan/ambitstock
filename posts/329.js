@@ -67,7 +67,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>1.0점 - 영화의 투자에 대해 의문을 제기한다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>1.0점 - 영화의 투자에 대해 의문을 제기한다.</p>'
     },
     {
       type: 'body',
@@ -117,6 +117,15 @@ const post = {
       type: 'body',
       html: '<p>다음 포스팅에서 개봉예정 공포영화 정보전해드리겠습니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post329_img8.jpg', alt: '늘봄가든 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post329_img7.jpg', alt: '늘봄가든 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post329_img6.jpg', alt: '늘봄가든 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post329_img5.jpg', alt: '늘봄가든 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post329_img4.jpg', alt: '늘봄가든 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post329_img3.jpg', alt: '늘봄가든 네이버 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post329_img2.jpg', alt: '늘봄가든', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post329_img1.jpg', alt: '늘봄가든', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>감사합니다.</p>'

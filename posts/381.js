@@ -41,6 +41,18 @@ const post = {
       type: 'body',
       html: '<p><br/>- 스튜디오: 넷플릭스 애니메이션, 젤리피쉬 픽쳐스<br/>- 줄거리: <span style=&quot;background-color: #f3c000;&quot;><b>가장 불쾌하고 위험한 놀이공원</b></span> 트윗랜드를 운영하는 부부의 이야기<br/> <br/> <br/> <br/> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post381_img11.jpg', alt: '넷플릭스 공개 개봉 예정작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post381_img10.jpg', alt: '넷플릭스 공개 개봉 예정작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post381_img9.jpg', alt: '넷플릭스 공개 개봉 예정작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post381_img8.jpg', alt: '넷플릭스 공개 개봉 예정작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post381_img7.jpg', alt: '넷플릭스 공개 개봉 예정작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post381_img6.jpg', alt: '넷플릭스 공개 개봉 예정작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post381_img5.jpg', alt: '넷플릭스 공개 개봉 예정작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post381_img4.jpg', alt: '넷플릭스 공개 개봉 예정작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post381_img3.jpg', alt: '넷플릭스 공개 개봉 예정작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post381_img2.jpg', alt: '넷플릭스 공개 개봉 예정작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post381_img1.jpg', alt: '넷플릭스 공개 개봉 예정작 영화 추천', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><br/>- 스튜디오: 웨스트브룩 스튜디오<br/>- 줄거리: <span style=&quot;background-color: #f3c000;&quot;><b>초능력을 발견한 소녀가 자신의 기원을 찾기 위해</b></span> 나이지리아로 여행하며 펼쳐지는 사건들<br/> <br/> <br/>다음 포스팅에서는 넷플릭스의 새로운 오리지널 시리즈 콘텐츠들을 전해드리겠습니다.</p>'

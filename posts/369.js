@@ -18,7 +18,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;946&quot; data-origin-width=&quot;1342&quot;><span data-alt=&quot;2024년 8월 개봉예정작 총정리&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/c5f9LP/btsISU3Hd1z/AAAAAAAAAAAAAAAAAAAAABn7v6_2AUvU1gwphZv0236vYww7LmSiUxG5JxCQKDgc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uqFT2jZfBKe4WrTAmh2fHRMnxWY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/c5f9LP/btsISU3Hd1z/AAAAAAAAAAAAAAAAAAAAABn7v6_2AUvU1gwphZv0236vYww7LmSiUxG5JxCQKDgc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uqFT2jZfBKe4WrTAmh2fHRMnxWY%3D&quot;></span><figcaption>2024년 8월 개봉예정작 총정리</figcaption> </figure> </p><p><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;><b>2024년 8월 개봉 예정 작품들을 한눈에 정리해드립니다.</b></span></p><p style=&quot;color: #333333; text-align: start;&quot;>한국 영화부터 해외 블록버스터 영화까지 모든 작품들을 한번에 확인해보세요.</p>'
+      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;946&quot; data-origin-width=&quot;1342&quot;><span data-alt=&quot;2024년 8월 개봉예정작 총정리&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/c5f9LP/btsISU3Hd1z/AAAAAAAAAAAAAAAAAAAAABn7v6_2AUvU1gwphZv0236vYww7LmSiUxG5JxCQKDgc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uqFT2jZfBKe4WrTAmh2fHRMnxWY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/c5f9LP/btsISU3Hd1z/AAAAAAAAAAAAAAAAAAAAABn7v6_2AUvU1gwphZv0236vYww7LmSiUxG5JxCQKDgc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uqFT2jZfBKe4WrTAmh2fHRMnxWY%3D&quot;></span><figcaption>2024년 8월 개봉예정작 총정리</figcaption> </figure> </p><p><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;><b>2024년 8월 개봉 예정 작품들을 한눈에 정리해드립니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>한국 영화부터 해외 블록버스터 영화까지 모든 작품들을 한번에 확인해보세요.</p>'
     },
     {
       type: 'image',
@@ -30,16 +30,16 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>특히나 8월에는 모두가 기다리시는 작품들이 대거 개봉할 예정입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>특히나 8월에는 모두가 기다리시는 작품들이 대거 개봉할 예정입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;>볼 영화가 너무 많아 고민인 8월 개봉 예정 신작!</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;>볼 영화가 너무 많아 고민인 8월 개봉 예정 신작!</span></b></p>'
     },
     { type: 'image', src: '/images/post369_poster.jpg', alt: '포스트 369 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;>총 8개의 작품 시작합니다.</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;>총 8개의 작품 시작합니다.</span></b></p>'
     },
     {
       type: 'body',
@@ -79,7 +79,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p>사촌 무사와 함께 가수의 꿈을 품고 고향을 떠나 유럽행을 결심한 10대 소년 <span style=&quot;background-color: #ffffff;&quot;>세이두</span>.</p>'
+      html: '<p>사촌 무사와 함께 가수의 꿈을 품고 고향을 떠나 유럽행을 결심한 10대 소년 <span style=&quot;background-color: transparent;&quot;>세이두</span>.</p>'
     },
     {
       type: 'body',
@@ -163,15 +163,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff;&quot;>2142년, 암울한 미래를 피하려는 청년들이 더 나은 삶을 찾기 위해 식민지에서 탈출할 계획을 세운다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent;&quot;>2142년, 암울한 미래를 피하려는 청년들이 더 나은 삶을 찾기 위해 식민지에서 탈출할 계획을 세운다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff;&quot;>하지만 그들은 버려진 우주 기지 \'로물루스\'에 도착하면서 상상할 수 없는 공포를 맞닥뜨린다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent;&quot;>하지만 그들은 버려진 우주 기지 \'로물루스\'에 도착하면서 상상할 수 없는 공포를 맞닥뜨린다. </span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff;&quot;>무자비한 에이리언의 공격이 그들을 쫓고, 우주 한가운데서 생존을 위한 치열한 전투를 벌여야 한다. </span></p>'
+      html: '<p><span style=&quot;background-color: transparent;&quot;>무자비한 에이리언의 공격이 그들을 쫓고, 우주 한가운데서 생존을 위한 치열한 전투를 벌여야 한다. </span></p>'
     },
     {
       type: 'body',
@@ -245,6 +245,16 @@ const post = {
       type: 'body',
       html: '<p> </p>'
     },
+    ,
+    { type: 'image', src: '/images/post369_img9.jpg', alt: '2024년 8월 개봉 예정작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post369_img8.jpg', alt: '2024년 8월 개봉 예정작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post369_img7.jpg', alt: '2024년 8월 개봉 예정작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post369_img6.jpg', alt: '2024년 8월 개봉 예정작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post369_img5.jpg', alt: '2024년 8월 개봉 예정작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post369_img4.jpg', alt: '2024년 8월 개봉 예정작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post369_img3.jpg', alt: '2024년 8월 개봉 예정작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post369_img2.jpg', alt: '2024년 8월 개봉 예정작', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post369_img1.jpg', alt: '2024년 8월 개봉예정작 총정리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>도망칠 곳 없는 제주에서 이들의 쫓고 쫓기는 대환장 추격이 시작된다!</b></span></p>'

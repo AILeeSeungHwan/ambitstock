@@ -85,6 +85,16 @@ const post = {
       type: 'body',
       html: '<p>재미없어서 문제입니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post405_img9.jpg', alt: '넷플릭스 영화 가족이라서 문제입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post405_img8.jpg', alt: '넷플릭스 영화 가족이라서 문제입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post405_img7.jpg', alt: '넷플릭스 영화 가족이라서 문제입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post405_img6.jpg', alt: '넷플릭스 영화 가족이라서 문제입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post405_img5.jpg', alt: '넷플릭스 영화 가족이라서 문제입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post405_img4.jpg', alt: '넷플릭스 영화 <가족이라서 문제입니다> 볼만한 영화인가? 해외 평점 리뷰 반응', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post405_img3.jpg', alt: '넷플릭스 영화 가족이라서 문제입니다.', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post405_img2.jpg', alt: '넷플릭스 영화 가족이라서 문제입니다 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post405_img1.jpg', alt: '넷플릭스 영화 가족이라서 문제입니다.', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p>비 추천. 정말 킬링타임용으로 주말에 볼 게 없다면 시청하시길 추천합니다.</p>'

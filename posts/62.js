@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<table border=&quot;1&quot; cellpadding=&quot;10&quot; cellspacing=&quot;0&quot; data-ke-align=&quot;alignLeft&quot; style=&quot;border-collapse: collapse; width: 100%; text-align: center;&quot;> <thead> <tr> <th>요금제</th> <th>월 요금 (KRW)</th> <th>화질</th> <th>동시접속</th> <th>광고 여부</th> </tr> </thead> <tbody> <tr> <td><b>베이식 (광고형)</b></td> <td>5,500원</td> <td>Full HD (1080p)</td> <td>1명</td> <td>있음</td> </tr> <tr> <td><b>스탠다드</b></td> <td>13,500원</td> <td>Full HD (1080p)</td> <td>2명</td> <td>없음</td> </tr> <tr> <td><b>프리미엄</b></td> <td>17,000원</td> <td>4K + HDR</td> <td>4명</td> <td>없음</td> </tr> </tbody> </table>'
     },
+    { type: 'image', src: '/images/post62_img1.jpg', alt: '넷플릭스 VS 디즈니플러스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>넷플릭스는 광고형 요금제를 2024년부터 도입했지만, 2025년엔 <b>가격 동결</b>을 유지 중이에요. 가장 인기 있는 건 여전히 ‘스탠다드’지만, <b>화질·동시접속 제한</b>이 있어 가족 단위 사용자는 프리미엄으로 업그레이드하는 경우가 많습니다.</p>'
@@ -37,6 +38,7 @@ const post = {
       type: 'body',
       html: '<table border=&quot;1&quot; cellpadding=&quot;10&quot; cellspacing=&quot;0&quot; data-ke-align=&quot;alignLeft&quot; style=&quot;border-collapse: collapse; width: 100%; text-align: center;&quot;> <thead> <tr> <th>요금제</th> <th>월 요금 (KRW)</th> <th>화질</th> <th>동시접속</th> <th>광고 여부</th> </tr> </thead> <tbody> <tr> <td><b>베이식 (광고형)</b></td> <td>6,500원</td> <td>Full HD (1080p)</td> <td>2명</td> <td>있음</td> </tr> <tr> <td><b>스탠다드</b></td> <td>11,900원</td> <td>Full HD (1080p)</td> <td>2명</td> <td>없음</td> </tr> <tr> <td><b>프리미엄</b></td> <td>15,900원</td> <td>4K UHD + Dolby Vision</td> <td>4명</td> <td>없음</td> </tr> </tbody> </table>'
     },
+    { type: 'image', src: '/images/post62_img2.jpg', alt: '넷플릭스 요금제 2025', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>디즈니플러스는 2025년 초 요금 인상을 단행했습니다. 특히 <b>광고형 요금제</b>를 본격적으로 도입하면서 미국 시장 모델을 한국에도 적용했어요. 대신 프리미엄 요금제는 <b>4K + Dolby Atmos</b>를 지원해 화질·음질 면에서는 넷플릭스보다 우위라는 평가도 있습니다.</p>'
@@ -51,6 +53,7 @@ const post = {
       type: 'body',
       html: '<table border=&quot;1&quot; cellpadding=&quot;10&quot; cellspacing=&quot;0&quot; data-ke-align=&quot;alignLeft&quot; style=&quot;border-collapse: collapse; width: 100%; text-align: center;&quot;> <thead> <tr> <th>항목</th> <th>넷플릭스</th> <th>디즈니플러스</th> </tr> </thead> <tbody> <tr> <td>광고형 요금</td> <td>5,500원</td> <td>6,500원</td> </tr> <tr> <td>프리미엄 요금</td> <td>17,000원</td> <td>15,900원</td> </tr> <tr> <td>최대 화질</td> <td>4K HDR</td> <td>4K UHD + Dolby Vision</td> </tr> <tr> <td>동시접속</td> <td>최대 4명</td> <td>최대 4명</td> </tr> <tr> <td>오프라인 저장</td> <td>지원</td> <td>지원</td> </tr> <tr> <td>대표 콘텐츠</td> <td>브리저튼, 원피스, 더 크라운</td> <td>마블, 스타워즈, 픽사 시리즈</td> </tr> </tbody> </table>'
     },
+    { type: 'image', src: '/images/post62_img3.jpg', alt: '디즈니플러스 요금제 2025', caption: 'ⓒ R의 필름공장' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'h2',
@@ -62,6 +65,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>통신사 제휴</b> : SKT ‘디즈니+팩’, KT ‘넷플릭스 초이스 요금제’로 월 최대 20~30% 절약 가능</li> <li><b>연간 결제 할인</b> : 디즈니플러스는 연간 결제 시 <b>약 16% 할인</b></li> <li><b>카드사 혜택</b> : 현대·삼성·국민카드 등 주요 카드사 OTT 결제 시 포인트 적립 or 캐시백 제공</li> <li><b>구글·앱스토어 결제 주의</b> : 수수료 포함으로 웹 결제보다 비쌀 수 있음</li> </ul>'
     },
+    { type: 'image', src: '/images/post62_img4.jpg', alt: '넷플릭스 VS 디즈니', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section5',

@@ -108,6 +108,14 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;>아비 오퍼 - 평점: N/A</span> <br/>손자와 할머니의 관계를 따뜻하고 애정 어린 시선으로 그린 작품으로, 사랑과 연민을 촉구하는 항의의 메시지를 담고 있다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post260_img7.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post260_img6.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post260_img5.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post260_img4.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post260_img3.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post260_img2.jpg', alt: '할머니가 죽기 전 백만장자가 되는 법 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post260_img1.jpg', alt: '할머니가 죽기 전에 백만장자가 되는 법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'

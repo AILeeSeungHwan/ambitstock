@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2025년 1월 개봉예정영화 총정리입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post116_img1.jpg', alt: '2025년 1월 개봉예정작 총정리', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1156&quot; data-origin-width=&quot;1652&quot;><span data-alt=&quot;2025년 1월 개봉예정작 총정리&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/c5Zx7R/btsLBIMoVbt/AAAAAAAAAAAAAAAAAAAAAOoahfMCNHcFox4jTAIqgf11Z0pDdrQ9Sjw1U_J_rYDh/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=djXnXQlPE0f3bvaR%2FIm6LjTIyyk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/c5Zx7R/btsLBIMoVbt/AAAAAAAAAAAAAAAAAAAAAOoahfMCNHcFox4jTAIqgf11Z0pDdrQ9Sjw1U_J_rYDh/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=djXnXQlPE0f3bvaR%2FIm6LjTIyyk%3D&quot;></span><figcaption>2025년 1월 개봉예정작 총정리</figcaption> </figure> </p>'
@@ -41,11 +42,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff;&quot;><b>각 영화의 로튼 토마토 점수와 해외 평론가 관람평</b></span></p>'
+      html: '<p><span style=&quot;background-color: transparent;&quot;><b>각 영화의 로튼 토마토 점수와 해외 평론가 관람평</b></span></p>'
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff;&quot;><b> 제목 뜻에 대한 개별 포스팅 또한 준비</b></span>되었으니 함께 확인해 보시길 바랍니다.</p>'
+      html: '<p><span style=&quot;background-color: transparent;&quot;><b> 제목 뜻에 대한 개별 포스팅 또한 준비</b></span>되었으니 함께 확인해 보시길 바랍니다.</p>'
     },
     {
       type: 'body',
@@ -61,6 +62,7 @@ const post = {
       type: 'body',
       html: '<h3>수퍼 소닉 3 개봉일</h3>'
     },
+    { type: 'image', src: '/images/post116_img2.jpg', alt: '2025년 1월 개봉예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 1월 1일</p>'
@@ -100,9 +102,10 @@ const post = {
       type: 'body',
       html: '<h3>총을 든 스님 개봉일</h3>'
     },
+    { type: 'image', src: '/images/post116_img3.jpg', alt: '개봉예정영화 2025년 1월 추천 순위 총정리 TOP10', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>2025년 1월 1일</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>2025년 1월 1일</p>'
     },
     {
       type: 'body',
@@ -144,6 +147,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;806&quot; data-origin-width=&quot;1388&quot;><span data-alt=&quot;개봉예정영화 월레스와 그로밋: 복수의 날개&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/buuDPQ/btsLz0U0MlU/AAAAAAAAAAAAAAAAAAAAAORl-2n3gfP3OEAUBLovFlt5vERHgndWO4V7IwCQI4Wr/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Gb%2FyRwjXN7rziLSh%2B56M8slrE%2Fg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/buuDPQ/btsLz0U0MlU/AAAAAAAAAAAAAAAAAAAAAORl-2n3gfP3OEAUBLovFlt5vERHgndWO4V7IwCQI4Wr/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Gb%2FyRwjXN7rziLSh%2B56M8slrE%2Fg%3D&quot;></span><figcaption>개봉예정영화 월레스와 그로밋: 복수의 날개</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post116_img4.jpg', alt: '2025년 1월 개봉예정작', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>월레스와 그로밋 개봉일</h3>'
@@ -179,9 +183,10 @@ const post = {
       type: 'body',
       html: '<h3>쇼잉 업 개봉일</h3>'
     },
+    { type: 'image', src: '/images/post116_img5.jpg', alt: '총을 든 스님 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>2025년 1월 8일</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>2025년 1월 8일</b></p>'
     },
     {
       type: 'body',
@@ -189,7 +194,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>재능 있는 조각가인 리지는 새로운 전시를 준비하면서 예술가로서의 삶과 가족, 친구들 사이에서 균형을 맞추기 위해 고군분투한다. 리지는 자신이 사는 집의 주인이자 예술가 라이벌인 조와 자주 마찰을 빚고, 정신적으로 불안정한 오빠 숀의 상태도 신경 써야 하는 상황이다. 전시 개막일이 점점 가까워지는데, 리지는 과연 무사히 전시를 마칠 수 있을까?</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>재능 있는 조각가인 리지는 새로운 전시를 준비하면서 예술가로서의 삶과 가족, 친구들 사이에서 균형을 맞추기 위해 고군분투한다. 리지는 자신이 사는 집의 주인이자 예술가 라이벌인 조와 자주 마찰을 빚고, 정신적으로 불안정한 오빠 숀의 상태도 신경 써야 하는 상황이다. 전시 개막일이 점점 가까워지는데, 리지는 과연 무사히 전시를 마칠 수 있을까?</p>'
     },
     {
       type: 'body',
@@ -210,9 +215,10 @@ const post = {
       type: 'body',
       html: '<h3>개봉일</h3>'
     },
+    { type: 'image', src: '/images/post116_img6.jpg', alt: '개봉예정영화', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>2025년 1월 15일</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>2025년 1월 15일</p>'
     },
     {
       type: 'body',
@@ -220,7 +226,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>평론가 평점 83%, 관람객 평점 90%</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>평론가 평점 83%, 관람객 평점 90%</p>'
     },
     {
       type: 'body',
@@ -249,9 +255,10 @@ const post = {
       type: 'body',
       html: '<h3>개봉일</h3>'
     },
+    { type: 'image', src: '/images/post116_img7.jpg', alt: '개봉예정영화 쇼잉 업', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>2025년 1월 15일</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>2025년 1월 15일</p>'
     },
     {
       type: 'body',
@@ -280,6 +287,7 @@ const post = {
       type: 'body',
       html: '<h3>개봉일</h3>'
     },
+    { type: 'image', src: '/images/post116_img8.jpg', alt: '개봉예정영화 피스 바이 피스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>2025년 1월 15일</p>'
@@ -327,13 +335,14 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1538&quot; data-origin-width=&quot;1024&quot;><span data-alt=&quot;개봉예정영화 해리포터와 죽음의 성물2&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/A2lpR/btsLBKDmZQ3/AAAAAAAAAAAAAAAAAAAAAGAhRWf2oWX6Fba7DTFEc1uazWK5HlpVb9tHLhStuJpG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JawLFkPoq%2FMrSLxTUSUA6Bt3%2FQc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/A2lpR/btsLBKDmZQ3/AAAAAAAAAAAAAAAAAAAAAGAhRWf2oWX6Fba7DTFEc1uazWK5HlpVb9tHLhStuJpG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JawLFkPoq%2FMrSLxTUSUA6Bt3%2FQc%3D&quot;></span><figcaption>개봉예정영화 해리포터와 죽음의 성물2</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post116_img9.jpg', alt: '개봉예정영화 2025년 1월 추천 순위 총정리 TOP10', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>해리포터와 죽음의 성물 2 재개봉일</h3>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>2025년 1월 15일</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>2025년 1월 15일</p>'
     },
     {
       type: 'body',
@@ -341,7 +350,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><a href=&quot;/ style=&quot;color: #0070d1;&quot;>해리포터 시리즈의 모든 작품 인기 순위를 확인해 보세요 - 시리즈 추천 평점 TOP 8</a></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><a href=&quot;/ style=&quot;color: #0070d1;&quot;>해리포터 시리즈의 모든 작품 인기 순위를 확인해 보세요 - 시리즈 추천 평점 TOP 8</a></p>'
     },
     {
       type: 'cta',
@@ -358,6 +367,7 @@ const post = {
       type: 'body',
       html: '<h3>미키 17 개봉일</h3>'
     },
+    { type: 'image', src: '/images/post116_img10.jpg', alt: '개봉예정영화 노스페라투', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>개봉일, 해외 시사회 평가 아래 포스팅 확인</p>'
@@ -381,6 +391,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;304&quot; data-origin-width=&quot;726&quot;><span data-alt=&quot;반지의 제왕 로히개봉예정영화 반지의 제왕: 로히림의 전쟁림의 전쟁&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cKXGrV/btsLztC9Ob3/AAAAAAAAAAAAAAAAAAAAANjvcHwzjYU6CGmA9XNdngU3ZFpohT1RMl4YmSltbBRZ/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=5V4CTsomm%2FTO4NsRjq4fP%2BLpTDU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cKXGrV/btsLztC9Ob3/AAAAAAAAAAAAAAAAAAAAANjvcHwzjYU6CGmA9XNdngU3ZFpohT1RMl4YmSltbBRZ/tfile.dat?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=5V4CTsomm%2FTO4NsRjq4fP%2BLpTDU%3D&quot;></span><figcaption>반지의 제왕 로히개봉예정영화 반지의 제왕: 로히림의 전쟁림의 전쟁</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post116_img11.jpg', alt: '개봉예정영화 리얼 페인', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<h3>반지의 제왕: 로히림의 전쟁 개봉일</h3>'
@@ -395,7 +406,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #ffffff; color: #000000; text-align: start;&quot;>영화 &lt;반지의 제왕: 로히림의 전쟁&gt;은 &lt;반지의 제왕&gt; 시리즈보다 183년 앞선 로한을 배경으로, 로한의 위대한 왕 ‘헬름’과 그의 강인한 딸 ‘헤라’가 던랜드인을 이끌고 침입한 잔혹한 ‘울프’에 맞서 모든 것을 건 전투를 시작하는 운명적인 이야기를 그린 작품</span></p>'
+      html: '<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>영화 &lt;반지의 제왕: 로히림의 전쟁&gt;은 &lt;반지의 제왕&gt; 시리즈보다 183년 앞선 로한을 배경으로, 로한의 위대한 왕 ‘헬름’과 그의 강인한 딸 ‘헤라’가 던랜드인을 이끌고 침입한 잔혹한 ‘울프’에 맞서 모든 것을 건 전투를 시작하는 운명적인 이야기를 그린 작품</span></p>'
     },
     {
       type: 'body',
@@ -416,6 +427,9 @@ const post = {
       type: 'body',
       html: '<h3>2025년 1월 한국영화 개봉예정작 기대작 총정리</h3>'
     },
+    { type: 'image', src: '/images/post116_img14.jpg', alt: '개봉예정영화 반지의 제왕: 로히림의 전쟁', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post116_img13.jpg', alt: '개봉예정영화 미키 17', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post116_img12.jpg', alt: '개봉예정영화 해리포터와 죽음의 성물2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot;>2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5</a></p>'
@@ -431,7 +445,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: center;&quot;><a href=&quot;/ style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: start;&quot;>2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!</a></p>'
+      html: '<p style=&quot;color: inherit; text-align: center;&quot;><a href=&quot;/ style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: start;&quot;>2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!</a></p>'
     },
     {
       type: 'cta',

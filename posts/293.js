@@ -113,6 +113,13 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post293_img6.jpg', alt: '넷플릭스 예능 흑백요리사 평점분포', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post293_img5.jpg', alt: '넷플릭스 예능 흑백요리사 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post293_img4.jpg', alt: '넷플릭스 예능 흑백요리사 출연진', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post293_img3.jpg', alt: '넷플릭스 예능 흑백요리사 출연진', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post293_img2.jpg', alt: '넷플릭스 예능 흑백요리사', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post293_img1.jpg', alt: '넷플릭스 예능 흑백요리사', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>함께 보면 좋은 컨텐츠를 소개드립니다.</b></p>'

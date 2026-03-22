@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
+    { type: 'image', src: '/images/post171_img1.jpg', alt: '모아나 2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'cta',
       href: '/movie-recommend-critic-masterpiece/',
@@ -52,8 +53,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>모아나 2 로튼 토마토 평론가 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>모아나 2 로튼 토마토 평론가 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post171_img2.jpg', alt: '모아나 2 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post171_poster.jpg', alt: '포스트 171 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
@@ -91,6 +93,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>모아나 2 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post171_img3.jpg', alt: '모아나2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><b>Tania Lamb - 평점 없음</b><br>모아나 2에는 많은 약점이 있지만, 그럼에도 불구하고 긍정적인 요소들이 이를 상쇄할 만큼 충분하다.</br></p>'
@@ -173,6 +176,13 @@ const post = {
       type: 'body',
       html: '<p>이상으로 영화 모아나 2 로튼 토마토 해외 평론가 관람평 결말후기 포스팅 마칩니다.</p>'
     },
+    { type: 'image', src: '/images/post171_img10.jpg', alt: '모아나2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post171_img9.jpg', alt: '모아나2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post171_img8.jpg', alt: '모아나 2 개봉 정보 로튼 토마토 평점 관람평 결말후기 < 예매 할까 말까 > 디즈니 플러스 공개일은 언제?', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post171_img7.jpg', alt: '모아나2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post171_img6.jpg', alt: '모아나2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post171_img5.jpg', alt: '모아나2', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post171_img4.jpg', alt: '모아나2', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>디즈니는 상영관에서 영화 개봉 후 통상적으로 약 3개월 후 디즈니 플러스에서 공개됩니다.</p>'

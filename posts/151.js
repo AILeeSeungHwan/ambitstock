@@ -27,8 +27,9 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>라팔마의 로튼 토마토 평론가, 관객 평점입니다.</b></span></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>라팔마의 로튼 토마토 평론가, 관객 평점입니다.</b></span></p>'
     },
+    { type: 'image', src: '/images/post151_img1.jpg', alt: '라팔마', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 x, 관객 평점 36%로 낮은 점수를 기록하였습니다.</b></span></p>'
@@ -55,6 +56,7 @@ const post = {
       type: 'body',
       html: '<p><b>7/10 (오리지널 스코어: 7/10)</b><br>매우 훌륭했으나, 나머지 10%는 확실하지 않았다. 이 작품은 정말 좋았다. 경치와 촬영 기법은 훌륭했고, 애니메이션의 퀄리티도 매우 사실적이었다. 긴장감은 끊임없이 지속되었으며, 어느 순간부터는 스위치를 켠 것처럼 계속해서 긴장을 놓지 않았다.</br></p>'
     },
+    { type: 'image', src: '/images/post151_img2.jpg', alt: '라팔마 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>나는 멈추지 못하고 한 번에 전부 봤다. 그러나 나에게 정말 이상하게 느껴졌던 점은 작은 플롯의 구멍들과 조금은 유치한 청춘 로맨스였다. 이 부분은 약간 어색했고, 전체적으로 탄탄한 TV 작품에 조금 신뢰를 떨어뜨렸다. 왜 그런 방향으로 갔는지 이해할 수 없었고, 몇몇 장면에서는 화면을 보며 \'으으\' 하기도 했다.</p>'
@@ -106,6 +108,12 @@ const post = {
       type: 'body',
       html: '<p>넷플릭스의 노르웨이 드라마 <i>\'라팔마\'</i>는 스페인 카나리아 제도의 라팔마 섬을 배경으로 한 재난 시리즈입니다.</p>'
     },
+    { type: 'image', src: '/images/post151_img8.jpg', alt: '라팔마', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post151_img7.jpg', alt: '라팔마', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post151_img6.jpg', alt: '라팔마', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post151_img5.jpg', alt: '라팔마', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post151_img4.jpg', alt: '라팔마', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post151_img3.jpg', alt: '라팔마 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>이 작품은 총 4부작으로 구성되어 있으며, 휴가 중인 노르웨이 가족이 화산 폭발의 위협에 직면하는 스토리이며, 한 젊은 연구원이 화산 폭발이 임박했다는 불길한 징후를 발견하면서 가족은 재앙의 한가운데로 내몰리게 됩니다.</p>'

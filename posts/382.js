@@ -28,7 +28,7 @@ const post = {
     },
     {
       type: 'intro',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>데드풀 시리즈 세번째, 영화 데드풀과 울버린( 영어제목: Deadpool &amp; Wolverine)가 7월 24일 개봉하였습니다.</p><p style=&quot;color: #333333; text-align: start;&quot;>데드풀과 울버린 시사회를 관람한 <span style=&quot;background-color: #01ff51;&quot;><b>해외 평론가들의 후기반응 평가</b></span>가 풀리며,</p><p style=&quot;color: #333333; text-align: start;&quot;>오늘 ( 7월 24일 ) 기준으로 로튼토마토에서 정보를 확인할 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>데드풀 시리즈 세번째, 영화 데드풀과 울버린( 영어제목: Deadpool &amp; Wolverine)가 7월 24일 개봉하였습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>데드풀과 울버린 시사회를 관람한 <span style=&quot;background-color: #01ff51;&quot;><b>해외 평론가들의 후기반응 평가</b></span>가 풀리며,</p><p style=&quot;color: inherit; text-align: start;&quot;>오늘 ( 7월 24일 ) 기준으로 로튼토마토에서 정보를 확인할 수 있습니다.</p>'
     },
     {
       type: 'image',
@@ -40,7 +40,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;><span style=&quot;color: #000000; background-color: #f3c000;&quot;><b>데드풀 시리즈 새번째 작품, 데드풀과 울버린의 해외 반응 평점, 그리고 후기</b></span>는 어떠한지 알아보겠습니다. </p>'
+      html: '<p style=&quot;text-align: left;&quot;><span style=&quot;color: inherit; background-color: #f3c000;&quot;><b>데드풀 시리즈 새번째 작품, 데드풀과 울버린의 해외 반응 평점, 그리고 후기</b></span>는 어떠한지 알아보겠습니다. </p>'
     },
     {
       type: 'body',
@@ -52,27 +52,27 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 데드풀3 - 데드풀과 울버린 (영어제목 : Deadpool &amp; Wolverine ) 로튼토마토 평론가 평점 및 관람객 평점입니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 데드풀3 - 데드풀과 울버린 (영어제목 : Deadpool &amp; Wolverine ) 로튼토마토 평론가 평점 및 관람객 평점입니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점 79%로 전작들의 평점에 비해선 생각보단 낮은 점수</b></span><b>이지만, </b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점 79%로 전작들의 평점에 비해선 생각보단 낮은 점수</b></span><b>이지만, </b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><b>로튼토마토 신선도 마크를 획득하며 낮은 평가와는 별개로 신선한 재미를 기대해 볼 수 있습니다.</b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>로튼토마토 신선도 마크를 획득하며 낮은 평가와는 별개로 신선한 재미를 기대해 볼 수 있습니다.</b></p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>또한 평점과 후기가 공개된지 하루밖에 안되었기에 아직 해외 시사회에서 관람한 평론가평점만이 있기 때문에,</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>또한 평점과 후기가 공개된지 하루밖에 안되었기에 아직 해외 시사회에서 관람한 평론가평점만이 있기 때문에,</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>추후 관객수가 늘고 난 후, 평점변화와 관람객 평점도 함께 살펴보겠습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>추후 관객수가 늘고 난 후, 평점변화와 관람객 평점도 함께 살펴보겠습니다.</p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 데드풀과 울버린 후기에 대한 자세한 내용은 포스팅 하단에서 이어집니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 데드풀과 울버린 후기에 대한 자세한 내용은 포스팅 하단에서 이어집니다.</p>'
     },
     {
       type: 'body',
@@ -88,11 +88,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;>영화 데드풀과 울버린 IMDB 인기순위입니다. </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 데드풀과 울버린 IMDB 인기순위입니다. </p>'
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: #333333; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>현재 인기순위 5위</b></span>로 개봉 전보다 14위 상승하며, 해외에서도 2024년 7월 최고 기대작 영화임을 알 수 있습니다.</p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>현재 인기순위 5위</b></span>로 개봉 전보다 14위 상승하며, 해외에서도 2024년 7월 최고 기대작 영화임을 알 수 있습니다.</p>'
     },
     {
       type: 'body',
@@ -194,6 +194,18 @@ const post = {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><b>데드풀과 울버린 쿠키 영상은 </b></p>'
     },
+    ,
+    { type: 'image', src: '/images/post382_img11.jpg', alt: '데드풀과 울버린 평점 해외 반응 후기 | 쿠키 정보 마블 현재 상영작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post382_img10.jpg', alt: '데드풀과 울버린 평점 해외 반응 후기 | 쿠키 정보 마블 현재 상영작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post382_img9.jpg', alt: '데드풀과 울버린 평점 해외 반응 후기 | 쿠키 정보 마블 현재 상영작 영화 추천', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post382_img8.jpg', alt: '데드풀과 울버린 해외 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post382_img7.jpg', alt: '데드풀과 울버린 해외 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post382_img6.jpg', alt: '데드풀과 울버린 해외 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post382_img5.jpg', alt: '데드풀과 울버린 해외 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post382_img4.jpg', alt: '데드풀과 울버린 해외 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post382_img3.jpg', alt: '데드풀과 울버린 해외 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post382_img2.jpg', alt: '데드풀과 울버린 해외 평점 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post382_img1.jpg', alt: '데드풀과 울버린 해외 평점 후기', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p style=&quot;text-align: center;&quot;><b>엔딩 크레딧이 모두 끝난 이후 총 1개 있습니다.</b></p>'

@@ -23,6 +23,7 @@ const post = {
       type: 'body',
       html: '<table border=&quot;1&quot; cellpadding=&quot;10&quot; cellspacing=&quot;0&quot; data-ke-align=&quot;alignLeft&quot; style=&quot;border-collapse: collapse; width: 100%; text-align: center;&quot;> <thead> <tr> <th>순위</th> <th>영화명</th> <th>일일 관객수</th> <th>누적 관객수</th> <th>비고</th> </tr> </thead> <tbody> <tr> <td><b>1위</b></td> <td><b>극장판 체인소 맨: 레제편</b></td> <td>129,325명</td> <td><b>1,732,098명</b></td> <td><span>개봉 3주차 역주행</span></td> </tr> <tr> <td>2위</td> <td>보스</td> <td>122,840명</td> <td>1,943,326명</td> <td>200만 돌파 임박</td> </tr> <tr> <td>3위</td> <td>어쩔수가없다 (박찬욱 감독)</td> <td>74,991명</td> <td>2,575,743명</td> <td>300만 관객 도전</td> </tr> <tr> <td>4위</td> <td>원 배틀 애프터 어나더 (리어나도 디캐프리오)</td> <td>35,895명</td> <td>340,304명</td> <td>실관람객 평점 상승세</td> </tr> <tr> <td>5위</td> <td>극장판 귀멸의 칼날: 무한성편</td> <td>27,037명</td> <td>5,374,850명</td> <td>장기 흥행 중</td> </tr> </tbody> </table>'
     },
+    { type: 'image', src: '/images/post57_img1.jpg', alt: '체인소 맨: 레제편 박스오피스 1위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section2',
@@ -33,6 +34,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1414&quot; data-origin-width=&quot;1000&quot;><span data-alt=&quot;체인소 맨: 레제편 박스오피스 1위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bC7qfU/btsQ6GwbCBc/AAAAAAAAAAAAAAAAAAAAAJT2A3XQdv_JWw8fqKHtDrSieQrOWMMAOguw1lsQ4Yss/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NNUnlGkMNRmDXIZimZ3aA0BFgts%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bC7qfU/btsQ6GwbCBc/AAAAAAAAAAAAAAAAAAAAAJT2A3XQdv_JWw8fqKHtDrSieQrOWMMAOguw1lsQ4Yss/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NNUnlGkMNRmDXIZimZ3aA0BFgts%3D&quot;></span><figcaption>체인소 맨: 레제편 박스오피스 1위</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post57_img2.webp', alt: '체인소 맨: 레제편 박스오피스 1위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>‘<b>극장판 체인소 맨: 레제편</b>’은 11일 하루 동안 12만 9,000여 명을 동원해 전날 1위였던 <b>보스</b>(12만 2,000여 명)를 꺾고 <b>박스오피스 정상</b>에 올랐습니다. 누적 관객수는 <b>173만 2,098명</b>으로, 이 추세라면 <b>200만 돌파도 무난</b>할 것으로 전망됩니다.</p>'
@@ -51,6 +53,7 @@ const post = {
       type: 'body',
       html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1500&quot; data-origin-width=&quot;1060&quot;><span data-alt=&quot;체인소 맨: 레제편 박스오피스 1위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/DxGP6/btsQ48NwkfF/AAAAAAAAAAAAAAAAAAAAAO_UCjCsxvXrMc3mURWiqNQfpXXJU8KRA55z0xLOVmRf/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vT0kKD0oyShfjiXZVoi2L%2FL%2F2Gk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/DxGP6/btsQ48NwkfF/AAAAAAAAAAAAAAAAAAAAAO_UCjCsxvXrMc3mURWiqNQfpXXJU8KRA55z0xLOVmRf/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vT0kKD0oyShfjiXZVoi2L%2FL%2F2Gk%3D&quot;></span><figcaption>체인소 맨: 레제편 박스오피스 1위</figcaption> </figure> </p>'
     },
+    { type: 'image', src: '/images/post57_img3.jpg', alt: '체인소 맨: 레제편 박스오피스 1위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>‘레제편’은 이미 <b>일본 애니메이션 국내 흥행 9위</b>에 올랐습니다. 다음 목표는 스튜디오 지브리의 <b>그대들은 어떻게 살 것인가</b>(201만 명)와 ‘<b>극장판 귀멸의 칼날: 무한열차편</b>’(221만 명)의 기록을 넘어서는 것입니다. 현재 흥행 추세로 볼 때, <b>국내 일본 애니 흥행 TOP5</b> 진입 가능성이 높다는 평가입니다.</p>'
@@ -66,6 +69,7 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>보스</b>: 가족 단위 관객 중심으로 200만 돌파 임박. 주말 재역전 가능성 있음.</li> <li><b>어쩔수가없다</b>: 박찬욱 감독 특유의 연출로 호평. 누적 257만 명 돌파, 300만까지 노린다.</li> <li><b>원 배틀 애프터 어나더</b>: 리어나도 디캐프리오 주연, 실관람객 평점 상승세.</li> <li><b>귀멸의 칼날: 무한성편</b>: 누적 537만 명, 장기 흥행 이어가는 중.</li> </ul>'
     },
+    { type: 'image', src: '/images/post57_img4.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',
       id: 'section5',
@@ -76,6 +80,7 @@ const post = {
       type: 'body',
       html: '<blockquote style=&quot;border-left: 4px solid #f18271; padding-left: 12px; margin: 10px 0;&quot;>“액션이 미쳤다. 애니를 넘어선 몰입감.” — CGV 실관람평</blockquote>'
     },
+    { type: 'image', src: '/images/post57_img5.jpg', alt: '영화 예매 순위', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote style=&quot;border-left: 4px solid #3f51b1; padding-left: 12px; margin: 10px 0;&quot;>“레제 캐릭터의 감정선이 완벽하게 표현됨. 팬이라면 무조건 봐야 할 작품.” — 메가박스 관객평</blockquote>'

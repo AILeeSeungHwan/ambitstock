@@ -64,6 +64,16 @@ const post = {
       type: 'body',
       html: '<p><a href=&quot;/ target=&quot;_self&quot; title=&quot;콰이어트 플레이스 3&quot;><span>콰이어트 플레이스: 첫째 날 글로 보는 영화 | 출연진 줄거리 완벽 정리 | 현재 상영작</span></a></p>'
     },
+    ,
+    { type: 'image', src: '/images/post418_img9.jpg', alt: '콰이어트 플레이스 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post418_img8.jpg', alt: '콰이어트 플레이스 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post418_img7.jpg', alt: '콰이어트 플레이스3 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post418_img6.jpg', alt: '콰이어트 플레이스 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post418_img5.jpg', alt: '콰이어트 플레이스 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post418_img4.jpg', alt: '콰이어트 플레이스 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post418_img3.jpg', alt: '콰이어트 플레이스 스틸컷', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post418_img2.jpg', alt: '콰이어트 플레이스 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post418_img1.jpg', alt: '콰이어트 플레이스 첫째날 해외 평론가 리뷰', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><a href=&quot;/ target=&quot;_self&quot; title=&quot;jtbc 넷플릭스 드라마 추천&quot;><span>JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천</span></a></p>'

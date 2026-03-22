@@ -100,6 +100,14 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
+    ,
+    { type: 'image', src: '/images/post225_img7.jpg', alt: '영화 아노라 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post225_img6.jpg', alt: '영화 아노라 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post225_img5.jpg', alt: '영화 아노라 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post225_img4.jpg', alt: '영화 아노라 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post225_img3.jpg', alt: '영화 아노라 관람평 후기', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post225_img2.jpg', alt: '아노라 관람평', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post225_img1.jpg', alt: '영화 아노라', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
