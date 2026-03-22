@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 567,
+    slug: 'humint-spy-action-review-joinsung-parkjungmin-2026',
+    title: '휴민트 리뷰 — 조인성·박정민 첩보 액션, 235억 제작비의 긴장감',
+    description: '휴민트 스포일러 없는 리뷰. 류승완 감독, 조인성·박정민·신세경 주연 첩보 액션 스릴러. 씨네21 전문가 7.17, 관객 8.56, 키노라이츠 긍정 90%. 추천 대상과 호불호 포인트 정리.',
+    category: '영화추천',
+    date: '2026-03-23',
+    tags: ['트렌드', '휴민트', '조인성', '박정민', '신세경', '류승완', '첩보액션', '영화리뷰'],
+    thumbnail: '/images/post567_poster.jpg',
+    relatedSlugs: ['2026-first-half-movies-theater-guide', 'spring-2026-theater-top5-sf-thriller-drama', 'mission-impossible-final-reckoning-review-2026']
+  },
+  {
+    id: 566,
+    slug: 'netflix-monthly-boyfriend-jisoo-global-no1-review-2026',
+    title: '넷플릭스 월간남친 리뷰 — 지수 로코의 진짜 실력, 발연기 논란과 4700만 시청의 간극',
+    description: '넷플릭스 월간남친 리뷰. 블랙핑크 지수·서인국 주연, 글로벌 비영어권 1위 2주 연속, 4700만 시청 돌파. IMDB 7.6, 타임지 극찬. 발연기 논란과 실제 반응의 간극 정리.',
+    category: '드라마',
+    date: '2026-03-23',
+    tags: ['트렌드', '월간남친', '지수', '블랙핑크', '서인국', '넷플릭스', '로맨틱코미디', 'K드라마'],
+    thumbnail: '/images/post566_poster.jpg',
+    relatedSlugs: ['siren-tvn-parkminyoung-wihaJoon-romance-thriller-guide-2026', 'netflix-movie-recommend-2026-march']
+  },
+  {
+    id: 565,
+    slug: 'king-and-the-man-1444-million-box-office-review-2026',
+    title: '왕과 사는 남자 1444만 돌파 — 역대 박스오피스 3위, 지금 극장에서 봐야 하는 이유',
+    description: '왕과 사는 남자 1444만 관객 돌파, 역대 박스오피스 3위. 유해진·박지훈·유지태 주연 사극 코미디의 흥행 비결과 추천 대상, 호불호 포인트 총정리.',
+    category: '영화추천',
+    date: '2026-03-23',
+    tags: ['트렌드', '왕과사는남자', '유해진', '박지훈', '유지태', '사극', '극장영화', '박스오피스'],
+    thumbnail: '/images/post565_poster.jpg',
+    relatedSlugs: ['2026-first-half-movies-theater-guide', 'spring-2026-theater-top5-sf-thriller-drama', 'mission-impossible-final-reckoning-review-2026']
+  },
+  {
     id: 564,
     slug: 'project-hail-mary-qa-interpretation-guide-2026',
     title: '프로젝트 헤일메리 Q&A 해석 가이드 — 아스트로파지부터 결말 선택까지, 9가지 궁금증 정리',
