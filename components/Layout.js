@@ -12,6 +12,7 @@ const FONTS = [
 
 /* ───────────────────────── 테마 ───────────────────────── */
 const THEMES = [
+  { name: '로키🛸', bg: '#050510', text: '#d4d4f0', card: '#0c0c24', primary: '#c8a86e', secondary: '#0c0c24', accent: '#e8c87e', border: '#1a1a3a', headerBg: '#050510', headerText: '#d4d4f0', footerBg: '#050510', animation: 'rocky' },
   { name: '라이트☀️', bg: '#f8f9fa', text: '#1a1a2e', card: '#ffffff', primary: '#2c5fff', secondary: '#e8edf5', accent: '#ff6b35', border: '#dee2e6', headerBg: '#ffffff', headerText: '#1a1a2e', footerBg: '#f1f3f5', animation: null },
   { name: '다크🌑', bg: '#0d1117', text: '#e6edf3', card: '#161b22', primary: '#58a6ff', secondary: '#21262d', accent: '#ff7b72', border: '#30363d', headerBg: '#010409', headerText: '#e6edf3', footerBg: '#010409', animation: null },
   { name: '봄벚꽃🌸', bg: '#fff5f5', text: '#4a2040', card: '#ffffff', primary: '#e77c8e', secondary: '#fce4ec', accent: '#c2185b', border: '#f8bbd0', headerBg: '#fce4ec', headerText: '#880e4f', footerBg: '#fce4ec', animation: 'sakura' },
@@ -516,6 +517,80 @@ function AnimationLayer({ type }) {
     </>
   )
 
+  /* ── 로키 (헤일메리 우주 테마) ── */
+  if (type === 'rocky') return (
+    <>
+      <style>{`
+        @keyframes rocky-float {
+          0% { transform: translate(0, 0) rotate(0deg); }
+          25% { transform: translate(15px, -20px) rotate(3deg); }
+          50% { transform: translate(-10px, -35px) rotate(-2deg); }
+          75% { transform: translate(20px, -15px) rotate(4deg); }
+          100% { transform: translate(0, 0) rotate(0deg); }
+        }
+        @keyframes star-twinkle {
+          0%, 100% { opacity: 0.2; }
+          50% { opacity: 1; }
+        }
+        @keyframes shooting-star {
+          0% { transform: translate(0, 0) rotate(-35deg); opacity: 0; width: 0; }
+          5% { opacity: 1; }
+          20% { width: 80px; }
+          100% { transform: translate(-400px, 300px) rotate(-35deg); opacity: 0; width: 0; }
+        }
+        .rocky-bg-ship {
+          position: fixed; bottom: 0; left: 0; right: 0; height: 40vh;
+          background: url('/images/theme_hailmary_ship.jpg') center bottom / cover no-repeat;
+          opacity: 0.08; pointer-events: none; z-index: 0;
+          mask-image: linear-gradient(to top, rgba(0,0,0,0.5) 0%, transparent 100%);
+          -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,0.5) 0%, transparent 100%);
+        }
+        .rocky-char {
+          position: fixed; right: 5vw; bottom: 15vh; width: 120px; height: 120px;
+          background: url('/images/theme_rocky.png') center / contain no-repeat;
+          opacity: 0.12; pointer-events: none; z-index: 1;
+          animation: rocky-float 12s ease-in-out infinite;
+        }
+        .rocky-star {
+          position: fixed; border-radius: 50%; pointer-events: none; z-index: 0;
+          animation: star-twinkle ease-in-out infinite;
+        }
+        .shooting-star {
+          position: fixed; pointer-events: none; z-index: 1;
+          height: 1.5px; border-radius: 1px;
+          background: linear-gradient(90deg, rgba(200,168,110,0.9), transparent);
+          animation: shooting-star linear infinite;
+        }
+      `}</style>
+      {/* 배경 우주선 */}
+      <div className="rocky-bg-ship" />
+      {/* 로키 캐릭터 */}
+      <div className="rocky-char" />
+      {/* 별들 - 불규칙 반짝임 */}
+      {Array.from({length: 40}).map((_, i) => {
+        const sz = 1 + (i % 3)
+        const colors = ['#ffffff', '#c8a86e', '#8888ff', '#ffcc88']
+        return <div key={'s'+i} className="rocky-star" style={{
+          left: ((i * 7.3 + 13) % 100) + '%',
+          top: ((i * 11.7 + 5) % 85) + '%',
+          width: sz + 'px', height: sz + 'px',
+          background: colors[i % 4],
+          animationDuration: (2 + (i * 0.7) % 4) + 's',
+          animationDelay: (i * 0.3) % 5 + 's',
+        }} />
+      })}
+      {/* 별똥별 */}
+      {Array.from({length: 3}).map((_, i) => (
+        <div key={'ss'+i} className="shooting-star" style={{
+          top: (10 + i * 25) + '%',
+          right: '-100px',
+          animationDuration: (3 + i * 2) + 's',
+          animationDelay: (i * 7 + 2) + 's',
+        }} />
+      ))}
+    </>
+  )
+
   return null
 }
 
@@ -523,10 +598,11 @@ function AnimationLayer({ type }) {
 function ThemePanel({ show, onClose, themes, currentIdx, onSelect, fonts, fontIdx, onFontSelect }) {
   if (!show) return null
   const groups = [
-    { label: '기본', range: [0, 2] },
-    { label: '시즌', range: [2, 6] },
-    { label: '창의', range: [6, 16] },
-    { label: '다크', range: [16, 22] },
+    { label: '스페셜', range: [0, 1] },
+    { label: '기본', range: [1, 3] },
+    { label: '시즌', range: [3, 7] },
+    { label: '창의', range: [7, 17] },
+    { label: '다크', range: [17, 23] },
   ]
   return (
     <div style={{ position:'fixed', inset:0, zIndex:9999, display:'flex', justifyContent:'center', alignItems:'center' }}>
@@ -591,7 +667,7 @@ const CATEGORIES = [
 ]
 
 export default function Layout({ children, title, description, onCategoryChange }) {
-  const [themeIdx, setThemeIdx] = useState(6)
+  const [themeIdx, setThemeIdx] = useState(0)
   const [fontIdx, setFontIdx] = useState(0)
   const [showPanel, setShowPanel] = useState(false)
   const [showCatMenu, setShowCatMenu] = useState(false)
