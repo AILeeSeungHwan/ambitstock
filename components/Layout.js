@@ -517,77 +517,175 @@ function AnimationLayer({ type }) {
     </>
   )
 
-  /* ── 로키 (헤일메리 우주 테마) ── */
+  /* ── 로키 (프로젝트 헤일메리 우주 테마) ── */
   if (type === 'rocky') return (
     <>
       <style>{`
-        @keyframes rocky-float {
-          0% { transform: translate(0, 0) rotate(0deg); }
-          25% { transform: translate(15px, -20px) rotate(3deg); }
-          50% { transform: translate(-10px, -35px) rotate(-2deg); }
-          75% { transform: translate(20px, -15px) rotate(4deg); }
-          100% { transform: translate(0, 0) rotate(0deg); }
+        /* ─── 로키 부유 (무중력 느낌) ─── */
+        @keyframes rocky-drift {
+          0% { transform: translate(0, 0) rotate(0deg) scale(1); }
+          15% { transform: translate(8px, -18px) rotate(5deg) scale(1.02); }
+          30% { transform: translate(-12px, -30px) rotate(-3deg) scale(0.98); }
+          50% { transform: translate(5px, -22px) rotate(7deg) scale(1.01); }
+          65% { transform: translate(-8px, -12px) rotate(-5deg) scale(0.99); }
+          80% { transform: translate(10px, -25px) rotate(3deg) scale(1.015); }
+          100% { transform: translate(0, 0) rotate(0deg) scale(1); }
         }
-        @keyframes star-twinkle {
-          0%, 100% { opacity: 0.2; }
-          50% { opacity: 1; }
+        /* ─── 별 반짝임 (3종 불규칙) ─── */
+        @keyframes star-pulse-a {
+          0%, 100% { opacity: 0.15; transform: scale(1); }
+          20% { opacity: 0.9; transform: scale(1.4); }
+          40% { opacity: 0.3; transform: scale(1); }
+          70% { opacity: 0.7; transform: scale(1.2); }
         }
-        @keyframes shooting-star {
-          0% { transform: translate(0, 0) rotate(-35deg); opacity: 0; width: 0; }
-          5% { opacity: 1; }
-          20% { width: 80px; }
-          100% { transform: translate(-400px, 300px) rotate(-35deg); opacity: 0; width: 0; }
+        @keyframes star-pulse-b {
+          0%, 100% { opacity: 0.1; transform: scale(1); }
+          35% { opacity: 1; transform: scale(1.6); }
+          55% { opacity: 0.2; transform: scale(0.9); }
+          85% { opacity: 0.6; transform: scale(1.1); }
         }
-        .rocky-bg-ship {
-          position: fixed; bottom: 0; left: 0; right: 0; height: 40vh;
-          background: url('/images/theme_hailmary_ship.jpg') center bottom / cover no-repeat;
-          opacity: 0.08; pointer-events: none; z-index: 0;
-          mask-image: linear-gradient(to top, rgba(0,0,0,0.5) 0%, transparent 100%);
-          -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,0.5) 0%, transparent 100%);
+        @keyframes star-pulse-c {
+          0%, 100% { opacity: 0.25; transform: scale(1); }
+          15% { opacity: 0.5; transform: scale(1.1); }
+          50% { opacity: 1; transform: scale(1.5); }
+          65% { opacity: 0.15; transform: scale(0.8); }
         }
+        /* ─── 별똥별 ─── */
+        @keyframes meteor {
+          0% { transform: translateX(0) translateY(0); opacity: 0; width: 0; }
+          3% { opacity: 1; }
+          15% { width: 120px; }
+          100% { transform: translateX(-600px) translateY(400px); opacity: 0; width: 0; }
+        }
+        /* ─── 우주선 은은한 호흡 ─── */
+        @keyframes ship-breathe {
+          0%, 100% { opacity: 0.13; }
+          50% { opacity: 0.18; }
+        }
+        /* ─── 성운 빛 ─── */
+        @keyframes nebula-shift {
+          0%, 100% { opacity: 0.04; transform: scale(1) rotate(0deg); }
+          33% { opacity: 0.07; transform: scale(1.05) rotate(2deg); }
+          66% { opacity: 0.05; transform: scale(0.98) rotate(-1deg); }
+        }
+        /* ─── 우주 먼지 ─── */
+        @keyframes dust-float {
+          0% { transform: translate(0, 0); opacity: 0; }
+          10% { opacity: 0.3; }
+          90% { opacity: 0.25; }
+          100% { transform: translate(var(--dx), var(--dy)); opacity: 0; }
+        }
+        /* ─── 배경 우주선 ─── */
+        .rocky-ship {
+          position: fixed; top: 50%; left: 50%; width: 70vw; max-width: 900px; height: 50vh;
+          transform: translate(-50%, -50%);
+          background: url('/images/theme_hailmary_ship.jpg') center / contain no-repeat;
+          opacity: 0.13; pointer-events: none; z-index: 0;
+          animation: ship-breathe 8s ease-in-out infinite;
+          mask-image: radial-gradient(ellipse 80% 70% at 50% 50%, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%, transparent 80%);
+          -webkit-mask-image: radial-gradient(ellipse 80% 70% at 50% 50%, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.3) 50%, transparent 80%);
+        }
+        /* ─── 로키 캐릭터 ─── */
         .rocky-char {
-          position: fixed; right: 5vw; bottom: 15vh; width: 120px; height: 120px;
+          position: fixed; right: 4vw; bottom: 12vh; width: 160px; height: 160px;
           background: url('/images/theme_rocky.png') center / contain no-repeat;
-          opacity: 0.12; pointer-events: none; z-index: 1;
-          animation: rocky-float 12s ease-in-out infinite;
+          opacity: 0.09; pointer-events: none; z-index: 1;
+          animation: rocky-drift 20s ease-in-out infinite;
+          filter: drop-shadow(0 0 20px rgba(200,168,110,0.15));
         }
+        /* ─── 성운 배경 ─── */
+        .rocky-nebula {
+          position: fixed; pointer-events: none; z-index: 0; border-radius: 50%;
+          filter: blur(80px);
+          animation: nebula-shift 25s ease-in-out infinite;
+        }
+        /* ─── 별 ─── */
         .rocky-star {
           position: fixed; border-radius: 50%; pointer-events: none; z-index: 0;
-          animation: star-twinkle ease-in-out infinite;
         }
-        .shooting-star {
+        /* ─── 별 십자 광채 (밝은 별) ─── */
+        .rocky-star-bright::before, .rocky-star-bright::after {
+          content: ''; position: absolute; top: 50%; left: 50%;
+          transform: translate(-50%, -50%);
+          background: inherit; border-radius: 1px;
+        }
+        .rocky-star-bright::before { width: 1px; height: 200%; }
+        .rocky-star-bright::after { width: 200%; height: 1px; }
+        /* ─── 별똥별 ─── */
+        .rocky-meteor {
           position: fixed; pointer-events: none; z-index: 1;
           height: 1.5px; border-radius: 1px;
-          background: linear-gradient(90deg, rgba(200,168,110,0.9), transparent);
-          animation: shooting-star linear infinite;
+          background: linear-gradient(90deg, rgba(232,200,126,0.95), rgba(200,168,110,0.5), transparent);
+          animation: meteor linear infinite;
+        }
+        /* ─── 우주 먼지 ─── */
+        .rocky-dust {
+          position: fixed; border-radius: 50%; pointer-events: none; z-index: 0;
+          animation: dust-float linear infinite;
+        }
+        /* ─── 모바일 대응 ─── */
+        @media (max-width: 768px) {
+          .rocky-ship { width: 95vw; height: 35vh; opacity: 0.1; }
+          .rocky-char { width: 100px; height: 100px; right: 2vw; bottom: 8vh; opacity: 0.07; }
         }
       `}</style>
-      {/* 배경 우주선 */}
-      <div className="rocky-bg-ship" />
+      {/* 성운 배경 (깊은 공간감) */}
+      <div className="rocky-nebula" style={{ top: '15%', left: '10%', width: '40vw', height: '40vh', background: 'radial-gradient(circle, rgba(100,60,20,0.15), transparent 70%)' }} />
+      <div className="rocky-nebula" style={{ top: '55%', right: '5%', width: '35vw', height: '35vh', background: 'radial-gradient(circle, rgba(40,40,100,0.12), transparent 70%)', animationDelay: '-10s' }} />
+      <div className="rocky-nebula" style={{ bottom: '10%', left: '30%', width: '30vw', height: '25vh', background: 'radial-gradient(circle, rgba(80,50,30,0.1), transparent 70%)', animationDelay: '-18s' }} />
+      {/* 배경 헤일메리 우주선 */}
+      <div className="rocky-ship" />
       {/* 로키 캐릭터 */}
       <div className="rocky-char" />
-      {/* 별들 - 불규칙 반짝임 */}
-      {Array.from({length: 40}).map((_, i) => {
-        const sz = 1 + (i % 3)
-        const colors = ['#ffffff', '#c8a86e', '#8888ff', '#ffcc88']
-        return <div key={'s'+i} className="rocky-star" style={{
-          left: ((i * 7.3 + 13) % 100) + '%',
-          top: ((i * 11.7 + 5) % 85) + '%',
+      {/* 별들 — 3레이어 (작은/중간/밝은) 불규칙 반짝임 */}
+      {Array.from({length: 65}).map((_, i) => {
+        const layer = i < 35 ? 0 : i < 55 ? 1 : 2
+        const sz = layer === 0 ? (0.8 + (i % 3) * 0.4) : layer === 1 ? (1.5 + (i % 3) * 0.7) : (2.5 + (i % 2) * 1.5)
+        const anims = ['star-pulse-a', 'star-pulse-b', 'star-pulse-c']
+        const anim = anims[i % 3]
+        const colors = ['#ffffff', '#c8a86e', '#9999ff', '#ffcc88', '#aaddff', '#ffe8a0']
+        const col = colors[i % 6]
+        const bright = layer === 2
+        return <div key={'rs'+i} className={'rocky-star' + (bright ? ' rocky-star-bright' : '')} style={{
+          left: ((i * 7.3 + 3.7 * (i % 7) + 2) % 98 + 1) + '%',
+          top: ((i * 11.3 + 5.1 * (i % 5) + 1) % 88 + 1) + '%',
           width: sz + 'px', height: sz + 'px',
-          background: colors[i % 4],
-          animationDuration: (2 + (i * 0.7) % 4) + 's',
-          animationDelay: (i * 0.3) % 5 + 's',
+          background: col,
+          animationName: anim,
+          animationDuration: (2.5 + (i * 1.3) % 5) + 's',
+          animationDelay: (i * 0.47) % 7 + 's',
+          animationTimingFunction: 'ease-in-out',
+          animationIterationCount: 'infinite',
+          boxShadow: bright ? '0 0 ' + (sz * 2) + 'px ' + col : 'none',
         }} />
       })}
-      {/* 별똥별 */}
-      {Array.from({length: 3}).map((_, i) => (
-        <div key={'ss'+i} className="shooting-star" style={{
-          top: (10 + i * 25) + '%',
-          right: '-100px',
-          animationDuration: (3 + i * 2) + 's',
-          animationDelay: (i * 7 + 2) + 's',
+      {/* 별똥별 — 다양한 각도와 속도 */}
+      {Array.from({length: 5}).map((_, i) => {
+        const tops = [8, 22, 38, 55, 15]
+        const durations = [4, 6, 3.5, 5, 7]
+        const delays = [3, 11, 6, 18, 25]
+        return <div key={'rm'+i} className="rocky-meteor" style={{
+          top: tops[i] + '%',
+          right: '-120px',
+          animationDuration: durations[i] + 's',
+          animationDelay: delays[i] + 's',
+          opacity: 0.7 + (i % 3) * 0.1,
         }} />
-      ))}
+      })}
+      {/* 우주 먼지 입자 */}
+      {Array.from({length: 15}).map((_, i) => {
+        const sz = 1 + (i % 2)
+        return <div key={'rd'+i} className="rocky-dust" style={{
+          left: ((i * 13.3 + 5) % 95) + '%',
+          top: ((i * 17.1 + 10) % 90) + '%',
+          width: sz + 'px', height: sz + 'px',
+          background: 'rgba(200,180,140,' + (0.15 + (i % 3) * 0.05) + ')',
+          '--dx': ((i % 2 === 0 ? 1 : -1) * (30 + i * 5)) + 'px',
+          '--dy': ((i % 3 === 0 ? -1 : 1) * (20 + i * 3)) + 'px',
+          animationDuration: (15 + (i * 3) % 15) + 's',
+          animationDelay: (i * 1.7) % 10 + 's',
+        }} />
+      })}
     </>
   )
 
