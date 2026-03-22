@@ -5788,6 +5788,61 @@ const posts = [
     thumbnail: '/images/post558_thumb.svg',
     relatedSlugs: ['king-man-1400-million-alltime-5th-ranking-2026', 'project-hail-mary-box-office-opening-trend-2026', 'monthly-boyfriend-netflix-global-overseas-reaction-2026', 'siren-tvn-drama-review-2026']
   },
+  {
+    id: 559,
+    slug: 'disney-tving-wavve-bundle-vs-netflix-ott-comparison-2026',
+    title: '디즈니+ 티빙 웨이브 번들 vs 넷플릭스 — 2026 OTT 구독 전략 비교',
+    description: '디즈니+·티빙·웨이브 3사 번들 21,500원 vs 넷플릭스 13,500원. 2026년 3월 기준 요금, 콘텐츠, 화질, 동시접속 완벽 비교. 혼자·가족·학생 상황별 추천 가이드.',
+    category: '영화추천',
+    date: '2026-03-22',
+    tags: ['OTT비교', '넷플릭스', '디즈니플러스', '티빙', '웨이브', '번들요금', 'OTT추천', '구독전략'],
+    thumbnail: '/images/post559_thumb.svg',
+    relatedSlugs: ['netflix-subscription-plans-comparison-2026', 'ott-subscription-price-guide-2026', 'netflix-tving-coupang-play-ott-comparison-2026', 'netflix-new-releases-march-2026']
+  },
+  {
+    id: 560,
+    slug: 'mission-impossible-series-watch-order-guide-2026',
+    title: '미션 임파서블 시리즈 시청 순서 완벽 가이드 — 1편부터 파이널 레코닝까지',
+    description: '미션 임파서블 시리즈 전 8편 시청 순서 가이드. 개봉순·추천순 비교, 편별 특징, 건너뛰어도 되는 편 vs 필수 편, 파이널 레코닝 전 복습 체크리스트.',
+    category: '영화추천',
+    date: '2026-03-22',
+    tags: ['미션임파서블', '톰크루즈', '파이널레코닝', '시리즈가이드', '시청순서', '액션영화', '영화추천'],
+    thumbnail: '/images/post560_thumb.svg',
+    relatedSlugs: ['avengers-doomsday-complete-guide', 'marvel-upcoming-movies-2025-2027', '2026-first-half-movies-theater-guide', 'netflix-movie-recommend-2026-march']
+  },
+  {
+    id: 561,
+    slug: 'siren-tvn-overseas-reaction-ratings-2026',
+    title: '세이렌 tvN 드라마 해외반응 시청률 총정리 — 17개국 톱10, 5개국 1위 (2026)',
+    description: '세이렌 tvN 드라마 해외반응·시청률 총정리. 5개국 1위, 17개국 톱10 진입, 첫방 7% 돌파. 원작 비교, 캐스팅 호평, 추천 대상까지 한 번에 정리.',
+    category: '해외반응후기',
+    date: '2026-03-22',
+    tags: ['세이렌', '해외반응', '시청률', '박민영', '위하준', 'tvN', 'K드라마', '드라마추천'],
+    thumbnail: '/images/post561_thumb.svg',
+    relatedSlugs: ['siren-tvn-drama-review-2026', 'monthly-boyfriend-netflix-global-overseas-reaction-2026', 'korean-drama-popular-overseas-top5', 'netflix-2026-second-half-kdrama-top5-preview']
+  },
+  {
+    id: 562,
+    slug: 'spring-2026-theater-upcoming-movies-top5',
+    title: '2026년 4~5월 극장 개봉 기대작 TOP 5 — 악마는 프라다를 입는다 2부터 마이클까지',
+    description: '2026년 봄 극장 개봉 기대작 TOP 5. 악마는 프라다를 입는다 2, 마이클, 더 드라마(A24), 만달로리안과 그로구, 미이라 리부트까지 한 번에 정리.',
+    category: '영화추천',
+    date: '2026-03-22',
+    tags: ['극장개봉', '2026영화', '악마는프라다를입는다2', '마이클', '만달로리안', '기대작', '영화추천'],
+    thumbnail: '/images/post562_thumb.svg',
+    relatedSlugs: ['2026-first-half-movies-theater-guide', 'netflix-movie-recommend-2026-march', 'spring-2026-theater-top5-sf-thriller-drama', 'marvel-upcoming-movies-2025-2027']
+  },
+  {
+    id: 563,
+    slug: 'mission-impossible-final-reckoning-review-2026',
+    title: '미션 임파서블 파이널 레코닝 리뷰 — 톰 크루즈 마지막 미션, 볼 만한가?',
+    description: '미션 임파서블 파이널 레코닝 스포일러 없는 리뷰. 로튼토마토 81%, 네이버 9.27, 개봉일 42만 동원. 액션 하이라이트, 호불호 포인트, 비슷한 작품 비교.',
+    category: '영화추천',
+    date: '2026-03-22',
+    tags: ['미션임파서블', '파이널레코닝', '톰크루즈', '영화리뷰', '액션영화', '로튼토마토', '해외반응'],
+    thumbnail: '/images/post563_thumb.svg',
+    relatedSlugs: ['2026-first-half-movies-theater-guide', 'avengers-doomsday-complete-guide', 'netflix-movie-recommend-2026-march', 'spring-2026-theater-top5-sf-thriller-drama']
+  },
 ]
 
 module.exports = posts

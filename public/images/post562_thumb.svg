@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="grad562" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a73e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grad562)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="16" fill="rgba(0,0,0,0.15)"/>
+  <text x="600" y="190" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#FFD54F" letter-spacing="2">2026 봄 극장 개봉</text>
+  <text x="600" y="285" text-anchor="middle" font-family="sans-serif" font-size="60" font-weight="bold" fill="white">기대작 TOP 5</text>
+  <text x="600" y="375" text-anchor="middle" font-family="sans-serif" font-size="26" fill="rgba(255,255,255,0.85)">악마는 프라다를 입는다 2 · 마이클</text>
+  <text x="600" y="425" text-anchor="middle" font-family="sans-serif" font-size="26" fill="rgba(255,255,255,0.85)">더 드라마 外</text>
+  <text x="600" y="545" text-anchor="middle" font-family="sans-serif" font-size="22" fill="rgba(255,255,255,0.55)">ambitstock.com</text>
+</svg>

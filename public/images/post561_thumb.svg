@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="grad561" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e53935;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b71c1c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grad561)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="16" fill="rgba(0,0,0,0.15)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="white" letter-spacing="3">tvN 드라마 · 해외반응</text>
+  <text x="600" y="300" text-anchor="middle" font-family="sans-serif" font-size="70" font-weight="bold" fill="white">세이렌</text>
+  <text x="600" y="385" text-anchor="middle" font-family="sans-serif" font-size="38" fill="#FFEB3B">해외반응 · 시청률 총정리</text>
+  <text x="600" y="450" text-anchor="middle" font-family="sans-serif" font-size="30" fill="rgba(255,255,255,0.8)">(2026)</text>
+  <text x="600" y="545" text-anchor="middle" font-family="sans-serif" font-size="22" fill="rgba(255,255,255,0.55)">ambitstock.com</text>
+</svg>

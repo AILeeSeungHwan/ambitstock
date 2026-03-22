@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1a73e8"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#grad559)"/>
+  <defs>
+    <linearGradient id="grad559" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a73e8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="60" y="60" width="1080" height="510" rx="16" fill="rgba(0,0,0,0.15)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#FFD54F" letter-spacing="2">OTT 구독 비교</text>
+  <text x="600" y="290" text-anchor="middle" font-family="sans-serif" font-size="58" font-weight="bold" fill="white">디즈니+ 티빙 웨이브 번들</text>
+  <text x="600" y="370" text-anchor="middle" font-family="sans-serif" font-size="58" font-weight="bold" fill="white">vs 넷플릭스</text>
+  <text x="600" y="460" text-anchor="middle" font-family="sans-serif" font-size="34" fill="#FFD54F">2026 OTT 구독 전략 비교</text>
+  <text x="600" y="545" text-anchor="middle" font-family="sans-serif" font-size="22" fill="rgba(255,255,255,0.55)">ambitstock.com</text>
+</svg>
