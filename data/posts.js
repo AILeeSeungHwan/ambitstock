@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 558,
+    slug: 'siren-tvn-plot-twist-analysis-7ep-mystery-2026',
+    title: '세이렌 후반부 반전 분석 — 한설아의 실체, 백준범의 정체, 미술품 보험 사기의 진상',
+    description: '세이렌 7회 돌입 후반부 반전 분석. 한설아 보험금 미수령의 의미, 백준범과 세 남자의 연결고리, 태명문화재단 미술품 화재 떡밥까지 — 추리 포인트 총정리.',
+    category: '드라마',
+    date: '2026-03-22',
+    tags: ['트렌드', '세이렌', '박민영', '위하준', '김정현', '반전분석', 'tvN', '드라마추리', '미스터리'],
+    thumbnail: '/images/post558_thumb.svg',
+    relatedSlugs: ['siren-tvn-parkminyoung-wihaJoon-romance-thriller-guide-2026', 'siren-mid-review-6ep-catch-up-guide-2026', 'climax-ena-jujihoon-hajiwon-cast-rating-2026']
+  },
+  {
+    id: 557,
+    slug: 'demon-slayer-infinity-castle-screenx-rerelease-2026',
+    title: '귀멸의 칼날 무한성편 스크린X 재개봉 — 3월 25일 삼면 스크린, 4DX 4월 1일',
+    description: '귀멸의 칼날 무한성편 스크린X 3월 25일 재개봉. 일본 트리플 크라운 달성작, 4DX 4월 1일 추가 상영 — 관람 전 시청 순서·추천 대상·OTT 공개 전망 총정리.',
+    category: '애니메이션',
+    date: '2026-03-22',
+    tags: ['트렌드', '귀멸의칼날', '무한성편', '스크린X', '4DX', '극장판', '애니메이션', '재개봉'],
+    thumbnail: '/images/post557_thumb.svg',
+    relatedSlugs: ['2026-japanese-anime-movie-lineup-guide', 'hoppers-pixar-animation-review-box-office-2026', 'zootopia2-disney-plus-review-ott-2026']
+  },
+  {
+    id: 556,
+    slug: 'one-piece-season2-global-reaction-rotten-tomatoes-100-2026',
+    title: '원피스 실사 시즌2 해외반응 — 로튼토마토 100%, 93개국 톱10, 만화 실사화의 새 기준',
+    description: '넷플릭스 원피스 실사 시즌2 해외반응 총정리. 로튼토마토 100%, 메타크리틱 80점, 93개국 톱10 진입. IMDB 에피소드별 평점·시즌3 전망까지.',
+    category: '해외반응후기',
+    date: '2026-03-22',
+    tags: ['트렌드', '원피스', '원피스시즌2', '넷플릭스', '해외반응', '로튼토마토', '실사드라마', '만화원작'],
+    thumbnail: '/images/post556_thumb.svg',
+    relatedSlugs: ['one-piece-live-action-season2-cast-release-2026', 'netflix-deulji-thriller-seolkyunggu-ryujunyeol-guide-2026', 'bloodhounds-season2-netflix-april-2026-guide']
+  },
+  {
     id: 555,
     slug: 'netflix-deulji-thriller-seolkyunggu-ryujunyeol-guide-2026',
     title: '넷플릭스 들쥐 사전 가이드 — 설경구·류준열 추적 스릴러, 비밀의 숲 감독 합류',
