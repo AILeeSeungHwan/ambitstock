@@ -255,9 +255,9 @@ export default function PostPage({ meta, postData, related }) {
           )}
         </header>
 
-        {postData.sections.map((section, i) => {
+        {postData.sections.filter(Boolean).map((section, i) => {
           if (section.type === 'toc') {
-            return <TOC key={i} sections={postData.sections} />
+            return <TOC key={i} sections={postData.sections.filter(Boolean)} />
           }
           return <SectionRenderer key={i} section={section} />
         })}

@@ -255,7 +255,7 @@ export default function EntryPostPage({ meta, postData, related }) {
           )}
         </header>
 
-        {postData.sections.map((section, i) => {
+        {postData.sections.filter(Boolean).map((section, i) => {
           if (section.type === 'toc') {
             return <TOC key={i} sections={postData.sections} />
           }
