@@ -629,7 +629,7 @@ const CATEGORIES = [
 ]
 
 export default function Layout({ children, title, description, onCategoryChange }) {
-  const [themeIdx, setThemeIdx] = useState(0)
+  const [themeIdx, setThemeIdx] = useState(7)
   const [fontIdx, setFontIdx] = useState(0)
   const [showPanel, setShowPanel] = useState(false)
   const [showCatMenu, setShowCatMenu] = useState(false)
@@ -704,7 +704,7 @@ export default function Layout({ children, title, description, onCategoryChange 
                 textDecoration: 'none', color: t.primary, fontWeight: 800, fontSize: 18,
                 letterSpacing: '-0.5px', display: 'flex', alignItems: 'center', gap: 8,
               }}>
-                <span style={{ fontSize: 22 }}>🎬</span>
+                <img src="/favicon.svg" alt="R" style={{ width: 28, height: 28, borderRadius: 6 }} />
                 <span>R의 필름공장</span>
               </a>
 
