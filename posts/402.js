@@ -1,150 +1,52 @@
 const post = {
   id: 402,
   sections: [
-    {
-      type: 'cta',
-      href: '/movie-overseas-critic-rating-reaction-review/',
-      text: '영화 현재 상영작 순위 해외 평론가 평점 반응 리뷰 | 콰이어트 플레이스 3 : 첫째 날'
-    },
-    {
-      type: 'cta',
-      href: '/movie-release-upcoming-guide/',
-      text: '2024년 하반기 한국영화 개봉예정작 라인업 총정리'
-    },
-    {
-      type: 'intro',
-      html: '<p>2024년 하반기 <span style=&quot;background-color: #f3c000;&quot;><b>해외 개봉예정 기대작 순위를 한눈에 정리해 드립니다.</b></span></p><p>총 10개의 작품을 준비했으며, 모든 작품들의 공개된 예고편을 모두 포함하여 총정리하였습니다.</p><p>마블시리즈와 더불어 할리우드 유명 시리즈 개봉 예정 작품들이 많은 <span style=&quot;color: #781b33;&quot;>하반기 해외 블록버스터 개봉 예정 영화 추천 시작하겠습니다.</span></p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post402_thumb.svg',
-      alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리',
-      caption: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리'
-    },
+    { type: 'intro', html: "<p>2024년 하반기 <span style=&quot;background-color: #f3c000;&quot;><b>해외 개봉예정 기대작 순위를 한눈에 정리해 드립니다.</b></span></p><p>총 10개의 작품을 준비했으며, 모든 작품들의 공개된 예고편을 모두 포함하여 총정리하였습니다.</p><p>마블시리즈와 더불어 할리우드 유명 시리즈 개봉 예정 작품들이 많은 <span style=&quot;color: #781b33;&quot;>하반기 해외 블록버스터 개봉 예정 영화 추천 시작하겠습니다.</span></p>" },
+    { type: 'image', src: "/images/post402_thumb.svg", alt: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리", caption: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;793&quot; data-origin-width=&quot;1380&quot;><span data-alt=&quot;2024년 하반기 해외 영화 라인업&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/V3dYa/btsH0jRhgaq/AAAAAAAAAAAAAAAAAAAAABmZJvxs8InoS0isA5IekM9vhjr3rpi0yR5fVjyBJj7B/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OhBlSE9RLYeYPcg1rbFKwQ%2Fz0BQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/V3dYa/btsH0jRhgaq/AAAAAAAAAAAAAAAAAAAAABmZJvxs8InoS0isA5IekM9vhjr3rpi0yR5fVjyBJj7B/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OhBlSE9RLYeYPcg1rbFKwQ%2Fz0BQ%3D&quot;></span><figcaption>2024년 하반기 해외 영화 라인업</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><i><b>2024년 7월 4일 영화 썸네일 추가 수정본</b></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/yYlDU/btsIlQHR7vE/AAAAAAAAAAAAAAAAAAAAAPmQn0Z-l6M9fXSV5oOzHVgT0IWdDI7P-oLewTK0B17H/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TzeG%2BKF%2BU1mxGfqu%2F4xbiUUqa4U%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/yYlDU/btsIlQHR7vE/AAAAAAAAAAAAAAAAAAAAAPmQn0Z-l6M9fXSV5oOzHVgT0IWdDI7P-oLewTK0B17H/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TzeG%2BKF%2BU1mxGfqu%2F4xbiUUqa4U%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>조커: 폴리 아 되 예고편</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;121&quot; data-origin-width=&quot;649&quot;><a href=&quot;https://ambitstock.com/12&quot; target=&quot;&quot;></a><figcaption>영화 조커 2: 폴리 아 되  개봉정보 그리고 조커 1 해외 반응</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 영화 개봉예정 기대작&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/JL32Q/btsIlWg9o4w/AAAAAAAAAAAAAAAAAAAAAJnxSWXn403YvwkMA1Kyc3qCtCRRmz41MORi65kGtpmT/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7wXX98VYFi2Yvu%2BDS11I2R1iZTw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/JL32Q/btsIlWg9o4w/AAAAAAAAAAAAAAAAAAAAAJnxSWXn403YvwkMA1Kyc3qCtCRRmz41MORi65kGtpmT/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7wXX98VYFi2Yvu%2BDS11I2R1iZTw%3D&quot;></span><figcaption>2024년 하반기 해외 영화 개봉예정 기대작</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>베놈 3 예고편</b><iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/yowWyxS5rXc&quot; width=&quot;1100&quot;></iframe></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1032&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bDq71r/btsIlC4gPzg/AAAAAAAAAAAAAAAAAAAAAHTlAMv9tPSa9s-xpynzX8DMnzH7dX7vu_45LoBNL1PW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SIFexueFT5e1IJutv5tJv7EqP7M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bDq71r/btsIlC4gPzg/AAAAAAAAAAAAAAAAAAAAAHTlAMv9tPSa9s-xpynzX8DMnzH7dX7vu_45LoBNL1PW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SIFexueFT5e1IJutv5tJv7EqP7M%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>미키 17 예고편 </b> <iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/26uTcwSriMg&quot; width=&quot;1100&quot;></iframe></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;118&quot; data-origin-width=&quot;652&quot;><a href=&quot;https://ambitstock.com/9&quot; target=&quot;&quot;></a><figcaption>미키17 정보 및 기생충 해외 반응</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1032&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wXHmp/btsIlX1p3pr/AAAAAAAAAAAAAAAAAAAAAG3k7j_Wn8etTzC-CBo50IEWAuj3WA6uxa1z3EPeXK5T/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RJEbIjyqqUpdhE8c%2F4Mk1CJNVSM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wXHmp/btsIlX1p3pr/AAAAAAAAAAAAAAAAAAAAAG3k7j_Wn8etTzC-CBo50IEWAuj3WA6uxa1z3EPeXK5T/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RJEbIjyqqUpdhE8c%2F4Mk1CJNVSM%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>글래디에이터 2 예고편 </b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1442&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/4oPAa/btsInUWkjyX/AAAAAAAAAAAAAAAAAAAAAF9xoTcMwng43Ljyc0TIkIBdMFZ6Yc10ziNSnzpe51Jc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=o%2FIy0BK%2FwlpuN3PCF8PT2%2BAZXEw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/4oPAa/btsInUWkjyX/AAAAAAAAAAAAAAAAAAAAAF9xoTcMwng43Ljyc0TIkIBdMFZ6Yc10ziNSnzpe51Jc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=o%2FIy0BK%2FwlpuN3PCF8PT2%2BAZXEw%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>콰이어트 플레이스 3 : 첫 번째 날 예고편</b><iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/NlctDfamQRs&quot; width=&quot;1100&quot;></iframe></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bw3Sms/btsIlUwRwrk/AAAAAAAAAAAAAAAAAAAAALWaNzpowpI28DNaKLEAnU7nBpf2eTGxtHq8MRr1Ls9-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ftj7JCi%2BH%2FkfD2gHMPY3dl9%2Bn8k%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bw3Sms/btsIlUwRwrk/AAAAAAAAAAAAAAAAAAAAALWaNzpowpI28DNaKLEAnU7nBpf2eTGxtHq8MRr1Ls9-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ftj7JCi%2BH%2FkfD2gHMPY3dl9%2Bn8k%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>에일리언: 로물루스 예고편</b><iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/rXpDoYtkWMs&quot; width=&quot;1100&quot;></iframe></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b5OzNb/btsInvP7llp/AAAAAAAAAAAAAAAAAAAAAActI39-1sLIKXIFhzvP8GN_rjmQRC8fUfAcG7FYrJ0v/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qPefM815dJgKyLmeI9oW6Rwm8mw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b5OzNb/btsInvP7llp/AAAAAAAAAAAAAAAAAAAAAActI39-1sLIKXIFhzvP8GN_rjmQRC8fUfAcG7FYrJ0v/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qPefM815dJgKyLmeI9oW6Rwm8mw%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>비틀쥬스 2 예고편</b><iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/8t2lfCLKAyg&quot; width=&quot;1100&quot;></iframe></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bawjEJ/btsIlTxNChD/AAAAAAAAAAAAAAAAAAAAAI7OAoJpgr6WOz9r1oEnMo6Uk2gYFUbUUVGoEPVFd_0z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PntFoszTaLHUJ5QQT7iM6xbsn8E%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bawjEJ/btsIlTxNChD/AAAAAAAAAAAAAAAAAAAAAI7OAoJpgr6WOz9r1oEnMo6Uk2gYFUbUUVGoEPVFd_0z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PntFoszTaLHUJ5QQT7iM6xbsn8E%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>프리실라 예고편</b><iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/hHks4TKJomw&quot; width=&quot;1100&quot;></iframe></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bs4lm4/btsInwnYVdw/AAAAAAAAAAAAAAAAAAAAAN9yS7EqQO4f9MjlDa8WRMoI47WGwdsSgzcXEwU54q08/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9URLhb93BZLopsow59Rdp3opn10%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bs4lm4/btsInwnYVdw/AAAAAAAAAAAAAAAAAAAAAN9yS7EqQO4f9MjlDa8WRMoI47WGwdsSgzcXEwU54q08/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9URLhb93BZLopsow59Rdp3opn10%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>크레이븐 더 헌터 티저 예고편 </b> <iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/JriyOBG8b14&quot; width=&quot;1100&quot;></iframe></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/1FgBu/btsInojhjFo/AAAAAAAAAAAAAAAAAAAAAPTvpdo8UxBxTpwVcA1N6k-8eC1z946RdOAQK2JFGwVY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Pj6lWHBivc2Q%2BmTdfrwUENew9r0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/1FgBu/btsInojhjFo/AAAAAAAAAAAAAAAAAAAAAPTvpdo8UxBxTpwVcA1N6k-8eC1z946RdOAQK2JFGwVY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Pj6lWHBivc2Q%2BmTdfrwUENew9r0%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>데드풀 3 - 데드풀과 울버린 티저 예고편 </b> <iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/hU05_Rkm8qE&quot; width=&quot;1100&quot;></iframe></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이상으로 해외 개봉예정작 라인업 정리를 마칩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>원하시는 콘텐츠, 게시글이 있다면 언제든 문의 남겨주세요.</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post402_img13.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img12.jpg', alt: '2024년 하반기 해외 영화 개봉예정 기대작', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img11.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img10.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img9.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img8.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img7.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img6.jpg', alt: '미키17 정보 및 기생충 해외 반응', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img5.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img4.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img3.jpg', alt: '영화 조커 2: 폴리 아 되 개봉정보', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img2.jpg', alt: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post402_img1.jpg', alt: '2024년 하반기 해외 영화 라인업', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p>여러분이 만들어주시는 다양한 콘텐츠들과 함께 행복한 문화생활 즐기세요!</p>'
-    },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;793&quot; data-origin-width=&quot;1380&quot;><span data-alt=&quot;2024년 하반기 해외 영화 라인업&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/V3dYa/btsH0jRhgaq/AAAAAAAAAAAAAAAAAAAAABmZJvxs8InoS0isA5IekM9vhjr3rpi0yR5fVjyBJj7B/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OhBlSE9RLYeYPcg1rbFKwQ%2Fz0BQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/V3dYa/btsH0jRhgaq/AAAAAAAAAAAAAAAAAAAAABmZJvxs8InoS0isA5IekM9vhjr3rpi0yR5fVjyBJj7B/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OhBlSE9RLYeYPcg1rbFKwQ%2Fz0BQ%3D&quot;></span><figcaption>2024년 하반기 해외 영화 라인업</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><i><b>2024년 7월 4일 영화 썸네일 추가 수정본</b></i></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/yYlDU/btsIlQHR7vE/AAAAAAAAAAAAAAAAAAAAAPmQn0Z-l6M9fXSV5oOzHVgT0IWdDI7P-oLewTK0B17H/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TzeG%2BKF%2BU1mxGfqu%2F4xbiUUqa4U%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/yYlDU/btsIlQHR7vE/AAAAAAAAAAAAAAAAAAAAAPmQn0Z-l6M9fXSV5oOzHVgT0IWdDI7P-oLewTK0B17H/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TzeG%2BKF%2BU1mxGfqu%2F4xbiUUqa4U%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>조커: 폴리 아 되 예고편</b></span></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;121&quot; data-origin-width=&quot;649&quot;><a href=&quot;https://ambitstock.com/12&quot; target=&quot;&quot;></a><figcaption>영화 조커 2: 폴리 아 되  개봉정보 그리고 조커 1 해외 반응</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 영화 개봉예정 기대작&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/JL32Q/btsIlWg9o4w/AAAAAAAAAAAAAAAAAAAAAJnxSWXn403YvwkMA1Kyc3qCtCRRmz41MORi65kGtpmT/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7wXX98VYFi2Yvu%2BDS11I2R1iZTw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/JL32Q/btsIlWg9o4w/AAAAAAAAAAAAAAAAAAAAAJnxSWXn403YvwkMA1Kyc3qCtCRRmz41MORi65kGtpmT/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7wXX98VYFi2Yvu%2BDS11I2R1iZTw%3D&quot;></span><figcaption>2024년 하반기 해외 영화 개봉예정 기대작</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>베놈 3 예고편</b><iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/yowWyxS5rXc&quot; width=&quot;1100&quot;></iframe></span></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1032&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bDq71r/btsIlC4gPzg/AAAAAAAAAAAAAAAAAAAAAHTlAMv9tPSa9s-xpynzX8DMnzH7dX7vu_45LoBNL1PW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SIFexueFT5e1IJutv5tJv7EqP7M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bDq71r/btsIlC4gPzg/AAAAAAAAAAAAAAAAAAAAAHTlAMv9tPSa9s-xpynzX8DMnzH7dX7vu_45LoBNL1PW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SIFexueFT5e1IJutv5tJv7EqP7M%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>미키 17 예고편 </b> <iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/26uTcwSriMg&quot; width=&quot;1100&quot;></iframe></span></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;118&quot; data-origin-width=&quot;652&quot;><a href=&quot;https://ambitstock.com/9&quot; target=&quot;&quot;></a><figcaption>미키17 정보 및 기생충 해외 반응</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1032&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wXHmp/btsIlX1p3pr/AAAAAAAAAAAAAAAAAAAAAG3k7j_Wn8etTzC-CBo50IEWAuj3WA6uxa1z3EPeXK5T/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RJEbIjyqqUpdhE8c%2F4Mk1CJNVSM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wXHmp/btsIlX1p3pr/AAAAAAAAAAAAAAAAAAAAAG3k7j_Wn8etTzC-CBo50IEWAuj3WA6uxa1z3EPeXK5T/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RJEbIjyqqUpdhE8c%2F4Mk1CJNVSM%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>글래디에이터 2 예고편 </b></span></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1442&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/4oPAa/btsInUWkjyX/AAAAAAAAAAAAAAAAAAAAAF9xoTcMwng43Ljyc0TIkIBdMFZ6Yc10ziNSnzpe51Jc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=o%2FIy0BK%2FwlpuN3PCF8PT2%2BAZXEw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/4oPAa/btsInUWkjyX/AAAAAAAAAAAAAAAAAAAAAF9xoTcMwng43Ljyc0TIkIBdMFZ6Yc10ziNSnzpe51Jc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=o%2FIy0BK%2FwlpuN3PCF8PT2%2BAZXEw%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>콰이어트 플레이스 3 : 첫 번째 날 예고편</b><iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/NlctDfamQRs&quot; width=&quot;1100&quot;></iframe></span></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bw3Sms/btsIlUwRwrk/AAAAAAAAAAAAAAAAAAAAALWaNzpowpI28DNaKLEAnU7nBpf2eTGxtHq8MRr1Ls9-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ftj7JCi%2BH%2FkfD2gHMPY3dl9%2Bn8k%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bw3Sms/btsIlUwRwrk/AAAAAAAAAAAAAAAAAAAAALWaNzpowpI28DNaKLEAnU7nBpf2eTGxtHq8MRr1Ls9-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ftj7JCi%2BH%2FkfD2gHMPY3dl9%2Bn8k%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>에일리언: 로물루스 예고편</b><iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/rXpDoYtkWMs&quot; width=&quot;1100&quot;></iframe></span></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b5OzNb/btsInvP7llp/AAAAAAAAAAAAAAAAAAAAAActI39-1sLIKXIFhzvP8GN_rjmQRC8fUfAcG7FYrJ0v/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qPefM815dJgKyLmeI9oW6Rwm8mw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b5OzNb/btsInvP7llp/AAAAAAAAAAAAAAAAAAAAAActI39-1sLIKXIFhzvP8GN_rjmQRC8fUfAcG7FYrJ0v/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qPefM815dJgKyLmeI9oW6Rwm8mw%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>비틀쥬스 2 예고편</b><iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/8t2lfCLKAyg&quot; width=&quot;1100&quot;></iframe></span></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bawjEJ/btsIlTxNChD/AAAAAAAAAAAAAAAAAAAAAI7OAoJpgr6WOz9r1oEnMo6Uk2gYFUbUUVGoEPVFd_0z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PntFoszTaLHUJ5QQT7iM6xbsn8E%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bawjEJ/btsIlTxNChD/AAAAAAAAAAAAAAAAAAAAAI7OAoJpgr6WOz9r1oEnMo6Uk2gYFUbUUVGoEPVFd_0z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PntFoszTaLHUJ5QQT7iM6xbsn8E%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>프리실라 예고편</b><iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/hHks4TKJomw&quot; width=&quot;1100&quot;></iframe></span></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bs4lm4/btsInwnYVdw/AAAAAAAAAAAAAAAAAAAAAN9yS7EqQO4f9MjlDa8WRMoI47WGwdsSgzcXEwU54q08/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9URLhb93BZLopsow59Rdp3opn10%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bs4lm4/btsInwnYVdw/AAAAAAAAAAAAAAAAAAAAAN9yS7EqQO4f9MjlDa8WRMoI47WGwdsSgzcXEwU54q08/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9URLhb93BZLopsow59Rdp3opn10%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>크레이븐 더 헌터 티저 예고편 </b> <iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/JriyOBG8b14&quot; width=&quot;1100&quot;></iframe></span></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1512&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;2024년 하반기 해외 블록버스터 영화 추천 개봉예정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/1FgBu/btsInojhjFo/AAAAAAAAAAAAAAAAAAAAAPTvpdo8UxBxTpwVcA1N6k-8eC1z946RdOAQK2JFGwVY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Pj6lWHBivc2Q%2BmTdfrwUENew9r0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/1FgBu/btsInojhjFo/AAAAAAAAAAAAAAAAAAAAAPTvpdo8UxBxTpwVcA1N6k-8eC1z946RdOAQK2JFGwVY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Pj6lWHBivc2Q%2BmTdfrwUENew9r0%3D&quot;></span><figcaption>2024년 하반기 해외 블록버스터 영화 추천 개봉예정</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>데드풀 3 - 데드풀과 울버린 티저 예고편 </b> <iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/hU05_Rkm8qE&quot; width=&quot;1100&quot;></iframe></span></p>" },
+    { type: 'body', html: "<p>이상으로 해외 개봉예정작 라인업 정리를 마칩니다.</p>" },
+    { type: 'body', html: "<p>원하시는 콘텐츠, 게시글이 있다면 언제든 문의 남겨주세요.</p>" },
+    { type: 'image', src: "/images/post402_img13.jpg", alt: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img12.jpg", alt: "2024년 하반기 해외 영화 개봉예정 기대작", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img11.jpg", alt: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img10.jpg", alt: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img9.jpg", alt: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img8.jpg", alt: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img7.jpg", alt: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img6.jpg", alt: "미키17 정보 및 기생충 해외 반응", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img5.jpg", alt: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img4.jpg", alt: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img3.jpg", alt: "영화 조커 2: 폴리 아 되 개봉정보", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img2.jpg", alt: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post402_img1.jpg", alt: "2024년 하반기 해외 영화 라인업", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "/movie-overseas-critic-rating-reaction-review/", text: "영화 현재 상영작 순위 해외 평론가 평점 반응 리뷰 | 콰이어트 플레이스 3 : 첫째 날" },
+    { type: 'cta', href: "/movie-release-upcoming-guide/", text: "2024년 하반기 한국영화 개봉예정작 라인업 총정리" },
+    { type: 'ending', html: "<p>여러분이 만들어주시는 다양한 콘텐츠들과 함께 행복한 문화생활 즐기세요!</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

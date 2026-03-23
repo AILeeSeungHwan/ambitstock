@@ -1,368 +1,105 @@
 const post = {
   id: 433,
   sections: [
-    {
-      type: 'cta',
-      href: '/movie-rating-북한-도발-오물/',
-      text: '북한 도발? 오물 풍선? 비행기 납치실화 | 영화 하이재킹 정보와 평점 및 평가 현재 상영작'
-    },
-    {
-      type: 'cta',
-      href: '/overseas-movie-release-guide/',
-      text: '2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리'
-    },
-    {
-      type: 'intro',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2024년 하반기 한국영화 개봉예정작 라인업입니다. 총 열개의 작품이며, 관심있는 영화의 예고편을 꼭 찾아보시길 바랍니다.</span></p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>그럼 바로 시작하겠습니다.</span></p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주연:</b> 하정우, 여진구, 성동일, 채수빈</span></p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post433_thumb.svg',
-      alt: '2024년 하반기 한국영화 개봉예정작 라인업 총정리',
-      caption: '2024년 하반기 한국영화 개봉예정작 라인업 총정리'
-    },
+    { type: 'intro', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 하반기 한국영화 개봉예정작 라인업입니다. 총 열개의 작품이며, 관심있는 영화의 예고편을 꼭 찾아보시길 바랍니다.</span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;>그럼 바로 시작하겠습니다.</span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>주연:</b> 하정우, 여진구, 성동일, 채수빈</span></p>" },
+    { type: 'image', src: "/images/post433_thumb.svg", alt: "2024년 하반기 한국영화 개봉예정작 라인업 총정리", caption: "2024년 하반기 한국영화 개봉예정작 라인업 총정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독:</b> 김성한</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명:</b> 이 영화는 1971년 상업 항공기 납치 사건을 바탕으로, 비행기 기장과 승무원들이 납치범과 맞서 싸우는 이야기를 그립니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>영화 제목인 &quot;하이재킹&quot; 의 뜻은 \'운항중인 항공기, 선박등을 납치\' 입니다. </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>전직 한국 공군 전투기 조종사였던 태인이 납치 사건이 벌어진 항공기에서 승객과 승무원의 안전을 지키기 위해 벌이는 이야기를 다룹니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2024년 6월 21일</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>터널 (Tunnel)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;하이재킹 현재상영작 평점 정보&quot;>북한 도발? 오물 풍선? 비행기 납치실화 | 영화 하이재킹 정보와 평점 및 평가 현재 상영작</a></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주연:</b> 금새록, 류경수, 강영석</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독:</b> 조광진</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명:</b> 일상의 지루함에 지친 주인공이 카브리올레를 타고 떠나는 즉흥 여행을 그린 영화입니다. &quot;카브리올레&quot;는 &quot;오픈카&quot;를 의미합니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>주인공 지아가 전 남자친구와 함께 카브리올레를 타고 떠나는 로드 트립을 통해 자신을 발견하는 이야기를 다룹니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2024년 6월 19일</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>이태원 클라쓰</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주연:</b> 박주현, 김도윤, 정웅인, 김여진</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독:</b> 박동희</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명:</b> 유명 인플루언서가 납치된 후 벌어지는 스릴러입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>인기 인플루언서 유나가 납치된 후 1시간 동안 650만 원을 모아야 하는 상황에서 생존을 위한 사투를 그립니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2024년 6월 12일</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>특송</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주연:</b> 이재훈, 구교환</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독:</b> 이종필</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명:</b> 북한에서 남한으로 탈출하려는 병사와 그를 쫓는 보안요원의 이야기를 다룹니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>북한 병사 임규남이 남한으로 탈출하려고 시도하는 과정에서 벌어지는 이야기입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2024년 7월 3일</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>삼진그룹 영어토익반</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>영화 탈주 줄거리 완벽 정리 | 등장인물 예고편 | 해외 개봉 소식과 리뷰 평점 반응</a></p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-title&quot;>영화 탈주 줄거리 완벽 정리 | 등장인물 예고편 | 해외 개봉 소식과 리뷰 평점 반응</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-desc&quot;>이제훈 구교환 주연, 영화 탈주 (영어제목 : Escape) 개봉일이 다가왔습니다. 24년 7월 3일 개봉 예정인 영화 탈주는 배우진의 존재감만으로 24년 하반기 기대작으로 뽑히는 작품입니다. 해외에서도</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-host&quot;>ambitstock.com</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-title&quot;>[고 이선균 유작] 영화 탈출: 프로젝트 사일런스, 개봉일부터 스틸컷 등장인물 줄거리까지 총정</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-desc&quot;>\'탈출: 프로젝트 사일런스\'는 2024년 7월 12일 개봉 예정인 재난 스릴러 영화입니다. 8월 개봉할 행복의 나라와 더불어 고 이선균 배우의 유작 두편 중 하나 입니다. 짙은 안개 속에서 공항대교에서</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-host&quot;>ambitstock.com</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주연:</b> 이선균, 주지훈, 김희원</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독:</b> 김태곤</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명:</b> 큰 침묵 속에서 일어나는 미스터리 사건을 다루는 영화입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;color: #9d9d9d; font-family: \'Noto Serif KR\';&quot;>(고) 이선균 님의 유작입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>극도의 침묵 속에서 벌어지는 신비한 사건과 그에 얽힌 사람들의 이야기를 다룹니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2024년 여름</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>소공녀</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주연:</b> 이혜리, 박세완, 이정하</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독:</b> 박범수</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명:</b> 작은 해변 마을에서 펼쳐지는 이야기를 담은 영화입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>작은 해변 마을의 지역 기자 나영이 갑작스러운 사건들로 평온한 일상이 흔들리며 벌어지는 이야기입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2024년 8월 14일</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>레드카펫</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주연:</b> 고아성, 주종혁</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독:</b> 장건재</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명:</b> 한국을 떠나 새로운 삶을 찾아가는 사람들의 이야기를 다룹니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>한국을 떠나 새로운 나라에서 새로운 삶을 찾아가는 사람들의 이야기를 담은 영화입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2024년 여름</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>한여름의 판타지아 (A Midsummer\'s Fantasia)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주연:</b> 조정석, 이선균, 유재명</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독:</b> 추창민</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명:</b> 복잡한 사회 속에서 행복을 찾아가는 사람들의 이야기를 다룹니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>복잡한 현대 사회 속에서 진정한 행복을 찾아가는 사람들의 이야기를 그린 영화입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2024년 하반기</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>광해, 왕이 된 남자 (Masquerade)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;영화 행복의 나라&quot;>[영화] - 영화 행복의 나라 개봉일 확정 티저 예고편 공개 - 줄거리 및 등장인물 정보</a></p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-title&quot;>영화 행복의 나라 개봉일 확정 티저 예고편 공개 - 줄거리 및 등장인물 정보</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-desc&quot;>영화 &quot;행복의 나라&quot;는 한국 현대사의 중요한 사건을 다룬 영화로, 고 이선균님의 두번째 유작으로도 개봉 전부터 큰 기대를 모으고 있습니다. 이선균, 조정석 등 연기파 배우들의 출연으로 주목</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-host&quot;>ambitstock.com</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주연:</b> 황정민, 염정아, 전혜진</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독:</b> 이명훈</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명:</b> 전직 특수요원 출신의 주부가 자신의 과거를 숨기며 살아가는 이야기를 다룹니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>헌신적인 주부였던 강무가 자신의 범죄수사관 아내에게 과거를 숨기며 살아가는 이야기입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2024년 7월</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>슈퍼 따릉이(2005년)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>주연:</b> 박해일</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독:</b> 송원근</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명:</b> 판문점을 배경으로 한 다큐멘터리</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: #0e0e0e;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>남북한 군인들이 판문점에서 겪는 갈등과 협력, 그리고 그 속에서 피어나는 인간애를 그립니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2024년 6월 19일</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>김복동</span></p>'
-    },
-    ,
-    { type: 'image', src: '/images/post433_img11.jpg', alt: '영화 판문점 포스터', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post433_img10.jpg', alt: '영화 크로스 포스터', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post433_img9.jpg', alt: '영화 행복의 나라 포스터', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post433_img8.jpg', alt: '영화 한국이 싫어서 포스터', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post433_img7.jpg', alt: '영화 빅토리 포스터', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post433_img6.jpg', alt: '영화 탈출 포스터', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post433_img5.jpg', alt: '영화 탈주 포스터', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post433_img4.jpg', alt: '영화 드라이브 포스터', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post433_img3.jpg', alt: '영화 카브리올레 포스터', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post433_img2.jpg', alt: '영화 하이재킹 포스터', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post433_img1.jpg', alt: '2024년 하반기 한국영화', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;하반기 해외 블록버스터 영화 추천&quot;>2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리</a></p>'
-    },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독:</b> 김성한</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>설명:</b> 이 영화는 1971년 상업 항공기 납치 사건을 바탕으로, 비행기 기장과 승무원들이 납치범과 맞서 싸우는 이야기를 그립니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>영화 제목인 &quot;하이재킹&quot; 의 뜻은 '운항중인 항공기, 선박등을 납치' 입니다. </span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>전직 한국 공군 전투기 조종사였던 태인이 납치 사건이 벌어진 항공기에서 승객과 승무원의 안전을 지키기 위해 벌이는 이야기를 다룹니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 6월 21일</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>터널 (Tunnel)</span></p>" },
+    { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;하이재킹 현재상영작 평점 정보&quot;>북한 도발? 오물 풍선? 비행기 납치실화 | 영화 하이재킹 정보와 평점 및 평가 현재 상영작</a></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>주연:</b> 금새록, 류경수, 강영석</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독:</b> 조광진</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>설명:</b> 일상의 지루함에 지친 주인공이 카브리올레를 타고 떠나는 즉흥 여행을 그린 영화입니다. &quot;카브리올레&quot;는 &quot;오픈카&quot;를 의미합니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>주인공 지아가 전 남자친구와 함께 카브리올레를 타고 떠나는 로드 트립을 통해 자신을 발견하는 이야기를 다룹니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 6월 19일</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>이태원 클라쓰</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>주연:</b> 박주현, 김도윤, 정웅인, 김여진</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독:</b> 박동희</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>설명:</b> 유명 인플루언서가 납치된 후 벌어지는 스릴러입니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>인기 인플루언서 유나가 납치된 후 1시간 동안 650만 원을 모아야 하는 상황에서 생존을 위한 사투를 그립니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 6월 12일</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>특송</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>주연:</b> 이재훈, 구교환</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독:</b> 이종필</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>설명:</b> 북한에서 남한으로 탈출하려는 병사와 그를 쫓는 보안요원의 이야기를 다룹니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>북한 병사 임규남이 남한으로 탈출하려고 시도하는 과정에서 벌어지는 이야기입니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 7월 3일</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>삼진그룹 영어토익반</span></p>" },
+    { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>영화 탈주 줄거리 완벽 정리 | 등장인물 예고편 | 해외 개봉 소식과 리뷰 평점 반응</a></p>" },
+    { type: 'body', html: "<p class=&quot;og-title&quot;>영화 탈주 줄거리 완벽 정리 | 등장인물 예고편 | 해외 개봉 소식과 리뷰 평점 반응</p>" },
+    { type: 'body', html: "<p class=&quot;og-desc&quot;>이제훈 구교환 주연, 영화 탈주 (영어제목 : Escape) 개봉일이 다가왔습니다. 24년 7월 3일 개봉 예정인 영화 탈주는 배우진의 존재감만으로 24년 하반기 기대작으로 뽑히는 작품입니다. 해외에서도</p>" },
+    { type: 'body', html: "<p class=&quot;og-host&quot;>ambitstock.com</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;> </span></p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p class=&quot;og-title&quot;>[고 이선균 유작] 영화 탈출: 프로젝트 사일런스, 개봉일부터 스틸컷 등장인물 줄거리까지 총정</p>" },
+    { type: 'body', html: "<p class=&quot;og-desc&quot;>'탈출: 프로젝트 사일런스'는 2024년 7월 12일 개봉 예정인 재난 스릴러 영화입니다. 8월 개봉할 행복의 나라와 더불어 고 이선균 배우의 유작 두편 중 하나 입니다. 짙은 안개 속에서 공항대교에서</p>" },
+    { type: 'body', html: "<p class=&quot;og-host&quot;>ambitstock.com</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>주연:</b> 이선균, 주지훈, 김희원</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독:</b> 김태곤</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>설명:</b> 큰 침묵 속에서 일어나는 미스터리 사건을 다루는 영화입니다.</span></p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><span style=&quot;color: #9d9d9d; font-family: 'Noto Serif KR';&quot;>(고) 이선균 님의 유작입니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>극도의 침묵 속에서 벌어지는 신비한 사건과 그에 얽힌 사람들의 이야기를 다룹니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 여름</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>소공녀</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>주연:</b> 이혜리, 박세완, 이정하</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독:</b> 박범수</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>설명:</b> 작은 해변 마을에서 펼쳐지는 이야기를 담은 영화입니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>작은 해변 마을의 지역 기자 나영이 갑작스러운 사건들로 평온한 일상이 흔들리며 벌어지는 이야기입니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 8월 14일</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>레드카펫</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>주연:</b> 고아성, 주종혁</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독:</b> 장건재</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>설명:</b> 한국을 떠나 새로운 삶을 찾아가는 사람들의 이야기를 다룹니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>한국을 떠나 새로운 나라에서 새로운 삶을 찾아가는 사람들의 이야기를 담은 영화입니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 여름</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>한여름의 판타지아 (A Midsummer's Fantasia)</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>주연:</b> 조정석, 이선균, 유재명</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독:</b> 추창민</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>설명:</b> 복잡한 사회 속에서 행복을 찾아가는 사람들의 이야기를 다룹니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>복잡한 현대 사회 속에서 진정한 행복을 찾아가는 사람들의 이야기를 그린 영화입니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 하반기</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>광해, 왕이 된 남자 (Masquerade)</span></p>" },
+    { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;영화 행복의 나라&quot;>[영화] - 영화 행복의 나라 개봉일 확정 티저 예고편 공개 - 줄거리 및 등장인물 정보</a></p>" },
+    { type: 'body', html: "<p class=&quot;og-title&quot;>영화 행복의 나라 개봉일 확정 티저 예고편 공개 - 줄거리 및 등장인물 정보</p>" },
+    { type: 'body', html: "<p class=&quot;og-desc&quot;>영화 &quot;행복의 나라&quot;는 한국 현대사의 중요한 사건을 다룬 영화로, 고 이선균님의 두번째 유작으로도 개봉 전부터 큰 기대를 모으고 있습니다. 이선균, 조정석 등 연기파 배우들의 출연으로 주목</p>" },
+    { type: 'body', html: "<p class=&quot;og-host&quot;>ambitstock.com</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>주연:</b> 황정민, 염정아, 전혜진</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독:</b> 이명훈</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>설명:</b> 전직 특수요원 출신의 주부가 자신의 과거를 숨기며 살아가는 이야기를 다룹니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>헌신적인 주부였던 강무가 자신의 범죄수사관 아내에게 과거를 숨기며 살아가는 이야기입니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 7월</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>슈퍼 따릉이(2005년)</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>주연:</b> 박해일</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독:</b> 송원근</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>설명:</b> 판문점을 배경으로 한 다큐멘터리</span></p>" },
+    { type: 'body', html: "<p style=&quot;color: #0e0e0e;&quot;><span style=&quot;font-family: 'Noto Serif KR';&quot;>남북한 군인들이 판문점에서 겪는 갈등과 협력, 그리고 그 속에서 피어나는 인간애를 그립니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 6월 19일</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>김복동</span></p>" },
+    { type: 'image', src: "/images/post433_img11.jpg", alt: "영화 판문점 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post433_img10.jpg", alt: "영화 크로스 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post433_img9.jpg", alt: "영화 행복의 나라 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post433_img8.jpg", alt: "영화 한국이 싫어서 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post433_img7.jpg", alt: "영화 빅토리 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post433_img6.jpg", alt: "영화 탈출 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post433_img5.jpg", alt: "영화 탈주 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post433_img4.jpg", alt: "영화 드라이브 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post433_img3.jpg", alt: "영화 카브리올레 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post433_img2.jpg", alt: "영화 하이재킹 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post433_img1.jpg", alt: "2024년 하반기 한국영화", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "/movie-rating-북한-도발-오물/", text: "북한 도발? 오물 풍선? 비행기 납치실화 | 영화 하이재킹 정보와 평점 및 평가 현재 상영작" },
+    { type: 'cta', href: "/overseas-movie-release-guide/", text: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리" },
+    { type: 'ending', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;하반기 해외 블록버스터 영화 추천&quot;>2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리</a></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

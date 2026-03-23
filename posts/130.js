@@ -1,295 +1,83 @@
 const post = {
   id: 130,
   sections: [
-    {
-      type: 'intro',
-      html: '<p>2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post130_thumb.svg',
-      alt: '2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5',
-      caption: '2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5'
-    },
+    { type: 'intro', html: "<p>2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5</p>" },
+    { type: 'image', src: "/images/post130_thumb.svg", alt: "2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5", caption: "2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section1',
-      text: '2025년 1월 개봉 예정 한국 영화 기대작 총정리 TOP 5',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>2025년 한국 개봉예정영화 기대작들을 총정리 하였습니다.</b></p>'
-    },
-    { type: 'image', src: '/images/post130_img1.jpg', alt: '2025년 한국 개봉예정영화 TOP 5', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: transparent;&quot;><b>한국영화 외 1월에 개봉하는 모든 개봉예정영화를 정리하였습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;letter-spacing: 0px;&quot;>각 영화의 로튼토마토 평점부터 평론가 후기까지, 모든 정보를 담았습니다.</span><span style=&quot;letter-spacing: 0px;&quot;> </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b><span style=&quot;letter-spacing: 0px;&quot;><span style=&quot;background-color: #9feec3;&quot;>아래 링크로 이동</span>하여</span><span style=&quot;letter-spacing: 0px;&quot;> </span><span style=&quot;letter-spacing: 0px;&quot;>보고 싶은 영화를 찾아보시길 바랍니다.</span></b></p>'
-    },
-    {
-      type: 'body',
-      html: '<div style=&quot;width: 100%;&quot;><center><a href=&quot;https://ambitstock.com/376&quot; title=&quot;개봉예정영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>1월 모든 개봉예정영화 보러 가기👉</button></a></center></div>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;874&quot; data-origin-width=&quot;1050&quot;><span data-alt=&quot;2025년 한국 개봉예정영화 TOP 5&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bwWG7E/btsLz3xDd8v/AAAAAAAAAAAAAAAAAAAAAHuv0JhAK2v5kbldJ1esqQh9nZPi6SbtRWqQYIABnPNQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oXgXPLD%2F4K3YpazMtXZL3xTpGpk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bwWG7E/btsLz3xDd8v/AAAAAAAAAAAAAAAAAAAAAHuv0JhAK2v5kbldJ1esqQh9nZPi6SbtRWqQYIABnPNQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oXgXPLD%2F4K3YpazMtXZL3xTpGpk%3D&quot;></span><figcaption>2025년 한국 개봉예정영화 TOP 5</figcaption> </figure> </p>'
-    },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '1. 동화지만 청불입니다',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>첫번째 작품은 \'동화지만 청불입니다\'입니다.</b></p>'
-    },
-    { type: 'image', src: '/images/post130_img2.jpg', alt: '동화지만 청불입니다', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>동화지만 청불입니다 개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025년 1월 8일</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>동화지만 청불입니다 출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>박지현 시원 성동일</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>동화지만 청불입니다 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>동화 작가가 꿈인 ‘단비’는 불법 음란물 단속팀의 새내기이다. 그러나 우연한 사고로 성인 웹소설계 대부인 ‘황대표’와 노예 계약을 맺게 되고, 하루아침에 19금 소설을 집필하게 된다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그동안 접해본 적 없는 장르에 난항을 겪던 ‘단비’는 음란물 단속을 하던 권태기에 빠진 선배 ‘정석’의 응원과 친구들의 생생한 경험담에 힘입어, 자신도 몰랐던 성스러운 재능을 발견하게 된다.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: '2. 폭락',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>2번째 작품은 영화 폭락 입니다.</b></p>'
-    },
-    { type: 'image', src: '/images/post130_img3.jpg', alt: '동화지만 청불입니다', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>폭락 개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>2025년 1월 15일</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>폭락 출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>송재림, 안우연, 민성욱, 소희정</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>폭락 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>“기대에 부응해야지?” 엄마 옥자의 열정과 본인의 타고난 욕심으로 서울 대치동으로 위장 전입한 도현. 벤츠를 타고 다니는 부자이면서 장애 혜택을 받고 있던 친구에게 교환학생 기회마저 빼앗기고, 그 친구가 진짜 장애인이 아니었다는 사실을 알게 된 후, 정부 지원금의 맹점에 눈을 뜬다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>대학교 창업 동아리에서 만난 동기 지우와 함께 청년, 여성, 장애 등의 가산점을 악용해 청년 창업 지원금을 수급하며, “창업 지원금은 나랏돈으로 망해 보라고 주는 눈 먼 돈”이라는 사실을 간파하고 의도적으로 고의 부도와 폐업을 전전한다. 투자자 케빈에게 억대 후원을 받으며 암호화폐 벤처를 창업한 도현은 야망에 이끌려 \'MOMMY\' 코인을 개발해 역대 최고 실적을 기록한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>하지만 알고리즘과 불완전한 이자 수익 등으로 금융기관의 감시가 시작되고, 도현은 결국 어떤 결정을 내리게 될까?</p>'
-    },
+    { type: 'h2', id: "section1", text: "2025년 1월 개봉 예정 한국 영화 기대작 총정리 TOP 5", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'body', html: "<p><b>2025년 한국 개봉예정영화 기대작들을 총정리 하였습니다.</b></p>" },
+    { type: 'image', src: "/images/post130_img1.jpg", alt: "2025년 한국 개봉예정영화 TOP 5", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><span style=&quot;background-color: transparent;&quot;><b>한국영화 외 1월에 개봉하는 모든 개봉예정영화를 정리하였습니다.</b></span></p>" },
+    { type: 'body', html: "<p><span style=&quot;letter-spacing: 0px;&quot;>각 영화의 로튼토마토 평점부터 평론가 후기까지, 모든 정보를 담았습니다.</span><span style=&quot;letter-spacing: 0px;&quot;> </span></p>" },
+    { type: 'body', html: "<p><b><span style=&quot;letter-spacing: 0px;&quot;><span style=&quot;background-color: #9feec3;&quot;>아래 링크로 이동</span>하여</span><span style=&quot;letter-spacing: 0px;&quot;> </span><span style=&quot;letter-spacing: 0px;&quot;>보고 싶은 영화를 찾아보시길 바랍니다.</span></b></p>" },
+    { type: 'body', html: "<div style=&quot;width: 100%;&quot;><center><a href=&quot;https://ambitstock.com/376&quot; title=&quot;개봉예정영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>1월 모든 개봉예정영화 보러 가기👉</button></a></center></div>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;874&quot; data-origin-width=&quot;1050&quot;><span data-alt=&quot;2025년 한국 개봉예정영화 TOP 5&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bwWG7E/btsLz3xDd8v/AAAAAAAAAAAAAAAAAAAAAHuv0JhAK2v5kbldJ1esqQh9nZPi6SbtRWqQYIABnPNQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oXgXPLD%2F4K3YpazMtXZL3xTpGpk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bwWG7E/btsLz3xDd8v/AAAAAAAAAAAAAAAAAAAAAHuv0JhAK2v5kbldJ1esqQh9nZPi6SbtRWqQYIABnPNQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oXgXPLD%2F4K3YpazMtXZL3xTpGpk%3D&quot;></span><figcaption>2025년 한국 개봉예정영화 TOP 5</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section2", text: "1. 동화지만 청불입니다", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<p><b>첫번째 작품은 '동화지만 청불입니다'입니다.</b></p>" },
+    { type: 'image', src: "/images/post130_img2.jpg", alt: "동화지만 청불입니다", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-동화지만-청불입니다-개봉일", text: "동화지만 청불입니다 개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025년 1월 8일</p>" },
+    { type: 'h2', id: "section-동화지만-청불입니다-출연진", text: "동화지만 청불입니다 출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p><b>박지현 시원 성동일</b></p>" },
+    { type: 'h2', id: "section-동화지만-청불입니다-줄거리", text: "동화지만 청불입니다 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>동화 작가가 꿈인 ‘단비’는 불법 음란물 단속팀의 새내기이다. 그러나 우연한 사고로 성인 웹소설계 대부인 ‘황대표’와 노예 계약을 맺게 되고, 하루아침에 19금 소설을 집필하게 된다.</p>" },
+    { type: 'body', html: "<p>그동안 접해본 적 없는 장르에 난항을 겪던 ‘단비’는 음란물 단속을 하던 권태기에 빠진 선배 ‘정석’의 응원과 친구들의 생생한 경험담에 힘입어, 자신도 몰랐던 성스러운 재능을 발견하게 된다.</p>" },
+    { type: 'h2', id: "section3", text: "2. 폭락", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
+    { type: 'body', html: "<p><b>2번째 작품은 영화 폭락 입니다.</b></p>" },
+    { type: 'image', src: "/images/post130_img3.jpg", alt: "동화지만 청불입니다", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-폭락-개봉일", text: "폭락 개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>2025년 1월 15일</p>" },
+    { type: 'h2', id: "section-폭락-출연진", text: "폭락 출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>송재림, 안우연, 민성욱, 소희정</p>" },
+    { type: 'h2', id: "section-폭락-줄거리", text: "폭락 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>“기대에 부응해야지?” 엄마 옥자의 열정과 본인의 타고난 욕심으로 서울 대치동으로 위장 전입한 도현. 벤츠를 타고 다니는 부자이면서 장애 혜택을 받고 있던 친구에게 교환학생 기회마저 빼앗기고, 그 친구가 진짜 장애인이 아니었다는 사실을 알게 된 후, 정부 지원금의 맹점에 눈을 뜬다.</p>" },
+    { type: 'body', html: "<p>대학교 창업 동아리에서 만난 동기 지우와 함께 청년, 여성, 장애 등의 가산점을 악용해 청년 창업 지원금을 수급하며, “창업 지원금은 나랏돈으로 망해 보라고 주는 눈 먼 돈”이라는 사실을 간파하고 의도적으로 고의 부도와 폐업을 전전한다. 투자자 케빈에게 억대 후원을 받으며 암호화폐 벤처를 창업한 도현은 야망에 이끌려 'MOMMY' 코인을 개발해 역대 최고 실적을 기록한다.</p>" },
+    { type: 'body', html: "<p>하지만 알고리즘과 불완전한 이자 수익 등으로 금융기관의 감시가 시작되고, 도현은 결국 어떤 결정을 내리게 될까?</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section4',
-      text: '3. 히트맨 2',
-      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>3번째 작품은 히트맨 2 입니다.</b></p>'
-    },
-    { type: 'image', src: '/images/post130_img4.jpg', alt: '영화 폭락', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>영화 히트맨 2 개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025년 1월 22일</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>히트맨 2 출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>권상우, 정준호, 이이경, 황우슬혜</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>히트맨 2 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>‘HITMAN IS BACK!’ 대한민국을 포복절도하게 만든 암살요원, 이번엔 ‘암살요인 준’으로 돌아왔다! 욱해서 그린 웹툰 *\'암살요원 준\'*의 성공으로 잠시 흥행 작가가 된 \'준\'. 그러나 시즌 2 연재와 동시에 \'뇌절작가\'로 전락한 그는, 망작이 된 시즌 2로 오히려 자신을 노리는 글로벌 악당들의 내한 열풍을 일으킨다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>아무것도 모른 채 다시 한번 대히트를 꿈꾸며 신작 웹툰 연재에 돌입한 \'준\'. 하지만 그의 웹툰을 모방한 테러가 발생하고, 국정원은 그를 범인으로 지목하는데… 과연 ‘준’은 예언자인가, 아니면 테러리스트인가? 2025년, 더욱 강렬해진 그의 대히트를 기대하라!</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2025년 1월 개봉예정작 총정리&quot;><span style=&quot;background-color: #f3c000;&quot;><b>2025년 1월 개봉하는 모든 영화 총정리! 영화 추천 순위 TOP10</b></span></a></p>'
-    },
-    {
-      type: 'cta',
-      href: '/release-upcoming-guide-movie-recommend-top10/',
-      text: '2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10'
-    },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '4. 검은 수녀들',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>4번째 작품은 검은 수녀들 입니다.</b></p>'
-    },
-    { type: 'image', src: '/images/post130_img5.jpg', alt: '영화 폭락', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>검은 수녀들 개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025년 1월 24일</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>검은 수녀들 출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>송혜교, 전여빈, 이진욱, 허준호</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>검은 수녀들 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>금지된 곳으로 갈 준비가 되었습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>‘유니아’ 수녀(송혜교)는 ‘희준’(문우진)의 몸에 숨어든 악령이 12형상 중 하나라고 확신합니다. 당장 올 수 없는 구마 사제를 기다리다가는 부마자가 희생될 것이 분명한 상황. 결국 ‘유니아’는 소년을 구하기 위해 ‘서품을 받지 못한 수녀는 구마를 할 수 없다’는 금기를 깨기로 결심합니다. 하지만 담당 신부인 ‘바오로’(이진욱)는 ‘희준’을 살릴 수 있는 것은 오직 의학이라 믿고 있습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>우연히 기회가 찾아오면서, 유니아는 그의 제자 미카엘라 수녀(전여빈)의 비밀을 알게 되고, ‘희준’을 병원에서 빼내기 위해 막무가내로 도움을 요청합니다. ‘미카엘라’는 거침없는 ‘유니아’에게 반발하지만, 동질감을 느끼며 ‘희준’을 위해 힘을 보태기로 결심합니다. 마침내 두 수녀는 수단과 방법을 가리지 않고 오직 소년을 살리기 위한 위험한 의식을 시작하는데... 원칙은 단 하나, 무조건 살린다!</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section6',
-      text: '5. 귀신 경찰',
-      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>다섯번째 작품은 귀신 경찰 입니다.</b></p>'
-    },
-    { type: 'image', src: '/images/post130_img6.jpg', alt: '히트맨 2', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '귀신 경찰 개봉일',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<p>2025년 1월 1일</p>'
-    },
-    { type: 'image', src: '/images/post130_img11.jpg', alt: '귀신 경찰', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post130_img10.jpg', alt: '귀신 경찰', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post130_img9.jpg', alt: '검은 수녀들', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post130_img8.jpg', alt: '검은 수녀들', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post130_img7.jpg', alt: '히트맨 2', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>귀신 경찰 출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>신현준 김수미 정준호 하회정</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>귀신 경찰 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>선생님 그때부터였던 것 같아요…. 우리 애가 나가더니, 갑자기 엄마~ 엄마~ 목 터지게 부르는 거야! 그래서, 이 개#@뒈!@#^%놈이 또 무슨 사고 치고 지@#%염@$#나 내가 설거지하다 말고 방망이 들고 옥상에 뛰어나갔더니 글쎄 어머머 벼락을 맞았지 뭐예요?! 그리고 애가 얼마나 놀랬으면 지리는거야 내가 계속 지리라 했어요. 선생님 잘했죠??? 그런데 그날 이후… 하찮은 능력이 생긴 경찰과 그 가족의 웃음벨 코미디가 시작된다!</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section8',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-drama-recommend-netflix/',
-      text: '볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-movie-recommend-release-upcoming-guide/',
-      text: '2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
+    { type: 'h2', id: "section4", text: "3. 히트맨 2", gradientStyle: "linear-gradient(to right, #e53935, #ef5350)" },
+    { type: 'body', html: "<p><b>3번째 작품은 히트맨 2 입니다.</b></p>" },
+    { type: 'image', src: "/images/post130_img4.jpg", alt: "영화 폭락", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-영화-히트맨-2-개봉일", text: "영화 히트맨 2 개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025년 1월 22일</p>" },
+    { type: 'h2', id: "section-히트맨-2-출연진", text: "히트맨 2 출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>권상우, 정준호, 이이경, 황우슬혜</p>" },
+    { type: 'h2', id: "section-히트맨-2-줄거리", text: "히트맨 2 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>‘HITMAN IS BACK!’ 대한민국을 포복절도하게 만든 암살요원, 이번엔 ‘암살요인 준’으로 돌아왔다! 욱해서 그린 웹툰 *'암살요원 준'*의 성공으로 잠시 흥행 작가가 된 '준'. 그러나 시즌 2 연재와 동시에 '뇌절작가'로 전락한 그는, 망작이 된 시즌 2로 오히려 자신을 노리는 글로벌 악당들의 내한 열풍을 일으킨다.</p>" },
+    { type: 'body', html: "<p>아무것도 모른 채 다시 한번 대히트를 꿈꾸며 신작 웹툰 연재에 돌입한 '준'. 하지만 그의 웹툰을 모방한 테러가 발생하고, 국정원은 그를 범인으로 지목하는데… 과연 ‘준’은 예언자인가, 아니면 테러리스트인가? 2025년, 더욱 강렬해진 그의 대히트를 기대하라!</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2025년 1월 개봉예정작 총정리&quot;><span style=&quot;background-color: #f3c000;&quot;><b>2025년 1월 개봉하는 모든 영화 총정리! 영화 추천 순위 TOP10</b></span></a></p>" },
+    { type: 'cta', href: "/release-upcoming-guide-movie-recommend-top10/", text: "2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10" },
+    { type: 'h2', id: "section5", text: "4. 검은 수녀들", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
+    { type: 'body', html: "<p><b>4번째 작품은 검은 수녀들 입니다.</b></p>" },
+    { type: 'image', src: "/images/post130_img5.jpg", alt: "영화 폭락", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-검은-수녀들-개봉일", text: "검은 수녀들 개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025년 1월 24일</p>" },
+    { type: 'h2', id: "section-검은-수녀들-출연진", text: "검은 수녀들 출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>송혜교, 전여빈, 이진욱, 허준호</p>" },
+    { type: 'h2', id: "section-검은-수녀들-줄거리", text: "검은 수녀들 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>금지된 곳으로 갈 준비가 되었습니다.</p>" },
+    { type: 'body', html: "<p>‘유니아’ 수녀(송혜교)는 ‘희준’(문우진)의 몸에 숨어든 악령이 12형상 중 하나라고 확신합니다. 당장 올 수 없는 구마 사제를 기다리다가는 부마자가 희생될 것이 분명한 상황. 결국 ‘유니아’는 소년을 구하기 위해 ‘서품을 받지 못한 수녀는 구마를 할 수 없다’는 금기를 깨기로 결심합니다. 하지만 담당 신부인 ‘바오로’(이진욱)는 ‘희준’을 살릴 수 있는 것은 오직 의학이라 믿고 있습니다.</p>" },
+    { type: 'body', html: "<p>우연히 기회가 찾아오면서, 유니아는 그의 제자 미카엘라 수녀(전여빈)의 비밀을 알게 되고, ‘희준’을 병원에서 빼내기 위해 막무가내로 도움을 요청합니다. ‘미카엘라’는 거침없는 ‘유니아’에게 반발하지만, 동질감을 느끼며 ‘희준’을 위해 힘을 보태기로 결심합니다. 마침내 두 수녀는 수단과 방법을 가리지 않고 오직 소년을 살리기 위한 위험한 의식을 시작하는데... 원칙은 단 하나, 무조건 살린다!</p>" },
+    { type: 'h2', id: "section6", text: "5. 귀신 경찰", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
+    { type: 'body', html: "<p><b>다섯번째 작품은 귀신 경찰 입니다.</b></p>" },
+    { type: 'image', src: "/images/post130_img6.jpg", alt: "히트맨 2", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section7", text: "귀신 경찰 개봉일", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'body', html: "<p>2025년 1월 1일</p>" },
+    { type: 'image', src: "/images/post130_img11.jpg", alt: "귀신 경찰", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post130_img10.jpg", alt: "귀신 경찰", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post130_img9.jpg", alt: "검은 수녀들", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post130_img8.jpg", alt: "검은 수녀들", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post130_img7.jpg", alt: "히트맨 2", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-귀신-경찰-출연진", text: "귀신 경찰 출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>신현준 김수미 정준호 하회정</p>" },
+    { type: 'h2', id: "section-귀신-경찰-줄거리", text: "귀신 경찰 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>선생님 그때부터였던 것 같아요…. 우리 애가 나가더니, 갑자기 엄마~ 엄마~ 목 터지게 부르는 거야! 그래서, 이 개#@뒈!@#^%놈이 또 무슨 사고 치고 지@#%염@$#나 내가 설거지하다 말고 방망이 들고 옥상에 뛰어나갔더니 글쎄 어머머 벼락을 맞았지 뭐예요?! 그리고 애가 얼마나 놀랬으면 지리는거야 내가 계속 지리라 했어요. 선생님 잘했죠??? 그런데 그날 이후… 하찮은 능력이 생긴 경찰과 그 가족의 웃음벨 코미디가 시작된다!</p>" },
+    { type: 'h2', id: "section8", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
+    { type: 'cta', href: "/movie-drama-recommend-netflix/", text: "볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>" },
+    { type: 'cta', href: "/netflix-movie-recommend-release-upcoming-guide/", text: "2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!" },
+    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
+    { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

@@ -1,242 +1,72 @@
 const post = {
   id: 122,
   sections: [
-    {
-      type: 'intro',
-      html: '<p>애니멀 킹덤 관람평 포토 뜻 해석 로튼 평점 < 신선도 보증 프랑스 영화 ></p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post122_thumb.svg',
-      alt: '애니멀 킹덤 관람평 포토 뜻 해석 로튼 평점 < 신선도 보증 프랑스 영화 >',
-      caption: '애니멀 킹덤 관람평 포토 뜻 해석 로튼 평점 < 신선도 보증 프랑스 영화 >'
-    },
+    { type: 'intro', html: "<p>애니멀 킹덤 관람평 포토 뜻 해석 로튼 평점 < 신선도 보증 프랑스 영화 ></p>" },
+    { type: 'image', src: "/images/post122_thumb.svg", alt: "애니멀 킹덤 관람평 포토 뜻 해석 로튼 평점 < 신선도 보증 프랑스 영화 >", caption: "애니멀 킹덤 관람평 포토 뜻 해석 로튼 평점 < 신선도 보증 프랑스 영화 >" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section1',
-      text: '영화 애니멀 킹덤',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>영화 애니멀 킹덤이 2025년 1월 22일 개봉합니다.</b></p>'
-    },
-    { type: 'image', src: '/images/post122_img1.jpg', alt: '애니멀 킹덤', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>프랑스 영화인 이 작품은 이미 해외 평론가에게도 좋은 평가를 받으며 2025년 1월 기대작으로 뽑히고 있습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이번 포스팅에서는 영화 제목인 애니멀 킹덤 ( The Animal Kingdom )의 뜻 해석, 해외 로튼 토마토 평론가 반응 후기를 함께 알아보도록 하겠습니다.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    { type: 'image', src: '/images/post122_img2.jpg', alt: '애니멀 킹덤', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'cta',
-      href: '/movie-drama-recommend-netflix/',
-      text: '볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: '애니멀 킹덤 줄거리',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>사랑하는 가족과 친구들, 이웃들이 </b><br><b>하나둘 동물로 변해가기 시작했다.</b> </br></span></blockquote>'
-    },
-    { type: 'image', src: '/images/post122_img3.jpg', alt: '애니멀 킹덤 뜻 해석', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>원인 불명의 바이러스가 퍼지면서 인간이 동물로 변하는 세상이 펼쳐진다. ‘에밀’은 모든 것이 혼란스러워지고, 그의 아버지 ‘프랑수아’는 그런 아들을 지키기 위해 애쓴다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>새로운 학교에 적응하던 어느 날, ‘에밀’은 출입이 금지된 숲을 발견하게 되는데… 이제 막 현실의 또 다른 차원이 열리는, 강렬하고 경이로운 미스터리 판타지 드라마가 시작된다!</p>'
-    },
+    { type: 'h2', id: "section1", text: "영화 애니멀 킹덤", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'body', html: "<p><b>영화 애니멀 킹덤이 2025년 1월 22일 개봉합니다.</b></p>" },
+    { type: 'image', src: "/images/post122_img1.jpg", alt: "애니멀 킹덤", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>프랑스 영화인 이 작품은 이미 해외 평론가에게도 좋은 평가를 받으며 2025년 1월 기대작으로 뽑히고 있습니다.</p>" },
+    { type: 'body', html: "<p>이번 포스팅에서는 영화 제목인 애니멀 킹덤 ( The Animal Kingdom )의 뜻 해석, 해외 로튼 토마토 평론가 반응 후기를 함께 알아보도록 하겠습니다.</p>" },
+    { type: 'h2', id: "section2", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
+    { type: 'image', src: "/images/post122_img2.jpg", alt: "애니멀 킹덤", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "/movie-drama-recommend-netflix/", text: "볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>" },
+    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
+    { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
+    { type: 'h2', id: "section3", text: "애니멀 킹덤 줄거리", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
+    { type: 'body', html: "<blockquote><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>사랑하는 가족과 친구들, 이웃들이 </b><br><b>하나둘 동물로 변해가기 시작했다.</b> </br></span></blockquote>" },
+    { type: 'image', src: "/images/post122_img3.jpg", alt: "애니멀 킹덤 뜻 해석", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>원인 불명의 바이러스가 퍼지면서 인간이 동물로 변하는 세상이 펼쳐진다. ‘에밀’은 모든 것이 혼란스러워지고, 그의 아버지 ‘프랑수아’는 그런 아들을 지키기 위해 애쓴다.</p>" },
+    { type: 'body', html: "<p>새로운 학교에 적응하던 어느 날, ‘에밀’은 출입이 금지된 숲을 발견하게 되는데… 이제 막 현실의 또 다른 차원이 열리는, 강렬하고 경이로운 미스터리 판타지 드라마가 시작된다!</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section4',
-      text: '애니멀 킹덤(The Animal Kingdom) 영어 제목 뜻',
-      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
-    },
-    {
-      type: 'body',
-      html: '<p>프랑스 영화 <i>‘애니멀 킹덤’(The Animal Kingdom)</i>은 인간과 동물의 경계를 탐구하는 독특한 SF 작품이다. 영화의 배경은 지구 곳곳에서 인간이 동물로 변이 하는 현상이 발생하는 세계이며, 주인공 에밀은 아버지와 함께 변이로 인해 탈출한 어머니를 찾는 여정을 떠나며 자신에게도 변이 증상이 나타나는 것을 경험한다.</p>'
-    },
-    { type: 'image', src: '/images/post122_img4.jpg', alt: '애니멀 킹덤 로튼토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>애니멀 킹덤의 뜻은? 제목의 상징성 해석</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화 제목 <b>‘애니멀 킹덤’</b>은 문자 그대로 ‘동물의 왕국’이라는 의미를 가지며, 인간과 동물의 경계가 모호해진 세계를 상징한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이 제목은 인간 사회의 본능적이고 원초적인 면을 ‘동물의 왕국’에 비유하며, 인간성과 동물성의 경계를 넘나드는 존재들을 통해 인간의 본질과 사회적 구조를 재고하게 만든다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>인간다움이란 무엇인가?</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화는 특수 효과와 배우들의 연기를 통해 이러한 주제를 효과적으로 전달하며, 인간과 동물의 경계에 대한 철학적·생태학적 성찰을 담고 있다. 특히, 인간이 가진 본능적 욕망과 사회적 억압의 충돌이 영화 전반에 걸쳐 표현되며, 이를 통해 관객들에게 ‘인간다움이란 무엇인가?’라는 질문을 던진다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>결국 무엇을 말하는가? 결론</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p><i>‘애니멀 킹덤’</i>이라는 제목은 영화의 주제와 메시지를 함축적으로 담고 있으며, 인간과 동물 사이의 경계가 사라진 세계를 통해 우리 사회의 본질을 되돌아보게 하는 작품이다.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '애니멀 킹덤 로튼 토마토 평론가 평점',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>애니멀 킹덤 로튼 토마토 평론가 평점입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post122_img5.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;562&quot; data-origin-width=&quot;1716&quot;><span data-alt=&quot;애니멀 킹덤 로튼토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cZwHNl/btsLBugRaL7/AAAAAAAAAAAAAAAAAAAAAOCE8nJkWYjB0W4Zqj8FbJ8RetOs9FCNlhQKGtl2U7pN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ku7SEmU4EPpUKN1rgR5vEQjfYwA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cZwHNl/btsLBugRaL7/AAAAAAAAAAAAAAAAAAAAAOCE8nJkWYjB0W4Zqj8FbJ8RetOs9FCNlhQKGtl2U7pN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ku7SEmU4EPpUKN1rgR5vEQjfYwA%3D&quot;></span><figcaption>애니멀 킹덤 로튼토마토 평론가 평점</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 98%, 관객 평점 90%입니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>90점대 후반의 높은 평론가 평점과 더불어 <b>로튼 토마토 신선도 보증 마크 또한 획득하며 좋은 평가</b>를 받았습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>관객 평점 또한 90점대를 기록하며 두 그룹에게 모두 좋은 평가를 받았습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>어떠한 부분이 평론가들의 좋은 평점을 이끌었는지 후기 관람평 확인해 보겠습니다.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section6',
-      text: '애니멀 킹덤 평론가 결말후기 관람평',
-      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>애니멀 킹덤 평론가 결말후기 관람평입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post122_img12.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post122_img11.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post122_img10.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post122_img9.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post122_img8.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post122_img7.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post122_img6.jpg', alt: '애니멀 킹덤 관람평 포토', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><b>Marcelo Stiletano - 평점 4/5 (오리지널 스코어: 4/5)</b><br>이 영화는 발견과 배움의 이야기로, 그 안에 충분한 판타지적 요소가 담겨 있어 다른 모든 작품들과는 다른 특이한 작품으로 인정받을 만하다.</br></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Diego Batlle - 평점 3.5/5 (오리지널 스코어: 3.5/5)</b><br/>항상 예측할 수 없는 영화로, 심각한 장면과 코믹한 장면을 자연스럽고 시각적이며 창의적인 방식으로 오가며 이야기를 풀어낸다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Steve Murray - 평점 없음</b><br/>사춘기를 다룬 터무니없는 은유가 될 뻔한 이야기는, 사회가 항상 \'우리 vs 그들\'로 나누려는 끊임없는 의지를 보여주는 흥미로운 우화로 변한다. 이 영화는 단순한 논문이 아니라, 기억에 남을 수 있는 아름답고 시적인 장면들이 담겨 있다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Emiliano Basile - 평점 7/10 (오리지널 스코어: 7/10)</b><br/>이 영화는 전환기의 이야기를 늑대인간 신화와 결합하여, 다른 것에 대한 두려움과 개인적, 사회적 차원에서의 수용의 중요성에 대해 관객에게 성찰을 유도한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>John Serba - 평점 없음</b><br/>마법적 리얼리즘은 깊은 의미를 가질 수도 있고, 매우 어리석을 수도 있다. <i>애니멀 킹덤</i>은 그 중간을 잘 보여준다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Peter Bradshaw - 평점 3/5 (오리지널 스코어: 3/5)</b><br/>토마스 칼리의 공상 과학 판타지는 너무 많은 감수성과 좋은 취향을 가지고 있어, 공포 스릴러나 괴물 영화로서의 역할을 다 하지 못한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Brandon Judell - 평점 8/10 (오리지널 스코어: 8/10)</b><br/>아름답게 촬영되었고, 완벽하게 캐스팅되고 연출된 애니멀 킹덤은 인간적인 영화를 최고의 모습으로 보여주는 활기찬 예시이다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Brian Eggert - 평점 4/4 (오리지널 스코어: 4/4)</b><br/>이 영화는 그 주제들을 다룰 때 과학 소설을 사용하여 깊은 메시지를 전달한다. 칼리 감독은 관객이 메시지를 해석할 수 있도록 신뢰하며, 이는 장르 영화의 보람 있는 힘을 보여준다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Wade Major - 평점 없음</b><br/>할리우드 블록버스터처럼 만들어지지 않고, 훨씬 더 캐릭터와 친밀감에 집중하여 효과를 과시하는 대신 인물들의 내면을 다룬 영화이다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Andy Klein - 평점 없음</b><br/>이 영화는 공포 영화라기보다는 사실상 인간적인 영화에 가깝다. 나는 이 영화를 매우 좋아했다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>David Fear - 평점 없음</b><br/>키르셔와 뒤리스가 어떻게 아버지와 아들 이야기를 환상적인 요소에 담아내고, 유전자의 혼란스러운 이야기를 떠나보내는 고통에 대한 대가로 변형시킨 부분에서 영화를 계속 지켜볼 가치가 있다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Sara Clements - 평점 없음</b><br/><i>애니멀 킹덤</i>은 두려움이 어떻게 우리를 이끄는지에 대해 깊이 탐구하며, 그 중심에는 강력한 아버지와 아들 이야기가 있다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Dennis Harvey - 평점 없음</b><br/>결과적으로 이 영화는 완전한 성공이라고 보기엔 부족하다. 세계관 구축이 새롭지 않게 느껴지고, 속편에 대해선 무관심하지만, 그럼에도 불구하고 매우 아름답고, 잘 완성된 마법적 현실주의적 모험 영화로 즐길 수 있다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Kurt Loder - 평점 없음</b><br/><i>애니멀 킹덤</i>은 전형적인 공포 영화보다는 구식의 메시지를 전달하는 영화에 가깝다 (간혹 종양처럼 생긴 머리를 가진 캐릭터가 등장하긴 하지만).</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Mary Kassel - 평점 3/5 (오리지널 스코어: 3/5)</b><br/>수용에 대한 익숙한 우화에서, 애니멀 킹덤(The Animal Kingdom)은 그 메시지를 너무 천천히 전달하지만, 훌륭한 시각적 요소와 견고한 연기를 포함하고 있다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Josh Goller - 평점 3.5/5 (오리지널 스코어: 3.5/5)</b><br/><i>애니멀 킹덤</i>은 인간의 감정을 중심으로 한 판타지적 전제를 다루며, 그 이야기는 마치 자연의 냉혹한 무관심처럼 냉정하게 펼쳐진다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이상으로 영화 애니멀 킹덤 로튼 토마토 해외 평론가 관람평 결말후기 포스팅 마칩니다.</p>'
-    },
-    {
-      type: 'ending',
-      html: '<p>감사합니다.</p>'
-    },
+    { type: 'h2', id: "section4", text: "애니멀 킹덤(The Animal Kingdom) 영어 제목 뜻", gradientStyle: "linear-gradient(to right, #e53935, #ef5350)" },
+    { type: 'body', html: "<p>프랑스 영화 <i>‘애니멀 킹덤’(The Animal Kingdom)</i>은 인간과 동물의 경계를 탐구하는 독특한 SF 작품이다. 영화의 배경은 지구 곳곳에서 인간이 동물로 변이 하는 현상이 발생하는 세계이며, 주인공 에밀은 아버지와 함께 변이로 인해 탈출한 어머니를 찾는 여정을 떠나며 자신에게도 변이 증상이 나타나는 것을 경험한다.</p>" },
+    { type: 'image', src: "/images/post122_img4.jpg", alt: "애니멀 킹덤 로튼토마토 평론가 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-애니멀-킹덤의-뜻은--제목의-상징성-해석", text: "애니멀 킹덤의 뜻은? 제목의 상징성 해석", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>영화 제목 <b>‘애니멀 킹덤’</b>은 문자 그대로 ‘동물의 왕국’이라는 의미를 가지며, 인간과 동물의 경계가 모호해진 세계를 상징한다.</p>" },
+    { type: 'body', html: "<p>이 제목은 인간 사회의 본능적이고 원초적인 면을 ‘동물의 왕국’에 비유하며, 인간성과 동물성의 경계를 넘나드는 존재들을 통해 인간의 본질과 사회적 구조를 재고하게 만든다.</p>" },
+    { type: 'h2', id: "section-인간다움이란-무엇인가-", text: "인간다움이란 무엇인가?", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>영화는 특수 효과와 배우들의 연기를 통해 이러한 주제를 효과적으로 전달하며, 인간과 동물의 경계에 대한 철학적·생태학적 성찰을 담고 있다. 특히, 인간이 가진 본능적 욕망과 사회적 억압의 충돌이 영화 전반에 걸쳐 표현되며, 이를 통해 관객들에게 ‘인간다움이란 무엇인가?’라는 질문을 던진다.</p>" },
+    { type: 'h2', id: "section-결국-무엇을-말하는가--결론", text: "결국 무엇을 말하는가? 결론", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p><i>‘애니멀 킹덤’</i>이라는 제목은 영화의 주제와 메시지를 함축적으로 담고 있으며, 인간과 동물 사이의 경계가 사라진 세계를 통해 우리 사회의 본질을 되돌아보게 하는 작품이다.</p>" },
+    { type: 'h2', id: "section5", text: "애니멀 킹덤 로튼 토마토 평론가 평점", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>애니멀 킹덤 로튼 토마토 평론가 평점입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post122_img5.jpg", alt: "애니멀 킹덤 관람평 포토", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;562&quot; data-origin-width=&quot;1716&quot;><span data-alt=&quot;애니멀 킹덤 로튼토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cZwHNl/btsLBugRaL7/AAAAAAAAAAAAAAAAAAAAAOCE8nJkWYjB0W4Zqj8FbJ8RetOs9FCNlhQKGtl2U7pN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ku7SEmU4EPpUKN1rgR5vEQjfYwA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cZwHNl/btsLBugRaL7/AAAAAAAAAAAAAAAAAAAAAOCE8nJkWYjB0W4Zqj8FbJ8RetOs9FCNlhQKGtl2U7pN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ku7SEmU4EPpUKN1rgR5vEQjfYwA%3D&quot;></span><figcaption>애니멀 킹덤 로튼토마토 평론가 평점</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 98%, 관객 평점 90%입니다.</b></span></p>" },
+    { type: 'body', html: "<p>90점대 후반의 높은 평론가 평점과 더불어 <b>로튼 토마토 신선도 보증 마크 또한 획득하며 좋은 평가</b>를 받았습니다.</p>" },
+    { type: 'body', html: "<p>관객 평점 또한 90점대를 기록하며 두 그룹에게 모두 좋은 평가를 받았습니다.</p>" },
+    { type: 'body', html: "<p>어떠한 부분이 평론가들의 좋은 평점을 이끌었는지 후기 관람평 확인해 보겠습니다.</p>" },
+    { type: 'h2', id: "section6", text: "애니멀 킹덤 평론가 결말후기 관람평", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>애니멀 킹덤 평론가 결말후기 관람평입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post122_img12.jpg", alt: "애니멀 킹덤 관람평 포토", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post122_img11.jpg", alt: "애니멀 킹덤 관람평 포토", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post122_img10.jpg", alt: "애니멀 킹덤 관람평 포토", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post122_img9.jpg", alt: "애니멀 킹덤 관람평 포토", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post122_img8.jpg", alt: "애니멀 킹덤 관람평 포토", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post122_img7.jpg", alt: "애니멀 킹덤 관람평 포토", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post122_img6.jpg", alt: "애니멀 킹덤 관람평 포토", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><b>Marcelo Stiletano - 평점 4/5 (오리지널 스코어: 4/5)</b><br>이 영화는 발견과 배움의 이야기로, 그 안에 충분한 판타지적 요소가 담겨 있어 다른 모든 작품들과는 다른 특이한 작품으로 인정받을 만하다.</br></p>" },
+    { type: 'body', html: "<p><b>Diego Batlle - 평점 3.5/5 (오리지널 스코어: 3.5/5)</b><br/>항상 예측할 수 없는 영화로, 심각한 장면과 코믹한 장면을 자연스럽고 시각적이며 창의적인 방식으로 오가며 이야기를 풀어낸다.</p>" },
+    { type: 'body', html: "<p><b>Steve Murray - 평점 없음</b><br/>사춘기를 다룬 터무니없는 은유가 될 뻔한 이야기는, 사회가 항상 '우리 vs 그들'로 나누려는 끊임없는 의지를 보여주는 흥미로운 우화로 변한다. 이 영화는 단순한 논문이 아니라, 기억에 남을 수 있는 아름답고 시적인 장면들이 담겨 있다.</p>" },
+    { type: 'body', html: "<p><b>Emiliano Basile - 평점 7/10 (오리지널 스코어: 7/10)</b><br/>이 영화는 전환기의 이야기를 늑대인간 신화와 결합하여, 다른 것에 대한 두려움과 개인적, 사회적 차원에서의 수용의 중요성에 대해 관객에게 성찰을 유도한다.</p>" },
+    { type: 'body', html: "<p><b>John Serba - 평점 없음</b><br/>마법적 리얼리즘은 깊은 의미를 가질 수도 있고, 매우 어리석을 수도 있다. <i>애니멀 킹덤</i>은 그 중간을 잘 보여준다.</p>" },
+    { type: 'body', html: "<p><b>Peter Bradshaw - 평점 3/5 (오리지널 스코어: 3/5)</b><br/>토마스 칼리의 공상 과학 판타지는 너무 많은 감수성과 좋은 취향을 가지고 있어, 공포 스릴러나 괴물 영화로서의 역할을 다 하지 못한다.</p>" },
+    { type: 'body', html: "<p><b>Brandon Judell - 평점 8/10 (오리지널 스코어: 8/10)</b><br/>아름답게 촬영되었고, 완벽하게 캐스팅되고 연출된 애니멀 킹덤은 인간적인 영화를 최고의 모습으로 보여주는 활기찬 예시이다.</p>" },
+    { type: 'body', html: "<p><b>Brian Eggert - 평점 4/4 (오리지널 스코어: 4/4)</b><br/>이 영화는 그 주제들을 다룰 때 과학 소설을 사용하여 깊은 메시지를 전달한다. 칼리 감독은 관객이 메시지를 해석할 수 있도록 신뢰하며, 이는 장르 영화의 보람 있는 힘을 보여준다.</p>" },
+    { type: 'body', html: "<p><b>Wade Major - 평점 없음</b><br/>할리우드 블록버스터처럼 만들어지지 않고, 훨씬 더 캐릭터와 친밀감에 집중하여 효과를 과시하는 대신 인물들의 내면을 다룬 영화이다.</p>" },
+    { type: 'body', html: "<p><b>Andy Klein - 평점 없음</b><br/>이 영화는 공포 영화라기보다는 사실상 인간적인 영화에 가깝다. 나는 이 영화를 매우 좋아했다.</p>" },
+    { type: 'body', html: "<p><b>David Fear - 평점 없음</b><br/>키르셔와 뒤리스가 어떻게 아버지와 아들 이야기를 환상적인 요소에 담아내고, 유전자의 혼란스러운 이야기를 떠나보내는 고통에 대한 대가로 변형시킨 부분에서 영화를 계속 지켜볼 가치가 있다.</p>" },
+    { type: 'body', html: "<p><b>Sara Clements - 평점 없음</b><br/><i>애니멀 킹덤</i>은 두려움이 어떻게 우리를 이끄는지에 대해 깊이 탐구하며, 그 중심에는 강력한 아버지와 아들 이야기가 있다.</p>" },
+    { type: 'body', html: "<p><b>Dennis Harvey - 평점 없음</b><br/>결과적으로 이 영화는 완전한 성공이라고 보기엔 부족하다. 세계관 구축이 새롭지 않게 느껴지고, 속편에 대해선 무관심하지만, 그럼에도 불구하고 매우 아름답고, 잘 완성된 마법적 현실주의적 모험 영화로 즐길 수 있다.</p>" },
+    { type: 'body', html: "<p><b>Kurt Loder - 평점 없음</b><br/><i>애니멀 킹덤</i>은 전형적인 공포 영화보다는 구식의 메시지를 전달하는 영화에 가깝다 (간혹 종양처럼 생긴 머리를 가진 캐릭터가 등장하긴 하지만).</p>" },
+    { type: 'body', html: "<p><b>Mary Kassel - 평점 3/5 (오리지널 스코어: 3/5)</b><br/>수용에 대한 익숙한 우화에서, 애니멀 킹덤(The Animal Kingdom)은 그 메시지를 너무 천천히 전달하지만, 훌륭한 시각적 요소와 견고한 연기를 포함하고 있다.</p>" },
+    { type: 'body', html: "<p><b>Josh Goller - 평점 3.5/5 (오리지널 스코어: 3.5/5)</b><br/><i>애니멀 킹덤</i>은 인간의 감정을 중심으로 한 판타지적 전제를 다루며, 그 이야기는 마치 자연의 냉혹한 무관심처럼 냉정하게 펼쳐진다.</p>" },
+    { type: 'body', html: "<p>이상으로 영화 애니멀 킹덤 로튼 토마토 해외 평론가 관람평 결말후기 포스팅 마칩니다.</p>" },
+    { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

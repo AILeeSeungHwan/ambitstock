@@ -1,141 +1,47 @@
 const post = {
   id: 236,
   sections: [
-    {
-      type: 'cta',
-      href: '/movie-analysis-overseas-rating/',
-      text: '영화 룸 넥스트 도어 뜻 의미 해석 로튼 토마토 해외 평점 | 81회 베니스국제영화제(황금사자상)'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-movie-recommend-guide-top-10/',
-      text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/ending-review-guide/',
-      text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 영화 더 룸 넥스트 도어 시사회 후기 리뷰 관람평 알아보도록 하겠습니다.</b></span></p><p>어떠한 점이 베니스국제영화제 황금사자상을 수상하게 만들었는지, 작품성에 대한 이야기와 결말 후기로부터 확인해 보겠습니다.</p><p>이전 포스팅을 통하여 영화 룸 넥스트 도어의 뜻과 의미 해석, 그리고 로튼 토마토 해외 평점을 확인해 보실 수 있습니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post236_thumb.svg',
-      alt: '룸 넥스트 도어 시사회 결말 후기 리뷰 관람평 영화 예매 할까 말까 | 페드로 알모도바르 감독 수상작',
-      caption: '룸 넥스트 도어 시사회 결말 후기 리뷰 관람평 영화 예매 할까 말까 | 페드로 알모도바르 감독 수상작'
-    },
+    { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 영화 더 룸 넥스트 도어 시사회 후기 리뷰 관람평 알아보도록 하겠습니다.</b></span></p><p>어떠한 점이 베니스국제영화제 황금사자상을 수상하게 만들었는지, 작품성에 대한 이야기와 결말 후기로부터 확인해 보겠습니다.</p><p>이전 포스팅을 통하여 영화 룸 넥스트 도어의 뜻과 의미 해석, 그리고 로튼 토마토 해외 평점을 확인해 보실 수 있습니다.</p>" },
+    { type: 'image', src: "/images/post236_thumb.svg", alt: "룸 넥스트 도어 시사회 결말 후기 리뷰 관람평 영화 예매 할까 말까 | 페드로 알모도바르 감독 수상작", caption: "룸 넥스트 도어 시사회 결말 후기 리뷰 관람평 영화 예매 할까 말까 | 페드로 알모도바르 감독 수상작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 룸 넥스트 도어의 해외 시사회 결말후기 관람평 리뷰입니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Ryan McQuade - A</span></i><br>두 명의 최고의 여배우들이 함께 모여 매우 깊고 익숙한 연기를 펼치는 또 다른 알모도바르의 걸작이다.</br></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Edward Douglas - C+</i></span><br>알모도바르가 영어로 작업을 계속하려면 더 강력한 원작을 찾아야 할 것 같다.</br></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Hector A. Gonzalez - C</span></i><br/>두 여배우는 알모도바르의 영역 안에서 훌륭하게 연기했지만, 표현보다 대사가 많아 영화의 감정 전달이 약했다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Jane Crowther - 4/5</span></i><br/>죽음을 논하는 영화이지만, 그 속에는 넘치는 생명력이 있다. 베니스 영화제에서 황금사자상을 수상할 만한 작품이다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Jesse Hassenger - 6.6/10</i></span><br/>알모도바르의 영화는 그의 초기 작품의 과장된 순간들에서 벗어날지 말지 고민하는 듯하다. 그 결과 어정쩡한 중간 지점에 머물렀다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;><span style=&quot;background-color: #f3c000;&quot;><i>Joey Magidson - 3/4</i></span><br/>알모도바르가 영어로 선보인 가볍지만 사려 깊은 영화다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Luis Martínez - 4/5</i></span><br/>예술과 특히 영화에 대한 헌신적인 사랑과 원칙을 담은 작품이다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Mikel Zorrilla - 7/10</span></i><br/>감독의 볼 만한 도전이었지만, 알모도바르의 최고의 작품들과 비교하면 한두 단계 낮은 수준이다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>\'패러렐 마더스\'보다는 뛰어나지만, \'페인 앤 글로리\'와는 거리가 있다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Zachary Barnes - 평점 없음</i></span><br/>한창 전성기를 보내고 있는 영화감독이 자신의 죽음에 대해 더욱 의식하게 되는 시점에서 만들어낸 아름답고 감동적인 작품이다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Sarah Manvel - 평점 없음</i></span><br/>이 영화에서 의미 있는 연기를 기대했다면 실망할 것이다. 그 대신, 최고 수준의 예술 작품을 원한다면 다른 곳을 찾는 것이 좋다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Maggie Roberts - 7.5/10</i></span><br/>볼 만한 가치가 있지만, 영화는 아쉬움을 남긴다. 그리고 그 아쉬움은 좋은 의미는 아니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Travis DeShong - 평점 없음</i></span><br/>표면 아래에는 별다른 일이 일어나지 않지만, 알모도바르 특유의 터치와 진지한 연기 덕분에 충분히 풍부한 질감을 유지한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Carla Hay - 평점 없음</i></span><br/>\'The Room Next Door\'는 안락사 문제에 대해 생각을 불러일으키며, 우정과 충성심에 대한 많은 이야기를 담고 있는 감동적인 작품이다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Diego Batlle - 4/5</i></span><br/>외국어로 작업함에도 불구하고 알모도바르의 능력은 여전히 빛난다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Loren King - 평점 없음</i></span><br/>알모도바르 특유의 선명한 색감과 멜로드라마적 요소를 갖춘 영화로, 비록 그의 최고의 작품은 아니지만 볼 가치가 있다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Kent Turner - 2.5/4</i></span><br/>알모도바르의 가장 직설적인 영화로, 색채가 화려한 미술 연출을 제외하면 소박한 작품이다. 그러나 그 점이 매력을 더한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Angelo Muredda - 3/4</i></span><br/>두 배우는 예상했던 역할에 완벽히 녹아들었다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><i>Sean Boelman - 8/10</i></span><br/>알모도바르의 상대적으로 작은 작품이지만, 대사와 연기, 그리고 스타일 면에서 여전히 가치가 있는 영화다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이상으로 영화 룸 넥스트 도어 해외 평론가 후기 관람평 리뷰 포스팅 마칩니다.</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post236_img10.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post236_img9.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post236_img8.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post236_img7.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post236_img6.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post236_img5.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post236_img4.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post236_img3.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post236_img2.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post236_img1.jpg', alt: '룸 넥스트 도어', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p>감사합니다.</p>'
-    },
+    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 룸 넥스트 도어의 해외 시사회 결말후기 관람평 리뷰입니다.</b></span></p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;>Ryan McQuade - A</span></i><br>두 명의 최고의 여배우들이 함께 모여 매우 깊고 익숙한 연기를 펼치는 또 다른 알모도바르의 걸작이다.</br></p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Edward Douglas - C+</i></span><br>알모도바르가 영어로 작업을 계속하려면 더 강력한 원작을 찾아야 할 것 같다.</br></p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;>Hector A. Gonzalez - C</span></i><br/>두 여배우는 알모도바르의 영역 안에서 훌륭하게 연기했지만, 표현보다 대사가 많아 영화의 감정 전달이 약했다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;>Jane Crowther - 4/5</span></i><br/>죽음을 논하는 영화이지만, 그 속에는 넘치는 생명력이 있다. 베니스 영화제에서 황금사자상을 수상할 만한 작품이다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Jesse Hassenger - 6.6/10</i></span><br/>알모도바르의 영화는 그의 초기 작품의 과장된 순간들에서 벗어날지 말지 고민하는 듯하다. 그 결과 어정쩡한 중간 지점에 머물렀다.</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: left;&quot;><span style=&quot;background-color: #f3c000;&quot;><i>Joey Magidson - 3/4</i></span><br/>알모도바르가 영어로 선보인 가볍지만 사려 깊은 영화다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Luis Martínez - 4/5</i></span><br/>예술과 특히 영화에 대한 헌신적인 사랑과 원칙을 담은 작품이다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;>Mikel Zorrilla - 7/10</span></i><br/>감독의 볼 만한 도전이었지만, 알모도바르의 최고의 작품들과 비교하면 한두 단계 낮은 수준이다.</p>" },
+    { type: 'body', html: "<p>'패러렐 마더스'보다는 뛰어나지만, '페인 앤 글로리'와는 거리가 있다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Zachary Barnes - 평점 없음</i></span><br/>한창 전성기를 보내고 있는 영화감독이 자신의 죽음에 대해 더욱 의식하게 되는 시점에서 만들어낸 아름답고 감동적인 작품이다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Sarah Manvel - 평점 없음</i></span><br/>이 영화에서 의미 있는 연기를 기대했다면 실망할 것이다. 그 대신, 최고 수준의 예술 작품을 원한다면 다른 곳을 찾는 것이 좋다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Maggie Roberts - 7.5/10</i></span><br/>볼 만한 가치가 있지만, 영화는 아쉬움을 남긴다. 그리고 그 아쉬움은 좋은 의미는 아니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Travis DeShong - 평점 없음</i></span><br/>표면 아래에는 별다른 일이 일어나지 않지만, 알모도바르 특유의 터치와 진지한 연기 덕분에 충분히 풍부한 질감을 유지한다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Carla Hay - 평점 없음</i></span><br/>'The Room Next Door'는 안락사 문제에 대해 생각을 불러일으키며, 우정과 충성심에 대한 많은 이야기를 담고 있는 감동적인 작품이다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Diego Batlle - 4/5</i></span><br/>외국어로 작업함에도 불구하고 알모도바르의 능력은 여전히 빛난다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Loren King - 평점 없음</i></span><br/>알모도바르 특유의 선명한 색감과 멜로드라마적 요소를 갖춘 영화로, 비록 그의 최고의 작품은 아니지만 볼 가치가 있다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Kent Turner - 2.5/4</i></span><br/>알모도바르의 가장 직설적인 영화로, 색채가 화려한 미술 연출을 제외하면 소박한 작품이다. 그러나 그 점이 매력을 더한다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Angelo Muredda - 3/4</i></span><br/>두 배우는 예상했던 역할에 완벽히 녹아들었다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><i>Sean Boelman - 8/10</i></span><br/>알모도바르의 상대적으로 작은 작품이지만, 대사와 연기, 그리고 스타일 면에서 여전히 가치가 있는 영화다.</p>" },
+    { type: 'body', html: "<p>이상으로 영화 룸 넥스트 도어 해외 평론가 후기 관람평 리뷰 포스팅 마칩니다.</p>" },
+    { type: 'image', src: "/images/post236_img10.jpg", alt: "룸 넥스트 도어", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post236_img9.jpg", alt: "룸 넥스트 도어", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post236_img8.jpg", alt: "룸 넥스트 도어", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post236_img7.jpg", alt: "룸 넥스트 도어", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post236_img6.jpg", alt: "룸 넥스트 도어", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post236_img5.jpg", alt: "룸 넥스트 도어", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post236_img4.jpg", alt: "룸 넥스트 도어", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post236_img3.jpg", alt: "룸 넥스트 도어", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post236_img2.jpg", alt: "룸 넥스트 도어", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post236_img1.jpg", alt: "룸 넥스트 도어", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "/movie-analysis-overseas-rating/", text: "영화 룸 넥스트 도어 뜻 의미 해석 로튼 토마토 해외 평점 | 81회 베니스국제영화제(황금사자상)" },
+    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
+    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
+    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
+    { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

@@ -1,324 +1,88 @@
 const post = {
   id: 67,
   sections: [
-    {
-      type: 'intro',
-      html: '<p>OTT 공개예정 탭 들어가면 늘 고민이 시작되죠.</p><p>“이 많은 것 중에 뭘 먼저 찜해두지?” 올해 라인업을 훑어보니 한국 작품이 딱 눈에 꽂힙니다.</p><p>액션, 로코, 재난 SF까지 골고루. 달력에 체크해놔야 놓치지 않을 작품들을 <b>TOP7 → TOP1 역순</b>으로 정리했어요.</p><p>날짜·배우·감독 같은 기본 정보에, 개인적으로 왜 기대되는지까지 한 입 멘트로 곁들였습니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post67_thumb.svg',
-      alt: '2025 넷플릭스 공개예정작 TOP 7｜한국 기대작 중심으로 싹 모았다',
-      caption: '2025 넷플릭스 공개예정작 TOP 7｜한국 기대작 중심으로 싹 모았다'
-    },
+    { type: 'intro', html: "<p>OTT 공개예정 탭 들어가면 늘 고민이 시작되죠.</p><p>“이 많은 것 중에 뭘 먼저 찜해두지?” 올해 라인업을 훑어보니 한국 작품이 딱 눈에 꽂힙니다.</p><p>액션, 로코, 재난 SF까지 골고루. 달력에 체크해놔야 놓치지 않을 작품들을 <b>TOP7 → TOP1 역순</b>으로 정리했어요.</p><p>날짜·배우·감독 같은 기본 정보에, 개인적으로 왜 기대되는지까지 한 입 멘트로 곁들였습니다.</p>" },
+    { type: 'image', src: "/images/post67_thumb.svg", alt: "2025 넷플릭스 공개예정작 TOP 7｜한국 기대작 중심으로 싹 모았다", caption: "2025 넷플릭스 공개예정작 TOP 7｜한국 기대작 중심으로 싹 모았다" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section1',
-      text: 'TOP 7. 로맨틱 어나니머스 (일본 드라마)',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<h3>정보</h3>'
-    },
-    { type: 'image', src: '/images/post67_img1.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025.10.16 공개. 연출 츠키카와 쇼. 출연 오구리 슌, <b>한효주</b>, 나카무라 유리, 나리타 료 등.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>“사람과 접촉이 어려운 남자 × 눈 마주치기 힘든 여자”, 초콜릿을 매개로 서서히 마음을 여는 이야기.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>감성 라인</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>말 대신 초콜릿, 대사 대신 눈빛. 과장 없이 잔잔하게 파고드는 타입이라 밤에 틀어놓고 보기 딱 좋습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>기대 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>한효주 출연으로 한국 시청자 관심도 확 높아질 작품. 미니멀한 미장센 기대.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: 'TOP 6. 굿뉴스 (영화)',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<h3>핵심 요약</h3>'
-    },
-    { type: 'image', src: '/images/post67_img2.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025.10.17 공개. 감독 변성현. 출연 설경구·홍경·류승범.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>1970년대, “어떻게든 납치된 비행기를 착륙시키고야 말겠다”는 수상한 인물들의 작전을 그린 블랙 코미디.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>관전 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>오래된 시대의 질감, 변성현 특유의 리듬, 배우 3인 조합.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>진지함과 허탈함을 한 프레임에 얹는 유형이라, 극과 극 반응 예상되지만 그게 또 재미.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>기대 멘트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>“한국식 풍자 코미디가 넷플릭스 톱10을 치는 순간”을 보고 싶습니다.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: 'TOP 5. 하우스 오브 다이너마이트 (영화)',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<h3>한 줄 개요</h3>'
-    },
-    { type: 'image', src: '/images/post67_img3.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025.10.24 공개. 감독 캐서린 비글로우.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>출연 이드리스 엘바, 레베카 퍼거슨, 가브리엘 바소, 자레드 해리스.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>정체불명의 단일 미사일이 미국을 향해 날아오면서 권력의 민낯이 드러나는 스릴러.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>왜 봐야 하냐</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>비글로우표 긴장감은 설명이 필요 없습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>‘누가 책임지고 어떻게 대처하나’로 이어지는 구조, 폭발 직전의 공기감을 꾸준히 밀어붙일 감독입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>시청 팁</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>밤에 집중해서 몰아보기. 중간에 끊으면 손해보는 타입.</p>'
-    },
+    { type: 'h2', id: "section1", text: "TOP 7. 로맨틱 어나니머스 (일본 드라마)", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'h2', id: "section-정보", text: "정보", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'image', src: "/images/post67_img1.jpg", alt: "넷플릭스 공개예정작", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025.10.16 공개. 연출 츠키카와 쇼. 출연 오구리 슌, <b>한효주</b>, 나카무라 유리, 나리타 료 등.</p>" },
+    { type: 'body', html: "<p>“사람과 접촉이 어려운 남자 × 눈 마주치기 힘든 여자”, 초콜릿을 매개로 서서히 마음을 여는 이야기.</p>" },
+    { type: 'h2', id: "section-감성-라인", text: "감성 라인", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>말 대신 초콜릿, 대사 대신 눈빛. 과장 없이 잔잔하게 파고드는 타입이라 밤에 틀어놓고 보기 딱 좋습니다.</p>" },
+    { type: 'h2', id: "section-기대-포인트", text: "기대 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>한효주 출연으로 한국 시청자 관심도 확 높아질 작품. 미니멀한 미장센 기대.</p>" },
+    { type: 'h2', id: "section2", text: "TOP 6. 굿뉴스 (영화)", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'h2', id: "section-핵심-요약", text: "핵심 요약", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'image', src: "/images/post67_img2.jpg", alt: "넷플릭스 공개예정작", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025.10.17 공개. 감독 변성현. 출연 설경구·홍경·류승범.</p>" },
+    { type: 'body', html: "<p>1970년대, “어떻게든 납치된 비행기를 착륙시키고야 말겠다”는 수상한 인물들의 작전을 그린 블랙 코미디.</p>" },
+    { type: 'h2', id: "section-관전-포인트", text: "관전 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>오래된 시대의 질감, 변성현 특유의 리듬, 배우 3인 조합.</p>" },
+    { type: 'body', html: "<p>진지함과 허탈함을 한 프레임에 얹는 유형이라, 극과 극 반응 예상되지만 그게 또 재미.</p>" },
+    { type: 'h2', id: "section-기대-멘트", text: "기대 멘트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>“한국식 풍자 코미디가 넷플릭스 톱10을 치는 순간”을 보고 싶습니다.</p>" },
+    { type: 'h2', id: "section3", text: "TOP 5. 하우스 오브 다이너마이트 (영화)", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
+    { type: 'h2', id: "section-한-줄-개요", text: "한 줄 개요", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'image', src: "/images/post67_img3.jpg", alt: "넷플릭스 공개예정작", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025.10.24 공개. 감독 캐서린 비글로우.</p>" },
+    { type: 'body', html: "<p>출연 이드리스 엘바, 레베카 퍼거슨, 가브리엘 바소, 자레드 해리스.</p>" },
+    { type: 'body', html: "<p>정체불명의 단일 미사일이 미국을 향해 날아오면서 권력의 민낯이 드러나는 스릴러.</p>" },
+    { type: 'h2', id: "section-왜-봐야-하냐", text: "왜 봐야 하냐", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>비글로우표 긴장감은 설명이 필요 없습니다.</p>" },
+    { type: 'body', html: "<p>‘누가 책임지고 어떻게 대처하나’로 이어지는 구조, 폭발 직전의 공기감을 꾸준히 밀어붙일 감독입니다.</p>" },
+    { type: 'h2', id: "section-시청-팁", text: "시청 팁", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>밤에 집중해서 몰아보기. 중간에 끊으면 손해보는 타입.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section4',
-      text: 'TOP 4. 인 유어 드림 (애니메이션)',
-      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
-    },
-    {
-      type: 'body',
-      html: '<h3>기본 스펙</h3>'
-    },
-    { type: 'image', src: '/images/post67_img4.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025.11.14 공개 / 99분. 감독 알렉산더 우. 성우 줄리 호앙-래퍼포트, 일라이어스 잰슨, 에릭 벤스, 크레이그 로빈슨.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>분위기와 톤</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>꿈과 현실을 오가는 모험. 색감이 몽환적이면 그 자체로 몰입감이 생깁니다. 가족과 함께 보기 쉬운 포맷도 장점.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>개인 감상 예약</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>음악만 좋아도 절반은 먹고 들어가는 장르. 연말 감성에 딱 맞아요.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: 'TOP 3. 다 이루어질지니 (드라마)',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'body',
-      html: '<h3>작품 한눈에</h3>'
-    },
-    { type: 'image', src: '/images/post67_img5.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025.10.03 공개. 극본 김은숙. ‘천 년 만에 깨어난 정령 지니’가 감정 결여 인간과 얽히며 벌어지는 판타지 로맨틱 코미디.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>캐스팅 & 결</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>김우빈·수지·안은진·노상현·고규필·이주영. 라인업만으로도 입소문.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>김은숙표 대사 맛 + 판타지 설정이면 주말 몰아보기 예약입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>개인 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>로코가 힘을 잃었단 말, 이 조합 앞에서 무용합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>‘세 가지 소원’이 어떻게 비틀릴지 궁금.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section6',
-      text: 'TOP 2. 사마귀 (영화)',
-      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
-    },
-    {
-      type: 'body',
-      html: '<h3>정보</h3>'
-    },
-    { type: 'image', src: '/images/post67_img6.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025.09.26 공개. 감독 이태성. 출연 임시완·박규영·조우진.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>살인청부업계에 복귀한 A급 킬러 ‘사마귀’, 훈련생 동기 ‘재이’, 그리고 은퇴한 레전드 ‘독고’가 1인자 자리를 놓고 벌이는 대결.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>기대 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>한국식 느와르에 현대적 액션 감각을 덧대는 시도. 임시완!</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>한 문장으로</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>길복순을 재밌게 본 액션팬은 무조건 체크.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: 'TOP 1. 대홍수 (영화)',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<h3>무대 설정</h3>'
-    },
-    { type: 'image', src: '/images/post67_img7.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025.12.19 공개. 감독 김병우.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>출연 김다미·박해수·유태규.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>대홍수가 덮친 최후의 날, 물에 잠겨가는 아파트에서 벌어지는 서바이벌 SF.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>왜 1위냐</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>한국형 재난물의 스케일과 감정선이 제대로 만날 타이밍.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>수면 아래의 공포, 좁은 공간의 압박, 인물 간 심리전—all in one.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>기대 멘트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>“OTT에서 극장급 긴장감을 뽑아낼 수 있나?” 그 대답을 들려줄 작품.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section8',
-      text: '마무리 – 캘린더 체크 요약',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p>9/26 <b>사마귀</b> → 10/03 <b>다 이루어질지니</b> → 10/16 <b>로맨틱 어나니머스</b> → 10/17 <b>굿뉴스</b> → 10/24 <b>하우스 오브 다이너마이트</b> → 11/14 <b>인 유어 드림</b> → 12/19 <b>대홍수</b>.</p>'
-    },
-    { type: 'image', src: '/images/post67_img8.jpg', alt: '넷플릭스 공개예정작', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>날짜는 공개 일정에 따라 변동될 수 있으니, ‘찜+알림’은 미리 눌러두는 게 마음 편합니다. 올해 넷플릭스, 확실히 풍성합니다.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section9',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-rating-top-9/',
-      text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
-    },
+    { type: 'h2', id: "section4", text: "TOP 4. 인 유어 드림 (애니메이션)", gradientStyle: "linear-gradient(to right, #e53935, #ef5350)" },
+    { type: 'h2', id: "section-기본-스펙", text: "기본 스펙", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'image', src: "/images/post67_img4.jpg", alt: "넷플릭스 공개예정작", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025.11.14 공개 / 99분. 감독 알렉산더 우. 성우 줄리 호앙-래퍼포트, 일라이어스 잰슨, 에릭 벤스, 크레이그 로빈슨.</p>" },
+    { type: 'h2', id: "section-분위기와-톤", text: "분위기와 톤", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>꿈과 현실을 오가는 모험. 색감이 몽환적이면 그 자체로 몰입감이 생깁니다. 가족과 함께 보기 쉬운 포맷도 장점.</p>" },
+    { type: 'h2', id: "section-개인-감상-예약", text: "개인 감상 예약", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>음악만 좋아도 절반은 먹고 들어가는 장르. 연말 감성에 딱 맞아요.</p>" },
+    { type: 'h2', id: "section5", text: "TOP 3. 다 이루어질지니 (드라마)", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
+    { type: 'h2', id: "section-작품-한눈에", text: "작품 한눈에", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'image', src: "/images/post67_img5.jpg", alt: "넷플릭스 공개예정작", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025.10.03 공개. 극본 김은숙. ‘천 년 만에 깨어난 정령 지니’가 감정 결여 인간과 얽히며 벌어지는 판타지 로맨틱 코미디.</p>" },
+    { type: 'h2', id: "section-캐스팅---결", text: "캐스팅 & 결", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>김우빈·수지·안은진·노상현·고규필·이주영. 라인업만으로도 입소문.</p>" },
+    { type: 'body', html: "<p>김은숙표 대사 맛 + 판타지 설정이면 주말 몰아보기 예약입니다.</p>" },
+    { type: 'h2', id: "section-개인-포인트", text: "개인 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>로코가 힘을 잃었단 말, 이 조합 앞에서 무용합니다.</p>" },
+    { type: 'body', html: "<p>‘세 가지 소원’이 어떻게 비틀릴지 궁금.</p>" },
+    { type: 'h2', id: "section6", text: "TOP 2. 사마귀 (영화)", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
+    { type: 'h2', id: "section-정보", text: "정보", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'image', src: "/images/post67_img6.jpg", alt: "넷플릭스 공개예정작", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025.09.26 공개. 감독 이태성. 출연 임시완·박규영·조우진.</p>" },
+    { type: 'body', html: "<p>살인청부업계에 복귀한 A급 킬러 ‘사마귀’, 훈련생 동기 ‘재이’, 그리고 은퇴한 레전드 ‘독고’가 1인자 자리를 놓고 벌이는 대결.</p>" },
+    { type: 'h2', id: "section-기대-포인트", text: "기대 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>한국식 느와르에 현대적 액션 감각을 덧대는 시도. 임시완!</p>" },
+    { type: 'h2', id: "section-한-문장으로", text: "한 문장으로", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>길복순을 재밌게 본 액션팬은 무조건 체크.</p>" },
+    { type: 'h2', id: "section7", text: "TOP 1. 대홍수 (영화)", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'h2', id: "section-무대-설정", text: "무대 설정", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'image', src: "/images/post67_img7.jpg", alt: "넷플릭스 공개예정작", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025.12.19 공개. 감독 김병우.</p>" },
+    { type: 'body', html: "<p>출연 김다미·박해수·유태규.</p>" },
+    { type: 'body', html: "<p>대홍수가 덮친 최후의 날, 물에 잠겨가는 아파트에서 벌어지는 서바이벌 SF.</p>" },
+    { type: 'h2', id: "section-왜-1위냐", text: "왜 1위냐", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>한국형 재난물의 스케일과 감정선이 제대로 만날 타이밍.</p>" },
+    { type: 'body', html: "<p>수면 아래의 공포, 좁은 공간의 압박, 인물 간 심리전—all in one.</p>" },
+    { type: 'h2', id: "section-기대-멘트", text: "기대 멘트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>“OTT에서 극장급 긴장감을 뽑아낼 수 있나?” 그 대답을 들려줄 작품.</p>" },
+    { type: 'h2', id: "section8", text: "마무리 – 캘린더 체크 요약", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<p>9/26 <b>사마귀</b> → 10/03 <b>다 이루어질지니</b> → 10/16 <b>로맨틱 어나니머스</b> → 10/17 <b>굿뉴스</b> → 10/24 <b>하우스 오브 다이너마이트</b> → 11/14 <b>인 유어 드림</b> → 12/19 <b>대홍수</b>.</p>" },
+    { type: 'image', src: "/images/post67_img8.jpg", alt: "넷플릭스 공개예정작", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>날짜는 공개 일정에 따라 변동될 수 있으니, ‘찜+알림’은 미리 눌러두는 게 마음 편합니다. 올해 넷플릭스, 확실히 풍성합니다.</p>" },
+    { type: 'h2', id: "section9", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
+    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
+    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
+    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
+    { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

@@ -1,166 +1,51 @@
 const post = {
   id: 77,
   sections: [
-    {
-      type: 'intro',
-      html: '<p>2025년 9월, 한국컨텐츠에 진심인 넷플릭스의 신작 <b>사마귀(Mantis)</b>가 공개됩니다.</p><p>이 작품은 넷플릭스 화제작 &lt;길복순&gt;의 세계관을 확장한 스핀오프 영화로, 무너진 암살자 업계에서 다시 복귀한 A급 킬러 ‘한울’의 이야기를 그립니다. 임시완, 박규영, 조우진이라는 강력한 캐스팅과 함께, 무정부 상태가 된 청부살인 판에서 벌어지는 3자 구도의 정면승부가 펼쳐질 예정입니다.</p><p>무너진 질서 속에서 권력과 생존을 쟁취하려는 인간의 본능을 주제로 합니다.</p><p>특히 영화 제목인 ‘사마귀’는 치밀한 기다림과 단 한 번의 일격을 상징하며, 작품의 주제와 캐릭터를 압축적으로 보여주는 키워드입니다. 이제부터 <i>사마귀</i>의 주요 정보, 줄거리, 캐릭터, 관람 포인트, 그리고 제목에 담긴 의미까지 차례대로 살펴보겠습니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post77_thumb.svg',
-      alt: '넷플릭스 영화 추천 사마귀 공개일 뜻 예정작! | 길복순 스핀오프 임시완 후속작 주연',
-      caption: '넷플릭스 영화 추천 사마귀 공개일 뜻 예정작! | 길복순 스핀오프 임시완 후속작 주연'
-    },
+    { type: 'intro', html: "<p>2025년 9월, 한국컨텐츠에 진심인 넷플릭스의 신작 <b>사마귀(Mantis)</b>가 공개됩니다.</p><p>이 작품은 넷플릭스 화제작 &lt;길복순&gt;의 세계관을 확장한 스핀오프 영화로, 무너진 암살자 업계에서 다시 복귀한 A급 킬러 ‘한울’의 이야기를 그립니다. 임시완, 박규영, 조우진이라는 강력한 캐스팅과 함께, 무정부 상태가 된 청부살인 판에서 벌어지는 3자 구도의 정면승부가 펼쳐질 예정입니다.</p><p>무너진 질서 속에서 권력과 생존을 쟁취하려는 인간의 본능을 주제로 합니다.</p><p>특히 영화 제목인 ‘사마귀’는 치밀한 기다림과 단 한 번의 일격을 상징하며, 작품의 주제와 캐릭터를 압축적으로 보여주는 키워드입니다. 이제부터 <i>사마귀</i>의 주요 정보, 줄거리, 캐릭터, 관람 포인트, 그리고 제목에 담긴 의미까지 차례대로 살펴보겠습니다.</p>" },
+    { type: 'image', src: "/images/post77_thumb.svg", alt: "넷플릭스 영화 추천 사마귀 공개일 뜻 예정작! | 길복순 스핀오프 임시완 후속작 주연", caption: "넷플릭스 영화 추천 사마귀 공개일 뜻 예정작! | 길복순 스핀오프 임시완 후속작 주연" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section1',
-      text: '넷플릭스 영화 사마귀 (Mantis, 2025)',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<h3>한 줄 핵심</h3>'
-    },
-    { type: 'image', src: '/images/post77_img1.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>9월 26일 전 세계 넷플릭스 공개. &lt;길복순&gt; 세계관을 확장한 스핀오프 영화로, A급 킬러 ‘사마귀(한울)’가 무정부 상태가 된 청부살인 판에 복귀하면서 시작되는 정면승부 이야기입니다. 주연은 임시완·박규영·조우진입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>왜 주목하나</h3>'
-    },
-    {
-      type: 'body',
-      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>세계관 확장성:</b> &lt;길복순&gt; 이후의 세계를 새로운 주인공과 질서 붕괴 이후의 패권 경쟁으로 확장합니다.</li> <li><b>크리에이티브 라인업:</b> 연출 이태성, 각본 변성현이 참여하며 작품성을 더했습니다.</li> <li><b>캐스팅:</b> 임시완·박규영·조우진이 중심이 되어 강렬한 삼자 구도를 보여줍니다.</li> </ul>'
-    },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '사마귀 기본 정보',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>형식/플랫폼:</b> 넷플릭스 오리지널 영화</li> <li><b>연출:</b> 이태성</li> <li><b>각본:</b> 변성현, 이태성 외</li> <li><b>주연:</b> 임시완(한울), 박규영(재이), 조우진(독고)</li> <li><b>제작:</b> 씨앳필름(SEE AT Film)</li> <li><b>공개일:</b> 2025년 9월 26일 전 세계 공개</li> </ul>'
-    },
-    { type: 'image', src: '/images/post77_img2.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: '넷플릭스 영화 사마귀 줄거리',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<p>최정예 킬러 ‘한울’은 오랜 휴식 끝에 업계로 돌아오지만, 그가 맞닥뜨린 현실은 무너진 질서와 혼돈입니다.</p>'
-    },
-    { type: 'image', src: '/images/post77_img3.webp', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>조직의 수장이 사라진 뒤 무정부 상태가 된 암살자 세계에서, 한울은 옛 동기이자 라이벌인 ‘재이’, 은퇴한 전설의 킬러 ‘독고’와 정면으로 부딪히게 됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>서로 다른 야망과 능력이 맞부딪히며, 누가 그림자를 차지할 것인가를 두고 치열한 게임이 벌어집니다.</p>'
-    },
+    { type: 'h2', id: "section1", text: "넷플릭스 영화 사마귀 (Mantis, 2025)", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'h2', id: "section-한-줄-핵심", text: "한 줄 핵심", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'image', src: "/images/post77_img1.jpg", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>9월 26일 전 세계 넷플릭스 공개. &lt;길복순&gt; 세계관을 확장한 스핀오프 영화로, A급 킬러 ‘사마귀(한울)’가 무정부 상태가 된 청부살인 판에 복귀하면서 시작되는 정면승부 이야기입니다. 주연은 임시완·박규영·조우진입니다.</p>" },
+    { type: 'h2', id: "section-왜-주목하나", text: "왜 주목하나", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<ul style=&quot;list-style-type: disc;&quot;> <li><b>세계관 확장성:</b> &lt;길복순&gt; 이후의 세계를 새로운 주인공과 질서 붕괴 이후의 패권 경쟁으로 확장합니다.</li> <li><b>크리에이티브 라인업:</b> 연출 이태성, 각본 변성현이 참여하며 작품성을 더했습니다.</li> <li><b>캐스팅:</b> 임시완·박규영·조우진이 중심이 되어 강렬한 삼자 구도를 보여줍니다.</li> </ul>" },
+    { type: 'h2', id: "section2", text: "사마귀 기본 정보", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<ul style=&quot;list-style-type: disc;&quot;> <li><b>형식/플랫폼:</b> 넷플릭스 오리지널 영화</li> <li><b>연출:</b> 이태성</li> <li><b>각본:</b> 변성현, 이태성 외</li> <li><b>주연:</b> 임시완(한울), 박규영(재이), 조우진(독고)</li> <li><b>제작:</b> 씨앳필름(SEE AT Film)</li> <li><b>공개일:</b> 2025년 9월 26일 전 세계 공개</li> </ul>" },
+    { type: 'image', src: "/images/post77_img2.jpg", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section3", text: "넷플릭스 영화 사마귀 줄거리", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
+    { type: 'body', html: "<p>최정예 킬러 ‘한울’은 오랜 휴식 끝에 업계로 돌아오지만, 그가 맞닥뜨린 현실은 무너진 질서와 혼돈입니다.</p>" },
+    { type: 'image', src: "/images/post77_img3.webp", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>조직의 수장이 사라진 뒤 무정부 상태가 된 암살자 세계에서, 한울은 옛 동기이자 라이벌인 ‘재이’, 은퇴한 전설의 킬러 ‘독고’와 정면으로 부딪히게 됩니다.</p>" },
+    { type: 'body', html: "<p>서로 다른 야망과 능력이 맞부딪히며, 누가 그림자를 차지할 것인가를 두고 치열한 게임이 벌어집니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section4',
-      text: '넷플릭스 영화 사마귀 뜻',
-      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
-    },
-    {
-      type: 'body',
-      html: '<p>주인공 한울의 콜사인인 ‘사마귀(Mantis)’는 기다림과 일격의 상징입니다.</p>'
-    },
-    { type: 'image', src: '/images/post77_img4.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>사마귀는 먹잇감을 앞에 두고 침착하게 각을 재며, 단 한 번의 치명적인 공격으로 승부를 내는 존재입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화 제목은 주인공의 성격과 행동을 압축적으로 표현할 뿐 아니라, 혼돈의 세계에서 살아남기 위한 절제와 집중을 상징합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>영화 사마귀 출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>한울(임시완):</b> 업계를 뒤흔드는 실력의 킬러. 차갑고 정밀한 움직임으로 판을 흔듭니다.</li> </ul>'
-    },
-    {
-      type: 'body',
-      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>재이(박규영):</b> 한울과 동기이자 라이벌. 새로운 판에서 자신의 방식으로 정상에 오르려 합니다.</li> </ul>'
-    },
-    {
-      type: 'body',
-      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>독고(조우진):</b> 은퇴했지만 여전히 전설로 회자되는 인물. 복귀와 함께 세력 구도에 변수로 작용합니다.</li> </ul>'
-    },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '사마귀 관람포인트',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'body',
-      html: '<h3>관람 포인트</h3>'
-    },
-    { type: 'image', src: '/images/post77_img5.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<ol style=&quot;list-style-type: decimal;&quot;> <li><b>세계관 연결성:</b> &lt;길복순&gt;의 설정을 이어받아 혼란 이후의 판을 본격적으로 다룹니다.</li> <li><b>전투 시퀀스:</b> 근거리 격투와 무기 액션이 절제된 안무로 재현됩니다.</li> <li><b>삼자 구도 드라마:</b> 실력, 야망, 전설이 맞부딪히는 긴장감 넘치는 캐릭터 플레이가 핵심입니다.</li> </ol>'
-    },
-    {
-      type: 'h2',
-      id: 'section6',
-      text: '사마귀 시청전 체크리스트',
-      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
-    },
-    {
-      type: 'body',
-      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><b>언제/어디서:</b> 2025년 9월 26일, 넷플릭스</li> <li><b>먼저 보면 좋은 작품:</b> &lt;길복순&gt; (세계관 이해도에 도움)</li> </ul>'
-    },
-    { type: 'image', src: '/images/post77_img10.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post77_img9.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post77_img8.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post77_img7.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post77_img6.jpg', alt: '넷플릭스 영화 추천 사마귀', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>길복순을 재밌게 보신분들,<span> </span></span>9월 26일 넷플릭스에서 직접 확인해 보시길 권합니다.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-rating-top-9/',
-      text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
-    },
+    { type: 'h2', id: "section4", text: "넷플릭스 영화 사마귀 뜻", gradientStyle: "linear-gradient(to right, #e53935, #ef5350)" },
+    { type: 'body', html: "<p>주인공 한울의 콜사인인 ‘사마귀(Mantis)’는 기다림과 일격의 상징입니다.</p>" },
+    { type: 'image', src: "/images/post77_img4.jpg", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>사마귀는 먹잇감을 앞에 두고 침착하게 각을 재며, 단 한 번의 치명적인 공격으로 승부를 내는 존재입니다.</p>" },
+    { type: 'body', html: "<p>영화 제목은 주인공의 성격과 행동을 압축적으로 표현할 뿐 아니라, 혼돈의 세계에서 살아남기 위한 절제와 집중을 상징합니다.</p>" },
+    { type: 'h2', id: "section-영화-사마귀-출연진", text: "영화 사마귀 출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<ul style=&quot;list-style-type: disc;&quot;> <li><b>한울(임시완):</b> 업계를 뒤흔드는 실력의 킬러. 차갑고 정밀한 움직임으로 판을 흔듭니다.</li> </ul>" },
+    { type: 'body', html: "<ul style=&quot;list-style-type: disc;&quot;> <li><b>재이(박규영):</b> 한울과 동기이자 라이벌. 새로운 판에서 자신의 방식으로 정상에 오르려 합니다.</li> </ul>" },
+    { type: 'body', html: "<ul style=&quot;list-style-type: disc;&quot;> <li><b>독고(조우진):</b> 은퇴했지만 여전히 전설로 회자되는 인물. 복귀와 함께 세력 구도에 변수로 작용합니다.</li> </ul>" },
+    { type: 'h2', id: "section5", text: "사마귀 관람포인트", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
+    { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'image', src: "/images/post77_img5.jpg", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<ol style=&quot;list-style-type: decimal;&quot;> <li><b>세계관 연결성:</b> &lt;길복순&gt;의 설정을 이어받아 혼란 이후의 판을 본격적으로 다룹니다.</li> <li><b>전투 시퀀스:</b> 근거리 격투와 무기 액션이 절제된 안무로 재현됩니다.</li> <li><b>삼자 구도 드라마:</b> 실력, 야망, 전설이 맞부딪히는 긴장감 넘치는 캐릭터 플레이가 핵심입니다.</li> </ol>" },
+    { type: 'h2', id: "section6", text: "사마귀 시청전 체크리스트", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
+    { type: 'body', html: "<ul style=&quot;list-style-type: disc;&quot;> <li><b>언제/어디서:</b> 2025년 9월 26일, 넷플릭스</li> <li><b>먼저 보면 좋은 작품:</b> &lt;길복순&gt; (세계관 이해도에 도움)</li> </ul>" },
+    { type: 'image', src: "/images/post77_img10.jpg", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post77_img9.jpg", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post77_img8.jpg", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post77_img7.jpg", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post77_img6.jpg", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><span style=&quot;color: inherit; text-align: start;&quot;>길복순을 재밌게 보신분들,<span> </span></span>9월 26일 넷플릭스에서 직접 확인해 보시길 권합니다.</p>" },
+    { type: 'h2', id: "section7", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
+    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
+    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
+    { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

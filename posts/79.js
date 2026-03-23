@@ -1,483 +1,129 @@
 const post = {
   id: 79,
   sections: [
-    {
-      type: 'intro',
-      html: '<p>여름 블록버스터 시즌이 지나고 찾아온 9월, 극장가는 한층 다채로운 장르와 이야기들로 관객들을 맞이할 준비를 하고 있습니다.</p><p>가족과 함께 즐길 수 있는 애니메이션부터 사회적 메시지를 담은 드라마, 강렬한 액션과 스릴러, 그리고 오래 기다려온 명작의 귀환까지 올가을 스크린은 선택지가 무척 풍성합니다.</p><p>특히 이번 2025년 9월에는 <b>한국 영화와 해외 화제작이 동시에 포진</b>되어 있어 관객들의 기대가 어느 때보다 큽니다.</p><p>박찬욱 감독의 신작 <i>어쩔 수가 없다</i>부터 인기 애니메이션 <i>체인소 맨</i> 극장판, 그리고 사회적 이슈를 건드리는 드라마 <i>홍이</i>까지.</p><p>다양한 작품들이 개봉을 앞두고 예매 순위에도 이름을 올리며 뜨거운 화제를 모으고 있습니다.</p><p>이번 포스팅에서는 <b>2025년 9월 개봉 예정작 10편</b>을 정리했습니다.</p><p>각 영화의 개봉일과 줄거리, 출연진, 그리고 관람 포인트까지 한눈에 확인할 수 있도록 준비했으니, 이번 달 어떤 영화를 볼지 고민하는 분들에게 도움이 되길 바랍니다.</p><p>극장 나들이를 계획 중이라면, 아래 라인업을 꼭 참고해 보세요.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;691&quot; data-origin-width=&quot;697&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Y1rec/btsQCDmvZ5G/AAAAAAAAAAAAAAAAAAAAANdDlsA5VVST5zqfpbn4khzvktxSPXOpu7UA3aA4kol1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qf3Suox%2FoX3vzxO1e%2FJJkVb6yfA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Y1rec/btsQCDmvZ5G/AAAAAAAAAAAAAAAAAAAAANdDlsA5VVST5zqfpbn4khzvktxSPXOpu7UA3aA4kol1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qf3Suox%2FoX3vzxO1e%2FJJkVb6yfA%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p><p>1. 2025-09-19</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post79_thumb.svg',
-      alt: '2025년 9월 개봉예정작 영화 추천 한국 + 해외 화제작!',
-      caption: '2025년 9월 개봉예정작 영화 추천 한국 + 해외 화제작!'
-    },
+    { type: 'intro', html: "<p>여름 블록버스터 시즌이 지나고 찾아온 9월, 극장가는 한층 다채로운 장르와 이야기들로 관객들을 맞이할 준비를 하고 있습니다.</p><p>가족과 함께 즐길 수 있는 애니메이션부터 사회적 메시지를 담은 드라마, 강렬한 액션과 스릴러, 그리고 오래 기다려온 명작의 귀환까지 올가을 스크린은 선택지가 무척 풍성합니다.</p><p>특히 이번 2025년 9월에는 <b>한국 영화와 해외 화제작이 동시에 포진</b>되어 있어 관객들의 기대가 어느 때보다 큽니다.</p><p>박찬욱 감독의 신작 <i>어쩔 수가 없다</i>부터 인기 애니메이션 <i>체인소 맨</i> 극장판, 그리고 사회적 이슈를 건드리는 드라마 <i>홍이</i>까지.</p><p>다양한 작품들이 개봉을 앞두고 예매 순위에도 이름을 올리며 뜨거운 화제를 모으고 있습니다.</p><p>이번 포스팅에서는 <b>2025년 9월 개봉 예정작 10편</b>을 정리했습니다.</p><p>각 영화의 개봉일과 줄거리, 출연진, 그리고 관람 포인트까지 한눈에 확인할 수 있도록 준비했으니, 이번 달 어떤 영화를 볼지 고민하는 분들에게 도움이 되길 바랍니다.</p><p>극장 나들이를 계획 중이라면, 아래 라인업을 꼭 참고해 보세요.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;691&quot; data-origin-width=&quot;697&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Y1rec/btsQCDmvZ5G/AAAAAAAAAAAAAAAAAAAAANdDlsA5VVST5zqfpbn4khzvktxSPXOpu7UA3aA4kol1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qf3Suox%2FoX3vzxO1e%2FJJkVb6yfA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Y1rec/btsQCDmvZ5G/AAAAAAAAAAAAAAAAAAAAANdDlsA5VVST5zqfpbn4khzvktxSPXOpu7UA3aA4kol1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qf3Suox%2FoX3vzxO1e%2FJJkVb6yfA%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p><p>1. 2025-09-19</p>" },
+    { type: 'image', src: "/images/post79_thumb.svg", alt: "2025년 9월 개봉예정작 영화 추천 한국 + 해외 화제작!", caption: "2025년 9월 개봉예정작 영화 추천 한국 + 해외 화제작!" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section1',
-      text: '명탐정 코난: 17년 전의 진상',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/c3E5Bb/btsQEoodPCp/AAAAAAAAAAAAAAAAAAAAAHDMxmXJCWNUqsEyb_EtwHHV7oOpuyMDfMkRgc2va0aX/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=c17BMVPuKNr07syJ8Iq5WcT2Mxc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/c3E5Bb/btsQEoodPCp/AAAAAAAAAAAAAAAAAAAAAHDMxmXJCWNUqsEyb_EtwHHV7oOpuyMDfMkRgc2va0aX/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=c17BMVPuKNr07syJ8Iq5WcT2Mxc%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>'
-    },
-    { type: 'image', src: '/images/post79_img1.jpg', alt: '2025년 9월 개봉예정작 영화', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025.09.19</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>체스 대회 응원차 미국을 찾은 경시청 일행. 현장에서 강렬한 기시감을 느낀 쿠로다 효에가 17년간 미제로 남았던 ‘아만다 휴즈 살인 사건’을 떠올리며 수사에 뛰어든다. 당시 피해자를 최초로 발견했던 쿠도 유사쿠가 미국 무대에서 돌아오고, 하네다 코지와 아만다 휴즈의 보디가드 ‘메리’의 단서까지 얽히며 사건은 현재와 과거를 가로질러 폭발한다. 레이첼의 레이첼?—아니, ‘레이첼’이 아니라 ‘레이첼의 레이첼’… 같은 복선 없이 깔끔히 이어지는 정통 추리. 17년 전의 멈춘 시간이 다시 흐른다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>타카야마 미나미, 키사노 유키마사, 치바 시게루</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>관람 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>‘미제 사건’ 본편급 스케일, 유사쿠와 코난의 세대 교차 플레이. 시리즈 핵심 서사 회수 포인트 다수.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '포풍추영 (The Shadow\'s Edge)',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;486&quot; data-origin-width=&quot;650&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ej8MHQ/btsQCyk8yrC/AAAAAAAAAAAAAAAAAAAAAItgYgejUAVuRmtJd9wDfLKLCGpx0TfwMYiezSo1UThZ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ljRHF9ZSro7X48EMWgrkhiFpFPw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ej8MHQ/btsQCyk8yrC/AAAAAAAAAAAAAAAAAAAAAItgYgejUAVuRmtJd9wDfLKLCGpx0TfwMYiezSo1UThZ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ljRHF9ZSro7X48EMWgrkhiFpFPw%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>'
-    },
-    { type: 'image', src: '/images/post79_img2.webp', alt: '2025년 9월 개봉예정작 영화', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025.09.20</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>첨단 감시 시스템을 무력화하고 수십억을 탈취한 ‘정체불명의 범죄 조직’이 홍콩을 뒤흔든다. 전설의 범죄 추적 전문가 ‘황더중’이 신임 경찰 ‘허추퀴’와 팀을 이루어 거대 조직의 수장 ‘푸붕성’을 뒤쫓지만, 수사망이 조여들수록 함정은 더 교묘해진다. 지능과 분노가 충돌하는 사상 최대의 추격전.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>성룡, 양가휘, 세븐틴 준</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>관람 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>홍콩식 범죄 활극의 미덕: 체이스·총격·두뇌전이 모두 살아있는 142분.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: '어쩔 수가 없다',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;479&quot; data-origin-width=&quot;616&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/2L8qY/btsQDaYGELa/AAAAAAAAAAAAAAAAAAAAAM60KZh5sIK-K6yOmxS1BHTywQEP3JAs9cAMlQY2a6Fv/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=p9%2Br5pT4JiLdq4xb98jkl5eULLk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/2L8qY/btsQDaYGELa/AAAAAAAAAAAAAAAAAAAAAM60KZh5sIK-K6yOmxS1BHTywQEP3JAs9cAMlQY2a6Fv/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=p9%2Br5pT4JiLdq4xb98jkl5eULLk%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>'
-    },
-    { type: 'image', src: '/images/post79_img3.jpg', alt: '2025년 9월 개봉예정작 영화', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025.09.24</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>25년 차 제지 전문가 ‘만수’. 평온하던 일상이 갑작스러운 해고 통보 한 장으로 무너진다. 가족을 지키려는 다짐은 곧 절박함이 되고, 그는 마트에서 일하며 다시 면접장을 전전한다. 끝내 벼랑 끝에 몰린 만수 앞에 ‘문 제지’로 향하는 길이 보이자, 그는 “자리 없으면 내가 만든다”는 결심으로 한 걸음 더 나아간다. ‘생존’과 ‘도덕’ 사이에서 흔들리는 선택의 기록.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>이병헌, 손예진, 박희순</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>관람 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>박찬욱 감독의 날 선 시선 + 배우들의 밀도 높은 생활 연기. 원작 『The Ax』의 한국적 변주.</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;/ title=&quot;어쩔수가없다 해외반응 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>어쩔수가없다 해외반응 보러가기👉</button></a></center></div>'
-    },
+    { type: 'h2', id: "section1", text: "명탐정 코난: 17년 전의 진상", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/c3E5Bb/btsQEoodPCp/AAAAAAAAAAAAAAAAAAAAAHDMxmXJCWNUqsEyb_EtwHHV7oOpuyMDfMkRgc2va0aX/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=c17BMVPuKNr07syJ8Iq5WcT2Mxc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/c3E5Bb/btsQEoodPCp/AAAAAAAAAAAAAAAAAAAAAHDMxmXJCWNUqsEyb_EtwHHV7oOpuyMDfMkRgc2va0aX/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=c17BMVPuKNr07syJ8Iq5WcT2Mxc%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post79_img1.jpg", alt: "2025년 9월 개봉예정작 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-개봉일", text: "개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025.09.19</p>" },
+    { type: 'h2', id: "section-줄거리", text: "줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>체스 대회 응원차 미국을 찾은 경시청 일행. 현장에서 강렬한 기시감을 느낀 쿠로다 효에가 17년간 미제로 남았던 ‘아만다 휴즈 살인 사건’을 떠올리며 수사에 뛰어든다. 당시 피해자를 최초로 발견했던 쿠도 유사쿠가 미국 무대에서 돌아오고, 하네다 코지와 아만다 휴즈의 보디가드 ‘메리’의 단서까지 얽히며 사건은 현재와 과거를 가로질러 폭발한다. 레이첼의 레이첼?—아니, ‘레이첼’이 아니라 ‘레이첼의 레이첼’… 같은 복선 없이 깔끔히 이어지는 정통 추리. 17년 전의 멈춘 시간이 다시 흐른다.</p>" },
+    { type: 'h2', id: "section-출연진", text: "출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>타카야마 미나미, 키사노 유키마사, 치바 시게루</p>" },
+    { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>‘미제 사건’ 본편급 스케일, 유사쿠와 코난의 세대 교차 플레이. 시리즈 핵심 서사 회수 포인트 다수.</p>" },
+    { type: 'h2', id: "section2", text: "포풍추영 (The Shadow's Edge)", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;486&quot; data-origin-width=&quot;650&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ej8MHQ/btsQCyk8yrC/AAAAAAAAAAAAAAAAAAAAAItgYgejUAVuRmtJd9wDfLKLCGpx0TfwMYiezSo1UThZ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ljRHF9ZSro7X48EMWgrkhiFpFPw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ej8MHQ/btsQCyk8yrC/AAAAAAAAAAAAAAAAAAAAAItgYgejUAVuRmtJd9wDfLKLCGpx0TfwMYiezSo1UThZ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ljRHF9ZSro7X48EMWgrkhiFpFPw%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post79_img2.webp", alt: "2025년 9월 개봉예정작 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-개봉일", text: "개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025.09.20</p>" },
+    { type: 'h2', id: "section-줄거리", text: "줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>첨단 감시 시스템을 무력화하고 수십억을 탈취한 ‘정체불명의 범죄 조직’이 홍콩을 뒤흔든다. 전설의 범죄 추적 전문가 ‘황더중’이 신임 경찰 ‘허추퀴’와 팀을 이루어 거대 조직의 수장 ‘푸붕성’을 뒤쫓지만, 수사망이 조여들수록 함정은 더 교묘해진다. 지능과 분노가 충돌하는 사상 최대의 추격전.</p>" },
+    { type: 'h2', id: "section-출연진", text: "출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>성룡, 양가휘, 세븐틴 준</p>" },
+    { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>홍콩식 범죄 활극의 미덕: 체이스·총격·두뇌전이 모두 살아있는 142분.</p>" },
+    { type: 'h2', id: "section3", text: "어쩔 수가 없다", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;479&quot; data-origin-width=&quot;616&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/2L8qY/btsQDaYGELa/AAAAAAAAAAAAAAAAAAAAAM60KZh5sIK-K6yOmxS1BHTywQEP3JAs9cAMlQY2a6Fv/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=p9%2Br5pT4JiLdq4xb98jkl5eULLk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/2L8qY/btsQDaYGELa/AAAAAAAAAAAAAAAAAAAAAM60KZh5sIK-K6yOmxS1BHTywQEP3JAs9cAMlQY2a6Fv/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=p9%2Br5pT4JiLdq4xb98jkl5eULLk%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post79_img3.jpg", alt: "2025년 9월 개봉예정작 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-개봉일", text: "개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025.09.24</p>" },
+    { type: 'h2', id: "section-줄거리", text: "줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>25년 차 제지 전문가 ‘만수’. 평온하던 일상이 갑작스러운 해고 통보 한 장으로 무너진다. 가족을 지키려는 다짐은 곧 절박함이 되고, 그는 마트에서 일하며 다시 면접장을 전전한다. 끝내 벼랑 끝에 몰린 만수 앞에 ‘문 제지’로 향하는 길이 보이자, 그는 “자리 없으면 내가 만든다”는 결심으로 한 걸음 더 나아간다. ‘생존’과 ‘도덕’ 사이에서 흔들리는 선택의 기록.</p>" },
+    { type: 'h2', id: "section-출연진", text: "출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>이병헌, 손예진, 박희순</p>" },
+    { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>박찬욱 감독의 날 선 시선 + 배우들의 밀도 높은 생활 연기. 원작 『The Ax』의 한국적 변주.</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;/ title=&quot;어쩔수가없다 해외반응 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>어쩔수가없다 해외반응 보러가기👉</button></a></center></div>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section4',
-      text: '극장판 체인소 맨: 레제편',
-      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;334&quot; data-origin-width=&quot;600&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bHriOh/btsQDwAnSoJ/AAAAAAAAAAAAAAAAAAAAAPYAkSLLwAhhTuEL4twttq3auPGSogOFcZhSq8s6HdnR/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=z2PYd7zRb46w4adfehTJTzWtq5I%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bHriOh/btsQDwAnSoJ/AAAAAAAAAAAAAAAAAAAAAPYAkSLLwAhhTuEL4twttq3auPGSogOFcZhSq8s6HdnR/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=z2PYd7zRb46w4adfehTJTzWtq5I%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>'
-    },
-    { type: 'image', src: '/images/post79_img4.jpg', alt: '2025년 9월 개봉예정작 영화', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025.09.24</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>죽음 끝에서 ‘체인소 맨’으로 다시 태어난 덴지. 전쟁의 한복판 같은 전장에서 정체불명의 소녀 ‘레제’가 나타나고, 가장 위험한 전투가 시작된다. 사랑과 의심이 교차하는 순간, 포치타와의 계약이 던지는 질문은 더 벼려진다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>성우진: 공식 표기 확인 시 업데이트</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>관람 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>첫 극장판 스케일로 재구성되는 ‘레제’ 아크. 압도적인 배틀 작화와 감정선 병행.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '리 밀러: 카메라를 든 여자',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;705&quot; data-origin-width=&quot;1024&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bxEmpC/btsQBUvghjC/AAAAAAAAAAAAAAAAAAAAAA7n1Q8WEsOuoolljGQgj7El47XluzEaSrUCicp052QX/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ds5hJrq3NFQEc8F3vl6WQaDA5Ro%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bxEmpC/btsQBUvghjC/AAAAAAAAAAAAAAAAAAAAAA7n1Q8WEsOuoolljGQgj7El47XluzEaSrUCicp052QX/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ds5hJrq3NFQEc8F3vl6WQaDA5Ro%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>'
-    },
-    { type: 'image', src: '/images/post79_img5.jpg', alt: '2025년 9월 개봉예정작 영화', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025.09.24</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>세기의 뮤즈 ‘리 밀러’. 화려한 예술계의 아이콘이 전장으로 향해 현실을 기록하기로 결심한다. 망설임 대신 셔터를, 안전 대신 ‘진실’을 택한 한 포토저널리스트의 용기와 고독.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>케이트 윈슬렛, 알렉산더 스카스가드, 마리옹 꼬띠아르</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>관람 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>인물의 내면을 밀착하는 드라마 톤과 전장 르포의 거친 질감이 공존.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section6',
-      text: '결혼 피로연 (The Wedding Banquet)',
-      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;386&quot; data-origin-width=&quot;686&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dpHzIU/btsQCSp6kXP/AAAAAAAAAAAAAAAAAAAAAA390x3ExnR684M58eWBhzgHebExba73Gvqh7nnvAXDb/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=0FhHy6IFAYhvf4I7lmbJAJ9HZr4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dpHzIU/btsQCSp6kXP/AAAAAAAAAAAAAAAAAAAAAA390x3ExnR684M58eWBhzgHebExba73Gvqh7nnvAXDb/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=0FhHy6IFAYhvf4I7lmbJAJ9HZr4%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>'
-    },
-    { type: 'image', src: '/images/post79_img6.jpg', alt: '2025년 9월 개봉예정작 영화', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025.09.24</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>미국에 사는 두 커플, 게이 커플 ‘크리스와 민’과 레즈비언 커플 ‘릴’과 ‘안젤라’. 각자의 사랑을 지키려다 한국식 전통 혼례라는 큰 무대가 펼쳐지고, 네 사람의 관계는 시험대에 오른다. 누군가의 진짜 마음이 드러나는 순간, 피로연은 뜻밖의 성장의 장이 된다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>윤여정, 한기찬, 보웬 양</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>관람 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>‘가족·사랑·체면’이 교차하는 코미디/멜로의 균형. 앤드류 안의 섬세한 시선.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '#진상을 말씀드립니다',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;675&quot; data-origin-width=&quot;900&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/7qbka/btsQBwalowi/AAAAAAAAAAAAAAAAAAAAAG94QzmSpNj2sBq3XlLQJmbLFd5pbxPj3g5p2Qw6o06H/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cpJQ8ft15UQX5IP5ow7T2oXCuYg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/7qbka/btsQBwalowi/AAAAAAAAAAAAAAAAAAAAAG94QzmSpNj2sBq3XlLQJmbLFd5pbxPj3g5p2Qw6o06H/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cpJQ8ft15UQX5IP5ow7T2oXCuYg%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>'
-    },
-    { type: 'image', src: '/images/post79_img7.jpg', alt: '2025년 9월 개봉예정작 영화', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025.09.24</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>동시접속 70만 명, 폭로 라이브 방송 ‘#진상을 말씀드립니다’. 스피커가 된 주인공들은 스캔들과 사건의 진실을 까발리며 후원금을 모으고, 전국적 논란 속 진짜와 가짜가 교차한다. “3년 전 그 사건의 빛을 밝힐 수 있을까?”</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>오오리 모토키, 키쿠치 후마, 이토 켄타로</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>관람 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>현실감 넘치는 라이브/플랫폼 드라마 문법. 미스터리와 사회풍자가 결합.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section8',
-      text: '홍이',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1208&quot; data-origin-width=&quot;1800&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/RuZce/btsQBvoWmMy/AAAAAAAAAAAAAAAAAAAAAG3YnA93jF2mNEyz2aEn6pcjQS_t7lIsVr3_5g6p1CUq/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=u2ks9DaAXerFToOiflmqZ%2FT4K1s%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/RuZce/btsQBvoWmMy/AAAAAAAAAAAAAAAAAAAAAG3YnA93jF2mNEyz2aEn6pcjQS_t7lIsVr3_5g6p1CUq/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=u2ks9DaAXerFToOiflmqZ%2FT4K1s%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>'
-    },
-    { type: 'image', src: '/images/post79_img8.webp', alt: '2025년 9월 개봉예정작 영화', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025.09.24</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>서늘한 현실 속을 버텨온 30대 ‘홍이’. 요양원에 있는 엄마 ‘서희’를 모시고 나오며 두 사람의 동거가 시작된다. 서로에게 솔직하지 못했던 시간과 상처가 서서히 벽을 허물며 다른 마음을 발견해 간다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>장선, 변중희, 이유경</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>관람 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>담백한 생활 연기, 모녀의 감정선을 따라가는 현실 드라마.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section9',
-      text: '파르테노페',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;343&quot; data-origin-width=&quot;610&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bZSkLC/btsQEdUNXCA/AAAAAAAAAAAAAAAAAAAAAObpwshqymG15jxPFefbFlBeGvwj6_UHdIhaArcvZTBF/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TnoHCQZldPgblUlEanQa0Nzfucw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bZSkLC/btsQEdUNXCA/AAAAAAAAAAAAAAAAAAAAAObpwshqymG15jxPFefbFlBeGvwj6_UHdIhaArcvZTBF/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TnoHCQZldPgblUlEanQa0Nzfucw%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>'
-    },
-    { type: 'image', src: '/images/post79_img9.jpg', alt: '2025년 9월 개봉예정작 영화', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025.09.24</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>1950년, 푸른 바다의 도시 나폴리. ‘파르테노페’라는 이름의 여성이 자유와 사랑, 아름다움의 의미를 찾아간다. 누구에게도 머무르지 않는 그녀의 삶은 답을 찾기 위한 끝없는 항해다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>셀레스테 달라 포르타, 게리 올드만, 스테파나 산드렐리</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>관람 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>파올로 소렌티노 특유의 미장센과 음악. ‘아름다움’의 윤리를 묻는 우아한 서사.</p>'
-    },
-    {
-      type: 'h2',
-      id: 'section10',
-      text: '마이다스 맨: 전설의 시작',
-      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1350&quot; data-origin-width=&quot;938&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dnb8Xx/btsQA6iIfLt/AAAAAAAAAAAAAAAAAAAAAL0rSycs6VILygaAj1-nbZAK2RAsHVL9HcXbUbXSOA4q/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xLUlmZJgLRQCYlMCCb1D57idCUA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dnb8Xx/btsQA6iIfLt/AAAAAAAAAAAAAAAAAAAAAL0rSycs6VILygaAj1-nbZAK2RAsHVL9HcXbUbXSOA4q/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xLUlmZJgLRQCYlMCCb1D57idCUA%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>'
-    },
-    { type: 'image', src: '/images/post79_img11.jpg', alt: '2025년 9월 개봉예정작 영화', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post79_img10.jpg', alt: '2025년 9월 개봉예정작 영화', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<h3>개봉일</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>2025.09.24</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>리버풀의 한 레코드점에서 시작된 만남. 브라이언 엡스타인이 네 명의 소년을 세계로 이끌 매니저가 되기까지—그리고 그를 뒤흔든 비밀. 비틀즈의 탄생 뒷면을 따라가는 새로운 막이 오른다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>출연진</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>제이콥 포춘-로이드, 에밀리 왓슨, 에드워드 스펠리어스</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>관람 포인트</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>음악사의 이면, ‘매니지먼트’의 드라마. 비틀즈 팬이라면 체크.</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;/ title=&quot;10월 개봉예정영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>10월 개봉예정영화 보러 가기👉</button></a></center></div>'
-    },
-    {
-      type: 'h2',
-      id: 'section11',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/marvel-movie-release-upcoming/',
-      text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
-    },
-    {
-      type: 'cta',
-      href: '/movie-box-office-audience-guide-ott/',
-      text: '역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부'
-    },
+    { type: 'h2', id: "section4", text: "극장판 체인소 맨: 레제편", gradientStyle: "linear-gradient(to right, #e53935, #ef5350)" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;334&quot; data-origin-width=&quot;600&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bHriOh/btsQDwAnSoJ/AAAAAAAAAAAAAAAAAAAAAPYAkSLLwAhhTuEL4twttq3auPGSogOFcZhSq8s6HdnR/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=z2PYd7zRb46w4adfehTJTzWtq5I%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bHriOh/btsQDwAnSoJ/AAAAAAAAAAAAAAAAAAAAAPYAkSLLwAhhTuEL4twttq3auPGSogOFcZhSq8s6HdnR/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=z2PYd7zRb46w4adfehTJTzWtq5I%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post79_img4.jpg", alt: "2025년 9월 개봉예정작 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-개봉일", text: "개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025.09.24</p>" },
+    { type: 'h2', id: "section-줄거리", text: "줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>죽음 끝에서 ‘체인소 맨’으로 다시 태어난 덴지. 전쟁의 한복판 같은 전장에서 정체불명의 소녀 ‘레제’가 나타나고, 가장 위험한 전투가 시작된다. 사랑과 의심이 교차하는 순간, 포치타와의 계약이 던지는 질문은 더 벼려진다.</p>" },
+    { type: 'h2', id: "section-출연진", text: "출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>성우진: 공식 표기 확인 시 업데이트</p>" },
+    { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>첫 극장판 스케일로 재구성되는 ‘레제’ 아크. 압도적인 배틀 작화와 감정선 병행.</p>" },
+    { type: 'h2', id: "section5", text: "리 밀러: 카메라를 든 여자", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;705&quot; data-origin-width=&quot;1024&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bxEmpC/btsQBUvghjC/AAAAAAAAAAAAAAAAAAAAAA7n1Q8WEsOuoolljGQgj7El47XluzEaSrUCicp052QX/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ds5hJrq3NFQEc8F3vl6WQaDA5Ro%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bxEmpC/btsQBUvghjC/AAAAAAAAAAAAAAAAAAAAAA7n1Q8WEsOuoolljGQgj7El47XluzEaSrUCicp052QX/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ds5hJrq3NFQEc8F3vl6WQaDA5Ro%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post79_img5.jpg", alt: "2025년 9월 개봉예정작 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-개봉일", text: "개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025.09.24</p>" },
+    { type: 'h2', id: "section-줄거리", text: "줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>세기의 뮤즈 ‘리 밀러’. 화려한 예술계의 아이콘이 전장으로 향해 현실을 기록하기로 결심한다. 망설임 대신 셔터를, 안전 대신 ‘진실’을 택한 한 포토저널리스트의 용기와 고독.</p>" },
+    { type: 'h2', id: "section-출연진", text: "출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>케이트 윈슬렛, 알렉산더 스카스가드, 마리옹 꼬띠아르</p>" },
+    { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>인물의 내면을 밀착하는 드라마 톤과 전장 르포의 거친 질감이 공존.</p>" },
+    { type: 'h2', id: "section6", text: "결혼 피로연 (The Wedding Banquet)", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;386&quot; data-origin-width=&quot;686&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dpHzIU/btsQCSp6kXP/AAAAAAAAAAAAAAAAAAAAAA390x3ExnR684M58eWBhzgHebExba73Gvqh7nnvAXDb/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=0FhHy6IFAYhvf4I7lmbJAJ9HZr4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dpHzIU/btsQCSp6kXP/AAAAAAAAAAAAAAAAAAAAAA390x3ExnR684M58eWBhzgHebExba73Gvqh7nnvAXDb/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=0FhHy6IFAYhvf4I7lmbJAJ9HZr4%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post79_img6.jpg", alt: "2025년 9월 개봉예정작 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-개봉일", text: "개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025.09.24</p>" },
+    { type: 'h2', id: "section-줄거리", text: "줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>미국에 사는 두 커플, 게이 커플 ‘크리스와 민’과 레즈비언 커플 ‘릴’과 ‘안젤라’. 각자의 사랑을 지키려다 한국식 전통 혼례라는 큰 무대가 펼쳐지고, 네 사람의 관계는 시험대에 오른다. 누군가의 진짜 마음이 드러나는 순간, 피로연은 뜻밖의 성장의 장이 된다.</p>" },
+    { type: 'h2', id: "section-출연진", text: "출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>윤여정, 한기찬, 보웬 양</p>" },
+    { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>‘가족·사랑·체면’이 교차하는 코미디/멜로의 균형. 앤드류 안의 섬세한 시선.</p>" },
+    { type: 'h2', id: "section7", text: "#진상을 말씀드립니다", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;675&quot; data-origin-width=&quot;900&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/7qbka/btsQBwalowi/AAAAAAAAAAAAAAAAAAAAAG94QzmSpNj2sBq3XlLQJmbLFd5pbxPj3g5p2Qw6o06H/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cpJQ8ft15UQX5IP5ow7T2oXCuYg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/7qbka/btsQBwalowi/AAAAAAAAAAAAAAAAAAAAAG94QzmSpNj2sBq3XlLQJmbLFd5pbxPj3g5p2Qw6o06H/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cpJQ8ft15UQX5IP5ow7T2oXCuYg%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post79_img7.jpg", alt: "2025년 9월 개봉예정작 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-개봉일", text: "개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025.09.24</p>" },
+    { type: 'h2', id: "section-줄거리", text: "줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>동시접속 70만 명, 폭로 라이브 방송 ‘#진상을 말씀드립니다’. 스피커가 된 주인공들은 스캔들과 사건의 진실을 까발리며 후원금을 모으고, 전국적 논란 속 진짜와 가짜가 교차한다. “3년 전 그 사건의 빛을 밝힐 수 있을까?”</p>" },
+    { type: 'h2', id: "section-출연진", text: "출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>오오리 모토키, 키쿠치 후마, 이토 켄타로</p>" },
+    { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>현실감 넘치는 라이브/플랫폼 드라마 문법. 미스터리와 사회풍자가 결합.</p>" },
+    { type: 'h2', id: "section8", text: "홍이", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1208&quot; data-origin-width=&quot;1800&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/RuZce/btsQBvoWmMy/AAAAAAAAAAAAAAAAAAAAAG3YnA93jF2mNEyz2aEn6pcjQS_t7lIsVr3_5g6p1CUq/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=u2ks9DaAXerFToOiflmqZ%2FT4K1s%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/RuZce/btsQBvoWmMy/AAAAAAAAAAAAAAAAAAAAAG3YnA93jF2mNEyz2aEn6pcjQS_t7lIsVr3_5g6p1CUq/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=u2ks9DaAXerFToOiflmqZ%2FT4K1s%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post79_img8.webp", alt: "2025년 9월 개봉예정작 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-개봉일", text: "개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025.09.24</p>" },
+    { type: 'h2', id: "section-줄거리", text: "줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>서늘한 현실 속을 버텨온 30대 ‘홍이’. 요양원에 있는 엄마 ‘서희’를 모시고 나오며 두 사람의 동거가 시작된다. 서로에게 솔직하지 못했던 시간과 상처가 서서히 벽을 허물며 다른 마음을 발견해 간다.</p>" },
+    { type: 'h2', id: "section-출연진", text: "출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>장선, 변중희, 이유경</p>" },
+    { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>담백한 생활 연기, 모녀의 감정선을 따라가는 현실 드라마.</p>" },
+    { type: 'h2', id: "section9", text: "파르테노페", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;343&quot; data-origin-width=&quot;610&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bZSkLC/btsQEdUNXCA/AAAAAAAAAAAAAAAAAAAAAObpwshqymG15jxPFefbFlBeGvwj6_UHdIhaArcvZTBF/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TnoHCQZldPgblUlEanQa0Nzfucw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bZSkLC/btsQEdUNXCA/AAAAAAAAAAAAAAAAAAAAAObpwshqymG15jxPFefbFlBeGvwj6_UHdIhaArcvZTBF/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TnoHCQZldPgblUlEanQa0Nzfucw%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post79_img9.jpg", alt: "2025년 9월 개봉예정작 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-개봉일", text: "개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025.09.24</p>" },
+    { type: 'h2', id: "section-줄거리", text: "줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>1950년, 푸른 바다의 도시 나폴리. ‘파르테노페’라는 이름의 여성이 자유와 사랑, 아름다움의 의미를 찾아간다. 누구에게도 머무르지 않는 그녀의 삶은 답을 찾기 위한 끝없는 항해다.</p>" },
+    { type: 'h2', id: "section-출연진", text: "출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>셀레스테 달라 포르타, 게리 올드만, 스테파나 산드렐리</p>" },
+    { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>파올로 소렌티노 특유의 미장센과 음악. ‘아름다움’의 윤리를 묻는 우아한 서사.</p>" },
+    { type: 'h2', id: "section10", text: "마이다스 맨: 전설의 시작", gradientStyle: "linear-gradient(to right, #e53935, #ef5350)" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1350&quot; data-origin-width=&quot;938&quot;><span data-alt=&quot;2025년 9월 개봉예정작 영화&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dnb8Xx/btsQA6iIfLt/AAAAAAAAAAAAAAAAAAAAAL0rSycs6VILygaAj1-nbZAK2RAsHVL9HcXbUbXSOA4q/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xLUlmZJgLRQCYlMCCb1D57idCUA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dnb8Xx/btsQA6iIfLt/AAAAAAAAAAAAAAAAAAAAAL0rSycs6VILygaAj1-nbZAK2RAsHVL9HcXbUbXSOA4q/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xLUlmZJgLRQCYlMCCb1D57idCUA%3D&quot;></span><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post79_img11.jpg", alt: "2025년 9월 개봉예정작 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post79_img10.jpg", alt: "2025년 9월 개봉예정작 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'h2', id: "section-개봉일", text: "개봉일", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>2025.09.24</p>" },
+    { type: 'h2', id: "section-줄거리", text: "줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>리버풀의 한 레코드점에서 시작된 만남. 브라이언 엡스타인이 네 명의 소년을 세계로 이끌 매니저가 되기까지—그리고 그를 뒤흔든 비밀. 비틀즈의 탄생 뒷면을 따라가는 새로운 막이 오른다.</p>" },
+    { type: 'h2', id: "section-출연진", text: "출연진", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>제이콥 포춘-로이드, 에밀리 왓슨, 에드워드 스펠리어스</p>" },
+    { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>음악사의 이면, ‘매니지먼트’의 드라마. 비틀즈 팬이라면 체크.</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;/ title=&quot;10월 개봉예정영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>10월 개봉예정영화 보러 가기👉</button></a></center></div>" },
+    { type: 'h2', id: "section11", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
+    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
+    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
+    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
+    { type: 'cta', href: "/movie-box-office-audience-guide-ott/", text: "역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

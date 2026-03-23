@@ -1,246 +1,74 @@
 const post = {
   id: 379,
   sections: [
-    {
-      type: 'cta',
-      href: '/movie-overseas-critic-reaction-ending-review/',
-      text: '영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기'
-    },
-    {
-      type: 'intro',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 미나리 정이삭 감독의 할리우드 재난 블록버스터 영화 트위스터스(Twisters)</b></span></p><p>전작 트위스터 개봉 이후 28년만의 후속작품으로,</p><p>미국 현지에서 7월 19일 개봉 후 영화 제목 그대로 트위스터스를 일으키고 있는 화제작입니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post379_thumb.svg',
-      alt: '영화 트위스터스 뜻 해외 반응 및 로튼토마토 평론가 평점 - 미나리 정이삭 감독 작품 등장인물 배우 캐스팅 정보 개봉일',
-      caption: '영화 트위스터스 뜻 해외 반응 및 로튼토마토 평론가 평점 - 미나리 정이삭 감독 작품 등장인물 배우 캐스팅 정보 개봉일'
-    },
+    { type: 'intro', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 미나리 정이삭 감독의 할리우드 재난 블록버스터 영화 트위스터스(Twisters)</b></span></p><p>전작 트위스터 개봉 이후 28년만의 후속작품으로,</p><p>미국 현지에서 7월 19일 개봉 후 영화 제목 그대로 트위스터스를 일으키고 있는 화제작입니다.</p>" },
+    { type: 'image', src: "/images/post379_thumb.svg", alt: "영화 트위스터스 뜻 해외 반응 및 로튼토마토 평론가 평점 - 미나리 정이삭 감독 작품 등장인물 배우 캐스팅 정보 개봉일", caption: "영화 트위스터스 뜻 해외 반응 및 로튼토마토 평론가 평점 - 미나리 정이삭 감독 작품 등장인물 배우 캐스팅 정보 개봉일" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p>한국에선 2024년 8월 14일 개봉 예정인 이 작품 과연 해외 반응은 어떠한지,</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>로튼 토마토 평론가 평점과 더불어 제목 뜻과 등장인물 배우 캐스팅</b></span> 살펴보도록 하겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>먼저 영화 제목인 트위스터스(영어 제목 : Twisters)의 뜻을 알아보도록 하겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>네이버 사전에서 발췌한 <span style=&quot;background-color: #f3c000;&quot;><b>영화 제목 트위스터스 twister의 뜻은 회오리 바람, 토네이도</b></span> 입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>미국에서는 “twister”라는 용어가 토네이도를 가리키는 속어로 사용됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이때 토네이도는 강한 회전 기류가 발생해 바람이 돌면서 형성되는 자연재해입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>그외 twister를 의미하는 뜻</b></span>도 함께 전해드립니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>당연하게도 해당 영화의 뜻과는 관련 없습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>뉴욕 기상청의 전문 기상학자</span>로, 어린 시절부터 토네이도에 대한 깊은 관심을 가져왔다.</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>그러나 과거의 사건으로 인해 오클라호마를 떠나 도시에서 새로운 삶을 시작하게 된다.</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>전국적으로 <span style=&quot;background-color: #f3c000;&quot;>유명한 스톰 체이서 인플루언서</span>이자 </b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>\'토네이도 카우보이\'라는 별명을 가진 토네이도 랭글러 크루의 리더. </b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>극적인 장면과 도전을 즐긴다.</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>케이트의 오랜 친구</span>로, </b><b>어떤 사건 이후 스톰 체이서 팀의 지도자가 되었다. </b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>\'스톰 파\'라는 이름으로 팀을 이끌며, 위험을 감수하는 모험가이다.</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>토네이도 랭글러 크루의 멤버</span>로, 폭죽에 대한 열정이 가득한 인물. </b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>팀 내에서 에너지를 불어넣는 역할을 한다.</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #01ff51;&quot;><b>스톰 체이서를 취재하는 기자</b></span>로, 토네이도 랭글러 크루의 활동을 따라다니며,</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>특히 케이트에게 큰 흥미를 느끼고 있다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>로튼토마토 해외 평론가 평점입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>해외 평론가 평점은 총 100% 중 76%의 점수</b></span>로, 100명 중 76명이 영화에 긍정적 평가를 내렸다는 뜻입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>특히나 신선도 보증 마크를 가지고 있는 것으로 보아,</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b> 영화의 신선한 전개가 평론가들을 사로잡았다는 뜻</b></span>을 의미합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>오른쪽 팝콘 모양의 평점은 <span style=&quot;background-color: #f3c000;&quot;><b>관람객 평점으로 92%</b></span>의 점수를 기록하였습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이또한 상당히 높은 점수로, 더욱 영화에 대한 기대감을 높히는 부분이 될 것입니다.</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post379_img10.jpg', alt: '영화 트위스터스 평론가 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post379_img9.jpg', alt: '영화 트위스터스 평론가 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post379_img8.jpg', alt: '영화 트위스터스 평론가 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post379_img7.jpg', alt: '영화 트위스터스 등장인물 캐스팅', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post379_img6.jpg', alt: '영화 트위스터스 등장인물 캐스팅', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post379_img5.jpg', alt: '영화 트위스터스 등장인물 캐스팅', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post379_img4.jpg', alt: '영화 트위스터스 뜻 해외 반응 및 로튼토마토 평론가 평점 - 미나리 정이삭 감독 작품 등장인물 배우 캐스팅 정보 개봉일', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post379_img3.jpg', alt: '영화 트위스터스 등장인물 캐스팅', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post379_img2.jpg', alt: '영화 트위스터스 뜻', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post379_img1.jpg', alt: '영화 트위스터스 뜻 평론가 평점', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p>다음 포스팅에서 영화 트위스터스의 해외 평론가들의 후기 살펴보겠습니다.</p>'
-    },
+    { type: 'body', html: "<p>한국에선 2024년 8월 14일 개봉 예정인 이 작품 과연 해외 반응은 어떠한지,</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>로튼 토마토 평론가 평점과 더불어 제목 뜻과 등장인물 배우 캐스팅</b></span> 살펴보도록 하겠습니다.</p>" },
+    { type: 'body', html: "<p>먼저 영화 제목인 트위스터스(영어 제목 : Twisters)의 뜻을 알아보도록 하겠습니다.</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>네이버 사전에서 발췌한 <span style=&quot;background-color: #f3c000;&quot;><b>영화 제목 트위스터스 twister의 뜻은 회오리 바람, 토네이도</b></span> 입니다.</p>" },
+    { type: 'body', html: "<p>미국에서는 “twister”라는 용어가 토네이도를 가리키는 속어로 사용됩니다.</p>" },
+    { type: 'body', html: "<p>이때 토네이도는 강한 회전 기류가 발생해 바람이 돌면서 형성되는 자연재해입니다.</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>그외 twister를 의미하는 뜻</b></span>도 함께 전해드립니다.</p>" },
+    { type: 'body', html: "<p>당연하게도 해당 영화의 뜻과는 관련 없습니다.</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b><span style=&quot;background-color: #f3c000;&quot;>뉴욕 기상청의 전문 기상학자</span>로, 어린 시절부터 토네이도에 대한 깊은 관심을 가져왔다.</b></p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>그러나 과거의 사건으로 인해 오클라호마를 떠나 도시에서 새로운 삶을 시작하게 된다.</b></p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>전국적으로 <span style=&quot;background-color: #f3c000;&quot;>유명한 스톰 체이서 인플루언서</span>이자 </b></p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>'토네이도 카우보이'라는 별명을 가진 토네이도 랭글러 크루의 리더. </b></p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>극적인 장면과 도전을 즐긴다.</b></p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b><span style=&quot;background-color: #f3c000;&quot;>케이트의 오랜 친구</span>로, </b><b>어떤 사건 이후 스톰 체이서 팀의 지도자가 되었다. </b></p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>'스톰 파'라는 이름으로 팀을 이끌며, 위험을 감수하는 모험가이다.</b></p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b><span style=&quot;background-color: #f3c000;&quot;>토네이도 랭글러 크루의 멤버</span>로, 폭죽에 대한 열정이 가득한 인물. </b></p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>팀 내에서 에너지를 불어넣는 역할을 한다.</b></p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>스톰 체이서를 취재하는 기자</b></span>로, 토네이도 랭글러 크루의 활동을 따라다니며,</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>특히 케이트에게 큰 흥미를 느끼고 있다.</p>" },
+    { type: 'body', html: "<p>로튼토마토 해외 평론가 평점입니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>해외 평론가 평점은 총 100% 중 76%의 점수</b></span>로, 100명 중 76명이 영화에 긍정적 평가를 내렸다는 뜻입니다.</p>" },
+    { type: 'body', html: "<p>특히나 신선도 보증 마크를 가지고 있는 것으로 보아,</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b> 영화의 신선한 전개가 평론가들을 사로잡았다는 뜻</b></span>을 의미합니다.</p>" },
+    { type: 'body', html: "<p>오른쪽 팝콘 모양의 평점은 <span style=&quot;background-color: #f3c000;&quot;><b>관람객 평점으로 92%</b></span>의 점수를 기록하였습니다.</p>" },
+    { type: 'body', html: "<p>이또한 상당히 높은 점수로, 더욱 영화에 대한 기대감을 높히는 부분이 될 것입니다.</p>" },
+    { type: 'image', src: "/images/post379_img10.jpg", alt: "영화 트위스터스 평론가 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post379_img9.jpg", alt: "영화 트위스터스 평론가 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post379_img8.jpg", alt: "영화 트위스터스 평론가 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post379_img7.jpg", alt: "영화 트위스터스 등장인물 캐스팅", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post379_img6.jpg", alt: "영화 트위스터스 등장인물 캐스팅", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post379_img5.jpg", alt: "영화 트위스터스 등장인물 캐스팅", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post379_img4.jpg", alt: "영화 트위스터스 뜻 해외 반응 및 로튼토마토 평론가 평점 - 미나리 정이삭 감독 작품 등장인물 배우 캐스팅 정보 개봉일", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post379_img3.jpg", alt: "영화 트위스터스 등장인물 캐스팅", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post379_img2.jpg", alt: "영화 트위스터스 뜻", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post379_img1.jpg", alt: "영화 트위스터스 뜻 평론가 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "/movie-overseas-critic-reaction-ending-review/", text: "영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기" },
+    { type: 'ending', html: "<p>다음 포스팅에서 영화 트위스터스의 해외 평론가들의 후기 살펴보겠습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

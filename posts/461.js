@@ -1,133 +1,43 @@
 const post = {
   id: 461,
   sections: [
-    {
-      type: 'cta',
-      href: 'https://ambitstock.com/14',
-      text: '[영화 파묘 개봉일 및 티저 예고편 해외반응] - 파묘 뜻 등장인물과 포스터 영어제목 Exhuma 뜻 2월'
-    },
-    {
-      type: 'cta',
-      href: 'https://ambitstock.com/12',
-      text: '[조커2 영화 개봉일 배우 조커 해외평점과 반응] - 배트맨 할리퀸 합류? 개봉 예정작 (영화 조커 OT'
-    },
-    {
-      type: 'cta',
-      href: '/',
-      text: '[영화 미키17 개봉일 티저 예고편, 개봉전 전작 기생충 해외 평점 반응] 봉준호 시리즈 1탄 - 기생'
-    },
-    {
-      type: 'intro',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>역대 박스오피스 한국 영화 순위 시리즈 첫 번째, 영화 베테랑입니다. </p><p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;>속편 베테랑 2의 개봉일은 24년 하반기로 예정되어 있으며</span></span></b><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;> <span style=&quot;text-align: start;&quot;>이미 촬영이 마무리되어</span> 후반 작업을 진행 중이라</span></span></span> 합니다.</p><p>베테랑 2편 개봉 전 천만관객인 베테랑 1편의 박스오피스 순위 및 정보, 그리고 해외에서는 어떻게 시청하였는지 해외 리뷰 평점과 반응 알아보도록 하겠습니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post461_thumb.svg',
-      alt: '[영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스 한국 영화 순위 시리즈 OTT 넷플릭스 다시보기',
-      caption: '[영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스 한국 영화 순위 시리즈 OTT 넷플릭스 다시보기'
-    },
+    { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;>역대 박스오피스 한국 영화 순위 시리즈 첫 번째, 영화 베테랑입니다. </p><p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;>속편 베테랑 2의 개봉일은 24년 하반기로 예정되어 있으며</span></span></b><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;> <span style=&quot;text-align: start;&quot;>이미 촬영이 마무리되어</span> 후반 작업을 진행 중이라</span></span></span> 합니다.</p><p>베테랑 2편 개봉 전 천만관객인 베테랑 1편의 박스오피스 순위 및 정보, 그리고 해외에서는 어떻게 시청하였는지 해외 리뷰 평점과 반응 알아보도록 하겠습니다.</p>" },
+    { type: 'image', src: "/images/post461_thumb.svg", alt: "[영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스 한국 영화 순위 시리즈 OTT 넷플릭스 다시보기", caption: "[영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스 한국 영화 순위 시리즈 OTT 넷플릭스 다시보기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p>베테랑 1편의 박스오피스 정보입니다. 순위, 개봉일, 매출, 관객수, 스크린수, 그리고 상영 횟수를 확인하실 수 있습니다. 영화진흥위원회 영화관입장권통합전산망 KOFIC의 역대 박스오피스 통합전산망 자료를 토대로 작성되었습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;로튼토마토 베테랑.JPG&quot; data-origin-height=&quot;284&quot; data-origin-width=&quot;923&quot;><span data-alt=&quot;로튼 토마토 영화 베테랑 해외 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/kRhAj/btsDqldLkyr/AAAAAAAAAAAAAAAAAAAAAJL8GVcDta_Wch56EpTUrsUJGi19p3_emFeOrjRUZzSh/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OJ2aO6m5Djb%2BWGICa4OrjflAV0o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/kRhAj/btsDqldLkyr/AAAAAAAAAAAAAAAAAAAAAJL8GVcDta_Wch56EpTUrsUJGi19p3_emFeOrjRUZzSh/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OJ2aO6m5Djb%2BWGICa4OrjflAV0o%3D&quot;></span><figcaption>로튼 토마토 영화 베테랑 해외 평점</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화 베테랑의 로튼 토마토 평론가 평점은 90%, 관객 평점은 79%입니다. 일반적으로 관객 평점이 높지만 영화 베테랑은 평론가 평점이 준수하고 관객 평점은 낮은 것으로 확인됩니다. 로튼 토마토 영화 베테랑 평론가 리뷰입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: center;&quot;><b>James Marsh  <br/>South China Morning Post</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b><br/><br/></b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;베테랑 포스터.jpg&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;512&quot;><span data-alt=&quot;영화 베테랑 배우 황정민 유아인&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/2aXuJ/btsDqnbNP54/AAAAAAAAAAAAAAAAAAAAAJZdt3OUJpVpUdRyJVVn65u35CdUkIAS435EHpb2ZxrY/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q8K%2BjCGpO3CGMdgt5B6oweP%2FT8g%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/2aXuJ/btsDqnbNP54/AAAAAAAAAAAAAAAAAAAAAJZdt3OUJpVpUdRyJVVn65u35CdUkIAS435EHpb2ZxrY/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q8K%2BjCGpO3CGMdgt5B6oweP%2FT8g%3D&quot;></span><figcaption>영화 베테랑 배우 황정민 유아인</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><b>Andrew Daley - One Room With A View</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b><br/><br/><br/></b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: center;&quot;><b>Diva Velez - TheDivaReview.com</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: center;&quot;> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Aaron Yap - Flicks (AU, NZ, UK)</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화가 너무 길지만 재미있고, 그렇다고 딱히 특별하진 않은 경찰 영화입니다...</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b> Alberto Abuín - Espinof </b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>탐정 코미디물에서 드라마로, 마지막 순간을 위해 최선을 다하는 영화</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Anton Bitel - Projected Figures</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: transparent; color: #2a2c32; text-align: start;&quot;> 한국의 사회 분열, 계급 불평등, 거친 정의( Rough Justice <span style=&quot;color: #666666; text-align: left;&quot;>저지른 범죄에 비해 너무 가혹하거나 가혹한 형벌</span> ), 강남 스타일 등을 관통하는, 흥미롭고 매우 재미있는 여정입니다. </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b><span style=&quot;color: inherit; background-color: #f3c000;&quot;>평점 7.0/10</span></b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>미국 영화 리뷰사이트 IMDB의 영화 베테랑 평점입니다. 로튼 토마토 평점보다 낮은 7.0점을 기록하고 있습니다. 한국에서는 압도적인 9점대 평점과는 대조적인 결과입니다. 아래 자료를 통하여 영화 베테랑에 대한 IMDB 평점분포를 확인해 보실 수 있습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;>마지막으로 올해 2024년 최고 기대작 살펴보며 역대 박스오피스 한국 영화 순위 시리즈 1편 포스팅 마치겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;>&lt;시리즈 2편&gt;은 영화 범죄도시입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;><b><span style=&quot;color: inherit; background-color: #f3c000;&quot;><a href=&quot;https://ambitstock.com/14&quot; style=&quot;color: inherit; background-color: #f3c000;&quot;>최민식 김고은 주연 영화 &lt;파묘&gt;</a></span></b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: left;&quot;><b><span style=&quot;color: inherit;&quot;><a href=&quot;https://ambitstock.com/12&quot; style=&quot;color: inherit;&quot;><span style=&quot;background-color: #f3c000;&quot;>조커 2: 폴리 아 되</span></a></span></b></p>'
-    },
-    ,
-    { type: 'image', src: '/images/post461_img7.jpg', alt: 'IMDB 베테랑 평점분포', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post461_img6.jpg', alt: 'IMDB 영화 베테랑 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post461_img5.jpg', alt: '영화 베테랑 배우 황정민', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post461_img4.jpg', alt: '영화 베테랑 배우 황정민', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post461_img3.jpg', alt: '영화 베테랑 배우 황정민 유아인', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post461_img2.jpg', alt: '로튼 토마토 영화 베테랑 해외 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post461_img1.jpg', alt: '영화 베테랑 포스터', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p><a href=&quot;https://ambitstock.com/9&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;><u><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b>봉준호감독 영화 미키 17</b></span></u></a></p>'
-    },
+    { type: 'body', html: "<p>베테랑 1편의 박스오피스 정보입니다. 순위, 개봉일, 매출, 관객수, 스크린수, 그리고 상영 횟수를 확인하실 수 있습니다. 영화진흥위원회 영화관입장권통합전산망 KOFIC의 역대 박스오피스 통합전산망 자료를 토대로 작성되었습니다.</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;로튼토마토 베테랑.JPG&quot; data-origin-height=&quot;284&quot; data-origin-width=&quot;923&quot;><span data-alt=&quot;로튼 토마토 영화 베테랑 해외 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/kRhAj/btsDqldLkyr/AAAAAAAAAAAAAAAAAAAAAJL8GVcDta_Wch56EpTUrsUJGi19p3_emFeOrjRUZzSh/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OJ2aO6m5Djb%2BWGICa4OrjflAV0o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/kRhAj/btsDqldLkyr/AAAAAAAAAAAAAAAAAAAAAJL8GVcDta_Wch56EpTUrsUJGi19p3_emFeOrjRUZzSh/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OJ2aO6m5Djb%2BWGICa4OrjflAV0o%3D&quot;></span><figcaption>로튼 토마토 영화 베테랑 해외 평점</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>영화 베테랑의 로튼 토마토 평론가 평점은 90%, 관객 평점은 79%입니다. 일반적으로 관객 평점이 높지만 영화 베테랑은 평론가 평점이 준수하고 관객 평점은 낮은 것으로 확인됩니다. 로튼 토마토 영화 베테랑 평론가 리뷰입니다.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: center;&quot;><b>James Marsh  <br/>South China Morning Post</b></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b><br/><br/></b></span></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;베테랑 포스터.jpg&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;512&quot;><span data-alt=&quot;영화 베테랑 배우 황정민 유아인&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/2aXuJ/btsDqnbNP54/AAAAAAAAAAAAAAAAAAAAAJZdt3OUJpVpUdRyJVVn65u35CdUkIAS435EHpb2ZxrY/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q8K%2BjCGpO3CGMdgt5B6oweP%2FT8g%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/2aXuJ/btsDqnbNP54/AAAAAAAAAAAAAAAAAAAAAJZdt3OUJpVpUdRyJVVn65u35CdUkIAS435EHpb2ZxrY/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q8K%2BjCGpO3CGMdgt5B6oweP%2FT8g%3D&quot;></span><figcaption>영화 베테랑 배우 황정민 유아인</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b>Andrew Daley - One Room With A View</b></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;><b><br/><br/><br/></b></span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: center;&quot;><b>Diva Velez - TheDivaReview.com</b></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: center;&quot;> </p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b>Aaron Yap - Flicks (AU, NZ, UK)</b></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>영화가 너무 길지만 재미있고, 그렇다고 딱히 특별하진 않은 경찰 영화입니다...</p>" },
+    { type: 'body', html: "<p><b> Alberto Abuín - Espinof </b></p>" },
+    { type: 'body', html: "<p>탐정 코미디물에서 드라마로, 마지막 순간을 위해 최선을 다하는 영화</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b>Anton Bitel - Projected Figures</b></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: transparent; color: #2a2c32; text-align: start;&quot;> 한국의 사회 분열, 계급 불평등, 거친 정의( Rough Justice <span style=&quot;color: #666666; text-align: left;&quot;>저지른 범죄에 비해 너무 가혹하거나 가혹한 형벌</span> ), 강남 스타일 등을 관통하는, 흥미롭고 매우 재미있는 여정입니다. </span></p>" },
+    { type: 'body', html: "<p><b><span style=&quot;color: inherit; background-color: #f3c000;&quot;>평점 7.0/10</span></b></p>" },
+    { type: 'body', html: "<p>미국 영화 리뷰사이트 IMDB의 영화 베테랑 평점입니다. 로튼 토마토 평점보다 낮은 7.0점을 기록하고 있습니다. 한국에서는 압도적인 9점대 평점과는 대조적인 결과입니다. 아래 자료를 통하여 영화 베테랑에 대한 IMDB 평점분포를 확인해 보실 수 있습니다.</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: left;&quot;>마지막으로 올해 2024년 최고 기대작 살펴보며 역대 박스오피스 한국 영화 순위 시리즈 1편 포스팅 마치겠습니다.</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: left;&quot;>&lt;시리즈 2편&gt;은 영화 범죄도시입니다.</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: left;&quot;><b><span style=&quot;color: inherit; background-color: #f3c000;&quot;><a href=&quot;https://ambitstock.com/14&quot; style=&quot;color: inherit; background-color: #f3c000;&quot;>최민식 김고은 주연 영화 &lt;파묘&gt;</a></span></b></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: left;&quot;><b><span style=&quot;color: inherit;&quot;><a href=&quot;https://ambitstock.com/12&quot; style=&quot;color: inherit;&quot;><span style=&quot;background-color: #f3c000;&quot;>조커 2: 폴리 아 되</span></a></span></b></p>" },
+    { type: 'image', src: "/images/post461_img7.jpg", alt: "IMDB 베테랑 평점분포", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post461_img6.jpg", alt: "IMDB 영화 베테랑 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post461_img5.jpg", alt: "영화 베테랑 배우 황정민", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post461_img4.jpg", alt: "영화 베테랑 배우 황정민", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post461_img3.jpg", alt: "영화 베테랑 배우 황정민 유아인", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post461_img2.jpg", alt: "로튼 토마토 영화 베테랑 해외 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post461_img1.jpg", alt: "영화 베테랑 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "https://ambitstock.com/14", text: "[영화 파묘 개봉일 및 티저 예고편 해외반응] - 파묘 뜻 등장인물과 포스터 영어제목 Exhuma 뜻 2월" },
+    { type: 'cta', href: "https://ambitstock.com/12", text: "[조커2 영화 개봉일 배우 조커 해외평점과 반응] - 배트맨 할리퀸 합류? 개봉 예정작 (영화 조커 OT" },
+    { type: 'cta', href: "/", text: "[영화 미키17 개봉일 티저 예고편, 개봉전 전작 기생충 해외 평점 반응] 봉준호 시리즈 1탄 - 기생" },
+    { type: 'ending', html: "<p><a href=&quot;https://ambitstock.com/9&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;><u><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b>봉준호감독 영화 미키 17</b></span></u></a></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

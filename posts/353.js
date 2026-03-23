@@ -1,128 +1,41 @@
 const post = {
   id: 353,
   sections: [
-    {
-      type: 'cta',
-      href: '/movie-overseas-reaction-ending-dx-sns/',
-      text: '영화 에일리언 로물루스 4DX 예매 첫 SNS 시사회 해외 반응 역대 최고의 결말 스틸컷과 함께 보기'
-    },
-    {
-      type: 'cta',
-      href: '/movie-overseas-critic-reaction-ending-review/',
-      text: '영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기'
-    },
-    {
-      type: 'cta',
-      href: '/movie-release-plot/',
-      text: '영화 행복의 나라 개봉일 확정 티저 예고편 공개 - 줄거리 및 등장인물 정보'
-    },
-    {
-      type: 'intro',
-      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>영화 빅토리 시사회 반응 및 평점 후기 입니다. </span></b></p><p>2024년 8월 14일 개봉하는 영화 빅토리(영어제목 : Victory) 는 <b>에일리언 로물루스, 트위스터스, 행복의 나라</b> 등 올해 최고 기대작들과 같은 날 개봉하며, 개봉일 선정이 미스 초이스라는 평이 많지만, 시사회 평은 <span style=&quot;background-color: #01ff51;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>결과물이 영화 \'써니\' 재질의 </span>상당히 잘 만들어진 영화라는 긍정적인 평가</b></span>들이 주를 이루고 있습니다. </p><p><span style=&quot;background-color: transparent;&quot;>영화 빅토리 줄거리 개요와 함께 평점 후기반응 살펴보겠습니다.</span></p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post353_thumb.svg',
-      alt: '영화 빅토리 시사회 반응 평점 후기 혜리 출연작 볼만할까? 현재상영작',
-      caption: '영화 빅토리 시사회 반응 평점 후기 혜리 출연작 볼만할까? 현재상영작'
-    },
+    { type: 'intro', html: "<p><b><span style=&quot;background-color: #01ff51;&quot;>영화 빅토리 시사회 반응 및 평점 후기 입니다. </span></b></p><p>2024년 8월 14일 개봉하는 영화 빅토리(영어제목 : Victory) 는 <b>에일리언 로물루스, 트위스터스, 행복의 나라</b> 등 올해 최고 기대작들과 같은 날 개봉하며, 개봉일 선정이 미스 초이스라는 평이 많지만, 시사회 평은 <span style=&quot;background-color: #01ff51;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>결과물이 영화 '써니' 재질의 </span>상당히 잘 만들어진 영화라는 긍정적인 평가</b></span>들이 주를 이루고 있습니다. </p><p><span style=&quot;background-color: transparent;&quot;>영화 빅토리 줄거리 개요와 함께 평점 후기반응 살펴보겠습니다.</span></p>" },
+    { type: 'image', src: "/images/post353_thumb.svg", alt: "영화 빅토리 시사회 반응 평점 후기 혜리 출연작 볼만할까? 현재상영작", caption: "영화 빅토리 시사회 반응 평점 후기 혜리 출연작 볼만할까? 현재상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;784&quot; data-origin-width=&quot;1350&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cux5xb/btsI2vbgflc/AAAAAAAAAAAAAAAAAAAAACPKZVJdYnxS49eIU1qADSkmDLP_rGJX1uceRqgELlK2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=H8kot99r8TZsG5EVj4UY0m8hqVw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cux5xb/btsI2vbgflc/AAAAAAAAAAAAAAAAAAAAACPKZVJdYnxS49eIU1qADSkmDLP_rGJX1uceRqgELlK2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=H8kot99r8TZsG5EVj4UY0m8hqVw%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>너무나도 뚜렷한 설정과 코미디 장르의 틀 속에서 이보다 더 잘 만들 수 있을까? 뻔함이라는 골짜를 그대로 두고도 여러 무기들로 돌파해 나간다. 90년대 시대상, 인물들의 선택과 그들의 우정과 사랑이 절묘하게 담겨있다. 정말 유쾌하고, 이 감정 속에... - 4.5</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;812&quot; data-origin-width=&quot;910&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bm7ttB/btsI2e1Wrrr/AAAAAAAAAAAAAAAAAAAAAE0XTTYzxfJWHNuduz-tEvs62OLraP9pIWnXbDJpbABa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FrlGfuGIrIJrzJYy3fYBxvTJI54%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bm7ttB/btsI2e1Wrrr/AAAAAAAAAAAAAAAAAAAAAE0XTTYzxfJWHNuduz-tEvs62OLraP9pIWnXbDJpbABa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FrlGfuGIrIJrzJYy3fYBxvTJI54%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>(사족을 많이 붙인) 향과 도파민의 흔적을 남기려는 시도.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>메가박스 시사회. - 3.0</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>Good : 모두를 응원하는 격려</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>Caution : 철모르는 낭만적 시각 - 3.0</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;813&quot; data-origin-width=&quot;1212&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b6McyT/btsI3b4ftRJ/AAAAAAAAAAAAAAAAAAAAAAx5DzLv8DojKXL8wjs_xfuZ2GIkOVDnl_quMAqe6Awj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=MADGJSYjnjoVnPYm6Or3EGcK17o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b6McyT/btsI3b4ftRJ/AAAAAAAAAAAAAAAAAAAAAAx5DzLv8DojKXL8wjs_xfuZ2GIkOVDnl_quMAqe6Awj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=MADGJSYjnjoVnPYm6Or3EGcK17o%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>투박하지만 호쾌하게 끝까지 뻗고 힘주어 밟는 매력. - 3.0</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그 시절 그곳에서 그들만의 투박하지만 즐거웠던 스텝업 - 3.0</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>응원이 필요한 모두에게.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>가장 격한 응원은 스스로에게. - 3.5</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;813&quot; data-origin-width=&quot;1187&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cAniL8/btsI1Ez12iC/AAAAAAAAAAAAAAAAAAAAAM2bWHBSnEN4_uD4q3GvGWh1FTwOjQFqtlbYWzLSmCOW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Fn%2BkX%2F1Bo2JmVT9S7mg1lEZ0GgE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cAniL8/btsI1Ez12iC/AAAAAAAAAAAAAAAAAAAAAM2bWHBSnEN4_uD4q3GvGWh1FTwOjQFqtlbYWzLSmCOW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Fn%2BkX%2F1Bo2JmVT9S7mg1lEZ0GgE%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>\'빅토리\'는 1999년 거제에서 댄서의 꿈을 품은 여고생들이 전학 온 학생의 도움을 받아 치어리딩 동아리를 시작하게 되는 영화다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>\'써니\'와 비슷하게 복고풍 청춘 영화로서 영화는 <span style=&quot;background-color: #f3c000;&quot;><b>적당한 추억팔이와 유머와 감동으로 응원의 메시지</b></span>를 전한다. - 2.5</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;806&quot; data-origin-width=&quot;1224&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/z12jp/btsI2GKnGof/AAAAAAAAAAAAAAAAAAAAAOm576qnD0bQb7zrYSfsq9H7bBg6hkraQ9EGDIdAsEc5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hJejdp4AIAruW5x%2Fdd7a%2F5P7nD8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/z12jp/btsI2GKnGof/AAAAAAAAAAAAAAAAAAAAAOm576qnD0bQb7zrYSfsq9H7bBg6hkraQ9EGDIdAsEc5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hJejdp4AIAruW5x%2Fdd7a%2F5P7nD8%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;color: #1a5490;&quot;><b>Y2K 감성과 함께 버무린 청춘의 몸부림들 99년 세기말의 감성을 잘 재현한 장점</b></span>이 있지만,</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;color: #781b33;&quot;><b>동시에 그 시기에 일어난 여러가지 사회적 사건들을 너무 많이 보여주려고 하다보니 영화가 바빠보인다는 단점</b></span>도 있다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>다들 쪼오금 줏대가 없어 보이긴 하는... - 3.0</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;823&quot; data-origin-width=&quot;1203&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/CuwB4/btsI1QAdlvT/AAAAAAAAAAAAAAAAAAAAAN4u4Fsl6mv8AyqTE8IEnv56HxLlpdzt6kuN12Ml_Vyo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=MU8N6aAClXo0NXZRLpK2wh5HQUk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/CuwB4/btsI1QAdlvT/AAAAAAAAAAAAAAAAAAAAAN4u4Fsl6mv8AyqTE8IEnv56HxLlpdzt6kuN12Ml_Vyo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=MU8N6aAClXo0NXZRLpK2wh5HQUk%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점과 후기 출처는 왓챠피디어입니다.</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post353_img6.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post353_img5.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post353_img4.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post353_img3.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post353_img2.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post353_img1.jpg', alt: '영화 빅토리 시사회 반응 평점 후기', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p>더 많은 반응은 왓챠피디어에서 확인 가능합니다.</p>'
-    },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;784&quot; data-origin-width=&quot;1350&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cux5xb/btsI2vbgflc/AAAAAAAAAAAAAAAAAAAAACPKZVJdYnxS49eIU1qADSkmDLP_rGJX1uceRqgELlK2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=H8kot99r8TZsG5EVj4UY0m8hqVw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cux5xb/btsI2vbgflc/AAAAAAAAAAAAAAAAAAAAACPKZVJdYnxS49eIU1qADSkmDLP_rGJX1uceRqgELlK2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=H8kot99r8TZsG5EVj4UY0m8hqVw%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>너무나도 뚜렷한 설정과 코미디 장르의 틀 속에서 이보다 더 잘 만들 수 있을까? 뻔함이라는 골짜를 그대로 두고도 여러 무기들로 돌파해 나간다. 90년대 시대상, 인물들의 선택과 그들의 우정과 사랑이 절묘하게 담겨있다. 정말 유쾌하고, 이 감정 속에... - 4.5</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;812&quot; data-origin-width=&quot;910&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bm7ttB/btsI2e1Wrrr/AAAAAAAAAAAAAAAAAAAAAE0XTTYzxfJWHNuduz-tEvs62OLraP9pIWnXbDJpbABa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FrlGfuGIrIJrzJYy3fYBxvTJI54%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bm7ttB/btsI2e1Wrrr/AAAAAAAAAAAAAAAAAAAAAE0XTTYzxfJWHNuduz-tEvs62OLraP9pIWnXbDJpbABa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FrlGfuGIrIJrzJYy3fYBxvTJI54%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>(사족을 많이 붙인) 향과 도파민의 흔적을 남기려는 시도.</p>" },
+    { type: 'body', html: "<p>메가박스 시사회. - 3.0</p>" },
+    { type: 'body', html: "<p>Good : 모두를 응원하는 격려</p>" },
+    { type: 'body', html: "<p>Caution : 철모르는 낭만적 시각 - 3.0</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;813&quot; data-origin-width=&quot;1212&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b6McyT/btsI3b4ftRJ/AAAAAAAAAAAAAAAAAAAAAAx5DzLv8DojKXL8wjs_xfuZ2GIkOVDnl_quMAqe6Awj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=MADGJSYjnjoVnPYm6Or3EGcK17o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b6McyT/btsI3b4ftRJ/AAAAAAAAAAAAAAAAAAAAAAx5DzLv8DojKXL8wjs_xfuZ2GIkOVDnl_quMAqe6Awj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=MADGJSYjnjoVnPYm6Or3EGcK17o%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>투박하지만 호쾌하게 끝까지 뻗고 힘주어 밟는 매력. - 3.0</p>" },
+    { type: 'body', html: "<p>그 시절 그곳에서 그들만의 투박하지만 즐거웠던 스텝업 - 3.0</p>" },
+    { type: 'body', html: "<p>응원이 필요한 모두에게.</p>" },
+    { type: 'body', html: "<p>가장 격한 응원은 스스로에게. - 3.5</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;813&quot; data-origin-width=&quot;1187&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cAniL8/btsI1Ez12iC/AAAAAAAAAAAAAAAAAAAAAM2bWHBSnEN4_uD4q3GvGWh1FTwOjQFqtlbYWzLSmCOW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Fn%2BkX%2F1Bo2JmVT9S7mg1lEZ0GgE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cAniL8/btsI1Ez12iC/AAAAAAAAAAAAAAAAAAAAAM2bWHBSnEN4_uD4q3GvGWh1FTwOjQFqtlbYWzLSmCOW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Fn%2BkX%2F1Bo2JmVT9S7mg1lEZ0GgE%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>'빅토리'는 1999년 거제에서 댄서의 꿈을 품은 여고생들이 전학 온 학생의 도움을 받아 치어리딩 동아리를 시작하게 되는 영화다.</p>" },
+    { type: 'body', html: "<p>'써니'와 비슷하게 복고풍 청춘 영화로서 영화는 <span style=&quot;background-color: #f3c000;&quot;><b>적당한 추억팔이와 유머와 감동으로 응원의 메시지</b></span>를 전한다. - 2.5</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;806&quot; data-origin-width=&quot;1224&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/z12jp/btsI2GKnGof/AAAAAAAAAAAAAAAAAAAAAOm576qnD0bQb7zrYSfsq9H7bBg6hkraQ9EGDIdAsEc5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hJejdp4AIAruW5x%2Fdd7a%2F5P7nD8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/z12jp/btsI2GKnGof/AAAAAAAAAAAAAAAAAAAAAOm576qnD0bQb7zrYSfsq9H7bBg6hkraQ9EGDIdAsEc5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hJejdp4AIAruW5x%2Fdd7a%2F5P7nD8%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;color: #1a5490;&quot;><b>Y2K 감성과 함께 버무린 청춘의 몸부림들 99년 세기말의 감성을 잘 재현한 장점</b></span>이 있지만,</p>" },
+    { type: 'body', html: "<p><span style=&quot;color: #781b33;&quot;><b>동시에 그 시기에 일어난 여러가지 사회적 사건들을 너무 많이 보여주려고 하다보니 영화가 바빠보인다는 단점</b></span>도 있다.</p>" },
+    { type: 'body', html: "<p>다들 쪼오금 줏대가 없어 보이긴 하는... - 3.0</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;823&quot; data-origin-width=&quot;1203&quot;><span data-alt=&quot;영화 빅토리 시사회 반응 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/CuwB4/btsI1QAdlvT/AAAAAAAAAAAAAAAAAAAAAN4u4Fsl6mv8AyqTE8IEnv56HxLlpdzt6kuN12Ml_Vyo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=MU8N6aAClXo0NXZRLpK2wh5HQUk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/CuwB4/btsI1QAdlvT/AAAAAAAAAAAAAAAAAAAAAN4u4Fsl6mv8AyqTE8IEnv56HxLlpdzt6kuN12Ml_Vyo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=MU8N6aAClXo0NXZRLpK2wh5HQUk%3D&quot;></span><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>평점과 후기 출처는 왓챠피디어입니다.</p>" },
+    { type: 'image', src: "/images/post353_img6.jpg", alt: "영화 빅토리 시사회 반응 평점 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post353_img5.jpg", alt: "영화 빅토리 시사회 반응 평점 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post353_img4.jpg", alt: "영화 빅토리 시사회 반응 평점 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post353_img3.jpg", alt: "영화 빅토리 시사회 반응 평점 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post353_img2.jpg", alt: "영화 빅토리 시사회 반응 평점 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post353_img1.jpg", alt: "영화 빅토리 시사회 반응 평점 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "/movie-overseas-reaction-ending-dx-sns/", text: "영화 에일리언 로물루스 4DX 예매 첫 SNS 시사회 해외 반응 역대 최고의 결말 스틸컷과 함께 보기" },
+    { type: 'cta', href: "/movie-overseas-critic-reaction-ending-review/", text: "영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기" },
+    { type: 'cta', href: "/movie-release-plot/", text: "영화 행복의 나라 개봉일 확정 티저 예고편 공개 - 줄거리 및 등장인물 정보" },
+    { type: 'ending', html: "<p>더 많은 반응은 왓챠피디어에서 확인 가능합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

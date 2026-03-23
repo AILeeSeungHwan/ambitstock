@@ -1,101 +1,34 @@
 const post = {
   id: 239,
   sections: [
-    {
-      type: 'cta',
-      href: '/review-critic-reaction-movie-release-upcoming/',
-      text: '더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리보기 개봉예정영화'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-movie-recommend-guide-top-10/',
-      text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/ending-review-guide/',
-      text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'intro',
-      html: '<p>영화 더러운 돈에 손대지 마라 (영어제목 : Dirty Money)는 2024년 10월 17일에 개봉한 범죄 스릴러로, 두 명의 탐정이 금전적 욕망에 의해 범죄에 휘말리면서 벌어지는 이야기를 담고 있습니다.</p><p>개봉 첫날 반응 평가는 좋지 못한 모습으로, 해외 시사회 후기리뷰와 함께 국내 관람평도 함께 확인해 보시길 바랍니다.</p><p><span style=&quot;background-color: #f3c000;&quot;><b>이번 포스팅에서는 출연진 등장인물 정보에 대해서 다루겠습니다.</b></span></p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post239_thumb.svg',
-      alt: '더러운 돈에 손대지 마라 출연진 정보 등장인물 개봉 후 좋지 못한 관람평 | 해외 시사회 후기 리뷰도 함께 보자',
-      caption: '더러운 돈에 손대지 마라 출연진 정보 등장인물 개봉 후 좋지 못한 관람평 | 해외 시사회 후기 리뷰도 함께 보자'
-    },
+    { type: 'intro', html: "<p>영화 더러운 돈에 손대지 마라 (영어제목 : Dirty Money)는 2024년 10월 17일에 개봉한 범죄 스릴러로, 두 명의 탐정이 금전적 욕망에 의해 범죄에 휘말리면서 벌어지는 이야기를 담고 있습니다.</p><p>개봉 첫날 반응 평가는 좋지 못한 모습으로, 해외 시사회 후기리뷰와 함께 국내 관람평도 함께 확인해 보시길 바랍니다.</p><p><span style=&quot;background-color: #f3c000;&quot;><b>이번 포스팅에서는 출연진 등장인물 정보에 대해서 다루겠습니다.</b></span></p>" },
+    { type: 'image', src: "/images/post239_thumb.svg", alt: "더러운 돈에 손대지 마라 출연진 정보 등장인물 개봉 후 좋지 못한 관람평 | 해외 시사회 후기 리뷰도 함께 보자", caption: "더러운 돈에 손대지 마라 출연진 정보 등장인물 개봉 후 좋지 못한 관람평 | 해외 시사회 후기 리뷰도 함께 보자" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;더러운 돈에 손대지 마라 시사회 후기 리뷰&quot;>2024.10.07 - [영화/영화 정보] - 더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리 보기 개봉예정영화</a></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 더러운 돈에 손대지 마라 주요 출연진과 등장인물 역할은 다음과 같습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>명덕은 병든 딸을 돌보기 위해 범죄 조직과 얽혀 뇌물을 받고 있는 부패한 경찰</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>딸의 치료비를 마련하려는 목적으로 범죄에 더욱 깊이 빠지게 되며, 경찰이라는 신분으로 더러운 돈을 만지는 이중적인 삶과 도덕적 갈등이 영화의 중요한 축을 이룹니다. 명덕은 돈을 노리고 큰 계획을 실행하려 하지만, 그의 선택은 예상치 못한 결과를 낳게 됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>동혁은 명덕의 파트너이자 도박 빚에 시달리고 있는 형사로, 금전적 문제를 해결하기 위해 명덕과 함께 위험한 범죄 계획에 가담하게 됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>유유상종 근묵자흑이라, 범죄를 저지르는 경찰 명덕의 옆에 있던 <span style=&quot;color: inherit; text-align: start;&quot;>동혁은 결국 점점 더 깊이 범죄에 빠지게 되지만, 자신이 처한 상황에서 벗어나기 위해 치열한 싸움을 벌입니다.<span> </span></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>동혁의 선택과 심리적 갈등이 영화의 긴장감을 더합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>명덕과 동혁이 중국 범죄 조직의 현금을 훔치려 하면서, 그들은 범죄 조직과 경찰 모두에게 쫓기는 상황에 놓입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>범죄 조직은 자신들의 돈을 되찾기 위해 어떤 수단도 가리지 않으며, 경찰 역시 이들의 범죄 행각을 추적하며 영화 내내 쫓고 쫓기는 스릴을 제공합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>명덕의 딸은 명덕이 돈에 집착하게 되는 중요한 이유로, 그녀의 병세가 명덕의 범죄 동기를 형성하는 데 큰 영향을 미칩니다. 명덕과 딸의 관계는 그의 인간적인 면모와 도덕적 딜레마를 드러내며, 영화의 감정적 무게를 더합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화는 두 형사의 잘못된 선택이 어떻게 예기치 못한 결과를 초래하는지 보여주며, 돈에 대한 탐욕과 도덕적 갈등, 그리고 그로 인한 파멸을 그립니다. 명덕과 동혁은 자신들이 계획한 범죄가 점차 통제 불능의 상황으로 치닫게 됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화에 대한 평가는 대체로 흔한 소재를 흔한 방식으로 풀어 쓴 영화라는 관람평이 지배적입니다. 또한 스토리가 너무나 빈약하여 몰입이 안된다는 평가도 있고요. 하지만 배우진들의 완벽한 연기와 기본에 충실한 전개에 대해 긍정적인 평가도 있습니다.</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post239_img6.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post239_img5.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post239_img4.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post239_img3.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post239_img2.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post239_img1.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p>가볍게 관람할 수 있는 영화 더러운 돈에 손대지 마라 입니다.</p>'
-    },
+    { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;더러운 돈에 손대지 마라 시사회 후기 리뷰&quot;>2024.10.07 - [영화/영화 정보] - 더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리 보기 개봉예정영화</a></p>" },
+    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 더러운 돈에 손대지 마라 주요 출연진과 등장인물 역할은 다음과 같습니다.</b></span></p>" },
+    { type: 'body', html: "<p>명덕은 병든 딸을 돌보기 위해 범죄 조직과 얽혀 뇌물을 받고 있는 부패한 경찰</p>" },
+    { type: 'body', html: "<p>딸의 치료비를 마련하려는 목적으로 범죄에 더욱 깊이 빠지게 되며, 경찰이라는 신분으로 더러운 돈을 만지는 이중적인 삶과 도덕적 갈등이 영화의 중요한 축을 이룹니다. 명덕은 돈을 노리고 큰 계획을 실행하려 하지만, 그의 선택은 예상치 못한 결과를 낳게 됩니다.</p>" },
+    { type: 'body', html: "<p>동혁은 명덕의 파트너이자 도박 빚에 시달리고 있는 형사로, 금전적 문제를 해결하기 위해 명덕과 함께 위험한 범죄 계획에 가담하게 됩니다.</p>" },
+    { type: 'body', html: "<p>유유상종 근묵자흑이라, 범죄를 저지르는 경찰 명덕의 옆에 있던 <span style=&quot;color: inherit; text-align: start;&quot;>동혁은 결국 점점 더 깊이 범죄에 빠지게 되지만, 자신이 처한 상황에서 벗어나기 위해 치열한 싸움을 벌입니다.<span> </span></span></p>" },
+    { type: 'body', html: "<p>동혁의 선택과 심리적 갈등이 영화의 긴장감을 더합니다.</p>" },
+    { type: 'body', html: "<p>명덕과 동혁이 중국 범죄 조직의 현금을 훔치려 하면서, 그들은 범죄 조직과 경찰 모두에게 쫓기는 상황에 놓입니다.</p>" },
+    { type: 'body', html: "<p>범죄 조직은 자신들의 돈을 되찾기 위해 어떤 수단도 가리지 않으며, 경찰 역시 이들의 범죄 행각을 추적하며 영화 내내 쫓고 쫓기는 스릴을 제공합니다.</p>" },
+    { type: 'body', html: "<p>명덕의 딸은 명덕이 돈에 집착하게 되는 중요한 이유로, 그녀의 병세가 명덕의 범죄 동기를 형성하는 데 큰 영향을 미칩니다. 명덕과 딸의 관계는 그의 인간적인 면모와 도덕적 딜레마를 드러내며, 영화의 감정적 무게를 더합니다.</p>" },
+    { type: 'body', html: "<p>영화는 두 형사의 잘못된 선택이 어떻게 예기치 못한 결과를 초래하는지 보여주며, 돈에 대한 탐욕과 도덕적 갈등, 그리고 그로 인한 파멸을 그립니다. 명덕과 동혁은 자신들이 계획한 범죄가 점차 통제 불능의 상황으로 치닫게 됩니다.</p>" },
+    { type: 'body', html: "<p>영화에 대한 평가는 대체로 흔한 소재를 흔한 방식으로 풀어 쓴 영화라는 관람평이 지배적입니다. 또한 스토리가 너무나 빈약하여 몰입이 안된다는 평가도 있고요. 하지만 배우진들의 완벽한 연기와 기본에 충실한 전개에 대해 긍정적인 평가도 있습니다.</p>" },
+    { type: 'image', src: "/images/post239_img6.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post239_img5.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post239_img4.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post239_img3.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post239_img2.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post239_img1.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "/review-critic-reaction-movie-release-upcoming/", text: "더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리보기 개봉예정영화" },
+    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
+    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
+    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
+    { type: 'ending', html: "<p>가볍게 관람할 수 있는 영화 더러운 돈에 손대지 마라 입니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

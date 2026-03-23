@@ -1,188 +1,57 @@
 const post = {
   id: 281,
   sections: [
-    {
-      type: 'cta',
-      href: '/plot-folie-deux/',
-      text: '조커 2 폴리 아 되 제목 뜻 의미? 줄거리 내용과 연관관계 심층분석'
-    },
-    {
-      type: 'cta',
-      href: '/review-reaction-critic-rating-release/',
-      text: '조커 2 폴리 아되 시사회 후기 반응 로튼 토마토 평론가 평점 개봉 등급 | 속편의 저주인가 현재'
-    },
-    {
-      type: 'cta',
-      href: '/ending-review-guide/',
-      text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
-    },
-    {
-      type: 'cta',
-      href: '/plot-analysis-movie-release-upcoming/',
-      text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-movie-recommend-guide-top-10/',
-      text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
-    },
-    {
-      type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>조커 2 예매하기 전, 꼭 알아야 하는 사실들을 알아보겠습니다.</b></span></p><p>총 4가지 정보를 정리하였으며, 조커 1을 시청하지 않은 이들도 알아두면 좋은 내용을 가볍게 정리하였습니다.</p><p>이외 해외 평론가 시사회 후기 반응과 평점, 폴리 아 되 뜻 의미에 대한 포스팅은 페이지 하단에서 확인가능합니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post281_thumb.svg',
-      alt: '조커 2 폴리 아 되 예매 전 꼭 알아야 하는 사실들 결말 스포 없음',
-      caption: '조커 2 폴리 아 되 예매 전 꼭 알아야 하는 사실들 결말 스포 없음'
-    },
+    { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>조커 2 예매하기 전, 꼭 알아야 하는 사실들을 알아보겠습니다.</b></span></p><p>총 4가지 정보를 정리하였으며, 조커 1을 시청하지 않은 이들도 알아두면 좋은 내용을 가볍게 정리하였습니다.</p><p>이외 해외 평론가 시사회 후기 반응과 평점, 폴리 아 되 뜻 의미에 대한 포스팅은 페이지 하단에서 확인가능합니다.</p>" },
+    { type: 'image', src: "/images/post281_thumb.svg", alt: "조커 2 폴리 아 되 예매 전 꼭 알아야 하는 사실들 결말 스포 없음", caption: "조커 2 폴리 아 되 예매 전 꼭 알아야 하는 사실들 결말 스포 없음" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p>아마도 영화를 좋아하시는 분들이라면 무조건 보았을 대작 &lt;조커&gt;, 여러 상을 휩쓸었지만 사실 평론가들의 평점은 상당히 낮았습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>저도 처음에 이 점수를 보고 매우 의아했지만, 후기를 보고 이해가 되었습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>조커 영화가 지닌 폭력성이 사회에 미치게 될 악영향에 대한 우려가 평점에 반영된 것이었습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>실제로 조커를 모방한 범죄가 조커 개봉이후 성행하기도 하였고, 살인까지 이어졌기에 작품성과는 별개로 이에 대한 지탄이 당연한 이유일지도 모릅니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>현재 조커 폴리 아 되 시사회를 다녀온 해외 평론가들은 조커 2 또한 낮은 로튼토마토 평점을 남긴 상태입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>하지만 이번에는 다른 이유에서 낮은 평점을 받은 것 같다는 느낌이 강합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>낮은 평점을 받는 세가지 이유는 아래와 같이 예상됩니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>프랜차이즈 작품의 고질적인 문제점 - 후속작은 원작을 따라가지 못한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>뮤지컬 영화를 왜 선택했는지 모르겠다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그리고 기대가 큰 만큼 좋은 점수를 주기에는 박할 수밖에 없음이 큰 이유로 작용한 것 같습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이에 대해서는 조커 : 폴리 아 되 극장에서 직접 확인해 보시길 바랍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화의 부제 폴리 아 되의 뜻은 무엇일까요?</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>이 뜻은 영화의 모든 주제를 포괄하고 있는 의미를 지니고 있습니다. </b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 전체를 관통하는 굉장히 중요한 의미를 지니고 있기 때문에, 이와 관련한 포스팅 준비해 두었으니 꼭 확인해 보시길 바랍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>전작 조커를 보셨다면 결말에 조커는 자신의 분노를 폭발시키며 세상에 어둠을 몰고 온 진짜 악이 되었습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>때문에 아마 많은 분들이 <span style=&quot;background-color: #9feec3;&quot;><b>조커 2에서 빌런으로의 존재감을 기대</b></span>하실 겁니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>하지만 또 다시 전작의 태초마을로 돌아갑니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>감옥생활로 시작하는 조커는 전작에서 극단의 찐따로 나왔던 것처럼 다시 한번 약자로 묘사됩니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아니? 이제 바로 쿵쾅쾅 하면서 막 범죄 저지르고, 사회의 어두운 점을 맹렬히 까내리고 충격적인 장면 보여주고 해야 하는 거 아니야?</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>아쉽게도 배트맨 : 다크 나이트의 조커를 기대하셨다면 실망하실 수 밖에 없습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이전 소제목의 폴리 아 되 뜻 포스팅을 보고 오셨다면 그 의미를 아실 겁니다. 결국 악한 자, 혹은 약한 자가 주변 환경에 어떠한 영향을 미치는지, 그렇게 할리퀸이 어떻게 탄생하는 지를 위주로 영화는 진행됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>개인적으로 오랜 시간동안 조커 2를 기다렸던 팬 입장에서 아쉽게 부분입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1396&quot; data-origin-width=&quot;1772&quot;><span data-alt=&quot;조커 2 호아킨 피닉스 레이디 가가&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ctTzpp/btsJIlzM3Gz/AAAAAAAAAAAAAAAAAAAAAHGF57ZBwgt8qBo6mPflVZFBD7iCa_OR4d95kR3716we/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oCr5x9ICOy%2F3ma6by0Fi6AzXkj4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ctTzpp/btsJIlzM3Gz/AAAAAAAAAAAAAAAAAAAAAHGF57ZBwgt8qBo6mPflVZFBD7iCa_OR4d95kR3716we/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oCr5x9ICOy%2F3ma6by0Fi6AzXkj4%3D&quot;></span><figcaption>조커 2 호아킨 피닉스 레이디 가가</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이미 많은 분들이 아실겁니다. 조커 : 폴리 아 되는 뮤지컬 영화입니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그렇기에 호불호가 갈릴 것으로 예상이 됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>실제로 해외 평론가들 사이에서도 뮤지컬 영화라는 이유로 낮은 평점을 준 평론가들도 많습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>왜 이러한 선택을 했는지 모르겠다는 이유죠.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>허나 나름 긍정적인 평가를 남긴 이들도 많습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>레이디 가가는 이미 뮤지컬 영화에서도 본인의 재능을 뽐내어 인정받았고, 본업이 가수이기에 당연하게도 가창력에 대한 의심은 없습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>더 자세한 평론가 후기는 하단 포스팅에서 확인해보세요.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>사실, 좀 더 다크 한 분위기를 원했던 개인적인 바람으로는 아쉬운 전개라고 생각됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>하지만 좋고 나쁘고는 공개되고 나면 확실하게 알게 될 것입니다. 조커 2 폴리 아 되, 24년 10월 1일 영화관에서 꼭 확인해 보시죠.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>감사합니다.</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post281_img8.jpg', alt: '조커 2 뮤지컬 영화', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post281_img7.jpg', alt: '조커 2 뮤지컬 영화', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post281_img6.jpg', alt: '조커 2 호아킨 피닉스 레이디 가가', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post281_img5.jpg', alt: '조커 2 호아킨 피닉스', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post281_img4.jpg', alt: '조커 2 호아킨 피닉스', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post281_img3.jpg', alt: '조커 2 시사회 평론가', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post281_img2.jpg', alt: '조커 2 레이디 가가', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post281_img1.jpg', alt: '조커 2 호아킨 피닉스', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p><b>조커 2와 함께 보면 좋은 콘텐츠를 전달해 드립니다.</b></p>'
-    },
+    { type: 'body', html: "<p>아마도 영화를 좋아하시는 분들이라면 무조건 보았을 대작 &lt;조커&gt;, 여러 상을 휩쓸었지만 사실 평론가들의 평점은 상당히 낮았습니다.</p>" },
+    { type: 'body', html: "<p>저도 처음에 이 점수를 보고 매우 의아했지만, 후기를 보고 이해가 되었습니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>조커 영화가 지닌 폭력성이 사회에 미치게 될 악영향에 대한 우려가 평점에 반영된 것이었습니다.</b></span></p>" },
+    { type: 'body', html: "<p>실제로 조커를 모방한 범죄가 조커 개봉이후 성행하기도 하였고, 살인까지 이어졌기에 작품성과는 별개로 이에 대한 지탄이 당연한 이유일지도 모릅니다.</p>" },
+    { type: 'body', html: "<p>현재 조커 폴리 아 되 시사회를 다녀온 해외 평론가들은 조커 2 또한 낮은 로튼토마토 평점을 남긴 상태입니다.</p>" },
+    { type: 'body', html: "<p>하지만 이번에는 다른 이유에서 낮은 평점을 받은 것 같다는 느낌이 강합니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>낮은 평점을 받는 세가지 이유는 아래와 같이 예상됩니다.</b></span></p>" },
+    { type: 'body', html: "<p>프랜차이즈 작품의 고질적인 문제점 - 후속작은 원작을 따라가지 못한다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;color: inherit; text-align: start;&quot;>뮤지컬 영화를 왜 선택했는지 모르겠다.</span></p>" },
+    { type: 'body', html: "<p>그리고 기대가 큰 만큼 좋은 점수를 주기에는 박할 수밖에 없음이 큰 이유로 작용한 것 같습니다.</p>" },
+    { type: 'body', html: "<p>이에 대해서는 조커 : 폴리 아 되 극장에서 직접 확인해 보시길 바랍니다.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화의 부제 폴리 아 되의 뜻은 무엇일까요?</b></span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>이 뜻은 영화의 모든 주제를 포괄하고 있는 의미를 지니고 있습니다. </b></span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>영화 전체를 관통하는 굉장히 중요한 의미를 지니고 있기 때문에, 이와 관련한 포스팅 준비해 두었으니 꼭 확인해 보시길 바랍니다.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>전작 조커를 보셨다면 결말에 조커는 자신의 분노를 폭발시키며 세상에 어둠을 몰고 온 진짜 악이 되었습니다.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>때문에 아마 많은 분들이 <span style=&quot;background-color: #9feec3;&quot;><b>조커 2에서 빌런으로의 존재감을 기대</b></span>하실 겁니다.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>하지만 또 다시 전작의 태초마을로 돌아갑니다.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>감옥생활로 시작하는 조커는 전작에서 극단의 찐따로 나왔던 것처럼 다시 한번 약자로 묘사됩니다.</b></span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>아니? 이제 바로 쿵쾅쾅 하면서 막 범죄 저지르고, 사회의 어두운 점을 맹렬히 까내리고 충격적인 장면 보여주고 해야 하는 거 아니야?</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>아쉽게도 배트맨 : 다크 나이트의 조커를 기대하셨다면 실망하실 수 밖에 없습니다.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>이전 소제목의 폴리 아 되 뜻 포스팅을 보고 오셨다면 그 의미를 아실 겁니다. 결국 악한 자, 혹은 약한 자가 주변 환경에 어떠한 영향을 미치는지, 그렇게 할리퀸이 어떻게 탄생하는 지를 위주로 영화는 진행됩니다.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>개인적으로 오랜 시간동안 조커 2를 기다렸던 팬 입장에서 아쉽게 부분입니다.</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1396&quot; data-origin-width=&quot;1772&quot;><span data-alt=&quot;조커 2 호아킨 피닉스 레이디 가가&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ctTzpp/btsJIlzM3Gz/AAAAAAAAAAAAAAAAAAAAAHGF57ZBwgt8qBo6mPflVZFBD7iCa_OR4d95kR3716we/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oCr5x9ICOy%2F3ma6by0Fi6AzXkj4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ctTzpp/btsJIlzM3Gz/AAAAAAAAAAAAAAAAAAAAAHGF57ZBwgt8qBo6mPflVZFBD7iCa_OR4d95kR3716we/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oCr5x9ICOy%2F3ma6by0Fi6AzXkj4%3D&quot;></span><figcaption>조커 2 호아킨 피닉스 레이디 가가</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>이미 많은 분들이 아실겁니다. 조커 : 폴리 아 되는 뮤지컬 영화입니다.</b></span></p>" },
+    { type: 'body', html: "<p>그렇기에 호불호가 갈릴 것으로 예상이 됩니다.</p>" },
+    { type: 'body', html: "<p>실제로 해외 평론가들 사이에서도 뮤지컬 영화라는 이유로 낮은 평점을 준 평론가들도 많습니다.</p>" },
+    { type: 'body', html: "<p>왜 이러한 선택을 했는지 모르겠다는 이유죠.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>허나 나름 긍정적인 평가를 남긴 이들도 많습니다.</b></span></p>" },
+    { type: 'body', html: "<p>레이디 가가는 이미 뮤지컬 영화에서도 본인의 재능을 뽐내어 인정받았고, 본업이 가수이기에 당연하게도 가창력에 대한 의심은 없습니다.</p>" },
+    { type: 'body', html: "<p>더 자세한 평론가 후기는 하단 포스팅에서 확인해보세요.</p>" },
+    { type: 'body', html: "<p>사실, 좀 더 다크 한 분위기를 원했던 개인적인 바람으로는 아쉬운 전개라고 생각됩니다.</p>" },
+    { type: 'body', html: "<p>하지만 좋고 나쁘고는 공개되고 나면 확실하게 알게 될 것입니다. 조커 2 폴리 아 되, 24년 10월 1일 영화관에서 꼭 확인해 보시죠.</p>" },
+    { type: 'body', html: "<p>감사합니다.</p>" },
+    { type: 'image', src: "/images/post281_img8.jpg", alt: "조커 2 뮤지컬 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post281_img7.jpg", alt: "조커 2 뮤지컬 영화", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post281_img6.jpg", alt: "조커 2 호아킨 피닉스 레이디 가가", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post281_img5.jpg", alt: "조커 2 호아킨 피닉스", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post281_img4.jpg", alt: "조커 2 호아킨 피닉스", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post281_img3.jpg", alt: "조커 2 시사회 평론가", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post281_img2.jpg", alt: "조커 2 레이디 가가", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post281_img1.jpg", alt: "조커 2 호아킨 피닉스", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "/plot-folie-deux/", text: "조커 2 폴리 아 되 제목 뜻 의미? 줄거리 내용과 연관관계 심층분석" },
+    { type: 'cta', href: "/review-reaction-critic-rating-release/", text: "조커 2 폴리 아되 시사회 후기 반응 로튼 토마토 평론가 평점 개봉 등급 | 속편의 저주인가 현재" },
+    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
+    { type: 'cta', href: "/plot-analysis-movie-release-upcoming/", text: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
+    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
+    { type: 'ending', html: "<p><b>조커 2와 함께 보면 좋은 콘텐츠를 전달해 드립니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

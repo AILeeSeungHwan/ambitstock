@@ -1,327 +1,87 @@
 const post = {
   id: 244,
   sections: [
-    {
-      type: 'intro',
-      html: '<p>2024년에도 많은 공포 영화들이 개봉하였습니다.</p><p>과연 어떤 영화가 좋은 평점을 받으며 인기몰이를 하였는지, <span style=&quot;background-color: #9feec3;&quot;><b>2024년 현재상영작 포함 개봉 공포 영화 인기 순위별 추천 포스팅 시작합니다.</b></span></p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post244_thumb.svg',
-      alt: '2024년 공포 영화 추천 인기 순위 총정리 현재상영작',
-      caption: '2024년 공포 영화 추천 인기 순위 총정리 현재상영작'
-    },
+    { type: 'intro', html: "<p>2024년에도 많은 공포 영화들이 개봉하였습니다.</p><p>과연 어떤 영화가 좋은 평점을 받으며 인기몰이를 하였는지, <span style=&quot;background-color: #9feec3;&quot;><b>2024년 현재상영작 포함 개봉 공포 영화 인기 순위별 추천 포스팅 시작합니다.</b></span></p>" },
+    { type: 'image', src: "/images/post244_thumb.svg", alt: "2024년 공포 영화 추천 인기 순위 총정리 현재상영작", caption: "2024년 공포 영화 추천 인기 순위 총정리 현재상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section1',
-      text: '8위 늘봄가든',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>8위는 늘봄가든입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post244_img1.jpg', alt: '늘봄가든', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>개봉 전까지는 곤지암의 아성을 무너뜨릴 공포영화의 등장이라 기대를 모았습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>하지만, 막상 개봉을 하고 난 후 <span style=&quot;background-color: #f3c000;&quot;><b>굳이 이런 영화를 만들었어야..?이라는</b></span> 평가가 지배적입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>해당 영화의 평점 및 후기에 대한 정보는 아래 포스팅을 통해 확인해 보시길 바랍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>공포 영화의 찐 마니아가 아니라면<br/></span>아래 포스팅을 통해<br>시간을 아끼시길 바랍니다.<br/><br/></br></b></span></blockquote>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-horror-review-rating/',
-      text: '공포영화 늘봄가든 예매 하기 전 실제 흉가 장소 위치와 실화 괴담 | 후기와 평점 리뷰를 알아보'
-    },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '7위 이매지너리',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>7위는 이매지너리입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post244_img2.jpg', alt: '공포 영화 이매지너리', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>로튼토마토 평점이 아주 박살이 났습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>관객 평점 또한 처참하게 무너지며 보지 말아야 할 작품 중 하나로 평가받습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>우선 저 사진의 괴물 모습부터가, 상상력의 최대치였나.. 최선이었을까 하는 모습입니다. 공포스러운 느낌은 들지 않죠.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>작품성은 공포스럽습니다. 이런 작품을 만들었다는 게 말이죠.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이 영화 또한 저편으로 밀어 넣어 두시길 바랍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<blockquote><span style=&quot;color: #781b33;&quot;><b>과연 <span style=&quot;font-family: \'Noto Serif KR\';&quot;>이 정도 상상력이</span></b></span><br/><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>최선이었을까<br/></span>올해 공포는 다 죽었다.</b></span></blockquote>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-overseas-rating-reaction-horror/',
-      text: '영화 이매지너리 뜻 로튼 해외 평점과 반응 | 올해 공포는 다 죽었다'
-    },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: '6위 딜리버런스',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>6위는 딜리버런스입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post244_img3.jpg', alt: '공포영화 딜리버런스', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>넷플릭스에서 공개한 공포영화 딜리버런스입니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이 영화도 아주 처참한 로튼 토마토 평론가 시청자 평점을 받았습니다. 관람평 또한 잔혹하게 내리 까인 작품입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>혹여 시청할지 말지 고민 중이셨던 분들을 <span style=&quot;background-color: #9feec3;&quot;><b>구원(딜리버런스) 하기</b></span> 위하여 이 작품도 순위에 포함시켰습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화의 제목 뜻과 의미, 평점과 후기는 아래 포스팅에서 확인가능합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>이 포스팅을 보는 자여<br/></span>당신을 딜리버런스 하리</b></span></blockquote>'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-movie-overseas-rating-review-reaction-horror/',
-      text: '요즘 넷플릭스 영화 왜이래 | 딜리버런스 뜻 의미 해외 평점과 후기 반응 (공포)'
-    },
+    { type: 'h2', id: "section1", text: "8위 늘봄가든", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>8위는 늘봄가든입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post244_img1.jpg", alt: "늘봄가든", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>개봉 전까지는 곤지암의 아성을 무너뜨릴 공포영화의 등장이라 기대를 모았습니다.</p>" },
+    { type: 'body', html: "<p>하지만, 막상 개봉을 하고 난 후 <span style=&quot;background-color: #f3c000;&quot;><b>굳이 이런 영화를 만들었어야..?이라는</b></span> 평가가 지배적입니다.</p>" },
+    { type: 'body', html: "<p>해당 영화의 평점 및 후기에 대한 정보는 아래 포스팅을 통해 확인해 보시길 바랍니다.</p>" },
+    { type: 'body', html: "<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>공포 영화의 찐 마니아가 아니라면<br/></span>아래 포스팅을 통해<br>시간을 아끼시길 바랍니다.<br/><br/></br></b></span></blockquote>" },
+    { type: 'cta', href: "/movie-horror-review-rating/", text: "공포영화 늘봄가든 예매 하기 전 실제 흉가 장소 위치와 실화 괴담 | 후기와 평점 리뷰를 알아보" },
+    { type: 'h2', id: "section2", text: "7위 이매지너리", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>7위는 이매지너리입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post244_img2.jpg", alt: "공포 영화 이매지너리", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>로튼토마토 평점이 아주 박살이 났습니다.</b></span></p>" },
+    { type: 'body', html: "<p>관객 평점 또한 처참하게 무너지며 보지 말아야 할 작품 중 하나로 평가받습니다.</p>" },
+    { type: 'body', html: "<p>우선 저 사진의 괴물 모습부터가, 상상력의 최대치였나.. 최선이었을까 하는 모습입니다. 공포스러운 느낌은 들지 않죠.</p>" },
+    { type: 'body', html: "<p>작품성은 공포스럽습니다. 이런 작품을 만들었다는 게 말이죠.</p>" },
+    { type: 'body', html: "<p>이 영화 또한 저편으로 밀어 넣어 두시길 바랍니다.</p>" },
+    { type: 'body', html: "<blockquote><span style=&quot;color: #781b33;&quot;><b>과연 <span style=&quot;font-family: 'Noto Serif KR';&quot;>이 정도 상상력이</span></b></span><br/><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>최선이었을까<br/></span>올해 공포는 다 죽었다.</b></span></blockquote>" },
+    { type: 'cta', href: "/movie-overseas-rating-reaction-horror/", text: "영화 이매지너리 뜻 로튼 해외 평점과 반응 | 올해 공포는 다 죽었다" },
+    { type: 'h2', id: "section3", text: "6위 딜리버런스", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>6위는 딜리버런스입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post244_img3.jpg", alt: "공포영화 딜리버런스", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>넷플릭스에서 공개한 공포영화 딜리버런스입니다.</b></span></p>" },
+    { type: 'body', html: "<p>이 영화도 아주 처참한 로튼 토마토 평론가 시청자 평점을 받았습니다. 관람평 또한 잔혹하게 내리 까인 작품입니다.</p>" },
+    { type: 'body', html: "<p>혹여 시청할지 말지 고민 중이셨던 분들을 <span style=&quot;background-color: #9feec3;&quot;><b>구원(딜리버런스) 하기</b></span> 위하여 이 작품도 순위에 포함시켰습니다.</p>" },
+    { type: 'body', html: "<p>영화의 제목 뜻과 의미, 평점과 후기는 아래 포스팅에서 확인가능합니다.</p>" },
+    { type: 'body', html: "<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>이 포스팅을 보는 자여<br/></span>당신을 딜리버런스 하리</b></span></blockquote>" },
+    { type: 'cta', href: "/netflix-movie-overseas-rating-review-reaction-horror/", text: "요즘 넷플릭스 영화 왜이래 | 딜리버런스 뜻 의미 해외 평점과 후기 반응 (공포)" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section4',
-      text: '5위 스픽 노 이블',
-      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>5위는 스픽 노 이블입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post244_img4.jpg', alt: '공포영화 추천 스픽 노 이블', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>이제부터는 볼만한 공포 영화 작품들을 추천할 수 있게 되었습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>상당히 좋은 평가를 받은 영화로 네덜란드 작품을 원작으로 합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>로튼 토마토 평점 또한 굉장히 높은 점수를 기록하고 있고, 평론가 후기와 관객 후기 또한 좋은 평가를 받았습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>공포스러운 분위기와 더불어 작품성 또한 잡은 영화이므로, 아래 포스팅을 확인하시고 시청해 보시길 바랍니다.</p>'
-    },
-    {
-      type: 'cta',
-      href: '/horror-movie-recommend-overseas-critic-ending-review-reaction/',
-      text: '공포 영화 추천 스픽 노 이블 해외 평론가 결말 후기 반응 총정리! 덴마크 원작 현재 상영작'
-    },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '4위 파묘',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>4위는 파묘입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post244_img5.jpg', alt: '공포 영화 추천 파묘', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>장르적으로 오컬트영화 또한 공포영화의 범주에 들어가기에, 올해 한국영화 인기작품 중 하나인 파묘가 빠지면 섭섭할 것 같습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>아마 대부분의 공포영화, 오컬트영화 마니아 분들은 모두 시청하셨을 거라 생각합니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>해외반응과 R의 파묘리뷰 함께 확인해 보시길 바랍니다. 현재 넷플릭스에서 시청가능합니다.</p>'
-    },
-    {
-      type: 'cta',
-      href: '/',
-      text: '[영화 파묘 오컬트 뜻 반일논란] 명작에 때 아닌 정치색 전쟁 - 스포포함 결말 해석 후기리뷰 현'
-    },
-    {
-      type: 'h2',
-      id: 'section6',
-      text: '3위 악이 도사리고 있을 때',
-      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>3위는 악이 도사리고 있을 때입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post244_img6.jpg', alt: '공포 영화 추천 악이 도사리고 있을 때', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;733&quot; data-origin-width=&quot;1247&quot;><span data-alt=&quot;공포 영화 추천 악이 도사리고 있을 때&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/uyLYU/btsJW2rQupu/AAAAAAAAAAAAAAAAAAAAAH4thPavSl8VXn3c9QtCZOdyZ76UqUz-7mlmfPX3sYQo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=k1kQvzq%2B4xijSxrQZzkCtvfYlbM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/uyLYU/btsJW2rQupu/AAAAAAAAAAAAAAAAAAAAAH4thPavSl8VXn3c9QtCZOdyZ76UqUz-7mlmfPX3sYQo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=k1kQvzq%2B4xijSxrQZzkCtvfYlbM%3D&quot;></span><figcaption>공포 영화 추천 악이 도사리고 있을 때</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>로튼 토마토 압도적 평점의 악이 도사리고 있을 때입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>올해 공개된 공포 영화 중 TOP 3 안에 들어간다 할 수 있을 정도로 좋은 평가를 받고 있습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>10월 9일 개봉작이며, 인기 순위 2위에 랭크한 작품과 더불어 10월의 따뜻한 가을에 서늘함을 주는 영화입니다. </p>'
-    },
-    {
-      type: 'cta',
-      href: '/overseas-critic-rating-reaction-horror-movie/',
-      text: '악이 도사리고 있을 때 해외 시사회 평론가 로튼 토마토 평점 반응 | 아마 올해 공포 영화 중 최'
-    },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '2위 스마일 2',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>2위는 스마일 2입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post244_img7.jpg', alt: '공포 영화 추천 스마일 2', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>해외 평론가들로부터 올해 최고의 공포영화라고 평가받는 스마일 2입니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>아마 올해 개봉하는 공포영화의 막차가 되지 않을까 하는데, 마지막을 화려하게 장식하게 될 것 같습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>2022년 스마일 1의 성공을 바탕으로 2024년 10월 16일 개봉하며, 현재 영화관에서 시청가능합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>공포영화를 좋아하는 분들이라면 꼭 영화관에서 관람하시길 바랍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>스마일 2 보기 전 스마일 1과 2 시사회 후기 관람평 함께 확인하시길 바랍니다.</p>'
-    },
-    {
-      type: 'cta',
-      href: '/overseas-review-ending-reaction-horror-movie/',
-      text: '스마일 2 보기 전 해외 시사회 후기 관람평 결말 반응 | 올해 최고의 공포 영화 현재상영작'
-    },
-    {
-      type: 'cta',
-      href: '/movie-rating-ending-review/',
-      text: '영화 스마일 왜 인기 순위 상위 기대작인가? 전작의 평가를 보면 답이 있다. 1편 로튼토마토 평점'
-    },
-    {
-      type: 'h2',
-      id: 'section8',
-      text: '1위 에일리언: 로물루스',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>1위는 에일리언: 로물루스입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post244_img8.jpg', alt: '공포 영화 추천 에일리언 로물루스', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1096&quot; data-origin-width=&quot;2024&quot;><span data-alt=&quot;공포 영화 추천 에일리언 로물루스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/TRPqL/btsI5w88jNV/AAAAAAAAAAAAAAAAAAAAAEE3Dpj9ua7ejW1ph2QkpX4YkoLpPwmVDQtGBg_Xz3Di/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kTJaLJyvlb9kBc5Zi2Y5LKtOZtE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/TRPqL/btsI5w88jNV/AAAAAAAAAAAAAAAAAAAAAEE3Dpj9ua7ejW1ph2QkpX4YkoLpPwmVDQtGBg_Xz3Di/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kTJaLJyvlb9kBc5Zi2Y5LKtOZtE%3D&quot;></span><figcaption>공포 영화 추천 에일리언 로물루스</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>SF 장르 영화인 에일리언, 하지만 이번 영화는 이전 작품들인 에일리언 1, 2의 공포를 답습합니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>레트로 감성의 연출과 작품성을 지니고 있으며, 사실상 SF를 곁들인 공포영화라고 보시면 되겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>국내뿐만 아니라 해외에서도 엄청난 인기를 끈 이 작품, 올해의 영화에 평가받을 수 있는 작품이기에, 공포영화 순위 1위에 에일리언: 로물루스를 추천합니다.</p>'
-    },
-    {
-      type: 'cta',
-      href: '/overseas-reaction-review/',
-      text: '에일리언 로물루스 시사회 미친 해외 반응과 후기 출연진 쿠키 정보'
-    },
-    {
-      type: 'body',
-      html: '<p>이상으로 2024년 공포영화 인기순위 별 추천 마칩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이외 다루지 않은 추천할만한 공포영화가 있다면 댓글로 남겨주시길 바랍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>감사합니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>함께 보면 좋은 콘텐츠</h3>'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/release-upcoming-guide-movie-recommend-top10/',
-      text: '2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-movie-recommend-release-upcoming-guide/',
-      text: '2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/movie-drama-recommend-netflix/',
-      text: '볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>'
-    },
+    { type: 'h2', id: "section4", text: "5위 스픽 노 이블", gradientStyle: "linear-gradient(to right, #e53935, #ef5350)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>5위는 스픽 노 이블입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post244_img4.jpg", alt: "공포영화 추천 스픽 노 이블", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>이제부터는 볼만한 공포 영화 작품들을 추천할 수 있게 되었습니다.</b></span></p>" },
+    { type: 'body', html: "<p>상당히 좋은 평가를 받은 영화로 네덜란드 작품을 원작으로 합니다.</p>" },
+    { type: 'body', html: "<p>로튼 토마토 평점 또한 굉장히 높은 점수를 기록하고 있고, 평론가 후기와 관객 후기 또한 좋은 평가를 받았습니다.</p>" },
+    { type: 'body', html: "<p>공포스러운 분위기와 더불어 작품성 또한 잡은 영화이므로, 아래 포스팅을 확인하시고 시청해 보시길 바랍니다.</p>" },
+    { type: 'cta', href: "/horror-movie-recommend-overseas-critic-ending-review-reaction/", text: "공포 영화 추천 스픽 노 이블 해외 평론가 결말 후기 반응 총정리! 덴마크 원작 현재 상영작" },
+    { type: 'h2', id: "section5", text: "4위 파묘", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>4위는 파묘입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post244_img5.jpg", alt: "공포 영화 추천 파묘", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>장르적으로 오컬트영화 또한 공포영화의 범주에 들어가기에, 올해 한국영화 인기작품 중 하나인 파묘가 빠지면 섭섭할 것 같습니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>아마 대부분의 공포영화, 오컬트영화 마니아 분들은 모두 시청하셨을 거라 생각합니다.</b></span></p>" },
+    { type: 'body', html: "<p>해외반응과 R의 파묘리뷰 함께 확인해 보시길 바랍니다. 현재 넷플릭스에서 시청가능합니다.</p>" },
+    { type: 'cta', href: "/", text: "[영화 파묘 오컬트 뜻 반일논란] 명작에 때 아닌 정치색 전쟁 - 스포포함 결말 해석 후기리뷰 현" },
+    { type: 'h2', id: "section6", text: "3위 악이 도사리고 있을 때", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>3위는 악이 도사리고 있을 때입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post244_img6.jpg", alt: "공포 영화 추천 악이 도사리고 있을 때", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;733&quot; data-origin-width=&quot;1247&quot;><span data-alt=&quot;공포 영화 추천 악이 도사리고 있을 때&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/uyLYU/btsJW2rQupu/AAAAAAAAAAAAAAAAAAAAAH4thPavSl8VXn3c9QtCZOdyZ76UqUz-7mlmfPX3sYQo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=k1kQvzq%2B4xijSxrQZzkCtvfYlbM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/uyLYU/btsJW2rQupu/AAAAAAAAAAAAAAAAAAAAAH4thPavSl8VXn3c9QtCZOdyZ76UqUz-7mlmfPX3sYQo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=k1kQvzq%2B4xijSxrQZzkCtvfYlbM%3D&quot;></span><figcaption>공포 영화 추천 악이 도사리고 있을 때</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>로튼 토마토 압도적 평점의 악이 도사리고 있을 때입니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>올해 공개된 공포 영화 중 TOP 3 안에 들어간다 할 수 있을 정도로 좋은 평가를 받고 있습니다.</b></span></p>" },
+    { type: 'body', html: "<p>10월 9일 개봉작이며, 인기 순위 2위에 랭크한 작품과 더불어 10월의 따뜻한 가을에 서늘함을 주는 영화입니다. </p>" },
+    { type: 'cta', href: "/overseas-critic-rating-reaction-horror-movie/", text: "악이 도사리고 있을 때 해외 시사회 평론가 로튼 토마토 평점 반응 | 아마 올해 공포 영화 중 최" },
+    { type: 'h2', id: "section7", text: "2위 스마일 2", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>2위는 스마일 2입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post244_img7.jpg", alt: "공포 영화 추천 스마일 2", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>해외 평론가들로부터 올해 최고의 공포영화라고 평가받는 스마일 2입니다.</b></span></p>" },
+    { type: 'body', html: "<p>아마 올해 개봉하는 공포영화의 막차가 되지 않을까 하는데, 마지막을 화려하게 장식하게 될 것 같습니다.</p>" },
+    { type: 'body', html: "<p>2022년 스마일 1의 성공을 바탕으로 2024년 10월 16일 개봉하며, 현재 영화관에서 시청가능합니다.</p>" },
+    { type: 'body', html: "<p>공포영화를 좋아하는 분들이라면 꼭 영화관에서 관람하시길 바랍니다.</p>" },
+    { type: 'body', html: "<p>스마일 2 보기 전 스마일 1과 2 시사회 후기 관람평 함께 확인하시길 바랍니다.</p>" },
+    { type: 'cta', href: "/overseas-review-ending-reaction-horror-movie/", text: "스마일 2 보기 전 해외 시사회 후기 관람평 결말 반응 | 올해 최고의 공포 영화 현재상영작" },
+    { type: 'cta', href: "/movie-rating-ending-review/", text: "영화 스마일 왜 인기 순위 상위 기대작인가? 전작의 평가를 보면 답이 있다. 1편 로튼토마토 평점" },
+    { type: 'h2', id: "section8", text: "1위 에일리언: 로물루스", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>1위는 에일리언: 로물루스입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post244_img8.jpg", alt: "공포 영화 추천 에일리언 로물루스", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1096&quot; data-origin-width=&quot;2024&quot;><span data-alt=&quot;공포 영화 추천 에일리언 로물루스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/TRPqL/btsI5w88jNV/AAAAAAAAAAAAAAAAAAAAAEE3Dpj9ua7ejW1ph2QkpX4YkoLpPwmVDQtGBg_Xz3Di/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kTJaLJyvlb9kBc5Zi2Y5LKtOZtE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/TRPqL/btsI5w88jNV/AAAAAAAAAAAAAAAAAAAAAEE3Dpj9ua7ejW1ph2QkpX4YkoLpPwmVDQtGBg_Xz3Di/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kTJaLJyvlb9kBc5Zi2Y5LKtOZtE%3D&quot;></span><figcaption>공포 영화 추천 에일리언 로물루스</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>SF 장르 영화인 에일리언, 하지만 이번 영화는 이전 작품들인 에일리언 1, 2의 공포를 답습합니다.</b></span></p>" },
+    { type: 'body', html: "<p>레트로 감성의 연출과 작품성을 지니고 있으며, 사실상 SF를 곁들인 공포영화라고 보시면 되겠습니다.</p>" },
+    { type: 'body', html: "<p>국내뿐만 아니라 해외에서도 엄청난 인기를 끈 이 작품, 올해의 영화에 평가받을 수 있는 작품이기에, 공포영화 순위 1위에 에일리언: 로물루스를 추천합니다.</p>" },
+    { type: 'cta', href: "/overseas-reaction-review/", text: "에일리언 로물루스 시사회 미친 해외 반응과 후기 출연진 쿠키 정보" },
+    { type: 'body', html: "<p>이상으로 2024년 공포영화 인기순위 별 추천 마칩니다.</p>" },
+    { type: 'body', html: "<p>이외 다루지 않은 추천할만한 공포영화가 있다면 댓글로 남겨주시길 바랍니다.</p>" },
+    { type: 'body', html: "<p>감사합니다.</p>" },
+    { type: 'h2', id: "section-함께-보면-좋은-콘텐츠", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
+    { type: 'cta', href: "/release-upcoming-guide-movie-recommend-top10/", text: "2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10" },
+    { type: 'cta', href: "/netflix-movie-recommend-release-upcoming-guide/", text: "2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!" },
+    { type: 'cta', href: "/movie-drama-recommend-netflix/", text: "볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

@@ -1,479 +1,126 @@
 const post = {
   id: 86,
   sections: [
-    {
-      type: 'intro',
-      html: '<p>2025년 9월 현재상영작 영화 예매 순위 인기 TOP10</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post86_thumb.svg',
-      alt: '2025년 9월 현재상영작 영화 예매 순위 인기 TOP10',
-      caption: '2025년 9월 현재상영작 영화 예매 순위 인기 TOP10'
-    },
+    { type: 'intro', html: "<p>2025년 9월 현재상영작 영화 예매 순위 인기 TOP10</p>" },
+    { type: 'image', src: "/images/post86_thumb.svg", alt: "2025년 9월 현재상영작 영화 예매 순위 인기 TOP10", caption: "2025년 9월 현재상영작 영화 예매 순위 인기 TOP10" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section1',
-      text: '2025년 9월 현재상영작 영화 예매 순위 TOP10',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>2025년 9월 현재상영작 영화 예매 순위 총정리 포스팅입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post86_img1.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>각 작품의 줄거리, 개봉일과 예매율을 확인해 보세요.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;697&quot; data-origin-width=&quot;694&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/buO1Qu/btsQiW7T63M/AAAAAAAAAAAAAAAAAAAAAFwB-1020Uez1Ji1MMh3fuY4qDT4E-cUt66NoHpcQRYo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7z%2FC6PWsW7jvDXOfJ7t3IJdM0G0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/buO1Qu/btsQiW7T63M/AAAAAAAAAAAAAAAAAAAAAFwB-1020Uez1Ji1MMh3fuY4qDT4E-cUt66NoHpcQRYo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7z%2FC6PWsW7jvDXOfJ7t3IJdM0G0%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>'
-    },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '10위 좀비딸',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>10위는 좀비딸입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post86_img2.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025년 07월 30일 개봉 / 예매율 1.9%</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;858&quot; data-origin-width=&quot;1296&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bufCc6/btsQkefIF6E/AAAAAAAAAAAAAAAAAAAAAD0FzKm0vLc94jsssxMLYDXWaUhu95MAKtUD4WlclBcm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tP0mih8EF92WMhxYvos2oVNc0%2BU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bufCc6/btsQkefIF6E/AAAAAAAAAAAAAAAAAAAAAD0FzKm0vLc94jsssxMLYDXWaUhu95MAKtUD4WlclBcm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tP0mih8EF92WMhxYvos2oVNc0%2BU%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>좀비딸 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;나의 딸은 좀비다. 세상에 남은 단 하나의 좀비.&quot; 댄스를 좋아하는 사춘기 딸 ‘수아’와 함께 티격태격 살아가는 아버지이자 맹수 사육사 ‘정환’.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>좀비 바이러스가 퍼지자 감염된 딸을 지키기 위해 정환은 어머니 ‘밤순’이 있는 바닷가 마을 ‘은봉리’로 향한다. 사회 분위기가 감염자를 배척하는 가운데, 수아는 사람 말을 조금씩 알아듣고, 춤이나 할머니의 따끔한 효자손에도 반응하기 시작한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>딸을 절대 포기할 수 없는 정환은 호랑이 사육 경험을 살려 좀비딸을 훈련하기로 결심하는데… 맹수보다 사납고 사춘기보다 까다로운, 유쾌한 좀비딸 훈련기가 펼쳐진다!</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?query=좀비딸+예매&quot; title=&quot;좀비딸 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>좀비딸 보러가기👉</button></a></center><center></center></div>'
-    },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: '9위 홈캠',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>9위는 홈캠입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post86_img3.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025년 09월 10일 개봉 / 예매율 1.9%</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;858&quot; data-origin-width=&quot;592&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/XK3kO/btsQiCaLBgs/AAAAAAAAAAAAAAAAAAAAAJyA58927ibXuL6OhRmHyJGxopoSh-l5b4V5d7bSzswp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PFNGPF6JygMU4T%2B8LmLNntulXeE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/XK3kO/btsQiCaLBgs/AAAAAAAAAAAAAAAAAAAAAJyA58927ibXuL6OhRmHyJGxopoSh-l5b4V5d7bSzswp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PFNGPF6JygMU4T%2B8LmLNntulXeE%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>홈캠 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>복직을 앞두고 새 집으로 이사한 보험조사관 성희. 아픈 딸 지우를 위해 설치한 홈캠에서 섬뜩한 여자의 모습이 포착된다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>회사에서 확인한 성희는 급히 전화를 걸지만, 정작 지우는 아무도 없었다고 말한다. 그날 이후 홈캠에는 여자가 더 자주 나타나지만, 집에서는 흔적조차 발견되지 않는다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그러던 중 지우의 행동은 점점 기괴해지는데… “거기로 악한 것이 들어왔어.”</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?query=홈캠+예매&quot; title=&quot;홈캠 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>홈캠 보러가기👉</button></a></center></div>'
-    },
+    { type: 'h2', id: "section1", text: "2025년 9월 현재상영작 영화 예매 순위 TOP10", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2025년 9월 현재상영작 영화 예매 순위 총정리 포스팅입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post86_img1.jpg", alt: "2025년 9월 현재상영작 영화 예매 순위", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>각 작품의 줄거리, 개봉일과 예매율을 확인해 보세요.</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;697&quot; data-origin-width=&quot;694&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/buO1Qu/btsQiW7T63M/AAAAAAAAAAAAAAAAAAAAAFwB-1020Uez1Ji1MMh3fuY4qDT4E-cUt66NoHpcQRYo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7z%2FC6PWsW7jvDXOfJ7t3IJdM0G0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/buO1Qu/btsQiW7T63M/AAAAAAAAAAAAAAAAAAAAAFwB-1020Uez1Ji1MMh3fuY4qDT4E-cUt66NoHpcQRYo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7z%2FC6PWsW7jvDXOfJ7t3IJdM0G0%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section2", text: "10위 좀비딸", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>10위는 좀비딸입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post86_img2.jpg", alt: "2025년 9월 현재상영작 영화 예매 순위", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025년 07월 30일 개봉 / 예매율 1.9%</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;858&quot; data-origin-width=&quot;1296&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bufCc6/btsQkefIF6E/AAAAAAAAAAAAAAAAAAAAAD0FzKm0vLc94jsssxMLYDXWaUhu95MAKtUD4WlclBcm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tP0mih8EF92WMhxYvos2oVNc0%2BU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bufCc6/btsQkefIF6E/AAAAAAAAAAAAAAAAAAAAAD0FzKm0vLc94jsssxMLYDXWaUhu95MAKtUD4WlclBcm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tP0mih8EF92WMhxYvos2oVNc0%2BU%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section-좀비딸-줄거리", text: "좀비딸 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>&quot;나의 딸은 좀비다. 세상에 남은 단 하나의 좀비.&quot; 댄스를 좋아하는 사춘기 딸 ‘수아’와 함께 티격태격 살아가는 아버지이자 맹수 사육사 ‘정환’.</p>" },
+    { type: 'body', html: "<p>좀비 바이러스가 퍼지자 감염된 딸을 지키기 위해 정환은 어머니 ‘밤순’이 있는 바닷가 마을 ‘은봉리’로 향한다. 사회 분위기가 감염자를 배척하는 가운데, 수아는 사람 말을 조금씩 알아듣고, 춤이나 할머니의 따끔한 효자손에도 반응하기 시작한다.</p>" },
+    { type: 'body', html: "<p>딸을 절대 포기할 수 없는 정환은 호랑이 사육 경험을 살려 좀비딸을 훈련하기로 결심하는데… 맹수보다 사납고 사춘기보다 까다로운, 유쾌한 좀비딸 훈련기가 펼쳐진다!</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?query=좀비딸+예매&quot; title=&quot;좀비딸 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>좀비딸 보러가기👉</button></a></center><center></center></div>" },
+    { type: 'h2', id: "section3", text: "9위 홈캠", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>9위는 홈캠입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post86_img3.jpg", alt: "2025년 9월 현재상영작 영화 예매 순위", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025년 09월 10일 개봉 / 예매율 1.9%</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;858&quot; data-origin-width=&quot;592&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/XK3kO/btsQiCaLBgs/AAAAAAAAAAAAAAAAAAAAAJyA58927ibXuL6OhRmHyJGxopoSh-l5b4V5d7bSzswp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PFNGPF6JygMU4T%2B8LmLNntulXeE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/XK3kO/btsQiCaLBgs/AAAAAAAAAAAAAAAAAAAAAJyA58927ibXuL6OhRmHyJGxopoSh-l5b4V5d7bSzswp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PFNGPF6JygMU4T%2B8LmLNntulXeE%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section-홈캠-줄거리", text: "홈캠 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>복직을 앞두고 새 집으로 이사한 보험조사관 성희. 아픈 딸 지우를 위해 설치한 홈캠에서 섬뜩한 여자의 모습이 포착된다.</p>" },
+    { type: 'body', html: "<p>회사에서 확인한 성희는 급히 전화를 걸지만, 정작 지우는 아무도 없었다고 말한다. 그날 이후 홈캠에는 여자가 더 자주 나타나지만, 집에서는 흔적조차 발견되지 않는다.</p>" },
+    { type: 'body', html: "<p>그러던 중 지우의 행동은 점점 기괴해지는데… “거기로 악한 것이 들어왔어.”</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?query=홈캠+예매&quot; title=&quot;홈캠 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>홈캠 보러가기👉</button></a></center></div>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section4',
-      text: '8위 모노노케 히메',
-      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>8위는 모노노케 히메입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post86_img4.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025년 09월 17일 재개봉 / 예매율 2.8%</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;596&quot; data-origin-width=&quot;409&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/xNELt/btsQkfFJhkH/AAAAAAAAAAAAAAAAAAAAAN37mwRu_wzO3vZZuCK1aG4XYfuUhD0k2dfHh65Pp0o4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hWsS3Bi%2BfjySq7%2Fa1XqrRSteFG4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/xNELt/btsQkfFJhkH/AAAAAAAAAAAAAAAAAAAAAN37mwRu_wzO3vZZuCK1aG4XYfuUhD0k2dfHh65Pp0o4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hWsS3Bi%2BfjySq7%2Fa1XqrRSteFG4%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>모노노케 히메 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>태초부터 존재한 대자연의 신과 인간이 공존하던 세상. 그러나 숲을 파괴하려는 인간의 야망은 멧돼지 신을 재앙신으로 변하게 한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이에 맞서던 에미시족 후계자 ‘아시타카’는 저주를 입게 되고, 원인을 찾기 위해 여행을 떠난다. 그 과정에서 그는 숲의 딸 ‘산’을 만나고, 인간과 자연 사이의 갈등 속에서 공존의 길을 찾으려 한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>반면 타타라 마을의 지도자 ‘에보시’는 강력한 무기를 앞세워 자연을 정복하려 하고, 양측의 충돌은 피할 수 없는 전쟁으로 번져간다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?query=모노노케+히메+예매&quot; title=&quot;모노노케 히메 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>모노노케 히메 보러가기👉</button></a></center><center></center></div>'
-    },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '7위 투게더',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>7위는 투게더입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post86_img5.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025년 09월 03일 개봉 / 예매율 3.0%</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dDuDV4/btsQjU2OcYJ/AAAAAAAAAAAAAAAAAAAAAG3UU0IxkRD_YqoAwTBB3Z8rwPBBx63w71eTF1NCwUxa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mRR6Q3cUtexVPGA%2ByPdwYYQ9bYg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dDuDV4/btsQjU2OcYJ/AAAAAAAAAAAAAAAAAAAAAG3UU0IxkRD_YqoAwTBB3Z8rwPBBx63w71eTF1NCwUxa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mRR6Q3cUtexVPGA%2ByPdwYYQ9bYg%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>투게더 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>오랜 연애 끝에 권태기에 빠진 커플 팀과 밀리. 어느 날, 두 사람의 몸이 서서히 하나로 붙어가기 시작한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>세포 단위까지 결합해버리는 충격적인 상황. 사랑과 공포가 동시에 몰려드는 새로운 형태의 바디 호러 로맨스가 펼쳐진다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?query=투게더+예매&quot; title=&quot;투게더 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>투게더 보러가기👉</button></a></center><center></center></div>'
-    },
-    {
-      type: 'h2',
-      id: 'section6',
-      text: '6위 F1 더 무비',
-      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>6위는 F1 더 무비입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post86_img6.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025년 06월 25일 개봉 / 예매율 3.5%</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b3hN5k/btsQhrOpT8F/AAAAAAAAAAAAAAAAAAAAAJrG0t3e-1gZfj-nfxuCtIcgEv2mtcFMbY4zxIzOoW4o/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=k8fIovYv8B2EnWVApFuf723NACE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b3hN5k/btsQhrOpT8F/AAAAAAAAAAAAAAAAAAAAAJrG0t3e-1gZfj-nfxuCtIcgEv2mtcFMbY4zxIzOoW4o/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=k8fIovYv8B2EnWVApFuf723NACE%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>F1 더 무비 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>한때 촉망받던 드라이버였지만 사고로 몰락한 ‘소니 헤이스’(브래드 피트). 그는 동료 루벤(하비에르 바르뎀)의 권유로 최하위 팀 APXGP에 합류한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>하지만 팀의 신예 드라이버 ‘조슈아 피어스’(댐슨 이드리스)와 갈등은 심화되고, 팀의 전략마저 번번이 실패한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>절망적인 상황 속에서도 포기하지 않는 그들. 드디어 빨간 불이 꺼지고 운명을 건 레이스가 시작된다!</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?query=F1+더+무비+예매&quot; title=&quot;F1 더 무비 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>F1 더 무비 보러가기👉</button></a></center><center></center></div>'
-    },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '5위 얼굴',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>5위는 얼굴입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post86_img7.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025년 09월 11일 개봉 / 예매율 3.9%</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/CpnLI/btsQhXGjHTi/AAAAAAAAAAAAAAAAAAAAADNLCF-02jVHeFXngX0a6iIHsHEtnKtmHS5UNfyStxsQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VIU7SMqNEBlq3LB9aQI79mCUXIk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/CpnLI/btsQhXGjHTi/AAAAAAAAAAAAAAAAAAAAADNLCF-02jVHeFXngX0a6iIHsHEtnKtmHS5UNfyStxsQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VIU7SMqNEBlq3LB9aQI79mCUXIk%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>얼굴 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>보이지 않는 세상에서도 가장 아름다운 도장을 만들어온 시각장애인 장인 ‘임영규’. 그의 아들 동환은 경찰로부터 충격적인 전화를 받는다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>40년 전 실종된 아내이자 어머니 ‘정영희’의 백골이 발견된 것. 살해 가능성까지 제기되자, 동환은 아버지의 다큐멘터리를 촬영하던 PD와 함께 진실을 추적한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>청계천 의류 공장에서 함께 일했던 이들의 기억을 따라가며, 점차 숨겨진 과거가 드러난다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?query=얼굴+예매&quot; title=&quot;얼굴 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>얼굴 보러가기👉</button></a></center><center></center></div>'
-    },
-    {
-      type: 'h2',
-      id: 'section8',
-      text: '4위 컨저링: 마지막 의식',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>4위는 컨저링: 마지막 의식입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post86_img8.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025년 09월 17일 개봉 / 예매율 4.2%</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/MAXPk/btsQjjIwxEm/AAAAAAAAAAAAAAAAAAAAAL-_6oiyPxfocqCvu0d5o492ycHHQmA7cl3E1Uxtr0u6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=n2W0Gga%2F7hVJAbHhYblqeQBXF10%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/MAXPk/btsQjjIwxEm/AAAAAAAAAAAAAAAAAAAAAL-_6oiyPxfocqCvu0d5o492ycHHQmA7cl3E1Uxtr0u6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=n2W0Gga%2F7hVJAbHhYblqeQBXF10%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>컨저링: 마지막 의식 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>1986년 미국 펜실베이니아. 스멀 일가의 집에 사악한 기운이 깃들었다는 제보를 받은 워렌 부부.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그곳에서 그들은 지금껏 마주한 적 없는 가장 위험한 악령과 맞닥뜨린다. 그리고 그것은 놀랍게도 그들의 과거와 깊게 얽혀 있었다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>컨저링 유니버스 사상 가장 강력한 악령. 이제 모든 것을 끝낼 마지막 의식이 펼쳐진다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?query=컨저링+예매&quot; title=&quot;컨저링 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>컨저링 보러가기👉</button></a></center><center></center></div>'
-    },
-    {
-      type: 'h2',
-      id: 'section9',
-      text: '3위 살인자 리포트',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>3위는 살인자 리포트입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post86_img9.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025년 09월 04일 개봉 / 예매율 7.2%</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/eeSaHB/btsQiyGeQpN/AAAAAAAAAAAAAAAAAAAAABeLgNXyPb0LBfIj19l3HEu-iK7sXEzJpDuDNtC6BFXt/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=irwMs1%2Fu1MDz9Skxaw2Y0S6EMXQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/eeSaHB/btsQiyGeQpN/AAAAAAAAAAAAAAAAAAAAABeLgNXyPb0LBfIj19l3HEu-iK7sXEzJpDuDNtC6BFXt/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=irwMs1%2Fu1MDz9Skxaw2Y0S6EMXQ%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>살인자 리포트 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>“인터뷰에 응하면 피해자를 살릴 기회를 드리겠습니다.” 특종에 목마른 기자 백선주(조여정)에게, 자신이 연쇄살인범이라 주장하는 정신과 의사 이영훈(정성일)이 다가온다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>호텔 스위트룸에서 시작된 인터뷰는 충격적인 고백과 점점 드러나는 살인 동기로 가득하다. 그러나 인터뷰를 멈추면 또 다른 피해자가 발생한다는데…</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>팽팽한 심리전 속에서 백선주는 점점 더 위험에 빠져든다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?query=살인자+리포트+예매&quot; title=&quot;살인자 리포트 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>살인자 리포트 보러가기👉</button></a></center><center></center></div>'
-    },
-    {
-      type: 'h2',
-      id: 'section10',
-      text: '2위 어쩔 수가 없다',
-      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2위는 어쩔 수가 없다입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post86_img10.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025년 09월 18일 개봉 / 예매율 14.1%</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dCzTVo/btsQjf7bRJg/AAAAAAAAAAAAAAAAAAAAAEE1MavS7ZEjvT4487u8_GvLgjJl9Fvxvyo88Ha62dQc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8AzwDXoPUoQqiRjqu5k7xkuE9cg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dCzTVo/btsQjf7bRJg/AAAAAAAAAAAAAAAAAAAAAEE1MavS7ZEjvT4487u8_GvLgjJl9Fvxvyo88Ha62dQc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8AzwDXoPUoQqiRjqu5k7xkuE9cg%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>어쩔 수가 없다 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>25년 경력의 제지 전문가 만수(이병헌). 아내와 아이들, 반려견과 함께 행복하게 살던 그는 어느 날 회사에서 해고 통보를 받는다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>세 달 안에 재취업을 다짐했지만, 1년이 넘도록 마트와 면접장을 전전하며 집마저 잃을 위기에 놓인다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>필사적으로 [문 제지]를 찾아간 만수는 번번이 좌절만 겪는다. 결국 그는 스스로 자리를 만들어서라도 살아남겠다고 결심하는데…</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?query=어쩔+수가+없다+예매&quot; title=&quot;어쩔 수가 없다 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>어쩔 수가 없다 보러가기👉</button></a></center><center></center><center></center></div>'
-    },
-    {
-      type: 'h2',
-      id: 'section11',
-      text: '1위 귀멸의 칼날: 무한성편',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>현재 상영작 1위는 귀멸의 칼날: 무한성편입니다.</b></span></p>'
-    },
-    { type: 'image', src: '/images/post86_img11.jpg', alt: '2025년 9월 현재상영작 영화 예매 순위', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p>2025년 09월 10일 개봉 / 예매율 20.3%</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/p97NE/btsQkhXQNfS/AAAAAAAAAAAAAAAAAAAAAK-mMoQVi_Du0bg0coddezK8gB1Di91LhR8Pw5mGw594/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BWnAC04zm7ww7oifpL9bJ1j5RlM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/p97NE/btsQkhXQNfS/AAAAAAAAAAAAAAAAAAAAAK-mMoQVi_Du0bg0coddezK8gB1Di91LhR8Pw5mGw594/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BWnAC04zm7ww7oifpL9bJ1j5RlM%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<h3>귀멸의 칼날: 무한성편 줄거리</h3>'
-    },
-    {
-      type: 'body',
-      html: '<p>혈귀로 변한 여동생 네즈코를 인간으로 되돌리기 위해, 카마도 탄지로는 귀살대에 합류한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>동료들과 수많은 전투를 거치며 성장한 그는, 주들과 합동 훈련 중 우부야시키 저택에서 마주친 무잔의 술수에 의해 ‘무한성’으로 떨어진다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>혈귀의 본거지에서 펼쳐지는 최종 결전. 탄지로와 동료들의 사투가 시작된다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<div><center><a href=&quot;https://search.naver.com/search.naver?query=귀멸의+칼날+예매&quot; title=&quot;귀멸의 칼날 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>귀멸의 칼날 보러가기👉</button></a></center><center></center></div>'
-    },
-    {
-      type: 'h2',
-      id: 'section12',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-rating-top-9/',
-      text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
-    {
-      type: 'cta',
-      href: '/horror-movie-recommend-guide/',
-      text: '2024년 공포 영화 추천 인기 순위 총정리 현재상영작'
-    },
-    {
-      type: 'cta',
-      href: '/plot-analysis-movie-release-upcoming/',
-      text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
-    },
-    {
-      type: 'cta',
-      href: '/marvel-movie-release-upcoming/',
-      text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
-    },
-    {
-      type: 'cta',
-      href: '/movie-box-office-audience-guide-ott/',
-      text: '역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부'
-    },
-    {
-      type: 'cta',
-      href: '/series-recommend-rating-top-8/',
-      text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
-    },
+    { type: 'h2', id: "section4", text: "8위 모노노케 히메", gradientStyle: "linear-gradient(to right, #e53935, #ef5350)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>8위는 모노노케 히메입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post86_img4.jpg", alt: "2025년 9월 현재상영작 영화 예매 순위", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025년 09월 17일 재개봉 / 예매율 2.8%</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;596&quot; data-origin-width=&quot;409&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/xNELt/btsQkfFJhkH/AAAAAAAAAAAAAAAAAAAAAN37mwRu_wzO3vZZuCK1aG4XYfuUhD0k2dfHh65Pp0o4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hWsS3Bi%2BfjySq7%2Fa1XqrRSteFG4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/xNELt/btsQkfFJhkH/AAAAAAAAAAAAAAAAAAAAAN37mwRu_wzO3vZZuCK1aG4XYfuUhD0k2dfHh65Pp0o4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hWsS3Bi%2BfjySq7%2Fa1XqrRSteFG4%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section-모노노케-히메-줄거리", text: "모노노케 히메 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>태초부터 존재한 대자연의 신과 인간이 공존하던 세상. 그러나 숲을 파괴하려는 인간의 야망은 멧돼지 신을 재앙신으로 변하게 한다.</p>" },
+    { type: 'body', html: "<p>이에 맞서던 에미시족 후계자 ‘아시타카’는 저주를 입게 되고, 원인을 찾기 위해 여행을 떠난다. 그 과정에서 그는 숲의 딸 ‘산’을 만나고, 인간과 자연 사이의 갈등 속에서 공존의 길을 찾으려 한다.</p>" },
+    { type: 'body', html: "<p>반면 타타라 마을의 지도자 ‘에보시’는 강력한 무기를 앞세워 자연을 정복하려 하고, 양측의 충돌은 피할 수 없는 전쟁으로 번져간다.</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?query=모노노케+히메+예매&quot; title=&quot;모노노케 히메 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>모노노케 히메 보러가기👉</button></a></center><center></center></div>" },
+    { type: 'h2', id: "section5", text: "7위 투게더", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>7위는 투게더입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post86_img5.jpg", alt: "2025년 9월 현재상영작 영화 예매 순위", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025년 09월 03일 개봉 / 예매율 3.0%</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dDuDV4/btsQjU2OcYJ/AAAAAAAAAAAAAAAAAAAAAG3UU0IxkRD_YqoAwTBB3Z8rwPBBx63w71eTF1NCwUxa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mRR6Q3cUtexVPGA%2ByPdwYYQ9bYg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dDuDV4/btsQjU2OcYJ/AAAAAAAAAAAAAAAAAAAAAG3UU0IxkRD_YqoAwTBB3Z8rwPBBx63w71eTF1NCwUxa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mRR6Q3cUtexVPGA%2ByPdwYYQ9bYg%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section-투게더-줄거리", text: "투게더 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>오랜 연애 끝에 권태기에 빠진 커플 팀과 밀리. 어느 날, 두 사람의 몸이 서서히 하나로 붙어가기 시작한다.</p>" },
+    { type: 'body', html: "<p>세포 단위까지 결합해버리는 충격적인 상황. 사랑과 공포가 동시에 몰려드는 새로운 형태의 바디 호러 로맨스가 펼쳐진다.</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?query=투게더+예매&quot; title=&quot;투게더 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>투게더 보러가기👉</button></a></center><center></center></div>" },
+    { type: 'h2', id: "section6", text: "6위 F1 더 무비", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>6위는 F1 더 무비입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post86_img6.jpg", alt: "2025년 9월 현재상영작 영화 예매 순위", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025년 06월 25일 개봉 / 예매율 3.5%</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b3hN5k/btsQhrOpT8F/AAAAAAAAAAAAAAAAAAAAAJrG0t3e-1gZfj-nfxuCtIcgEv2mtcFMbY4zxIzOoW4o/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=k8fIovYv8B2EnWVApFuf723NACE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b3hN5k/btsQhrOpT8F/AAAAAAAAAAAAAAAAAAAAAJrG0t3e-1gZfj-nfxuCtIcgEv2mtcFMbY4zxIzOoW4o/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=k8fIovYv8B2EnWVApFuf723NACE%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section-f1-더-무비-줄거리", text: "F1 더 무비 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>한때 촉망받던 드라이버였지만 사고로 몰락한 ‘소니 헤이스’(브래드 피트). 그는 동료 루벤(하비에르 바르뎀)의 권유로 최하위 팀 APXGP에 합류한다.</p>" },
+    { type: 'body', html: "<p>하지만 팀의 신예 드라이버 ‘조슈아 피어스’(댐슨 이드리스)와 갈등은 심화되고, 팀의 전략마저 번번이 실패한다.</p>" },
+    { type: 'body', html: "<p>절망적인 상황 속에서도 포기하지 않는 그들. 드디어 빨간 불이 꺼지고 운명을 건 레이스가 시작된다!</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?query=F1+더+무비+예매&quot; title=&quot;F1 더 무비 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>F1 더 무비 보러가기👉</button></a></center><center></center></div>" },
+    { type: 'h2', id: "section7", text: "5위 얼굴", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>5위는 얼굴입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post86_img7.jpg", alt: "2025년 9월 현재상영작 영화 예매 순위", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025년 09월 11일 개봉 / 예매율 3.9%</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/CpnLI/btsQhXGjHTi/AAAAAAAAAAAAAAAAAAAAADNLCF-02jVHeFXngX0a6iIHsHEtnKtmHS5UNfyStxsQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VIU7SMqNEBlq3LB9aQI79mCUXIk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/CpnLI/btsQhXGjHTi/AAAAAAAAAAAAAAAAAAAAADNLCF-02jVHeFXngX0a6iIHsHEtnKtmHS5UNfyStxsQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VIU7SMqNEBlq3LB9aQI79mCUXIk%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section-얼굴-줄거리", text: "얼굴 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>보이지 않는 세상에서도 가장 아름다운 도장을 만들어온 시각장애인 장인 ‘임영규’. 그의 아들 동환은 경찰로부터 충격적인 전화를 받는다.</p>" },
+    { type: 'body', html: "<p>40년 전 실종된 아내이자 어머니 ‘정영희’의 백골이 발견된 것. 살해 가능성까지 제기되자, 동환은 아버지의 다큐멘터리를 촬영하던 PD와 함께 진실을 추적한다.</p>" },
+    { type: 'body', html: "<p>청계천 의류 공장에서 함께 일했던 이들의 기억을 따라가며, 점차 숨겨진 과거가 드러난다.</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?query=얼굴+예매&quot; title=&quot;얼굴 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>얼굴 보러가기👉</button></a></center><center></center></div>" },
+    { type: 'h2', id: "section8", text: "4위 컨저링: 마지막 의식", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>4위는 컨저링: 마지막 의식입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post86_img8.jpg", alt: "2025년 9월 현재상영작 영화 예매 순위", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025년 09월 17일 개봉 / 예매율 4.2%</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/MAXPk/btsQjjIwxEm/AAAAAAAAAAAAAAAAAAAAAL-_6oiyPxfocqCvu0d5o492ycHHQmA7cl3E1Uxtr0u6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=n2W0Gga%2F7hVJAbHhYblqeQBXF10%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/MAXPk/btsQjjIwxEm/AAAAAAAAAAAAAAAAAAAAAL-_6oiyPxfocqCvu0d5o492ycHHQmA7cl3E1Uxtr0u6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=n2W0Gga%2F7hVJAbHhYblqeQBXF10%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section-컨저링--마지막-의식-줄거리", text: "컨저링: 마지막 의식 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>1986년 미국 펜실베이니아. 스멀 일가의 집에 사악한 기운이 깃들었다는 제보를 받은 워렌 부부.</p>" },
+    { type: 'body', html: "<p>그곳에서 그들은 지금껏 마주한 적 없는 가장 위험한 악령과 맞닥뜨린다. 그리고 그것은 놀랍게도 그들의 과거와 깊게 얽혀 있었다.</p>" },
+    { type: 'body', html: "<p>컨저링 유니버스 사상 가장 강력한 악령. 이제 모든 것을 끝낼 마지막 의식이 펼쳐진다.</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?query=컨저링+예매&quot; title=&quot;컨저링 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>컨저링 보러가기👉</button></a></center><center></center></div>" },
+    { type: 'h2', id: "section9", text: "3위 살인자 리포트", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>3위는 살인자 리포트입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post86_img9.jpg", alt: "2025년 9월 현재상영작 영화 예매 순위", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025년 09월 04일 개봉 / 예매율 7.2%</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/eeSaHB/btsQiyGeQpN/AAAAAAAAAAAAAAAAAAAAABeLgNXyPb0LBfIj19l3HEu-iK7sXEzJpDuDNtC6BFXt/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=irwMs1%2Fu1MDz9Skxaw2Y0S6EMXQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/eeSaHB/btsQiyGeQpN/AAAAAAAAAAAAAAAAAAAAABeLgNXyPb0LBfIj19l3HEu-iK7sXEzJpDuDNtC6BFXt/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=irwMs1%2Fu1MDz9Skxaw2Y0S6EMXQ%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section-살인자-리포트-줄거리", text: "살인자 리포트 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>“인터뷰에 응하면 피해자를 살릴 기회를 드리겠습니다.” 특종에 목마른 기자 백선주(조여정)에게, 자신이 연쇄살인범이라 주장하는 정신과 의사 이영훈(정성일)이 다가온다.</p>" },
+    { type: 'body', html: "<p>호텔 스위트룸에서 시작된 인터뷰는 충격적인 고백과 점점 드러나는 살인 동기로 가득하다. 그러나 인터뷰를 멈추면 또 다른 피해자가 발생한다는데…</p>" },
+    { type: 'body', html: "<p>팽팽한 심리전 속에서 백선주는 점점 더 위험에 빠져든다.</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?query=살인자+리포트+예매&quot; title=&quot;살인자 리포트 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>살인자 리포트 보러가기👉</button></a></center><center></center></div>" },
+    { type: 'h2', id: "section10", text: "2위 어쩔 수가 없다", gradientStyle: "linear-gradient(to right, #e53935, #ef5350)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>2위는 어쩔 수가 없다입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post86_img10.jpg", alt: "2025년 9월 현재상영작 영화 예매 순위", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025년 09월 18일 개봉 / 예매율 14.1%</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dCzTVo/btsQjf7bRJg/AAAAAAAAAAAAAAAAAAAAAEE1MavS7ZEjvT4487u8_GvLgjJl9Fvxvyo88Ha62dQc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8AzwDXoPUoQqiRjqu5k7xkuE9cg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dCzTVo/btsQjf7bRJg/AAAAAAAAAAAAAAAAAAAAAEE1MavS7ZEjvT4487u8_GvLgjJl9Fvxvyo88Ha62dQc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8AzwDXoPUoQqiRjqu5k7xkuE9cg%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section-어쩔-수가-없다-줄거리", text: "어쩔 수가 없다 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>25년 경력의 제지 전문가 만수(이병헌). 아내와 아이들, 반려견과 함께 행복하게 살던 그는 어느 날 회사에서 해고 통보를 받는다.</p>" },
+    { type: 'body', html: "<p>세 달 안에 재취업을 다짐했지만, 1년이 넘도록 마트와 면접장을 전전하며 집마저 잃을 위기에 놓인다.</p>" },
+    { type: 'body', html: "<p>필사적으로 [문 제지]를 찾아간 만수는 번번이 좌절만 겪는다. 결국 그는 스스로 자리를 만들어서라도 살아남겠다고 결심하는데…</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?query=어쩔+수가+없다+예매&quot; title=&quot;어쩔 수가 없다 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>어쩔 수가 없다 보러가기👉</button></a></center><center></center><center></center></div>" },
+    { type: 'h2', id: "section11", text: "1위 귀멸의 칼날: 무한성편", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>현재 상영작 1위는 귀멸의 칼날: 무한성편입니다.</b></span></p>" },
+    { type: 'image', src: "/images/post86_img11.jpg", alt: "2025년 9월 현재상영작 영화 예매 순위", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p>2025년 09월 10일 개봉 / 예매율 20.3%</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;851&quot; data-origin-width=&quot;608&quot;><span data-alt=&quot;2025년 9월 현재상영작 영화 예매 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/p97NE/btsQkhXQNfS/AAAAAAAAAAAAAAAAAAAAAK-mMoQVi_Du0bg0coddezK8gB1Di91LhR8Pw5mGw594/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BWnAC04zm7ww7oifpL9bJ1j5RlM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/p97NE/btsQkhXQNfS/AAAAAAAAAAAAAAAAAAAAAK-mMoQVi_Du0bg0coddezK8gB1Di91LhR8Pw5mGw594/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BWnAC04zm7ww7oifpL9bJ1j5RlM%3D&quot;></span><figcaption>2025년 9월 현재상영작 영화 예매 순위</figcaption> </figure> </p>" },
+    { type: 'h2', id: "section-귀멸의-칼날--무한성편-줄거리", text: "귀멸의 칼날: 무한성편 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
+    { type: 'body', html: "<p>혈귀로 변한 여동생 네즈코를 인간으로 되돌리기 위해, 카마도 탄지로는 귀살대에 합류한다.</p>" },
+    { type: 'body', html: "<p>동료들과 수많은 전투를 거치며 성장한 그는, 주들과 합동 훈련 중 우부야시키 저택에서 마주친 무잔의 술수에 의해 ‘무한성’으로 떨어진다.</p>" },
+    { type: 'body', html: "<p>혈귀의 본거지에서 펼쳐지는 최종 결전. 탄지로와 동료들의 사투가 시작된다.</p>" },
+    { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?query=귀멸의+칼날+예매&quot; title=&quot;귀멸의 칼날 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>귀멸의 칼날 보러가기👉</button></a></center><center></center></div>" },
+    { type: 'h2', id: "section12", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
+    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
+    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
+    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
+    { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
+    { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
+    { type: 'cta', href: "/horror-movie-recommend-guide/", text: "2024년 공포 영화 추천 인기 순위 총정리 현재상영작" },
+    { type: 'cta', href: "/plot-analysis-movie-release-upcoming/", text: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
+    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
+    { type: 'cta', href: "/movie-box-office-audience-guide-ott/", text: "역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부" },
+    { type: 'cta', href: "/series-recommend-rating-top-8/", text: "해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

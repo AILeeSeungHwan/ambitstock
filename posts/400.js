@@ -1,147 +1,53 @@
 const post = {
   id: 400,
   sections: [
-    {
-      type: 'cta',
-      href: '/season-plot-guide/',
-      text: '최애의 아이 시즌 2기 드디어 공개! 원작 줄거리와 성우진 방영일정 총정리'
-    },
-    {
-      type: 'intro',
-      html: '<p>애니메이션 최애의 아이 2기 줄거리와 등장인물 기본정보 일본 현지 반응과 평점 살펴보도록 하겠습니다.</p><p>최애의 아이 2기 <span style=&quot;background-color: #f3c000;&quot;><b>줄거리와 등장인물 성우진, 방영일정</b></span>은 하단 포스팅을 참고하세요.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;624&quot; data-origin-width=&quot;963&quot;><span data-alt=&quot;최애의 아이 2기 현지 반응 평점 리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ch8upw/btsIozdRqgh/AAAAAAAAAAAAAAAAAAAAADcapttcgkh4ouCDLFkqEP6NMbu577gLAl0RpfgujPr2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=fncr6HkQ0WVNlLQ%2BNyhyClne7b0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ch8upw/btsIozdRqgh/AAAAAAAAAAAAAAAAAAAAADcapttcgkh4ouCDLFkqEP6NMbu577gLAl0RpfgujPr2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=fncr6HkQ0WVNlLQ%2BNyhyClne7b0%3D&quot;></span><figcaption>최애의 아이 2기 현지 반응 평점 리뷰</figcaption> </figure> </p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post400_thumb.svg',
-      alt: '최애의 아이 2기 역대급 애니메이션 오프닝 일본 현지 반응과 후기, 해외 평점 리뷰 보는곳 총정리!',
-      caption: '최애의 아이 2기 역대급 애니메이션 오프닝 일본 현지 반응과 후기, 해외 평점 리뷰 보는곳 총정리!'
-    },
+    { type: 'intro', html: "<p>애니메이션 최애의 아이 2기 줄거리와 등장인물 기본정보 일본 현지 반응과 평점 살펴보도록 하겠습니다.</p><p>최애의 아이 2기 <span style=&quot;background-color: #f3c000;&quot;><b>줄거리와 등장인물 성우진, 방영일정</b></span>은 하단 포스팅을 참고하세요.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;624&quot; data-origin-width=&quot;963&quot;><span data-alt=&quot;최애의 아이 2기 현지 반응 평점 리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ch8upw/btsIozdRqgh/AAAAAAAAAAAAAAAAAAAAADcapttcgkh4ouCDLFkqEP6NMbu577gLAl0RpfgujPr2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=fncr6HkQ0WVNlLQ%2BNyhyClne7b0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ch8upw/btsIozdRqgh/AAAAAAAAAAAAAAAAAAAAADcapttcgkh4ouCDLFkqEP6NMbu577gLAl0RpfgujPr2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=fncr6HkQ0WVNlLQ%2BNyhyClne7b0%3D&quot;></span><figcaption>최애의 아이 2기 현지 반응 평점 리뷰</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post400_thumb.svg", alt: "최애의 아이 2기 역대급 애니메이션 오프닝 일본 현지 반응과 후기, 해외 평점 리뷰 보는곳 총정리!", caption: "최애의 아이 2기 역대급 애니메이션 오프닝 일본 현지 반응과 후기, 해외 평점 리뷰 보는곳 총정리!" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p>최애의 아이 2기 일본 현지 평점입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>현재 1화까지만 공개된 시점에 최애의 아이 시즌 2의 평점은 3.9점으로 굉장히 높은 점수를 기록하고 있습니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>다음은 최애의 아이 2기 해외 반응, 1화 평점 입니다. </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>IMDB 평점은 8.4점</b></span>으로 나쁘지 않은 점수를 기록하였습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>하지만 시즌1에서 엄청난 인기를 끌었던 작품인만큼 최애의 아이 시즌2를 기대한 분들이 많았을 터라,</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>8.4점이라는 평점은 상대적으로 낮게 느껴지는 점수입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>최애의 아이 2기 일본 현지 해외 후기 리뷰 반응 살펴보도록 하겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>연애 리얼리티 쇼는 현실 문제를 다루면서 (구성은 만화가 먼저였을까?) 엔터테인먼트화되었기 때문에 유족들의 비판을 받았지만, 이번 시즌의 원작 개변으로 인한 원작자와 각본가의 문제는 명백히 만화가 먼저다. 작가의 앞을 내다보는 눈이 증명되어 버렸어…</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>실사화도 결정되어 기대치가 높아져서 2기가 시작됐다. 원작은 2.5차원 뮤지컬이 끝나는 부분까지 읽었는데 재미없어서 꽤 힘들었어... 쿠로카와 아카네가 신경 쓰이는데 앞으로 애니메이션에서 어떻게 움직일지 기대돼.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>엄마를 죽인 범인을 찾는 부분을 기대하며 시즌 1은 즐겁게 봤는데, 시즌 2는 이제 연예계 젊은이들의 이야기처럼 되어버려서 조금 귀찮아져서 그만두려고 해. 2.5차원도 싫어…</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>1화만 보고 하차. 이렇게 재미없었나? 솔직히 놀랄 만큼 지루했다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>와… 초반부터 빨려들어갔다. 오프닝 영상도 대단했어... 『推しの子』다운 비유 표현? 아리마들의 연기 장면의 물감 같은 연출이나 아카네의 상상 장면의 퍼즐 같은 것, 내가 좋아하는 세계관이 1화부터 충분히 발휘되고 있어서...</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>1화의 연기 장면의 표현이 정말 좋았다. 곡 자체는 이번 엔딩도 정말 좋아하지만, 소위 말하는 중독성 있는 BGM으로서는 역시 메피스토가 중독성이 있었다고 다시 한번 느꼈다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>여름의 동영상 작업실이 정말 진지하다... 재능과 열정이 있는 배우들이 모여서, 아쿠아는 연기마저도 이용해 아이의 죽음의 진상을 계속 쫓는다. 그리고 아이돌로서 어머니의 뒤를 쫓는 루비는...</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>교활함을 진지하게 다루고 있으며, 지금 가장 시장주의적인 작품일 것이다. 적당히 감상을 쓸 것이다. 제1화. 예상외로 멈춘 그림이 많아 에코하며, 성우에게 의지하면서, 클립에서도 빛날 만한 곳은 제대로 보여준다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이번에는 무대 연극의 세계. 오프닝 곡의 아티스트는 놀랐지만, 엔딩 곡의 양문학이 강하게 밀어올리는 것이 최고다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>원작을 뛰어넘지 못하면 1기만큼의 충격은 기대하기 어렵다. 1화 사쿠라가 &quot;전부&quot;라고 말하는 부분 → 각본가 승천.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>최애의 아이 2기 1화 평점분포입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>10점대가 다수이지만, 7,8,9점에 점수가 많이 분포되어 있는 것으로 보아 <b><span style=&quot;color: #781b33;&quot;>아직은</span> </b><span style=&quot;background-color: transparent; color: #781b33;&quot;><b>최애의 아이 2기 재미있는지를 논하기는 어려울 듯 합니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>최애의 아이 2기 보는 곳, 다시보기는 </b></p>'
-    },
-    ,
-    { type: 'image', src: '/images/post400_img15.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img14.jpg', alt: '최애의 아이 2기 평점분포', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img13.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img12.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img11.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img10.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img9.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img8.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img7.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img6.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img5.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img4.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img3.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img2.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post400_img1.jpg', alt: '최애의 아이 2기', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p><b><span style=&quot;background-color: #f3c000;&quot;>넷플릭스, 애니플러스에서 일본 현지와 동시 방영 스트리밍, 티빙과 웨이브</span>에서도 시청 가능합니다.</b><span style=&quot;background-color: transparent; color: #202124; text-align: left;&quot;></span></p>'
-    },
+    { type: 'body', html: "<p>최애의 아이 2기 일본 현지 평점입니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;color: inherit; text-align: start;&quot;>현재 1화까지만 공개된 시점에 최애의 아이 시즌 2의 평점은 3.9점으로 굉장히 높은 점수를 기록하고 있습니다.</span></p>" },
+    { type: 'body', html: "<p>다음은 최애의 아이 2기 해외 반응, 1화 평점 입니다. </p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>IMDB 평점은 8.4점</b></span>으로 나쁘지 않은 점수를 기록하였습니다.</p>" },
+    { type: 'body', html: "<p>하지만 시즌1에서 엄청난 인기를 끌었던 작품인만큼 최애의 아이 시즌2를 기대한 분들이 많았을 터라,</p>" },
+    { type: 'body', html: "<p>8.4점이라는 평점은 상대적으로 낮게 느껴지는 점수입니다.</p>" },
+    { type: 'body', html: "<p>최애의 아이 2기 일본 현지 해외 후기 리뷰 반응 살펴보도록 하겠습니다.</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>연애 리얼리티 쇼는 현실 문제를 다루면서 (구성은 만화가 먼저였을까?) 엔터테인먼트화되었기 때문에 유족들의 비판을 받았지만, 이번 시즌의 원작 개변으로 인한 원작자와 각본가의 문제는 명백히 만화가 먼저다. 작가의 앞을 내다보는 눈이 증명되어 버렸어…</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>실사화도 결정되어 기대치가 높아져서 2기가 시작됐다. 원작은 2.5차원 뮤지컬이 끝나는 부분까지 읽었는데 재미없어서 꽤 힘들었어... 쿠로카와 아카네가 신경 쓰이는데 앞으로 애니메이션에서 어떻게 움직일지 기대돼.</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>엄마를 죽인 범인을 찾는 부분을 기대하며 시즌 1은 즐겁게 봤는데, 시즌 2는 이제 연예계 젊은이들의 이야기처럼 되어버려서 조금 귀찮아져서 그만두려고 해. 2.5차원도 싫어…</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>1화만 보고 하차. 이렇게 재미없었나? 솔직히 놀랄 만큼 지루했다.</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>와… 초반부터 빨려들어갔다. 오프닝 영상도 대단했어... 『推しの子』다운 비유 표현? 아리마들의 연기 장면의 물감 같은 연출이나 아카네의 상상 장면의 퍼즐 같은 것, 내가 좋아하는 세계관이 1화부터 충분히 발휘되고 있어서...</p>" },
+    { type: 'body', html: "<p>1화의 연기 장면의 표현이 정말 좋았다. 곡 자체는 이번 엔딩도 정말 좋아하지만, 소위 말하는 중독성 있는 BGM으로서는 역시 메피스토가 중독성이 있었다고 다시 한번 느꼈다.</p>" },
+    { type: 'body', html: "<p>여름의 동영상 작업실이 정말 진지하다... 재능과 열정이 있는 배우들이 모여서, 아쿠아는 연기마저도 이용해 아이의 죽음의 진상을 계속 쫓는다. 그리고 아이돌로서 어머니의 뒤를 쫓는 루비는...</p>" },
+    { type: 'body', html: "<p>교활함을 진지하게 다루고 있으며, 지금 가장 시장주의적인 작품일 것이다. 적당히 감상을 쓸 것이다. 제1화. 예상외로 멈춘 그림이 많아 에코하며, 성우에게 의지하면서, 클립에서도 빛날 만한 곳은 제대로 보여준다.</p>" },
+    { type: 'body', html: "<p>이번에는 무대 연극의 세계. 오프닝 곡의 아티스트는 놀랐지만, 엔딩 곡의 양문학이 강하게 밀어올리는 것이 최고다.</p>" },
+    { type: 'body', html: "<p>원작을 뛰어넘지 못하면 1기만큼의 충격은 기대하기 어렵다. 1화 사쿠라가 &quot;전부&quot;라고 말하는 부분 → 각본가 승천.</p>" },
+    { type: 'body', html: "<p>최애의 아이 2기 1화 평점분포입니다.</p>" },
+    { type: 'body', html: "<p>10점대가 다수이지만, 7,8,9점에 점수가 많이 분포되어 있는 것으로 보아 <b><span style=&quot;color: #781b33;&quot;>아직은</span> </b><span style=&quot;background-color: transparent; color: #781b33;&quot;><b>최애의 아이 2기 재미있는지를 논하기는 어려울 듯 합니다.</b></span></p>" },
+    { type: 'body', html: "<p><b>최애의 아이 2기 보는 곳, 다시보기는 </b></p>" },
+    { type: 'image', src: "/images/post400_img15.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img14.jpg", alt: "최애의 아이 2기 평점분포", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img13.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img12.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img11.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img10.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img9.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img8.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img7.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img6.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img5.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img4.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img3.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img2.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post400_img1.jpg", alt: "최애의 아이 2기", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "/season-plot-guide/", text: "최애의 아이 시즌 2기 드디어 공개! 원작 줄거리와 성우진 방영일정 총정리" },
+    { type: 'ending', html: "<p><b><span style=&quot;background-color: #f3c000;&quot;>넷플릭스, 애니플러스에서 일본 현지와 동시 방영 스트리밍, 티빙과 웨이브</span>에서도 시청 가능합니다.</b><span style=&quot;background-color: transparent; color: #202124; text-align: left;&quot;></span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

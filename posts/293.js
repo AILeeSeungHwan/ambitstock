@@ -1,129 +1,41 @@
 const post = {
   id: 293,
   sections: [
-    {
-      type: 'cta',
-      href: '/netflix-recommend-overseas-review-reaction/',
-      text: '넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-인기-순위/',
-      text: '넷플릭스 인기 순위 더 인플루언서 과즙세연 오킹 근황 이슈논란 속 1위 유지'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-pd-신인가수-조정석/',
-      text: '신인가수 조정석 넷플릭스 출연진 PD 공개정보'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-movie-recommend-guide-top-10/',
-      text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
-    },
-    {
-      type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 예능 추천, 이번 컨텐츠는 흑백요리사 입니다.</b></span></p><p>지난 더 인플루언서 공개 이후 여러 이슈들을 뒤로하고서도, 나름의 좋은 평가를 받으며 인기를 이어갔습니다. <span style=&quot;letter-spacing: 0px;&quot;>오히려 논란들 덕분에 노이즈 마케팅으로 성공한 느낌이 있죠.</span></p><p>이번에 넷플릭스 신규 예능, 백종원 안성재 최강록 승우아빠 등 인기 셰프들이 함께하는 흑백요리사 해외 반응과 후기는 어떠한지 함께 확인해보겠습니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post293_thumb.svg',
-      alt: '넷플릭스 예능 추천 흑백요리사 최강 최강록 | 출연진 영어제목 뜻 해외 반응 평점 후기 리뷰',
-      caption: '넷플릭스 예능 추천 흑백요리사 최강 최강록 | 출연진 영어제목 뜻 해외 반응 평점 후기 리뷰'
-    },
+    { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 예능 추천, 이번 컨텐츠는 흑백요리사 입니다.</b></span></p><p>지난 더 인플루언서 공개 이후 여러 이슈들을 뒤로하고서도, 나름의 좋은 평가를 받으며 인기를 이어갔습니다. <span style=&quot;letter-spacing: 0px;&quot;>오히려 논란들 덕분에 노이즈 마케팅으로 성공한 느낌이 있죠.</span></p><p>이번에 넷플릭스 신규 예능, 백종원 안성재 최강록 승우아빠 등 인기 셰프들이 함께하는 흑백요리사 해외 반응과 후기는 어떠한지 함께 확인해보겠습니다.</p>" },
+    { type: 'image', src: "/images/post293_thumb.svg", alt: "넷플릭스 예능 추천 흑백요리사 최강 최강록 | 출연진 영어제목 뜻 해외 반응 평점 후기 리뷰", caption: "넷플릭스 예능 추천 흑백요리사 최강 최강록 | 출연진 영어제목 뜻 해외 반응 평점 후기 리뷰" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p><b>넷플릭스 예능 흑백요리사의 영어제목은 CULINARY CLASS WARS 입니다.</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>한국어로 번역하면 요리 계급 전쟁이라는 뜻이며, 흑백요리사의 부제를 그대로 영어제목으로 사용하였습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>\'흑백요리사: 요리 계급 전쟁\'은 실력으로 인정받은 셰프들이 대한민국의 유명 셰프들에게 도전장을 던지며 벌이는 100인의 요리 서바이벌을 다룬 넷플릭스 예능 프로그램입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>출연진은 무려 80명의 신인 요리사와 20명의 스타 셰프로, 아직 수면위에 오르지 않은 흑과 빛나는 백의 대결구도로 경쟁을 합니다.</b></span> 심사위원은 대중들에게 친숙하고 대중의 시선에서 정확히 평가하는 백종원과 국내에서 유일하게 미슐랭 3스타 셰프인 안성재가 참여하여 각기 다른 시각에서 요리를 평가합니다. \'싱어게인\', \'슈가맨\'을 제작한 팀이 함께해 기존의 틀을 깬 새로운 룰을 도입하여, 9월 17일 공개되었습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1386&quot; data-origin-width=&quot;868&quot;><span data-alt=&quot;넷플릭스 예능 흑백요리사 출연진&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/WYEV6/btsJFtjeU7H/AAAAAAAAAAAAAAAAAAAAAPPsZaQ1fbX18IScZsqO2Yu9PpWvEg_w1FceDl2YH_-_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=eFgXw6Ju3rqKsZFN0Qti1V3FXF0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/WYEV6/btsJFtjeU7H/AAAAAAAAAAAAAAAAAAAAAPPsZaQ1fbX18IScZsqO2Yu9PpWvEg_w1FceDl2YH_-_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=eFgXw6Ju3rqKsZFN0Qti1V3FXF0%3D&quot;></span><figcaption>넷플릭스 예능 흑백요리사 출연진</figcaption> </figure> <figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1386&quot; data-origin-width=&quot;868&quot;><span data-alt=&quot;넷플릭스 예능 흑백요리사 출연진&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/VNAEM/btsJDu5eFrd/AAAAAAAAAAAAAAAAAAAAAMmqZ0R2RS2-XNntiW2aThG8qbRusWqoY2SmEsWrnpcw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wEranC05CxxcF8nud8SJ9hiqIrE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/VNAEM/btsJDu5eFrd/AAAAAAAAAAAAAAAAAAAAAMmqZ0R2RS2-XNntiW2aThG8qbRusWqoY2SmEsWrnpcw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wEranC05CxxcF8nud8SJ9hiqIrE%3D&quot;></span><figcaption>넷플릭스 예능 흑백요리사 출연진</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>IMDB 흑백요리사 해외 평점 알아보겠습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;508&quot; data-origin-width=&quot;1255&quot;><span data-alt=&quot;넷플릭스 예능 흑백요리사 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/qUHY5/btsJE3dZJhj/AAAAAAAAAAAAAAAAAAAAAOjWzzbbbR5jdXJtPiG_6R9zMIfz4_1EQT6nufbNAp80/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4cplU879GP05wsTDp2%2BBujqU0DI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/qUHY5/btsJE3dZJhj/AAAAAAAAAAAAAAAAAAAAAOjWzzbbbR5jdXJtPiG_6R9zMIfz4_1EQT6nufbNAp80/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4cplU879GP05wsTDp2%2BBujqU0DI%3D&quot;></span><figcaption>넷플릭스 예능 흑백요리사 평점</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>10점만점의 7.5점 흑백요리사 입니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>아직 평점 표본은 17개로 많지 않은 표본이기 때문에 좀 더 시간이 지나야 정확한 평가를 할 수 있을 것 같습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>보통 한국 예능의 해외 반응과 평점이 집계되기까지는 약 2주이상의 시간이 소요되기 때문에, 정보가 갱신되는대로 신규 포스팅으로 전달드리겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;643&quot; data-origin-width=&quot;836&quot;><span data-alt=&quot;넷플릭스 예능 흑백요리사 평점분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cFheBo/btsJFbXgrbZ/AAAAAAAAAAAAAAAAAAAAAJ_LklpJoWKNbwfDCceNKiPsgOHS7JHZ83na06lxrTEp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=p3cnsVvi%2FUOIpkplk6gEaNho%2FbQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cFheBo/btsJFbXgrbZ/AAAAAAAAAAAAAAAAAAAAAJ_LklpJoWKNbwfDCceNKiPsgOHS7JHZ83na06lxrTEp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=p3cnsVvi%2FUOIpkplk6gEaNho%2FbQ%3D&quot;></span><figcaption>넷플릭스 예능 흑백요리사 평점분포</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>평점분포는 특이하게 평점 1점의 낮은 점수를 준 시청자들이 많았습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>국가 표본은 전부 미국기준이며, 아직 표본이 적은것을 고려한다면 크게 의미를 부여할 부분은 아닌 것 같습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>하지만 이렇게 극단적으로 1점을 준 시청자가 많다는 것은 이미 많은 해외 요리 경연 대회를 접한 시청자들이 좋지 못한 평가를 준 것으로 예상됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>흑백요리사 1점을 준 평점 리뷰가 있어서 함께 살펴보고 포스팅 마무리하겠습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><b>흑백요리사 해외 후기 풀버전 보러가기</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>넷플릭스의 새로운 프로그램은 &quot;마스터셰프&quot;와 매우 유사합니다. 둥근 대칭 로고, 스튜디오 안의 2층 난간, 검정과 주황색의 색상 구성, 셰프들이 각각의 작업대를 사용하는 모습 등 여러 면에서 &quot;마스터셰프&quot;를 그대로 복사한 것처럼 보입니다. 이러한 유사점은 단순한 우연이 아니라 명백한 복사라고 생각됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>저자는 팬으로서 이러한 콘텐츠에 대한 관심은 있지만, 넷플릭스가 다른 쇼의 컨셉을 이렇게 노골적으로 훔치는 것은 옳지 않다고 판단하여 평점을 주지 않았습니다. 일부 차이점이 있더라도, 그 차이점들은 중요하지 않으며, 이 프로그램은 단순히 &quot;마스터셰프&quot;의 복사판일 뿐이라는 결론을 내렸습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>전체적으로 흑백요리사에 대한 불만이 가득한 리뷰를 남겼습니다. 결국 마스터셰프를 따라했다는 이유가 평점 1점을 남긴 이유가 되겠습니다. 추가로 원하시는 컨텐츠나 작품들이 있다면 댓글로 남겨주시길 바랍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>감사합니다.</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post293_img6.jpg', alt: '넷플릭스 예능 흑백요리사 평점분포', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post293_img5.jpg', alt: '넷플릭스 예능 흑백요리사 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post293_img4.jpg', alt: '넷플릭스 예능 흑백요리사 출연진', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post293_img3.jpg', alt: '넷플릭스 예능 흑백요리사 출연진', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post293_img2.jpg', alt: '넷플릭스 예능 흑백요리사', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post293_img1.jpg', alt: '넷플릭스 예능 흑백요리사', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p><b>함께 보면 좋은 컨텐츠를 소개드립니다.</b></p>'
-    },
+    { type: 'body', html: "<p><b>넷플릭스 예능 흑백요리사의 영어제목은 CULINARY CLASS WARS 입니다.</b></p>" },
+    { type: 'body', html: "<p>한국어로 번역하면 요리 계급 전쟁이라는 뜻이며, 흑백요리사의 부제를 그대로 영어제목으로 사용하였습니다.</p>" },
+    { type: 'body', html: "<p>'흑백요리사: 요리 계급 전쟁'은 실력으로 인정받은 셰프들이 대한민국의 유명 셰프들에게 도전장을 던지며 벌이는 100인의 요리 서바이벌을 다룬 넷플릭스 예능 프로그램입니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>출연진은 무려 80명의 신인 요리사와 20명의 스타 셰프로, 아직 수면위에 오르지 않은 흑과 빛나는 백의 대결구도로 경쟁을 합니다.</b></span> 심사위원은 대중들에게 친숙하고 대중의 시선에서 정확히 평가하는 백종원과 국내에서 유일하게 미슐랭 3스타 셰프인 안성재가 참여하여 각기 다른 시각에서 요리를 평가합니다. '싱어게인', '슈가맨'을 제작한 팀이 함께해 기존의 틀을 깬 새로운 룰을 도입하여, 9월 17일 공개되었습니다.</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1386&quot; data-origin-width=&quot;868&quot;><span data-alt=&quot;넷플릭스 예능 흑백요리사 출연진&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/WYEV6/btsJFtjeU7H/AAAAAAAAAAAAAAAAAAAAAPPsZaQ1fbX18IScZsqO2Yu9PpWvEg_w1FceDl2YH_-_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=eFgXw6Ju3rqKsZFN0Qti1V3FXF0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/WYEV6/btsJFtjeU7H/AAAAAAAAAAAAAAAAAAAAAPPsZaQ1fbX18IScZsqO2Yu9PpWvEg_w1FceDl2YH_-_/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=eFgXw6Ju3rqKsZFN0Qti1V3FXF0%3D&quot;></span><figcaption>넷플릭스 예능 흑백요리사 출연진</figcaption> </figure> <figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1386&quot; data-origin-width=&quot;868&quot;><span data-alt=&quot;넷플릭스 예능 흑백요리사 출연진&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/VNAEM/btsJDu5eFrd/AAAAAAAAAAAAAAAAAAAAAMmqZ0R2RS2-XNntiW2aThG8qbRusWqoY2SmEsWrnpcw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wEranC05CxxcF8nud8SJ9hiqIrE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/VNAEM/btsJDu5eFrd/AAAAAAAAAAAAAAAAAAAAAMmqZ0R2RS2-XNntiW2aThG8qbRusWqoY2SmEsWrnpcw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wEranC05CxxcF8nud8SJ9hiqIrE%3D&quot;></span><figcaption>넷플릭스 예능 흑백요리사 출연진</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>IMDB 흑백요리사 해외 평점 알아보겠습니다.</b></span></p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;508&quot; data-origin-width=&quot;1255&quot;><span data-alt=&quot;넷플릭스 예능 흑백요리사 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/qUHY5/btsJE3dZJhj/AAAAAAAAAAAAAAAAAAAAAOjWzzbbbR5jdXJtPiG_6R9zMIfz4_1EQT6nufbNAp80/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4cplU879GP05wsTDp2%2BBujqU0DI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/qUHY5/btsJE3dZJhj/AAAAAAAAAAAAAAAAAAAAAOjWzzbbbR5jdXJtPiG_6R9zMIfz4_1EQT6nufbNAp80/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4cplU879GP05wsTDp2%2BBujqU0DI%3D&quot;></span><figcaption>넷플릭스 예능 흑백요리사 평점</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>10점만점의 7.5점 흑백요리사 입니다.</b></span></p>" },
+    { type: 'body', html: "<p>아직 평점 표본은 17개로 많지 않은 표본이기 때문에 좀 더 시간이 지나야 정확한 평가를 할 수 있을 것 같습니다.</p>" },
+    { type: 'body', html: "<p>보통 한국 예능의 해외 반응과 평점이 집계되기까지는 약 2주이상의 시간이 소요되기 때문에, 정보가 갱신되는대로 신규 포스팅으로 전달드리겠습니다.</p>" },
+    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;643&quot; data-origin-width=&quot;836&quot;><span data-alt=&quot;넷플릭스 예능 흑백요리사 평점분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cFheBo/btsJFbXgrbZ/AAAAAAAAAAAAAAAAAAAAAJ_LklpJoWKNbwfDCceNKiPsgOHS7JHZ83na06lxrTEp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=p3cnsVvi%2FUOIpkplk6gEaNho%2FbQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cFheBo/btsJFbXgrbZ/AAAAAAAAAAAAAAAAAAAAAJ_LklpJoWKNbwfDCceNKiPsgOHS7JHZ83na06lxrTEp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=p3cnsVvi%2FUOIpkplk6gEaNho%2FbQ%3D&quot;></span><figcaption>넷플릭스 예능 흑백요리사 평점분포</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>평점분포는 특이하게 평점 1점의 낮은 점수를 준 시청자들이 많았습니다.</b></span></p>" },
+    { type: 'body', html: "<p>국가 표본은 전부 미국기준이며, 아직 표본이 적은것을 고려한다면 크게 의미를 부여할 부분은 아닌 것 같습니다.</p>" },
+    { type: 'body', html: "<p>하지만 이렇게 극단적으로 1점을 준 시청자가 많다는 것은 이미 많은 해외 요리 경연 대회를 접한 시청자들이 좋지 못한 평가를 준 것으로 예상됩니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>흑백요리사 1점을 준 평점 리뷰가 있어서 함께 살펴보고 포스팅 마무리하겠습니다.</b></span></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b>흑백요리사 해외 후기 풀버전 보러가기</b></p>" },
+    { type: 'body', html: "<p>넷플릭스의 새로운 프로그램은 &quot;마스터셰프&quot;와 매우 유사합니다. 둥근 대칭 로고, 스튜디오 안의 2층 난간, 검정과 주황색의 색상 구성, 셰프들이 각각의 작업대를 사용하는 모습 등 여러 면에서 &quot;마스터셰프&quot;를 그대로 복사한 것처럼 보입니다. 이러한 유사점은 단순한 우연이 아니라 명백한 복사라고 생각됩니다.</p>" },
+    { type: 'body', html: "<p>저자는 팬으로서 이러한 콘텐츠에 대한 관심은 있지만, 넷플릭스가 다른 쇼의 컨셉을 이렇게 노골적으로 훔치는 것은 옳지 않다고 판단하여 평점을 주지 않았습니다. 일부 차이점이 있더라도, 그 차이점들은 중요하지 않으며, 이 프로그램은 단순히 &quot;마스터셰프&quot;의 복사판일 뿐이라는 결론을 내렸습니다.</p>" },
+    { type: 'body', html: "<p>전체적으로 흑백요리사에 대한 불만이 가득한 리뷰를 남겼습니다. 결국 마스터셰프를 따라했다는 이유가 평점 1점을 남긴 이유가 되겠습니다. 추가로 원하시는 컨텐츠나 작품들이 있다면 댓글로 남겨주시길 바랍니다.</p>" },
+    { type: 'body', html: "<p>감사합니다.</p>" },
+    { type: 'image', src: "/images/post293_img6.jpg", alt: "넷플릭스 예능 흑백요리사 평점분포", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post293_img5.jpg", alt: "넷플릭스 예능 흑백요리사 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post293_img4.jpg", alt: "넷플릭스 예능 흑백요리사 출연진", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post293_img3.jpg", alt: "넷플릭스 예능 흑백요리사 출연진", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post293_img2.jpg", alt: "넷플릭스 예능 흑백요리사", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post293_img1.jpg", alt: "넷플릭스 예능 흑백요리사", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "/netflix-recommend-overseas-review-reaction/", text: "넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가" },
+    { type: 'cta', href: "/netflix-인기-순위/", text: "넷플릭스 인기 순위 더 인플루언서 과즙세연 오킹 근황 이슈논란 속 1위 유지" },
+    { type: 'cta', href: "/netflix-pd-신인가수-조정석/", text: "신인가수 조정석 넷플릭스 출연진 PD 공개정보" },
+    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
+    { type: 'ending', html: "<p><b>함께 보면 좋은 컨텐츠를 소개드립니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

@@ -1,90 +1,36 @@
 const post = {
   id: 255,
   sections: [
-    {
-      type: 'cta',
-      href: '/netflix-movie-recommend-guide-top-10/',
-      text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/ending-review-guide/',
-      text: '조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 더러운 돈에 손대지 마라 ( 영어제목 : Dirty Money)가 10월 17일 개봉합니다. </b></span></p><p>이번 포스팅에서는 더러운 돈에 손대지 마라 해외 시사회 후기 평론가 반응과 관람평 리뷰, 그리고 간단한 줄거리 내용에 대해서 알아보도록 하겠습니다.</p><p>영화는 한 작은 도시에서 벌어지는 사건을 중심으로 진행되며, 이 도시는 겉으로는 평화로워 보이지만, 그 이면에는 어두운 비밀들이 숨겨져 있습니다. <span style=&quot;background-color: #9feec3;&quot;><b>주인공인 한 형사는 이 도시에서 벌어지는 비리와 부패의 고리를 파헤치기 시작하면서 이야기의 긴장이 고조됩니다.</b></span> 그는 지역 정치인들과 사업가들이 연루된 불법 자금 세탁과 부패 사건을 조사하게 되며, 이를 통해 자신의 정의감을 시험받게 됩니다. 영화는 주인공이 부패한 세력들과 맞서 싸우는 과정에서 어떤 선택을 하게 되는지를 긴박하게 그려냅니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post255_thumb.svg',
-      alt: '더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리보기 개봉예정영화',
-      caption: '더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리보기 개봉예정영화'
-    },
+    { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 더러운 돈에 손대지 마라 ( 영어제목 : Dirty Money)가 10월 17일 개봉합니다. </b></span></p><p>이번 포스팅에서는 더러운 돈에 손대지 마라 해외 시사회 후기 평론가 반응과 관람평 리뷰, 그리고 간단한 줄거리 내용에 대해서 알아보도록 하겠습니다.</p><p>영화는 한 작은 도시에서 벌어지는 사건을 중심으로 진행되며, 이 도시는 겉으로는 평화로워 보이지만, 그 이면에는 어두운 비밀들이 숨겨져 있습니다. <span style=&quot;background-color: #9feec3;&quot;><b>주인공인 한 형사는 이 도시에서 벌어지는 비리와 부패의 고리를 파헤치기 시작하면서 이야기의 긴장이 고조됩니다.</b></span> 그는 지역 정치인들과 사업가들이 연루된 불법 자금 세탁과 부패 사건을 조사하게 되며, 이를 통해 자신의 정의감을 시험받게 됩니다. 영화는 주인공이 부패한 세력들과 맞서 싸우는 과정에서 어떤 선택을 하게 되는지를 긴박하게 그려냅니다.</p>" },
+    { type: 'image', src: "/images/post255_thumb.svg", alt: "더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리보기 개봉예정영화", caption: "더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리보기 개봉예정영화" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p>영화의 주요 갈등은 돈과 권력을 추구하는 자들의 욕망과, 정의를 지키려는 주인공 사이의 대립으로 나타납니다. 이야기가 진행될수록 주인공은 자신이 믿었던 사람들조차 이 부패에 연루되어 있음을 알게 되고, 그에 따라 더욱 위험한 상황에 처하게 됩니다. \'더러운 돈에 손대지 마라\'는 돈에 대한 욕망이 인간을 얼마나 타락시킬 수 있는지를 묘사하며, 주인공이 결국 어떤 선택을 내리게 되는지를 통해 관객에게 질문하게 됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이미 스페인 시체스 영화제에서 상영되었고, 재미와 긴장감을 동시에 유지하는 연출로 주목을 받으며 배우들의 연기 역시 호평을 받았습니다. 그렇다면 시체스 영화제에서 받은 평론가들의 후기 반응 리뷰를 알아보도록 하겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>긍정적 반응과 부정적 반응을 나눠 정리하였고, 해당 리뷰를 바탕으로 영화 더러운 돈에 손대지 마라, 예매할지 말지 판단해 보시길 바랍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>먼저 긍정적인 평가들입니다. </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>스페인 시체스 영화제에서 영화 더러운 돈에 손대지마라 (영어제목 : DIRTY MONEY)에 대한 부정적인 평가도 일부 있었습니다.</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>1. 영화의 전개가 예상 가능한 범위에서 벗어나지 못해 긴장감을 충분히 유지하지 못했다고 비판. 플롯의 전개 방식이 단조롭고 예상 가능하다는 의견.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>2. 두 명의 주인공 형사들이 다소 클리셰에 그쳤다는 지적, 이런 점 때문에 관객들이 캐릭터에 공감하기 어려웠다는 평가.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>3. 액션 장면이 매끄럽지 않고 어색하게 연출된 부분이 많아 시각적 몰입을 방해했다는 의견. 특히 영화 후반부의 액션 연출이 전반적으로 일관성이 없다는 평가.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>4. 마지막으로, 주제 의식이 분명하지 않아 영화의 메시지를 전달하는 데 실패했다는 지적도 있었습니다. 범죄와 정의에 대한 주제를 다루었지만, 깊이 있는 논의 없이 표면적인 이야기로 그쳤다는 평가입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>부정적인 평가도 있지만, 긍정적인 관람평 리뷰도 많으므로 개봉예정영화 더러운 돈에 손대지 마라, 10월 17일 극장에서 확인해 보시길 바랍니다.</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post255_img12.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post255_img11.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post255_img10.jpg', alt: '더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리보기 개봉예정영화', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post255_img9.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post255_img8.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post255_img7.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post255_img6.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post255_img5.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post255_img4.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post255_img3.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post255_img2.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post255_img1.jpg', alt: '더러운 돈에 손대지 마라', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
+    { type: 'body', html: "<p>영화의 주요 갈등은 돈과 권력을 추구하는 자들의 욕망과, 정의를 지키려는 주인공 사이의 대립으로 나타납니다. 이야기가 진행될수록 주인공은 자신이 믿었던 사람들조차 이 부패에 연루되어 있음을 알게 되고, 그에 따라 더욱 위험한 상황에 처하게 됩니다. '더러운 돈에 손대지 마라'는 돈에 대한 욕망이 인간을 얼마나 타락시킬 수 있는지를 묘사하며, 주인공이 결국 어떤 선택을 내리게 되는지를 통해 관객에게 질문하게 됩니다.</p>" },
+    { type: 'body', html: "<p>이미 스페인 시체스 영화제에서 상영되었고, 재미와 긴장감을 동시에 유지하는 연출로 주목을 받으며 배우들의 연기 역시 호평을 받았습니다. 그렇다면 시체스 영화제에서 받은 평론가들의 후기 반응 리뷰를 알아보도록 하겠습니다.</p>" },
+    { type: 'body', html: "<p>긍정적 반응과 부정적 반응을 나눠 정리하였고, 해당 리뷰를 바탕으로 영화 더러운 돈에 손대지 마라, 예매할지 말지 판단해 보시길 바랍니다.</p>" },
+    { type: 'body', html: "<p>먼저 긍정적인 평가들입니다. </p>" },
+    { type: 'body', html: "<p><b>스페인 시체스 영화제에서 영화 더러운 돈에 손대지마라 (영어제목 : DIRTY MONEY)에 대한 부정적인 평가도 일부 있었습니다.</b></p>" },
+    { type: 'body', html: "<p>1. 영화의 전개가 예상 가능한 범위에서 벗어나지 못해 긴장감을 충분히 유지하지 못했다고 비판. 플롯의 전개 방식이 단조롭고 예상 가능하다는 의견.</p>" },
+    { type: 'body', html: "<p>2. 두 명의 주인공 형사들이 다소 클리셰에 그쳤다는 지적, 이런 점 때문에 관객들이 캐릭터에 공감하기 어려웠다는 평가.</p>" },
+    { type: 'body', html: "<p>3. 액션 장면이 매끄럽지 않고 어색하게 연출된 부분이 많아 시각적 몰입을 방해했다는 의견. 특히 영화 후반부의 액션 연출이 전반적으로 일관성이 없다는 평가.</p>" },
+    { type: 'body', html: "<p>4. 마지막으로, 주제 의식이 분명하지 않아 영화의 메시지를 전달하는 데 실패했다는 지적도 있었습니다. 범죄와 정의에 대한 주제를 다루었지만, 깊이 있는 논의 없이 표면적인 이야기로 그쳤다는 평가입니다.</p>" },
+    { type: 'body', html: "<p>부정적인 평가도 있지만, 긍정적인 관람평 리뷰도 많으므로 개봉예정영화 더러운 돈에 손대지 마라, 10월 17일 극장에서 확인해 보시길 바랍니다.</p>" },
+    { type: 'image', src: "/images/post255_img12.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post255_img11.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post255_img10.jpg", alt: "더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리보기 개봉예정영화", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post255_img9.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post255_img8.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post255_img7.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post255_img6.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post255_img5.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post255_img4.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post255_img3.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post255_img2.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post255_img1.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
+    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
+    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
+    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
+    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }
