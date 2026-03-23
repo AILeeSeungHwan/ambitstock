@@ -4,12 +4,36 @@ export default function Document() {
   return (
     <Html lang="ko">
       <Head>
-        {/* Google AdSense */}
+        {/* Google AdSense — 앵커/오버레이 자동 광고 비활성화 */}
+        <meta name="google-adsense-platform-account" content="ca-pub-8640254349508671" />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8640254349508671"
           crossOrigin="anonymous"
+          data-overlays="bottom"
         />
+        <style dangerouslySetInnerHTML={{ __html: `
+          /* AdSense 앵커(상단 내려오는) 광고 완전 제거 + 빈 공간 방지 */
+          ins.adsbygoogle[data-anchor-status],
+          ins.adsbygoogle[data-ad-format="auto"][data-anchor-shown],
+          div[id^="google_ads_iframe"][style*="position: fixed"],
+          div[id^="aswift_"][style*="position: fixed"],
+          div.google-auto-placed[style*="position: fixed"],
+          div[style*="position: fixed"][style*="z-index: 2147483647"] {
+            display: none !important;
+            height: 0 !important;
+            min-height: 0 !important;
+            max-height: 0 !important;
+            overflow: hidden !important;
+            padding: 0 !important;
+            margin: 0 !important;
+          }
+          /* body가 밀리지 않도록 */
+          html, body {
+            margin-top: 0 !important;
+            padding-top: 0 !important;
+          }
+        ` }} />
 
         {/* Google Tag Manager */}
         <script dangerouslySetInnerHTML={{ __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
