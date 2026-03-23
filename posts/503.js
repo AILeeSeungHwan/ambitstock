@@ -15,7 +15,13 @@ const post = {
       type: 'image',
       src: '/images/post503_poster.jpg',
       alt: '스파이더맨4 브랜드 뉴 데이 공식 포스터',
-      caption: '출처: 네이버 영화'
+      caption: 'ⓒ 네이버 영화'
+    },
+    {
+      type: 'image',
+      src: '/images/post503_still2.jpg',
+      alt: '스파이더맨4 브랜드 뉴 데이 톰 홀랜드',
+      caption: 'ⓒ 네이버 영화'
     },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
@@ -42,12 +48,18 @@ const post = {
     {
       type: 'h2',
       id: 'section3',
-      text: '왜 &quot;브랜드 뉴 데이&quot;인가 — 원작 코믹스와의 연결',
+      text: '브랜드 뉴 데이 제목의 의미 — 원작 코믹스와의 연결',
       gradientStyle: 'linear-gradient(to right, #e50914, #7b1fa2)'
     },
     {
       type: 'body',
       html: '<p>마블 코믹스 팬이라면 이 제목에서 바로 반응했을 것이다. 원작 코믹스 <b>Brand New Day</b>는 2008년 스파이더맨 스토리라인으로, 피터 파커가 미스테리오의 거래로 메리 제인과의 결혼 자체를 없애버리는 내용이다. 핵심 키워드가 똑같다 — <i>소중한 것을 잃고 새로운 삶을 시작하는 스파이더맨</i>.</p><p>MCU 버전은 코믹스를 그대로 따라가지는 않겠지만, 정서적 골격은 비슷하다. 모두가 자신을 잊은 세상에서 다시 시작하는 것. 메이 숙모도 없고, 베컨슴 갔던 연결고리도 없고, MJ와의 관계도 리셋됐다. 이번 피터는 진짜 혼자다. 그게 이 영화가 이전 세 편과 근본적으로 다른 출발점이다.</p>'
+    },
+    {
+      type: 'image',
+      src: '/images/post503_still3.jpg',
+      alt: '스파이더맨 MCU 브랜드 뉴 데이 장면',
+      caption: 'ⓒ 네이버 영화'
     },
     {
       type: 'h2',
@@ -63,8 +75,8 @@ const post = {
     {
       type: 'image',
       src: '/images/post503_still1.jpg',
-      alt: '스파이더맨4 브랜드 뉴 데이 — 톰 홀랜드 스파이더맨 스틸컷',
-      caption: '출처: 네이버 영화'
+      alt: '스파이더맨4 브랜드 뉴 데이 스틸컷',
+      caption: 'ⓒ 네이버 영화'
     },
     {
       type: 'h2',
@@ -86,7 +98,7 @@ const post = {
       type: 'body',
       html: '<p>솔직히 말하면 브랜드 뉴 데이에 대한 우려도 있다. 노 웨이 홈이 워낙 강력한 감정적 피날레였기 때문에, 후속작에 대한 기대치가 비현실적으로 높게 설정된 상태다. &quot;다닥토비&quot; 재등장 같은 팬서비스를 기대하는 사람에게는 실망스러울 수 있다 — 브랜드 뉴 데이는 출발점부터 새로운 이야기를 표방하고 있으니까.</p><p>또 MCU 페이즈 5를 많이 놓쳤다면 이 영화의 맥락이 얼마나 연결되는지 불분명한 부분도 있다. 완전히 독립된 이야기는 아니기 때문에, MCU를 오랫동안 떠났다가 이 영화 하나만 보러 오는 관객에게는 다소 낯선 전제가 있을 수 있다. 마블을 즐겨 보는 팬이라면 문제없지만, 라이트한 관객에게는 진입 장벽이 존재한다.</p>'
     },
-    { type: 'image', src: '/images/post503_still2.jpg', alt: '스파이더맨4 마블 히어로 장면', caption: '출처: 네이버 영화' },
+    { type: 'image', src: '/images/post503_still4.jpg', alt: '스파이더맨4 마블 MCU 장면', caption: 'ⓒ 네이버 영화' },
     {
       type: 'h2',
       id: 'section7',
