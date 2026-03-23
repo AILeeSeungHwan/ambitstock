@@ -1,5 +1,16 @@
 const posts = [
   {
+    id: 572,
+    slug: 'one-piece-series-beginners-guide-watch-order-2026',
+    title: '원피스 시리즈 입문 가이드 — 실사판부터 볼까, 애니부터 볼까? 시청순서·입문 루트 총정리',
+    description: '원피스 실사 시즌2 로튼토마토 100% 화제인 지금, 입문자를 위한 시청순서 완벽 가이드. 실사판·애니·만화 3가지 입문 루트, 필러 스킵 가이드, 극장판 추천, 실사 vs 원작 비교까지.',
+    category: '애니메이션',
+    date: '2026-03-23',
+    tags: ['원피스', '시청순서', '넷플릭스', '원피스실사', '입문가이드', '애니메이션', '원피스시즌2', '시리즈가이드'],
+    thumbnail: '/images/post572_poster.jpg',
+    relatedSlugs: ['one-piece-season2-global-reaction-rotten-tomatoes-100-2026', 'one-piece-live-action-season2-preview', 'spring-2026-anime-top7-must-watch-guide', 'netflix-global-top10-march-4th-week-2026-kcontent']
+  },
+  {
     id: 571,
     slug: 'shawshank-redemption-4k-rerelease-2026-theater-guide',
     title: '쇼생크 탈출 4K 재개봉 관람 가이드 — IMDB 역대 1위, 30년 만에 극장에서 다시 보는 법',
