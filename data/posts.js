@@ -1,5 +1,27 @@
 const posts = [
   {
+    id: 574,
+    slug: 'spring-2026-kdrama-ratings-war-shin-irang-siren-analysis',
+    title: '2026 봄 드라마 시청률 전쟁 — 신이랑 11.3% vs 세이렌 vs 건물주되는법, 3월 넷째주 결산',
+    description: '2026년 3월 봄 드라마 시청률 전쟁 결산. 신이랑 법률사무소 11.3%, 세이렌 6회 연속 상승, 건물주되는법 화제성, 넷플릭스 월간남친 글로벌 1위. 취향별 추천 비교표.',
+    category: '드라마',
+    date: '2026-03-24',
+    tags: ['트렌드', '드라마추천', '시청률', '신이랑법률사무소', '세이렌', '건물주되는법', '넷플릭스', '2026봄드라마'],
+    thumbnail: '/images/post574_poster.jpg',
+    relatedSlugs: ['with-god-shin-irang-law-office-yoo-yeonseok-review-2026', 'siren-tvn-drama-park-minyoung-review-2026', 'cabbage-your-life-simumyeon-yeonriri-kbs-drama-2026', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide']
+  },
+  {
+    id: 573,
+    slug: 'cabbage-your-life-simumyeon-yeonriri-kbs-drama-2026',
+    title: '심우면 연리리 — 박성웅·이수경 귀농 힐링 드라마, KBS 3월 26일 첫방 추천 가이드',
+    description: '심우면 연리리 KBS 2TV 목요드라마 3월 26일 첫방. 박성웅·이수경·이서환 출연 귀농 가족 힐링 코미디 12부작. 캐스팅 분석, 취향별 추천, OTT 시청 정보 총정리.',
+    category: '드라마',
+    date: '2026-03-24',
+    tags: ['트렌드', '심우면연리리', '박성웅', '이수경', 'KBS', '가족드라마', '힐링드라마', '2026봄드라마'],
+    thumbnail: '/images/post573_poster.jpg',
+    relatedSlugs: ['with-god-shin-irang-law-office-yoo-yeonseok-review-2026', 'spring-2026-kdrama-ratings-war-shin-irang-siren-analysis', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide', 'climax-ena-drama-jujihoon-hajiwon-2026']
+  },
+  {
     id: 572,
     slug: 'one-piece-series-beginners-guide-watch-order-2026',
     title: '원피스 시리즈 입문 가이드 — 실사판부터 볼까, 애니부터 볼까? 시청순서·입문 루트 총정리',
