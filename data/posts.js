@@ -1,5 +1,16 @@
 const posts = [
   {
+    id: 571,
+    slug: 'shawshank-redemption-4k-rerelease-2026-theater-guide',
+    title: '쇼생크 탈출 4K 재개봉 관람 가이드 — IMDB 역대 1위, 30년 만에 극장에서 다시 보는 법',
+    description: '쇼생크 탈출 2026년 3월 4K 리마스터링 재개봉 관람 가이드. IMDB 9.3 역대 1위, 로튼토마토 관객 98%. 롯데시네마 단독, 4K 복원 디테일, 취향별 추천 기준 총정리.',
+    category: '영화추천',
+    date: '2026-03-23',
+    tags: ['트렌드', '쇼생크탈출', '재개봉', '4K리마스터링', 'IMDB', '롯데시네마', '클래식영화', '극장추천'],
+    thumbnail: '/images/post571_poster.jpg',
+    relatedSlugs: ['spring-2026-theater-top5-sf-thriller-drama', 'project-hail-mary-box-office-opening-trend-2026', 'attack-on-titan-last-attack-4dx-rerelease-guide-2026']
+  },
+  {
     id: 570,
     slug: 'netflix-global-top10-march-4th-week-2026-kcontent',
     title: '3월 넷째주 넷플릭스 글로벌 TOP 10 — 월간남친 4700만, 원피스 93개국, K콘텐츠 점령기',
