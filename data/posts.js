@@ -1,5 +1,38 @@
 const posts = [
   {
+    id: 570,
+    slug: 'netflix-global-top10-march-4th-week-2026-kcontent',
+    title: '3월 넷째주 넷플릭스 글로벌 TOP 10 — 월간남친 4700만, 원피스 93개국, K콘텐츠 점령기',
+    description: '2026년 3월 넷째주 넷플릭스 글로벌 TOP 10 분석. 월간남친 비영어권 2주 연속 1위·4700만 시청, 원피스 시즌2 로튼토마토 100%·93개국 톱10, 세이렌 6회 연속 1위. K콘텐츠 흥행 공식 해부.',
+    category: '해외반응후기',
+    date: '2026-03-23',
+    tags: ['트렌드', '넷플릭스', '글로벌순위', 'TOP10', '월간남친', '원피스시즌2', 'K콘텐츠', '해외반응'],
+    thumbnail: '/images/post570_poster.jpg',
+    relatedSlugs: ['netflix-monthly-boyfriend-jisoo-global-no1-review-2026', 'one-piece-season2-global-reaction-rotten-tomatoes-100-2026']
+  },
+  {
+    id: 569,
+    slug: 'netflix-notes-last-row-choiminsik-preview-2026',
+    title: '넷플릭스 맨 끝줄 소년 사전 가이드 — 최민식 넷플릭스 데뷔, 천재에 집착하는 교수의 서스펜스',
+    description: '넷플릭스 맨 끝줄 소년 사전 가이드. 최민식·최현욱·허준호·김윤진 캐스팅, 4월 18일 공개, 12부작 서스펜스. 실패한 교수가 학생의 천재성에 집착하는 심리 드라마.',
+    category: '드라마',
+    date: '2026-03-23',
+    tags: ['트렌드', '맨끝줄소년', '최민식', '최현욱', '허준호', '넷플릭스', '서스펜스', 'K드라마'],
+    thumbnail: '/images/post569_poster.jpg',
+    relatedSlugs: ['bloodhounds-season2-netflix-april-2026-guide', 'netflix-deulji-thriller-seolkyunggu-ryujunyeol-guide-2026']
+  },
+  {
+    id: 568,
+    slug: 'netflix-scandal-sonyejin-jichangwook-joseon-romance-2026',
+    title: '넷플릭스 스캔들 사전 가이드 — 손예진·지창욱·나나, 조선시대 로맨스의 귀환',
+    description: '넷플릭스 스캔들 사전 가이드. 손예진·지창욱·나나 캐스팅, 정지우 감독 연출, 2003년 영화 원작 리메이크. 조선시대 배경 금기된 욕망과 사랑의 사극 로맨스.',
+    category: '드라마',
+    date: '2026-03-23',
+    tags: ['트렌드', '스캔들', '손예진', '지창욱', '나나', '넷플릭스', '조선시대', 'K드라마'],
+    thumbnail: '/images/post568_poster.jpg',
+    relatedSlugs: ['netflix-deulji-thriller-seolkyunggu-ryujunyeol-guide-2026', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide']
+  },
+  {
     id: 567,
     slug: 'humint-spy-action-review-joinsung-parkjungmin-2026',
     title: '휴민트 리뷰 — 조인성·박정민 첩보 액션, 235억 제작비의 긴장감',
