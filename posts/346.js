@@ -1,188 +1,57 @@
 const post = {
   id: 346,
   sections: [
-    {
-      type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>현재 상영작 에일리언 로물루스 해외 로튼 토마토 평론가 평점 후기입니다.</b></span></p><p>관람하신 분들은 아시겠지만, 에일리언 시리즈 중 최고작이라 평가 받을 정도로 엄청난 작품이 탄생하였습니다.</p><p>에일리언 1, 2 의 중간 시점을 배경으로 하는 에일리언 로물루스, 과연 해외 평론가들의 관람평은 어떠할지 알아보겠습니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post346_thumb.svg',
-      alt: '에일리언 로물루스 인기순위 로튼 토마토 평론가 관람평점과 후속작이 기대되는 후기',
-      caption: '에일리언 로물루스 인기순위 로튼 토마토 평론가 관람평점과 후속작이 기대되는 후기'
-    },
+    { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>현재 상영작 에일리언 로물루스 해외 로튼 토마토 평론가 평점 후기입니다.</b></span></p><p>관람하신 분들은 아시겠지만, 에일리언 시리즈 중 최고작이라 평가 받을 정도로 엄청난 작품이 탄생하였습니다.</p><p>에일리언 1, 2 의 중간 시점을 배경으로 하는 에일리언 로물루스, 과연 해외 평론가들의 관람평은 어떠할지 알아보겠습니다.</p>" },
+    { type: 'image', src: "/images/post346_thumb.svg", alt: "에일리언 로물루스 인기순위 로튼 토마토 평론가 관람평점과 후속작이 기대되는 후기", caption: "에일리언 로물루스 인기순위 로튼 토마토 평론가 관람평점과 후속작이 기대되는 후기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>에일리언 로물루스와 관련된 모든 내용이 궁금하신 분은</p>'
-    },
-    { type: 'image', src: '/images/post346_poster.jpg', alt: '포스트 346 관련 이미지', caption: '출처: 네이버 영화' },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>이전 게시글들을 참고하시길 바랍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>에일리언 로물루스 로튼 토마토 평론가 평점과 관객 평점입니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>에일리언 로물루스 로튼 토마토 평점</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평론가 평점은 8월 15일 집계 완료, 금일 8월 16일 오전 10시 기준으로 관람객 평점도 집계가 되었습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점은 신선도 보증마크를 획득한 82%, 관람객 평점 또한 평론가 평점과 같은 82%를 기록</b></span>하였습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>국내에서 네이버 평점으로는 9점대를 기록하고 있는 것에 비해서는 상대적으로 낮은 점수입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>좀 더 박한 점수를 주는 로튼토마토이기에, IMDB 평점도 확인해보겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>IMDB 에일리언 로물루스 평점 및 인기순위 입니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>에일리언 로물루스 IMDB 평점</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>표본 5,700명, 평점 7.5점, 인기순위는 9위</b></span>를 기록하고 있습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>IMDB도 생각보다는 낮은 점수를 기록하고 있어서 의외인 부분입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그렇다면 평론가 후기는 어떠한지 알아보겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>로튼 토마토에서 발췌한 평론가 후기를 의역하여 전해드립니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Richard Roeper - Chicago Sun-Times (Top Critic)</b><br>평점: 3/4<br><span style=&quot;background-color: #9feec3;&quot;><b>80년대 미래 비전을 현대적으로 잘 재해석한 영화</b></span>로, 시대의 분위기에 걸맞은 진정성을 느낄 수 있다.</br></br></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Shakyl Lambert - CGMagazine</b><br/>평점: 7.5/10<br/>영화에서 가장 인상적인 순간들은 아바레즈 감독이 <span style=&quot;background-color: #9feec3;&quot;><b>제노모프와 페이스허거를 수년 만에 가장 무섭게 표현한 부분</b></span>이다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>DarkSkyLady - DarkSkyLady Reviews</b><br/>평점: 없음<br/>아쉽게도, 영화는 <span style=&quot;background-color: #9feec3;&quot;><b>이전 에일리언 영화들의 요소들을 잘못 조합해 어수선하고 이해하기 어려운 작품</b></span>이 되었다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Hernán Ferreirós - La Nación (Argentina)</b><br/>평점: 4/5<br/><span style=&quot;background-color: #9feec3;&quot;><b>Spaeny는 이 시리즈의 여성 주인공 계보에 영감을 더하는 인물</b></span>로,</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>연약하면서도 강인한 캐릭터를 통해 남성성의 어두운 면을 상징하는 생명체와 맞선다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Kathia Woods - The Philadelphia Tribune</b><br/>평점: 8/10<br/>영화는 <span style=&quot;background-color: #9feec3;&quot;><b>원작에 대한 경의를 표하면서도 독자적인 정체성을 확립하는 데 성공</b></span>했다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Andrew Dex - Starburst</b><br/>평점: 4/5<br/>이번 영화는 이전의 모든 에일리언 영화를 축하하는 잔인한 축제로,</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>이 끔찍하면서도 매력적인 세계가 여전히 살아 숨쉬고 있음을 증명</b></span>한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Jorge Loser - Espinof</b><br/>평점: 없음<br/>\'에일리언: 로물루스\'는 미션을 잘 완수했지만, <span style=&quot;background-color: #9feec3;&quot;><b>새로운 것을 제공하지 않는 상업적인 영화에 불과</b></span>하다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Pablo O. Scholz - Clarín</b><br/>평점: 3/4<br/><span style=&quot;background-color: #9feec3;&quot;><b>영화에는 몇 가지 효과적이지 않은 반전이 있으며, 결말이 다소 길게 느껴진다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그럼에도 불구하고 시리즈에 새로운 (혹은 오래된) 방향성을 제시한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Mark Meszoros - The News-Herald (Willoughby, OH)</b><br/>평점: 2.5/4<br/>전체적으로 다소 혼합된 반응을 불러일으키지만, <span style=&quot;background-color: #9feec3;&quot;><b>어떤 장면은 스릴 있고 어떤 장면은 무섭고 불안한 감정</b></span>을 느끼게 만든다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Manohla Dargis - New York Times (Top Critic)</b><br/>평점: 없음<br/>\'에일리언\' 영화의 일곱 번째 작품으로, 이 영화는 충분히 괜찮은 오락물을 제공한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Frank Swietek - One Guy\'s Opinion</b><br/>평점: C+<br/>이 영화는 관객에게 충격을 주는 것을 목표로 하지만, <span style=&quot;background-color: #9feec3;&quot;><b>새로운 것을 제공하지 못해 다소 상상력이 부족한 시리즈의 추가작</b></span>으로 남는다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Chauncey K. Robinson - People\'s World</b><br/>평점: A<br/>에일리언: 로물루스는 이 시리즈가 가지고 있는 반기업적 주제를 이어가며,</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>공포와 회복력의 새로운 이야기를 창조하고 많은 공포 요소를 제공</b></span>한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Connor Lightbody - Movies We Texted About</b><br/>평점: 2/5<br/>이 영화는 <span style=&quot;background-color: #9feec3;&quot;><b>시리즈의 문화적 영향을 너무 의식한 나머지, 에일리언의 무덤에서 끌어올려 다시 묻어야 할 작품</b></span>처럼 느껴진다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Alex Bentley - CultureMap</b><br/>평점: 없음<br/>에일리언: 로물루스는 적절한 감독과 배우들이 함께 한다면 <span style=&quot;background-color: #9feec3;&quot;><b>이 시리즈가 계속될 수 있음</b></span>을 보여준다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Peter Howell - Toronto Star (Top Critic)</b><br/>평점: 2.5/4<br/>많은 부분에서 기존의 에일리언 영화를 연상시키지만, <span style=&quot;background-color: #9feec3;&quot;><b>젊은 배우들이 주도하는 독립적인 이야기로 생각하면 가치 있는 추가작</b></span>이다.</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post346_img8.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post346_img7.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post346_img6.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post346_img5.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post346_img4.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post346_img3.jpg', alt: '에일리언 로물루스 IMDB 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post346_img2.jpg', alt: '에일리언 로물루스 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post346_img1.jpg', alt: '에일리언 로물루스 평론가 후기', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p><b>Richard Lawson - Vanity Fair (Top Critic)</b><br/>평점: 없음<br/><span style=&quot;background-color: #9feec3;&quot;><b>기본적인 기능을 성공적으로 수행하는 영화</b></span>다</p>'
-    },
+    { type: 'body', html: "<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>에일리언 로물루스와 관련된 모든 내용이 궁금하신 분은</p>" },
+    { type: 'image', src: "/images/post346_poster.jpg", alt: "포스트 346 관련 이미지", caption: "출처: 네이버 영화" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>이전 게시글들을 참고하시길 바랍니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>에일리언 로물루스 로튼 토마토 평론가 평점과 관객 평점입니다.</b></span></p>" },
+    { type: 'body', html: "<p><figure><figcaption>에일리언 로물루스 로튼 토마토 평점</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>평론가 평점은 8월 15일 집계 완료, 금일 8월 16일 오전 10시 기준으로 관람객 평점도 집계가 되었습니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>평론가 평점은 신선도 보증마크를 획득한 82%, 관람객 평점 또한 평론가 평점과 같은 82%를 기록</b></span>하였습니다.</p>" },
+    { type: 'body', html: "<p>국내에서 네이버 평점으로는 9점대를 기록하고 있는 것에 비해서는 상대적으로 낮은 점수입니다.</p>" },
+    { type: 'body', html: "<p>좀 더 박한 점수를 주는 로튼토마토이기에, IMDB 평점도 확인해보겠습니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>IMDB 에일리언 로물루스 평점 및 인기순위 입니다.</b></span></p>" },
+    { type: 'body', html: "<p><figure><figcaption>에일리언 로물루스 IMDB 평점</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>표본 5,700명, 평점 7.5점, 인기순위는 9위</b></span>를 기록하고 있습니다.</p>" },
+    { type: 'body', html: "<p>IMDB도 생각보다는 낮은 점수를 기록하고 있어서 의외인 부분입니다.</p>" },
+    { type: 'body', html: "<p>그렇다면 평론가 후기는 어떠한지 알아보겠습니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>로튼 토마토에서 발췌한 평론가 후기를 의역하여 전해드립니다.</b></span></p>" },
+    { type: 'body', html: "<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><b>Richard Roeper - Chicago Sun-Times (Top Critic)</b><br>평점: 3/4<br><span style=&quot;background-color: #9feec3;&quot;><b>80년대 미래 비전을 현대적으로 잘 재해석한 영화</b></span>로, 시대의 분위기에 걸맞은 진정성을 느낄 수 있다.</br></br></p>" },
+    { type: 'body', html: "<p><b>Shakyl Lambert - CGMagazine</b><br/>평점: 7.5/10<br/>영화에서 가장 인상적인 순간들은 아바레즈 감독이 <span style=&quot;background-color: #9feec3;&quot;><b>제노모프와 페이스허거를 수년 만에 가장 무섭게 표현한 부분</b></span>이다.</p>" },
+    { type: 'body', html: "<p><b>DarkSkyLady - DarkSkyLady Reviews</b><br/>평점: 없음<br/>아쉽게도, 영화는 <span style=&quot;background-color: #9feec3;&quot;><b>이전 에일리언 영화들의 요소들을 잘못 조합해 어수선하고 이해하기 어려운 작품</b></span>이 되었다.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><b>Hernán Ferreirós - La Nación (Argentina)</b><br/>평점: 4/5<br/><span style=&quot;background-color: #9feec3;&quot;><b>Spaeny는 이 시리즈의 여성 주인공 계보에 영감을 더하는 인물</b></span>로,</p>" },
+    { type: 'body', html: "<p>연약하면서도 강인한 캐릭터를 통해 남성성의 어두운 면을 상징하는 생명체와 맞선다.</p>" },
+    { type: 'body', html: "<p><b>Kathia Woods - The Philadelphia Tribune</b><br/>평점: 8/10<br/>영화는 <span style=&quot;background-color: #9feec3;&quot;><b>원작에 대한 경의를 표하면서도 독자적인 정체성을 확립하는 데 성공</b></span>했다.</p>" },
+    { type: 'body', html: "<p><b>Andrew Dex - Starburst</b><br/>평점: 4/5<br/>이번 영화는 이전의 모든 에일리언 영화를 축하하는 잔인한 축제로,</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>이 끔찍하면서도 매력적인 세계가 여전히 살아 숨쉬고 있음을 증명</b></span>한다.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><b>Jorge Loser - Espinof</b><br/>평점: 없음<br/>'에일리언: 로물루스'는 미션을 잘 완수했지만, <span style=&quot;background-color: #9feec3;&quot;><b>새로운 것을 제공하지 않는 상업적인 영화에 불과</b></span>하다.</p>" },
+    { type: 'body', html: "<p><b>Pablo O. Scholz - Clarín</b><br/>평점: 3/4<br/><span style=&quot;background-color: #9feec3;&quot;><b>영화에는 몇 가지 효과적이지 않은 반전이 있으며, 결말이 다소 길게 느껴진다.</b></span></p>" },
+    { type: 'body', html: "<p>그럼에도 불구하고 시리즈에 새로운 (혹은 오래된) 방향성을 제시한다.</p>" },
+    { type: 'body', html: "<p><b>Mark Meszoros - The News-Herald (Willoughby, OH)</b><br/>평점: 2.5/4<br/>전체적으로 다소 혼합된 반응을 불러일으키지만, <span style=&quot;background-color: #9feec3;&quot;><b>어떤 장면은 스릴 있고 어떤 장면은 무섭고 불안한 감정</b></span>을 느끼게 만든다.</p>" },
+    { type: 'body', html: "<p><b>Manohla Dargis - New York Times (Top Critic)</b><br/>평점: 없음<br/>'에일리언' 영화의 일곱 번째 작품으로, 이 영화는 충분히 괜찮은 오락물을 제공한다.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><b>Frank Swietek - One Guy's Opinion</b><br/>평점: C+<br/>이 영화는 관객에게 충격을 주는 것을 목표로 하지만, <span style=&quot;background-color: #9feec3;&quot;><b>새로운 것을 제공하지 못해 다소 상상력이 부족한 시리즈의 추가작</b></span>으로 남는다.</p>" },
+    { type: 'body', html: "<p><b>Chauncey K. Robinson - People's World</b><br/>평점: A<br/>에일리언: 로물루스는 이 시리즈가 가지고 있는 반기업적 주제를 이어가며,</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>공포와 회복력의 새로운 이야기를 창조하고 많은 공포 요소를 제공</b></span>한다.</p>" },
+    { type: 'body', html: "<p><b>Connor Lightbody - Movies We Texted About</b><br/>평점: 2/5<br/>이 영화는 <span style=&quot;background-color: #9feec3;&quot;><b>시리즈의 문화적 영향을 너무 의식한 나머지, 에일리언의 무덤에서 끌어올려 다시 묻어야 할 작품</b></span>처럼 느껴진다.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><b>Alex Bentley - CultureMap</b><br/>평점: 없음<br/>에일리언: 로물루스는 적절한 감독과 배우들이 함께 한다면 <span style=&quot;background-color: #9feec3;&quot;><b>이 시리즈가 계속될 수 있음</b></span>을 보여준다.</p>" },
+    { type: 'body', html: "<p><b>Peter Howell - Toronto Star (Top Critic)</b><br/>평점: 2.5/4<br/>많은 부분에서 기존의 에일리언 영화를 연상시키지만, <span style=&quot;background-color: #9feec3;&quot;><b>젊은 배우들이 주도하는 독립적인 이야기로 생각하면 가치 있는 추가작</b></span>이다.</p>" },
+    { type: 'image', src: "/images/post346_img7.jpg", alt: "에일리언 로물루스 평론가 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post346_img6.jpg", alt: "에일리언 로물루스 평론가 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post346_img5.jpg", alt: "에일리언 로물루스 평론가 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post346_img4.jpg", alt: "에일리언 로물루스 평론가 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post346_img3.jpg", alt: "에일리언 로물루스 IMDB 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post346_img1.jpg", alt: "에일리언 로물루스 평론가 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'ending', html: "<p><b>Richard Lawson - Vanity Fair (Top Critic)</b><br/>평점: 없음<br/><span style=&quot;background-color: #9feec3;&quot;><b>기본적인 기능을 성공적으로 수행하는 영화</b></span>다</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

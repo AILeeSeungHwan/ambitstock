@@ -21,8 +21,6 @@ const post = {
     { type: 'body', html: "<p>감사합니다.</p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b>더 플랫폼 2 해외 평론가 평점 반응</b></p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b>더 플랫폼 2 해외 평론가 결말 후기</b></p>" },
-    { type: 'image', src: "/images/post256_img3.jpg", alt: "더 플랫폼 2 결말 해석", caption: "ⓒ R의 필름공장" },
-    { type: 'image', src: "/images/post256_img2.jpg", alt: "더 플랫폼 2 줄거리 내용", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post256_img1.jpg", alt: "더 플랫폼 2 결말 해석", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/netflix-movie-reaction-rating-ending/", text: "넷플릭스 영화 더 플랫폼 2 보기전 뜻 의미, 로튼 반응과 전작 평점 결말 정보까지 | 볼지말지 알" },
     { type: 'cta', href: "/overseas-critic-rating-reaction-netflix-movie-ending/", text: "더 플랫폼 2 해외 평론가 평점 반응 넷플릭스 영화 후속작은 왜 항상 이런 결말인가" },

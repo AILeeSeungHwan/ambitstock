@@ -1,254 +1,70 @@
 const post = {
   id: 429,
   sections: [
-    {
-      type: 'intro',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>영화 \'인사이드 아웃 2\'이 2024년 6월 14일 개봉하였습니다. 라일리의 청소년기를 배경으로, 새로운 감정들이 추가되어 복잡한 감정 변화를 겪으며 성장하는 이야기를 다룹니다. 새로운 감정들인 불안(Anxiety), 당혹감(Embarrassment), 무기력(Ennui), 질투(Envy)가 등장하며 기존 감정들과의 갈등을 통해 라일리는 자신의 정체성을 찾아가는 과정을 그립니다.</b></span></p><p><span style=&quot;font-family: \'Noto Serif KR\'; background-color: transparent;&quot;><b>현재 상영작 \'인사이드 아웃 2\'의 제작비는 약 1억 7500만 달러에서 2억 달러로 추정되며, 손익분기점은 4억 달러 이상으로 예상됩니다. </b></span><span style=&quot;font-family: \'Noto Serif KR\'; background-color: transparent;&quot;><b>현재 국내 박스오피스 1위, <span style=&quot;color: inherit; background-color: #f3c000;&quot;>4일차에 100만, 닷새만에 200만명의 관객수</span>를 기록중이며, 네이버 실관람객 평점 9.22점이라는 좋은 평가를 받고 있습니다. 인기 영화인만큼 다양한 상영 일정에 편성되어 있고, 총 96분의 짧은 런닝타임으로 구성되어 있습니다. 특히 애니메이션 영화 특성상 어린아이들을 위한 인사이드 아웃2 더빙 예약또한 인기가 많은 것으로 보입니다.</b></span></p><blockquote style=&quot;background-color: #fcfcfc; text-align: left;&quot;> <h2 style=&quot;color: inherit;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>목 차<br/></b></span></h2> <ul style=&quot;list-style-type: circle;&quot;> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>영화 제목 인사이드 아웃 뜻</b></span></li> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>주요 등장인물 및 배우와 더빙 성우</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>제작 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>로튼 토마토 평론가 평점 및 리뷰</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>IMDB 평점 및 리뷰</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>IMDB 평점 통계</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>인사이드 아웃2 쿠키 및 굿즈 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>영화 인사이드 아웃 OTT 다시보기 보는곳</b></span></li> </ul> </blockquote>'
-    },
-    {
-      type: 'image',
-      src: '/images/post429_thumb.svg',
-      alt: '인사이드 아웃 2 뜻 의미, 해외 평점 반응 분석 - 쿠키 굿즈 새로운 감정 등 모든 정보 총정리 이동욱 출연 현재 상영작',
-      caption: '인사이드 아웃 2 뜻 의미, 해외 평점 반응 분석 - 쿠키 굿즈 새로운 감정 등 모든 정보 총정리 이동욱 출연 현재 상영작'
-    },
+    { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>영화 '인사이드 아웃 2'이 2024년 6월 14일 개봉하였습니다. 라일리의 청소년기를 배경으로, 새로운 감정들이 추가되어 복잡한 감정 변화를 겪으며 성장하는 이야기를 다룹니다. 새로운 감정들인 불안(Anxiety), 당혹감(Embarrassment), 무기력(Ennui), 질투(Envy)가 등장하며 기존 감정들과의 갈등을 통해 라일리는 자신의 정체성을 찾아가는 과정을 그립니다.</b></span></p><p><span style=&quot;font-family: 'Noto Serif KR'; background-color: transparent;&quot;><b>현재 상영작 '인사이드 아웃 2'의 제작비는 약 1억 7500만 달러에서 2억 달러로 추정되며, 손익분기점은 4억 달러 이상으로 예상됩니다. </b></span><span style=&quot;font-family: 'Noto Serif KR'; background-color: transparent;&quot;><b>현재 국내 박스오피스 1위, <span style=&quot;color: inherit; background-color: #f3c000;&quot;>4일차에 100만, 닷새만에 200만명의 관객수</span>를 기록중이며, 네이버 실관람객 평점 9.22점이라는 좋은 평가를 받고 있습니다. 인기 영화인만큼 다양한 상영 일정에 편성되어 있고, 총 96분의 짧은 런닝타임으로 구성되어 있습니다. 특히 애니메이션 영화 특성상 어린아이들을 위한 인사이드 아웃2 더빙 예약또한 인기가 많은 것으로 보입니다.</b></span></p><blockquote style=&quot;background-color: #fcfcfc; text-align: left;&quot;> <h2 style=&quot;color: inherit;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>목 차<br/></b></span></h2> <ul style=&quot;list-style-type: circle;&quot;> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>영화 제목 인사이드 아웃 뜻</b></span></li> <li><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>주요 등장인물 및 배우와 더빙 성우</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>제작 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>로튼 토마토 평론가 평점 및 리뷰</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>IMDB 평점 및 리뷰</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>IMDB 평점 통계</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>인사이드 아웃2 쿠키 및 굿즈 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>영화 인사이드 아웃 OTT 다시보기 보는곳</b></span></li> </ul> </blockquote>" },
+    { type: 'image', src: "/images/post429_thumb.svg", alt: "인사이드 아웃 2 뜻 의미, 해외 평점 반응 분석 - 쿠키 굿즈 새로운 감정 등 모든 정보 총정리 이동욱 출연 현재 상영작", caption: "인사이드 아웃 2 뜻 의미, 해외 평점 반응 분석 - 쿠키 굿즈 새로운 감정 등 모든 정보 총정리 이동욱 출연 현재 상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section1',
-      text: '영화 제목 인사이드 아웃 뜻',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>영화의 제목인 \'인사이드 아웃\' (Inside Out)의 뜻은 두 가지 의미를 가질 수 있습니다. </span></p>'
-    },
-    { type: 'image', src: '/images/post429_img1.jpg', alt: '인사이드 아웃2 포스터', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>첫 번째 영화의 제목으로서, 두 번째는 영어 표현으로서의 의미입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>1. 영화 제목으로서의 \'인사이드 아웃\'</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>의미</b> - </span><span style=&quot;font-family: \'Noto Serif KR\';&quot;>픽사 애니메이션 영화 \'인사이드 아웃\'은 <b><span style=&quot;background-color: #f3c000;&quot;>인간의 내면에서 일어나는 감정들을 의인화</span></b>하여, 주인공 라일리의 머릿속에서 벌어지는 이야기를 그린 작품입니다. 이 제목은 감정들이 라일리의 <span style=&quot;background-color: #f3c000;&quot;><b>내면(Inside)에서 외부(Out)로 어떻게 영향을 미치는지</b></span>를 보여주기 위해 선택되었습니다. 영화는 우리가 일상적으로 겪는 기쁨, 슬픔, 분노, 두려움, 역겨움 등의 감정들이 어떻게 우리 행동과 결정에 영향을 미치는지를 다룹니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>2. 영어 표현으로서의 \'Inside Out\'</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>의미 - </b>\'Inside Out\'은 <span style=&quot;background-color: #f3c000;&quot;><b>&quot;안팎으로&quot;</b></span> 또는 <span style=&quot;background-color: #f3c000;&quot;><b>&quot;완전히 뒤집어서&quot;</b></span>라는 뜻을 가지고 있습니다. 이는 무언가를 완전히 바꾸거나 철저히 이해하고자 할 때 사용되는 표현입니다. 예를 들어, &quot;I know this place inside out&quot;는 &quot;나는 이 장소를 완전히 잘 안다&quot;는 뜻입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>영화 \'인사이드 아웃\'의 제목은 <span style=&quot;color: #1a5490;&quot;><b>이 두 가지 의미를 모두 담고 있으며, 특히 우리의 내면에서 일어나는 감정들의 역할과 중요성을 강조</b></span>합니다</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2024년 해외영화 개봉예정작&quot;>2024년 하반기 해외 개봉예정영화 기대작 개봉일 공식 티저 예고편 총정리</a></p>'
-    },
-    {
-      type: 'cta',
-      href: '/overseas-movie-release-guide/',
-      text: '조커부터 글래디에이터 2 데드풀 3 까지, 2024년 하반기 해외 영화 기대작 개봉일 공식 티저 예고'
-    },
-    {
-      type: 'body',
-      html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2024년 한국영화 개봉예정작&quot;>2024년 하반기 한국영화 개봉예정작 라인업 총정리</a></p>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-release-upcoming-guide/',
-      text: '2024년 하반기 한국영화 개봉예정작 라인업 총정리'
-    },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '주요 등장인물 및 배우와 더빙 성우',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>기쁨이 (Joy)</b>: 에이미 포엘러 (Amy Poehler) 안소이</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>불안이 (Anxiety)</b>: 마야 호크 (Maya Hawke) 강시현</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>라일리 (Riley)</b>: 켄싱턴 톨맨 (Kensington Tallman) 안소명</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>까칠이 (Disgust)</b>: 리자 라피라 (Liza Lapira) 이지현</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>소심이 (Fear)</b>: 토니 헤일 (Tony Hale) 위훈</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>버럭이 (Anger)</b>: 루이스 블랙 (Lewis Black) 이종구</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>슬픔이 (Sadness)</b>: 필리스 스미스 (Phyllis Smith) 구민선</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>부럽이 (Envy)</b>: 아요 에데비리 (Ayo Edebiri) 김나율</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>당황이 (Embarrassment)</b>: 폴 월터 하우저 (Paul Walter Hauser) 박준원</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <b>따분이 (Ennui)</b>: 아델 엑사르코풀로스 (Adele Exarchopoulos) 이미나</span><span style=&quot;font-family: \'Noto Serif KR\';&quot;></span></li> </ul>'
-    },
-    { type: 'image', src: '/images/post429_img2.jpg', alt: '인사이드 아웃2 포스터', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>이동욱 배우가 <span style=&quot;background-color: transparent; color: #1e1e1e; text-align: start;&quot;>더빙 버전으로 특별출연합니다. 처음 목소리 연기에 도전한 이동욱은 비디오 게임 캐릭터 랜스 역( <span style=&quot;font-family: \'Noto Serif KR\'; background-color: transparent; color: #1e1e1e; text-align: start;&quot;>극 중 라일리가 어린 시절 좋아했던 캐릭터)</span> 을 맡았습니다.</span><br><br/></br></span></p>'
-    },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: '제작 정보',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>감독</b>: 켈시 만 (Kelsey Mann)</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>제작사</b>: 픽사 애니메이션 스튜디오 (Pixar Animation Studios)</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>개봉일</b>: 2024년 6월 14일</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>각본</b>: 메그 르포브 (Meg LeFauve), 데이브 홀스테인 (Dave Holstein)</span></li> </ul>'
-    },
-    { type: 'image', src: '/images/post429_img3.jpg', alt: '영화 인사이드 아웃2', caption: 'ⓒ R의 필름공장' },
+    { type: 'h2', id: "section1", text: "영화 제목 인사이드 아웃 뜻", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>영화의 제목인 '인사이드 아웃' (Inside Out)의 뜻은 두 가지 의미를 가질 수 있습니다. </span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>첫 번째 영화의 제목으로서, 두 번째는 영어 표현으로서의 의미입니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>1. 영화 제목으로서의 '인사이드 아웃'</b></span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>의미</b> - </span><span style=&quot;font-family: 'Noto Serif KR';&quot;>픽사 애니메이션 영화 '인사이드 아웃'은 <b><span style=&quot;background-color: #f3c000;&quot;>인간의 내면에서 일어나는 감정들을 의인화</span></b>하여, 주인공 라일리의 머릿속에서 벌어지는 이야기를 그린 작품입니다. 이 제목은 감정들이 라일리의 <span style=&quot;background-color: #f3c000;&quot;><b>내면(Inside)에서 외부(Out)로 어떻게 영향을 미치는지</b></span>를 보여주기 위해 선택되었습니다. 영화는 우리가 일상적으로 겪는 기쁨, 슬픔, 분노, 두려움, 역겨움 등의 감정들이 어떻게 우리 행동과 결정에 영향을 미치는지를 다룹니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>2. 영어 표현으로서의 'Inside Out'</b></span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>의미 - </b>'Inside Out'은 <span style=&quot;background-color: #f3c000;&quot;><b>&quot;안팎으로&quot;</b></span> 또는 <span style=&quot;background-color: #f3c000;&quot;><b>&quot;완전히 뒤집어서&quot;</b></span>라는 뜻을 가지고 있습니다. 이는 무언가를 완전히 바꾸거나 철저히 이해하고자 할 때 사용되는 표현입니다. 예를 들어, &quot;I know this place inside out&quot;는 &quot;나는 이 장소를 완전히 잘 안다&quot;는 뜻입니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>영화 '인사이드 아웃'의 제목은 <span style=&quot;color: #1a5490;&quot;><b>이 두 가지 의미를 모두 담고 있으며, 특히 우리의 내면에서 일어나는 감정들의 역할과 중요성을 강조</b></span>합니다</span></p>" },
+    { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2024년 해외영화 개봉예정작&quot;>2024년 하반기 해외 개봉예정영화 기대작 개봉일 공식 티저 예고편 총정리</a></p>" },
+    { type: 'cta', href: "/overseas-movie-release-guide/", text: "조커부터 글래디에이터 2 데드풀 3 까지, 2024년 하반기 해외 영화 기대작 개봉일 공식 티저 예고" },
+    { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2024년 한국영화 개봉예정작&quot;>2024년 하반기 한국영화 개봉예정작 라인업 총정리</a></p>" },
+    { type: 'cta', href: "/movie-release-upcoming-guide/", text: "2024년 하반기 한국영화 개봉예정작 라인업 총정리" },
+    { type: 'h2', id: "section2", text: "주요 등장인물 및 배우와 더빙 성우", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>기쁨이 (Joy)</b>: 에이미 포엘러 (Amy Poehler) 안소이</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>불안이 (Anxiety)</b>: 마야 호크 (Maya Hawke) 강시현</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>라일리 (Riley)</b>: 켄싱턴 톨맨 (Kensington Tallman) 안소명</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>까칠이 (Disgust)</b>: 리자 라피라 (Liza Lapira) 이지현</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>소심이 (Fear)</b>: 토니 헤일 (Tony Hale) 위훈</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>버럭이 (Anger)</b>: 루이스 블랙 (Lewis Black) 이종구</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>슬픔이 (Sadness)</b>: 필리스 스미스 (Phyllis Smith) 구민선</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>부럽이 (Envy)</b>: 아요 에데비리 (Ayo Edebiri) 김나율</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>당황이 (Embarrassment)</b>: 폴 월터 하우저 (Paul Walter Hauser) 박준원</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;> <b>따분이 (Ennui)</b>: 아델 엑사르코풀로스 (Adele Exarchopoulos) 이미나</span><span style=&quot;font-family: 'Noto Serif KR';&quot;></span></li> </ul>" },
+    { type: 'image', src: "/images/post429_img2.jpg", alt: "인사이드 아웃2 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>이동욱 배우가 <span style=&quot;background-color: transparent; color: #1e1e1e; text-align: start;&quot;>더빙 버전으로 특별출연합니다. 처음 목소리 연기에 도전한 이동욱은 비디오 게임 캐릭터 랜스 역( <span style=&quot;font-family: 'Noto Serif KR'; background-color: transparent; color: #1e1e1e; text-align: start;&quot;>극 중 라일리가 어린 시절 좋아했던 캐릭터)</span> 을 맡았습니다.</span><br><br/></br></span></p>" },
+    { type: 'h2', id: "section3", text: "제작 정보", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
+    { type: 'body', html: "<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독</b>: 켈시 만 (Kelsey Mann)</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>제작사</b>: 픽사 애니메이션 스튜디오 (Pixar Animation Studios)</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>개봉일</b>: 2024년 6월 14일</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>각본</b>: 메그 르포브 (Meg LeFauve), 데이브 홀스테인 (Dave Holstein)</span></li> </ul>" },
+    { type: 'image', src: "/images/post429_img3.jpg", alt: "영화 인사이드 아웃2", caption: "ⓒ R의 필름공장" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'h2',
-      id: 'section4',
-      text: '로튼 토마토 평론가 평점 및 리뷰',
-      gradientStyle: 'linear-gradient(to right, #e53935, #ef5350)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>인사이드 아웃2에 대한 해외 평론가 및 관람객 평점 및 리뷰를 살펴보겠습니다. 먼저 로튼 토마토 평점과 리뷰입니다.</span></p>'
-    },
-    { type: 'image', src: '/images/post429_img4.jpg', alt: '영화 인사이드 아웃2', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;> <b><span style=&quot;background-color: #f3c000;&quot;>평점: 91%</span></b> </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Reuben Baron, Looper.com</b> </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;기대치를 \'인크레더블 2\'나 \'몬스터 대학교\' 정도로 맞추면 된다.&quot; (2.5/4)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Owen Gleiberman, Variety</b> </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;청소년기의 복잡한 문제들을 다룬다.&quot; (3.5/5)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Tessa Smith, Mama’s Geeky</b> </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;모든 연령대에 공감할 수 있는 이야기.&quot; (4/5)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Nate Adams, The Only Critic</b> </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;불안이나 공황 발작을 경험한 모든 사람에게 매우 공감될 이야기.&quot; (4.5/5)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Cody Dericks, Next Best Picture</b> </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;애니메이션은 여전히 아름답다.&quot; (3/5)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>Jeff Nelson, Guy at the Movies</b> </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;픽사의 애니메이션은 항상 화려하고, \'인사이드 아웃 2\'도 예외가 아니다.&quot; (4/5)</span></p>'
-    },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: 'IMDB 평점 및 리뷰',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: start;&quot;>IMDB 평점과 리뷰입니다. </span></p>'
-    },
-    { type: 'image', src: '/images/post429_img5.jpg', alt: '영화 인사이드 아웃2', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><b><span style=&quot;font-family: \'Noto Serif KR\'; background-color: #f3c000;&quot;>평점: 7.7/10</span></b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>리뷰</b><b></b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;마야 호크의 불안 연기는 돋보인다.&quot; (8/10)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;감정의 복잡함을 잘 그린 감동적인 후속작.&quot; (8/10)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;새로운 감정들이 복잡성을 더하지만, 일부 줄거리는 반복적으로 느껴진다.&quot; (7/10)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;비주얼은 뛰어나지만, 전작의 독창성은 부족하다.&quot; (7/10)</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>&quot;라일리의 이야기를 훌륭하게 이어간다.&quot; (8/10)</span></p>'
-    },
-    {
-      type: 'h2',
-      id: 'section6',
-      text: 'IMDB 평점 통계',
-      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
-    },
-    {
-      type: 'body',
-      html: '<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>총 리뷰 개수</b>: 209개</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>긍정 리뷰</b>: 150개, 평균 평점: 8.0/10</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>부정 리뷰</b>: 30개, 평균 평점: 5.5/10</span></li> <li><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>중립 리뷰</b>: 29개, 평균 평점: 6.5/10</span></li> </ul>'
-    },
-    { type: 'image', src: '/images/post429_img6.jpg', alt: '영화 인사이드 아웃 2', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>영화 \'인사이드 아웃 2\'는 라일리의 복잡한 청소년기를 통해 다양한 감정들이 어떻게 그녀의 정체성을 형성하는지 보여줍니다. 새로운 감정들의 등장과 기존 감정들과의 갈등이 흥미롭게 그려질 예정입니다.</span></p>'
-    },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '인사이드 아웃2 쿠키 및 굿즈 정보',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>\'인사이드 아웃 2\'에는 두 개의 크레딧 씬이 있습니다. 하나는 미드 크레딧 씬으로, 간단한 재미를 제공합니다. </span></p>'
-    },
-    { type: 'image', src: '/images/post429_img7.jpg', alt: '영화 인사이드 아웃 2 굿즈', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>또 하나는 엔딩 크레딧 씬으로, 영화의 일부 플롯을 깔끔하게 정리해 줍니다​</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>영화 인사이드 아웃 2 굿즈</figcaption> </figure> <figure><figcaption>영화 인사이드 아웃 2 굿즈</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>현재 인사이드 아웃2 굿즈또한 다양하게 판매하고 있습니다. 아이와 함께 시청하실 부모님들께서는 각별한 주의(?)를 요합니다. 새로운 감정인 부럽이의 인기가 상당한 것으로 알려져 있습니다.</span></p>'
-    },
-    {
-      type: 'h2',
-      id: 'section8',
-      text: '영화 인사이드 아웃 OTT 다시보기 보는곳',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>영화 인사이드 아웃1 OTT 보는곳</figcaption> </figure> </p>'
-    },
-    { type: 'image', src: '/images/post429_img9.jpg', alt: '영화 인사이드 아웃1 OTT 보는곳', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post429_img8.jpg', alt: '영화 인사이드 아웃 2 굿즈', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>영화 인사이드 아웃1 OTT 다시보기 보는곳은 디즈니플러스, 웨이브와 네이버, 구글플레이에서 구매를 통해 시청하실 수 있습니다.</span></p>'
-    },
+    { type: 'h2', id: "section4", text: "로튼 토마토 평론가 평점 및 리뷰", gradientStyle: "linear-gradient(to right, #e53935, #ef5350)" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>인사이드 아웃2에 대한 해외 평론가 및 관람객 평점 및 리뷰를 살펴보겠습니다. 먼저 로튼 토마토 평점과 리뷰입니다.</span></p>" },
+    { type: 'image', src: "/images/post429_img4.jpg", alt: "영화 인사이드 아웃2", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;> <b><span style=&quot;background-color: #f3c000;&quot;>평점: 91%</span></b> </span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>Reuben Baron, Looper.com</b> </span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>&quot;기대치를 '인크레더블 2'나 '몬스터 대학교' 정도로 맞추면 된다.&quot; (2.5/4)</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>Owen Gleiberman, Variety</b> </span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>&quot;청소년기의 복잡한 문제들을 다룬다.&quot; (3.5/5)</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>Tessa Smith, Mama’s Geeky</b> </span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>&quot;모든 연령대에 공감할 수 있는 이야기.&quot; (4/5)</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>Nate Adams, The Only Critic</b> </span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>&quot;불안이나 공황 발작을 경험한 모든 사람에게 매우 공감될 이야기.&quot; (4.5/5)</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>Cody Dericks, Next Best Picture</b> </span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>&quot;애니메이션은 여전히 아름답다.&quot; (3/5)</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>Jeff Nelson, Guy at the Movies</b> </span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>&quot;픽사의 애니메이션은 항상 화려하고, '인사이드 아웃 2'도 예외가 아니다.&quot; (4/5)</span></p>" },
+    { type: 'h2', id: "section5", text: "IMDB 평점 및 리뷰", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR'; color: inherit; text-align: start;&quot;>IMDB 평점과 리뷰입니다. </span></p>" },
+    { type: 'image', src: "/images/post429_img5.jpg", alt: "영화 인사이드 아웃2", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><b><span style=&quot;font-family: 'Noto Serif KR'; background-color: #f3c000;&quot;>평점: 7.7/10</span></b></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>리뷰</b><b></b></span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>&quot;마야 호크의 불안 연기는 돋보인다.&quot; (8/10)</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>&quot;감정의 복잡함을 잘 그린 감동적인 후속작.&quot; (8/10)</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>&quot;새로운 감정들이 복잡성을 더하지만, 일부 줄거리는 반복적으로 느껴진다.&quot; (7/10)</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>&quot;비주얼은 뛰어나지만, 전작의 독창성은 부족하다.&quot; (7/10)</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>&quot;라일리의 이야기를 훌륭하게 이어간다.&quot; (8/10)</span></p>" },
+    { type: 'h2', id: "section6", text: "IMDB 평점 통계", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
+    { type: 'body', html: "<ul style=&quot;list-style-type: disc;&quot;> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>총 리뷰 개수</b>: 209개</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>긍정 리뷰</b>: 150개, 평균 평점: 8.0/10</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>부정 리뷰</b>: 30개, 평균 평점: 5.5/10</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>중립 리뷰</b>: 29개, 평균 평점: 6.5/10</span></li> </ul>" },
+    { type: 'image', src: "/images/post429_img6.jpg", alt: "영화 인사이드 아웃 2", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>영화 '인사이드 아웃 2'는 라일리의 복잡한 청소년기를 통해 다양한 감정들이 어떻게 그녀의 정체성을 형성하는지 보여줍니다. 새로운 감정들의 등장과 기존 감정들과의 갈등이 흥미롭게 그려질 예정입니다.</span></p>" },
+    { type: 'h2', id: "section7", text: "인사이드 아웃2 쿠키 및 굿즈 정보", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>'인사이드 아웃 2'에는 두 개의 크레딧 씬이 있습니다. 하나는 미드 크레딧 씬으로, 간단한 재미를 제공합니다. </span></p>" },
+    { type: 'image', src: "/images/post429_img7.jpg", alt: "영화 인사이드 아웃 2 굿즈", caption: "ⓒ R의 필름공장" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>또 하나는 엔딩 크레딧 씬으로, 영화의 일부 플롯을 깔끔하게 정리해 줍니다​</span></p>" },
+    { type: 'body', html: "<p><figure><figcaption>영화 인사이드 아웃 2 굿즈</figcaption> </figure> <figure><figcaption>영화 인사이드 아웃 2 굿즈</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>현재 인사이드 아웃2 굿즈또한 다양하게 판매하고 있습니다. 아이와 함께 시청하실 부모님들께서는 각별한 주의(?)를 요합니다. 새로운 감정인 부럽이의 인기가 상당한 것으로 알려져 있습니다.</span></p>" },
+    { type: 'h2', id: "section8", text: "영화 인사이드 아웃 OTT 다시보기 보는곳", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
+    { type: 'body', html: "<p><figure><figcaption>영화 인사이드 아웃1 OTT 보는곳</figcaption> </figure> </p>" },
+    { type: 'image', src: "/images/post429_img8.jpg", alt: "영화 인사이드 아웃 2 굿즈", caption: "ⓒ R의 필름공장" },
+    { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>영화 인사이드 아웃1 OTT 다시보기 보는곳은 디즈니플러스, 웨이브와 네이버, 구글플레이에서 구매를 통해 시청하실 수 있습니다.</span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

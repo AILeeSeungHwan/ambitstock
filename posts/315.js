@@ -1,228 +1,64 @@
 const post = {
   id: 315,
   sections: [
-    {
-      type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 레블리지 후기 결말 리뷰 로튼토마토 평론가 반응입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>레블리지의 뜻과 의미, 평점이 궁금하신 분은 이전 포스팅을 참고하시길 바랍니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>최근 공개된 넷플릭스 영화 중 최고의 작품으로 평가 받는 레블리지, 후기 살펴보도록 하겠습니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post315_thumb.svg',
-      alt: '넷플릭스 영화 레블리지 후기 결말 리뷰 로튼 평론가 반응 현재상영작',
-      caption: '넷플릭스 영화 레블리지 후기 결말 리뷰 로튼 평론가 반응 현재상영작'
-    },
+    { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 레블리지 후기 결말 리뷰 로튼토마토 평론가 반응입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>레블리지의 뜻과 의미, 평점이 궁금하신 분은 이전 포스팅을 참고하시길 바랍니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>최근 공개된 넷플릭스 영화 중 최고의 작품으로 평가 받는 레블리지, 후기 살펴보도록 하겠습니다.</p>" },
+    { type: 'image', src: "/images/post315_thumb.svg", alt: "넷플릭스 영화 레블리지 후기 결말 리뷰 로튼 평론가 반응 현재상영작", caption: "넷플릭스 영화 레블리지 후기 결말 리뷰 로튼 평론가 반응 현재상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>넷플릭스 영화 레블리지의 로튼토마토 평론가 결말 후기리뷰를 알아보도록 하겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;>각<b><span style=&quot;background-color: #9feec3;&quot;> 평</span>론가의 이름과 소속, 평점, 내용은 최대한 의역하여 자연스럽게 요약하여 전달</b></span>드립니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>David Lynch (KENS 5 TV, San Antonio) - 평점 없음.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화는 시작부터 강렬한 연출을 보여줬으며, 오프닝에서 Iron Maiden의 &quot;The Number of the Beast&quot;가 울려 퍼지며 기대에 완벽히 부응한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Alan French (Sunshine State Cineplex) - 평점: 8/10.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>베트남 전쟁 이후의 고전적인 느낌을 주며, 감독 제레미 솔니어는 Aaron Pierre를 새로운 스타로 만든다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Preston Barta (Fresh Fiction) - 평점 없음.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>제레미 솔니어는 현재 가장 예술적으로 뛰어난 감독이며, Aaron Pierre는 강력한 존재감을 보인다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><b><span style=&quot;background-color: #f3c000;&quot;>Jonathon Wilson (Ready Steady Cut) - 평점: 4/5.</span></b></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;퍼스트 블러드&quot; 이후 많은 액션 영화들이 이 형식을 따랐지만, 레블리지는 이를 단순히 모방하는 것이 아닌, 현대적으로 업데이트하여 차별화시켰다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Casey Chong (Casey\'s Movie Mania) - 평점: 3/5.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>Aaron Pierre는 이 긴장감 넘치는 액션 스릴러에서 인상적인 연기를 선보였으나, 영화는 다소 무거운 전개로 느껴진다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Elliott Collins (Movie Files) - 평점: 3.5/5.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>제레미 솔니어 감독은 서부 영화와 &quot;리처&quot;, &quot;퍼스트 블러드&quot; 스타일을 혼합해 매우 긴장감 넘치는 첫 번째 막을 선보였음. Aaron Pierre는 최고의 배우 중 한 명임을 증명함.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Hope Madden (Fox 28 Columbus) - 평점: 4/5.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>제레미 솔니어 감독은 익숙한 요소들을 독창적이고 매력적으로 엮어냄.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그 결과 매우 흥미로운 영화가 탄생하였다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Adam Kempenaar (Filmspotting) - 평점: 3.5/5.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>레블리지는 폭발적인 긴장감을 유지하며, 압력 밥솥처럼 점점 고조되는 스릴을 선사한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Tim Robey (Daily Telegraph, UK) - 평점: 4/5.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화는 폭력적인 장면을 억제하고, 적은 몸싸움 장면으로도 긴장감을 극대화한다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>John Serba (Decider) - 평점 없음.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>제레미 솔니어 감독은 자신의 영화에 대한 철저한 통제력을 보여주며, 허술한 요소가 전혀 없는 탄탄한 작품을 만들었다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Alistair Harkness (Scotsman) - 평점: 5/5.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화는 매우 영리하고 세련된 연출을 선보였으며, 강렬하고 매력적인 작품으로 마무리된다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Adam Graham (Detroit News) - 평점: B.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>70년대 장르 영화의 느낌을 살린, 긴장감 넘치고 완성도 높은 액션 스릴러</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Hilary A White (Sunday Independent, Ireland) - 평점: 4/5.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>적당히 폭력적이고, 매우 지적이고 교묘한 전개를 보여주었으며, 제레미 솔니어의 필모그래피에 훌륭한 작품이 또 하나 추가되었다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Chuck Bowen (Style Weekly, Richmond, VA) - 평점 없음.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>날카롭고 강렬한 액션을 원했으나, 반복적인 전개로 지루하게 느껴짐</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Lyvie Scott (Inverse) - 평점 없음.</b></span></i></p>'
-    },
-    {
-      type: 'body',
-      html: '<p>권력 남용에 대해 흥미로운 질문을 던졌지만, 그 질문에 답하는 과정에서 흔들린다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>최근 공개된 넷플릭스 영화들에 대한 후기 및 평가 포스팅입니다.</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>각 후기 결말을 확인해보시고 볼만한 영화인지 판단해보시길 바랍니다.</b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-title&quot;>넷플릭스 인기 순위 터미네이터 제로 일본 후기 결말 | 테미네이터 1 2 이후 최고의 작품</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-desc&quot;>넷플릭스 오리지널 애니메이션 터미네이터 제로의 후기 결말과 인기순위를 알아보겠습니다.이전 포스팅에서 터미네이터 제목의 뜻과 의의, 터미네이터 제로 줄거리와 평점을 알아보았습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-host&quot;>ambitstock.com</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-title&quot;>넷플릭스 영화 더 유니온 말 그대로 로튼 토마토! 제목 뜻 해외 평점 후기 반응</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-desc&quot;>넷플릭스 시청가능 영화 더 유니온 해외 평점 후기 반응입니다.이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 더 유니온 로튼토마토, IMDB평점 알아보겠습니다. 시작하기에 앞서 이 영화</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-host&quot;>ambitstock.com</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-title&quot;>요즘 넷플릭스 영화 왜이래 | 딜리버런스 뜻 의미 해외 평점과 후기 반응 (공포)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-desc&quot;>넷플릭스 시청가능 영화 딜리버런스 제목 뜻 의미와 해외 평점 후기반응 알아보겠습니다. 최근 공개된 넷플릭스 영화들의 퀄리티에 실망감을 가진 분들이 많으실겁니다. ( 재밌었던 작품이 무</p>'
-    },
-    {
-      type: 'body',
-      html: '<p class=&quot;og-host&quot;>ambitstock.com</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이상으로 레블리지 영화 결말 후기 리뷰 마칩니다.</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post315_img5.jpg', alt: '넷플릭스 영화 레블리지 후기 결말리뷰', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post315_img4.jpg', alt: '넷플릭스 영화 레블리지 후기 결말리뷰', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post315_img3.jpg', alt: '넷플릭스 영화 레블리지 후기 결말리뷰', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post315_img2.jpg', alt: '넷플릭스 영화 레블리지 후기 결말리뷰', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post315_img1.jpg', alt: '넷플릭스 영화 레블리지 후기 결말리뷰', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p>감사합니다.</p>'
-    },
+    { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>넷플릭스 영화 레블리지의 로튼토마토 평론가 결말 후기리뷰를 알아보도록 하겠습니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;>각<b><span style=&quot;background-color: #9feec3;&quot;> 평</span>론가의 이름과 소속, 평점, 내용은 최대한 의역하여 자연스럽게 요약하여 전달</b></span>드립니다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>David Lynch (KENS 5 TV, San Antonio) - 평점 없음.</b></span></i></p>" },
+    { type: 'body', html: "<p>영화는 시작부터 강렬한 연출을 보여줬으며, 오프닝에서 Iron Maiden의 &quot;The Number of the Beast&quot;가 울려 퍼지며 기대에 완벽히 부응한다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Alan French (Sunshine State Cineplex) - 평점: 8/10.</b></span></i></p>" },
+    { type: 'body', html: "<p>베트남 전쟁 이후의 고전적인 느낌을 주며, 감독 제레미 솔니어는 Aaron Pierre를 새로운 스타로 만든다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Preston Barta (Fresh Fiction) - 평점 없음.</b></span></i></p>" },
+    { type: 'body', html: "<p>제레미 솔니어는 현재 가장 예술적으로 뛰어난 감독이며, Aaron Pierre는 강력한 존재감을 보인다.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><i><b><span style=&quot;background-color: #f3c000;&quot;>Jonathon Wilson (Ready Steady Cut) - 평점: 4/5.</span></b></i></p>" },
+    { type: 'body', html: "<p>&quot;퍼스트 블러드&quot; 이후 많은 액션 영화들이 이 형식을 따랐지만, 레블리지는 이를 단순히 모방하는 것이 아닌, 현대적으로 업데이트하여 차별화시켰다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Casey Chong (Casey's Movie Mania) - 평점: 3/5.</b></span></i></p>" },
+    { type: 'body', html: "<p>Aaron Pierre는 이 긴장감 넘치는 액션 스릴러에서 인상적인 연기를 선보였으나, 영화는 다소 무거운 전개로 느껴진다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Elliott Collins (Movie Files) - 평점: 3.5/5.</b></span></i></p>" },
+    { type: 'body', html: "<p>제레미 솔니어 감독은 서부 영화와 &quot;리처&quot;, &quot;퍼스트 블러드&quot; 스타일을 혼합해 매우 긴장감 넘치는 첫 번째 막을 선보였음. Aaron Pierre는 최고의 배우 중 한 명임을 증명함.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Hope Madden (Fox 28 Columbus) - 평점: 4/5.</b></span></i></p>" },
+    { type: 'body', html: "<p>제레미 솔니어 감독은 익숙한 요소들을 독창적이고 매력적으로 엮어냄.</p>" },
+    { type: 'body', html: "<p>그 결과 매우 흥미로운 영화가 탄생하였다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Adam Kempenaar (Filmspotting) - 평점: 3.5/5.</b></span></i></p>" },
+    { type: 'body', html: "<p>레블리지는 폭발적인 긴장감을 유지하며, 압력 밥솥처럼 점점 고조되는 스릴을 선사한다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Tim Robey (Daily Telegraph, UK) - 평점: 4/5.</b></span></i></p>" },
+    { type: 'body', html: "<p>영화는 폭력적인 장면을 억제하고, 적은 몸싸움 장면으로도 긴장감을 극대화한다.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>John Serba (Decider) - 평점 없음.</b></span></i></p>" },
+    { type: 'body', html: "<p>제레미 솔니어 감독은 자신의 영화에 대한 철저한 통제력을 보여주며, 허술한 요소가 전혀 없는 탄탄한 작품을 만들었다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Alistair Harkness (Scotsman) - 평점: 5/5.</b></span></i></p>" },
+    { type: 'body', html: "<p>영화는 매우 영리하고 세련된 연출을 선보였으며, 강렬하고 매력적인 작품으로 마무리된다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Adam Graham (Detroit News) - 평점: B.</b></span></i></p>" },
+    { type: 'body', html: "<p>70년대 장르 영화의 느낌을 살린, 긴장감 넘치고 완성도 높은 액션 스릴러</p>" },
+    { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Hilary A White (Sunday Independent, Ireland) - 평점: 4/5.</b></span></i></p>" },
+    { type: 'body', html: "<p>적당히 폭력적이고, 매우 지적이고 교묘한 전개를 보여주었으며, 제레미 솔니어의 필모그래피에 훌륭한 작품이 또 하나 추가되었다.</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Chuck Bowen (Style Weekly, Richmond, VA) - 평점 없음.</b></span></i></p>" },
+    { type: 'body', html: "<p>날카롭고 강렬한 액션을 원했으나, 반복적인 전개로 지루하게 느껴짐</p>" },
+    { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;><b>Lyvie Scott (Inverse) - 평점 없음.</b></span></i></p>" },
+    { type: 'body', html: "<p>권력 남용에 대해 흥미로운 질문을 던졌지만, 그 질문에 답하는 과정에서 흔들린다.</p>" },
+    { type: 'body', html: "<p><b>최근 공개된 넷플릭스 영화들에 대한 후기 및 평가 포스팅입니다.</b></p>" },
+    { type: 'body', html: "<p><b>각 후기 결말을 확인해보시고 볼만한 영화인지 판단해보시길 바랍니다.</b></p>" },
+    { type: 'body', html: "<p class=&quot;og-title&quot;>넷플릭스 인기 순위 터미네이터 제로 일본 후기 결말 | 테미네이터 1 2 이후 최고의 작품</p>" },
+    { type: 'body', html: "<p class=&quot;og-desc&quot;>넷플릭스 오리지널 애니메이션 터미네이터 제로의 후기 결말과 인기순위를 알아보겠습니다.이전 포스팅에서 터미네이터 제목의 뜻과 의의, 터미네이터 제로 줄거리와 평점을 알아보았습니다.</p>" },
+    { type: 'body', html: "<p class=&quot;og-host&quot;>ambitstock.com</p>" },
+    { type: 'body', html: "<p class=&quot;og-title&quot;>넷플릭스 영화 더 유니온 말 그대로 로튼 토마토! 제목 뜻 해외 평점 후기 반응</p>" },
+    { type: 'body', html: "<p class=&quot;og-desc&quot;>넷플릭스 시청가능 영화 더 유니온 해외 평점 후기 반응입니다.이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 더 유니온 로튼토마토, IMDB평점 알아보겠습니다. 시작하기에 앞서 이 영화</p>" },
+    { type: 'body', html: "<p class=&quot;og-host&quot;>ambitstock.com</p>" },
+    { type: 'body', html: "<p class=&quot;og-title&quot;>요즘 넷플릭스 영화 왜이래 | 딜리버런스 뜻 의미 해외 평점과 후기 반응 (공포)</p>" },
+    { type: 'body', html: "<p class=&quot;og-desc&quot;>넷플릭스 시청가능 영화 딜리버런스 제목 뜻 의미와 해외 평점 후기반응 알아보겠습니다. 최근 공개된 넷플릭스 영화들의 퀄리티에 실망감을 가진 분들이 많으실겁니다. ( 재밌었던 작품이 무</p>" },
+    { type: 'body', html: "<p class=&quot;og-host&quot;>ambitstock.com</p>" },
+    { type: 'body', html: "<p>이상으로 레블리지 영화 결말 후기 리뷰 마칩니다.</p>" },
+    { type: 'image', src: "/images/post315_img4.jpg", alt: "넷플릭스 영화 레블리지 후기 결말리뷰", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post315_img3.jpg", alt: "넷플릭스 영화 레블리지 후기 결말리뷰", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post315_img1.jpg", alt: "넷플릭스 영화 레블리지 후기 결말리뷰", caption: "ⓒ R의 필름공장" },
+    { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

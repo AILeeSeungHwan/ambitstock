@@ -20,8 +20,6 @@ const post = {
     { type: 'body', html: "<p>이상 영화 이매지너리 해외 평점 반응과 제목 뜻 의미 포스팅 마칩니다.</p>" },
     { type: 'body', html: "<p>늘봄가든부터 이매지너리까지 올해 개봉하는 공포영화 중 성공작은 없는 것 같습니다. ( 그나마 콰이어트 플레이스 정도..? )</p>" },
     { type: 'body', html: "<p>다음 포스팅에서 이매지너리 평론가 후기를 다루도록하겠습니다.</p>" },
-    { type: 'image', src: "/images/post326_img3.jpg", alt: "영화 이매지너리", caption: "ⓒ R의 필름공장" },
-    { type: 'image', src: "/images/post326_img2.jpg", alt: "영화 이매지너리", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post326_img1.jpg", alt: "영화 이매지너리 평점", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/movie-overseas-critic-rating-reaction-review/", text: "영화 콰이어트 플레이스 3 : 첫째 날 해외 평론가 평점 반응 결말 후기" },
     { type: 'ending', html: "<p>감사합니다.</p>" },

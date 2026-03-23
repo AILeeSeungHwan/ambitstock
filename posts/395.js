@@ -1,301 +1,92 @@
 const post = {
   id: 395,
   sections: [
-    {
-      type: 'intro',
-      html: '<p>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</p><p>2024년 7월 2주차 신작, 넷플릭스 영화 추천, 인기 순위 1위 비버리 힐스 캅: 엑셀 F ( 4번째 시리즈 ) 입니다.</p><p>로튼 토마토 평점 및 IMDB 평점, 비버리 힐스 캅: 엑셀 F에 대한 <b><span style=&quot;background-color: #f3c000;&quot;>해외 후기를 종합적으로 살핀 객관적인 정보</span></b>를 바탕으로</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post395_thumb.svg',
-      alt: '비버리 힐스 캅: 엑셀 F 4 볼만 한지 딱 정해줌 - 넷플릭스 영화 추천 인기 순위 1위 | 평점 결말 후기 해외 반응 차기작',
-      caption: '비버리 힐스 캅: 엑셀 F 4 볼만 한지 딱 정해줌 - 넷플릭스 영화 추천 인기 순위 1위 | 평점 결말 후기 해외 반응 차기작'
-    },
+    { type: 'intro', html: "<p>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</p><p>2024년 7월 2주차 신작, 넷플릭스 영화 추천, 인기 순위 1위 비버리 힐스 캅: 엑셀 F ( 4번째 시리즈 ) 입니다.</p><p>로튼 토마토 평점 및 IMDB 평점, 비버리 힐스 캅: 엑셀 F에 대한 <b><span style=&quot;background-color: #f3c000;&quot;>해외 후기를 종합적으로 살핀 객관적인 정보</span></b>를 바탕으로</p>" },
+    { type: 'image', src: "/images/post395_thumb.svg", alt: "비버리 힐스 캅: 엑셀 F 4 볼만 한지 딱 정해줌 - 넷플릭스 영화 추천 인기 순위 1위 | 평점 결말 후기 해외 반응 차기작", caption: "비버리 힐스 캅: 엑셀 F 4 볼만 한지 딱 정해줌 - 넷플릭스 영화 추천 인기 순위 1위 | 평점 결말 후기 해외 반응 차기작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p>비버리 힐즈 캅: 엑셀 F 볼지 말지, 볼만한 영화인지 딱 정해드리겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>후기 다 읽기 귀찮다? </b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b><span style=&quot;color: #781b33;&quot;>포스팅의 마지막으로</span></b><span style=&quot;color: #781b33;&quot;><b> 넘어가</b></span><span style=&quot;color: #781b33;&quot;><b> 영화 총평 꼭 살펴보시길 바랍니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>비버리 힐스 캅: 엑셀 F 평점 및 결말 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>비버리 힐스 엑셀 에프 해외 평점</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>로튼토마토 비버리 힐스 캅: 엑셀 F 평론가 평점과 관람객 평점입니다. </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;color: #781b33;&quot;><b>평론가 평점 65%, 관람객 평점 80%로 저조한 성적</b></span>을 기록하고 있습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평균적으로 <span style=&quot;background-color: #f3c000;&quot;><b>로튼 토마토 평론가 평점 80% 이상일 때, 한번 쯤 볼만한 영화 퀄리티</b></span>였음을 감안하면 굉장히 낮은 점수입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>비버리 힐스 엑셀 에프 해외 평점</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>IMDB 비버리 힐스 캅: 엑셀 F 평점 및 인기순위 입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>현재 IMDB에서 애니, 드라마, 영화 포함 <span style=&quot;background-color: #f3c000;&quot;><b>인기순위 1위인 비버리 힐스 캅:엑셀 4</b></span> 입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>하지만 <span style=&quot;color: #781b33;&quot;><b>평점은 10점만점에 6.6점으로 로튼 토마토와 같은 저조한 성적</b></span>을 거두고 있습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그렇다면 실제 비버리 힐스 캅: 엑셀4 후기 해외 반응은 어떠한지, 평론가 리뷰 살펴보겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>1984년 원작의 매력을 그대로 재현했을 뿐만 아니라, 재미 면에서는 오히려 원작을 능가하는 수준입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: 3.5/5</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>머피의 반응 속도와 재치 있는 대사는 여전히 건재합니다. 그의 연기를 보는 것은 마치 클래식 자동차의 엔진이 다시 살아나는 것을 보는 것과 같은 즐거움을 줍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: 4/5</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>머피의 카리스마 하나만으로도 영화를 끌고 가긴 하지만, 전반적으로 게으르고 진부한 내용으로 그의 초기 작품들이 가졌던 대담함과 위험성을 희석시키고 말았습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: 2/5</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평범한 스토리라인과 과도한 향수 마케팅에도 불구하고, 머피의 변함없는 매력이 이를 상쇄합니다. 오래된 친구들을 다시 만나고 원작의 팬심을 되살리고 싶어하는 관객들에게는 충분히 즐거운 경험이 될 것입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: - (평점 없음)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>전체적으로 영화의 내용은 비어 있지만, 머피의 눈빛에서 다시 한 번 반짝임을 발견할 수 있었고, 악셀의 가장 큰 매력인 허세 조롱도 다시 돌아왔습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: - (평점 없음)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>일부 장면들은 그럭저럭 볼만한 액션을 보여주지만, 80년대의 유산을 너무 강조하거나 옛 인물들을 무리하게 등장시키면서 영화의 전체적인 흐름을 망치고 있습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: 2/5</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>에디 머피의 코믹 타이밍은 이 작품을 이전 영화의 회상으로 만들어줍니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: 없음</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>팬들은 이 새로운 \'라이드 얼롱\'을 즐길지도 모르지만, 이 작품은 거의 새로운 영토를 개척하지 않으며 원작의 예리한 에너지를 가끔만 담아냅니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: 없음</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>\'액셀 F\' 시리즈의 네 번째 작품은 현대의 액션 영화보다는 90년대의 저속한 경찰 영화와 닮아 있습니다. [스페인어 전문 리뷰]</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: 없음</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이 작품의 아이디어는 몇 십 년 전에 시리즈를 성공으로 이끈 관객들의 향수를 자극하는 것 같습니다. [스페인어 전문 리뷰]</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: 3/4</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화 제작은 약간 서툴 수 있고, 길이가 다소 길 수 있지만, 에디 머피가 액셀 폴리와 그의 파괴적인 의욕으로 돌아오는 모습을 보는 것은 여전히 환상적입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: 3.5/5</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>에디 머피는 이 작품에서 몇 년간의 최고의 모습을 보여주며, 원작의 즐거움을 다시 느낄 수 있는 속편입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점: 3/5</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>대부분의 리뷰어들이 머피의 변함없는 <b><span style=&quot;background-color: #f3c000;&quot;>매력과 카리스마</span></b>를 높이 평가했습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>그의 연기력이 영화의 주요 장점으로 꼽혔습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>일부 리뷰어들은 영화가</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>80년대 향수에 너무 의존</b></span>한다고 지적했습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>이는 양날의 검으로 작용하여,</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>팬들에게는 즐거움을 주지만</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>새로운 관객들에게는 식상할 수 있다는 의견이 있었습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>대체로 스토리는 평범하거나</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>약하다는 평가를 받았습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>일부 리뷰어들은 내용이 비어있다고 평 </b></span>했습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>일부 리뷰어들은 이 속편이</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>원작의 매력을 잘 살렸다고 평가</span></b>한 반면,</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;>다른 이들은 <b><span style=&quot;color: #781b33;&quot;>원작의 대담함과 신선함이 </span></b></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><b><span style=&quot;color: #781b33;&quot;>부족하다고 지적</span></b>했습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>평점은 2/5에서 4/5까지 다양하게 분포되어 있어, 의견이 갈리는 작품임을 알 수 있습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>이러한 종합적인 평가를 보았을 때, 넷플릭스 영화 인기 순위 1위 비버리 힐스 캅: 엑셀 F!</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post395_img18.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img17.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img16.jpg', alt: '비버리 힐스 캅: 엑셀 F 4 볼만 한지 딱 정해줌 - 넷플릭스 영화 추천 인기 순위 1위 | 평점 결말 후기 해외 반응 차기작', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img15.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img14.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img13.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img12.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img11.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img10.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img9.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img8.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img7.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img6.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img5.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img4.jpg', alt: '넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img3.jpg', alt: '비버리 힐스 엑셀 에프 해외 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img2.jpg', alt: '비버리 힐스 엑셀 에프 해외 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post395_img1.jpg', alt: '비버리 힐스 캅: 엑셀 F 평점 및 결말 후기', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p>볼지 말지 고민하는 당신을 위한, 비버리 힐스 캅: 엑셀 F 포스팅 결말 총평 입니다.</p>'
-    },
+    { type: 'body', html: "<p>비버리 힐즈 캅: 엑셀 F 볼지 말지, 볼만한 영화인지 딱 정해드리겠습니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>후기 다 읽기 귀찮다? </b></span></p>" },
+    { type: 'body', html: "<p><b><span style=&quot;color: #781b33;&quot;>포스팅의 마지막으로</span></b><span style=&quot;color: #781b33;&quot;><b> 넘어가</b></span><span style=&quot;color: #781b33;&quot;><b> 영화 총평 꼭 살펴보시길 바랍니다.</b></span></p>" },
+    { type: 'body', html: "<p><figure><figcaption>비버리 힐스 캅: 엑셀 F 평점 및 결말 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>비버리 힐스 엑셀 에프 해외 평점</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>로튼토마토 비버리 힐스 캅: 엑셀 F 평론가 평점과 관람객 평점입니다. </p>" },
+    { type: 'body', html: "<p><span style=&quot;color: #781b33;&quot;><b>평론가 평점 65%, 관람객 평점 80%로 저조한 성적</b></span>을 기록하고 있습니다.</p>" },
+    { type: 'body', html: "<p>평균적으로 <span style=&quot;background-color: #f3c000;&quot;><b>로튼 토마토 평론가 평점 80% 이상일 때, 한번 쯤 볼만한 영화 퀄리티</b></span>였음을 감안하면 굉장히 낮은 점수입니다.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>비버리 힐스 엑셀 에프 해외 평점</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>IMDB 비버리 힐스 캅: 엑셀 F 평점 및 인기순위 입니다.</p>" },
+    { type: 'body', html: "<p>현재 IMDB에서 애니, 드라마, 영화 포함 <span style=&quot;background-color: #f3c000;&quot;><b>인기순위 1위인 비버리 힐스 캅:엑셀 4</b></span> 입니다.</p>" },
+    { type: 'body', html: "<p>하지만 <span style=&quot;color: #781b33;&quot;><b>평점은 10점만점에 6.6점으로 로튼 토마토와 같은 저조한 성적</b></span>을 거두고 있습니다.</p>" },
+    { type: 'body', html: "<p>그렇다면 실제 비버리 힐스 캅: 엑셀4 후기 해외 반응은 어떠한지, 평론가 리뷰 살펴보겠습니다.</p>" },
+    { type: 'body', html: "<p>1984년 원작의 매력을 그대로 재현했을 뿐만 아니라, 재미 면에서는 오히려 원작을 능가하는 수준입니다.</p>" },
+    { type: 'body', html: "<p>평점: 3.5/5</p>" },
+    { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>머피의 반응 속도와 재치 있는 대사는 여전히 건재합니다. 그의 연기를 보는 것은 마치 클래식 자동차의 엔진이 다시 살아나는 것을 보는 것과 같은 즐거움을 줍니다.</p>" },
+    { type: 'body', html: "<p>평점: 4/5</p>" },
+    { type: 'body', html: "<p>머피의 카리스마 하나만으로도 영화를 끌고 가긴 하지만, 전반적으로 게으르고 진부한 내용으로 그의 초기 작품들이 가졌던 대담함과 위험성을 희석시키고 말았습니다.</p>" },
+    { type: 'body', html: "<p>평점: 2/5</p>" },
+    { type: 'body', html: "<p>평범한 스토리라인과 과도한 향수 마케팅에도 불구하고, 머피의 변함없는 매력이 이를 상쇄합니다. 오래된 친구들을 다시 만나고 원작의 팬심을 되살리고 싶어하는 관객들에게는 충분히 즐거운 경험이 될 것입니다.</p>" },
+    { type: 'body', html: "<p>평점: - (평점 없음)</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>전체적으로 영화의 내용은 비어 있지만, 머피의 눈빛에서 다시 한 번 반짝임을 발견할 수 있었고, 악셀의 가장 큰 매력인 허세 조롱도 다시 돌아왔습니다.</p>" },
+    { type: 'body', html: "<p>평점: - (평점 없음)</p>" },
+    { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>일부 장면들은 그럭저럭 볼만한 액션을 보여주지만, 80년대의 유산을 너무 강조하거나 옛 인물들을 무리하게 등장시키면서 영화의 전체적인 흐름을 망치고 있습니다.</p>" },
+    { type: 'body', html: "<p>평점: 2/5</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>에디 머피의 코믹 타이밍은 이 작품을 이전 영화의 회상으로 만들어줍니다.</p>" },
+    { type: 'body', html: "<p>평점: 없음</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>팬들은 이 새로운 '라이드 얼롱'을 즐길지도 모르지만, 이 작품은 거의 새로운 영토를 개척하지 않으며 원작의 예리한 에너지를 가끔만 담아냅니다.</p>" },
+    { type: 'body', html: "<p>평점: 없음</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>'액셀 F' 시리즈의 네 번째 작품은 현대의 액션 영화보다는 90년대의 저속한 경찰 영화와 닮아 있습니다. [스페인어 전문 리뷰]</p>" },
+    { type: 'body', html: "<p>평점: 없음</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>이 작품의 아이디어는 몇 십 년 전에 시리즈를 성공으로 이끈 관객들의 향수를 자극하는 것 같습니다. [스페인어 전문 리뷰]</p>" },
+    { type: 'body', html: "<p>평점: 3/4</p>" },
+    { type: 'body', html: "<p>영화 제작은 약간 서툴 수 있고, 길이가 다소 길 수 있지만, 에디 머피가 액셀 폴리와 그의 파괴적인 의욕으로 돌아오는 모습을 보는 것은 여전히 환상적입니다.</p>" },
+    { type: 'body', html: "<p>평점: 3.5/5</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p>에디 머피는 이 작품에서 몇 년간의 최고의 모습을 보여주며, 원작의 즐거움을 다시 느낄 수 있는 속편입니다.</p>" },
+    { type: 'body', html: "<p>평점: 3/5</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>대부분의 리뷰어들이 머피의 변함없는 <b><span style=&quot;background-color: #f3c000;&quot;>매력과 카리스마</span></b>를 높이 평가했습니다.</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>그의 연기력이 영화의 주요 장점으로 꼽혔습니다.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>일부 리뷰어들은 영화가</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>80년대 향수에 너무 의존</b></span>한다고 지적했습니다.</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>이는 양날의 검으로 작용하여,</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>팬들에게는 즐거움을 주지만</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>새로운 관객들에게는 식상할 수 있다는 의견이 있었습니다.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>대체로 스토리는 평범하거나</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>약하다는 평가를 받았습니다.</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>일부 리뷰어들은 내용이 비어있다고 평 </b></span>했습니다.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>일부 리뷰어들은 이 속편이</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>원작의 매력을 잘 살렸다고 평가</span></b>한 반면,</p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;>다른 이들은 <b><span style=&quot;color: #781b33;&quot;>원작의 대담함과 신선함이 </span></b></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b><span style=&quot;color: #781b33;&quot;>부족하다고 지적</span></b>했습니다.</p>" },
+    { type: 'body', html: "<p>평점은 2/5에서 4/5까지 다양하게 분포되어 있어, 의견이 갈리는 작품임을 알 수 있습니다.</p>" },
+    { type: 'body', html: "<p>이러한 종합적인 평가를 보았을 때, 넷플릭스 영화 인기 순위 1위 비버리 힐스 캅: 엑셀 F!</p>" },
+    { type: 'image', src: "/images/post395_img17.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img16.jpg", alt: "비버리 힐스 캅: 엑셀 F 4 볼만 한지 딱 정해줌 - 넷플릭스 영화 추천 인기 순위 1위 | 평점 결말 후기 해외 반응 차기작", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img15.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img14.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img13.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img12.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img11.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img10.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img9.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img8.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img7.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img6.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img5.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img4.jpg", alt: "넷플릭스 영화 추천 비버리 힐즈 캅 인기 순위 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img3.jpg", alt: "비버리 힐스 엑셀 에프 해외 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post395_img1.jpg", alt: "비버리 힐스 캅: 엑셀 F 평점 및 결말 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'ending', html: "<p>볼지 말지 고민하는 당신을 위한, 비버리 힐스 캅: 엑셀 F 포스팅 결말 총평 입니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

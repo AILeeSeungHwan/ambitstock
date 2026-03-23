@@ -1,127 +1,47 @@
 const post = {
   id: 437,
   sections: [
-    {
-      type: 'intro',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: inherit;&quot;>영화 파묘의 장재현감독 2019년 두번째 오컬트영화,</span> <b><span style=&quot;background-color: #f3c000;&quot;>사바하 해외 반응 및 평점 리뷰</span></b><span style=&quot;color: inherit;&quot;>입니다.</span></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: inherit;&quot;>영화 제목 사바하의 뜻의 기원, 원문은 산스크리스트 어의 \'svaha\' 입니다. 스바하 혹은 쓰바하에 가까운 발음으로,</span><span style=&quot;color: #ee2323;&quot;><b> 그</b> </span><span style=&quot;background-color: transparent; color: #ee2323;&quot;><b><span style=&quot;color: #ee2323;&quot;>뜻</span>은 \'될 것이다 이루어진다\'</b></span> <span style=&quot;color: inherit;&quot;>입니다. 대중에 익숙한 천수경 첫구절 &quot;수리 수리 마하수리 수수리 사바하&quot;의 마지막 단어 사바하가 영화 제목인 <span style=&quot;text-align: start;&quot;>사바하 입니다. </span>  </span></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>작중에서 감독은 뱀, 소, 사슴, 새, 코끼리 등 여러 동물 크리쳐들을 연출, 분위기 형성에 중요한 요소로 사용하였습니다. 본인 스스로 종교 매니아라 밝힌 장재현 감독의 종교는 기독교로, 본인의 종교뿐만 아니라 여러 종교 역사에 대한 지식을 탐닉하며 이를 스토리에 완벽히 담아냈습니다. </span></p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post437_thumb.svg',
-      alt: '[영화 사바하 뜻과 해외반응 리뷰 - 매혹적인 진흙탕같은 영화] 장재현 감독 두번째 오컬트 영화 줄거리 결말 넷플릭스 OTT',
-      caption: '[영화 사바하 뜻과 해외반응 리뷰 - 매혹적인 진흙탕같은 영화] 장재현 감독 두번째 오컬트 영화 줄거리 결말 넷플릭스 OTT'
-    },
+    { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR';&quot;><span style=&quot;color: inherit;&quot;>영화 파묘의 장재현감독 2019년 두번째 오컬트영화,</span> <b><span style=&quot;background-color: #f3c000;&quot;>사바하 해외 반응 및 평점 리뷰</span></b><span style=&quot;color: inherit;&quot;>입니다.</span></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR';&quot;><span style=&quot;color: inherit;&quot;>영화 제목 사바하의 뜻의 기원, 원문은 산스크리스트 어의 'svaha' 입니다. 스바하 혹은 쓰바하에 가까운 발음으로,</span><span style=&quot;color: #ee2323;&quot;><b> 그</b> </span><span style=&quot;background-color: transparent; color: #ee2323;&quot;><b><span style=&quot;color: #ee2323;&quot;>뜻</span>은 '될 것이다 이루어진다'</b></span> <span style=&quot;color: inherit;&quot;>입니다. 대중에 익숙한 천수경 첫구절 &quot;수리 수리 마하수리 수수리 사바하&quot;의 마지막 단어 사바하가 영화 제목인 <span style=&quot;text-align: start;&quot;>사바하 입니다. </span>  </span></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;>작중에서 감독은 뱀, 소, 사슴, 새, 코끼리 등 여러 동물 크리쳐들을 연출, 분위기 형성에 중요한 요소로 사용하였습니다. 본인 스스로 종교 매니아라 밝힌 장재현 감독의 종교는 기독교로, 본인의 종교뿐만 아니라 여러 종교 역사에 대한 지식을 탐닉하며 이를 스토리에 완벽히 담아냈습니다. </span></p>" },
+    { type: 'image', src: "/images/post437_thumb.svg", alt: "[영화 사바하 뜻과 해외반응 리뷰 - 매혹적인 진흙탕같은 영화] 장재현 감독 두번째 오컬트 영화 줄거리 결말 넷플릭스 OTT", caption: "[영화 사바하 뜻과 해외반응 리뷰 - 매혹적인 진흙탕같은 영화] 장재현 감독 두번째 오컬트 영화 줄거리 결말 넷플릭스 OTT" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;><span style=&quot;letter-spacing: 0px;&quot;>이전 작품들인 검은 사제들, 사바하를 보고 영화 파묘를 관람하신다면 더욱 완벽하게 다듬어진 영화적 이음새, 스토리적 완전함, 장재현감독이 영화를 통해 표현하고자 하는 모든 것들을 느끼실 수 있습니다. 이번에 다룰 영화 사바하는 여러 반전을 지나 결말까지 도달하는 그 과정은 복잡하나, 결말 해석이 어렵지만은 않은 영화입니다. 영화 사바하의 명대사와 함께 해외 반응 살펴보겠습니다.</span></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>작중 동수(유지태)와 나한(박정민)의 대화</span></b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;><b>넷플릭스 시리즈 선산 볼만할까?</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;><b>해외 반응과 평점리뷰</b></span><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;><b></b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;><b>넷플릭스 시리즈 살인자ㅇ난감</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;><b>어떻게 읽어야 하는지 궁금하다면</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>영화 사바하 해외 영어 제목 SVAHA: THE SIXTH FINGER 로튼 토마토 평점입니다. <b><span style=&quot;background-color: #f3c000;&quot;>평론가 평점은 측정되지 않았고, 관람객 평점은 73 %을 기록</span></b>하였습니다. 해외 반응 리뷰 살펴보겠습니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start; font-family: \'Noto Serif KR\';&quot;>사바하: 여섯번째 손가락은 종교를 주제로 한 섬세한 공포물입니다. 충격을 기대하는 관객들에게는 조금 전개가 느리지만, 혼란스럽고도 훌륭한 영화입니다. </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start; font-family: \'Noto Serif KR\';&quot;> 뭔가 매혹적인 진흙탕 같은 영화이다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start; font-family: \'Noto Serif KR\';&quot;><span style=&quot;background-color: #fdfdfd; text-align: start;&quot;>난 이 모든 미친 요소들을 연결할 수 있는 이야기를 기대하고 있었는데, 어떠한 것도 얻지 못하였다.</span></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start; font-family: \'Noto Serif KR\';&quot;><span style=&quot;background-color: #fdfdfd; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; text-align: start;&quot;>나쁜 영화는 아니지만, 흥미진진하고 가슴뛰는 스토리 전개의 마지막에 그 보상이 만족스럽지 않다고 생각합니다.</span></span></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><b>줄거리를 담은 해외 리뷰</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;background-color: transparent; color: #0d0d0d; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>&quot;스바하: 여섯 번째 손가락&quot;은 박 목사가 이단 종교들을 조사하고, 기독교와 불교 단체들로부터 돈을 받아 그들의 이상한 무리를 살펴보는 이야기입니다. 영화는 박 목사가 아가페 수녀원의 수녀들로부터의 공격과 사슴 동산의 수상한 불교 단체의 조사를 통해 그 음모를 파헤치는 과정을 그립니다. 작품은 그들의 모호하고 난해한 불교 형태, 천왕인 장군 숭배, 그리고 기독교 계시록과 연결된 신성한 불교 텍스트를 다루며, 컬트가 혐오스러운 대상들을 제거하겠다는 결의를 내리는 모습을 보여줍니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;background-color: transparent; color: #0d0d0d; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>쌍둥이가 태어나던 날, 쌍둥이 중 한 명이 다른 쌍둥이의 다리를 물었던 사건과 함께, 작품은 살인과 예언의 실행, 소유, 혼탁한 불교, 컬트와 불멸에 대한 탐구를 다층적으로 펼치며 긴장감을 조성합니다. 잔인한 살인과 악마적인 생명체의 출현은 공포를 자아내고, 작가/감독 장재현은 한국 포크 호러 영화에 새로운 가치를 제시하며 저는 이 작품을 8/10으로 평가합니다. 넷플릭스에서 감상할 수 있습니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;>영화 사바하 \'그것\'</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start; font-family: \'Noto Serif KR\';&quot;> 비뚤어지거나 부패한 종교 운동을 전문적으로 연구하고 파헤치는 한국인 목사가 고대 신화와 연관이 있는 것처럼 보이는 일련의 살인 사건들을 우연히 발견합니다. 때로는 혼란스러운 느낌을 만들기도 하지만 결국에는 좋은 감각을 지닌 복잡한 공포 미스터리입니다. </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: transparent; color: inherit; text-align: start; font-family: \'Noto Serif KR\';&quot;>&quot;스바하: 여섯 번째 손가락&quot;은 일반적인 영화와는 다르게 복잡한 플롯과 깊은 신학적 측면을 다루어 평가가 분분합니다. 영화는 훌륭한 장면과 다양한 세트피스를 통해 한국 문화 외에도 다양한 환경을 탐험합니다. 그러나 \'와이어\'와 같은 현장 탐정 작품과 달리, 복잡한 불교 도상과 수도원 구조를 포함하고 있어 <b><span style=&quot;color: #ee2323;&quot;>단순한 이야기를 선호하는 관객들에게는 어려울 수 있습니다.</span></b> 무신론자라도 영화에서 다뤄지는 영적 탐구의 깊이는 인상적이며, 컬트 강박주의자나 영적인 믿음을 가진 이들에게는 흥미로울 것입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>평점 6.3/10</span></b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>영화 사바하 평점입니다. </span><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>아래 데이터를 통해 사바하의 평점분포 확인하실 수 있습니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;>데이터 표본은 미국, 영국, 브라질, 한국, 터키 순 이며, </span><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;>데이터 총표본수는 4천7백명 이상입니다. </span><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit;&quot;>이정재, 박정민, 유지태 주연 영화 사바하 다시보기는 넷플릭스, 티빙 OTT에서 시청가능합니다. </span><span style=&quot;font-family: \'Noto Serif KR\'; color: inherit; text-align: justify;&quot;>영화 사바하의 손익분기점은 250만명이고, 한국 총 관객수는 235만명입니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit; font-family: \'Noto Serif KR\';&quot;>영화 사바하의 결말, 마지막 \'그것\'의 말을 마지막으로 포스팅 마칩니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><b>영화 사바하 \'그것\'</b></p>'
-    },
-    ,
-    { type: 'image', src: '/images/post437_img16.jpg', alt: '영화 미키17 개봉정보와 봉준호 감독 기생충 해외 반응', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img15.jpg', alt: '영화 조커 2: 폴리 아 되 개봉정보&amp;#44; 그리고 조커1 해외 반응', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img14.jpg', alt: '사바하 ott 보는곳', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img13.jpg', alt: '사바하 평점분포', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img12.jpg', alt: '사바하 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img11.jpg', alt: '영화 사바하', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img10.jpg', alt: '영화 사바하 &amp;#39;그것&amp;#39;', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img9.jpg', alt: '영화 사바하', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img8.jpg', alt: '영화 사바하', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img7.jpg', alt: '영화 사바하', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img6.jpg', alt: '영화 사바하', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img5.jpg', alt: '영화 사바하 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img4.jpg', alt: '넷플릭스 시리즈 살인자ㅇ난감 어떻게 읽어야 하는지 궁금하다면', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img3.jpg', alt: '넷플릭스 시리즈 선산 볼만할까? 해외 반응과 평점리뷰', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img2.jpg', alt: '영화 파묘 뜻', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post437_img1.jpg', alt: '[영화 사바하 뜻과 해외반응 리뷰 - 매혹적인 진흙탕같은 영화] 장재현 감독 두번째 오컬트 영화 줄거리 결말 넷플릭스 OTT', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\'; color: inherit;&quot;><b>2024년 개봉 예정작 영화 추천입니다.</b></span></p>'
-    },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;><span style=&quot;letter-spacing: 0px;&quot;>이전 작품들인 검은 사제들, 사바하를 보고 영화 파묘를 관람하신다면 더욱 완벽하게 다듬어진 영화적 이음새, 스토리적 완전함, 장재현감독이 영화를 통해 표현하고자 하는 모든 것들을 느끼실 수 있습니다. 이번에 다룰 영화 사바하는 여러 반전을 지나 결말까지 도달하는 그 과정은 복잡하나, 결말 해석이 어렵지만은 않은 영화입니다. 영화 사바하의 명대사와 함께 해외 반응 살펴보겠습니다.</span></span></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>작중 동수(유지태)와 나한(박정민)의 대화</span></b></span></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;><b>넷플릭스 시리즈 선산 볼만할까?</b></span></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;><b>해외 반응과 평점리뷰</b></span><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;><b></b></span></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;><b>넷플릭스 시리즈 살인자ㅇ난감</b></span></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;><b>어떻게 읽어야 하는지 궁금하다면</b></span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;>영화 사바하 해외 영어 제목 SVAHA: THE SIXTH FINGER 로튼 토마토 평점입니다. <b><span style=&quot;background-color: #f3c000;&quot;>평론가 평점은 측정되지 않았고, 관람객 평점은 73 %을 기록</span></b>하였습니다. 해외 반응 리뷰 살펴보겠습니다.</span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start; font-family: 'Noto Serif KR';&quot;>사바하: 여섯번째 손가락은 종교를 주제로 한 섬세한 공포물입니다. 충격을 기대하는 관객들에게는 조금 전개가 느리지만, 혼란스럽고도 훌륭한 영화입니다. </span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start; font-family: 'Noto Serif KR';&quot;> 뭔가 매혹적인 진흙탕 같은 영화이다.</span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start; font-family: 'Noto Serif KR';&quot;><span style=&quot;background-color: #fdfdfd; text-align: start;&quot;>난 이 모든 미친 요소들을 연결할 수 있는 이야기를 기대하고 있었는데, 어떠한 것도 얻지 못하였다.</span></span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start; font-family: 'Noto Serif KR';&quot;><span style=&quot;background-color: #fdfdfd; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; text-align: start;&quot;>나쁜 영화는 아니지만, 흥미진진하고 가슴뛰는 스토리 전개의 마지막에 그 보상이 만족스럽지 않다고 생각합니다.</span></span></span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><b>줄거리를 담은 해외 리뷰</b></span></p>" },
+    { type: 'body', html: "<p style=&quot;background-color: transparent; color: #0d0d0d; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;>&quot;스바하: 여섯 번째 손가락&quot;은 박 목사가 이단 종교들을 조사하고, 기독교와 불교 단체들로부터 돈을 받아 그들의 이상한 무리를 살펴보는 이야기입니다. 영화는 박 목사가 아가페 수녀원의 수녀들로부터의 공격과 사슴 동산의 수상한 불교 단체의 조사를 통해 그 음모를 파헤치는 과정을 그립니다. 작품은 그들의 모호하고 난해한 불교 형태, 천왕인 장군 숭배, 그리고 기독교 계시록과 연결된 신성한 불교 텍스트를 다루며, 컬트가 혐오스러운 대상들을 제거하겠다는 결의를 내리는 모습을 보여줍니다.</span></p>" },
+    { type: 'body', html: "<p style=&quot;background-color: transparent; color: #0d0d0d; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;>쌍둥이가 태어나던 날, 쌍둥이 중 한 명이 다른 쌍둥이의 다리를 물었던 사건과 함께, 작품은 살인과 예언의 실행, 소유, 혼탁한 불교, 컬트와 불멸에 대한 탐구를 다층적으로 펼치며 긴장감을 조성합니다. 잔인한 살인과 악마적인 생명체의 출현은 공포를 자아내고, 작가/감독 장재현은 한국 포크 호러 영화에 새로운 가치를 제시하며 저는 이 작품을 8/10으로 평가합니다. 넷플릭스에서 감상할 수 있습니다.</span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;>영화 사바하 '그것'</span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start; font-family: 'Noto Serif KR';&quot;> 비뚤어지거나 부패한 종교 운동을 전문적으로 연구하고 파헤치는 한국인 목사가 고대 신화와 연관이 있는 것처럼 보이는 일련의 살인 사건들을 우연히 발견합니다. 때로는 혼란스러운 느낌을 만들기도 하지만 결국에는 좋은 감각을 지닌 복잡한 공포 미스터리입니다. </span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: transparent; color: inherit; text-align: start; font-family: 'Noto Serif KR';&quot;>&quot;스바하: 여섯 번째 손가락&quot;은 일반적인 영화와는 다르게 복잡한 플롯과 깊은 신학적 측면을 다루어 평가가 분분합니다. 영화는 훌륭한 장면과 다양한 세트피스를 통해 한국 문화 외에도 다양한 환경을 탐험합니다. 그러나 '와이어'와 같은 현장 탐정 작품과 달리, 복잡한 불교 도상과 수도원 구조를 포함하고 있어 <b><span style=&quot;color: #ee2323;&quot;>단순한 이야기를 선호하는 관객들에게는 어려울 수 있습니다.</span></b> 무신론자라도 영화에서 다뤄지는 영적 탐구의 깊이는 인상적이며, 컬트 강박주의자나 영적인 믿음을 가진 이들에게는 흥미로울 것입니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>평점 6.3/10</span></b></span></p>" },
+    { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;>영화 사바하 평점입니다. </span><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;>아래 데이터를 통해 사바하의 평점분포 확인하실 수 있습니다.</span></p>" },
+    { type: 'body', html: "<p><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;>데이터 표본은 미국, 영국, 브라질, 한국, 터키 순 이며, </span><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;>데이터 총표본수는 4천7백명 이상입니다. </span><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;>이정재, 박정민, 유지태 주연 영화 사바하 다시보기는 넷플릭스, 티빙 OTT에서 시청가능합니다. </span><span style=&quot;font-family: 'Noto Serif KR'; color: inherit; text-align: justify;&quot;>영화 사바하의 손익분기점은 250만명이고, 한국 총 관객수는 235만명입니다.</span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;>영화 사바하의 결말, 마지막 '그것'의 말을 마지막으로 포스팅 마칩니다.</span></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b>영화 사바하 '그것'</b></p>" },
+    { type: 'image', src: "/images/post437_img15.jpg", alt: "영화 조커 2: 폴리 아 되 개봉정보&amp;#44; 그리고 조커1 해외 반응", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img14.jpg", alt: "사바하 ott 보는곳", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img13.jpg", alt: "사바하 평점분포", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img12.jpg", alt: "사바하 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img11.jpg", alt: "영화 사바하", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img10.jpg", alt: "영화 사바하 &amp;#39;그것&amp;#39;", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img9.jpg", alt: "영화 사바하", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img8.jpg", alt: "영화 사바하", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img7.jpg", alt: "영화 사바하", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img6.jpg", alt: "영화 사바하", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img5.jpg", alt: "영화 사바하 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img4.jpg", alt: "넷플릭스 시리즈 살인자ㅇ난감 어떻게 읽어야 하는지 궁금하다면", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img3.jpg", alt: "넷플릭스 시리즈 선산 볼만할까? 해외 반응과 평점리뷰", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post437_img1.jpg", alt: "[영화 사바하 뜻과 해외반응 리뷰 - 매혹적인 진흙탕같은 영화] 장재현 감독 두번째 오컬트 영화 줄거리 결말 넷플릭스 OTT", caption: "ⓒ R의 필름공장" },
+    { type: 'ending', html: "<p><span style=&quot;background-color: #f3c000; font-family: 'Noto Serif KR'; color: inherit;&quot;><b>2024년 개봉 예정작 영화 추천입니다.</b></span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

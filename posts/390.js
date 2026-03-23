@@ -1,385 +1,107 @@
 const post = {
   id: 390,
   sections: [
-    {
-      type: 'intro',
-      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</span></b></p><p style=&quot;color: inherit; text-align: start;&quot;>2024년 7월 3주차 신작, 한국 넷플릭스 인기 순위 2위 영화 마담 웹 (영어제목 madame web) 입니다.</p><p>영화 제목인 마담 웹의 뜻은 프랑스어에서 기혼 여성을 귀하게 부르는 말인 madame에 거미줄의 web을 합친 의미 입니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post390_thumb.svg',
-      alt: '넷플릭스 신규 영화 컨텐츠 마담 웹 볼 만할까? 제목 뜻과 해외 평점 결말 후기를 알아보자.',
-      caption: '넷플릭스 신규 영화 컨텐츠 마담 웹 볼 만할까? 제목 뜻과 해외 평점 결말 후기를 알아보자.'
-    },
+    { type: 'intro', html: "<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</span></b></p><p style=&quot;color: inherit; text-align: start;&quot;>2024년 7월 3주차 신작, 한국 넷플릭스 인기 순위 2위 영화 마담 웹 (영어제목 madame web) 입니다.</p><p>영화 제목인 마담 웹의 뜻은 프랑스어에서 기혼 여성을 귀하게 부르는 말인 madame에 거미줄의 web을 합친 의미 입니다.</p>" },
+    { type: 'image', src: "/images/post390_thumb.svg", alt: "넷플릭스 신규 영화 컨텐츠 마담 웹 볼 만할까? 제목 뜻과 해외 평점 결말 후기를 알아보자.", caption: "넷플릭스 신규 영화 컨텐츠 마담 웹 볼 만할까? 제목 뜻과 해외 평점 결말 후기를 알아보자." },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p>가볍게 말하면 \'스파이더 걸\' 을 다르게 표현했다고 보면 되겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그렇다면 영화 마담 웹에 대한 해외 반응 및 평점, 그리고 결말후기 리뷰 살펴보겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>영화 마담 웹에 대한 로튼토마토 <span><span style=&quot;color: inherit; text-align: start;&quot;>평점과 </span></span><b><span style=&quot;background-color: #f3c000;&quot;>평론가 결말 후기를 종합적으로 살핀 객관적인 정보</span></b>를 바탕으로</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>마담 웹 볼지 말지, 볼만한 영화인지 딱 정해드리겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>로튼토마토 마담 웹 평론가 평점과 관객평점 입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>지금까지 알아본 모든 영화 중 평론가 평점 11% 라는 점수는 처음보았습니다.</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>관람객 평점도 57%로 쥐고 있던 팝콘도 던져버린 모양이네요.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이쯤에서 그만 알아보고 총평 남겨도 되겠지만,</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>영화 마담 웹 후기 해외 반응은 어떠한지, 해외 리뷰 살펴보겠습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Stacey Yvonne</b> (Wealth of Geeks, 평점: 2.5/5)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;영화 \'마담 웹\'을 보고 나면, 관객들은 \'마담 웹\'이 누구인지 전혀 알 수 없다는 것을 깨닫게 될 것이다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Paul Klein</b> (FILMHOUNDS Magazine, 평점: 2/5)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;미스터리의 실타래를 풀고 나면 \'아… 그게 다야?\' 라는 반응이 나올 것이다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Dana Barbuto</b> (Boston Movie News, 평점: C)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;존슨은 이 모든 것이 허튼소리라는 것을 보여주기 위해 충분히 냉담하게 연기한다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Joonatan Itkonen</b> (Toisto.net, 평점: 1/5)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;영화의 중반쯤, 캐시가 아직도 페루의 공격적인 고정관념에서 나온 말들을 들어야 한다는 것을 깨달으면, 이 영화는 그냥 관객을 이유 없이 괴롭히는 것처럼 느껴진다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Udita Jhunjhunwala</b> (Livemint)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;다코타 존슨이 주연을 맡은 이 예지력 있는 슈퍼히어로의 기원 이야기는 거의 모든 면에서 실패작이다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Elizabeth Weitzman</b> (Time Out)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;존슨은 카산드라의 내적 갈등을 불러일으키려고 노력하며, 그녀와 스콧 사이의 장면들은 더 나은 프로젝트의 가능성을 엿보게 한다. 그러나 그 어떤 가능성도 어설픈 설명, 어색한 특수 효과, 그리고 일관성 없는 편집 아래에 묻혀버린다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Jeffrey Lyles</b> (Lyles\' Movie Files, 평점: 3/10)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;마담 웹은 여러 가지 - 평범함, 지루함, 불필요함, 그리고 우스꽝스러움 - 이지만, 최악의 만화 영화라고? 아니, 그것보다는 그냥 즉시 잊혀질 정도로 특별히 헌신적인 무언가가 필요할 것이다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Justin Brown</b> (Medium Popcorn, 평점: 1/5)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;이 영화는 재미없었다. 아무것도 이해되지 않았고 다코타 존슨은 영화의 중요한 장면들에서 신경을 쓰지 않는 듯했다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Brandon Collins</b> (Medium Popcorn, 평점: 1/5)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;최근 기억에 남는 최악의 슈퍼히어로 영화 중 하나다. 불행하게도, 이 영화에는 아무런 장점이 없다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Tina Kakadelis</b> (Film Obsessive)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;존슨의 매력 덕분에 영화는 계속 흥미롭게 이어지며, 젊은 주연들의 화학작용은 경쾌한 재미를 준다. 90년대/2000년대의 복고풍 사운드</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>트랙까지 더해져 \'마담 웹\'은 그 자체로 존재할 미래를 찾을 수 있을 것이다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Sarah Marrs</b> (Lainey Gossip)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;최근 기억에 남는 최악의 캐스팅된 슈퍼히어로 영화다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Mattie Lucas</b> (From the Front Row, 평점: 0/4)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;이 영화는 충격적으로 무능해서 현실로 믿기 어려울 정도다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Kevin Sampson</b> (Picture Lock, 평점: D)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;알프레드 히치콕은 \'훌륭한 영화를 만들려면 세 가지가 필요하다. 시나리오, 시나리오, 그리고 시나리오\'라고 말했다. \'마담 웹\'은 이 세 가지가 모두 없는 경우에 해당한다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Joe Lipsett</b> (Queer.Horror.Movies., 평점: 2/5)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;사실 \'마담 웹\'은 좋은 영화가 아니다. 하지만 적절한 마음가짐, 적절한 관객, 그리고 적절한 약물 혼합이 있다면, *재미있는* 영화가 될 수 있다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Matt Brunson</b> (Film Frenzy, 평점: 2/4)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;처음부터 힘든 도전이었다. 그러나 가장 최악의 슈퍼히어로 영화 중 하나라고? 웃기지 마라.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>Tim Miller</b> (Cape Cod Wave Magazine, 평점: 2/4)</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>&quot;다코타 존슨이 주연을 맡은 이 최신 마블 슈퍼히어로 기원 이야기에는 어느 시점에서 미래의 스파이더맨 피터 파커의 탄생도 포함된다. 존슨은 미래를 볼 수 있는 카산드라 웹 역을 맡았고, 그녀의 어머니가 거미에게 물려서… 지루하다.&quot;</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post390_img10.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post390_img9.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post390_img8.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post390_img7.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post390_img6.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post390_img5.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post390_img4.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post390_img3.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post390_img2.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post390_img1.jpg', alt: '마담 웹 평점 결말 후기', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p>영화 마담 웹 (영어 제목 madame web) 후기 총평입니다.</p>'
-    },
+    { type: 'body', html: "<p>가볍게 말하면 '스파이더 걸' 을 다르게 표현했다고 보면 되겠습니다.</p>" },
+    { type: 'body', html: "<p>그렇다면 영화 마담 웹에 대한 해외 반응 및 평점, 그리고 결말후기 리뷰 살펴보겠습니다.</p>" },
+    { type: 'body', html: "<p>영화 마담 웹에 대한 로튼토마토 <span><span style=&quot;color: inherit; text-align: start;&quot;>평점과 </span></span><b><span style=&quot;background-color: #f3c000;&quot;>평론가 결말 후기를 종합적으로 살핀 객관적인 정보</span></b>를 바탕으로</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>마담 웹 볼지 말지, 볼만한 영화인지 딱 정해드리겠습니다.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>로튼토마토 마담 웹 평론가 평점과 관객평점 입니다.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>지금까지 알아본 모든 영화 중 평론가 평점 11% 라는 점수는 처음보았습니다.</b></span></p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>관람객 평점도 57%로 쥐고 있던 팝콘도 던져버린 모양이네요.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>이쯤에서 그만 알아보고 총평 남겨도 되겠지만,</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>영화 마담 웹 후기 해외 반응은 어떠한지, 해외 리뷰 살펴보겠습니다.</p>" },
+    { type: 'body', html: "<p><b>Stacey Yvonne</b> (Wealth of Geeks, 평점: 2.5/5)</p>" },
+    { type: 'body', html: "<p>&quot;영화 '마담 웹'을 보고 나면, 관객들은 '마담 웹'이 누구인지 전혀 알 수 없다는 것을 깨닫게 될 것이다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Paul Klein</b> (FILMHOUNDS Magazine, 평점: 2/5)</p>" },
+    { type: 'body', html: "<p>&quot;미스터리의 실타래를 풀고 나면 '아… 그게 다야?' 라는 반응이 나올 것이다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Dana Barbuto</b> (Boston Movie News, 평점: C)</p>" },
+    { type: 'body', html: "<p>&quot;존슨은 이 모든 것이 허튼소리라는 것을 보여주기 위해 충분히 냉담하게 연기한다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Joonatan Itkonen</b> (Toisto.net, 평점: 1/5)</p>" },
+    { type: 'body', html: "<p>&quot;영화의 중반쯤, 캐시가 아직도 페루의 공격적인 고정관념에서 나온 말들을 들어야 한다는 것을 깨달으면, 이 영화는 그냥 관객을 이유 없이 괴롭히는 것처럼 느껴진다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Udita Jhunjhunwala</b> (Livemint)</p>" },
+    { type: 'body', html: "<p>&quot;다코타 존슨이 주연을 맡은 이 예지력 있는 슈퍼히어로의 기원 이야기는 거의 모든 면에서 실패작이다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Elizabeth Weitzman</b> (Time Out)</p>" },
+    { type: 'body', html: "<p>&quot;존슨은 카산드라의 내적 갈등을 불러일으키려고 노력하며, 그녀와 스콧 사이의 장면들은 더 나은 프로젝트의 가능성을 엿보게 한다. 그러나 그 어떤 가능성도 어설픈 설명, 어색한 특수 효과, 그리고 일관성 없는 편집 아래에 묻혀버린다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Jeffrey Lyles</b> (Lyles' Movie Files, 평점: 3/10)</p>" },
+    { type: 'body', html: "<p>&quot;마담 웹은 여러 가지 - 평범함, 지루함, 불필요함, 그리고 우스꽝스러움 - 이지만, 최악의 만화 영화라고? 아니, 그것보다는 그냥 즉시 잊혀질 정도로 특별히 헌신적인 무언가가 필요할 것이다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Justin Brown</b> (Medium Popcorn, 평점: 1/5)</p>" },
+    { type: 'body', html: "<p>&quot;이 영화는 재미없었다. 아무것도 이해되지 않았고 다코타 존슨은 영화의 중요한 장면들에서 신경을 쓰지 않는 듯했다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Brandon Collins</b> (Medium Popcorn, 평점: 1/5)</p>" },
+    { type: 'body', html: "<p>&quot;최근 기억에 남는 최악의 슈퍼히어로 영화 중 하나다. 불행하게도, 이 영화에는 아무런 장점이 없다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Tina Kakadelis</b> (Film Obsessive)</p>" },
+    { type: 'body', html: "<p>&quot;존슨의 매력 덕분에 영화는 계속 흥미롭게 이어지며, 젊은 주연들의 화학작용은 경쾌한 재미를 준다. 90년대/2000년대의 복고풍 사운드</p>" },
+    { type: 'body', html: "<p>트랙까지 더해져 '마담 웹'은 그 자체로 존재할 미래를 찾을 수 있을 것이다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Sarah Marrs</b> (Lainey Gossip)</p>" },
+    { type: 'body', html: "<p>&quot;최근 기억에 남는 최악의 캐스팅된 슈퍼히어로 영화다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Mattie Lucas</b> (From the Front Row, 평점: 0/4)</p>" },
+    { type: 'body', html: "<p>&quot;이 영화는 충격적으로 무능해서 현실로 믿기 어려울 정도다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Kevin Sampson</b> (Picture Lock, 평점: D)</p>" },
+    { type: 'body', html: "<p>&quot;알프레드 히치콕은 '훌륭한 영화를 만들려면 세 가지가 필요하다. 시나리오, 시나리오, 그리고 시나리오'라고 말했다. '마담 웹'은 이 세 가지가 모두 없는 경우에 해당한다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Joe Lipsett</b> (Queer.Horror.Movies., 평점: 2/5)</p>" },
+    { type: 'body', html: "<p>&quot;사실 '마담 웹'은 좋은 영화가 아니다. 하지만 적절한 마음가짐, 적절한 관객, 그리고 적절한 약물 혼합이 있다면, *재미있는* 영화가 될 수 있다.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Matt Brunson</b> (Film Frenzy, 평점: 2/4)</p>" },
+    { type: 'body', html: "<p>&quot;처음부터 힘든 도전이었다. 그러나 가장 최악의 슈퍼히어로 영화 중 하나라고? 웃기지 마라.&quot;</p>" },
+    { type: 'body', html: "<p> </p>" },
+    { type: 'body', html: "<p><b>Tim Miller</b> (Cape Cod Wave Magazine, 평점: 2/4)</p>" },
+    { type: 'body', html: "<p>&quot;다코타 존슨이 주연을 맡은 이 최신 마블 슈퍼히어로 기원 이야기에는 어느 시점에서 미래의 스파이더맨 피터 파커의 탄생도 포함된다. 존슨은 미래를 볼 수 있는 카산드라 웹 역을 맡았고, 그녀의 어머니가 거미에게 물려서… 지루하다.&quot;</p>" },
+    { type: 'image', src: "/images/post390_img9.jpg", alt: "마담 웹 평점 결말 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post390_img8.jpg", alt: "마담 웹 평점 결말 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post390_img7.jpg", alt: "마담 웹 평점 결말 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post390_img6.jpg", alt: "마담 웹 평점 결말 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post390_img5.jpg", alt: "마담 웹 평점 결말 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post390_img4.jpg", alt: "마담 웹 평점 결말 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post390_img3.jpg", alt: "마담 웹 평점 결말 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post390_img1.jpg", alt: "마담 웹 평점 결말 후기", caption: "ⓒ R의 필름공장" },
+    { type: 'ending', html: "<p>영화 마담 웹 (영어 제목 madame web) 후기 총평입니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

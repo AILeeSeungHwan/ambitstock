@@ -1,85 +1,35 @@
 const post = {
   id: 446,
   sections: [
-    {
-      type: 'intro',
-      html: '<p>2024년 1월31일 한국에 개봉한 <span style=&quot;background-color: #f3c000;&quot;><b>티모시 샬라메의 웡카 해외 반응 및 평점 리뷰</b></span>입니다.<br/>찰리와 초콜릿 공장의 조니뎁을 이어 웡카의 어린시절을 연기한 티모시 샬라메 버전 웡카는 조니뎁의 기괴한 느낌과는 상반된 모습을 보여주었습니다. <br/> <br/> </p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;><b>영화 &lt;웡카&gt;</b></span></p><p> <br/> <br/>한국보다 먼저 해외에서 개봉한 웡카 해외 반응 살펴보도록 하겠습니다. <br/> <br/> </p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post446_thumb.svg',
-      alt: '[영화 웡카 한국 개봉일 해외 반응 및 관람평점 리뷰] 다시 느끼는 해리포터의 황홀경 2024년 현재 상영작',
-      caption: '[영화 웡카 한국 개봉일 해외 반응 및 관람평점 리뷰] 다시 느끼는 해리포터의 황홀경 2024년 현재 상영작'
-    },
+    { type: 'intro', html: "<p>2024년 1월31일 한국에 개봉한 <span style=&quot;background-color: #f3c000;&quot;><b>티모시 샬라메의 웡카 해외 반응 및 평점 리뷰</b></span>입니다.<br/>찰리와 초콜릿 공장의 조니뎁을 이어 웡카의 어린시절을 연기한 티모시 샬라메 버전 웡카는 조니뎁의 기괴한 느낌과는 상반된 모습을 보여주었습니다. <br/> <br/> </p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;><b>영화 &lt;웡카&gt;</b></span></p><p> <br/> <br/>한국보다 먼저 해외에서 개봉한 웡카 해외 반응 살펴보도록 하겠습니다. <br/> <br/> </p>" },
+    { type: 'image', src: "/images/post446_thumb.svg", alt: "[영화 웡카 한국 개봉일 해외 반응 및 관람평점 리뷰] 다시 느끼는 해리포터의 황홀경 2024년 현재 상영작", caption: "[영화 웡카 한국 개봉일 해외 반응 및 관람평점 리뷰] 다시 느끼는 해리포터의 황홀경 2024년 현재 상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>넷플릭스 시리즈 선산 볼만할까?</b></span><br/><span style=&quot;color: inherit;&quot;><b>해외 반응과 평점리뷰</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>넷플릭스 시리즈 살인자ㅇ난감</b></span><br/><span style=&quot;color: inherit;&quot;><b>어떻게 읽어야 하는지 궁금하다면</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Kavya Christopher - The Times of India</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★ </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>4.0/5.0</b></span><br/><span style=&quot;color: inherit;&quot;>티모시 샬라메의 훌륭하고 부드러운 연기가 돋보이는 유쾌하고 마법 같은 이야기입니다. Paul King의 아름답고 가볍고 감동적인 연출 아래 Willy Wonka 신화를 재미 있고 생동감 있고 음악적인 방식으로 확장합니다. </span><br/> <br/> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Kavya Christopher - The Times of India</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★ </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>4.0/5.0</b></span><br/><span style=&quot;color: inherit;&quot;>Wonka는 1971년 전작의 배경으로 편안하게 자리잡고 있습니다. 자본주의와 기타 사회적 논평을 주제로 한 주제는 가볍지만 여전히 세계와 인물과의 정서적 공명에 중점을 두고 있습니다.</span><br/> <br/> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Oti For Your Reference Podcast</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ </b></span><span style=&quot;color: #f3c000;&quot;><b>☆ </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>3.5/5.0</b></span> <span style=&quot;color: inherit;&quot;></span><br/><span style=&quot;color: inherit;&quot;>찰리와 초콜릿 공장의 프리퀄인 웡카는 나를 놀랍도록 즐겁게 했습니다. Gene Wilder의 고전과 비교할 수는 없지만 탄탄한 스토리텔링과 연기로 그 자체로 독보적입니다.</span><br/> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> <br/> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Michael Atkinson - LA Weekly/Village Voice</b></span><br/><span style=&quot;color: inherit;&quot;>당신이 관대하고 킹의 영화를 그 자체로 특성화한다면, 그것은 전혀 Wonkian적이지 않다고 말해야 할 것입니다. 전부 슬러그워스예요.</span><br/> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Ernesto Diezmartinez - Letras Libres</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>3.0/4.0</b></span> <br/><span style=&quot;color: inherit;&quot;>폴 킹(Paul King)이 감독한 윌리 웡카(Willy Wonka) 이야기의 전편은 로알드 달(Roald Dahl) 우주의 마법을 포착하지만 그 어둠은 포착하지 않습니다. 이것이 반드시 문제가 되는 것은 아니지만.</span><br/> <br/> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Sarah Knight Adamson - Sarah\'s Backstage Pass</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>3.5/5.0</b></span><br/><span style=&quot;color: inherit;&quot;>“Wonka”는 가족들이 좋아하는 명절 음식을 먹으면서 흥얼거리며 즐거운 시간을 보낼 수 있는 재미있고 눈부신 영화입니다.</span><br/> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Terry - Staunton</b></span><br/><span style=&quot;color: inherit;&quot;>영화의 완성도를 낮추는 몇 가지 장애물이 있지만, </span><span style=&quot;color: inherit;&quot;>이 모든 것을 용서할 수 있는 스릴 넘치는 </span><span style=&quot;color: inherit;&quot;>마법들을 </span><span style=&quot;color: inherit;&quot;>선사합니다.</span><br/> <br/> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Sarah Bea Miller - That Shelf</b></span><br/><span style=&quot;color: inherit;&quot;>Wonka는 만족스러운 프리퀄이자 (매우) 친숙한 IP를 새롭게 해석하는 불가능한 업적을 달성했습니다.</span><br/> <br/> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Patrick McDonald - WBGR-FM (93.7 FM - Monroe, WI)</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>3.5/5.0</b></span><span style=&quot;color: inherit;&quot;> </span><br/><span style=&quot;color: inherit;&quot;>샬라메는 이 프리퀄로 친숙한 캐릭터를 새롭게 재해석해 우리를 매료시킨다. 또한 꿈의 캐스팅을 통해 영국에 뿌리를 둔 배우들의 훌륭한 연기를 수행합니다. 하지만 이 이야기에는 1971년 전작의 마법이 부족하므로 완전한 골든 티켓은 없습니다.</span><span style=&quot;color: inherit;&quot;></span><br/> <br/> <br/> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> <br/><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><b>평점 7.2/10</b></span></span><br/><span style=&quot;color: inherit;&quot;>IMDB 영화 웡카 평점입니다. 현재 IMDB 인기순 7위에 오리며 가장 핫한 작품임을 알 수 있습니다.</span><br/><span style=&quot;color: inherit;&quot;>아래 데이터를 통해 웡카의 평점분포 알아보겠습니다.</span><br/> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> <br/><span style=&quot;color: inherit;&quot;>데이터 표본은 미국, 영국, 네덜란드, 독일, 브라질 순이며, 한국데이터는 순위에 포함되지 않았습니다.</span><br/><span style=&quot;color: inherit;&quot;>데이터 총표본수는 8만 6천 이상입니다. </span><span style=&quot;color: inherit;&quot;></span><br/> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p> <br/><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><b>2024년 개봉 예정작 영화 추천입니다.</b></span></span><br/> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>영화 파묘 개봉일 확정!</b></span><br/><span style=&quot;color: inherit;&quot;><b>24년 2월 22일 개봉 전 살펴보기</b></span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>영화 조커 2: 폴리 아 되 개봉정보</b></span><br/><span style=&quot;color: inherit;&quot;><b>그리고 조커 1 해외 반응</b></span><span style=&quot;color: inherit;&quot;> </span></p>'
-    },
-    ,
-    { type: 'image', src: '/images/post446_img14.jpg', alt: '영화 미키17 개봉정보와 봉준호 감독 기생충 해외 반응', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img13.jpg', alt: '영화 조커 2: 폴리 아 되 개봉정보, 그리고 조커1 해외 반응', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img12.jpg', alt: '영화 파묘 개봉일 확정! 24년 2월 22일 개봉전 살펴보기', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img11.jpg', alt: '영화 웡카 티모시 샬라메', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img10.jpg', alt: 'IMDB 영화 웡카 평점분포', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img9.jpg', alt: 'IMDB 영화 웡카 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img8.jpg', alt: '영화 웡카 티모시 샬라메', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img7.jpg', alt: '영화 웡카 티모시 샬라메', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img6.jpg', alt: '영화 웡카 티모시 샬라메', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img5.jpg', alt: '영화 웡카 티모시 샬라메', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img4.jpg', alt: '영화 웡카 로튼토마토 평점', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img3.jpg', alt: '넷플릭스 시리즈 살인자ㅇ난감 어떻게 읽어야 하는지 궁금하다면', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img2.jpg', alt: '넷플릭스 시리즈 선산 볼만할까? 해외 반응과 평점리뷰', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post446_img1.jpg', alt: '영화 웡카 현재 상영작', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>영화 미키 17 개봉정보와</b></span><br/><span style=&quot;color: inherit;&quot;><b>봉준호 감독 </b></span><span style=&quot;color: inherit;&quot;><b>기생충 해외 반응</b></span><br/> </p>'
-    },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>넷플릭스 시리즈 선산 볼만할까?</b></span><br/><span style=&quot;color: inherit;&quot;><b>해외 반응과 평점리뷰</b></span></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>넷플릭스 시리즈 살인자ㅇ난감</b></span><br/><span style=&quot;color: inherit;&quot;><b>어떻게 읽어야 하는지 궁금하다면</b></span></p>" },
+    { type: 'body', html: "<p> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Kavya Christopher - The Times of India</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★ </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>4.0/5.0</b></span><br/><span style=&quot;color: inherit;&quot;>티모시 샬라메의 훌륭하고 부드러운 연기가 돋보이는 유쾌하고 마법 같은 이야기입니다. Paul King의 아름답고 가볍고 감동적인 연출 아래 Willy Wonka 신화를 재미 있고 생동감 있고 음악적인 방식으로 확장합니다. </span><br/> <br/> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Kavya Christopher - The Times of India</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ ★ </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>4.0/5.0</b></span><br/><span style=&quot;color: inherit;&quot;>Wonka는 1971년 전작의 배경으로 편안하게 자리잡고 있습니다. 자본주의와 기타 사회적 논평을 주제로 한 주제는 가볍지만 여전히 세계와 인물과의 정서적 공명에 중점을 두고 있습니다.</span><br/> <br/> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Oti For Your Reference Podcast</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★ </b></span><span style=&quot;color: #f3c000;&quot;><b>☆ </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>3.5/5.0</b></span> <span style=&quot;color: inherit;&quot;></span><br/><span style=&quot;color: inherit;&quot;>찰리와 초콜릿 공장의 프리퀄인 웡카는 나를 놀랍도록 즐겁게 했습니다. Gene Wilder의 고전과 비교할 수는 없지만 탄탄한 스토리텔링과 연기로 그 자체로 독보적입니다.</span><br/> </p>" },
+    { type: 'body', html: "<p> <br/> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Michael Atkinson - LA Weekly/Village Voice</b></span><br/><span style=&quot;color: inherit;&quot;>당신이 관대하고 킹의 영화를 그 자체로 특성화한다면, 그것은 전혀 Wonkian적이지 않다고 말해야 할 것입니다. 전부 슬러그워스예요.</span><br/> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Ernesto Diezmartinez - Letras Libres</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>3.0/4.0</b></span> <br/><span style=&quot;color: inherit;&quot;>폴 킹(Paul King)이 감독한 윌리 웡카(Willy Wonka) 이야기의 전편은 로알드 달(Roald Dahl) 우주의 마법을 포착하지만 그 어둠은 포착하지 않습니다. 이것이 반드시 문제가 되는 것은 아니지만.</span><br/> <br/> </p>" },
+    { type: 'body', html: "<p> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Sarah Knight Adamson - Sarah's Backstage Pass</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>3.5/5.0</b></span><br/><span style=&quot;color: inherit;&quot;>“Wonka”는 가족들이 좋아하는 명절 음식을 먹으면서 흥얼거리며 즐거운 시간을 보낼 수 있는 재미있고 눈부신 영화입니다.</span><br/> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Terry - Staunton</b></span><br/><span style=&quot;color: inherit;&quot;>영화의 완성도를 낮추는 몇 가지 장애물이 있지만, </span><span style=&quot;color: inherit;&quot;>이 모든 것을 용서할 수 있는 스릴 넘치는 </span><span style=&quot;color: inherit;&quot;>마법들을 </span><span style=&quot;color: inherit;&quot;>선사합니다.</span><br/> <br/> </p>" },
+    { type: 'body', html: "<p> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Sarah Bea Miller - That Shelf</b></span><br/><span style=&quot;color: inherit;&quot;>Wonka는 만족스러운 프리퀄이자 (매우) 친숙한 IP를 새롭게 해석하는 불가능한 업적을 달성했습니다.</span><br/> <br/> </p>" },
+    { type: 'body', html: "<p> <br/> <br/><span style=&quot;color: inherit;&quot;><b>Patrick McDonald - WBGR-FM (93.7 FM - Monroe, WI)</b></span><br/><span style=&quot;color: #f3c000;&quot;><b>★ ★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>★</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: #f3c000;&quot;><b>☆</b></span><span style=&quot;color: #f3c000;&quot;><b> </b></span><span style=&quot;color: inherit;&quot;><b>3.5/5.0</b></span><span style=&quot;color: inherit;&quot;> </span><br/><span style=&quot;color: inherit;&quot;>샬라메는 이 프리퀄로 친숙한 캐릭터를 새롭게 재해석해 우리를 매료시킨다. 또한 꿈의 캐스팅을 통해 영국에 뿌리를 둔 배우들의 훌륭한 연기를 수행합니다. 하지만 이 이야기에는 1971년 전작의 마법이 부족하므로 완전한 골든 티켓은 없습니다.</span><span style=&quot;color: inherit;&quot;></span><br/> <br/> <br/> </p>" },
+    { type: 'body', html: "<p> <br/><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><b>평점 7.2/10</b></span></span><br/><span style=&quot;color: inherit;&quot;>IMDB 영화 웡카 평점입니다. 현재 IMDB 인기순 7위에 오리며 가장 핫한 작품임을 알 수 있습니다.</span><br/><span style=&quot;color: inherit;&quot;>아래 데이터를 통해 웡카의 평점분포 알아보겠습니다.</span><br/> </p>" },
+    { type: 'body', html: "<p> <br/><span style=&quot;color: inherit;&quot;>데이터 표본은 미국, 영국, 네덜란드, 독일, 브라질 순이며, 한국데이터는 순위에 포함되지 않았습니다.</span><br/><span style=&quot;color: inherit;&quot;>데이터 총표본수는 8만 6천 이상입니다. </span><span style=&quot;color: inherit;&quot;></span><br/> </p>" },
+    { type: 'body', html: "<p> <br/><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><b>2024년 개봉 예정작 영화 추천입니다.</b></span></span><br/> </p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>영화 파묘 개봉일 확정!</b></span><br/><span style=&quot;color: inherit;&quot;><b>24년 2월 22일 개봉 전 살펴보기</b></span></p>" },
+    { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>영화 조커 2: 폴리 아 되 개봉정보</b></span><br/><span style=&quot;color: inherit;&quot;><b>그리고 조커 1 해외 반응</b></span><span style=&quot;color: inherit;&quot;> </span></p>" },
+    { type: 'image', src: "/images/post446_img13.jpg", alt: "영화 조커 2: 폴리 아 되 개봉정보, 그리고 조커1 해외 반응", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post446_img12.jpg", alt: "영화 파묘 개봉일 확정! 24년 2월 22일 개봉전 살펴보기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post446_img11.jpg", alt: "영화 웡카 티모시 샬라메", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post446_img10.jpg", alt: "IMDB 영화 웡카 평점분포", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post446_img9.jpg", alt: "IMDB 영화 웡카 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post446_img8.jpg", alt: "영화 웡카 티모시 샬라메", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post446_img7.jpg", alt: "영화 웡카 티모시 샬라메", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post446_img6.jpg", alt: "영화 웡카 티모시 샬라메", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post446_img5.jpg", alt: "영화 웡카 티모시 샬라메", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post446_img4.jpg", alt: "영화 웡카 로튼토마토 평점", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post446_img3.jpg", alt: "넷플릭스 시리즈 살인자ㅇ난감 어떻게 읽어야 하는지 궁금하다면", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post446_img1.jpg", alt: "영화 웡카 현재 상영작", caption: "ⓒ R의 필름공장" },
+    { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>영화 미키 17 개봉정보와</b></span><br/><span style=&quot;color: inherit;&quot;><b>봉준호 감독 </b></span><span style=&quot;color: inherit;&quot;><b>기생충 해외 반응</b></span><br/> </p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

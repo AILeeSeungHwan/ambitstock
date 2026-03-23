@@ -1,161 +1,48 @@
 const post = {
   id: 347,
   sections: [
-    {
-      type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>베테랑 2 개봉 전 칸 국제 영화제 해외 평론가 시사회 후기 반응을 전해드립니다.</b></span></p><p>베테랑 2가 오는 2024년 9월 13일 개봉을 앞두고 있습니다.<span style=&quot;color: inherit; text-align: start;&quot;></span></p><p>8월의 기대작 에일리언 로물루스가 개봉 후에도 기대에 부응하는 엄청난 호평을 이어가고 있고, 이와 더불어 트위스터스, 빅토리, 행복의 나라 또한 높은 평점을 기록하며 극장가의 풍년을 울리고 있습니다.</p>'
-    },
-    {
-      type: 'image',
-      src: '/images/post347_thumb.svg',
-      alt: '베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에',
-      caption: '베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에'
-    },
+    { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>베테랑 2 개봉 전 칸 국제 영화제 해외 평론가 시사회 후기 반응을 전해드립니다.</b></span></p><p>베테랑 2가 오는 2024년 9월 13일 개봉을 앞두고 있습니다.<span style=&quot;color: inherit; text-align: start;&quot;></span></p><p>8월의 기대작 에일리언 로물루스가 개봉 후에도 기대에 부응하는 엄청난 호평을 이어가고 있고, 이와 더불어 트위스터스, 빅토리, 행복의 나라 또한 높은 평점을 기록하며 극장가의 풍년을 울리고 있습니다.</p>" },
+    { type: 'image', src: "/images/post347_thumb.svg", alt: "베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에", caption: "베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    {
-      type: 'body',
-      html: '<p>그에 반해 9월 개봉 예정 영화들이 8월에 대비하여 상대적으로 밋밋한 감이 있기에, 이 중 큰 기대작은 베테랑 2가 될 것 입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;color: inherit; text-align: start;&quot;>지난 5월<span> </span></span><i>제77회 칸 국제 영화제 </i>의 미드나잇 스크리닝에서 공개된 베테랑 2.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;letter-spacing: 0px;&quot;>과연 2024년 한국 영화의 소문난 잔치 영화 베테랑 성패는 어떻게 될지, </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;letter-spacing: 0px;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 베테랑 2 개봉 전 칸 국제 영화제 해외 평론가 시사회 후기 반응</b></span>에서 살펴보도록 하겠습니다.</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>우선 베테랑 2의 기본 내용과 줄거리, 출연진 정보입니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>베테랑 2는 폭력 범죄를 다루는 경찰 드라마로, 최연소 형사 박선우(정해인)와 베테랑 형사 서도철(황정민)이 힘을 합쳐 악명 높은 연쇄 살인범을 추적하는 이야기를 담고 있습니다.<span> </span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>칸 영화제에서 상영된 후, 베테랑 2는 해외 언론으로부터 극찬</b>을 받았습니다. 평론가들은 이 영화를 액션 범죄 드라마 장르에서 뛰어난 역량을 보여준 류승완 감독의 귀환으로 평가하며, 그의 대표작<span> </span>밀수,<span> </span>베를린, 그리고 첫 편<span> </span>베테랑과 함께 높이 평가했습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;>이번 작품은 박선우 형사의 등장으로 인해 변화가 일어난 폭력 범죄 수사팀의 역동적인 모습과 흥미진진한 액션 장면을 예고합니다. 서도철 형사가 9년 만에 돌아오고, 새로운 캐릭터가 추가 됩니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>긍정적인 평가로는 먼저, 류승완 감독의 뛰어난 연출력이 돋보였다는 점</b></span>이 있습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>많은 평론가들은 전작의 매력을 그대로 유지하면서도 새로운 캐릭터와 스토리로 관객들을 몰입시켰다고 평가했습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>특히, 황정민과 정해인의 케미가 영화의 중심을 잘 잡아주었고, 액션 장면의 완성도가 매우 높다는 칭찬을 받았습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p>그러나 <span style=&quot;background-color: #9feec3;&quot;><b>일부 평론가들은 영화의 몇 가지 요소에 대해 비판적인 의견</b></span>을 제시했습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>캐릭터 발전의 부족이 지적되었으며, 새로운 캐릭터들이 충분히 깊이 있게 다루어지지 않았다고 평가되었습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>또한, 액션 시퀀스가 지나치게 반복적이며, 이전의 액션 영화들과 큰 차별성이 없다는 의견도 있었습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>마지막으로, 주요 캐릭터들 간의 감정적 연결이 약하게 표현되어 관객들이 감정적으로 몰입하기 어렵다는 비판도 있었습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p>다음은 구체적인 베테랑2 관객 평론 후기를 긍정적 평론과 부정적 평론으로 나누었습니다.</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>3.5/5</b><span style=&quot;color: inherit; text-align: start;&quot;><span> </span>- &quot;상당한 대작이다! 격투 장면이 깔끔하며, 과장된 경찰 스릴러로서 코미디와 드라마, 액션이 잘 어우러져 있다.&quot;</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>4.5/5</b><span> </span>- &quot;드롭킥을 날리는 한국의 직쏘. 멋진 격투 안무와 칸 영화제 팔레 데 페스티발에서의 시사회는 놀라운 경험이었다. 반전은 약간 예측 가능했지만, 즐거움에는 큰 영향을 미치지 않았다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>3/5</b> - &quot;칸 미드나잇 스크리닝에서 본 영화로, 액션이 많고 신나는 사운드트랙이 특징이었다. 범인 추적의 미스터리와 유머, 경찰의 잔혹함, 군중심리와 성공을 위한 비열한 행동 등이 잘 엮여 있다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>3.5/5</b><span style=&quot;color: inherit; text-align: start;&quot;><span> </span>- &quot;칸에서 계단을 오르는 경험이 정말 즐거웠다.&quot;</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>3.5/5</b> - &quot;밤 12시 30분부터 새벽 2시 30분까지 깨어 있을 만큼 흥미진진했다. 재미있는 장면과 긴장감이 훌륭했다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>3.5/5</b><span style=&quot;color: inherit; text-align: start;&quot;><span> </span>- &quot;재미있고, 너무 과하지 않게 진지한 영화. 정해인의 피부가 정말 완벽했다.&quot;</span></p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>4/5</b> - &quot;시사회에 참석하고 레드카펫도 걸었다. 2000명이 넘는 관객과 함께 본 경험이 정말 멋졌다. 영화는 완벽하진 않았지만, 새벽 12시 30분에 시작됐음에도 불구하고 인생에서 가장 멋진 경험이었다. 이 영화를 영원히 기억할 것이다. 고맙다, 류승완.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>2.5/5</b> - &quot;(프랑스어) 저예산 K드라마 같은 느낌.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>0/5</b> - &quot;칸 미드나잇 스크리닝에서 봤는데 계속 잠들어 별점을 매기기 어려웠다. 영화 때문은 아니었고, 재미있고 스타일리시했지만 많은 부분을 놓쳤다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>2/5</b> - &quot;주연배우가 그렇게 유명한 줄 모르고 초짜에게 표를 구걸했다는 게 믿기지 않는다.&quot;</p>'
-    },
-    {
-      type: 'body',
-      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
-    },
-    {
-      type: 'body',
-      html: '<p><b>3/5</b> - &quot;(스페인어) 칸 영화제가 시체스 영화제처럼 느껴졌다. 뤼미에르 대극장에서 봤고, 고레에다 감독도 있었다. 정말 좋았다.&quot;</p>'
-    },
-    ,
-    { type: 'image', src: '/images/post347_img6.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post347_img5.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post347_img4.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post347_img3.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post347_img2.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post347_img1.jpg', alt: '영화 베테랑2 해외 시사회후기반응', caption: 'ⓒ R의 필름공장' },
-    {
-      type: 'ending',
-      html: '<p><b>2.5/5</b> - &quot;미드나잇 스크리닝 영화로는 괜찮았지만, 순수한 B급 영화의 즐거움이 느껴졌다.&quot;</p>'
-    },
+    { type: 'body', html: "<p>그에 반해 9월 개봉 예정 영화들이 8월에 대비하여 상대적으로 밋밋한 감이 있기에, 이 중 큰 기대작은 베테랑 2가 될 것 입니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;color: inherit; text-align: start;&quot;>지난 5월<span> </span></span><i>제77회 칸 국제 영화제 </i>의 미드나잇 스크리닝에서 공개된 베테랑 2.</p>" },
+    { type: 'body', html: "<p><span style=&quot;letter-spacing: 0px;&quot;>과연 2024년 한국 영화의 소문난 잔치 영화 베테랑 성패는 어떻게 될지, </span></p>" },
+    { type: 'body', html: "<p><span style=&quot;letter-spacing: 0px;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 베테랑 2 개봉 전 칸 국제 영화제 해외 평론가 시사회 후기 반응</b></span>에서 살펴보도록 하겠습니다.</span></p>" },
+    { type: 'body', html: "<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>우선 베테랑 2의 기본 내용과 줄거리, 출연진 정보입니다.</p>" },
+    { type: 'body', html: "<p>베테랑 2는 폭력 범죄를 다루는 경찰 드라마로, 최연소 형사 박선우(정해인)와 베테랑 형사 서도철(황정민)이 힘을 합쳐 악명 높은 연쇄 살인범을 추적하는 이야기를 담고 있습니다.<span> </span></p>" },
+    { type: 'body', html: "<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><b>칸 영화제에서 상영된 후, 베테랑 2는 해외 언론으로부터 극찬</b>을 받았습니다. 평론가들은 이 영화를 액션 범죄 드라마 장르에서 뛰어난 역량을 보여준 류승완 감독의 귀환으로 평가하며, 그의 대표작<span> </span>밀수,<span> </span>베를린, 그리고 첫 편<span> </span>베테랑과 함께 높이 평가했습니다.</p>" },
+    { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>이번 작품은 박선우 형사의 등장으로 인해 변화가 일어난 폭력 범죄 수사팀의 역동적인 모습과 흥미진진한 액션 장면을 예고합니다. 서도철 형사가 9년 만에 돌아오고, 새로운 캐릭터가 추가 됩니다.</p>" },
+    { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>긍정적인 평가로는 먼저, 류승완 감독의 뛰어난 연출력이 돋보였다는 점</b></span>이 있습니다.</p>" },
+    { type: 'body', html: "<p>많은 평론가들은 전작의 매력을 그대로 유지하면서도 새로운 캐릭터와 스토리로 관객들을 몰입시켰다고 평가했습니다.</p>" },
+    { type: 'body', html: "<p>특히, 황정민과 정해인의 케미가 영화의 중심을 잘 잡아주었고, 액션 장면의 완성도가 매우 높다는 칭찬을 받았습니다.</p>" },
+    { type: 'body', html: "<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p>그러나 <span style=&quot;background-color: #9feec3;&quot;><b>일부 평론가들은 영화의 몇 가지 요소에 대해 비판적인 의견</b></span>을 제시했습니다.</p>" },
+    { type: 'body', html: "<p>캐릭터 발전의 부족이 지적되었으며, 새로운 캐릭터들이 충분히 깊이 있게 다루어지지 않았다고 평가되었습니다.</p>" },
+    { type: 'body', html: "<p>또한, 액션 시퀀스가 지나치게 반복적이며, 이전의 액션 영화들과 큰 차별성이 없다는 의견도 있었습니다.</p>" },
+    { type: 'body', html: "<p>마지막으로, 주요 캐릭터들 간의 감정적 연결이 약하게 표현되어 관객들이 감정적으로 몰입하기 어렵다는 비판도 있었습니다.</p>" },
+    { type: 'body', html: "<p>다음은 구체적인 베테랑2 관객 평론 후기를 긍정적 평론과 부정적 평론으로 나누었습니다.</p>" },
+    { type: 'body', html: "<p><b>3.5/5</b><span style=&quot;color: inherit; text-align: start;&quot;><span> </span>- &quot;상당한 대작이다! 격투 장면이 깔끔하며, 과장된 경찰 스릴러로서 코미디와 드라마, 액션이 잘 어우러져 있다.&quot;</span></p>" },
+    { type: 'body', html: "<p><b>4.5/5</b><span> </span>- &quot;드롭킥을 날리는 한국의 직쏘. 멋진 격투 안무와 칸 영화제 팔레 데 페스티발에서의 시사회는 놀라운 경험이었다. 반전은 약간 예측 가능했지만, 즐거움에는 큰 영향을 미치지 않았다.&quot;</p>" },
+    { type: 'body', html: "<p><b>3/5</b> - &quot;칸 미드나잇 스크리닝에서 본 영화로, 액션이 많고 신나는 사운드트랙이 특징이었다. 범인 추적의 미스터리와 유머, 경찰의 잔혹함, 군중심리와 성공을 위한 비열한 행동 등이 잘 엮여 있다.&quot;</p>" },
+    { type: 'body', html: "<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><b>3.5/5</b><span style=&quot;color: inherit; text-align: start;&quot;><span> </span>- &quot;칸에서 계단을 오르는 경험이 정말 즐거웠다.&quot;</span></p>" },
+    { type: 'body', html: "<p><b>3.5/5</b> - &quot;밤 12시 30분부터 새벽 2시 30분까지 깨어 있을 만큼 흥미진진했다. 재미있는 장면과 긴장감이 훌륭했다.&quot;</p>" },
+    { type: 'body', html: "<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><b>3.5/5</b><span style=&quot;color: inherit; text-align: start;&quot;><span> </span>- &quot;재미있고, 너무 과하지 않게 진지한 영화. 정해인의 피부가 정말 완벽했다.&quot;</span></p>" },
+    { type: 'body', html: "<p><b>4/5</b> - &quot;시사회에 참석하고 레드카펫도 걸었다. 2000명이 넘는 관객과 함께 본 경험이 정말 멋졌다. 영화는 완벽하진 않았지만, 새벽 12시 30분에 시작됐음에도 불구하고 인생에서 가장 멋진 경험이었다. 이 영화를 영원히 기억할 것이다. 고맙다, 류승완.&quot;</p>" },
+    { type: 'body', html: "<p><b>2.5/5</b> - &quot;(프랑스어) 저예산 K드라마 같은 느낌.&quot;</p>" },
+    { type: 'body', html: "<p><b>0/5</b> - &quot;칸 미드나잇 스크리닝에서 봤는데 계속 잠들어 별점을 매기기 어려웠다. 영화 때문은 아니었고, 재미있고 스타일리시했지만 많은 부분을 놓쳤다.&quot;</p>" },
+    { type: 'body', html: "<p><b>2/5</b> - &quot;주연배우가 그렇게 유명한 줄 모르고 초짜에게 표를 구걸했다는 게 믿기지 않는다.&quot;</p>" },
+    { type: 'body', html: "<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><b>3/5</b> - &quot;(스페인어) 칸 영화제가 시체스 영화제처럼 느껴졌다. 뤼미에르 대극장에서 봤고, 고레에다 감독도 있었다. 정말 좋았다.&quot;</p>" },
+    { type: 'image', src: "/images/post347_img5.jpg", alt: "영화 베테랑2 해외 시사회후기반응", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post347_img4.jpg", alt: "영화 베테랑2 해외 시사회후기반응", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post347_img3.jpg", alt: "영화 베테랑2 해외 시사회후기반응", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post347_img1.jpg", alt: "영화 베테랑2 해외 시사회후기반응", caption: "ⓒ R의 필름공장" },
+    { type: 'ending', html: "<p><b>2.5/5</b> - &quot;미드나잇 스크리닝 영화로는 괜찮았지만, 순수한 B급 영화의 즐거움이 느껴졌다.&quot;</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }
