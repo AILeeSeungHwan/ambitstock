@@ -203,9 +203,10 @@ export default function PostPage({ meta, postData, related }) {
   const jsonLd = {
     '@context': 'https://schema.org', '@type': 'Article',
     headline: meta.title, description: meta.description,
+    image: meta.thumbnail ? 'https://ambitstock.com' + meta.thumbnail : undefined,
     datePublished: meta.date, dateModified: meta.date,
-    author: { '@type': 'Organization', name: 'R\uc758 \ud544\ub984\uacf5\uc7a5' },
-    publisher: { '@type': 'Organization', name: 'R\uc758 \ud544\ub984\uacf5\uc7a5', url: 'https://ambitstock.com' },
+    author: { '@type': 'Organization', name: 'R의 필름공장', url: 'https://ambitstock.com' },
+    publisher: { '@type': 'Organization', name: 'R의 필름공장', url: 'https://ambitstock.com', logo: { '@type': 'ImageObject', url: 'https://ambitstock.com/favicon.svg' } },
     mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalUrl },
   }
 
