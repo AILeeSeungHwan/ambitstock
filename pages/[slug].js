@@ -200,14 +200,28 @@ export default function PostPage({ meta, postData, related }) {
   if (!meta || !postData) return null
 
   const canonicalUrl = 'https://ambitstock.com/' + meta.slug + '/'
+  const allImages = postData.sections.filter(s => s.type === 'image' && s.src).map(s => 'https://ambitstock.com' + s.src)
+  const bodyText = postData.sections.filter(s => s.type === 'body' || s.type === 'intro').map(s => (s.html || '').replace(/<[^>]*>/g, '')).join(' ')
+  const wordCount = bodyText.length
+
   const jsonLd = {
     '@context': 'https://schema.org', '@type': 'Article',
-    headline: meta.title, description: meta.description,
-    image: meta.thumbnail ? 'https://ambitstock.com' + meta.thumbnail : undefined,
-    datePublished: meta.date, dateModified: meta.date,
+    headline: meta.title,
+    description: meta.description,
+    image: allImages.length > 0 ? allImages : undefined,
+    datePublished: meta.date,
+    dateModified: meta.date,
     author: { '@type': 'Organization', name: 'R의 필름공장', url: 'https://ambitstock.com' },
     publisher: { '@type': 'Organization', name: 'R의 필름공장', url: 'https://ambitstock.com', logo: { '@type': 'ImageObject', url: 'https://ambitstock.com/favicon.svg' } },
     mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalUrl },
+    articleSection: meta.category,
+    keywords: meta.tags ? meta.tags.join(', ') : undefined,
+    wordCount: wordCount > 0 ? wordCount : undefined,
+    inLanguage: 'ko',
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['article header h1', '.post-body']
+    },
   }
 
   return (

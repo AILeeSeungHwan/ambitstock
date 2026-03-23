@@ -1,5 +1,6 @@
 import { useState, useEffect, useMemo } from 'react'
 import { useRouter } from 'next/router'
+import Head from 'next/head'
 import Layout from '../components/Layout'
 import PostCard, { FeaturedCard, ListCard } from '../components/PostCard'
 import AdUnit from '../components/AdUnit'
@@ -261,6 +262,37 @@ export default function Home({ posts, catCount, trendPosts }) {
       const labelMap = { 'movie-recommend': '영화추천', 'overseas-reaction': '해외반응후기', 'marvel': '마블', 'drama': '드라마', 'animation': '애니메이션' }
       handleCat(labelMap[cat] || null)
     }}>
+      <Head>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'CollectionPage',
+          'name': 'R의 필름공장 — 영화·드라마·애니메이션 추천',
+          'description': '오늘 뭐 볼지 골라주는 사이트. 영화 추천, 드라마 리뷰, 해외반응, OTT 가이드, 결말 해석.',
+          'url': 'https://ambitstock.com',
+          'mainEntity': {
+            '@type': 'ItemList',
+            'itemListElement': trending.slice(0, 6).map((p, i) => ({
+              '@type': 'ListItem',
+              'position': i + 1,
+              'name': p.title,
+              'url': 'https://ambitstock.com' + getPostUrl(p),
+              ...(p.thumbnail ? { 'image': 'https://ambitstock.com' + p.thumbnail } : {})
+            }))
+          }
+        }) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'SiteNavigationElement',
+          'name': ['영화추천', '해외반응후기', '마블', '드라마', '애니메이션'],
+          'url': [
+            'https://ambitstock.com/?cat=영화추천',
+            'https://ambitstock.com/?cat=해외반응후기',
+            'https://ambitstock.com/?cat=마블',
+            'https://ambitstock.com/?cat=드라마',
+            'https://ambitstock.com/?cat=애니메이션'
+          ]
+        }) }} />
+      </Head>
       <PageTracker slug="main" />
 
       {/* ─── 지금 뜨는 작품 ─── */}
