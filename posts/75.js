@@ -21,7 +21,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bAalcZ/btsIQFyB5iC/AAAAAAAAAAAAAAAAAAAAAGWb8PnWLQWreRcSKrRsC2kDIb1OMHz0cVpAuH4A1gsW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LSXdsmF1lU0TorXGKxopCLboKI0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bAalcZ/btsIQFyB5iC/AAAAAAAAAAAAAAAAAAAAAGWb8PnWLQWreRcSKrRsC2kDIb1OMHz0cVpAuH4A1gsW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LSXdsmF1lU0TorXGKxopCLboKI0%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post75_img1.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
@@ -60,7 +60,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cJdQaj/btsIQHpCwQy/AAAAAAAAAAAAAAAAAAAAAMpQmXMhnEykQLvHsBp1YcC_maTeFxzxhztdSvStCdQN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=posi%2BMwzNMQbB2hKO5eTxDf98lo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cJdQaj/btsIQHpCwQy/AAAAAAAAAAAAAAAAAAAAAMpQmXMhnEykQLvHsBp1YcC_maTeFxzxhztdSvStCdQN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=posi%2BMwzNMQbB2hKO5eTxDf98lo%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post75_img2.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
@@ -99,7 +99,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/8m4ys/btsIPZRVD8o/AAAAAAAAAAAAAAAAAAAAAOAoZiAc9CnRRQ_vA-fTNTnkrusbLEf5v2-FqDErG44t/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qa0jtmFFW%2FcEWaZmiiqFv7GqJIQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/8m4ys/btsIPZRVD8o/AAAAAAAAAAAAAAAAAAAAAOAoZiAc9CnRRQ_vA-fTNTnkrusbLEf5v2-FqDErG44t/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qa0jtmFFW%2FcEWaZmiiqFv7GqJIQ%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post75_img3.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
@@ -139,7 +139,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bhOPRN/btsIRob3Tuk/AAAAAAAAAAAAAAAAAAAAAIiqZBmICGcFCkzetBJU4U_p8LtOxGyVhgIAh0He6AxI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BiJWrU6KcXXiCddq41t865dXs74%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bhOPRN/btsIRob3Tuk/AAAAAAAAAAAAAAAAAAAAAIiqZBmICGcFCkzetBJU4U_p8LtOxGyVhgIAh0He6AxI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BiJWrU6KcXXiCddq41t865dXs74%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post75_img4.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
@@ -178,7 +178,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/nH2ZE/btsIPwvQmp2/AAAAAAAAAAAAAAAAAAAAAHyTnGLHM_drIFE-xEiToLaY2Z-183jIBC-f2YADCv4B/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=UiFbcXavIhvRHXOnEo31lhReNCc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/nH2ZE/btsIPwvQmp2/AAAAAAAAAAAAAAAAAAAAAHyTnGLHM_drIFE-xEiToLaY2Z-183jIBC-f2YADCv4B/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=UiFbcXavIhvRHXOnEo31lhReNCc%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post75_img5.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
@@ -213,7 +213,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ba2SRc/btsIQ0ia1To/AAAAAAAAAAAAAAAAAAAAAFaeuukkfVClyHUWkwz4j8In2fDmAtF_enVWNdfbNuCK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RWn3haE78WABpOmv2U35kEDw%2F%2Fc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ba2SRc/btsIQ0ia1To/AAAAAAAAAAAAAAAAAAAAAFaeuukkfVClyHUWkwz4j8In2fDmAtF_enVWNdfbNuCK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RWn3haE78WABpOmv2U35kEDw%2F%2Fc%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post75_img6.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
@@ -244,7 +244,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/1PVPm/btsIQv3XPqG/AAAAAAAAAAAAAAAAAAAAAPILBzEKzEMr3Ur0Cf_1QKcwS6VnWVuq5-oe80qb5YAz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BOTN%2FE%2FJykvFj3iR3VG23VdTTeQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/1PVPm/btsIQv3XPqG/AAAAAAAAAAAAAAAAAAAAAPILBzEKzEMr3Ur0Cf_1QKcwS6VnWVuq5-oe80qb5YAz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BOTN%2FE%2FJykvFj3iR3VG23VdTTeQ%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post75_img7.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
@@ -275,7 +275,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Ae0U9/btsIPYeqAIG/AAAAAAAAAAAAAAAAAAAAAOYTqsXS3uqn0aZ9KTvuN4e757L_gMrWRYCQXLPASlPC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sRHIV8k945nBkyhKxFe8htQienk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Ae0U9/btsIPYeqAIG/AAAAAAAAAAAAAAAAAAAAAOYTqsXS3uqn0aZ9KTvuN4e757L_gMrWRYCQXLPASlPC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sRHIV8k945nBkyhKxFe8htQienk%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post75_img8.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
@@ -306,7 +306,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bGJ4Py/btsIRduWJCs/AAAAAAAAAAAAAAAAAAAAAPNujlsYmmODjhtZ35JBmoVAdej-Somx384ZvzzC5cPJ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RD1G14jE9FxWrKhLJcpSoPIrhd8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bGJ4Py/btsIRduWJCs/AAAAAAAAAAAAAAAAAAAAAPNujlsYmmODjhtZ35JBmoVAdej-Somx384ZvzzC5cPJ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RD1G14jE9FxWrKhLJcpSoPIrhd8%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post75_img9.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
@@ -341,7 +341,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;볼만한 넷플릭스 인생영화 추천&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/da9rnI/btsIRY43sMs/AAAAAAAAAAAAAAAAAAAAAO_ZgzDLI6kQhe74JVfNenDOnr3p82jxqBUBElWYviHO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=62dP9damqkGcc6bPOrdkh%2F%2FuM3A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/da9rnI/btsIRY43sMs/AAAAAAAAAAAAAAAAAAAAAO_ZgzDLI6kQhe74JVfNenDOnr3p82jxqBUBElWYviHO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=62dP9damqkGcc6bPOrdkh%2F%2FuM3A%3D&quot;></span><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post75_img10.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {

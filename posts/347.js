@@ -31,7 +31,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1158&quot; data-origin-width=&quot;1092&quot;><span data-alt=&quot;영화 베테랑2 해외 시사회후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wwB7u/btsI5g56Bgs/AAAAAAAAAAAAAAAAAAAAAM_uol9l4zMbtPWCioBjUFMrL5EoFNiX61YfIDgPqCfU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=iunV1PX3AGen47johae2LJJmA4Y%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wwB7u/btsI5g56Bgs/AAAAAAAAAAAAAAAAAAAAAM_uol9l4zMbtPWCioBjUFMrL5EoFNiX61YfIDgPqCfU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=iunV1PX3AGen47johae2LJJmA4Y%3D&quot;></span><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -43,7 +43,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1352&quot; data-origin-width=&quot;1092&quot;><span data-alt=&quot;영화 베테랑2 해외 시사회후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/H1Kjw/btsI4seR3HJ/AAAAAAAAAAAAAAAAAAAAABVzm8mHFL5xLETL803JEWVYY5FEeu1qDAplRdyC3pc2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GaZUbQprLQIMlMP9aJJrYlrfuKI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/H1Kjw/btsI4seR3HJ/AAAAAAAAAAAAAAAAAAAAABVzm8mHFL5xLETL803JEWVYY5FEeu1qDAplRdyC3pc2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GaZUbQprLQIMlMP9aJJrYlrfuKI%3D&quot;></span><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -67,7 +67,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1158&quot; data-origin-width=&quot;1968&quot;><span data-alt=&quot;영화 베테랑2 해외 시사회후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/diuJHD/btsI5wHBrjv/AAAAAAAAAAAAAAAAAAAAAJxXxeYBeaZdmM0d9Kc8i7YPr7Jx2Z2qZ3lM7v_MMhAP/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1OmBypag0qhnhbC4yJRVIzp8Q9U%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/diuJHD/btsI5wHBrjv/AAAAAAAAAAAAAAAAAAAAAJxXxeYBeaZdmM0d9Kc8i7YPr7Jx2Z2qZ3lM7v_MMhAP/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1OmBypag0qhnhbC4yJRVIzp8Q9U%3D&quot;></span><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -103,7 +103,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1158&quot; data-origin-width=&quot;1968&quot;><span data-alt=&quot;영화 베테랑2 해외 시사회후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/xigo5/btsI3O35ksa/AAAAAAAAAAAAAAAAAAAAAP3H92qHUpApHIQgP1fkUBG4rpY5FsYYMBaE27yj5Ke-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=whV0huuymv6bE0dks3S0ySZNhGk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/xigo5/btsI3O35ksa/AAAAAAAAAAAAAAAAAAAAAP3H92qHUpApHIQgP1fkUBG4rpY5FsYYMBaE27yj5Ke-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=whV0huuymv6bE0dks3S0ySZNhGk%3D&quot;></span><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -115,7 +115,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1158&quot; data-origin-width=&quot;1844&quot;><span data-alt=&quot;영화 베테랑2 해외 시사회후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/czITRs/btsI5hqnQ9w/AAAAAAAAAAAAAAAAAAAAAK2tgDx-k2dW2fSwla6ulnpTMWEQarUbpLA5vOiXcsGl/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ZP5pRpyyFkbWfyEJORcytWH11gw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/czITRs/btsI5hqnQ9w/AAAAAAAAAAAAAAAAAAAAAK2tgDx-k2dW2fSwla6ulnpTMWEQarUbpLA5vOiXcsGl/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ZP5pRpyyFkbWfyEJORcytWH11gw%3D&quot;></span><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -139,7 +139,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1158&quot; data-origin-width=&quot;1968&quot;><span data-alt=&quot;영화 베테랑2 해외 시사회후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bdoCY7/btsI5Nh0U8M/AAAAAAAAAAAAAAAAAAAAALPrj6K0jnpw2SAI0tVRgg9MgXjHsWmxnLunrBgFdccN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4QLtEtOSMnEcy6%2FAtdqLngiMpuI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bdoCY7/btsI5Nh0U8M/AAAAAAAAAAAAAAAAAAAAALPrj6K0jnpw2SAI0tVRgg9MgXjHsWmxnLunrBgFdccN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4QLtEtOSMnEcy6%2FAtdqLngiMpuI%3D&quot;></span><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 베테랑2 해외 시사회후기반응</figcaption> </figure> </p>'
     },
     {
       type: 'body',

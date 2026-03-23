@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;672&quot; data-origin-width=&quot;446&quot;><span data-alt=&quot;콘크리트 유토피아 배우 이병헌&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/t3fd5/btsEnPzgEJx/AAAAAAAAAAAAAAAAAAAAAFb1MjEueZNj9_ORxZPW3Rn2lToYN2NNUx-p_s6-7ZeD/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LWf8V0jGpLpnYFuvmiQBu0MK%2F4o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/t3fd5/btsEnPzgEJx/AAAAAAAAAAAAAAAAAAAAAFb1MjEueZNj9_ORxZPW3Rn2lToYN2NNUx-p_s6-7ZeD/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LWf8V0jGpLpnYFuvmiQBu0MK%2F4o%3D&quot;></span><figcaption>콘크리트 유토피아 배우 이병헌</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>콘크리트 유토피아 배우 이병헌</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -47,7 +47,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;235&quot; data-origin-width=&quot;756&quot;><span data-alt=&quot;로튼토마토 콘크리트 유토피아 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/uJS6T/btsEninPnPB/AAAAAAAAAAAAAAAAAAAAANX5SdlghKFl4drwE9ml_cmWv83fn0MlPG4mphY3ap3r/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ocg7YFJZiEA3hDIK3LH8FJla1ps%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/uJS6T/btsEninPnPB/AAAAAAAAAAAAAAAAAAAAANX5SdlghKFl4drwE9ml_cmWv83fn0MlPG4mphY3ap3r/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ocg7YFJZiEA3hDIK3LH8FJla1ps%3D&quot;></span><figcaption>로튼토마토 콘크리트 유토피아 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>로튼토마토 콘크리트 유토피아 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -119,7 +119,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;478&quot; data-origin-width=&quot;1156&quot;><span data-alt=&quot;IMDB 콘크리트 유토피아 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/QcEUz/btsEuzBTly1/AAAAAAAAAAAAAAAAAAAAABSqNOPwabM3uqSkuLwnrdzCmhLNziBrcGwEg4teObq0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=stuemSjN6oKZ8wzNbc59iiU3wYw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/QcEUz/btsEuzBTly1/AAAAAAAAAAAAAAAAAAAAABSqNOPwabM3uqSkuLwnrdzCmhLNziBrcGwEg4teObq0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=stuemSjN6oKZ8wzNbc59iiU3wYw%3D&quot;></span><figcaption>IMDB 콘크리트 유토피아 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 콘크리트 유토피아 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -135,7 +135,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;592&quot; data-origin-width=&quot;773&quot;><span data-alt=&quot;IMDB 콘크리트 유토피아 평점분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bcUU3I/btsEppfK8uj/AAAAAAAAAAAAAAAAAAAAABT1vFFUcux1JqKNMH1nND6pnAzcHpbn3DewHMydF0mS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=y%2BjcNeEYa0SguSAwdcRRma4zY6k%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bcUU3I/btsEppfK8uj/AAAAAAAAAAAAAAAAAAAAABT1vFFUcux1JqKNMH1nND6pnAzcHpbn3DewHMydF0mS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=y%2BjcNeEYa0SguSAwdcRRma4zY6k%3D&quot;></span><figcaption>IMDB 콘크리트 유토피아 평점분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 콘크리트 유토피아 평점분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',

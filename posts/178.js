@@ -52,7 +52,7 @@ const post = {
     { type: 'image', src: '/images/post178_img2.jpg', alt: '총을 든 스님 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;644&quot; data-origin-width=&quot;1864&quot;><span data-alt=&quot;총을 든 스님 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bQZx1n/btsKUHtw7EV/AAAAAAAAAAAAAAAAAAAAAOoeThd8aFQhRuD3nqTReER1_8BRZ3G0cGF8QCvzsA2Q/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=miWFG52nVRZXToLK3O3JJfj4%2Bj0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bQZx1n/btsKUHtw7EV/AAAAAAAAAAAAAAAAAAAAAOoeThd8aFQhRuD3nqTReER1_8BRZ3G0cGF8QCvzsA2Q/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=miWFG52nVRZXToLK3O3JJfj4%2Bj0%3D&quot;></span><figcaption>총을 든 스님 로튼 토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>총을 든 스님 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

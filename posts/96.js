@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><b>영화 캡틴 아메리카 4번째 시리즈, 브레이브 뉴 월드 (영어제목 : Captain America: Brave New World )가 2025년 2월 12일 개봉하였습니다.</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화  해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=30909651&amp;qvt=0&amp;query=캡틴%20아메리카%20브레이브%20뉴%20월드%20상영일정&quot; title=&quot;영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 바로 보러 가기👉</button></a></center></div><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1306&quot; data-origin-width=&quot;1956&quot;><span data-alt=&quot;캡틴 아메리카 브레이브 뉴 월드&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wUaXk/btsMjTzD3mC/AAAAAAAAAAAAAAAAAAAAAHg5--bt6gWsB-HdAKSs2h8G8mXof1YnN0NfNAdxk1_v/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FWPF2O0USNNuCoG3PpiCV%2Bze7WM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wUaXk/btsMjTzD3mC/AAAAAAAAAAAAAAAAAAAAAHg5--bt6gWsB-HdAKSs2h8G8mXof1YnN0NfNAdxk1_v/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FWPF2O0USNNuCoG3PpiCV%2Bze7WM%3D&quot;></span><figcaption>캡틴 아메리카 브레이브 뉴 월드</figcaption> </figure> </p>'
+      html: '<p><b>영화 캡틴 아메리카 4번째 시리즈, 브레이브 뉴 월드 (영어제목 : Captain America: Brave New World )가 2025년 2월 12일 개봉하였습니다.</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화  해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=30909651&amp;qvt=0&amp;query=캡틴%20아메리카%20브레이브%20뉴%20월드%20상영일정&quot; title=&quot;영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 바로 보러 가기👉</button></a></center></div><p><figure><figcaption>캡틴 아메리카 브레이브 뉴 월드</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -146,7 +146,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1306&quot; data-origin-width=&quot;1956&quot;><span data-alt=&quot;캡틴 아메리카 브레이브 뉴 월드&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cZDutF/btsMh4QrVlJ/AAAAAAAAAAAAAAAAAAAAAAqpJPkoHf4RUMyo4fOND-xAKFDEnoVQpL_EF6egAzMz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xIkWg%2FhSum44GBj%2BA6%2F9BXFIOMA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cZDutF/btsMh4QrVlJ/AAAAAAAAAAAAAAAAAAAAAAqpJPkoHf4RUMyo4fOND-xAKFDEnoVQpL_EF6egAzMz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xIkWg%2FhSum44GBj%2BA6%2F9BXFIOMA%3D&quot;></span><figcaption>캡틴 아메리카 브레이브 뉴 월드</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>캡틴 아메리카 브레이브 뉴 월드</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -166,7 +166,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;824&quot; data-origin-width=&quot;1956&quot;><span data-alt=&quot;캡틴 아메리카 브레이브 뉴 월드&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cqAjMo/btsMjiGTLEa/AAAAAAAAAAAAAAAAAAAAAEo68XpogTOjIdUQg6EB1nzeerkcobi6-vuojF3BSIJ4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sz7PH4EmRfGuf3WjlLZzcJXqCvY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cqAjMo/btsMjiGTLEa/AAAAAAAAAAAAAAAAAAAAAEo68XpogTOjIdUQg6EB1nzeerkcobi6-vuojF3BSIJ4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sz7PH4EmRfGuf3WjlLZzcJXqCvY%3D&quot;></span><figcaption>캡틴 아메리카 브레이브 뉴 월드</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>캡틴 아메리카 브레이브 뉴 월드</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -204,7 +204,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;824&quot; data-origin-width=&quot;1956&quot;><span data-alt=&quot;캡틴 아메리카 브레이브 뉴 월드&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cFicBP/btsMigJQiN1/AAAAAAAAAAAAAAAAAAAAAC1R7ys0TnJLkZfB1mfMGy0xHNmYcPzdfNcmaSKPYdfa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xJpwpsJ9h9O9SnGiIiVMqKuyNMo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cFicBP/btsMigJQiN1/AAAAAAAAAAAAAAAAAAAAAC1R7ys0TnJLkZfB1mfMGy0xHNmYcPzdfNcmaSKPYdfa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xJpwpsJ9h9O9SnGiIiVMqKuyNMo%3D&quot;></span><figcaption>캡틴 아메리카 브레이브 뉴 월드</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>캡틴 아메리카 브레이브 뉴 월드</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -216,7 +216,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;824&quot; data-origin-width=&quot;1956&quot;><span data-alt=&quot;캡틴 아메리카 브레이브 뉴 월드&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ogC79/btsMiDY7gSs/AAAAAAAAAAAAAAAAAAAAAGxk4Z3EAxvg-uG8qMnOAg3zfPa8axk-A9oV45dHxSLY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qkXxnAiHIEn8WtTzgXyMu5jVKvY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ogC79/btsMiDY7gSs/AAAAAAAAAAAAAAAAAAAAAGxk4Z3EAxvg-uG8qMnOAg3zfPa8axk-A9oV45dHxSLY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qkXxnAiHIEn8WtTzgXyMu5jVKvY%3D&quot;></span><figcaption>캡틴 아메리카 브레이브 뉴 월드</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>캡틴 아메리카 브레이브 뉴 월드</figcaption> </figure> </p>'
     },
     {
       type: 'body',

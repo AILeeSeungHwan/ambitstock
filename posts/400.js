@@ -1,7 +1,7 @@
 const post = {
   id: 400,
   sections: [
-    { type: 'intro', html: "<p>애니메이션 최애의 아이 2기 줄거리와 등장인물 기본정보 일본 현지 반응과 평점 살펴보도록 하겠습니다.</p><p>최애의 아이 2기 <span style=&quot;background-color: #f3c000;&quot;><b>줄거리와 등장인물 성우진, 방영일정</b></span>은 하단 포스팅을 참고하세요.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;624&quot; data-origin-width=&quot;963&quot;><span data-alt=&quot;최애의 아이 2기 현지 반응 평점 리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ch8upw/btsIozdRqgh/AAAAAAAAAAAAAAAAAAAAADcapttcgkh4ouCDLFkqEP6NMbu577gLAl0RpfgujPr2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=fncr6HkQ0WVNlLQ%2BNyhyClne7b0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ch8upw/btsIozdRqgh/AAAAAAAAAAAAAAAAAAAAADcapttcgkh4ouCDLFkqEP6NMbu577gLAl0RpfgujPr2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=fncr6HkQ0WVNlLQ%2BNyhyClne7b0%3D&quot;></span><figcaption>최애의 아이 2기 현지 반응 평점 리뷰</figcaption> </figure> </p>" },
+    { type: 'intro', html: "<p>애니메이션 최애의 아이 2기 줄거리와 등장인물 기본정보 일본 현지 반응과 평점 살펴보도록 하겠습니다.</p><p>최애의 아이 2기 <span style=&quot;background-color: #f3c000;&quot;><b>줄거리와 등장인물 성우진, 방영일정</b></span>은 하단 포스팅을 참고하세요.</p><p><figure><figcaption>최애의 아이 2기 현지 반응 평점 리뷰</figcaption> </figure> </p>" },
     { type: 'image', src: "/images/post400_thumb.svg", alt: "최애의 아이 2기 역대급 애니메이션 오프닝 일본 현지 반응과 후기, 해외 평점 리뷰 보는곳 총정리!", caption: "최애의 아이 2기 역대급 애니메이션 오프닝 일본 현지 반응과 후기, 해외 평점 리뷰 보는곳 총정리!" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },

@@ -59,7 +59,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;900&quot; data-origin-width=&quot;2016&quot;><span data-alt=&quot;넷플릭스 시리즈 돌풍 해외 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/zo50o/btsIhbFgDX4/AAAAAAAAAAAAAAAAAAAAAGL8GSp96SJCthhvAlPVZhI62mVN6coQEznz0FFaR_Pw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1QqjG83aZnDFRBlmsUmIrnOhLrI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/zo50o/btsIhbFgDX4/AAAAAAAAAAAAAAAAAAAAAGL8GSp96SJCthhvAlPVZhI62mVN6coQEznz0FFaR_Pw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1QqjG83aZnDFRBlmsUmIrnOhLrI%3D&quot;></span><figcaption>넷플릭스 시리즈 돌풍 해외 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 돌풍 해외 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

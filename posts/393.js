@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</span></b></p><p style=&quot;color: inherit; text-align: start;&quot;>2024년 7월 2주차 신작, 넷플릭스 영화 추천, 인기 순위 1위 영화 댓글부대 영어제목 Troll Factory 입니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1366&quot; data-origin-width=&quot;986&quot;><span data-alt=&quot;영화 댓글부대 해외 평점 반응 결말후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bfaauj/btsIwvKjgED/AAAAAAAAAAAAAAAAAAAAANuBNASCUUwOu2_FpHNFDvIdSjMixUvpM_ieOR7IuiIS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nFVIyYGj5nKIrQMqhz9HDaJ1yC4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bfaauj/btsIwvKjgED/AAAAAAAAAAAAAAAAAAAAANuBNASCUUwOu2_FpHNFDvIdSjMixUvpM_ieOR7IuiIS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nFVIyYGj5nKIrQMqhz9HDaJ1yC4%3D&quot;></span><figcaption>영화 댓글부대 해외 평점 반응 결말후기</figcaption> </figure> </p>'
+      html: '<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</span></b></p><p style=&quot;color: inherit; text-align: start;&quot;>2024년 7월 2주차 신작, 넷플릭스 영화 추천, 인기 순위 1위 영화 댓글부대 영어제목 Troll Factory 입니다.</p><p><figure><figcaption>영화 댓글부대 해외 평점 반응 결말후기</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -55,7 +55,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;882&quot; data-origin-width=&quot;2074&quot;><span data-alt=&quot;영화 댓글부대 해외 평점 반응 결말후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ZCUgW/btsIxZDyaWE/AAAAAAAAAAAAAAAAAAAAAKQIv36ykfExTbzMdUjKnplIHPMzRP3Sn5PDrQNtmRuE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OesHWk7z7Jm0uN0hu829WBkmIL8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ZCUgW/btsIxZDyaWE/AAAAAAAAAAAAAAAAAAAAAKQIv36ykfExTbzMdUjKnplIHPMzRP3Sn5PDrQNtmRuE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OesHWk7z7Jm0uN0hu829WBkmIL8%3D&quot;></span><figcaption>영화 댓글부대 해외 평점 반응 결말후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 댓글부대 해외 평점 반응 결말후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -71,7 +71,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1116&quot; data-origin-width=&quot;1330&quot;><span data-alt=&quot;영화 댓글부대 해외 평점 반응 결말후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cQzkg8/btsIwTqwtjS/AAAAAAAAAAAAAAAAAAAAAFj0lf7vsyH_-clUPpeYQCZtvIAIo3G25YfuKtuRtv4O/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2eIbI4XbLX8wi7H8ObbwduwZ0xo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cQzkg8/btsIwTqwtjS/AAAAAAAAAAAAAAAAAAAAAFj0lf7vsyH_-clUPpeYQCZtvIAIo3G25YfuKtuRtv4O/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2eIbI4XbLX8wi7H8ObbwduwZ0xo%3D&quot;></span><figcaption>영화 댓글부대 해외 평점 반응 결말후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 댓글부대 해외 평점 반응 결말후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -91,7 +91,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;1366&quot; data-origin-width=&quot;1690&quot;><span data-alt=&quot;영화 댓글부대 해외 평점 반응 결말후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/YxVur/btsIx1BiEB0/AAAAAAAAAAAAAAAAAAAAAC6v0Acr5Z1L2tQn9pk9lk3MfixkoZb42jF8InkjylGE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Twnbu30BRoHG%2FMUwQDkKQKJfEvw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/YxVur/btsIx1BiEB0/AAAAAAAAAAAAAAAAAAAAAC6v0Acr5Z1L2tQn9pk9lk3MfixkoZb42jF8InkjylGE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Twnbu30BRoHG%2FMUwQDkKQKJfEvw%3D&quot;></span><figcaption>영화 댓글부대 해외 평점 반응 결말후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 댓글부대 해외 평점 반응 결말후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',

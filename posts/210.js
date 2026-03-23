@@ -42,7 +42,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1124&quot; data-origin-width=&quot;1650&quot;><span data-alt=&quot;블링크 트와이스 뜻 의미 해석&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/W1eKC/btsKItw3LyO/AAAAAAAAAAAAAAAAAAAAAAkDyORNcKz3_PglzSAM5puYaOfvrss-XrHz-354xob3/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hGvLgThGp5Uan3mL0haNbafH8fk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/W1eKC/btsKItw3LyO/AAAAAAAAAAAAAAAAAAAAAAkDyORNcKz3_PglzSAM5puYaOfvrss-XrHz-354xob3/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hGvLgThGp5Uan3mL0haNbafH8fk%3D&quot;></span><figcaption>블링크 트와이스 뜻 의미 해석</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>블링크 트와이스 뜻 의미 해석</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -65,7 +65,7 @@ const post = {
     { type: 'image', src: '/images/post210_img2.jpg', alt: '블링크 트와이스 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;478&quot; data-origin-width=&quot;1506&quot;><span data-alt=&quot;블링크 트와이스 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/qso5f/btsKJkF1U9k/AAAAAAAAAAAAAAAAAAAAAFvcsP_yEYvM8J6RaZ9C1mpbFRiBdxQZ1hGc8-YHaMNa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=e6KR%2BYWPwrj0KZeHRYsfX%2BXS5EE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/qso5f/btsKJkF1U9k/AAAAAAAAAAAAAAAAAAAAAFvcsP_yEYvM8J6RaZ9C1mpbFRiBdxQZ1hGc8-YHaMNa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=e6KR%2BYWPwrj0KZeHRYsfX%2BXS5EE%3D&quot;></span><figcaption>블링크 트와이스 로튼 토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>블링크 트와이스 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -92,7 +92,7 @@ const post = {
     { type: 'image', src: '/images/post210_img3.jpg', alt: '블링크 트와이스 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;864&quot; data-origin-width=&quot;1994&quot;><span data-alt=&quot;블링크 트와이스 평점 인기순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bxP0DO/btsKItw1JjQ/AAAAAAAAAAAAAAAAAAAAAJA2s8UVfdCZaIzOToT_x3ckRyWSoA-Uwf_R0ihEIGPT/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WcLxloV57YwJDHstxAH2ssZG50Q%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bxP0DO/btsKItw1JjQ/AAAAAAAAAAAAAAAAAAAAAJA2s8UVfdCZaIzOToT_x3ckRyWSoA-Uwf_R0ihEIGPT/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WcLxloV57YwJDHstxAH2ssZG50Q%3D&quot;></span><figcaption>블링크 트와이스 평점 인기순위</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>블링크 트와이스 평점 인기순위</figcaption> </figure> </p>'
     },
     {
       type: 'body',

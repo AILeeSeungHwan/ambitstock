@@ -99,7 +99,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1444&quot; data-origin-width=&quot;1580&quot;><span data-alt=&quot;백 인 액션 back in action&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/PLrzA/btsLWCkn2jM/AAAAAAAAAAAAAAAAAAAAAMXhB7gaLcu8mCZSRtBTc3pHtR-R0m5Cxqa0mc_l5MJo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qCE%2BmuxjHBWW9DaQukR41Y9XvtM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/PLrzA/btsLWCkn2jM/AAAAAAAAAAAAAAAAAAAAAMXhB7gaLcu8mCZSRtBTc3pHtR-R0m5Cxqa0mc_l5MJo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qCE%2BmuxjHBWW9DaQukR41Y9XvtM%3D&quot;></span><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -153,7 +153,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1502&quot; data-origin-width=&quot;994&quot;><span data-alt=&quot;백 인 액션 back in action&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ck2o7a/btsLVDRU5s6/AAAAAAAAAAAAAAAAAAAAAB0NmQUkgd22uEjHJ4j6ULUyQ_FLbZ8sNP5xdgEH5CZC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=l4uhGrsM9teAd3439LLuJfSl7j8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ck2o7a/btsLVDRU5s6/AAAAAAAAAAAAAAAAAAAAAB0NmQUkgd22uEjHJ4j6ULUyQ_FLbZ8sNP5xdgEH5CZC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=l4uhGrsM9teAd3439LLuJfSl7j8%3D&quot;></span><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -165,7 +165,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1406&quot; data-origin-width=&quot;1782&quot;><span data-alt=&quot;백 인 액션 back in action&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dms4lO/btsLVEC5OIw/AAAAAAAAAAAAAAAAAAAAAMo7jkAaTsoNYL59vSnGD7Fs9DWprU6VYGuhyQq43Fuo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KTH0rOyMHWM0yc7OPB8QGpyeYG4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dms4lO/btsLVEC5OIw/AAAAAAAAAAAAAAAAAAAAAMo7jkAaTsoNYL59vSnGD7Fs9DWprU6VYGuhyQq43Fuo/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KTH0rOyMHWM0yc7OPB8QGpyeYG4%3D&quot;></span><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -177,7 +177,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1406&quot; data-origin-width=&quot;1782&quot;><span data-alt=&quot;백 인 액션 back in action&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/chSLnW/btsLVkd41Iy/AAAAAAAAAAAAAAAAAAAAAFe6RKxyx2Pgk2h_f3MZHwUtojTo7tXwVZNjrJc4QnP6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2B9ew6YkzGUAQKvfI2DQaKfrKsBE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/chSLnW/btsLVkd41Iy/AAAAAAAAAAAAAAAAAAAAAFe6RKxyx2Pgk2h_f3MZHwUtojTo7tXwVZNjrJc4QnP6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2B9ew6YkzGUAQKvfI2DQaKfrKsBE%3D&quot;></span><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -189,7 +189,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1406&quot; data-origin-width=&quot;1782&quot;><span data-alt=&quot;백 인 액션 back in action&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/FOqOZ/btsLWxcoo59/AAAAAAAAAAAAAAAAAAAAAMllwbyYJSqZ6y5k249L9QiE3ErUsm-A-O9q3K3S0nR-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xCRL1gjB31U9S2wc50TeD0orhDE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/FOqOZ/btsLWxcoo59/AAAAAAAAAAAAAAAAAAAAAMllwbyYJSqZ6y5k249L9QiE3ErUsm-A-O9q3K3S0nR-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xCRL1gjB31U9S2wc50TeD0orhDE%3D&quot;></span><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -201,7 +201,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1406&quot; data-origin-width=&quot;1782&quot;><span data-alt=&quot;백 인 액션 back in action&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bODI4d/btsLVISXLMf/AAAAAAAAAAAAAAAAAAAAAMbi5aFaYSBS7qvjUQbCcDfoQ--fbhpgZXZgvlJqm60i/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=AqaofV%2BST5b%2FEXuejP%2B%2BdpnvOJo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bODI4d/btsLVISXLMf/AAAAAAAAAAAAAAAAAAAAAMbi5aFaYSBS7qvjUQbCcDfoQ--fbhpgZXZgvlJqm60i/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=AqaofV%2BST5b%2FEXuejP%2B%2BdpnvOJo%3D&quot;></span><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -213,7 +213,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1406&quot; data-origin-width=&quot;1782&quot;><span data-alt=&quot;백 인 액션 back in action&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bjE7AW/btsLVOZU4ku/AAAAAAAAAAAAAAAAAAAAADHU8uWCf5St_69JFZ9F4Zl1obed7Gxcn3-uFlwwaH8I/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vjcGv0KRjwBrrk7I8JjZdn66BgM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bjE7AW/btsLVOZU4ku/AAAAAAAAAAAAAAAAAAAAADHU8uWCf5St_69JFZ9F4Zl1obed7Gxcn3-uFlwwaH8I/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vjcGv0KRjwBrrk7I8JjZdn66BgM%3D&quot;></span><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -225,7 +225,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1406&quot; data-origin-width=&quot;996&quot;><span data-alt=&quot;백 인 액션 back in action&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bVMINg/btsLV0eN8P2/AAAAAAAAAAAAAAAAAAAAAAQFQYUq2ODAbWF1Th1kcurTffLnXJAR-2bfMVy9wD8u/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=I8eFv0cPBdKOv7zZaGcfSKalbhY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bVMINg/btsLV0eN8P2/AAAAAAAAAAAAAAAAAAAAAAQFQYUq2ODAbWF1Th1kcurTffLnXJAR-2bfMVy9wD8u/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=I8eFv0cPBdKOv7zZaGcfSKalbhY%3D&quot;></span><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>백 인 액션 back in action</figcaption> </figure> </p>'
     },
     {
       type: 'body',

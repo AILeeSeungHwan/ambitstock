@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1270&quot; data-origin-width=&quot;2746&quot;><span data-alt=&quot;배트맨 다크 나이트 제목 뜻 의미&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/boDfW9/btsJyCB7EhV/AAAAAAAAAAAAAAAAAAAAAPCq5srHtXR2uEAp3az1o4dI7GIn-wSNB8bQCFqDa1bK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K86apGIYozNhIyuvLZNBP9oPNEc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/boDfW9/btsJyCB7EhV/AAAAAAAAAAAAAAAAAAAAAPCq5srHtXR2uEAp3az1o4dI7GIn-wSNB8bQCFqDa1bK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K86apGIYozNhIyuvLZNBP9oPNEc%3D&quot;></span><figcaption>배트맨 다크 나이트 제목 뜻 의미</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>배트맨 다크 나이트 제목 뜻 의미</figcaption> </figure> </p>'
     },
     {
       type: 'body',

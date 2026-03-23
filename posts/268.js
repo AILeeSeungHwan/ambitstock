@@ -17,7 +17,7 @@ const post = {
     { type: 'body', html: "<p>현재 해외 평점도 8.1점으로 높은 점수를 기록하고 있습니다.</p>" },
     { type: 'body', html: "<p><span style=&quot;letter-spacing: 0px;&quot;>아직 표본이 많지 않아서 큰 의미는 없지만</span><span style=&quot;color: inherit; text-align: start;&quot;> 평점 표본에 대해서도 한번 살펴보도록 하겠습니다.</span></p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>대도시의 사랑법 평점 분포입니다.</b></span></p>" },
-    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;662&quot; data-origin-width=&quot;829&quot;><span data-alt=&quot;대도시의 사랑법 해외 평점 분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dajbGb/btsJRegQtBE/AAAAAAAAAAAAAAAAAAAAAHnCs2vSu42BNnXoahXVTs_yqLpezbIZbfM__dB2HshW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3eJNV45o%2BuC7kABC5Ouwl1PpCvI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dajbGb/btsJRegQtBE/AAAAAAAAAAAAAAAAAAAAAHnCs2vSu42BNnXoahXVTs_yqLpezbIZbfM__dB2HshW/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3eJNV45o%2BuC7kABC5Ouwl1PpCvI%3D&quot;></span><figcaption>대도시의 사랑법 해외 평점 분포</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>대도시의 사랑법 해외 평점 분포</figcaption> </figure> </p>" },
     { type: 'body', html: "<p><b>국가 표본은 모두 캐나다로 한국 표본이 아닌 명확히 해외 반응임을 알 수 있습니다. </b></p>" },
     { type: 'body', html: "<p><b>토론토 국제 영화제를 시청한 이들의 표본으로 파악되어집니다.</b></p>" },
     { type: 'body', html: "<p>특이한 점은 대부분의 평점 표본에 1점이 반드시 포함되는 것에 반하여 1점이 하나도 없다는 점이 고무적입니다.</p>" },

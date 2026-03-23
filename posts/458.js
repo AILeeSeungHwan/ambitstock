@@ -39,7 +39,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;292&quot; data-origin-width=&quot;942&quot;><span data-alt=&quot;로튼토마토 찰리와 초콜릿 공장 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/muqaH/btsDxe66BdR/AAAAAAAAAAAAAAAAAAAAAJyemwvt_DlbmGW4P0v02J9hQbMNrNwJAuhnY4UkQ6IB/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VjYK2q492ijc3NcuxS4W6h5ORZY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/muqaH/btsDxe66BdR/AAAAAAAAAAAAAAAAAAAAAJyemwvt_DlbmGW4P0v02J9hQbMNrNwJAuhnY4UkQ6IB/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VjYK2q492ijc3NcuxS4W6h5ORZY%3D&quot;></span><figcaption>로튼토마토 찰리와 초콜릿 공장 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>로튼토마토 찰리와 초콜릿 공장 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -67,7 +67,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;407&quot; data-origin-width=&quot;600&quot;><span data-alt=&quot;영화 찰리와 초콜릿 공장 조니뎁&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dJscsO/btsDqjWmyUW/AAAAAAAAAAAAAAAAAAAAAKleiS4zYIO_pJtA8QnnbZi4A-sHd-O7sCvtVmYpu7Kz/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4GdBBT6ZV1y%2FJ4InAvAzJ8l0ZV4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dJscsO/btsDqjWmyUW/AAAAAAAAAAAAAAAAAAAAAKleiS4zYIO_pJtA8QnnbZi4A-sHd-O7sCvtVmYpu7Kz/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4GdBBT6ZV1y%2FJ4InAvAzJ8l0ZV4%3D&quot;></span><figcaption>영화 찰리와 초콜릿 공장 조니뎁</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 찰리와 초콜릿 공장 조니뎁</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -79,7 +79,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;400&quot; data-origin-width=&quot;600&quot;><span data-alt=&quot;영화 찰리와 초콜릿 공장 스틸컷&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/qdF1o/btsDqPng1x6/AAAAAAAAAAAAAAAAAAAAAPiec5lBWTeTIpMjhU4ksTK5OwKs6_U-Nj4iccO1s1yX/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ZkocH%2BQw%2B%2FSvywOO9LupXNAS%2B4g%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/qdF1o/btsDqPng1x6/AAAAAAAAAAAAAAAAAAAAAPiec5lBWTeTIpMjhU4ksTK5OwKs6_U-Nj4iccO1s1yX/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ZkocH%2BQw%2B%2FSvywOO9LupXNAS%2B4g%3D&quot;></span><figcaption>영화 찰리와 초콜릿 공장 스틸컷</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 찰리와 초콜릿 공장 스틸컷</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -99,7 +99,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;542&quot; data-origin-width=&quot;1272&quot;><span data-alt=&quot;찰리와 초콜릿 공장 IMDB 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/JiWvh/btsDyClZLov/AAAAAAAAAAAAAAAAAAAAAPqYzVeDlUEoD_WsUib77DWzFeKgowwlkA7i9bGf0ToO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RreCmjX%2BHUU53iee%2BvFJI%2Fx4hM4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/JiWvh/btsDyClZLov/AAAAAAAAAAAAAAAAAAAAAPqYzVeDlUEoD_WsUib77DWzFeKgowwlkA7i9bGf0ToO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=RreCmjX%2BHUU53iee%2BvFJI%2Fx4hM4%3D&quot;></span><figcaption>찰리와 초콜릿 공장 IMDB 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>찰리와 초콜릿 공장 IMDB 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -115,7 +115,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;607&quot; data-origin-width=&quot;849&quot;><span data-alt=&quot;IMDB 찰리와 초콜릿 공장 평점 분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dnTfFH/btsDxhQhLEJ/AAAAAAAAAAAAAAAAAAAAANYzxxZ0RuQYAwjIRtiQ1MKvSVVtE5iOI5un_mhyWVFs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sTvo9GQvlr%2Br41Gia50UGl1BV3I%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dnTfFH/btsDxhQhLEJ/AAAAAAAAAAAAAAAAAAAAANYzxxZ0RuQYAwjIRtiQ1MKvSVVtE5iOI5un_mhyWVFs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sTvo9GQvlr%2Br41Gia50UGl1BV3I%3D&quot;></span><figcaption>IMDB 찰리와 초콜릿 공장 평점 분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 찰리와 초콜릿 공장 평점 분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -131,7 +131,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;522&quot; data-origin-width=&quot;665&quot;><span data-alt=&quot;영화 웡카 주연 배우 티모시 샬라메&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/M8nY3/btsDyPyJMpE/AAAAAAAAAAAAAAAAAAAAAGEc4TJ1viVUinX7NUyrF1IKz384cUohwY3cxIznhUTa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4JDRRnFb2JVZpu2APAEH99HANis%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/M8nY3/btsDyPyJMpE/AAAAAAAAAAAAAAAAAAAAAGEc4TJ1viVUinX7NUyrF1IKz384cUohwY3cxIznhUTa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4JDRRnFb2JVZpu2APAEH99HANis%3D&quot;></span><figcaption>영화 웡카 주연 배우 티모시 샬라메</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 웡카 주연 배우 티모시 샬라메</figcaption> </figure> </p>'
     },
     {
       type: 'body',

@@ -157,7 +157,7 @@ const post = {
     { type: 'image', src: '/images/post119_img6.jpg', alt: '대도시의 사랑법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;808&quot; data-origin-width=&quot;565&quot;><span data-alt=&quot;대도시의 사랑법 해외 결말후기 관람평&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cdVHds/btsLAwUeGZo/AAAAAAAAAAAAAAAAAAAAANq8On1E5qMzV5wVQordwORtFOPFRU6AUkjWCpvQINBS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=flrJwUNJusyC98DnJzUDpUs47P4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cdVHds/btsLAwUeGZo/AAAAAAAAAAAAAAAAAAAAANq8On1E5qMzV5wVQordwORtFOPFRU6AUkjWCpvQINBS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=flrJwUNJusyC98DnJzUDpUs47P4%3D&quot;></span><figcaption>대도시의 사랑법 해외 결말후기 관람평</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>대도시의 사랑법 해외 결말후기 관람평</figcaption> </figure> </p>'
     },
     {
       type: 'body',

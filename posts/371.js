@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>2024년 8월 17일 개봉예정인 <b><span style=&quot;background-color: #01ff51;&quot;>에일리언: 로물루스 시사회 해외 후기반응과 출영진 쿠키여부 정보</span></b> 전해드립니다.</p><p>시사회 해외 후기반응부터 시작합니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1348&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;에일리언 로물루스 시사회 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/kFNSN/btsIRZxNghB/AAAAAAAAAAAAAAAAAAAAAGCOKmwX78TNRXHx8UbZidc4aGCcLx4DXpCxTRqcqN0z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Cz8pJGtjmZ3cn6Lpdpx1wXS3g10%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/kFNSN/btsIRZxNghB/AAAAAAAAAAAAAAAAAAAAAGCOKmwX78TNRXHx8UbZidc4aGCcLx4DXpCxTRqcqN0z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Cz8pJGtjmZ3cn6Lpdpx1wXS3g10%3D&quot;></span><figcaption>에일리언 로물루스 시사회 후기</figcaption> </figure> </p>'
+      html: '<p>2024년 8월 17일 개봉예정인 <b><span style=&quot;background-color: #01ff51;&quot;>에일리언: 로물루스 시사회 해외 후기반응과 출영진 쿠키여부 정보</span></b> 전해드립니다.</p><p>시사회 해외 후기반응부터 시작합니다.</p><p><figure><figcaption>에일리언 로물루스 시사회 후기</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -48,7 +48,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1348&quot; data-origin-width=&quot;1754&quot;><span data-alt=&quot;에일리언 로물루스 시사회 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/osHuB/btsISVailQX/AAAAAAAAAAAAAAAAAAAAAG836JAlp10JNmMydrY1IK3RFxgW9b8d3uHXIAJjd909/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9jFVpiEzXwwYGp9CZLfHRsZMoUE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/osHuB/btsISVailQX/AAAAAAAAAAAAAAAAAAAAAG836JAlp10JNmMydrY1IK3RFxgW9b8d3uHXIAJjd909/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9jFVpiEzXwwYGp9CZLfHRsZMoUE%3D&quot;></span><figcaption>에일리언 로물루스 시사회 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 시사회 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -60,7 +60,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1338&quot; data-origin-width=&quot;1784&quot;><span data-alt=&quot;에일리언 로물루스 시사회 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cFnPMh/btsITQTHrgT/AAAAAAAAAAAAAAAAAAAAANT3nP2X04Fodlb6M1lQEm0OVDPDezrdaTaCBmocdmS8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9vq9rDB4chjplyCOK0qi1aCdyLo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cFnPMh/btsITQTHrgT/AAAAAAAAAAAAAAAAAAAAANT3nP2X04Fodlb6M1lQEm0OVDPDezrdaTaCBmocdmS8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9vq9rDB4chjplyCOK0qi1aCdyLo%3D&quot;></span><figcaption>에일리언 로물루스 시사회 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 시사회 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -84,7 +84,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1338&quot; data-origin-width=&quot;1784&quot;><span data-alt=&quot;에일리언 로물루스 시사회 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/otcva/btsITV8wIGY/AAAAAAAAAAAAAAAAAAAAALiawf7vc1fbHhvwkw_TBev8ugxX6Etz8HFamM4DCOoN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=C7JMbVAIpKgh23k0CO8bb17m1dw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/otcva/btsITV8wIGY/AAAAAAAAAAAAAAAAAAAAALiawf7vc1fbHhvwkw_TBev8ugxX6Etz8HFamM4DCOoN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=C7JMbVAIpKgh23k0CO8bb17m1dw%3D&quot;></span><figcaption>에일리언 로물루스 시사회 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 시사회 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -108,7 +108,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1338&quot; data-origin-width=&quot;1784&quot;><span data-alt=&quot;에일리언 로물루스 시사회 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/baaplw/btsIR2gXgkD/AAAAAAAAAAAAAAAAAAAAAHcjP_kaJmRcw73xJgTt-JktxJXxsq7zSNk4fZnUgoNa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=BG5uSPvR4bFcMtMhD01lmhvVLwI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/baaplw/btsIR2gXgkD/AAAAAAAAAAAAAAAAAAAAAHcjP_kaJmRcw73xJgTt-JktxJXxsq7zSNk4fZnUgoNa/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=BG5uSPvR4bFcMtMhD01lmhvVLwI%3D&quot;></span><figcaption>에일리언 로물루스 시사회 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 시사회 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',

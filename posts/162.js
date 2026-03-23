@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 11일 개봉작 크리스마스에 기적을 만날 확률 ( 영어제목 : Tokyo GodFathers) 관람평 후기입니다.</b></span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1116&quot; data-origin-width=&quot;1434&quot;><span data-alt=&quot;크리스마스에 기적을 만날 확률&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bLPiLV/btsK23xPuw5/AAAAAAAAAAAAAAAAAAAAAJ34ju8DLNdwms0vtnAPuWo24R0dHh8SFB82SqhhP5V2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=fGahK4Cn8V0X8NW48p4DHDYnehg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bLPiLV/btsK23xPuw5/AAAAAAAAAAAAAAAAAAAAAJ34ju8DLNdwms0vtnAPuWo24R0dHh8SFB82SqhhP5V2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=fGahK4Cn8V0X8NW48p4DHDYnehg%3D&quot;></span><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 11일 개봉작 크리스마스에 기적을 만날 확률 ( 영어제목 : Tokyo GodFathers) 관람평 후기입니다.</b></span></p><p><figure><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -63,7 +63,7 @@ const post = {
     { type: 'image', src: '/images/post162_poster.jpg', alt: '포스트 162 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;592&quot; data-origin-width=&quot;1886&quot;><span data-alt=&quot;크리스마스에 기적을 만날 확률 로튼토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/mPTVU/btsK2ZWCQ6M/AAAAAAAAAAAAAAAAAAAAANvlnwYMg_Av2YnnvG4TFQ3a3kr0U9jWU6Q735E-G37t/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JsUAUbVvnp8Pbjdflx3BXypVDkQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/mPTVU/btsK2ZWCQ6M/AAAAAAAAAAAAAAAAAAAAANvlnwYMg_Av2YnnvG4TFQ3a3kr0U9jWU6Q735E-G37t/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JsUAUbVvnp8Pbjdflx3BXypVDkQ%3D&quot;></span><figcaption>크리스마스에 기적을 만날 확률 로튼토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>크리스마스에 기적을 만날 확률 로튼토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -99,7 +99,7 @@ const post = {
     { type: 'image', src: '/images/post162_img3.jpg', alt: '크리스마스에 기적을 만날 확률', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;608&quot; data-origin-width=&quot;1138&quot;><span data-alt=&quot;크리스마스에 기적을 만날 확률&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bYRZHV/btsK2xM0h07/AAAAAAAAAAAAAAAAAAAAAAb4CstgM6NchDelgnb8TO0JTTqTwVDNgX5GhQnhCCxR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=P3UnGtoIncLLvuLZ5Jcaqv58ISE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bYRZHV/btsK2xM0h07/AAAAAAAAAAAAAAAAAAAAAAb4CstgM6NchDelgnb8TO0JTTqTwVDNgX5GhQnhCCxR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=P3UnGtoIncLLvuLZ5Jcaqv58ISE%3D&quot;></span><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -111,7 +111,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1084&quot; data-origin-width=&quot;1714&quot;><span data-alt=&quot;크리스마스에 기적을 만날 확률&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/VeTwh/btsK4MIp7ZE/AAAAAAAAAAAAAAAAAAAAAL_CFkz31Qb6Pa6soS47391O5RusielMci-YAZUi96Hc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=la0vW6pwyNho8mtIIQ%2F289iXdmE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/VeTwh/btsK4MIp7ZE/AAAAAAAAAAAAAAAAAAAAAL_CFkz31Qb6Pa6soS47391O5RusielMci-YAZUi96Hc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=la0vW6pwyNho8mtIIQ%2F289iXdmE%3D&quot;></span><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -123,7 +123,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;926&quot; data-origin-width=&quot;1714&quot;><span data-alt=&quot;크리스마스에 기적을 만날 확률&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Qh1Pu/btsK2TvszXH/AAAAAAAAAAAAAAAAAAAAAPFXj6luydhyxza0TLWAWWcY3CAqCFSXlZZo79BjHtQv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NGUz6g2gm4LM5SkYUo1k8LUvfyM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Qh1Pu/btsK2TvszXH/AAAAAAAAAAAAAAAAAAAAAPFXj6luydhyxza0TLWAWWcY3CAqCFSXlZZo79BjHtQv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NGUz6g2gm4LM5SkYUo1k8LUvfyM%3D&quot;></span><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -135,7 +135,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;926&quot; data-origin-width=&quot;1714&quot;><span data-alt=&quot;크리스마스에 기적을 만날 확률&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/PaV3S/btsK4sJ9sIb/AAAAAAAAAAAAAAAAAAAAAC6P6lhTV_rM4N377nk1cI_u-oM9rymxbleSnSVKRtyO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=h%2BPXQRO9dCgNk3cgVQOhOCXBTcY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/PaV3S/btsK4sJ9sIb/AAAAAAAAAAAAAAAAAAAAAC6P6lhTV_rM4N377nk1cI_u-oM9rymxbleSnSVKRtyO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=h%2BPXQRO9dCgNk3cgVQOhOCXBTcY%3D&quot;></span><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -147,7 +147,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1116&quot; data-origin-width=&quot;1434&quot;><span data-alt=&quot;크리스마스에 기적을 만날 확률&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/kDfi1/btsK4Ozqn0y/AAAAAAAAAAAAAAAAAAAAAL3xHP1QZuQ7vgADxjvOZgxmqegaoHYfagf__y1K6VLA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=G7QfFBC3BBr64exop2iyWIJtpAM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/kDfi1/btsK4Ozqn0y/AAAAAAAAAAAAAAAAAAAAAL3xHP1QZuQ7vgADxjvOZgxmqegaoHYfagf__y1K6VLA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=G7QfFBC3BBr64exop2iyWIJtpAM%3D&quot;></span><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -159,7 +159,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1116&quot; data-origin-width=&quot;826&quot;><span data-alt=&quot;크리스마스에 기적을 만날 확률&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/X4NQG/btsK4xYYwGK/AAAAAAAAAAAAAAAAAAAAAAxz-2QgY2JaG6gmBBonmrW8W5DrhnkbSJoak_UDjJp9/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OYhrbZ5mzmz3ozxOPYlSfynQnPM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/X4NQG/btsK4xYYwGK/AAAAAAAAAAAAAAAAAAAAAAxz-2QgY2JaG6gmBBonmrW8W5DrhnkbSJoak_UDjJp9/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OYhrbZ5mzmz3ozxOPYlSfynQnPM%3D&quot;></span><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
     },
     {
       type: 'body',

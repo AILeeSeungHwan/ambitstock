@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>극장판 &lt;귀멸의 칼날 4기: 인연의 기적, 그리고 합동 강화 훈련으로&gt;가 개봉 예정입니다.</p><p>전세계 140개 한국 380개 <span style=&quot;color: inherit; text-align: start;&quot;>상영관에서 공개 될 </span>4기 합동 강화 훈련 개봉 전, 최고의 명작으로 불리는 귀멸의 칼날 : 무한열차편 해외 평점 및 반응 살펴보도록 하겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;귀멸의 칼날 포스터.jpg&quot; data-origin-height=&quot;500&quot; data-origin-width=&quot;500&quot;><span data-alt=&quot;극장판 귀멸의 칼날 : 무한열차편 렌고쿠&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bcJoHe/btsDxiuUW1N/AAAAAAAAAAAAAAAAAAAAAK9MFWRQ0Ah5LX2Byy3xgkEqi33zXqPdP3wKDRM2fKP9/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WDXRqf4g1FcCP%2FACgUCyNPx5aFY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bcJoHe/btsDxiuUW1N/AAAAAAAAAAAAAAAAAAAAAK9MFWRQ0Ah5LX2Byy3xgkEqi33zXqPdP3wKDRM2fKP9/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WDXRqf4g1FcCP%2FACgUCyNPx5aFY%3D&quot;></span><figcaption>극장판 귀멸의 칼날 : 무한열차편 렌고쿠</figcaption> </figure> </p>'
+      html: '<p>극장판 &lt;귀멸의 칼날 4기: 인연의 기적, 그리고 합동 강화 훈련으로&gt;가 개봉 예정입니다.</p><p>전세계 140개 한국 380개 <span style=&quot;color: inherit; text-align: start;&quot;>상영관에서 공개 될 </span>4기 합동 강화 훈련 개봉 전, 최고의 명작으로 불리는 귀멸의 칼날 : 무한열차편 해외 평점 및 반응 살펴보도록 하겠습니다.</p><p><figure data-filename=&quot;귀멸의 칼날 포스터.jpg&quot;><figcaption>극장판 귀멸의 칼날 : 무한열차편 렌고쿠</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -27,7 +27,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;300&quot; data-origin-width=&quot;945&quot;><span data-alt=&quot;로튼토마토 극장판 귀멸의 칼날 : 무한열차편&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b2Y7Bd/btsDwEkvEJN/AAAAAAAAAAAAAAAAAAAAAN9-Nt0U5RV_8_MEoasR8EBuHcQ2dyRInmXum1gq33Sy/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QsywqN8A0hQOSHOfLOtS%2F%2FKdw5k%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b2Y7Bd/btsDwEkvEJN/AAAAAAAAAAAAAAAAAAAAAN9-Nt0U5RV_8_MEoasR8EBuHcQ2dyRInmXum1gq33Sy/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QsywqN8A0hQOSHOfLOtS%2F%2FKdw5k%3D&quot;></span><figcaption>로튼토마토 극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>로튼토마토 극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -51,7 +51,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;720&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;극장판 귀멸의 칼날 : 무한열차편&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/CX8RJ/btsDqOaNb4h/AAAAAAAAAAAAAAAAAAAAAMkqU9aOyL10YiEhFft_P4D750cwCnhTp0XsF09TfK3p/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=M0RUzRB5xx3FWHaSM4xQvtPJnlM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/CX8RJ/btsDqOaNb4h/AAAAAAAAAAAAAAAAAAAAAMkqU9aOyL10YiEhFft_P4D750cwCnhTp0XsF09TfK3p/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=M0RUzRB5xx3FWHaSM4xQvtPJnlM%3D&quot;></span><figcaption>극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -63,7 +63,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;550&quot; data-origin-width=&quot;990&quot;><span data-alt=&quot;극장판 귀멸의 칼날 : 무한열차편&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/POb6F/btsDqgZFHHT/AAAAAAAAAAAAAAAAAAAAAD7fqPqYCLFZiaAeQtNM6SBIYuAyKpU0xxGkVSBlWTYH/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sMFusWCNpPw51PWe3meuSdd4JDQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/POb6F/btsDqgZFHHT/AAAAAAAAAAAAAAAAAAAAAD7fqPqYCLFZiaAeQtNM6SBIYuAyKpU0xxGkVSBlWTYH/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sMFusWCNpPw51PWe3meuSdd4JDQ%3D&quot;></span><figcaption>극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -75,7 +75,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;720&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;극장판 귀멸의 칼날 : 무한열차편&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cwMYTG/btsDrIOM3oA/AAAAAAAAAAAAAAAAAAAAAIzwNheDAizYF0iXHQTHOm_7dg873rjRsBuvadDCrjz2/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=o72GCiT%2FYvtT0VJVMB32reyjx2o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cwMYTG/btsDrIOM3oA/AAAAAAAAAAAAAAAAAAAAAIzwNheDAizYF0iXHQTHOm_7dg873rjRsBuvadDCrjz2/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=o72GCiT%2FYvtT0VJVMB32reyjx2o%3D&quot;></span><figcaption>극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -87,7 +87,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;450&quot; data-origin-width=&quot;800&quot;><span data-alt=&quot;극장판 귀멸의 칼날 : 무한열차편&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bhirQm/btsDxzXsTYa/AAAAAAAAAAAAAAAAAAAAAPa0Vskm_Jwh8sDaP4eAQ2pcMQaRjrp2-7eW-OchedmL/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=HB5ba6vdjME8S0wohE3qIz1sPek%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bhirQm/btsDxzXsTYa/AAAAAAAAAAAAAAAAAAAAAPa0Vskm_Jwh8sDaP4eAQ2pcMQaRjrp2-7eW-OchedmL/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=HB5ba6vdjME8S0wohE3qIz1sPek%3D&quot;></span><figcaption>극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -99,7 +99,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;719&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;극장판 귀멸의 칼날 : 무한열차편&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bkfgI8/btsDrgLGlRM/AAAAAAAAAAAAAAAAAAAAAHc7JdPxt-RfSMOAgrsam9ZflzKmoy7Ib7omGRPaHUaU/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ARIGJbEOQePtEMngeyxFF9NnMWA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bkfgI8/btsDrgLGlRM/AAAAAAAAAAAAAAAAAAAAAHc7JdPxt-RfSMOAgrsam9ZflzKmoy7Ib7omGRPaHUaU/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ARIGJbEOQePtEMngeyxFF9NnMWA%3D&quot;></span><figcaption>극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>극장판 귀멸의 칼날 : 무한열차편</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -111,7 +111,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;509&quot; data-origin-width=&quot;1249&quot;><span data-alt=&quot;IMDB 극장판 귀멸의 칼날 : 무한열차편 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/djoNxZ/btsDqiDbMG5/AAAAAAAAAAAAAAAAAAAAAGOC-CLBeAL446eb-F3W2jBGcYQMIeOIsd-gGNGADj2J/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=AEhN235FnNm7bND1DvdATnjFEeA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/djoNxZ/btsDqiDbMG5/AAAAAAAAAAAAAAAAAAAAAGOC-CLBeAL446eb-F3W2jBGcYQMIeOIsd-gGNGADj2J/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=AEhN235FnNm7bND1DvdATnjFEeA%3D&quot;></span><figcaption>IMDB 극장판 귀멸의 칼날 : 무한열차편 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 극장판 귀멸의 칼날 : 무한열차편 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -123,7 +123,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;629&quot; data-origin-width=&quot;853&quot;><span data-alt=&quot;IMDB 극장판 귀멸의 칼날 : 무한열차편 평점분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/clybTs/btsDxkTDomi/AAAAAAAAAAAAAAAAAAAAAPh435Qyi1DT3Wi1xqe9XBy246CyF8irmPRPDhT1sRJX/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=C1b6G3F47rRNFMsH4kM5tAYyOQE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/clybTs/btsDxkTDomi/AAAAAAAAAAAAAAAAAAAAAPh435Qyi1DT3Wi1xqe9XBy246CyF8irmPRPDhT1sRJX/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=C1b6G3F47rRNFMsH4kM5tAYyOQE%3D&quot;></span><figcaption>IMDB 극장판 귀멸의 칼날 : 무한열차편 평점분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 극장판 귀멸의 칼날 : 무한열차편 평점분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -131,7 +131,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;귀칼 합동강화훈련.jpg&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;910&quot;><span data-alt=&quot;귀멸의 칼날 4기 : 인연의 기적, 그리고 합동 강화 훈련&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ErZo5/btsDqhROKkV/AAAAAAAAAAAAAAAAAAAAAKvPKe7qVaX7nqCsh8URoYxsqKJTsvyqW1BlNJVpjOVZ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3TuOJEaArzGt8%2F06ZGd9ObhlO3s%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ErZo5/btsDqhROKkV/AAAAAAAAAAAAAAAAAAAAAKvPKe7qVaX7nqCsh8URoYxsqKJTsvyqW1BlNJVpjOVZ/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3TuOJEaArzGt8%2F06ZGd9ObhlO3s%3D&quot;></span><figcaption>귀멸의 칼날 4기 : 인연의 기적, 그리고 합동 강화 훈련</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;귀칼 합동강화훈련.jpg&quot;><figcaption>귀멸의 칼날 4기 : 인연의 기적, 그리고 합동 강화 훈련</figcaption> </figure> </p>'
     },
     {
       type: 'body',

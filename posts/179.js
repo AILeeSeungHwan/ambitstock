@@ -57,7 +57,7 @@ const post = {
     { type: 'image', src: '/images/post179_img2.jpg', alt: '파라다이스 이즈 버닝 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;600&quot; data-origin-width=&quot;1880&quot;><span data-alt=&quot;파라다이스 이즈 버닝 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b9vpYF/btsKRcoCDGd/AAAAAAAAAAAAAAAAAAAAAAJWVi9E5DIM7l_b4DfYJhcjBkABiN5gMGLopNDyW0St/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=77r4uwMsli1ZE5J4yGN%2FDfab%2FKk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b9vpYF/btsKRcoCDGd/AAAAAAAAAAAAAAAAAAAAAAJWVi9E5DIM7l_b4DfYJhcjBkABiN5gMGLopNDyW0St/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=77r4uwMsli1ZE5J4yGN%2FDfab%2FKk%3D&quot;></span><figcaption>파라다이스 이즈 버닝 로튼 토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>파라다이스 이즈 버닝 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

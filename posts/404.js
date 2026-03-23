@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;731&quot; data-origin-width=&quot;971&quot;><span data-alt=&quot;넷플릭스 오리지널 시리즈 슈퍼 셀&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/BXcRl/btsIkjwxnSZ/AAAAAAAAAAAAAAAAAAAAALFmGPVM5COAKOIrjeWTXe2NT3Ch2YGCvpHV5zC1W_jb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Blj%2BWJd313Ucaz6IQxoTZmj5yc4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/BXcRl/btsIkjwxnSZ/AAAAAAAAAAAAAAAAAAAAALFmGPVM5COAKOIrjeWTXe2NT3Ch2YGCvpHV5zC1W_jb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Blj%2BWJd313Ucaz6IQxoTZmj5yc4%3D&quot;></span><figcaption>넷플릭스 오리지널 시리즈 슈퍼 셀</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 오리지널 시리즈 슈퍼 셀</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -103,7 +103,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;322&quot; data-origin-width=&quot;652&quot;><span data-alt=&quot;넷플릭스 오리지널 시리즈 슈퍼 셀&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/m94Bf/btsIlSdmtc3/AAAAAAAAAAAAAAAAAAAAAFplGqBy_BkFOBxW4IJULlrfhIOK155tapD4yPuSK6lw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1hfDXjAAGamuFBZfTh8pOuuZXQI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/m94Bf/btsIlSdmtc3/AAAAAAAAAAAAAAAAAAAAAFplGqBy_BkFOBxW4IJULlrfhIOK155tapD4yPuSK6lw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1hfDXjAAGamuFBZfTh8pOuuZXQI%3D&quot;></span><figcaption>넷플릭스 오리지널 시리즈 슈퍼 셀</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 오리지널 시리즈 슈퍼 셀</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -119,7 +119,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;391&quot; data-origin-width=&quot;671&quot;><span data-alt=&quot;넷플릭스 오리지널 시리즈 슈퍼 셀&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/pZnDC/btsIlS5ubBq/AAAAAAAAAAAAAAAAAAAAAJGtNnBXZVB5UZp41lKab2U7EH2wX2IS0eV1e1bfH4f6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=YZNzFXXgNBlq03gjjpsWG63wzwY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/pZnDC/btsIlS5ubBq/AAAAAAAAAAAAAAAAAAAAAJGtNnBXZVB5UZp41lKab2U7EH2wX2IS0eV1e1bfH4f6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=YZNzFXXgNBlq03gjjpsWG63wzwY%3D&quot;></span><figcaption>넷플릭스 오리지널 시리즈 슈퍼 셀</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 오리지널 시리즈 슈퍼 셀</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -139,7 +139,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;394&quot; data-origin-width=&quot;593&quot;><span data-alt=&quot;넷플릭스 오리지널 시리즈 슈퍼 셀&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bwD262/btsIky1fGVt/AAAAAAAAAAAAAAAAAAAAAKl2a082UlKCNFFoJHvX3Ecs5fq-lQjyM56l2jLRY4V6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BmS9wZU%2BpIbdtrblowudKeoHULQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bwD262/btsIky1fGVt/AAAAAAAAAAAAAAAAAAAAAKl2a082UlKCNFFoJHvX3Ecs5fq-lQjyM56l2jLRY4V6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BmS9wZU%2BpIbdtrblowudKeoHULQ%3D&quot;></span><figcaption>넷플릭스 오리지널 시리즈 슈퍼 셀</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 오리지널 시리즈 슈퍼 셀</figcaption> </figure> </p>'
     },
     {
       type: 'body',

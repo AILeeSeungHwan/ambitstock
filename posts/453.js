@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>6화 기준 7.8% tvN 웹툰 원작 드라마 내 남편과 결혼해줘 가 해외에서도 인기 몰이를 하고 있습니다.</b></span><br>웹툰 원작을 먼저 보았던 해외 시청자들은 실사화 <span style=&quot;color: inherit;&quot;>드라마를 어떻게 생각할까요</span><br>박민영 나인우 이이경주연의 총 16부작 월화 8시 50분 드라마 내 남편과 결혼해 줘 해외 시청자 반응 알아보겠습니다.<br/> </br></br></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;768&quot;><span data-alt=&quot;웹툰원작 드라마 내 남편과 결혼해줘 스틸컷&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/kBTJd/btsDJmDZVDn/AAAAAAAAAAAAAAAAAAAAAIB6sOjnr9YJTwnLqoT2TIdeIR0TRCNiwzEjEmrKxsAT/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FcER%2Bu8vWJ%2BR4jU%2Bw9mvvgywVyk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/kBTJd/btsDJmDZVDn/AAAAAAAAAAAAAAAAAAAAAIB6sOjnr9YJTwnLqoT2TIdeIR0TRCNiwzEjEmrKxsAT/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FcER%2Bu8vWJ%2BR4jU%2Bw9mvvgywVyk%3D&quot;></span><figcaption>웹툰원작 드라마 내 남편과 결혼해줘 스틸컷</figcaption> </figure> </p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 &lt;파묘&gt; 정보</b></span><br/><span style=&quot;color: #666666;&quot;><b>티저 예고편 해외반응이 궁금하다면</b></span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>6화 기준 7.8% tvN 웹툰 원작 드라마 내 남편과 결혼해줘 가 해외에서도 인기 몰이를 하고 있습니다.</b></span><br>웹툰 원작을 먼저 보았던 해외 시청자들은 실사화 <span style=&quot;color: inherit;&quot;>드라마를 어떻게 생각할까요</span><br>박민영 나인우 이이경주연의 총 16부작 월화 8시 50분 드라마 내 남편과 결혼해 줘 해외 시청자 반응 알아보겠습니다.<br/> </br></br></p><p><figure><figcaption>웹툰원작 드라마 내 남편과 결혼해줘 스틸컷</figcaption> </figure> </p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 &lt;파묘&gt; 정보</b></span><br/><span style=&quot;color: #666666;&quot;><b>티저 예고편 해외반응이 궁금하다면</b></span></p>'
     },
     {
       type: 'image',
@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;517&quot; data-origin-width=&quot;1252&quot;><span data-alt=&quot;IMDB 내 남편과 결혼해줘 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/s2wqZ/btsDKwTphwB/AAAAAAAAAAAAAAAAAAAAAJoHjfPyNkudt2ME5G-qrNAajhNLXJl9w5LT8zcrcZ2n/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=zxPM3vR6eeOhJan%2B3IKkBjAXyHo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/s2wqZ/btsDKwTphwB/AAAAAAAAAAAAAAAAAAAAAJoHjfPyNkudt2ME5G-qrNAajhNLXJl9w5LT8zcrcZ2n/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=zxPM3vR6eeOhJan%2B3IKkBjAXyHo%3D&quot;></span><figcaption>IMDB 내 남편과 결혼해줘 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 내 남편과 결혼해줘 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -31,7 +31,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;629&quot; data-origin-width=&quot;831&quot;><span data-alt=&quot;IMDB 내 남편과 결혼해줘 평점 분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/oXqGN/btsDIvVOn3e/AAAAAAAAAAAAAAAAAAAAAPilY2BdwGQ4rY5BjSSygmmdwXrVUgxIJ-TERz2qDBg5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=6J3ayeZ71cfPnp%2BDFKteJ8KPsro%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/oXqGN/btsDIvVOn3e/AAAAAAAAAAAAAAAAAAAAAPilY2BdwGQ4rY5BjSSygmmdwXrVUgxIJ-TERz2qDBg5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=6J3ayeZ71cfPnp%2BDFKteJ8KPsro%3D&quot;></span><figcaption>IMDB 내 남편과 결혼해줘 평점 분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 내 남편과 결혼해줘 평점 분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -43,7 +43,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;774&quot;><span data-alt=&quot;웹툰원작 내 남편과 결혼해줘 배우 박민영&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/R8Q46/btsDGskVc1u/AAAAAAAAAAAAAAAAAAAAAP8WVshbipGjdibfdYuJPeBXrVEIlU0MYD8asQvJFqoO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wKvrLqVcECbB484qpSlQRnh%2BAfU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/R8Q46/btsDGskVc1u/AAAAAAAAAAAAAAAAAAAAAP8WVshbipGjdibfdYuJPeBXrVEIlU0MYD8asQvJFqoO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wKvrLqVcECbB484qpSlQRnh%2BAfU%3D&quot;></span><figcaption>웹툰원작 내 남편과 결혼해줘 배우 박민영</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>웹툰원작 내 남편과 결혼해줘 배우 박민영</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -51,7 +51,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;771&quot;><span data-alt=&quot;웹툰원작 내 남편과 결혼해줘 배우 이이경&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dqs1ca/btsDKyRfnFs/AAAAAAAAAAAAAAAAAAAAAKGOTq-wzkUem3KlRj4O1t9PGWaaNdJjgT3v0zjOYyK6/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uuo21%2BxNt1GgMq6j2PHfKBUpmb8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dqs1ca/btsDKyRfnFs/AAAAAAAAAAAAAAAAAAAAAKGOTq-wzkUem3KlRj4O1t9PGWaaNdJjgT3v0zjOYyK6/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uuo21%2BxNt1GgMq6j2PHfKBUpmb8%3D&quot;></span><figcaption>웹툰원작 내 남편과 결혼해줘 배우 이이경</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>웹툰원작 내 남편과 결혼해줘 배우 이이경</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -59,7 +59,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;624&quot; data-origin-width=&quot;620&quot;><span data-alt=&quot;드라마 내 남편과 결혼해줘 등장인물관계도&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/0YfXT/btsDGmygDSB/AAAAAAAAAAAAAAAAAAAAANZf8phynoA0uhH08lpiLYwKu4cL_dfbib3GP6DDxMZv/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SItOWbHqE%2FGb%2BLab3LGTIjAS4y8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/0YfXT/btsDGmygDSB/AAAAAAAAAAAAAAAAAAAAANZf8phynoA0uhH08lpiLYwKu4cL_dfbib3GP6DDxMZv/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SItOWbHqE%2FGb%2BLab3LGTIjAS4y8%3D&quot;></span><figcaption>드라마 내 남편과 결혼해줘 등장인물관계도</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>드라마 내 남편과 결혼해줘 등장인물관계도</figcaption> </figure> </p>'
     },
     ,
     { type: 'image', src: '/images/post453_img9.jpg', alt: '드라마 내 남편과 결혼해줘 인물관계도', caption: 'ⓒ R의 필름공장' },

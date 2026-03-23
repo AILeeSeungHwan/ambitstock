@@ -61,7 +61,7 @@ const post = {
     { type: 'image', src: '/images/post133_img2.jpg', alt: '더 엑소시즘(The Exorcism) 관람평 포토 결말 후기<배우는 죄가 없다>', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1004&quot; data-origin-width=&quot;1346&quot;><span data-alt=&quot;더 엑소시즘 평론가 결말후기 관람평&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bx9M4T/btsLBljwHhN/AAAAAAAAAAAAAAAAAAAAABDthmzMCjfKs1ha0EszAqHU4JV-79EiIEHf9C02IUvt/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uHLhwP%2BYjuCt66WKavbe2%2F6ymDY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bx9M4T/btsLBljwHhN/AAAAAAAAAAAAAAAAAAAAABDthmzMCjfKs1ha0EszAqHU4JV-79EiIEHf9C02IUvt/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uHLhwP%2BYjuCt66WKavbe2%2F6ymDY%3D&quot;></span><figcaption>더 엑소시즘 평론가 결말후기 관람평</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>더 엑소시즘 평론가 결말후기 관람평</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -73,7 +73,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1004&quot; data-origin-width=&quot;1346&quot;><span data-alt=&quot;더 엑소시즘 평론가 결말후기 관람평 포토&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/blDKzp/btsLB00gjaJ/AAAAAAAAAAAAAAAAAAAAAKkD-C6LWDibOGpGSVjVyJHDqH6Y_S16_536yc901RTw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GC3drpN%2BU70227U3L4JXyHkl214%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/blDKzp/btsLB00gjaJ/AAAAAAAAAAAAAAAAAAAAAKkD-C6LWDibOGpGSVjVyJHDqH6Y_S16_536yc901RTw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GC3drpN%2BU70227U3L4JXyHkl214%3D&quot;></span><figcaption>더 엑소시즘 평론가 결말후기 관람평 포토</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>더 엑소시즘 평론가 결말후기 관람평 포토</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -85,7 +85,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1444&quot; data-origin-width=&quot;1760&quot;><span data-alt=&quot;더 엑소시즘 평론가 결말후기 관람평 포토&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bWgDIC/btsLz2MjuVk/AAAAAAAAAAAAAAAAAAAAAGjCuRbdvoghKtOjM7BIerf12GH0J9F61ZRErwwHR6yf/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Hut5MDf7FPO2EnMzjWfQ0EJceww%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bWgDIC/btsLz2MjuVk/AAAAAAAAAAAAAAAAAAAAAGjCuRbdvoghKtOjM7BIerf12GH0J9F61ZRErwwHR6yf/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Hut5MDf7FPO2EnMzjWfQ0EJceww%3D&quot;></span><figcaption>더 엑소시즘 평론가 결말후기 관람평 포토</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>더 엑소시즘 평론가 결말후기 관람평 포토</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -97,7 +97,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1316&quot; data-origin-width=&quot;2232&quot;><span data-alt=&quot;더 엑소시즘 평론가 결말후기 관람평 포토&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ODnRA/btsLAU0YEcZ/AAAAAAAAAAAAAAAAAAAAAI_vUIkY8MP8e14ioxSLXzSqLcJOblk-2mGDYApiHGL8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xPFDsExdNxu070UabekTf%2BJRXyQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ODnRA/btsLAU0YEcZ/AAAAAAAAAAAAAAAAAAAAAI_vUIkY8MP8e14ioxSLXzSqLcJOblk-2mGDYApiHGL8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=xPFDsExdNxu070UabekTf%2BJRXyQ%3D&quot;></span><figcaption>더 엑소시즘 평론가 결말후기 관람평 포토</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>더 엑소시즘 평론가 결말후기 관람평 포토</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -109,7 +109,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1316&quot; data-origin-width=&quot;2096&quot;><span data-alt=&quot;더 엑소시즘 평론가 결말후기 관람평 포토&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/k8wnF/btsLBlDOdSJ/AAAAAAAAAAAAAAAAAAAAAPSjryR9v5XWZ-KZROQgSyel4sbtg8dRjT4SCjB6gdTJ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uulLuBNjpYsabqvem7E8QlW%2FrE4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/k8wnF/btsLBlDOdSJ/AAAAAAAAAAAAAAAAAAAAAPSjryR9v5XWZ-KZROQgSyel4sbtg8dRjT4SCjB6gdTJ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uulLuBNjpYsabqvem7E8QlW%2FrE4%3D&quot;></span><figcaption>더 엑소시즘 평론가 결말후기 관람평 포토</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>더 엑소시즘 평론가 결말후기 관람평 포토</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -121,7 +121,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1348&quot; data-origin-width=&quot;2354&quot;><span data-alt=&quot;더 엑소시즘 평론가 결말후기 관람평 포토&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cfj2gq/btsLBjlHvaS/AAAAAAAAAAAAAAAAAAAAADEXOeJu6CHq1QkogjBGMJ3FJs8PiKPjrZK4Ng0HD-oL/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2wX0%2FqokuY2gTrP3MMin%2BYCSmFA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cfj2gq/btsLBjlHvaS/AAAAAAAAAAAAAAAAAAAAADEXOeJu6CHq1QkogjBGMJ3FJs8PiKPjrZK4Ng0HD-oL/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2wX0%2FqokuY2gTrP3MMin%2BYCSmFA%3D&quot;></span><figcaption>더 엑소시즘 평론가 결말후기 관람평 포토</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>더 엑소시즘 평론가 결말후기 관람평 포토</figcaption> </figure> </p>'
     },
     {
       type: 'body',

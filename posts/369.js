@@ -1,7 +1,7 @@
 const post = {
   id: 369,
   sections: [
-    { type: 'intro', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;946&quot; data-origin-width=&quot;1342&quot;><span data-alt=&quot;2024년 8월 개봉예정작 총정리&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/c5f9LP/btsISU3Hd1z/AAAAAAAAAAAAAAAAAAAAABn7v6_2AUvU1gwphZv0236vYww7LmSiUxG5JxCQKDgc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uqFT2jZfBKe4WrTAmh2fHRMnxWY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/c5f9LP/btsISU3Hd1z/AAAAAAAAAAAAAAAAAAAAABn7v6_2AUvU1gwphZv0236vYww7LmSiUxG5JxCQKDgc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uqFT2jZfBKe4WrTAmh2fHRMnxWY%3D&quot;></span><figcaption>2024년 8월 개봉예정작 총정리</figcaption> </figure> </p><p><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;><b>2024년 8월 개봉 예정 작품들을 한눈에 정리해드립니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>한국 영화부터 해외 블록버스터 영화까지 모든 작품들을 한번에 확인해보세요.</p>" },
+    { type: 'intro', html: "<p><figure><figcaption>2024년 8월 개봉예정작 총정리</figcaption> </figure> </p><p><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;><b>2024년 8월 개봉 예정 작품들을 한눈에 정리해드립니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>한국 영화부터 해외 블록버스터 영화까지 모든 작품들을 한번에 확인해보세요.</p>" },
     { type: 'image', src: "/images/post369_thumb.svg", alt: "2024년 8월 개봉 예정작 영화 추천 한국 해외작품 총 정리", caption: "2024년 8월 개봉 예정작 영화 추천 한국 해외작품 총 정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },

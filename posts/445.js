@@ -35,7 +35,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;241&quot; data-origin-width=&quot;753&quot;><span data-alt=&quot;넷플릭스 영화 황야 로튼토마토&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cn4uCa/btsEnXXVqjX/AAAAAAAAAAAAAAAAAAAAALZva5GBNRNEw0gPys5k4_laL-E_kfDd5vIHkFfDcgw6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CeiJwjdgK9vZUtlmGwzq1Eo7Sbs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cn4uCa/btsEnXXVqjX/AAAAAAAAAAAAAAAAAAAAALZva5GBNRNEw0gPys5k4_laL-E_kfDd5vIHkFfDcgw6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CeiJwjdgK9vZUtlmGwzq1Eo7Sbs%3D&quot;></span><figcaption>넷플릭스 영화 황야 로튼토마토</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 황야 로튼토마토</figcaption> </figure> </p>'
     },
     {
       type: 'body',

@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;872&quot; data-origin-width=&quot;2044&quot;><span data-alt=&quot;아무도 없는 숲속에서 해외평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/k9Dqe/btsJe54Vtog/AAAAAAAAAAAAAAAAAAAAAMZTnU6sDWSd17HW2nZnmgAvHtjAoKsodoT1M0XyaWxC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=bDsuYl%2B2QYsBX2dk4fsBBK6M20A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/k9Dqe/btsJe54Vtog/AAAAAAAAAAAAAAAAAAAAAMZTnU6sDWSd17HW2nZnmgAvHtjAoKsodoT1M0XyaWxC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=bDsuYl%2B2QYsBX2dk4fsBBK6M20A%3D&quot;></span><figcaption>아무도 없는 숲속에서 해외평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>아무도 없는 숲속에서 해외평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -35,7 +35,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1280&quot; data-origin-width=&quot;1402&quot;><span data-alt=&quot;아무도 없는 숲속에서 평점분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ohXWF/btsJeA5uuYC/AAAAAAAAAAAAAAAAAAAAALemIUAD9urn7AVrhzfnpHhUW-yBttjAIGVlorALLiDE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Bu7CTW77vD0tKaaOyADF1QHDweE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ohXWF/btsJeA5uuYC/AAAAAAAAAAAAAAAAAAAAALemIUAD9urn7AVrhzfnpHhUW-yBttjAIGVlorALLiDE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Bu7CTW77vD0tKaaOyADF1QHDweE%3D&quot;></span><figcaption>아무도 없는 숲속에서 평점분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>아무도 없는 숲속에서 평점분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',

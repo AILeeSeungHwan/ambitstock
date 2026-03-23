@@ -53,7 +53,7 @@ const post = {
     { type: 'image', src: '/images/post161_poster.jpg', alt: '포스트 161 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;608&quot; data-origin-width=&quot;1866&quot;><span data-alt=&quot;극장판 주술회전 0 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/zEtrE/btsK4awfJc4/AAAAAAAAAAAAAAAAAAAAABgfKbxJfViOgS0Zt5ClQktCru2IB9eKYMARJjBhGhZG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pDtw6xWQv2a00QrkPbPg%2FN4AQv4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/zEtrE/btsK4awfJc4/AAAAAAAAAAAAAAAAAAAAABgfKbxJfViOgS0Zt5ClQktCru2IB9eKYMARJjBhGhZG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pDtw6xWQv2a00QrkPbPg%2FN4AQv4%3D&quot;></span><figcaption>극장판 주술회전 0 로튼 토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>극장판 주술회전 0 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

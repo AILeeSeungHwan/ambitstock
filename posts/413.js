@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>넷플릭스 시리즈 성공작 스위트 홈 시즌 3가 돌아옵니다.</span></p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;background-color: #f3c000;&quot;><b>스위트 홈 시즌3 공개일은 7월 19일</b></span>로 6월 29일 기준 D-20일입니다. 신규 시리즈 공개 전, 전 작품들의 줄거리 요약 및 등장인물 소개와 티저 예고편 확인해 보도록 하겠습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1600&quot; data-origin-width=&quot;1096&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 시즌3&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/AAt28/btsIhdwjrpg/AAAAAAAAAAAAAAAAAAAAAEXwNT1Zgf4bYm6ygbEassZ8K5B8_nmklxyH8AnP0QTw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=I2lcGBxzMY02%2FzSXzg4OJspy0vU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/AAt28/btsIhdwjrpg/AAAAAAAAAAAAAAAAAAAAAEXwNT1Zgf4bYm6ygbEassZ8K5B8_nmklxyH8AnP0QTw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=I2lcGBxzMY02%2FzSXzg4OJspy0vU%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 시즌3</figcaption> </figure> </p>'
+      html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>넷플릭스 시리즈 성공작 스위트 홈 시즌 3가 돌아옵니다.</span></p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;background-color: #f3c000;&quot;><b>스위트 홈 시즌3 공개일은 7월 19일</b></span>로 6월 29일 기준 D-20일입니다. 신규 시리즈 공개 전, 전 작품들의 줄거리 요약 및 등장인물 소개와 티저 예고편 확인해 보도록 하겠습니다.</span></p><p><figure><figcaption>넷플릭스 시리즈 스위트홈 시즌3</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1320&quot; data-origin-width=&quot;2332&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 송강&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ZykkX/btsIihEwgBn/AAAAAAAAAAAAAAAAAAAAAHJ2JeoFJxPdhMz3ATYi7HcwBVFZyuasjRVM3mF8nyxL/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nN0rS2OX8LtO0A6ixkOwAw4Dpmc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ZykkX/btsIihEwgBn/AAAAAAAAAAAAAAAAAAAAAHJ2JeoFJxPdhMz3ATYi7HcwBVFZyuasjRVM3mF8nyxL/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nN0rS2OX8LtO0A6ixkOwAw4Dpmc%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 송강</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 스위트홈 송강</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -27,7 +27,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1262&quot; data-origin-width=&quot;2188&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 이도현&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/IZjKj/btsIiVuc30z/AAAAAAAAAAAAAAAAAAAAAKtW7F5SXdTnsgS_VT2az9fVPW9Qy5Jb-XCEOOlGhorj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=bjVRvYDkDQvy3RQhoUs91rJNsmc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/IZjKj/btsIiVuc30z/AAAAAAAAAAAAAAAAAAAAAKtW7F5SXdTnsgS_VT2az9fVPW9Qy5Jb-XCEOOlGhorj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=bjVRvYDkDQvy3RQhoUs91rJNsmc%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 이도현</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 스위트홈 이도현</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -47,39 +47,39 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1320&quot; data-origin-width=&quot;2332&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 송강&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/3RMbK/btsIhbSQrBu/AAAAAAAAAAAAAAAAAAAAAPVE856AkdKVSr2Ij7j8tskLlxt6EVqannmPAFViDQaA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=HGzXnpXXMFHdbd294lp0OnvcDX4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/3RMbK/btsIhbSQrBu/AAAAAAAAAAAAAAAAAAAAAPVE856AkdKVSr2Ij7j8tskLlxt6EVqannmPAFViDQaA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=HGzXnpXXMFHdbd294lp0OnvcDX4%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 송강</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 스위트홈 송강</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1320&quot; data-origin-width=&quot;2332&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 이진욱&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bme0lu/btsIhUv1lF3/AAAAAAAAAAAAAAAAAAAAALraYHhxASByMZyFmrUxSGNhY5Ou99uU3631dF9CsGMS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cjqRICMSSdpa%2FDD2hpJOBTTO9jw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bme0lu/btsIhUv1lF3/AAAAAAAAAAAAAAAAAAAAALraYHhxASByMZyFmrUxSGNhY5Ou99uU3631dF9CsGMS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cjqRICMSSdpa%2FDD2hpJOBTTO9jw%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 이진욱</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 스위트홈 이진욱</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1320&quot; data-origin-width=&quot;2332&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 이시영&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cliGhF/btsIg31Cis7/AAAAAAAAAAAAAAAAAAAAAF0sIoWh-GPZzRfuYazbQ0WqEC4X_1mcTaVvmqvBPaRN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NY%2FDqzSGHNgvrO4fwa8gySCMBRs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cliGhF/btsIg31Cis7/AAAAAAAAAAAAAAAAAAAAAF0sIoWh-GPZzRfuYazbQ0WqEC4X_1mcTaVvmqvBPaRN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NY%2FDqzSGHNgvrO4fwa8gySCMBRs%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 이시영</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 스위트홈 이시영</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1320&quot; data-origin-width=&quot;2332&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 이도현&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lNUsy/btsIhOCPuEy/AAAAAAAAAAAAAAAAAAAAAFXhJlBbVokCAJG4jrrovZvPuWFymJpLbz_nRkQuoyLA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DGkojcTVgv3VJchZKGa4I2Upl8A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lNUsy/btsIhOCPuEy/AAAAAAAAAAAAAAAAAAAAAFXhJlBbVokCAJG4jrrovZvPuWFymJpLbz_nRkQuoyLA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DGkojcTVgv3VJchZKGa4I2Upl8A%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 이도현</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 스위트홈 이도현</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1320&quot; data-origin-width=&quot;2332&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 이도현&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cFEuk0/btsIhQtKfMG/AAAAAAAAAAAAAAAAAAAAAD82ZNSKa5f-Tkvd7TAxjxd3UfeNej0Rwc1bPg7267er/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=YPo6YmrumEbF%2BH17SXi5JDcUkfw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cFEuk0/btsIhQtKfMG/AAAAAAAAAAAAAAAAAAAAAD82ZNSKa5f-Tkvd7TAxjxd3UfeNej0Rwc1bPg7267er/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=YPo6YmrumEbF%2BH17SXi5JDcUkfw%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 이도현</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 스위트홈 이도현</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1320&quot; data-origin-width=&quot;2332&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 고민서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/FIO2x/btsIiTQHneG/AAAAAAAAAAAAAAAAAAAAANJbv0xDUX8InHWl7VKHY0kcFkaF5US95azbtz8mJATv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=6ppiXTs3N63YCn0GIdl1H%2FTM%2FVw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/FIO2x/btsIiTQHneG/AAAAAAAAAAAAAAAAAAAAANJbv0xDUX8InHWl7VKHY0kcFkaF5US95azbtz8mJATv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=6ppiXTs3N63YCn0GIdl1H%2FTM%2FVw%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 고민서</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 스위트홈 고민서</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1320&quot; data-origin-width=&quot;2332&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 정진영&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bnPH7p/btsIgEnIGcD/AAAAAAAAAAAAAAAAAAAAAF6TWpYAagR4f3yAM5MrCstnhrV-EPdikYGKhaInBHpG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=c5OtOaLqP7TGfx3lO1DISJNAgdk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bnPH7p/btsIgEnIGcD/AAAAAAAAAAAAAAAAAAAAAF6TWpYAagR4f3yAM5MrCstnhrV-EPdikYGKhaInBHpG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=c5OtOaLqP7TGfx3lO1DISJNAgdk%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 정진영</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 스위트홈 정진영</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1320&quot; data-origin-width=&quot;2332&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 김무열&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/S0nQx/btsIhxOGEUz/AAAAAAAAAAAAAAAAAAAAALw6AiCZB9GG0EuaMnRKPregmdlOi3MoHoeihtRR9Jd6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lFbql3Uq%2BvUMezBNkYDVV1%2BZK6E%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/S0nQx/btsIhxOGEUz/AAAAAAAAAAAAAAAAAAAAALw6AiCZB9GG0EuaMnRKPregmdlOi3MoHoeihtRR9Jd6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lFbql3Uq%2BvUMezBNkYDVV1%2BZK6E%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 김무열</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 스위트홈 김무열</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1320&quot; data-origin-width=&quot;2332&quot;><span data-alt=&quot;넷플릭스 시리즈 스위트홈 김시아&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/LiJsb/btsIg5Zv8Fk/AAAAAAAAAAAAAAAAAAAAAAwyv8DCsz-DGukpwy12Nz_kVkXK3PHMbby9UA72dU50/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1vDpPZhXG9wWEVpbAXgvxbK1e5Q%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/LiJsb/btsIg5Zv8Fk/AAAAAAAAAAAAAAAAAAAAAAwyv8DCsz-DGukpwy12Nz_kVkXK3PHMbby9UA72dU50/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1vDpPZhXG9wWEVpbAXgvxbK1e5Q%3D&quot;></span><figcaption>넷플릭스 시리즈 스위트홈 김시아</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 스위트홈 김시아</figcaption> </figure> </p>'
     },
     ,
     { type: 'image', src: '/images/post413_img14.jpg', alt: '넷플릭스 시리즈 스위트홈 김시아', caption: 'ⓒ R의 필름공장' },

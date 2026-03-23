@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>넷플릭스 시리즈 추천 콘텐츠, 이번 작품은 실화 기반 시리즈 \'괴물 - 메넨 데즈 형제 이야기\' (영어 제목 : monsters the lyle and erik menendez story )입니다.</p><p>이번 포스팅에서는 괴물 해외 로튼토마토 평점과 IMDB 평점을 살펴보며, 볼만한 시리즈인지 확인해 보도록 하겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1518&quot; data-origin-width=&quot;1960&quot;><span data-alt=&quot;넷플릭스 시리즈 인기 순위 추천 - 괴물 메넨 데즈 형제 이야기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/qyt7b/btsJJJF30FJ/AAAAAAAAAAAAAAAAAAAAAPHsOXpbYRuWNypIDkTwCPFo4UGHYevcz5rLB2poW9il/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tRWFl8Wa35zv%2FxBq%2FryV7vv69T8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/qyt7b/btsJJJF30FJ/AAAAAAAAAAAAAAAAAAAAAPHsOXpbYRuWNypIDkTwCPFo4UGHYevcz5rLB2poW9il/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tRWFl8Wa35zv%2FxBq%2FryV7vv69T8%3D&quot;></span><figcaption>넷플릭스 시리즈 인기 순위 추천 - 괴물 메넨 데즈 형제 이야기</figcaption> </figure> </p>'
+      html: '<p>넷플릭스 시리즈 추천 콘텐츠, 이번 작품은 실화 기반 시리즈 \'괴물 - 메넨 데즈 형제 이야기\' (영어 제목 : monsters the lyle and erik menendez story )입니다.</p><p>이번 포스팅에서는 괴물 해외 로튼토마토 평점과 IMDB 평점을 살펴보며, 볼만한 시리즈인지 확인해 보도록 하겠습니다.</p><p><figure><figcaption>넷플릭스 시리즈 인기 순위 추천 - 괴물 메넨 데즈 형제 이야기</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;612&quot; data-origin-width=&quot;1722&quot;><span data-alt=&quot;괴물 메넨 데즈 형제 이야기 로튼토마토 평점입니다.&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/rWBLk/btsJJN2EO7A/AAAAAAAAAAAAAAAAAAAAAEeGOxj1NYXQ8ekJXbbMg40nYPN8PmJfhuWkY7S9Jhcs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=E5GCTZu22GalaKmYGictTATlhsQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/rWBLk/btsJJN2EO7A/AAAAAAAAAAAAAAAAAAAAAEeGOxj1NYXQ8ekJXbbMg40nYPN8PmJfhuWkY7S9Jhcs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=E5GCTZu22GalaKmYGictTATlhsQ%3D&quot;></span><figcaption>괴물 메넨 데즈 형제 이야기 로튼토마토 평점입니다.</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>괴물 메넨 데즈 형제 이야기 로튼토마토 평점입니다.</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -43,7 +43,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;906&quot; data-origin-width=&quot;2028&quot;><span data-alt=&quot;괴물 메넨 데즈 형제 이야기 IMDB 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bJHqWt/btsJJzwOpFl/AAAAAAAAAAAAAAAAAAAAAAAif68Wowp4bzUMvjbiRIokl2hd9HSRt-uQpK4EN6F2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=62WKL8ZQjYVBRUj5BWd7kh3uJWg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bJHqWt/btsJJzwOpFl/AAAAAAAAAAAAAAAAAAAAAAAif68Wowp4bzUMvjbiRIokl2hd9HSRt-uQpK4EN6F2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=62WKL8ZQjYVBRUj5BWd7kh3uJWg%3D&quot;></span><figcaption>괴물 메넨 데즈 형제 이야기 IMDB 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>괴물 메넨 데즈 형제 이야기 IMDB 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -67,7 +67,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1348&quot; data-origin-width=&quot;1362&quot;><span data-alt=&quot;괴물 메넨 데즈 형제 이야기 평점분포 입니다.&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bhjtNM/btsJJMWYUo0/AAAAAAAAAAAAAAAAAAAAAOykjJl6_Lde1OuEtpmyYood-5VN917mnvJvrY38Ck4f/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hlFSXrtyvnO8jXz7qAk0vtvxIw4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bhjtNM/btsJJMWYUo0/AAAAAAAAAAAAAAAAAAAAAOykjJl6_Lde1OuEtpmyYood-5VN917mnvJvrY38Ck4f/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=hlFSXrtyvnO8jXz7qAk0vtvxIw4%3D&quot;></span><figcaption>괴물 메넨 데즈 형제 이야기 평점분포 입니다.</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>괴물 메넨 데즈 형제 이야기 평점분포 입니다.</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -83,7 +83,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1346&quot; data-origin-width=&quot;1288&quot;><span data-alt=&quot;괴물 : 메넨 데즈 형제 이야기 주요 등장인물&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ceJjVN/btsJIjIxCBt/AAAAAAAAAAAAAAAAAAAAALxf8lO2dPhKe6wN953A0UQwrMJZeU0x2WoWMU2EQFd8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sYgNo%2BmX%2FqzdYYWvEl45Ilz9oVw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ceJjVN/btsJIjIxCBt/AAAAAAAAAAAAAAAAAAAAALxf8lO2dPhKe6wN953A0UQwrMJZeU0x2WoWMU2EQFd8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=sYgNo%2BmX%2FqzdYYWvEl45Ilz9oVw%3D&quot;></span><figcaption>괴물 : 메넨 데즈 형제 이야기 주요 등장인물</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>괴물 : 메넨 데즈 형제 이야기 주요 등장인물</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -95,7 +95,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;830&quot; data-origin-width=&quot;1570&quot;><span data-alt=&quot;괴물 : 메넨 데스 형제 이야기 실제 형제&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/kXIRY/btsJJJ7aZdC/AAAAAAAAAAAAAAAAAAAAAD2zstK0J5atytncTBFBZOFbCUg8TkeZhXWOxUKOD6Hj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pxsE0%2Fj3vPvtXBkfSQcHrGpf0K0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/kXIRY/btsJJJ7aZdC/AAAAAAAAAAAAAAAAAAAAAD2zstK0J5atytncTBFBZOFbCUg8TkeZhXWOxUKOD6Hj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pxsE0%2Fj3vPvtXBkfSQcHrGpf0K0%3D&quot;></span><figcaption>괴물 : 메넨 데스 형제 이야기 실제 형제</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>괴물 : 메넨 데스 형제 이야기 실제 형제</figcaption> </figure> </p>'
     },
     {
       type: 'body',

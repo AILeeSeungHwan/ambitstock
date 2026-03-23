@@ -31,7 +31,7 @@ const post = {
     { type: 'h2', id: "section5", text: "카라바조의 그림자 로튼 토마토 평론가 평점", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>카라바조의 그림자 로튼 토마토 평론가 평점입니다.</b></span></p>" },
     { type: 'image', src: "/images/post117_img5.jpg", alt: "카라바조의 그림자 평점", caption: "ⓒ R의 필름공장" },
-    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;369&quot; data-origin-width=&quot;1120&quot;><span data-alt=&quot;카라바조의 그림자 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bm64Q3/btsLBjGPKS5/AAAAAAAAAAAAAAAAAAAAAO2RMNdUXyU3pLShE7CeOxD8kh9CLQZbL_fpG1f2yvlc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=6HJf74HUoFxlxEZ6tHGh%2B75ZWZk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bm64Q3/btsLBjGPKS5/AAAAAAAAAAAAAAAAAAAAAO2RMNdUXyU3pLShE7CeOxD8kh9CLQZbL_fpG1f2yvlc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=6HJf74HUoFxlxEZ6tHGh%2B75ZWZk%3D&quot;></span><figcaption>카라바조의 그림자 로튼 토마토 평점</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>카라바조의 그림자 로튼 토마토 평점</figcaption> </figure> </p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점은 아직 기록되지 않았고, 관객 평점 56%입니다.</b></span></p>" },
     { type: 'body', html: "<p>평론가 후기는 3개 등록되어 있으며 포스팅 하단에서 다뤄보도록 하겠습니다.</p>" },
     { type: 'body', html: "<p>IMDB에서의 평점도 6.5점으로 로튼 토마토와 마찬가지로 낮은 시청자 평점을 기록하였습니다.</p>" },

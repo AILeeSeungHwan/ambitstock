@@ -79,7 +79,7 @@ const post = {
     { type: 'image', src: '/images/post183_img3.jpg', alt: '서브스턴스 관람평', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;368&quot; data-origin-width=&quot;1120&quot;><span data-alt=&quot;서브스턴스 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/nAdWz/btsKRkk2zkN/AAAAAAAAAAAAAAAAAAAAAP0F41cQHukEu-tDpTSgXflaN6pTpYp-uTxF3uKijJtb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=EXZw4zrOaFm9Lfz2QRGJX2ZDtOI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/nAdWz/btsKRkk2zkN/AAAAAAAAAAAAAAAAAAAAAP0F41cQHukEu-tDpTSgXflaN6pTpYp-uTxF3uKijJtb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=EXZw4zrOaFm9Lfz2QRGJX2ZDtOI%3D&quot;></span><figcaption>서브스턴스 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>서브스턴스 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

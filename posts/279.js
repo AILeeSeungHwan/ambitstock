@@ -14,7 +14,7 @@ const post = {
     { type: 'body', html: "<p>시청하신 분들은 아시겠지만 1주 차 공개 된 4편, 약 5시간의 분량도 짧게 느껴질 만큼 다음화를 이어서 보게 만드는 연출을 보여줍니다. 특히나 좋았던 부분은 악마의 편집 없이 깔끔하게 상황만을 전달한다는 게 이 프로그램의 최대강점이자 흥행이유인 것 같습니다.</p>" },
     { type: 'body', html: "<p>그렇다면 한국에서 이렇게나 핫한 흑백요리사, 해외 반응과 평점은 어떠한지 살펴보도록 하겠습니다.</p>" },
     { type: 'body', html: "<p><b>흑백요리사 평점 인기순위 알아보겠습니다.</b></p>" },
-    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;862&quot; data-origin-width=&quot;2034&quot;><span data-alt=&quot;넷플릭스 추천 흑백요리사 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bqoNwC/btsJKQljeVc/AAAAAAAAAAAAAAAAAAAAAG5ZTxvS-JUhMsfuSRK_HVLBLHDAh5bnG0l3hjCKg2lS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qCHlySOaHqc0dRJlhlh4%2F7WVSKg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bqoNwC/btsJKQljeVc/AAAAAAAAAAAAAAAAAAAAAG5ZTxvS-JUhMsfuSRK_HVLBLHDAh5bnG0l3hjCKg2lS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qCHlySOaHqc0dRJlhlh4%2F7WVSKg%3D&quot;></span><figcaption>넷플릭스 추천 흑백요리사 평점</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>넷플릭스 추천 흑백요리사 평점</figcaption> </figure> </p>" },
     { type: 'body', html: "<p>시청자 평점 8.7점, 인기순위 2,029위의 흑백요리사입니다.</p>" },
     { type: 'body', html: "<p>무려 8,556위 상승한 순위로 공개 당시엔 큰 인기를 끌지 못하였지만, 순식간에 1주일 사이 순위가 상승한 모습입니다.</p>" },
     { type: 'body', html: "<p>지난 포스팅에서 확인한 바와 같이, 공개 당시 인기뿐만 아니라 평점도 좋지 못하였으며 후기리뷰 또한 악평이 많았던 것과 상반된 결과입니다.</p>" },

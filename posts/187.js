@@ -52,7 +52,7 @@ const post = {
     { type: 'image', src: '/images/post187_img2.jpg', alt: '모스크바 미션 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;364&quot; data-origin-width=&quot;1107&quot;><span data-alt=&quot;모스크바 미션 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bXj6Fw/btsKPESN4lJ/AAAAAAAAAAAAAAAAAAAAAECqpKy-Cm2j9qQepWkXtOKbH884hP2KhoY41Tu8JCBb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=HjxLyXHpX6%2BSUKocP%2BEnqsqgznk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bXj6Fw/btsKPESN4lJ/AAAAAAAAAAAAAAAAAAAAAECqpKy-Cm2j9qQepWkXtOKbH884hP2KhoY41Tu8JCBb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=HjxLyXHpX6%2BSUKocP%2BEnqsqgznk%3D&quot;></span><figcaption>모스크바 미션 로튼 토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>모스크바 미션 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

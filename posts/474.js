@@ -21,7 +21,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;경성크리처.JPG&quot; data-origin-height=&quot;275&quot; data-origin-width=&quot;961&quot;><span data-alt=&quot;로튼 토마토 경성크리처 시즌1 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/mFzBI/btsCKRscefy/AAAAAAAAAAAAAAAAAAAAAFl42saLeSsKQBvkBdJa8HfDSUYxSjz08Z9aDVr8j6c7/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QNfCaRhc%2F8JDC2xzv4S6q7fixsY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/mFzBI/btsCKRscefy/AAAAAAAAAAAAAAAAAAAAAFl42saLeSsKQBvkBdJa8HfDSUYxSjz08Z9aDVr8j6c7/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QNfCaRhc%2F8JDC2xzv4S6q7fixsY%3D&quot;></span><figcaption>로튼 토마토 경성크리처 시즌1 평점</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;경성크리처.JPG&quot;><figcaption>로튼 토마토 경성크리처 시즌1 평점</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post474_img1.jpg', alt: '경성크리처 통합본 최신현황 이곳에서 확인', caption: 'ⓒ R의 필름공장' },
     {
@@ -72,7 +72,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;IMDB.JPG&quot; data-origin-height=&quot;549&quot; data-origin-width=&quot;1259&quot;><span data-alt=&quot;IMDB 경성크리처 시즌1 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/kAoTr/btsCN0BWEZe/AAAAAAAAAAAAAAAAAAAAAJwSiq7WX81WVq3kFUzl9-OIxLUqz7vICS9aMojWJ-rT/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Kaz45ai47B0Xxy04GZ5vn82g0l8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/kAoTr/btsCN0BWEZe/AAAAAAAAAAAAAAAAAAAAAJwSiq7WX81WVq3kFUzl9-OIxLUqz7vICS9aMojWJ-rT/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Kaz45ai47B0Xxy04GZ5vn82g0l8%3D&quot;></span><figcaption>IMDB 경성크리처 시즌1 평점</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;IMDB.JPG&quot;><figcaption>IMDB 경성크리처 시즌1 평점</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post474_img2.jpg', alt: '경성크리처 공식 포스터', caption: 'ⓒ R의 필름공장' },
     {
@@ -127,7 +127,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;167&quot; data-origin-width=&quot;518&quot;><span data-alt=&quot;Filmarks 경성크리처 시즌1 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cBGH1W/btsCSdmLOKe/AAAAAAAAAAAAAAAAAAAAAL2izNUzDfWS7PK9U7xbJdTpULsos1SFMb076fW-g2hV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Wt4LPSjBQmwfR091BEJrmgXUwRg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cBGH1W/btsCSdmLOKe/AAAAAAAAAAAAAAAAAAAAAL2izNUzDfWS7PK9U7xbJdTpULsos1SFMb076fW-g2hV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Wt4LPSjBQmwfR091BEJrmgXUwRg%3D&quot;></span><figcaption>Filmarks 경성크리처 시즌1 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>Filmarks 경성크리처 시즌1 평점</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post474_img16.jpg', alt: '외계인 2부 리뷰 및 해외반응', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post474_img15.jpg', alt: '봉준호 감독 미키17 개봉일 티저 예고편 및 기생충 평점', caption: 'ⓒ R의 필름공장' },
@@ -181,7 +181,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;박서준 한소희.jpg&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;769&quot;><span data-alt=&quot;경성크리처 박서준 한소희 스틸컷&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/RCL8w/btsDrDSLyeg/AAAAAAAAAAAAAAAAAAAAAEpImCCh1J5wctRYCUtXNJPxZHF87FVmfJHZjgI_Ziyd/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kRLypUrK9OLa0v6maHG6o%2BqXFJ4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/RCL8w/btsDrDSLyeg/AAAAAAAAAAAAAAAAAAAAAEpImCCh1J5wctRYCUtXNJPxZHF87FVmfJHZjgI_Ziyd/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kRLypUrK9OLa0v6maHG6o%2BqXFJ4%3D&quot;></span><figcaption>경성크리처 박서준 한소희 스틸컷</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;박서준 한소희.jpg&quot;><figcaption>경성크리처 박서준 한소희 스틸컷</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -205,7 +205,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;경성크리처4.jpg&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;901&quot;><span data-alt=&quot;경성크리처 박서준 한소희 스틸컷&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/boosRp/btsDrJZMCkX/AAAAAAAAAAAAAAAAAAAAAM7bJWNlYU7B6_dc5AkGJNhBlUH7uRHgxAXj__0fElL0/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wWu1mHJ%2BgwMWvas2%2FBpfXH3MyQY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/boosRp/btsDrJZMCkX/AAAAAAAAAAAAAAAAAAAAAM7bJWNlYU7B6_dc5AkGJNhBlUH7uRHgxAXj__0fElL0/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wWu1mHJ%2BgwMWvas2%2FBpfXH3MyQY%3D&quot;></span><figcaption>경성크리처 박서준 한소희 스틸컷</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;경성크리처4.jpg&quot;><figcaption>경성크리처 박서준 한소희 스틸컷</figcaption> </figure> </p>'
     },
     {
       type: 'body',

@@ -35,7 +35,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;517&quot; data-origin-width=&quot;1249&quot;><span data-alt=&quot;넷플릭스 시리즈 선산 IMDB 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/csGRME/btsDUgpwMQF/AAAAAAAAAAAAAAAAAAAAAD54K4D_abk7Jd5g5csZX5uVjwsLOZFiQg4GSh3rXU0C/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ISrfGP7QIpYq9eSYV8mEaEq21MM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/csGRME/btsDUgpwMQF/AAAAAAAAAAAAAAAAAAAAAD54K4D_abk7Jd5g5csZX5uVjwsLOZFiQg4GSh3rXU0C/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ISrfGP7QIpYq9eSYV8mEaEq21MM%3D&quot;></span><figcaption>넷플릭스 시리즈 선산 IMDB 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 선산 IMDB 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -127,7 +127,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;634&quot; data-origin-width=&quot;868&quot;><span data-alt=&quot;IMDB 넷플릭스 선산 평점분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/WUNZN/btsDSpN2K6S/AAAAAAAAAAAAAAAAAAAAADs77XBkd_EJYhPQkf4eS8W1sumpwm0LVoEGVbv6fMAM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q9uiEz6kI2%2BN2ay5J2KbJcvulUQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/WUNZN/btsDSpN2K6S/AAAAAAAAAAAAAAAAAAAAADs77XBkd_EJYhPQkf4eS8W1sumpwm0LVoEGVbv6fMAM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q9uiEz6kI2%2BN2ay5J2KbJcvulUQ%3D&quot;></span><figcaption>IMDB 넷플릭스 선산 평점분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 넷플릭스 선산 평점분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',

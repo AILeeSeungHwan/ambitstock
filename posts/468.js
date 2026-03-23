@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;227&quot; data-origin-width=&quot;746&quot;><span data-alt=&quot;로튼 토마토 영화 기생충 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bbiPmV/btsC0016i5V/AAAAAAAAAAAAAAAAAAAAAJUkb451c3EH00vvYEGbOlUGGOGRNO_B54XG0DQ9n1d7/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=yaHwz5hbCTC%2Fl%2BjWNmKSlp9kOQc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bbiPmV/btsC0016i5V/AAAAAAAAAAAAAAAAAAAAAJUkb451c3EH00vvYEGbOlUGGOGRNO_B54XG0DQ9n1d7/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=yaHwz5hbCTC%2Fl%2BjWNmKSlp9kOQc%3D&quot;></span><figcaption>로튼 토마토 영화 기생충 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>로튼 토마토 영화 기생충 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -91,7 +91,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>진정한 걸작 </b><b><span style=&quot;color: #f3c000;&quot;><span><span><span><span><span></span></span></span></span></span>10/10</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>진정한 걸작 </b><b><span style=&quot;color: #f3c000;&quot;><span><span><span></span></span></span>10/10</span></b></p>'
     },
     {
       type: 'body',
@@ -99,7 +99,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>계급투쟁을 다룬 오리지널 블랙 코미디 </b><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><span><span><span><span><span></span></span></span></span></span></span></span></b></span></b></span>9/10</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>계급투쟁을 다룬 오리지널 블랙 코미디 </b><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><span><span><span></span></span></span></span></span></b></span></b></span>9/10</span></b></p>'
     },
     {
       type: 'body',
@@ -107,7 +107,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>볼수록 좋아질 훌륭한 예술작품! ( A brilliant piece of art which will slowly grows on you! ) </b><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><span><span><span><span></span></span></span></span></span></span></b></span></b></span>10/10</span></b></p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>볼수록 좋아질 훌륭한 예술작품! ( A brilliant piece of art which will slowly grows on you! ) </b><b><span style=&quot;color: #f3c000;&quot;><span><b><span style=&quot;color: #f3c000;&quot;><b><span style=&quot;background-color: #fdfdfd; color: inherit; text-align: start;&quot;><span style=&quot;color: #f3c000;&quot;><span><span></span></span></span></span></b></span></b></span>10/10</span></b></p>'
     },
     {
       type: 'body',

@@ -1,7 +1,7 @@
 const post = {
   id: 351,
   sections: [
-    { type: 'intro', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 예매 순위를 총정리 해드립니다.</b></span></p><p><b>영화 예매 순위와 더불어 각 영화의 평점, 시사회, 해외 반응과 후기를 함께 보실 수 있습니다.</b></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;543&quot; data-origin-width=&quot;649&quot;><span data-alt=&quot;영화 예매 순위 - 출처 다음 영화 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/54WAQ/btsI3juofs4/AAAAAAAAAAAAAAAAAAAAAILpuj6rWNdiCGki9s-SYvS1XeyOIBHHYX70TPLZtHq1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=l9ec3I%2B8HBR3hCGFTBh44%2FrNljw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/54WAQ/btsI3juofs4/AAAAAAAAAAAAAAAAAAAAAILpuj6rWNdiCGki9s-SYvS1XeyOIBHHYX70TPLZtHq1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=l9ec3I%2B8HBR3hCGFTBh44%2FrNljw%3D&quot;></span><figcaption>영화 예매 순위 - 출처 다음 영화 순위</figcaption> </figure> </p>" },
+    { type: 'intro', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 예매 순위를 총정리 해드립니다.</b></span></p><p><b>영화 예매 순위와 더불어 각 영화의 평점, 시사회, 해외 반응과 후기를 함께 보실 수 있습니다.</b></p><p><figure><figcaption>영화 예매 순위 - 출처 다음 영화 순위</figcaption> </figure> </p>" },
     { type: 'image', src: "/images/post351_thumb.svg", alt: "영화 예매 순위 시사회 해외반응 후기와 함께 현재상영작 총정리", caption: "영화 예매 순위 시사회 해외반응 후기와 함께 현재상영작 총정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },

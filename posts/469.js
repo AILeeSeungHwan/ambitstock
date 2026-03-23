@@ -199,7 +199,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;625&quot; data-origin-width=&quot;835&quot;><span data-alt=&quot;&amp;lt;외계+인 1부&amp;gt; 에 대한 관객 평점분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/9F6r3/btsCZgKx9TZ/AAAAAAAAAAAAAAAAAAAAAE6HJntm8X7CWhqd-hDH5sb12WTrGODiQQcw40JRPFFp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qU%2B82JjtoQ0KPPagmrNnN6462Iw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/9F6r3/btsCZgKx9TZ/AAAAAAAAAAAAAAAAAAAAAE6HJntm8X7CWhqd-hDH5sb12WTrGODiQQcw40JRPFFp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qU%2B82JjtoQ0KPPagmrNnN6462Iw%3D&quot;></span><figcaption>&lt;외계+인 1부&gt; 에 대한 관객 평점분포</figcaption> </figure> </p>'
+      html: '<p><figure><span data-alt=&quot;&amp;lt;외계+인 1부&amp;gt; 에 대한 관객 평점분포&quot;></span><figcaption>&lt;외계+인 1부&gt; 에 대한 관객 평점분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',

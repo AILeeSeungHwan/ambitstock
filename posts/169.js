@@ -58,7 +58,7 @@ const post = {
     { type: 'image', src: '/images/post169_img2.jpg', alt: '나우 이즈 굿 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;588&quot; data-origin-width=&quot;1890&quot;><span data-alt=&quot;나우 이즈 굿 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bwtWRS/btsK0l6rN50/AAAAAAAAAAAAAAAAAAAAAH83SwGUNV-1vsnLOzTzfrBIombgMcPQSBnxqEiOZrnI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BsgyMQTTKGxmXx2hjcVotBT%2BPFY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bwtWRS/btsK0l6rN50/AAAAAAAAAAAAAAAAAAAAAH83SwGUNV-1vsnLOzTzfrBIombgMcPQSBnxqEiOZrnI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BsgyMQTTKGxmXx2hjcVotBT%2BPFY%3D&quot;></span><figcaption>나우 이즈 굿 로튼 토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>나우 이즈 굿 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

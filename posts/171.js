@@ -59,7 +59,7 @@ const post = {
     { type: 'image', src: '/images/post171_poster.jpg', alt: '포스트 171 관련 이미지', caption: '출처: 네이버 영화' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;604&quot; data-origin-width=&quot;1874&quot;><span data-alt=&quot;모아나 2 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/SrLrD/btsKYzCj4RN/AAAAAAAAAAAAAAAAAAAAAKkGhWMIjR0L2q2FMPvUo2DP9xYcLJGHGoyObAH1dTW-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7hyckTFhQ3nf0Ks6Xu%2F67pjqUDY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/SrLrD/btsKYzCj4RN/AAAAAAAAAAAAAAAAAAAAAKkGhWMIjR0L2q2FMPvUo2DP9xYcLJGHGoyObAH1dTW-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7hyckTFhQ3nf0Ks6Xu%2F67pjqUDY%3D&quot;></span><figcaption>모아나 2 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>모아나 2 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

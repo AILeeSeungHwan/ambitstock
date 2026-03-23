@@ -107,7 +107,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;644&quot; data-origin-width=&quot;854&quot;><span data-alt=&quot;탑건: 매버릭 IMDB 평점분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lCaiR/btsEEz4qX7B/AAAAAAAAAAAAAAAAAAAAAN3I5LaPh5cg4UJevLE0w99bJ7J9VhQXQyBVhch7HLm8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jH0t9klfZA1O40EteGJIHIRhL2Q%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lCaiR/btsEEz4qX7B/AAAAAAAAAAAAAAAAAAAAAN3I5LaPh5cg4UJevLE0w99bJ7J9VhQXQyBVhch7HLm8/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jH0t9klfZA1O40EteGJIHIRhL2Q%3D&quot;></span><figcaption>탑건: 매버릭 IMDB 평점분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>탑건: 매버릭 IMDB 평점분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',

@@ -52,7 +52,7 @@ const post = {
     { type: 'image', src: '/images/post206_img2.jpg', alt: '미스터 플랑크톤 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1258&quot; data-origin-width=&quot;2136&quot;><span data-alt=&quot;미스터 플랑크톤 뜻 의미 해석&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/POLmC/btsKLcNYWzs/AAAAAAAAAAAAAAAAAAAAAC2l0rywL5mzm6HoBhjeTgG6dWgEHITGCPNoXrtoI9My/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OIysLqwbLnH%2BUCKSQrjWFtj6slM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/POLmC/btsKLcNYWzs/AAAAAAAAAAAAAAAAAAAAAC2l0rywL5mzm6HoBhjeTgG6dWgEHITGCPNoXrtoI9My/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=OIysLqwbLnH%2BUCKSQrjWFtj6slM%3D&quot;></span><figcaption>미스터 플랑크톤 뜻 의미 해석</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>미스터 플랑크톤 뜻 의미 해석</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -64,7 +64,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1258&quot; data-origin-width=&quot;2136&quot;><span data-alt=&quot;미스터 플랑크톤 뜻 의미 해석&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/SeCEh/btsKI4qBIjR/AAAAAAAAAAAAAAAAAAAAADbeHBCZD7ETdSiXq3YtbCe5cOUbrMm19mhfwdMKxyFb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Uu5WHmDo%2FVoryjG%2BsRec52Rmqc8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/SeCEh/btsKI4qBIjR/AAAAAAAAAAAAAAAAAAAAADbeHBCZD7ETdSiXq3YtbCe5cOUbrMm19mhfwdMKxyFb/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Uu5WHmDo%2FVoryjG%2BsRec52Rmqc8%3D&quot;></span><figcaption>미스터 플랑크톤 뜻 의미 해석</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>미스터 플랑크톤 뜻 의미 해석</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -83,7 +83,7 @@ const post = {
     { type: 'image', src: '/images/post206_img3.jpg', alt: '미스터 플랑크톤 로튼 토마토 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;488&quot; data-origin-width=&quot;1506&quot;><span data-alt=&quot;미스터 플랑크톤 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/PBz6N/btsKKcgMrf1/AAAAAAAAAAAAAAAAAAAAAN4A_5lsvgrT40C_FRRapkNHFF0idKgJjBszytgNGFOv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=q2jgTzzqLpemI8uOoiG686JTFdM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/PBz6N/btsKKcgMrf1/AAAAAAAAAAAAAAAAAAAAAN4A_5lsvgrT40C_FRRapkNHFF0idKgJjBszytgNGFOv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=q2jgTzzqLpemI8uOoiG686JTFdM%3D&quot;></span><figcaption>미스터 플랑크톤 로튼 토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>미스터 플랑크톤 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

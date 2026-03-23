@@ -75,7 +75,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1290&quot; data-origin-width=&quot;2124&quot;><span data-alt=&quot;섀도우 오브 파이어 줄거리 내용&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cDfUT4/btsKXinVuxi/AAAAAAAAAAAAAAAAAAAAAGJh1jw0JD9yBKu67eEzBF7UdGsbWyeR2HxlO7W-Evoz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2mKXyIy%2F2TWQ25dVNp47oxdftLw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cDfUT4/btsKXinVuxi/AAAAAAAAAAAAAAAAAAAAAGJh1jw0JD9yBKu67eEzBF7UdGsbWyeR2HxlO7W-Evoz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2mKXyIy%2F2TWQ25dVNp47oxdftLw%3D&quot;></span><figcaption>섀도우 오브 파이어 줄거리 내용</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>섀도우 오브 파이어 줄거리 내용</figcaption> </figure> </p>'
     },
     {
       type: 'body',

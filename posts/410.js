@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>넷플릭스 오리지널 시리즈 더 에이트 쇼, 어떻게 보셨나요?</p><p>웹툰 원작 머니게임, 파이게임을 차용하여 만들어진 더 에이트 쇼는 원작의 충격적인 전개를 그대로 가져와 예상치 못한 잔인함을 그려냈습니다. 해외 평점과 반응은 각기 다양합니다. 하지만 공통적인 한 가지는, <span style=&quot;background-color: #f3c000;&quot;><b>\'오징어 게임\' 언급이 항상 함께 한다는 것</b></span>입니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1574&quot; data-origin-width=&quot;1082&quot;><span data-alt=&quot;넷플릭스 시리즈 더 에이트 쇼&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/1BwTR/btsIhP26s2L/AAAAAAAAAAAAAAAAAAAAAEWjtjQEjhJ3UqAbRC9xp1vlOL2-_sT33NzgdM-45Q1S/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4JrPsCsOpukcoS4%2BeoNDJu9is%2BU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/1BwTR/btsIhP26s2L/AAAAAAAAAAAAAAAAAAAAAEWjtjQEjhJ3UqAbRC9xp1vlOL2-_sT33NzgdM-45Q1S/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4JrPsCsOpukcoS4%2BeoNDJu9is%2BU%3D&quot;></span><figcaption>넷플릭스 시리즈 더 에이트 쇼</figcaption> </figure> </p>'
+      html: '<p>넷플릭스 오리지널 시리즈 더 에이트 쇼, 어떻게 보셨나요?</p><p>웹툰 원작 머니게임, 파이게임을 차용하여 만들어진 더 에이트 쇼는 원작의 충격적인 전개를 그대로 가져와 예상치 못한 잔인함을 그려냈습니다. 해외 평점과 반응은 각기 다양합니다. 하지만 공통적인 한 가지는, <span style=&quot;background-color: #f3c000;&quot;><b>\'오징어 게임\' 언급이 항상 함께 한다는 것</b></span>입니다.</p><p><figure><figcaption>넷플릭스 시리즈 더 에이트 쇼</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1510&quot; data-origin-width=&quot;2206&quot;><span data-alt=&quot;넷플릭스 시리즈 드라마 더 에이트 쇼 로튼토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/n2Nag/btsIjzEOp6V/AAAAAAAAAAAAAAAAAAAAADD_wcKLFTtWJ1xa09HnxI0wVS2O0fgaeG_-V6UXq0Pd/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=38fDNKrIj2vHmTXhyK6G0fEZ6%2B0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/n2Nag/btsIjzEOp6V/AAAAAAAAAAAAAAAAAAAAADD_wcKLFTtWJ1xa09HnxI0wVS2O0fgaeG_-V6UXq0Pd/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=38fDNKrIj2vHmTXhyK6G0fEZ6%2B0%3D&quot;></span><figcaption>넷플릭스 시리즈 드라마 더 에이트 쇼 로튼토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 드라마 더 에이트 쇼 로튼토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

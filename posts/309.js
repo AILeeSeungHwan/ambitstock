@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1396&quot; data-origin-width=&quot;1772&quot;><span data-alt=&quot;보헤미안 랩소디 제목 뜻 의미&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dYKTZk/btsJw2MDZX6/AAAAAAAAAAAAAAAAAAAAAIHXOdqIBZ1nzcwRWCnSKGVhAdBWFn-S5km38g-jNrRv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SXmP15Ao8uhy%2FFfy0wtNEvvbsnE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dYKTZk/btsJw2MDZX6/AAAAAAAAAAAAAAAAAAAAAIHXOdqIBZ1nzcwRWCnSKGVhAdBWFn-S5km38g-jNrRv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=SXmP15Ao8uhy%2FFfy0wtNEvvbsnE%3D&quot;></span><figcaption>보헤미안 랩소디 제목 뜻 의미</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>보헤미안 랩소디 제목 뜻 의미</figcaption> </figure> </p>'
     },
     {
       type: 'body',

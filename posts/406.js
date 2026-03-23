@@ -37,7 +37,7 @@ const post = {
     { type: 'body', html: "<p>이 애니메이션은 친숙한 아이디어를 따르지만, 그 실행 방식이 매우 감동적입니다. 각 캐릭터가 자신의 동기를 가지고 있으며, 주인공만이 아닌 여러 영웅들이 등장합니다. 액션 장면이 훌륭하고, 처음부터 시청자를 사로잡습니다.</p>" },
     { type: 'body', html: "<p><b><span style=&quot;background-color: #f3c000;&quot;>약 90%의 평점이 8점-10점</span></b>에 모여있으며, 1점 평점이 적다는 뜻은 호불호 없이 모두가 해당 컨텐츠를 즐겼다는 것을 의미합니다.</p>" },
     { type: 'body', html: "<p>시청하지 않으신 분들은 꼭 괴수 8호 시청해보시길 바랍니다.</p>" },
-    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;486&quot; data-origin-width=&quot;1380&quot;><span data-alt=&quot;괴수 8호 다시보기 OTT 보는곳&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/mjZjj/btsIk0bg0Xx/AAAAAAAAAAAAAAAAAAAAAOYmwVgmKBjZg2yBwdTjbDG-BG9l2OB9TrC6aWOmvPqv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NGvCRVDAi7T0zWwAiLgeK8Mu7Js%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/mjZjj/btsIk0bg0Xx/AAAAAAAAAAAAAAAAAAAAAOYmwVgmKBjZg2yBwdTjbDG-BG9l2OB9TrC6aWOmvPqv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NGvCRVDAi7T0zWwAiLgeK8Mu7Js%3D&quot;></span><figcaption>괴수 8호 다시보기 OTT 보는곳</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>괴수 8호 다시보기 OTT 보는곳</figcaption> </figure> </p>" },
     { type: 'image', src: "/images/post406_img18.jpg", alt: "괴수 8호 다시보기 OTT 보는곳", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post406_img17.jpg", alt: "괴수 8호 평점 분포", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post406_img16.jpg", alt: "괴수 8호", caption: "ⓒ R의 필름공장" },

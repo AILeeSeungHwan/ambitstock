@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: inherit; font-size: 16px; line-height: 1.7;&quot;>세계적인 거장 박찬욱 감독이 신작 <i>어쩔수가없다 (No Other Choice)</i>로 돌아왔습니다.</p><p style=&quot;color: inherit; font-size: 16px; line-height: 1.7;&quot;>이번 영화는 실직한 가장 만수의 몰락을 통해 남성성, 가족의 의미, 사회적 압박이라는 주제를 다루며 블랙코미디와 스릴러의 경계를 넘나듭니다. 이병헌은 웃음과 비극을 동시에 담아낸 연기로 또 한 번 극찬을 받고 있으며, 당연하게도 모두가 기다리는 박찬욱 감독의 작품이기에, 많은 이들이 개봉날만을 기다리고 있습니다.</p><p style=&quot;color: inherit; font-size: 16px; line-height: 1.7;&quot;>특히 이번 작품은 공개 직후부터 해외 평론가들로부터 폭넓은 관심과 호평을 받으며, 전작 <i>헤어질 결심</i>과 비교될 정도로 주목받고 있습니다. 본 포스팅에서는 영화 줄거리와 출연진 소개에 이어, 전 세계 주요 영화 매체와 평론가들이 전한 생생한 반응과 후기를 함께 살펴보겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;700&quot; data-origin-width=&quot;490&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/A36VQ/btsQpEZaqPK/AAAAAAAAAAAAAAAAAAAAAOzQJo4phxdtbHJG9ODJ_5N1xIzox2l-5YgwuswfyGGB/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JEp0NJHZT4lxqQZNF4Bcc1qj0Gw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/A36VQ/btsQpEZaqPK/AAAAAAAAAAAAAAAAAAAAAOzQJo4phxdtbHJG9ODJ_5N1xIzox2l-5YgwuswfyGGB/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JEp0NJHZT4lxqQZNF4Bcc1qj0Gw%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+      html: '<p style=&quot;color: inherit; font-size: 16px; line-height: 1.7;&quot;>세계적인 거장 박찬욱 감독이 신작 <i>어쩔수가없다 (No Other Choice)</i>로 돌아왔습니다.</p><p style=&quot;color: inherit; font-size: 16px; line-height: 1.7;&quot;>이번 영화는 실직한 가장 만수의 몰락을 통해 남성성, 가족의 의미, 사회적 압박이라는 주제를 다루며 블랙코미디와 스릴러의 경계를 넘나듭니다. 이병헌은 웃음과 비극을 동시에 담아낸 연기로 또 한 번 극찬을 받고 있으며, 당연하게도 모두가 기다리는 박찬욱 감독의 작품이기에, 많은 이들이 개봉날만을 기다리고 있습니다.</p><p style=&quot;color: inherit; font-size: 16px; line-height: 1.7;&quot;>특히 이번 작품은 공개 직후부터 해외 평론가들로부터 폭넓은 관심과 호평을 받으며, 전작 <i>헤어질 결심</i>과 비교될 정도로 주목받고 있습니다. 본 포스팅에서는 영화 줄거리와 출연진 소개에 이어, 전 세계 주요 영화 매체와 평론가들이 전한 생생한 반응과 후기를 함께 살펴보겠습니다.</p><p><figure><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -30,7 +30,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1827&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cJWxcz/btsQm03NBtM/AAAAAAAAAAAAAAAAAAAAAJSVlWteYd51G1aY9U2AzsJXTOd0m2KNMR0PE2VhyZ_g/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lyEMTPxHlKkJ7FgELOS8So3d9mc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cJWxcz/btsQm03NBtM/AAAAAAAAAAAAAAAAAAAAAJSVlWteYd51G1aY9U2AzsJXTOd0m2KNMR0PE2VhyZ_g/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lyEMTPxHlKkJ7FgELOS8So3d9mc%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'h2',
@@ -49,7 +49,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;305&quot; data-origin-width=&quot;1084&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bvM7do/btsQoKFytW6/AAAAAAAAAAAAAAAAAAAAAOjmEciE6MyN8NVI3AdGrl-hRUlG30ALrFG5Y8nGETWI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=APvyGYq4KR8rTM2LXfAmjVUQmv4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bvM7do/btsQoKFytW6/AAAAAAAAAAAAAAAAAAAAAOjmEciE6MyN8NVI3AdGrl-hRUlG30ALrFG5Y8nGETWI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=APvyGYq4KR8rTM2LXfAmjVUQmv4%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'h2',
@@ -85,7 +85,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;720&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dcP59q/btsQmftDoVV/AAAAAAAAAAAAAAAAAAAAAKkDiTt8AuZ7cstCJPWdV7DTf46m6SSmzAaLIpYlCarI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VE%2BISF2M3ugZHJnteN3TjZXa4rk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dcP59q/btsQmftDoVV/AAAAAAAAAAAAAAAAAAAAAKkDiTt8AuZ7cstCJPWdV7DTf46m6SSmzAaLIpYlCarI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VE%2BISF2M3ugZHJnteN3TjZXa4rk%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -101,7 +101,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;720&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/8zevb/btsQmasfw2d/AAAAAAAAAAAAAAAAAAAAAPG7bTza-ZbVHpqqX4CZJFJZ12EQ9OYAlRpTWMbzacq7/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Fj62tAfFsCvtaDrk0U%2FUZqBOKvA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/8zevb/btsQmasfw2d/AAAAAAAAAAAAAAAAAAAAAPG7bTza-ZbVHpqqX4CZJFJZ12EQ9OYAlRpTWMbzacq7/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Fj62tAfFsCvtaDrk0U%2FUZqBOKvA%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -117,7 +117,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;852&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/zcoWz/btsQnGjDYmX/AAAAAAAAAAAAAAAAAAAAAH21BxSVXXWM7QOAQliqr9fksRbO9P6SnyeT_5QGwsJI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=V4Cat7c5OQ%2BLhjx3vo7J%2BvwlJPM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/zcoWz/btsQnGjDYmX/AAAAAAAAAAAAAAAAAAAAAH21BxSVXXWM7QOAQliqr9fksRbO9P6SnyeT_5QGwsJI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=V4Cat7c5OQ%2BLhjx3vo7J%2BvwlJPM%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -133,7 +133,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;853&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bPetrw/btsQmhLMyhK/AAAAAAAAAAAAAAAAAAAAABTG4IzR8XjTQsNW9QL2Q2tt9LvSGjU3OFZF8U-CIq1p/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=14w%2B%2FlY4L7ha4EpFbO%2B2qM16erQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bPetrw/btsQmhLMyhK/AAAAAAAAAAAAAAAAAAAAABTG4IzR8XjTQsNW9QL2Q2tt9LvSGjU3OFZF8U-CIq1p/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=14w%2B%2FlY4L7ha4EpFbO%2B2qM16erQ%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -149,7 +149,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;852&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/chhznM/btsQmrUN2DA/AAAAAAAAAAAAAAAAAAAAAMvRusMHg8fSc6z--HjEzhJioQoySqrsMd-CeU8Zc8w7/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pXZ%2F4TyR8yL55lQMZmDVRHgFRVk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/chhznM/btsQmrUN2DA/AAAAAAAAAAAAAAAAAAAAAMvRusMHg8fSc6z--HjEzhJioQoySqrsMd-CeU8Zc8w7/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pXZ%2F4TyR8yL55lQMZmDVRHgFRVk%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',

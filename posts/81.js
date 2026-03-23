@@ -30,7 +30,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;491&quot; data-origin-width=&quot;439&quot;><span data-alt=&quot;어쩔수가없다 원작 소설 The Ax&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lmnCT/btsQxayDn85/AAAAAAAAAAAAAAAAAAAAANlUyoO9Nt8Y0dFi9ohtTHdMlJjvUsGZIAu1MhGalquM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=UD%2F4uqIiLUj6f9HTViGlECsRbyY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lmnCT/btsQxayDn85/AAAAAAAAAAAAAAAAAAAAANlUyoO9Nt8Y0dFi9ohtTHdMlJjvUsGZIAu1MhGalquM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=UD%2F4uqIiLUj6f9HTViGlECsRbyY%3D&quot;></span><figcaption>어쩔수가없다 원작 소설 The Ax</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>어쩔수가없다 원작 소설 The Ax</figcaption> </figure> </p>'
     },
     {
       type: 'h2',
@@ -49,7 +49,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;514&quot; data-origin-width=&quot;377&quot;><span data-alt=&quot;어쩔수가없다 원작 소설 The Ax&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/9kupc/btsQxcJWRYu/AAAAAAAAAAAAAAAAAAAAAMZ2lxcCVpIl313nrdN7VsYwcXPUFDEgH6kkQ0d6XVQE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1V3ct8vx0gP93SCqNZ5YSNyOVpA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/9kupc/btsQxcJWRYu/AAAAAAAAAAAAAAAAAAAAAMZ2lxcCVpIl313nrdN7VsYwcXPUFDEgH6kkQ0d6XVQE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1V3ct8vx0gP93SCqNZ5YSNyOVpA%3D&quot;></span><figcaption>어쩔수가없다 원작 소설 The Ax</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>어쩔수가없다 원작 소설 The Ax</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -124,7 +124,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;852&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;어쩔수가없다 개봉 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/zcoWz/btsQnGjDYmX/AAAAAAAAAAAAAAAAAAAAAH21BxSVXXWM7QOAQliqr9fksRbO9P6SnyeT_5QGwsJI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=V4Cat7c5OQ%2BLhjx3vo7J%2BvwlJPM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/zcoWz/btsQnGjDYmX/AAAAAAAAAAAAAAAAAAAAAH21BxSVXXWM7QOAQliqr9fksRbO9P6SnyeT_5QGwsJI/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=V4Cat7c5OQ%2BLhjx3vo7J%2BvwlJPM%3D&quot;></span><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',

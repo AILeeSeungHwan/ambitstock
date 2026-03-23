@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;300&quot; data-origin-width=&quot;938&quot;><span data-alt=&quot;영화 레블리지 로튼토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cRP4Xc/btsJvlMA84e/AAAAAAAAAAAAAAAAAAAAAHkwvSeank81xrYc_7IFUiTtepDBQngUONFrWaStgRRj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=bK4jXdRRRcuklfgs1mOHF5SHF5I%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cRP4Xc/btsJvlMA84e/AAAAAAAAAAAAAAAAAAAAAHkwvSeank81xrYc_7IFUiTtepDBQngUONFrWaStgRRj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=bK4jXdRRRcuklfgs1mOHF5SHF5I%3D&quot;></span><figcaption>영화 레블리지 로튼토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 레블리지 로튼토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

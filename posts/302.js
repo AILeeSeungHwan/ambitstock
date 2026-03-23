@@ -107,7 +107,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1224&quot; data-origin-width=&quot;1996&quot;><span data-alt=&quot;베테랑 2 로튼 토마토 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/o1yfc/btsJD7N9krq/AAAAAAAAAAAAAAAAAAAAAMHrRzNuKUUZ_jfU_9TclcVqVf6RWl5f12nYpvyqVdn2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=E5Cdue4rAJwRSQNFxta008ebmCA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/o1yfc/btsJD7N9krq/AAAAAAAAAAAAAAAAAAAAAMHrRzNuKUUZ_jfU_9TclcVqVf6RWl5f12nYpvyqVdn2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=E5Cdue4rAJwRSQNFxta008ebmCA%3D&quot;></span><figcaption>베테랑 2 로튼 토마토 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>베테랑 2 로튼 토마토 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -119,7 +119,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1224&quot; data-origin-width=&quot;1996&quot;><span data-alt=&quot;베테랑 2 로튼 토마토 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b2alwJ/btsJEp8QG4B/AAAAAAAAAAAAAAAAAAAAAMP59Noahvh6BbKRoNLHH0wOG1KfF6G7CJJpPbelxs7p/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=0I24O%2FwCfJtusgSuO%2BpBFZfFWrU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b2alwJ/btsJEp8QG4B/AAAAAAAAAAAAAAAAAAAAAMP59Noahvh6BbKRoNLHH0wOG1KfF6G7CJJpPbelxs7p/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=0I24O%2FwCfJtusgSuO%2BpBFZfFWrU%3D&quot;></span><figcaption>베테랑 2 로튼 토마토 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>베테랑 2 로튼 토마토 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',

@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>‘<b>극장판 체인소 맨: 레제편</b>’이 예상을 뒤엎고 <b>한국 박스오피스 1위</b>를 차지했습니다. 화제작 <b>보스</b>와 박찬욱 감독의 <b>어쩔수가없다</b>를 제치며, 개봉 3주차에도 식지 않는 인기를 이어가고 있습니다. 특히 평일 기준 하루 12만 명 이상 관객을 동원하며 ‘역주행 신화’를 써내려가고 있습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;860&quot; data-origin-width=&quot;600&quot;><span data-alt=&quot;체인소 맨: 레제편 박스오피스 1위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/buJ9at/btsQ73cOuPu/AAAAAAAAAAAAAAAAAAAAADSbtWvuxlqePfqsNlpkWyFg5PfHD8nZIW1rxMhGDZk5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=regYjJ1YaD9%2FMzLwmDkOw%2BiJ7yM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/buJ9at/btsQ73cOuPu/AAAAAAAAAAAAAAAAAAAAADSbtWvuxlqePfqsNlpkWyFg5PfHD8nZIW1rxMhGDZk5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=regYjJ1YaD9%2FMzLwmDkOw%2BiJ7yM%3D&quot;></span><figcaption>체인소 맨: 레제편 박스오피스 1위</figcaption> </figure> </p>'
+      html: '<p>‘<b>극장판 체인소 맨: 레제편</b>’이 예상을 뒤엎고 <b>한국 박스오피스 1위</b>를 차지했습니다. 화제작 <b>보스</b>와 박찬욱 감독의 <b>어쩔수가없다</b>를 제치며, 개봉 3주차에도 식지 않는 인기를 이어가고 있습니다. 특히 평일 기준 하루 12만 명 이상 관객을 동원하며 ‘역주행 신화’를 써내려가고 있습니다.</p><p><figure><figcaption>체인소 맨: 레제편 박스오피스 1위</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -32,7 +32,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1414&quot; data-origin-width=&quot;1000&quot;><span data-alt=&quot;체인소 맨: 레제편 박스오피스 1위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bC7qfU/btsQ6GwbCBc/AAAAAAAAAAAAAAAAAAAAAJT2A3XQdv_JWw8fqKHtDrSieQrOWMMAOguw1lsQ4Yss/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NNUnlGkMNRmDXIZimZ3aA0BFgts%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bC7qfU/btsQ6GwbCBc/AAAAAAAAAAAAAAAAAAAAAJT2A3XQdv_JWw8fqKHtDrSieQrOWMMAOguw1lsQ4Yss/img.webp?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NNUnlGkMNRmDXIZimZ3aA0BFgts%3D&quot;></span><figcaption>체인소 맨: 레제편 박스오피스 1위</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>체인소 맨: 레제편 박스오피스 1위</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post57_img2.webp', alt: '체인소 맨: 레제편 박스오피스 1위', caption: 'ⓒ R의 필름공장' },
     {
@@ -51,7 +51,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1500&quot; data-origin-width=&quot;1060&quot;><span data-alt=&quot;체인소 맨: 레제편 박스오피스 1위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/DxGP6/btsQ48NwkfF/AAAAAAAAAAAAAAAAAAAAAO_UCjCsxvXrMc3mURWiqNQfpXXJU8KRA55z0xLOVmRf/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vT0kKD0oyShfjiXZVoi2L%2FL%2F2Gk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/DxGP6/btsQ48NwkfF/AAAAAAAAAAAAAAAAAAAAAO_UCjCsxvXrMc3mURWiqNQfpXXJU8KRA55z0xLOVmRf/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vT0kKD0oyShfjiXZVoi2L%2FL%2F2Gk%3D&quot;></span><figcaption>체인소 맨: 레제편 박스오피스 1위</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>체인소 맨: 레제편 박스오피스 1위</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post57_img3.jpg', alt: '체인소 맨: 레제편 박스오피스 1위', caption: 'ⓒ R의 필름공장' },
     {

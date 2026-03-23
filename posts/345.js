@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 더 인플루언서 인기 순위와 출연진들의 근황 이슈논란을 전해드립니다.</b></span></p><p>방영 전 부터 온갖 이슈의 중심에 섰던 더 인플루언서, 방영 후에도 과즙세연의 새로운 논란과 이슈가 발생하며 끝없는 논란의 인플루언서의 삶을 현실에서도 보여주고 있습니다. 해외 시청자들은 어떻게 보았는지 알아보겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1072&quot; data-origin-width=&quot;1076&quot;><span data-alt=&quot;넷플릭스 인기 순위 더 인플루언서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bKp3e7/btsI4o5ndcI/AAAAAAAAAAAAAAAAAAAAAMltiZ-WnQd0nok5RiAOSiS6283cv3o3jzQFrNsliZfs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uoFjex%2Bw0a0e%2FsqVTg1kuLQSfiI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bKp3e7/btsI4o5ndcI/AAAAAAAAAAAAAAAAAAAAAMltiZ-WnQd0nok5RiAOSiS6283cv3o3jzQFrNsliZfs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uoFjex%2Bw0a0e%2FsqVTg1kuLQSfiI%3D&quot;></span><figcaption>넷플릭스 인기 순위 더 인플루언서</figcaption> </figure> </p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 더 인플루언서 인기 순위와 출연진들의 근황 이슈논란을 전해드립니다.</b></span></p><p>방영 전 부터 온갖 이슈의 중심에 섰던 더 인플루언서, 방영 후에도 과즙세연의 새로운 논란과 이슈가 발생하며 끝없는 논란의 인플루언서의 삶을 현실에서도 보여주고 있습니다. 해외 시청자들은 어떻게 보았는지 알아보겠습니다.</p><p><figure><figcaption>넷플릭스 인기 순위 더 인플루언서</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;714&quot; data-origin-width=&quot;1092&quot;><span data-alt=&quot;넷플릭스 인기 순위 더 인플루언서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/egltTl/btsI4uqJqYT/AAAAAAAAAAAAAAAAAAAAAMHat9dgRuajw83N-4JDNroaHN3vSFxk07sos9wXJAd2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Eo3VGyQnKZavKVk38dBbQO0A8hU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/egltTl/btsI4uqJqYT/AAAAAAAAAAAAAAAAAAAAAMHat9dgRuajw83N-4JDNroaHN3vSFxk07sos9wXJAd2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Eo3VGyQnKZavKVk38dBbQO0A8hU%3D&quot;></span><figcaption>넷플릭스 인기 순위 더 인플루언서</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 인기 순위 더 인플루언서</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -43,7 +43,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1028&quot; data-origin-width=&quot;994&quot;><span data-alt=&quot;더 인플루언서 과즙세연 - 출처 인스타&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cUT3JS/btsI6kApNea/AAAAAAAAAAAAAAAAAAAAANtd7fazJVw6-XWKXSuM_bNk4iFyGd5qcuRU7wIcrokC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Mv0YBaKZ%2FIeGVWTE0XTbATuJW7A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cUT3JS/btsI6kApNea/AAAAAAAAAAAAAAAAAAAAANtd7fazJVw6-XWKXSuM_bNk4iFyGd5qcuRU7wIcrokC/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Mv0YBaKZ%2FIeGVWTE0XTbATuJW7A%3D&quot;></span><figcaption>더 인플루언서 과즙세연 - 출처 인스타</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>더 인플루언서 과즙세연 - 출처 인스타</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -59,7 +59,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;792&quot; data-origin-width=&quot;1220&quot;><span data-alt=&quot;넷플릭스 더 인플루언서 우승자 오킹&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/9bfwr/btsI5rNBlpB/AAAAAAAAAAAAAAAAAAAAAAASkEBRgpDHl7O78gRPTkrF9iVQabTDgpOBzC_u754O/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=U9chmeQFFCnkapKplXAM5CWhW%2BU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/9bfwr/btsI5rNBlpB/AAAAAAAAAAAAAAAAAAAAAAASkEBRgpDHl7O78gRPTkrF9iVQabTDgpOBzC_u754O/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=U9chmeQFFCnkapKplXAM5CWhW%2BU%3D&quot;></span><figcaption>넷플릭스 더 인플루언서 우승자 오킹</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 더 인플루언서 우승자 오킹</figcaption> </figure> </p>'
     },
     {
       type: 'body',

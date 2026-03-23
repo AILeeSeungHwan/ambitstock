@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>신카이 마코토 감독의 애니메이션 영화 <span style=&quot;color: inherit;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>&lt;스즈메의 문단속 - 다녀왔어&gt; 특별판이 24년 01월 10일 개봉 예정</span></b></span>입니다. 스즈메의 문단속은 재난영화시리즈의 3번째 작품으로 한국에서도 인기를 끌었던 작품입니다. 그렇다면 북미,유럽등 (미국 영국 독일 프랑스 등) 해외반응과 일본에서의 평가는 어떠한지 살펴보겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;243&quot; data-origin-width=&quot;752&quot;><span data-alt=&quot;로튼 토마토 스즈메의 문단속 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/be33Fb/btsC6pba7yB/AAAAAAAAAAAAAAAAAAAAAOSPrb-w7ZhhQR3W_7DyYEobQYSIDGyI0jdkzz7y9hZR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=u126p3yLHNb7%2B%2Bd033KCqlnBCds%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/be33Fb/btsC6pba7yB/AAAAAAAAAAAAAAAAAAAAAOSPrb-w7ZhhQR3W_7DyYEobQYSIDGyI0jdkzz7y9hZR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=u126p3yLHNb7%2B%2Bd033KCqlnBCds%3D&quot;></span><figcaption>로튼 토마토 스즈메의 문단속 평점</figcaption> </figure> </p><p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토 영화 스즈메의 문단속 평점입니다. 평론가 리뷰를 Fresh(긍정)와 Rotten(부정)으로 분류, 긍정률 60% 이상일 때 Fresh로 분류됩니다.</p>'
+      html: '<p>신카이 마코토 감독의 애니메이션 영화 <span style=&quot;color: inherit;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>&lt;스즈메의 문단속 - 다녀왔어&gt; 특별판이 24년 01월 10일 개봉 예정</span></b></span>입니다. 스즈메의 문단속은 재난영화시리즈의 3번째 작품으로 한국에서도 인기를 끌었던 작품입니다. 그렇다면 북미,유럽등 (미국 영국 독일 프랑스 등) 해외반응과 일본에서의 평가는 어떠한지 살펴보겠습니다.</p><p><figure><figcaption>로튼 토마토 스즈메의 문단속 평점</figcaption> </figure> </p><p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토 영화 스즈메의 문단속 평점입니다. 평론가 리뷰를 Fresh(긍정)와 Rotten(부정)으로 분류, 긍정률 60% 이상일 때 Fresh로 분류됩니다.</p>'
     },
     {
       type: 'image',
@@ -71,7 +71,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;528&quot; data-origin-width=&quot;1262&quot;><span data-alt=&quot;IMDB 스즈메의 문단속 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Q7B3O/btsC6nqHzJO/AAAAAAAAAAAAAAAAAAAAAEr9z2a6SBo56vFlMuWcLFrOCCuyt12Ip20a0qa9I29W/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KEkkC03e8YmC1lfxUcspMQhSIaE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Q7B3O/btsC6nqHzJO/AAAAAAAAAAAAAAAAAAAAAEr9z2a6SBo56vFlMuWcLFrOCCuyt12Ip20a0qa9I29W/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KEkkC03e8YmC1lfxUcspMQhSIaE%3D&quot;></span><figcaption>IMDB 스즈메의 문단속 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 스즈메의 문단속 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -119,11 +119,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;557&quot; data-origin-width=&quot;751&quot;><span data-alt=&quot;IMDB 스즈메의 문단속 평점분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bLJT2Q/btsC87tQwat/AAAAAAAAAAAAAAAAAAAAAGO0V0MWApyQrUCU5a6qXAabrzTRtMoQSHWLdCjdyK_J/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ymcnxD0Hp7TwPMV6nv7V8caeubM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bLJT2Q/btsC87tQwat/AAAAAAAAAAAAAAAAAAAAAGO0V0MWApyQrUCU5a6qXAabrzTRtMoQSHWLdCjdyK_J/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ymcnxD0Hp7TwPMV6nv7V8caeubM%3D&quot;></span><figcaption>IMDB 스즈메의 문단속 평점분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 스즈메의 문단속 평점분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;501&quot; data-origin-width=&quot;1030&quot;><span data-alt=&quot;Filmarks 스즈메의 문단속 일본 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bRNmwO/btsC3631Ue6/AAAAAAAAAAAAAAAAAAAAAEF4NXetEuw0c2nraP-TDEpWFgzeCGpnZYjnugfwo2J4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kGZPZkifxO1nUPjyJ061uS%2BT4k8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bRNmwO/btsC3631Ue6/AAAAAAAAAAAAAAAAAAAAAEF4NXetEuw0c2nraP-TDEpWFgzeCGpnZYjnugfwo2J4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kGZPZkifxO1nUPjyJ061uS%2BT4k8%3D&quot;></span><figcaption>Filmarks 스즈메의 문단속 일본 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>Filmarks 스즈메의 문단속 일본 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -163,7 +163,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;295&quot; data-origin-width=&quot;391&quot;><span data-alt=&quot;스즈메의 문단속 OTT 공개정보&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ty4YZ/btsC4sseD5b/AAAAAAAAAAAAAAAAAAAAANvAlYWcV3NoKybxsZcuqnfX8AVFwdX7WT13jQm8QOf0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=gcn3Osw8emaj2gPnQ%2BG6lpEDp4I%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ty4YZ/btsC4sseD5b/AAAAAAAAAAAAAAAAAAAAANvAlYWcV3NoKybxsZcuqnfX8AVFwdX7WT13jQm8QOf0/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=gcn3Osw8emaj2gPnQ%2BG6lpEDp4I%3D&quot;></span><figcaption>스즈메의 문단속 OTT 공개정보</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>스즈메의 문단속 OTT 공개정보</figcaption> </figure> </p>'
     },
     {
       type: 'body',

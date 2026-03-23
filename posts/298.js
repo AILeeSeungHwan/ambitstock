@@ -5,7 +5,7 @@ const post = {
     { type: 'image', src: "/images/post298_thumb.svg", alt: "나우 유 씨미 2 시리즈 로튼 해외 평점 반응 | 흥행이란 마술은 없었다 2-1", caption: "나우 유 씨미 2 시리즈 로튼 해외 평점 반응 | 흥행이란 마술은 없었다 2-1" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;604&quot; data-origin-width=&quot;1430&quot;><span data-alt=&quot;나우 유 씨미 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lhQDi/btsJDYDMcCU/AAAAAAAAAAAAAAAAAAAAABwAUt0oDOBy4QlDc92K7wNT9Ei6w0tKOy_tbfBxl4zO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FV6vRyu1anuPKH9%2BN8jl3LR%2Bnjw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lhQDi/btsJDYDMcCU/AAAAAAAAAAAAAAAAAAAAABwAUt0oDOBy4QlDc92K7wNT9Ei6w0tKOy_tbfBxl4zO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FV6vRyu1anuPKH9%2BN8jl3LR%2Bnjw%3D&quot;></span><figcaption>나우 유 씨미 로튼 토마토 평점</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>나우 유 씨미 로튼 토마토 평점</figcaption> </figure> </p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>1편의 평점보다 더욱 처참해진 평론가 평점과 관람객 평점입니다.</b></span></p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 33%, 관람객 평점 53%로 최악의 평점을 기록하고 있습니다.</b></span></p>" },
     { type: 'body', html: "<p>1편의 평점이 그나마 양반이었다고 말할 수 있을 정도로, 관객들도 외면하는 모습입니다.</p>" },

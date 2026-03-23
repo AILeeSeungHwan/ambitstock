@@ -15,11 +15,11 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1202&quot; data-origin-width=&quot;950&quot;><span data-alt=&quot;넷플릭스 영화 가족이라서 문제입니다.&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/9dzAB/btsIkzk4pLf/AAAAAAAAAAAAAAAAAAAAANxXNAy-sqsbgsbkbUTu708tr0sViX-Jvhk8tQk_GBP5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pYjNU%2Bqp%2Btyw0Ney%2Fp4ygnHubbw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/9dzAB/btsIkzk4pLf/AAAAAAAAAAAAAAAAAAAAANxXNAy-sqsbgsbkbUTu708tr0sViX-Jvhk8tQk_GBP5/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pYjNU%2Bqp%2Btyw0Ney%2Fp4ygnHubbw%3D&quot;></span><figcaption>넷플릭스 영화 가족이라서 문제입니다.</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 가족이라서 문제입니다.</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1470&quot; data-origin-width=&quot;2210&quot;><span data-alt=&quot;넷플릭스 영화 가족이라서 문제입니다 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cMTtTC/btsIkiwI70M/AAAAAAAAAAAAAAAAAAAAAEBBHCG68vNxj-5wqTaaozVOlpc4GXcXTTvOyS7T5hGY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4GCLLI0c4WP4ikAUrJvByHjfjVk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cMTtTC/btsIkiwI70M/AAAAAAAAAAAAAAAAAAAAAEBBHCG68vNxj-5wqTaaozVOlpc4GXcXTTvOyS7T5hGY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4GCLLI0c4WP4ikAUrJvByHjfjVk%3D&quot;></span><figcaption>넷플릭스 영화 가족이라서 문제입니다 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 가족이라서 문제입니다 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -47,7 +47,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;1170&quot; data-origin-width=&quot;1730&quot;><span data-alt=&quot;넷플릭스 영화 가족이라서 문제입니다.&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/c0w2Zk/btsIix97gRm/AAAAAAAAAAAAAAAAAAAAANl3jt3--9JJaMJOFBq7zc4DDe6LSeT4K5qsZKSXae6Z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=orun82cG%2Bz4uUP6PLIBzuoyC2Ow%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/c0w2Zk/btsIix97gRm/AAAAAAAAAAAAAAAAAAAAANl3jt3--9JJaMJOFBq7zc4DDe6LSeT4K5qsZKSXae6Z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=orun82cG%2Bz4uUP6PLIBzuoyC2Ow%3D&quot;></span><figcaption>넷플릭스 영화 가족이라서 문제입니다.</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 가족이라서 문제입니다.</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -79,7 +79,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;1202&quot; data-origin-width=&quot;1512&quot;><span data-alt=&quot;넷플릭스 영화 가족이라서 문제입니다.&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/blmoXA/btsIkiqkUQa/AAAAAAAAAAAAAAAAAAAAAL_9qMxOH2PachEs4Qg4TH3wu4pFctMBk9JFW1sxJa4x/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ykJlUGqriaNkfcXwvd8RjaYxTdg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/blmoXA/btsIkiqkUQa/AAAAAAAAAAAAAAAAAAAAAL_9qMxOH2PachEs4Qg4TH3wu4pFctMBk9JFW1sxJa4x/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ykJlUGqriaNkfcXwvd8RjaYxTdg%3D&quot;></span><figcaption>넷플릭스 영화 가족이라서 문제입니다.</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 가족이라서 문제입니다.</figcaption> </figure> </p>'
     },
     {
       type: 'body',

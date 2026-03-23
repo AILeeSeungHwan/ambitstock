@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>넷플릭스 오리지널 드라마 살인자 ㅇ 난감이 2월 9일 넷플릭스에서 공개 예정입니다.<br>영어 제목은 킬러 역설 (A Killer Paradox)이며, 우리나라 제목인 살인자 ㅇ난감은 어떻게 읽어야 할지 난감하죠.<br><span style=&quot;background-color: #f3c000;&quot;><b>작가님이 직접 밝힌 드라마 살인자 ㅇ 난감 제목 읽는법, 예고편 시청 및 해외 반응 알아보도록 하겠습니다.</b></span><br/> </br></br></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;750&quot; data-origin-width=&quot;1047&quot;><span data-alt=&quot;넷플릭스 드라마 살인자 ㅇ 난감 포스터&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Lt5Ll/btsDHtw9SEX/AAAAAAAAAAAAAAAAAAAAALmTQVjxKXi-NWmLubYIDmseJq12-iVXU8Wz6ZVmWbnU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=H0agXFEcTxhG%2FfPOWdtr9WYsuZk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Lt5Ll/btsDHtw9SEX/AAAAAAAAAAAAAAAAAAAAALmTQVjxKXi-NWmLubYIDmseJq12-iVXU8Wz6ZVmWbnU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=H0agXFEcTxhG%2FfPOWdtr9WYsuZk%3D&quot;></span><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 포스터</figcaption> </figure> </p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 &lt;파묘&gt; 정보</b></span><br/><span style=&quot;color: #666666;&quot;><b>티저 예고편 해외반응이 궁금하다면</b></span></p>'
+      html: '<p>넷플릭스 오리지널 드라마 살인자 ㅇ 난감이 2월 9일 넷플릭스에서 공개 예정입니다.<br>영어 제목은 킬러 역설 (A Killer Paradox)이며, 우리나라 제목인 살인자 ㅇ난감은 어떻게 읽어야 할지 난감하죠.<br><span style=&quot;background-color: #f3c000;&quot;><b>작가님이 직접 밝힌 드라마 살인자 ㅇ 난감 제목 읽는법, 예고편 시청 및 해외 반응 알아보도록 하겠습니다.</b></span><br/> </br></br></p><p><figure><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 포스터</figcaption> </figure> </p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 &lt;파묘&gt; 정보</b></span><br/><span style=&quot;color: #666666;&quot;><b>티저 예고편 해외반응이 궁금하다면</b></span></p>'
     },
     {
       type: 'image',
@@ -31,7 +31,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;258&quot; data-origin-width=&quot;501&quot;><span data-alt=&quot;넷플릭스 드라마 살인자 ㅇ 난감 최우식&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bCLIqU/btsDLthQWwv/AAAAAAAAAAAAAAAAAAAAADnb4bkBFzQ5qANYYqV_RtPIcroQsVGNnSPOXew_94MY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q38VQ3dtkWkGlast1%2Fxn4r0rAxw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bCLIqU/btsDLthQWwv/AAAAAAAAAAAAAAAAAAAAADnb4bkBFzQ5qANYYqV_RtPIcroQsVGNnSPOXew_94MY/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q38VQ3dtkWkGlast1%2Fxn4r0rAxw%3D&quot;></span><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 최우식</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 최우식</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -47,7 +47,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;551&quot; data-origin-width=&quot;1054&quot;><span data-alt=&quot;넷플릭스 살인자 ㅇ 난감 손석구&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/X3G5f/btsDLunwIRH/AAAAAAAAAAAAAAAAAAAAAMj-vmN6g8tpxShvpzWPFXYthdYg4CJzCOTCJsx5PeFk/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uxVxtbfUUb3vg4zZmg8i5PAVcug%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/X3G5f/btsDLunwIRH/AAAAAAAAAAAAAAAAAAAAAMj-vmN6g8tpxShvpzWPFXYthdYg4CJzCOTCJsx5PeFk/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uxVxtbfUUb3vg4zZmg8i5PAVcug%3D&quot;></span><figcaption>넷플릭스 살인자 ㅇ 난감 손석구</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 살인자 ㅇ 난감 손석구</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -59,7 +59,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;473&quot; data-origin-width=&quot;950&quot;><span data-alt=&quot;넷플릭스 드라마 살인자 ㅇ 난감 손석구&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cqpcsB/btsDHqmTLm7/AAAAAAAAAAAAAAAAAAAAAO4guUAyncXZgXqRtwjOjhEma-1Djpeep8S5DEuETMwN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3C3QxVjv5DQmHZPlNCq37zioLI4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cqpcsB/btsDHqmTLm7/AAAAAAAAAAAAAAAAAAAAAO4guUAyncXZgXqRtwjOjhEma-1Djpeep8S5DEuETMwN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3C3QxVjv5DQmHZPlNCq37zioLI4%3D&quot;></span><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 손석구</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 손석구</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -71,7 +71,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;542&quot; data-origin-width=&quot;1053&quot;><span data-alt=&quot;넷플릭스 드라마 살인자 ㅇ 난감 최우식&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/coNrhr/btsDIzXVTAL/AAAAAAAAAAAAAAAAAAAAALK3A1zLptmIUz58Sq_jljC_CIBohIEQqg1rQjngOpKq/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GePiI8L4P9S%2B4cjQW%2FYVKcrY1kc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/coNrhr/btsDIzXVTAL/AAAAAAAAAAAAAAAAAAAAALK3A1zLptmIUz58Sq_jljC_CIBohIEQqg1rQjngOpKq/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=GePiI8L4P9S%2B4cjQW%2FYVKcrY1kc%3D&quot;></span><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 최우식</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 최우식</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -83,7 +83,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;480&quot; data-origin-width=&quot;911&quot;><span data-alt=&quot;넷플릭스 드라마 살인자 ㅇ 난감 최우식&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/P21DF/btsDI9Zf2ba/AAAAAAAAAAAAAAAAAAAAAEGS6rqcNIFugJC-5KPfpwICwRzmhtcbAKLAjxZna3Kx/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CcbQ%2FT6LUL4m75FE8UDTeIicxBM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/P21DF/btsDI9Zf2ba/AAAAAAAAAAAAAAAAAAAAAEGS6rqcNIFugJC-5KPfpwICwRzmhtcbAKLAjxZna3Kx/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CcbQ%2FT6LUL4m75FE8UDTeIicxBM%3D&quot;></span><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 최우식</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 최우식</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -103,7 +103,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;401&quot; data-origin-width=&quot;600&quot;><span data-alt=&quot;넷플릭스 드라마 살인자ㅇ난감 배우들 ( 왼쪽부터 최우식 손석구 이희준 배우님 )&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/d6nM5L/btsDJhQecxZ/AAAAAAAAAAAAAAAAAAAAAPtNOSgak3iQpWcROGCLb-MSIZPceK7Wt5x0Qov-9qRC/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ioQuG3RlzeERsWeswa5goljNiHs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/d6nM5L/btsDJhQecxZ/AAAAAAAAAAAAAAAAAAAAAPtNOSgak3iQpWcROGCLb-MSIZPceK7Wt5x0Qov-9qRC/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ioQuG3RlzeERsWeswa5goljNiHs%3D&quot;></span><figcaption>넷플릭스 드라마 살인자ㅇ난감 배우들 ( 왼쪽부터 최우식 손석구 이희준 배우님 )</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 드라마 살인자ㅇ난감 배우들 ( 왼쪽부터 최우식 손석구 이희준 배우님 )</figcaption> </figure> </p>'
     },
     ,
     { type: 'image', src: '/images/post452_img10.jpg', alt: '넷플릭스 드라마 살인자ㅇ난감 배우들 ( 왼쪽부터 최우식 손석구 이희준 배우님 )', caption: 'ⓒ R의 필름공장' },

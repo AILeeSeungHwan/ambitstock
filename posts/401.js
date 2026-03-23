@@ -62,7 +62,7 @@ const post = {
     { type: 'image', src: "/images/post401_img2.jpg", alt: "최애의 아이 시즌 2기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post401_img1.jpg", alt: "최애의 아이 시즌 2기", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/plot-괴수-호-기/", text: "괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!" },
-    { type: 'ending', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;585&quot; data-origin-width=&quot;625&quot;><span data-alt=&quot;최애의 아이 시즌 2기 공개 일정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dFzr5Y/btsIohLyeDQ/AAAAAAAAAAAAAAAAAAAAAI3hRcVbPxSAflumwT2Fl5rkUBrdIHtU0Ar7QVgXGOCK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cTMf4%2FkF%2FTBn5J%2BolDiWSPk%2FVgk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dFzr5Y/btsIohLyeDQ/AAAAAAAAAAAAAAAAAAAAAI3hRcVbPxSAflumwT2Fl5rkUBrdIHtU0Ar7QVgXGOCK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cTMf4%2FkF%2FTBn5J%2BolDiWSPk%2FVgk%3D&quot;></span><figcaption>최애의 아이 시즌 2기 공개 일정</figcaption> </figure> </p>" },
+    { type: 'ending', html: "<p><figure><figcaption>최애의 아이 시즌 2기 공개 일정</figcaption> </figure> </p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]
 }

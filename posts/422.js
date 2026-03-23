@@ -5,7 +5,7 @@ const post = {
     { type: 'image', src: "/images/post422_thumb.svg", alt: "2024년 6월 대한민국 지상파 방송 시청률 순위 TOP 10", caption: "2024년 6월 대한민국 지상파 방송 시청률 순위 TOP 10" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;587&quot; data-origin-width=&quot;585&quot;><span data-alt=&quot;대한민국 지상파 시청률 TOP10&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/diYV1b/btsH8ln5Dsd/AAAAAAAAAAAAAAAAAAAAAArLTdJtUnBW1uLEtLfhSvpMXxiuvhbTw53V30_88nTz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kDvyrvKvYdXCT0dE3w2ZZQmaJPc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/diYV1b/btsH8ln5Dsd/AAAAAAAAAAAAAAAAAAAAAArLTdJtUnBW1uLEtLfhSvpMXxiuvhbTw53V30_88nTz/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kDvyrvKvYdXCT0dE3w2ZZQmaJPc%3D&quot;></span><figcaption>대한민국 지상파 시청률 TOP10</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>대한민국 지상파 시청률 TOP10</figcaption> </figure> </p>" },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>KBS1 (11.5%)</span></p>" },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>'수지맞은 우리'는 KBS1에서 방영 중인 프로그램으로, 시청률 11.5%를 기록하며 1위를 차지했습니다. 드라마 수지맞은 우리의 기본 정보 및 등장인물관계도는 아래 포스팅을 통해 확인가능합니다.</span></p>" },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>SBS (9.1%)</span></p>" },

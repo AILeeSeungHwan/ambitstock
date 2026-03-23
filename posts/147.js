@@ -32,7 +32,7 @@ const post = {
     { type: 'image', src: '/images/post147_img1.jpg', alt: '해리 포터와 죽음의 성물 1', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;562&quot; data-origin-width=&quot;1716&quot;><span data-alt=&quot;해리 포터와 죽음의 성물 1 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bk77Ty/btsLsd0nlRA/AAAAAAAAAAAAAAAAAAAAAE2eqXgNYnBxdHKLzjZ4BOaVy7rOqtuSjvLOTmiH0zJQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XRaHieu98OI2CZ7Q4ebIL%2B82KAI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bk77Ty/btsLsd0nlRA/AAAAAAAAAAAAAAAAAAAAAE2eqXgNYnBxdHKLzjZ4BOaVy7rOqtuSjvLOTmiH0zJQ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XRaHieu98OI2CZ7Q4ebIL%2B82KAI%3D&quot;></span><figcaption>해리 포터와 죽음의 성물 1 로튼 토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>해리 포터와 죽음의 성물 1 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

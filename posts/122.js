@@ -35,7 +35,7 @@ const post = {
     { type: 'h2', id: "section5", text: "애니멀 킹덤 로튼 토마토 평론가 평점", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>애니멀 킹덤 로튼 토마토 평론가 평점입니다.</b></span></p>" },
     { type: 'image', src: "/images/post122_img5.jpg", alt: "애니멀 킹덤 관람평 포토", caption: "ⓒ R의 필름공장" },
-    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;562&quot; data-origin-width=&quot;1716&quot;><span data-alt=&quot;애니멀 킹덤 로튼토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cZwHNl/btsLBugRaL7/AAAAAAAAAAAAAAAAAAAAAOCE8nJkWYjB0W4Zqj8FbJ8RetOs9FCNlhQKGtl2U7pN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ku7SEmU4EPpUKN1rgR5vEQjfYwA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cZwHNl/btsLBugRaL7/AAAAAAAAAAAAAAAAAAAAAOCE8nJkWYjB0W4Zqj8FbJ8RetOs9FCNlhQKGtl2U7pN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ku7SEmU4EPpUKN1rgR5vEQjfYwA%3D&quot;></span><figcaption>애니멀 킹덤 로튼토마토 평론가 평점</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>애니멀 킹덤 로튼토마토 평론가 평점</figcaption> </figure> </p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 98%, 관객 평점 90%입니다.</b></span></p>" },
     { type: 'body', html: "<p>90점대 후반의 높은 평론가 평점과 더불어 <b>로튼 토마토 신선도 보증 마크 또한 획득하며 좋은 평가</b>를 받았습니다.</p>" },
     { type: 'body', html: "<p>관객 평점 또한 90점대를 기록하며 두 그룹에게 모두 좋은 평가를 받았습니다.</p>" },

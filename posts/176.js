@@ -52,7 +52,7 @@ const post = {
     { type: 'image', src: '/images/post176_img2.jpg', alt: '영화 파일럿 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;357&quot; data-origin-width=&quot;1129&quot;><span data-alt=&quot;영화 파일럿 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/oD1X5/btsKS8Nu6fd/AAAAAAAAAAAAAAAAAAAAACfm8tq9KQiF3MbKzdpxTicMAJEu_s91KIcKahhX8qNG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vbuYC%2B%2F23ql9xr5uz5WK33o470o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/oD1X5/btsKS8Nu6fd/AAAAAAAAAAAAAAAAAAAAACfm8tq9KQiF3MbKzdpxTicMAJEu_s91KIcKahhX8qNG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vbuYC%2B%2F23ql9xr5uz5WK33o470o%3D&quot;></span><figcaption>영화 파일럿 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 파일럿 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

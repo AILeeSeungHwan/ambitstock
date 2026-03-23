@@ -62,7 +62,7 @@ const post = {
     { type: 'image', src: '/images/post182_img2.jpg', alt: '이처럼 사소한 것들', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;614&quot; data-origin-width=&quot;1868&quot;><span data-alt=&quot;이처럼 사소한 것들 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/vhzjA/btsKQ7GVDXK/AAAAAAAAAAAAAAAAAAAAANT3GobKT2CC27DOo_4FEJ3rNpjEIkR-JnpAUtOvwQow/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=zERwcbXlLSeexS2nNK9kPqAYzgU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/vhzjA/btsKQ7GVDXK/AAAAAAAAAAAAAAAAAAAAANT3GobKT2CC27DOo_4FEJ3rNpjEIkR-JnpAUtOvwQow/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=zERwcbXlLSeexS2nNK9kPqAYzgU%3D&quot;></span><figcaption>이처럼 사소한 것들 로튼 토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>이처럼 사소한 것들 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

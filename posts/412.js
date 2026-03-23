@@ -5,7 +5,7 @@ const post = {
     { type: 'image', src: "/images/post412_thumb.svg", alt: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위", caption: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1158&quot; data-origin-width=&quot;1584&quot;><span data-alt=&quot;역대 영화 박스오피스 흥행 순위 TOP 20&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cR3edI/btsIhyNDn5k/AAAAAAAAAAAAAAAAAAAAAADS8qNq82JI-UmGMjD16D0cnnf2rEySDzpqtvZw1D-o/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DJkRkl5x6fnw%2Bx8kcA6aAJxM%2FLI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cR3edI/btsIhyNDn5k/AAAAAAAAAAAAAAAAAAAAAADS8qNq82JI-UmGMjD16D0cnnf2rEySDzpqtvZw1D-o/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DJkRkl5x6fnw%2Bx8kcA6aAJxM%2FLI%3D&quot;></span><figcaption>역대 영화 박스오피스 흥행 순위 TOP 20</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>역대 영화 박스오피스 흥행 순위 TOP 20</figcaption> </figure> </p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;>개봉일: 2024-04-24<br>매출액: 110,006,281,919원<br>관객 수: 11,497,882명<br/>상영관 수: 2,980<br/>상영 횟수: 374,783<br/>출연진: 마동석, 손석구, 김무열, 최귀화 </br></br></p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b>범죄도시4 다시보기 보는곳 OTT</b></p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent; color: #7f7f7f; text-align: start;&quot;>6월 초 VOD출시, 10월 중순 OTT 출시 예상 </span></p>" },

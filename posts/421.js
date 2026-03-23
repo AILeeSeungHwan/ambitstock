@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; background-color: transparent;&quot;>2024년 TVN 티빙 드라마 역대 시청률 순위 TOP10으로 알아보는 티빙 드라마 추천입니다.</span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시청률 순위는 역순으로 10위부터 1위까지 알아보겠습니다.</span></p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;575&quot; data-origin-width=&quot;664&quot;><span data-alt=&quot;tvn 티빙 드라마 추천 역대 시청률 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cVVukF/btsH9EsYUSj/AAAAAAAAAAAAAAAAAAAAAMF7dXy12aRVmX1THsqqDsc0xoA4ZESPaIWzHYhsfEj1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=07hkvNAgO%2Fd8crncWXyPINvMvlU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cVVukF/btsH9EsYUSj/AAAAAAAAAAAAAAAAAAAAAMF7dXy12aRVmX1THsqqDsc0xoA4ZESPaIWzHYhsfEj1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=07hkvNAgO%2Fd8crncWXyPINvMvlU%3D&quot;></span><figcaption>tvn 티빙 드라마 추천 역대 시청률 순위</figcaption> </figure> </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; background-color: transparent;&quot;>2024년 TVN 티빙 드라마 역대 시청률 순위 TOP10으로 알아보는 티빙 드라마 추천입니다.</span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시청률 순위는 역순으로 10위부터 1위까지 알아보겠습니다.</span></p><p><figure><figcaption>tvn 티빙 드라마 추천 역대 시청률 순위</figcaption> </figure> </p>'
     },
     {
       type: 'image',

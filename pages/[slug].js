@@ -219,7 +219,17 @@ export default function PostPage({ meta, postData, related }) {
         <meta property="og:type" content="article" />
         <meta property="og:url" content={canonicalUrl} />
         {meta.thumbnail && <meta property="og:image" content={'https://ambitstock.com' + meta.thumbnail} />}
+        <meta name="article:published_time" content={meta.date} />
+        <meta name="article:section" content={meta.category} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+          'itemListElement': [
+            { '@type': 'ListItem', position: 1, name: 'R의 필름공장', item: 'https://ambitstock.com' },
+            { '@type': 'ListItem', position: 2, name: meta.category, item: 'https://ambitstock.com/?cat=' + encodeURIComponent(meta.category) },
+            { '@type': 'ListItem', position: 3, name: meta.title }
+          ]
+        }) }} />
       </Head>
 
       <PageTracker slug={meta.slug} />

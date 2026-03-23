@@ -39,7 +39,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;203&quot; data-origin-width=&quot;698&quot;><span data-alt=&quot;영화 파묘 영어제목 exhuma&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b9FtNe/btsDfWSqiUK/AAAAAAAAAAAAAAAAAAAAALSUYVpq8pSl1XEBa8mXjCvj63imNCKx-gJFDL0YG0qA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jW8FjXDrRAKz04YGHANgCuHPuYc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b9FtNe/btsDfWSqiUK/AAAAAAAAAAAAAAAAAAAAALSUYVpq8pSl1XEBa8mXjCvj63imNCKx-gJFDL0YG0qA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jW8FjXDrRAKz04YGHANgCuHPuYc%3D&quot;></span><figcaption>영화 파묘 영어제목 exhuma</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 파묘 영어제목 exhuma</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -63,7 +63,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;버라이어티 매거진.JPG&quot; data-origin-height=&quot;577&quot; data-origin-width=&quot;701&quot;><span data-alt=&quot;버라이어티 매거진 영화 파묘 기사&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Hg2TU/btsC6p3uHhw/AAAAAAAAAAAAAAAAAAAAAM89XDGKuU75ECt3h6drpky8e1z4i7wxBW5W7YbRD_2a/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=O5fiKrkaBaJ0Wo1vK9KIJYpb6HA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Hg2TU/btsC6p3uHhw/AAAAAAAAAAAAAAAAAAAAAM89XDGKuU75ECt3h6drpky8e1z4i7wxBW5W7YbRD_2a/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=O5fiKrkaBaJ0Wo1vK9KIJYpb6HA%3D&quot;></span><figcaption>버라이어티 매거진 영화 파묘 기사</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;버라이어티 매거진.JPG&quot;><figcaption>버라이어티 매거진 영화 파묘 기사</figcaption> </figure> </p>'
     },
     {
       type: 'body',

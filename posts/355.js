@@ -39,19 +39,19 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;518&quot; data-origin-width=&quot;1193&quot;><span data-alt=&quot;넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/eWqEun/btsI0AKZI1V/AAAAAAAAAAAAAAAAAAAAAOVZdwvLjIsZ9Ls1mUd3gTqGsjFB1aK7eRtRk73l7Z4a/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=T9SSV3P8WuI3KuH2UvHMr3n1Pog%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/eWqEun/btsI0AKZI1V/AAAAAAAAAAAAAAAAAAAAAOVZdwvLjIsZ9Ls1mUd3gTqGsjFB1aK7eRtRk73l7Z4a/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=T9SSV3P8WuI3KuH2UvHMr3n1Pog%3D&quot;></span><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;556&quot; data-origin-width=&quot;1205&quot;><span data-alt=&quot;넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/d17uQ1/btsIZYFW1UA/AAAAAAAAAAAAAAAAAAAAAIbNvRvjaMHtWlku86b5_psfdO7sD_D-I0EItwsLdgXG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ru3AFWG37R14J%2FT8OVvqb%2BegRns%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/d17uQ1/btsIZYFW1UA/AAAAAAAAAAAAAAAAAAAAAIbNvRvjaMHtWlku86b5_psfdO7sD_D-I0EItwsLdgXG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ru3AFWG37R14J%2FT8OVvqb%2BegRns%3D&quot;></span><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;556&quot; data-origin-width=&quot;1205&quot;><span data-alt=&quot;넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/mk00s/btsI1wOq9DS/AAAAAAAAAAAAAAAAAAAAAF2t1HrheVHwlVjB521qnAv4PcvvbLR9o8H-QTkRCC8d/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=do4qksnrKTUn%2Frkn7ZGV%2BRf%2FEsM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/mk00s/btsI1wOq9DS/AAAAAAAAAAAAAAAAAAAAAF2t1HrheVHwlVjB521qnAv4PcvvbLR9o8H-QTkRCC8d/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=do4qksnrKTUn%2Frkn7ZGV%2BRf%2FEsM%3D&quot;></span><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;558&quot; data-origin-width=&quot;1203&quot;><span data-alt=&quot;넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/k9QNF/btsIZOwvXOz/AAAAAAAAAAAAAAAAAAAAANtNeg8FSzL15-V_8IK-QRxwEgcPvTZiE3Ju4Yp-7Lib/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cy%2FpjN%2FdxValVlXh4gnhJDkBSWk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/k9QNF/btsIZOwvXOz/AAAAAAAAAAAAAAAAAAAAANtNeg8FSzL15-V_8IK-QRxwEgcPvTZiE3Ju4Yp-7Lib/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cy%2FpjN%2FdxValVlXh4gnhJDkBSWk%3D&quot;></span><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'
     },
     ,
     { type: 'image', src: '/images/post355_img8.jpg', alt: '넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스', caption: 'ⓒ R의 필름공장' },
@@ -64,7 +64,7 @@ const post = {
     { type: 'image', src: '/images/post355_img1.jpg', alt: '넷플릭스 영화 크로스', caption: 'ⓒ R의 필름공장' },
     {
       type: 'ending',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;556&quot; data-origin-width=&quot;1206&quot;><span data-alt=&quot;넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cz3YZF/btsI2gdhddp/AAAAAAAAAAAAAAAAAAAAAGgvQDhUp_GxSl4ItkoD2daXy3-i6lX0HCxgUtdzz7eU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rY3%2Be6TX26Q28iugJWIKMYjM6d0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cz3YZF/btsI2gdhddp/AAAAAAAAAAAAAAAAAAAAAGgvQDhUp_GxSl4ItkoD2daXy3-i6lX0HCxgUtdzz7eU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rY3%2Be6TX26Q28iugJWIKMYjM6d0%3D&quot;></span><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 크로스 스틸컷 - 출처 넷플릭스</figcaption> </figure> </p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
   ]

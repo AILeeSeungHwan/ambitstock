@@ -7,7 +7,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>모든 데이터는 영화관입장권통합전상망의 공식데이터입니다. 순위는 역순으로 정리하였습니다. </p>" },
     { type: 'body', html: "<p style=&quot;text-align: left;&quot;>1부와 마찬가지로 영화조아 누누티비 티비나무와 같은 불법 스트리밍 사이트는 배제하였습니다.</p>" },
-    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;736&quot; data-origin-width=&quot;1078&quot;><span data-alt=&quot;역대 영화 박스오피스 순위 TOP 10&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bmmGBU/btsIhiLdL4K/AAAAAAAAAAAAAAAAAAAAAEh9pLhalIDS9bAGhhsx33Nk4nL3vbWgjtPXdXRyvHl2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=USma%2BFR1EqN7gmMpJp3Mlbc2Uhs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bmmGBU/btsIhiLdL4K/AAAAAAAAAAAAAAAAAAAAAEh9pLhalIDS9bAGhhsx33Nk4nL3vbWgjtPXdXRyvHl2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=USma%2BFR1EqN7gmMpJp3Mlbc2Uhs%3D&quot;></span><figcaption>역대 영화 박스오피스 순위 TOP 10</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>역대 영화 박스오피스 순위 TOP 10</figcaption> </figure> </p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;>개봉일: 2012-07-25<br>매출액: 93,672,497,700원<br>관객 수: 12,984,701명<br/>상영관 수: 1,091<br/>상영 횟수: 155,487<br/>출연진: 김윤석, 김혜수, 이정재, 전지현</br></br></p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;>도둑들 OTT 다시보기 보는곳 : 왓챠 웨이브 티빙</p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;>개봉일: 2023-11-22<br/>매출액: 127,926,951,712원<br/>관객 수: 13,128,080명<br/>상영관 수: 2,463<br/>상영 횟수: 374,533<br/>출연진: 황정민, 정우성, 이성민, 박해준, 김성균, 김의성</p>" },

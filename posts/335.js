@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시리즈 \'아무도 없는 숲속에서\'가 24년 8월 23일 공개됩니다.</b></span></p><p>시사회를 통해 1화부터 4화까지 이미 시청한 관객분들과 평론가들의 후기 추천평을 전해드리겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1114&quot; data-origin-width=&quot;754&quot;><span data-alt=&quot;넷플릭스 시리즈 추천 아무도 없는 숲속에서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/n8frW/btsJeBPhqNg/AAAAAAAAAAAAAAAAAAAAAKQlNFfyp_YJWj6lfguBnpjiBquI0xrGYZy0flQK38Sn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pfGxDgH%2Bm3EOe72mh4%2BpY30vq8M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/n8frW/btsJeBPhqNg/AAAAAAAAAAAAAAAAAAAAAKQlNFfyp_YJWj6lfguBnpjiBquI0xrGYZy0flQK38Sn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pfGxDgH%2Bm3EOe72mh4%2BpY30vq8M%3D&quot;></span><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
+      html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시리즈 \'아무도 없는 숲속에서\'가 24년 8월 23일 공개됩니다.</b></span></p><p>시사회를 통해 1화부터 4화까지 이미 시청한 관객분들과 평론가들의 후기 추천평을 전해드리겠습니다.</p><p><figure><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -35,7 +35,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;742&quot; data-origin-width=&quot;754&quot;><span data-alt=&quot;넷플릭스 시리즈 추천 아무도 없는 숲속에서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/mdW6s/btsJdGw4RsC/AAAAAAAAAAAAAAAAAAAAAM3kNQLiTrgGnszhz7gZSoee7uh375pq-We8WZ7-cguZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nRb25A2ingYKXZ6GPzg%2BFAv3Rx8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/mdW6s/btsJdGw4RsC/AAAAAAAAAAAAAAAAAAAAAM3kNQLiTrgGnszhz7gZSoee7uh375pq-We8WZ7-cguZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nRb25A2ingYKXZ6GPzg%2BFAv3Rx8%3D&quot;></span><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -47,15 +47,15 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;742&quot; data-origin-width=&quot;754&quot;><span data-alt=&quot;넷플릭스 시리즈 추천 아무도 없는 숲속에서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cdmlZL/btsJd6vxxEX/AAAAAAAAAAAAAAAAAAAAAIQ4BZ290Wj2quqU3XFFknerlSnjcmUG3H3Eirh-9Y5T/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ovsDRQU2CbSYGeREkfGayoxmP%2BQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cdmlZL/btsJd6vxxEX/AAAAAAAAAAAAAAAAAAAAAIQ4BZ290Wj2quqU3XFFknerlSnjcmUG3H3Eirh-9Y5T/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ovsDRQU2CbSYGeREkfGayoxmP%2BQ%3D&quot;></span><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;742&quot; data-origin-width=&quot;754&quot;><span data-alt=&quot;넷플릭스 시리즈 추천 아무도 없는 숲속에서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/s6DHF/btsJeOVcPVU/AAAAAAAAAAAAAAAAAAAAAPjRB90XUfIpbUhQKnVXdXboC1TpACI0udJLISQm4oQS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4%2FPmkKYS%2FpfRUPxGEJAVf5v%2Fowc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/s6DHF/btsJeOVcPVU/AAAAAAAAAAAAAAAAAAAAAPjRB90XUfIpbUhQKnVXdXboC1TpACI0udJLISQm4oQS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=4%2FPmkKYS%2FpfRUPxGEJAVf5v%2Fowc%3D&quot;></span><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;742&quot; data-origin-width=&quot;754&quot;><span data-alt=&quot;넷플릭스 시리즈 추천 아무도 없는 숲속에서&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lm93W/btsJdbj1LVI/AAAAAAAAAAAAAAAAAAAAAHyuUNizGirI8BrwrFrYpIzFzn358_-fZJcYW7Ivo-tS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LKRkOpL9DkRrCbtB%2BH%2FnFM6d0GY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lm93W/btsJdbj1LVI/AAAAAAAAAAAAAAAAAAAAAHyuUNizGirI8BrwrFrYpIzFzn358_-fZJcYW7Ivo-tS/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LKRkOpL9DkRrCbtB%2BH%2FnFM6d0GY%3D&quot;></span><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>'
     },
     ,
     { type: 'image', src: '/images/post335_img5.jpg', alt: '넷플릭스 시리즈 추천 아무도 없는 숲속에서', caption: 'ⓒ R의 필름공장' },

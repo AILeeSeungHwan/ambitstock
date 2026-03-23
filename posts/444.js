@@ -47,7 +47,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;294&quot; data-origin-width=&quot;941&quot;><span data-alt=&quot;로튼 토마토 듄 파트1 해외 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/PhIcm/btsDqTiSBLg/AAAAAAAAAAAAAAAAAAAAAOVi7OHq_bkNeEJ1L3JHF3ktUXCSQK8ba0-hIL9pmJKN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=J21oqHeMnyJe5Y1XgsqS%2BTZU480%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/PhIcm/btsDqTiSBLg/AAAAAAAAAAAAAAAAAAAAAOVi7OHq_bkNeEJ1L3JHF3ktUXCSQK8ba0-hIL9pmJKN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=J21oqHeMnyJe5Y1XgsqS%2BTZU480%3D&quot;></span><figcaption>로튼 토마토 듄 파트1 해외 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>로튼 토마토 듄 파트1 해외 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -83,7 +83,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;538&quot; data-origin-width=&quot;1266&quot;><span data-alt=&quot;IMDB 영화 듄 파트1 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wjTwL/btsDsZpaZZZ/AAAAAAAAAAAAAAAAAAAAALhR518EiJRu7xyAc2u-ilvoXAUake7OZMlPYABdbQso/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QxZc24nxxqbns2W2uf4cg9uiEGw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wjTwL/btsDsZpaZZZ/AAAAAAAAAAAAAAAAAAAAALhR518EiJRu7xyAc2u-ilvoXAUake7OZMlPYABdbQso/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QxZc24nxxqbns2W2uf4cg9uiEGw%3D&quot;></span><figcaption>IMDB 영화 듄 파트1 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 영화 듄 파트1 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -99,7 +99,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;635&quot; data-origin-width=&quot;855&quot;><span data-alt=&quot;IMDB 영화 듄 파트1 평점 분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/eri85V/btsDuxTsIMs/AAAAAAAAAAAAAAAAAAAAANUg9NBhcNv8OmlcCNfx7JbJEGXttZSZEI7DDz6Dfjgv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oPXqaVhr9O6js6%2FaAZi9PEsNqtg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/eri85V/btsDuxTsIMs/AAAAAAAAAAAAAAAAAAAAANUg9NBhcNv8OmlcCNfx7JbJEGXttZSZEI7DDz6Dfjgv/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oPXqaVhr9O6js6%2FaAZi9PEsNqtg%3D&quot;></span><figcaption>IMDB 영화 듄 파트1 평점 분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 영화 듄 파트1 평점 분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',

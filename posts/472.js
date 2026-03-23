@@ -26,7 +26,7 @@ const post = {
     { type: 'image', src: '/images/post472_img1.jpg', alt: '로튼 토마토 노량:죽음의 바다 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;로튼토마토-노량.JPG&quot; data-origin-height=&quot;319&quot; data-origin-width=&quot;947&quot;><span data-alt=&quot;로튼 토마토 영화 노량:죽음의 바다 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Tgzlz/btsCQ4Rs4BN/AAAAAAAAAAAAAAAAAAAAAF-rRf7pIZfsiE8Dl817M_TMEk4N_hQFfbohzIEwsZIa/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=j9vN7i0l5gr6k%2BAxyrFGBOH9img%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Tgzlz/btsCQ4Rs4BN/AAAAAAAAAAAAAAAAAAAAAF-rRf7pIZfsiE8Dl817M_TMEk4N_hQFfbohzIEwsZIa/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=j9vN7i0l5gr6k%2BAxyrFGBOH9img%3D&quot;></span><figcaption>로튼 토마토 영화 노량:죽음의 바다 평점</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;로튼토마토-노량.JPG&quot;><figcaption>로튼 토마토 영화 노량:죽음의 바다 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -82,7 +82,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;노량 포스터.jpg&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;512&quot;><span data-alt=&quot;영화 노량: 죽음의 바다 포스터&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bfql8X/btsDqk0JI0f/AAAAAAAAAAAAAAAAAAAAAK6SiHvXPfzX8Em21O2iPH3oaFGY2Z1va-y7hT9c0STT/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nBXEHUPy7mSrkFZ2rUAEzADIc0Q%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bfql8X/btsDqk0JI0f/AAAAAAAAAAAAAAAAAAAAAK6SiHvXPfzX8Em21O2iPH3oaFGY2Z1va-y7hT9c0STT/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nBXEHUPy7mSrkFZ2rUAEzADIc0Q%3D&quot;></span><figcaption>영화 노량: 죽음의 바다 포스터</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;노량 포스터.jpg&quot;><figcaption>영화 노량: 죽음의 바다 포스터</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -114,7 +114,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;328&quot; data-origin-width=&quot;946&quot;><span data-alt=&quot;로튼 토마토 영화 한산:용의 출현 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/LwmV3/btsCTvOxKFF/AAAAAAAAAAAAAAAAAAAAADhqjZ5S5bsrmuxJJtrEZXNS2WMKQjkpZ-PxyDbmG7FP/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wUXJpQaEVnxdNwGkyO9l6uG23GI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/LwmV3/btsCTvOxKFF/AAAAAAAAAAAAAAAAAAAAADhqjZ5S5bsrmuxJJtrEZXNS2WMKQjkpZ-PxyDbmG7FP/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=wUXJpQaEVnxdNwGkyO9l6uG23GI%3D&quot;></span><figcaption>로튼 토마토 영화 한산:용의 출현 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>로튼 토마토 영화 한산:용의 출현 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -142,7 +142,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;변요한2.jpg&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;834&quot;><span data-alt=&quot;영화 한산:용의 출현 배우 변요한&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bVHjE8/btsDqLjsfOt/AAAAAAAAAAAAAAAAAAAAAFyWpgiVvks3kGczjjHnADiwJj0jyJg_Bm5Yd5zW-96V/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=csn%2FMK0yYO3HMYMd6MbkEVVnAlA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bVHjE8/btsDqLjsfOt/AAAAAAAAAAAAAAAAAAAAAFyWpgiVvks3kGczjjHnADiwJj0jyJg_Bm5Yd5zW-96V/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=csn%2FMK0yYO3HMYMd6MbkEVVnAlA%3D&quot;></span><figcaption>영화 한산:용의 출현 배우 변요한</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;변요한2.jpg&quot;><figcaption>영화 한산:용의 출현 배우 변요한</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -168,7 +168,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;IMDB-노량.JPG&quot; data-origin-height=&quot;516&quot; data-origin-width=&quot;1256&quot;><span data-alt=&quot;IMDB 영화 노량:죽음의 바다 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/OyBYN/btsCMpPQ4lP/AAAAAAAAAAAAAAAAAAAAAKDI0bGOkFvMJLmd3BqxrMjL1GEi6qkg9fKAb7X7wnRS/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XkCKorxlHI0oAbsfWp%2Bp0vh7RM8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/OyBYN/btsCMpPQ4lP/AAAAAAAAAAAAAAAAAAAAAKDI0bGOkFvMJLmd3BqxrMjL1GEi6qkg9fKAb7X7wnRS/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=XkCKorxlHI0oAbsfWp%2Bp0vh7RM8%3D&quot;></span><figcaption>IMDB 영화 노량:죽음의 바다 평점</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;IMDB-노량.JPG&quot;><figcaption>IMDB 영화 노량:죽음의 바다 평점</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post472_img2.jpg', alt: '[영화 노량:죽음의 바다 관객수 해외 개봉 반응 리뷰 및 평점] - 이리도 조선에 편리한 이야기 일본 반응? 한산:용의 출현 넷플릭스 다시 보기', caption: 'ⓒ R의 필름공장' },
     {
@@ -189,7 +189,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;IMDB-노량평점분포.JPG&quot; data-origin-height=&quot;651&quot; data-origin-width=&quot;670&quot;><span data-alt=&quot;영화 노량:죽음의 바다 평점 분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cTYUJr/btsCODfLQjT/AAAAAAAAAAAAAAAAAAAAAJXuTDvIFUAcQKrRCC079x3UB_PaheBHHk2PJZfeSSDW/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3nJC3GPgoLnjGJFkHN8Mrf3KMX8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cTYUJr/btsCODfLQjT/AAAAAAAAAAAAAAAAAAAAAJXuTDvIFUAcQKrRCC079x3UB_PaheBHHk2PJZfeSSDW/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=3nJC3GPgoLnjGJFkHN8Mrf3KMX8%3D&quot;></span><figcaption>영화 노량:죽음의 바다 평점 분포</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;IMDB-노량평점분포.JPG&quot;><figcaption>영화 노량:죽음의 바다 평점 분포</figcaption> </figure> </p>'
     },
     {
       type: 'h2',
@@ -199,7 +199,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;filmarks - 한산.JPG&quot; data-origin-height=&quot;422&quot; data-origin-width=&quot;1093&quot;><span data-alt=&quot;영화 한산:용의 출현 일본 평점 및 리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/JWxhk/btsCOzqSnNJ/AAAAAAAAAAAAAAAAAAAAALthntQKqZa5NNarVMLt7__aZ-xdAYdrEU53bP68kHBL/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VRjWS247ahC26joCQ%2FGpf%2BgCj2I%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/JWxhk/btsCOzqSnNJ/AAAAAAAAAAAAAAAAAAAAALthntQKqZa5NNarVMLt7__aZ-xdAYdrEU53bP68kHBL/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=VRjWS247ahC26joCQ%2FGpf%2BgCj2I%3D&quot;></span><figcaption>영화 한산:용의 출현 일본 평점 및 리뷰</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;filmarks - 한산.JPG&quot;><figcaption>영화 한산:용의 출현 일본 평점 및 리뷰</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post472_img10.jpg', alt: '영화 한산:용의 출현', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post472_img9.jpg', alt: '영화 한산:용의 출현 배우 변요한', caption: 'ⓒ R의 필름공장' },
@@ -227,7 +227,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;272&quot; data-origin-width=&quot;703&quot;><span data-alt=&quot;영화 한산:용의 출현 일본 평점 분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bo52M0/btsCTBVu1lq/AAAAAAAAAAAAAAAAAAAAAMtx_TUDlrde29HL5xRnhjpkQaXHnIHQNztYy8IJuaqM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=EEhp4xHF4PKC7NpqMdEju92rgHo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bo52M0/btsCTBVu1lq/AAAAAAAAAAAAAAAAAAAAAMtx_TUDlrde29HL5xRnhjpkQaXHnIHQNztYy8IJuaqM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=EEhp4xHF4PKC7NpqMdEju92rgHo%3D&quot;></span><figcaption>영화 한산:용의 출현 일본 평점 분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 한산:용의 출현 일본 평점 분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -247,7 +247,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;변요한.jpg&quot; data-origin-height=&quot;512&quot; data-origin-width=&quot;768&quot;><span data-alt=&quot;영화 한산:용의 출현 배우 변요한&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bjjYzm/btsDopuVCuI/AAAAAAAAAAAAAAAAAAAAAAw8h6QKz-dOX_mfiKH4zF9LRMuw4_oux1EUGJkdFLl5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nJQ9%2F4YCYsC%2B1XIDTb1ctOGfZAQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bjjYzm/btsDopuVCuI/AAAAAAAAAAAAAAAAAAAAAAw8h6QKz-dOX_mfiKH4zF9LRMuw4_oux1EUGJkdFLl5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nJQ9%2F4YCYsC%2B1XIDTb1ctOGfZAQ%3D&quot;></span><figcaption>영화 한산:용의 출현 배우 변요한</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;변요한.jpg&quot;><figcaption>영화 한산:용의 출현 배우 변요한</figcaption> </figure> </p>'
     },
     {
       type: 'body',

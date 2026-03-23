@@ -71,7 +71,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;313&quot; data-origin-width=&quot;600&quot;><span data-alt=&quot;영화 매트릭스 빨간약을 선택한 네오&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wcErG/btsDJTuI6YC/AAAAAAAAAAAAAAAAAAAAAKaXpYdZXpWZdsPEXNtu2Ea43PdWS-ZcXqYeKbHn64q_/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=m5Jg8lSk9cJXA7KqmvFTDUpbHrw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wcErG/btsDJTuI6YC/AAAAAAAAAAAAAAAAAAAAAKaXpYdZXpWZdsPEXNtu2Ea43PdWS-ZcXqYeKbHn64q_/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=m5Jg8lSk9cJXA7KqmvFTDUpbHrw%3D&quot;></span><figcaption>영화 매트릭스 빨간약을 선택한 네오</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 매트릭스 빨간약을 선택한 네오</figcaption> </figure> </p>'
     },
     {
       type: 'body',

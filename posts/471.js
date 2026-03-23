@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;310&quot; data-origin-width=&quot;925&quot;><span data-alt=&quot;로튼 토마토 레벨문 REBEL MOON 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/QDyPr/btsCTyY68ST/AAAAAAAAAAAAAAAAAAAAAEPOsj_OeAT4j5oXwmkHWvqtJ6yFt60WYTaJ6Ba92E7w/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Wt%2FHVyBp9jEcB%2BpVjAROeLUNpSU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/QDyPr/btsCTyY68ST/AAAAAAAAAAAAAAAAAAAAAEPOsj_OeAT4j5oXwmkHWvqtJ6yFt60WYTaJ6Ba92E7w/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Wt%2FHVyBp9jEcB%2BpVjAROeLUNpSU%3D&quot;></span><figcaption>로튼 토마토 레벨문 REBEL MOON 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>로튼 토마토 레벨문 REBEL MOON 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -147,7 +147,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;레벨문 소피아 부텔라.jpg&quot; data-origin-height=&quot;396&quot; data-origin-width=&quot;696&quot;><span data-alt=&quot;레벨문 파트1 배우 소피아 부텔라&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/copLZX/btsDp4wuNJu/AAAAAAAAAAAAAAAAAAAAABWuMTNskMeHQX4ZbFFtrBCwSiucG0Vz8v6hofzK27cV/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q2W39teBY8GXBU8%2BhrkduQA60rc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/copLZX/btsDp4wuNJu/AAAAAAAAAAAAAAAAAAAAABWuMTNskMeHQX4ZbFFtrBCwSiucG0Vz8v6hofzK27cV/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q2W39teBY8GXBU8%2BhrkduQA60rc%3D&quot;></span><figcaption>레벨문 파트1 배우 소피아 부텔라</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;레벨문 소피아 부텔라.jpg&quot;><figcaption>레벨문 파트1 배우 소피아 부텔라</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -191,7 +191,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;521&quot; data-origin-width=&quot;1259&quot;><span data-alt=&quot;영화 레벨문 파트1 IMDB 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lgAx9/btsCTwAjxLM/AAAAAAAAAAAAAAAAAAAAAKnsancbYR4MbwcUn07ufmZO8tUL5X6LFJalcUAiNb6-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FPgjqVaFuJvPu3qINXNzBF%2F9qTk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lgAx9/btsCTwAjxLM/AAAAAAAAAAAAAAAAAAAAAKnsancbYR4MbwcUn07ufmZO8tUL5X6LFJalcUAiNb6-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FPgjqVaFuJvPu3qINXNzBF%2F9qTk%3D&quot;></span><figcaption>영화 레벨문 파트1 IMDB 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 레벨문 파트1 IMDB 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -211,7 +211,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;640&quot; data-origin-width=&quot;833&quot;><span data-alt=&quot;영화 레벨문 파트1 IMDB 평점분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/beWis6/btsCTzXXPXS/AAAAAAAAAAAAAAAAAAAAAHaolYjOjMRu_6p4pIUyoDKy3lUvyw5kcx6IyKoxItjl/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WhHH%2FQydvSsRbPVvLxlnTxqJoaI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/beWis6/btsCTzXXPXS/AAAAAAAAAAAAAAAAAAAAAHaolYjOjMRu_6p4pIUyoDKy3lUvyw5kcx6IyKoxItjl/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WhHH%2FQydvSsRbPVvLxlnTxqJoaI%3D&quot;></span><figcaption>영화 레벨문 파트1 IMDB 평점분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 레벨문 파트1 IMDB 평점분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',

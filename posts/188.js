@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 11월 22일 넷플릭스 개봉예정영화 조이의 탄생 (영어제목 : 조이 ) 관람평점 후기입니다.</b></span></p><p>현재 로튼토마토에서 높은 평가를 받은 작품으로 넷플릭스에서 22일 시청 가능합니다.</p><p>과연 <b>어떠한 점이 평론가들의 좋은 평가로 이어질 수 있었는지 </b>확인해 보도록 하겠습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1538&quot; data-origin-width=&quot;1440&quot;><span data-alt=&quot;넷플릭스 영화 추천 조이의 탄생&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/doVojn/btsKPHaMqPt/AAAAAAAAAAAAAAAAAAAAAMVaq8p-eciKtlxQKY44X1FZEwOZaiT0rUt3FXfgl8f9/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TmfjxMBTIy4vJqf6Xt6Hv7LdNKQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/doVojn/btsKPHaMqPt/AAAAAAAAAAAAAAAAAAAAAMVaq8p-eciKtlxQKY44X1FZEwOZaiT0rUt3FXfgl8f9/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TmfjxMBTIy4vJqf6Xt6Hv7LdNKQ%3D&quot;></span><figcaption>넷플릭스 영화 추천 조이의 탄생</figcaption> </figure> </p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 11월 22일 넷플릭스 개봉예정영화 조이의 탄생 (영어제목 : 조이 ) 관람평점 후기입니다.</b></span></p><p>현재 로튼토마토에서 높은 평가를 받은 작품으로 넷플릭스에서 22일 시청 가능합니다.</p><p>과연 <b>어떠한 점이 평론가들의 좋은 평가로 이어질 수 있었는지 </b>확인해 보도록 하겠습니다.</p><p><figure><figcaption>넷플릭스 영화 추천 조이의 탄생</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -52,7 +52,7 @@ const post = {
     { type: 'image', src: '/images/post188_img2.jpg', alt: '조이의 탄생 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;620&quot; data-origin-width=&quot;1868&quot;><span data-alt=&quot;조이의 탄생 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/k5FA4/btsKQbCnfFq/AAAAAAAAAAAAAAAAAAAAACo_SHgDoyn7sLZkDb2YqVl7AceAnWteSRJJFbV0Xi3-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K6SXS98gucMVTIpp1i3qgmWodJo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/k5FA4/btsKQbCnfFq/AAAAAAAAAAAAAAAAAAAAACo_SHgDoyn7sLZkDb2YqVl7AceAnWteSRJJFbV0Xi3-/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K6SXS98gucMVTIpp1i3qgmWodJo%3D&quot;></span><figcaption>조이의 탄생 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>조이의 탄생 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

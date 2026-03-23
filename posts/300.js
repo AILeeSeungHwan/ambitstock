@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;1224&quot; data-origin-width=&quot;1830&quot;><span data-alt=&quot;로튼 토마토 나우 유 씨미 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ccXHbd/btsJDn5okin/AAAAAAAAAAAAAAAAAAAAAJj72c2SsoN3l2blsHprlzL56LzBaDvP1z9iUS80OMUB/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Qm3K51SoomeMLLfVJCOUeuscpP4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ccXHbd/btsJDn5okin/AAAAAAAAAAAAAAAAAAAAAJj72c2SsoN3l2blsHprlzL56LzBaDvP1z9iUS80OMUB/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Qm3K51SoomeMLLfVJCOUeuscpP4%3D&quot;></span><figcaption>로튼 토마토 나우 유 씨미 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>로튼 토마토 나우 유 씨미 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -79,7 +79,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1360&quot; data-origin-width=&quot;1100&quot;><span data-alt=&quot;영화 나우 유 씨미 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bR8ZMs/btsJEiILdU6/AAAAAAAAAAAAAAAAAAAAANvx2ngE4ZqgUQRlPi7QN-8vgvE4UeEc7n5iiPWfbx5n/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=h%2Bz5fM8FKMX02n8EOxjnE4ivg5Q%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bR8ZMs/btsJEiILdU6/AAAAAAAAAAAAAAAAAAAAANvx2ngE4ZqgUQRlPi7QN-8vgvE4UeEc7n5iiPWfbx5n/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=h%2Bz5fM8FKMX02n8EOxjnE4ivg5Q%3D&quot;></span><figcaption>영화 나우 유 씨미 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 나우 유 씨미 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -91,7 +91,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1256&quot; data-origin-width=&quot;1502&quot;><span data-alt=&quot;영화 나우 유 씨미 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/6LeQ0/btsJDsyLQQ0/AAAAAAAAAAAAAAAAAAAAAAHf9LhDCjE5BE9DaOd1mlJTRXCAfE2L_wREoF4sY23u/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nT9nsMWyCa3r1OhowtUbGsx6m64%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/6LeQ0/btsJDsyLQQ0/AAAAAAAAAAAAAAAAAAAAAAHf9LhDCjE5BE9DaOd1mlJTRXCAfE2L_wREoF4sY23u/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nT9nsMWyCa3r1OhowtUbGsx6m64%3D&quot;></span><figcaption>영화 나우 유 씨미 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 나우 유 씨미 평론가 후기</figcaption> </figure> </p>'
     },
     ,
     { type: 'image', src: '/images/post300_img5.jpg', alt: '영화 나우 유 씨미 평론가 후기', caption: 'ⓒ R의 필름공장' },

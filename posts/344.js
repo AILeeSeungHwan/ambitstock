@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;688&quot; data-origin-width=&quot;1322&quot;><span data-alt=&quot;인플루언서 - 자료 출처 KOTRA&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bS9Udx/btsI5vvCHkS/AAAAAAAAAAAAAAAAAAAAAC6_p7cyzcL9fjSjUOmsDe1JbWQu_ipC2n7CB5uIjUmA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=er6Y1I163LJ0sXOfZatt3W0G54k%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bS9Udx/btsI5vvCHkS/AAAAAAAAAAAAAAAAAAAAAC6_p7cyzcL9fjSjUOmsDe1JbWQu_ipC2n7CB5uIjUmA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=er6Y1I163LJ0sXOfZatt3W0G54k%3D&quot;></span><figcaption>인플루언서 - 자료 출처 KOTRA</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>인플루언서 - 자료 출처 KOTRA</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -47,7 +47,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;872&quot; data-origin-width=&quot;2032&quot;><span data-alt=&quot;넷플릭스 더 인플루언서 해외 평점 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/brWhYL/btsI6fTmUIZ/AAAAAAAAAAAAAAAAAAAAAH9OLgpmrvZceCNcs_oyU-4z8FPcbapjTgHDJfrm3yFU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BvAwb6srRkoFzg3L7%2FD77i9Mq08%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/brWhYL/btsI6fTmUIZ/AAAAAAAAAAAAAAAAAAAAAH9OLgpmrvZceCNcs_oyU-4z8FPcbapjTgHDJfrm3yFU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2BvAwb6srRkoFzg3L7%2FD77i9Mq08%3D&quot;></span><figcaption>넷플릭스 더 인플루언서 해외 평점 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 더 인플루언서 해외 평점 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',

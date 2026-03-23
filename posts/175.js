@@ -52,7 +52,7 @@ const post = {
     { type: 'image', src: '/images/post175_img2.jpg', alt: '애시드 레인: 죽음의 비 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;553&quot; data-origin-width=&quot;1259&quot;><span data-alt=&quot;애시드 레인: 죽음의 비 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/UAM2k/btsKVTADuAc/AAAAAAAAAAAAAAAAAAAAACcwfQy9mj9vN6YGh1L1iNce1iXu_RSCC5T6H8KNZXjM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9AZA7RrSaVzuD7XawI3ZM6gpJTc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/UAM2k/btsKVTADuAc/AAAAAAAAAAAAAAAAAAAAACcwfQy9mj9vN6YGh1L1iNce1iXu_RSCC5T6H8KNZXjM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=9AZA7RrSaVzuD7XawI3ZM6gpJTc%3D&quot;></span><figcaption>애시드 레인: 죽음의 비 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>애시드 레인: 죽음의 비 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -163,7 +163,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;821&quot; data-origin-width=&quot;1124&quot;><span data-alt=&quot;애시드 레인: 죽음의 비 관람평&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/byMd2t/btsKTCtKCB5/AAAAAAAAAAAAAAAAAAAAAFBenIfoRB--9i7CrA54hw1Fo7uGtKu1H5NpHqjpmMu1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=W%2F%2FL317VkNkGznUBEWRvcocpr1A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/byMd2t/btsKTCtKCB5/AAAAAAAAAAAAAAAAAAAAAFBenIfoRB--9i7CrA54hw1Fo7uGtKu1H5NpHqjpmMu1/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=W%2F%2FL317VkNkGznUBEWRvcocpr1A%3D&quot;></span><figcaption>애시드 레인: 죽음의 비 관람평</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>애시드 레인: 죽음의 비 관람평</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -187,7 +187,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;834&quot; data-origin-width=&quot;579&quot;><span data-alt=&quot;애시드 레인: 죽음의 비 관람평&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Ypx7m/btsKVRv2995/AAAAAAAAAAAAAAAAAAAAADHJQazP2FVpuTreXAGwvrQUnB5mrhR7BDMwRIKhYlIi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=X6bq4aU1oLajTE8tS3Qtaeaoq2M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Ypx7m/btsKVRv2995/AAAAAAAAAAAAAAAAAAAAADHJQazP2FVpuTreXAGwvrQUnB5mrhR7BDMwRIKhYlIi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=X6bq4aU1oLajTE8tS3Qtaeaoq2M%3D&quot;></span><figcaption>애시드 레인: 죽음의 비 관람평</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>애시드 레인: 죽음의 비 관람평</figcaption> </figure> </p>'
     },
     {
       type: 'body',

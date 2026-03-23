@@ -72,7 +72,7 @@ const post = {
     { type: 'image', src: '/images/post340_img3.jpg', alt: '10위 코쿠리코 언덕에서', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;692&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;9. 바람이 분다 (The Wind Rises)&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/0A5v7/btsI827AFJ1/AAAAAAAAAAAAAAAAAAAAAGUNTNlK5WR8tgZXicCx2Ba8YulWOiyfzCMEVWWap-Jb/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jWZPWF1ui6ot6pr4lELU48XvzP8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/0A5v7/btsI827AFJ1/AAAAAAAAAAAAAAAAAAAAAGUNTNlK5WR8tgZXicCx2Ba8YulWOiyfzCMEVWWap-Jb/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jWZPWF1ui6ot6pr4lELU48XvzP8%3D&quot;></span><figcaption>9. 바람이 분다 (The Wind Rises)</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>9. 바람이 분다 (The Wind Rises)</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -100,7 +100,7 @@ const post = {
     { type: 'image', src: '/images/post340_img4.jpg', alt: '9. 바람이 분다 (The Wind Rises)', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;692&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;8. 벼랑 위의 포뇨 (Ponyo)&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/UV9mv/btsI81U6YpC/AAAAAAAAAAAAAAAAAAAAAInQR8KHZwVN97JWl6ffcVRxKk29ctbJkXaspmgfMj5k/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WGjs3nmc8ygzdlM%2FrsfJBqaZmdk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/UV9mv/btsI81U6YpC/AAAAAAAAAAAAAAAAAAAAAInQR8KHZwVN97JWl6ffcVRxKk29ctbJkXaspmgfMj5k/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WGjs3nmc8ygzdlM%2FrsfJBqaZmdk%3D&quot;></span><figcaption>8. 벼랑 위의 포뇨 (Ponyo)</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>8. 벼랑 위의 포뇨 (Ponyo)</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -127,7 +127,7 @@ const post = {
     { type: 'image', src: '/images/post340_img5.jpg', alt: '8. 벼랑 위의 포뇨 (Ponyo)', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;888&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;7. 추억의 마니 (When Marnie Was There)&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/qnpMq/btsI7e2TGKP/AAAAAAAAAAAAAAAAAAAAALP-wpGSFlnWnv23cKeSzN0eGoWYJU7_XDPirNpDrue1/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=I6fykipgte7G%2FqZk4jEbCFNlUSs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/qnpMq/btsI7e2TGKP/AAAAAAAAAAAAAAAAAAAAALP-wpGSFlnWnv23cKeSzN0eGoWYJU7_XDPirNpDrue1/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=I6fykipgte7G%2FqZk4jEbCFNlUSs%3D&quot;></span><figcaption>7. 추억의 마니 (When Marnie Was There)</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>7. 추억의 마니 (When Marnie Was There)</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -154,7 +154,7 @@ const post = {
     { type: 'image', src: '/images/post340_img6.jpg', alt: '7. 추억의 마니 (When Marnie Was There)', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1036&quot; data-origin-width=&quot;1076&quot;><span data-alt=&quot;6. 이웃집 토토로 (My Neighbor Totoro)&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dGGsg5/btsI7nefBWd/AAAAAAAAAAAAAAAAAAAAAMpZgcI4Gbz2DNMkHTSQVfr3kHCkUpNr_OQgZ8T0xQVp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cnOgmlEJVMqKvjDvMEpACLw8UX0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dGGsg5/btsI7nefBWd/AAAAAAAAAAAAAAAAAAAAAMpZgcI4Gbz2DNMkHTSQVfr3kHCkUpNr_OQgZ8T0xQVp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cnOgmlEJVMqKvjDvMEpACLw8UX0%3D&quot;></span><figcaption>6. 이웃집 토토로 (My Neighbor Totoro)</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>6. 이웃집 토토로 (My Neighbor Totoro)</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -181,7 +181,7 @@ const post = {
     { type: 'image', src: '/images/post340_img7.jpg', alt: '지브리 스튜디오 역대 애니메이션 추천 인기 순위 로튼 기준 총정리!', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;720&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;5. 마루 밑 아리에티 (The Secret World of Arrietty)&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bCvLnN/btsI7dQp1bl/AAAAAAAAAAAAAAAAAAAAAF76BhEnOM9WBm9ZMRPTldR_L0y1RXSk8fITcp6mo-rv/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Bv7vJuofjsNnfpeC2FVFytTX2f4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bCvLnN/btsI7dQp1bl/AAAAAAAAAAAAAAAAAAAAAF76BhEnOM9WBm9ZMRPTldR_L0y1RXSk8fITcp6mo-rv/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Bv7vJuofjsNnfpeC2FVFytTX2f4%3D&quot;></span><figcaption>5. 마루 밑 아리에티 (The Secret World of Arrietty)</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>5. 마루 밑 아리에티 (The Secret World of Arrietty)</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -208,7 +208,7 @@ const post = {
     { type: 'image', src: '/images/post340_img8.jpg', alt: '5. 마루 밑 아리에티 (The Secret World of Arrietty)', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;720&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;4. 센과 치히로의 행방불명 (Spirited Away)&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b0odEs/btsI7Gq5mSG/AAAAAAAAAAAAAAAAAAAAAGr2uT9cmCuyC5vHkCtqQWJTyojF0cUBs2QFTjLapslB/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qrnIkTYFNEe8MJoo7H4eW9MYPS0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b0odEs/btsI7Gq5mSG/AAAAAAAAAAAAAAAAAAAAAGr2uT9cmCuyC5vHkCtqQWJTyojF0cUBs2QFTjLapslB/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=qrnIkTYFNEe8MJoo7H4eW9MYPS0%3D&quot;></span><figcaption>4. 센과 치히로의 행방불명 (Spirited Away)</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>4. 센과 치히로의 행방불명 (Spirited Away)</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -239,7 +239,7 @@ const post = {
     { type: 'image', src: '/images/post340_img9.jpg', alt: '4. 센과 치히로의 행방불명 (Spirited Away)', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;692&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;3. 그대들은 어떻게 살 것인가 (How Do You Live?)&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ceYQwC/btsI7ccXE6K/AAAAAAAAAAAAAAAAAAAAANwbjDhioRSdRteGbikkNTt8kWg68U7zf5_HrgiDYhio/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NeCPaF4EdASeekWQgi6okibcdZk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ceYQwC/btsI7ccXE6K/AAAAAAAAAAAAAAAAAAAAANwbjDhioRSdRteGbikkNTt8kWg68U7zf5_HrgiDYhio/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=NeCPaF4EdASeekWQgi6okibcdZk%3D&quot;></span><figcaption>3. 그대들은 어떻게 살 것인가 (How Do You Live?)</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>3. 그대들은 어떻게 살 것인가 (How Do You Live?)</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -266,7 +266,7 @@ const post = {
     { type: 'image', src: '/images/post340_img10.jpg', alt: '3. 그대들은 어떻게 살 것인가 (How Do You Live?)', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;616&quot; data-origin-width=&quot;1072&quot;><span data-alt=&quot;2. 마녀 배달부 키키 (Kiki\'s Delivery Service)&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/0gWUI/btsI836tTub/AAAAAAAAAAAAAAAAAAAAAMedeh_Szmtyxcum7HM6m6JhF5K4ciOaHmY4N3xGz-_g/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2D8MaEOmywkCzpxapQn1oc6O4XM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/0gWUI/btsI836tTub/AAAAAAAAAAAAAAAAAAAAAMedeh_Szmtyxcum7HM6m6JhF5K4ciOaHmY4N3xGz-_g/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=2D8MaEOmywkCzpxapQn1oc6O4XM%3D&quot;></span><figcaption>2. 마녀 배달부 키키 (Kiki\'s Delivery Service)</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>2. 마녀 배달부 키키 (Kiki\'s Delivery Service)</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -294,7 +294,7 @@ const post = {
     { type: 'image', src: '/images/post340_img11.jpg', alt: '2. 마녀 배달부 키키 (Kiki', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;764&quot; data-origin-width=&quot;1050&quot;><span data-alt=&quot;1. 추억은 방울방울 (Only Yesterday)&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bFWAxK/btsI7XsCgvN/AAAAAAAAAAAAAAAAAAAAABVbe6jOQOOOC3gcZi8ChkfkGC4Ce909R8GeHDrpskGR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ef%2F05jf3FfV7mjuTe9w1SJUFoB8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bFWAxK/btsI7XsCgvN/AAAAAAAAAAAAAAAAAAAAABVbe6jOQOOOC3gcZi8ChkfkGC4Ce909R8GeHDrpskGR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ef%2F05jf3FfV7mjuTe9w1SJUFoB8%3D&quot;></span><figcaption>1. 추억은 방울방울 (Only Yesterday)</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>1. 추억은 방울방울 (Only Yesterday)</figcaption> </figure> </p>'
     },
     {
       type: 'body',

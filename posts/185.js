@@ -52,7 +52,7 @@ const post = {
     { type: 'image', src: '/images/post185_img2.jpg', alt: '리바이벌 69', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;354&quot; data-origin-width=&quot;1117&quot;><span data-alt=&quot;리바이벌 69\' 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cdqhgW/btsKPez0yHY/AAAAAAAAAAAAAAAAAAAAAOgMv8K5t9LnGFRqHQlVxpyTCco4zY24Qtv0iGZl4t3B/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kD2KrdJxMTll36slTmY%2Flke5%2BeY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cdqhgW/btsKPez0yHY/AAAAAAAAAAAAAAAAAAAAAOgMv8K5t9LnGFRqHQlVxpyTCco4zY24Qtv0iGZl4t3B/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kD2KrdJxMTll36slTmY%2Flke5%2BeY%3D&quot;></span><figcaption>리바이벌 69\' 로튼 토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>리바이벌 69\' 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;974&quot; data-origin-width=&quot;974&quot;><span data-alt=&quot;인사이드 아웃 2 디즈니 플러스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/kOzAG/btsI5ME2lqm/AAAAAAAAAAAAAAAAAAAAAJ8d6ntNxyVMjSskJmQeVv7oR71bP5nSOuuBzuZxtbwA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PMWbLcUJt6OkHn3Ez3hwzBN4jBs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/kOzAG/btsI5ME2lqm/AAAAAAAAAAAAAAAAAAAAAJ8d6ntNxyVMjSskJmQeVv7oR71bP5nSOuuBzuZxtbwA/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PMWbLcUJt6OkHn3Ez3hwzBN4jBs%3D&quot;></span><figcaption>인사이드 아웃 2 디즈니 플러스</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>인사이드 아웃 2 디즈니 플러스</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -35,7 +35,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;718&quot; data-origin-width=&quot;1740&quot;><span data-alt=&quot;인사이드 아웃 2 디즈니 플러스&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Sg46n/btsI7n40lGp/AAAAAAAAAAAAAAAAAAAAANrmqWJQvI5l4WWJFkzefSsqZNgN1jn8KLmJTO0xeQtK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1rCKFftXxCAyYfcrAJFV1zzKKPc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Sg46n/btsI7n40lGp/AAAAAAAAAAAAAAAAAAAAANrmqWJQvI5l4WWJFkzefSsqZNgN1jn8KLmJTO0xeQtK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=1rCKFftXxCAyYfcrAJFV1zzKKPc%3D&quot;></span><figcaption>인사이드 아웃 2 디즈니 플러스</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>인사이드 아웃 2 디즈니 플러스</figcaption> </figure> </p>'
     },
     {
       type: 'body',

@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1116&quot; data-origin-width=&quot;1166&quot;><span data-alt=&quot;넷플릭스 인기 순위 추천 TOP 10&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/8SvuP/btsJDgFT5rZ/AAAAAAAAAAAAAAAAAAAAAPwYzqBLhYXwDmq8HdBkneUMnzJywRkzf7EmWsVuY1R4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TxiOCymVIH7P5xjlCY%2ByycqayQ8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/8SvuP/btsJDgFT5rZ/AAAAAAAAAAAAAAAAAAAAAPwYzqBLhYXwDmq8HdBkneUMnzJywRkzf7EmWsVuY1R4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=TxiOCymVIH7P5xjlCY%2ByycqayQ8%3D&quot;></span><figcaption>넷플릭스 인기 순위 추천 TOP 10</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 인기 순위 추천 TOP 10</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -155,7 +155,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1428&quot; data-origin-width=&quot;2172&quot;><span data-alt=&quot;파묘 넷플릭스 OTT 해외 평점 반응 리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/skq2a/btsJFv10YYi/AAAAAAAAAAAAAAAAAAAAANkzWk815ka0kAHCEqq6js5bmVuRLXIAyW7nkg0mtJDB/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vXA0SWtFUZ%2FBvAQbIzUFxPPzr60%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/skq2a/btsJFv10YYi/AAAAAAAAAAAAAAAAAAAAANkzWk815ka0kAHCEqq6js5bmVuRLXIAyW7nkg0mtJDB/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=vXA0SWtFUZ%2FBvAQbIzUFxPPzr60%3D&quot;></span><figcaption>파묘 넷플릭스 OTT 해외 평점 반응 리뷰</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>파묘 넷플릭스 OTT 해외 평점 반응 리뷰</figcaption> </figure> </p>'
     },
     {
       type: 'body',

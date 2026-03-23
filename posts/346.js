@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1096&quot; data-origin-width=&quot;2024&quot;><span data-alt=&quot;에일리언 로물루스 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/NjlD5/btsI5dWdYHb/AAAAAAAAAAAAAAAAAAAAAMJVb1mOBgimlmzE2ZuUjBdiv1N76NTBLUqtF5mvzH1z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JEJ95dfW5SZBIi%2FuoNNwt3lkcXc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/NjlD5/btsI5dWdYHb/AAAAAAAAAAAAAAAAAAAAAMJVb1mOBgimlmzE2ZuUjBdiv1N76NTBLUqtF5mvzH1z/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=JEJ95dfW5SZBIi%2FuoNNwt3lkcXc%3D&quot;></span><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -32,7 +32,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;494&quot; data-origin-width=&quot;1516&quot;><span data-alt=&quot;에일리언 로물루스 로튼 토마토 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b9bM9g/btsI4wWj0Ui/AAAAAAAAAAAAAAAAAAAAAB1P8CvDV1ysoSCWIeXSqVOpY391G7Tb-laFHvimbS6J/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=MMj9euQEXN%2B2TYVILrKd0ky8blM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b9bM9g/btsI4wWj0Ui/AAAAAAAAAAAAAAAAAAAAAB1P8CvDV1ysoSCWIeXSqVOpY391G7Tb-laFHvimbS6J/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=MMj9euQEXN%2B2TYVILrKd0ky8blM%3D&quot;></span><figcaption>에일리언 로물루스 로튼 토마토 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 로튼 토마토 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -56,7 +56,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;858&quot; data-origin-width=&quot;2024&quot;><span data-alt=&quot;에일리언 로물루스 IMDB 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/1kVf7/btsI6LYAKyc/AAAAAAAAAAAAAAAAAAAAAAKJVnghwZnvwqY7IewWxkvbJ9WZ-oOECxKl7rxeNLi6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=5HudHmrd%2FynhJT22yPvyiv%2BdGI4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/1kVf7/btsI6LYAKyc/AAAAAAAAAAAAAAAAAAAAAAKJVnghwZnvwqY7IewWxkvbJ9WZ-oOECxKl7rxeNLi6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=5HudHmrd%2FynhJT22yPvyiv%2BdGI4%3D&quot;></span><figcaption>에일리언 로물루스 IMDB 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 IMDB 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -76,7 +76,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1124&quot; data-origin-width=&quot;2024&quot;><span data-alt=&quot;에일리언 로물루스 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/NoVs9/btsI3ZY2tKH/AAAAAAAAAAAAAAAAAAAAAOyfzXyoKcRn6vn2A7uYp8B-xKO1EY6JgUYgFD1GDECZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=arjC%2FKnp0lkMY3r6sm%2FQjyiAGL4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/NoVs9/btsI3ZY2tKH/AAAAAAAAAAAAAAAAAAAAAOyfzXyoKcRn6vn2A7uYp8B-xKO1EY6JgUYgFD1GDECZ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=arjC%2FKnp0lkMY3r6sm%2FQjyiAGL4%3D&quot;></span><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -92,7 +92,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1096&quot; data-origin-width=&quot;2024&quot;><span data-alt=&quot;에일리언 로물루스 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/eR1jzR/btsI4ymkPZS/AAAAAAAAAAAAAAAAAAAAAF4jTNucFYPMUKB5JrBwzQTHJQTzYHIn4_VhUSQKm_Aj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Nt%2FPThsmbrR7M9ziHcpEPeSRQXw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/eR1jzR/btsI4ymkPZS/AAAAAAAAAAAAAAAAAAAAAF4jTNucFYPMUKB5JrBwzQTHJQTzYHIn4_VhUSQKm_Aj/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Nt%2FPThsmbrR7M9ziHcpEPeSRQXw%3D&quot;></span><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -116,7 +116,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1018&quot; data-origin-width=&quot;2024&quot;><span data-alt=&quot;에일리언 로물루스 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/nBXs2/btsI4wB1Z52/AAAAAAAAAAAAAAAAAAAAAEL6kTKomnsUsb9RNgq6XxTehXOZ1IcTGbqMCU5n3ger/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=btmzSozWqmO6%2BLLK7%2BgZjkmMV1Y%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/nBXs2/btsI4wB1Z52/AAAAAAAAAAAAAAAAAAAAAEL6kTKomnsUsb9RNgq6XxTehXOZ1IcTGbqMCU5n3ger/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=btmzSozWqmO6%2BLLK7%2BgZjkmMV1Y%3D&quot;></span><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -140,7 +140,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1018&quot; data-origin-width=&quot;2024&quot;><span data-alt=&quot;에일리언 로물루스 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/3Ggc6/btsI6vPfQ7M/AAAAAAAAAAAAAAAAAAAAAKDFB63zMMdq-v8EmNx4cfV4TUJw21HSOpHdMruf4A4D/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=eYD1N8YkJv2Oe58nnmVKCuP8384%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/3Ggc6/btsI6vPfQ7M/AAAAAAAAAAAAAAAAAAAAAKDFB63zMMdq-v8EmNx4cfV4TUJw21HSOpHdMruf4A4D/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=eYD1N8YkJv2Oe58nnmVKCuP8384%3D&quot;></span><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -160,7 +160,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1096&quot; data-origin-width=&quot;2024&quot;><span data-alt=&quot;에일리언 로물루스 평론가 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/TRPqL/btsI5w88jNV/AAAAAAAAAAAAAAAAAAAAAEE3Dpj9ua7ejW1ph2QkpX4YkoLpPwmVDQtGBg_Xz3Di/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kTJaLJyvlb9kBc5Zi2Y5LKtOZtE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/TRPqL/btsI5w88jNV/AAAAAAAAAAAAAAAAAAAAAEE3Dpj9ua7ejW1ph2QkpX4YkoLpPwmVDQtGBg_Xz3Di/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=kTJaLJyvlb9kBc5Zi2Y5LKtOZtE%3D&quot;></span><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',

@@ -52,7 +52,7 @@ const post = {
     { type: 'image', src: '/images/post181_img2.jpg', alt: '더 크로우 ( The Crow ) 영화 관람평 포토 정보 결말 후기 뜻 의미 해석 <평론가 관객 엇갈린 평가>', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;542&quot; data-origin-width=&quot;1856&quot;><span data-alt=&quot;더 크로우 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/BSaYc/btsKSGaEUuz/AAAAAAAAAAAAAAAAAAAAABv6O7n0QJLPMgj5_0TnkQqWWlxX5eQbLjewMrD-DXcO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DejYWlj3Y6Zj0mkt6n5Xo1UGrFY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/BSaYc/btsKSGaEUuz/AAAAAAAAAAAAAAAAAAAAABv6O7n0QJLPMgj5_0TnkQqWWlxX5eQbLjewMrD-DXcO/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DejYWlj3Y6Zj0mkt6n5Xo1UGrFY%3D&quot;></span><figcaption>더 크로우 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>더 크로우 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

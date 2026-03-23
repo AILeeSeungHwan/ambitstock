@@ -54,7 +54,7 @@ const post = {
     { type: 'image', src: '/images/post129_img2.jpg', alt: '해리 포터와 죽음의 성물 2 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;536&quot; data-origin-width=&quot;1722&quot;><span data-alt=&quot;해리 포터와 죽음의 성물 2 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dVQ8p2/btsLz4cfocy/AAAAAAAAAAAAAAAAAAAAAB-EgP__ASbsmBikN8jwYZAWB2UNKHYC0OIKWN6HxVXi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jHy7L2IrWY0omnGEohrglc0RRDU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dVQ8p2/btsLz4cfocy/AAAAAAAAAAAAAAAAAAAAAB-EgP__ASbsmBikN8jwYZAWB2UNKHYC0OIKWN6HxVXi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jHy7L2IrWY0omnGEohrglc0RRDU%3D&quot;></span><figcaption>해리 포터와 죽음의 성물 2 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>해리 포터와 죽음의 성물 2 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-origin-height=&quot;962&quot; data-origin-width=&quot;1716&quot;><span data-alt=&quot;로튼 토마토 스픽 노 이블 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cpePY8/btsJxWAop7U/AAAAAAAAAAAAAAAAAAAAAG8pu0OqAQynTQp-5g7-Ol7R322SEFALYzXs7a-cgu96/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=53lFG2AWTiy8hzusHqpzLvV3V2c%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cpePY8/btsJxWAop7U/AAAAAAAAAAAAAAAAAAAAAG8pu0OqAQynTQp-5g7-Ol7R322SEFALYzXs7a-cgu96/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=53lFG2AWTiy8hzusHqpzLvV3V2c%3D&quot;></span><figcaption>로튼 토마토 스픽 노 이블 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>로튼 토마토 스픽 노 이블 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

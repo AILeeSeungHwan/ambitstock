@@ -32,7 +32,7 @@ const post = {
     { type: 'image', src: '/images/post132_img1.jpg', alt: '영화 노스페라투', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;572&quot; data-origin-width=&quot;1730&quot;><span data-alt=&quot;노스페라투 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bBWDo5/btsLCtOGdmZ/AAAAAAAAAAAAAAAAAAAAAK8clref9WF37S072vSsstzR-qAkMmxvQ8oqU4bahTQf/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7uMn9CV%2BsTKPNjdDVxR6M2v6N4o%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bBWDo5/btsLCtOGdmZ/AAAAAAAAAAAAAAAAAAAAAK8clref9WF37S072vSsstzR-qAkMmxvQ8oqU4bahTQf/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7uMn9CV%2BsTKPNjdDVxR6M2v6N4o%3D&quot;></span><figcaption>노스페라투 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>노스페라투 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

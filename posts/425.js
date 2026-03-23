@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1012&quot; data-origin-width=&quot;1250&quot;><span data-alt=&quot;드라마 스캔들 한채영 (문정인)&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cOCJs6/btsH4AZ3PR8/AAAAAAAAAAAAAAAAAAAAACMmOYqRQyzIhnfUd9g_FYoIPm1gEM4YqV4as1TcaMf4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PvDH0YXEhkl6Ur29vzgEi7lACBk%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cOCJs6/btsH4AZ3PR8/AAAAAAAAAAAAAAAAAAAAACMmOYqRQyzIhnfUd9g_FYoIPm1gEM4YqV4as1TcaMf4/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=PvDH0YXEhkl6Ur29vzgEi7lACBk%3D&quot;></span><figcaption>드라마 스캔들 한채영 (문정인)</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>드라마 스캔들 한채영 (문정인)</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -43,7 +43,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;978&quot; data-origin-width=&quot;1326&quot;><span data-alt=&quot;드라마 스캔들 민주련과 서진호&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bzHXuH/btsH4J3ERPW/AAAAAAAAAAAAAAAAAAAAACuB9c0ZWFwGCfhVcckjrB-msjL4CchTXgpG9ksOrvqq/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=V%2BUuitOVtgPy1TvEAe5xOXNVILQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bzHXuH/btsH4J3ERPW/AAAAAAAAAAAAAAAAAAAAACuB9c0ZWFwGCfhVcckjrB-msjL4CchTXgpG9ksOrvqq/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=V%2BUuitOVtgPy1TvEAe5xOXNVILQ%3D&quot;></span><figcaption>드라마 스캔들 민주련과 서진호</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>드라마 스캔들 민주련과 서진호</figcaption> </figure> </p>'
     },
     {
       type: 'body',

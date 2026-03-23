@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;>천만관객영화 암살 타짜의 최동훈감독의 외계인 2부가 개봉하였습니다. 외계인 2부 개봉 전 걱정과는 다르게, 개봉 첫날 반응은 <span style=&quot;color: inherit;&quot;><b>8.7/10 평점으로, 외계인 1부의 6.84점보다 월등히 높은 평점</b></span>을 기록중입니다. 잠시동안이지만 오전엔 9점대의 평점도 기록하며 좋은 성적을 내고 있는 중입니다. 외계인 1부는 국내에선 혹평이지만 해외에선 상당히 좋은 평을 받았습니다.</span></span></p><p style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;color: #666666;&quot;>영화 외계인 1부 해외 반응 및 평점, 손익분기점이 궁금하신 분들! 이곳에서 확인해보세요!</span></p><p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;2부포스터-김태리.JPG&quot; data-origin-height=&quot;406&quot; data-origin-width=&quot;738&quot;><span data-alt=&quot;영화 외계인 2부 배우 김태리&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/vo1Nw/btsDhBbacPU/AAAAAAAAAAAAAAAAAAAAANVGuUGjCDQ7fxlnM4Z8TubCYa2GOE9A-6YS3Ghf0T77/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CrWFoIjJlbSUFfMBvJg%2FW4k8lfE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/vo1Nw/btsDhBbacPU/AAAAAAAAAAAAAAAAAAAAANVGuUGjCDQ7fxlnM4Z8TubCYa2GOE9A-6YS3Ghf0T77/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=CrWFoIjJlbSUFfMBvJg%2FW4k8lfE%3D&quot;></span><figcaption>영화 외계인 2부 배우 김태리</figcaption> </figure> </p>'
+      html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;>천만관객영화 암살 타짜의 최동훈감독의 외계인 2부가 개봉하였습니다. 외계인 2부 개봉 전 걱정과는 다르게, 개봉 첫날 반응은 <span style=&quot;color: inherit;&quot;><b>8.7/10 평점으로, 외계인 1부의 6.84점보다 월등히 높은 평점</b></span>을 기록중입니다. 잠시동안이지만 오전엔 9점대의 평점도 기록하며 좋은 성적을 내고 있는 중입니다. 외계인 1부는 국내에선 혹평이지만 해외에선 상당히 좋은 평을 받았습니다.</span></span></p><p style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;color: #666666;&quot;>영화 외계인 1부 해외 반응 및 평점, 손익분기점이 궁금하신 분들! 이곳에서 확인해보세요!</span></p><p><figure data-filename=&quot;2부포스터-김태리.JPG&quot;><figcaption>영화 외계인 2부 배우 김태리</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;2부포스터-류준열.JPG&quot; data-origin-height=&quot;403&quot; data-origin-width=&quot;740&quot;><span data-alt=&quot;영화 외계인 2부 배우 류준열&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bmoB0B/btsDfmFC0A3/AAAAAAAAAAAAAAAAAAAAAHJhW5EyXm0-lirLNLt2IQkf7HGBRWZA8Z_WvN7XhDDO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7zHctQw5TH8CizulfM8RzD8DQQg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bmoB0B/btsDfmFC0A3/AAAAAAAAAAAAAAAAAAAAAHJhW5EyXm0-lirLNLt2IQkf7HGBRWZA8Z_WvN7XhDDO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7zHctQw5TH8CizulfM8RzD8DQQg%3D&quot;></span><figcaption>영화 외계인 2부 배우 류준열</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;2부포스터-류준열.JPG&quot;><figcaption>영화 외계인 2부 배우 류준열</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -27,7 +27,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-filename=&quot;도사2인방.JPG&quot; data-origin-height=&quot;295&quot; data-origin-width=&quot;581&quot;><span data-alt=&quot;영화 외계인2부 개그콤비 도사2인방&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/UAMLG/btsDfXyMX7g/AAAAAAAAAAAAAAAAAAAAAN90G7CeWh6r52vL7xYCOlqQOVzlNMYJnFyGRCDsd5DY/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nKDv%2Bi6g%2FycTIaIUDEmvFbwNneM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/UAMLG/btsDfXyMX7g/AAAAAAAAAAAAAAAAAAAAAN90G7CeWh6r52vL7xYCOlqQOVzlNMYJnFyGRCDsd5DY/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=nKDv%2Bi6g%2FycTIaIUDEmvFbwNneM%3D&quot;></span><figcaption>영화 외계인2부 개그콤비 도사2인방</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;도사2인방.JPG&quot;><figcaption>영화 외계인2부 개그콤비 도사2인방</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -51,11 +51,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;외계인2 무대인사1.jpg&quot; data-origin-height=&quot;1084&quot; data-origin-width=&quot;1093&quot;><span data-alt=&quot;영화 외계인 2부 1주차 무대인사 일정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/c1n38J/btsDh80ZleT/AAAAAAAAAAAAAAAAAAAAAOR2oG2K-eoifK8yN6_-J4NabhN50pYdeoRluBciJnka/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cqgLCfLcKX1dBq3EQO%2FlfNyLH5g%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/c1n38J/btsDh80ZleT/AAAAAAAAAAAAAAAAAAAAAOR2oG2K-eoifK8yN6_-J4NabhN50pYdeoRluBciJnka/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=cqgLCfLcKX1dBq3EQO%2FlfNyLH5g%3D&quot;></span><figcaption>영화 외계인 2부 1주차 무대인사 일정</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;외계인2 무대인사1.jpg&quot;><figcaption>영화 외계인 2부 1주차 무대인사 일정</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock alignCenter&quot; data-filename=&quot;외계인2 무대인사2.jpg&quot; data-origin-height=&quot;1086&quot; data-origin-width=&quot;1093&quot;><span data-alt=&quot;영화 외계인 2부 2주차 무대인사 일정&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cVO5lp/btsDhAcgbMD/AAAAAAAAAAAAAAAAAAAAAAAozfBJHNvfrrIJND63Dbh1ajr-ZilrpFlAoYliMjsV/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=51D3YjVPe%2BFYFiDA9cJxs5NfPGw%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cVO5lp/btsDhAcgbMD/AAAAAAAAAAAAAAAAAAAAAAAozfBJHNvfrrIJND63Dbh1ajr-ZilrpFlAoYliMjsV/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=51D3YjVPe%2BFYFiDA9cJxs5NfPGw%3D&quot;></span><figcaption>영화 외계인 2부 2주차 무대인사 일정</figcaption> </figure> </p>'
+      html: '<p><figure data-filename=&quot;외계인2 무대인사2.jpg&quot;><figcaption>영화 외계인 2부 2주차 무대인사 일정</figcaption> </figure> </p>'
     },
     {
       type: 'body',

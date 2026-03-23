@@ -102,7 +102,7 @@ const post = {
     { type: 'image', src: '/images/post164_img3.jpg', alt: '시빌워 분열의 시대 로튼 토마토 평론가 평점', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;343&quot; data-origin-width=&quot;1118&quot;><span data-alt=&quot;시빌워 분열의 시대 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/UgXCK/btsK2Y3lTDR/AAAAAAAAAAAAAAAAAAAAAH6su1IwbhoHeustisYX0G1_5YOHZtLryLKMgGhjLDq6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LhYPlacY28yJDb2zZYU5ocs6oig%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/UgXCK/btsK2Y3lTDR/AAAAAAAAAAAAAAAAAAAAAH6su1IwbhoHeustisYX0G1_5YOHZtLryLKMgGhjLDq6/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LhYPlacY28yJDb2zZYU5ocs6oig%3D&quot;></span><figcaption>시빌워 분열의 시대 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>시빌워 분열의 시대 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

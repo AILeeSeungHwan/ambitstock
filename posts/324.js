@@ -12,7 +12,7 @@ const post = {
     { type: 'body', html: "<p>이 드라마에서 정해인의 연기력과 매력을 인정받기 시작함.</p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>손예진과 함께 출연하며 현실적인 로맨스를 그린 작품. </b></span></p>" },
     { type: 'body', html: "<p>이 드라마를 통해 정해인은 톱스타 반열에 오르게 되었고, '멜로 장인'이라는 수식어를 얻음.</p>" },
-    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;778&quot; data-origin-width=&quot;1026&quot;><span data-alt=&quot;밥 잘 사주는 예쁜 누나 정해인&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bM8EG6/btsJiNXhlgx/AAAAAAAAAAAAAAAAAAAAAPgnMZMcFCpcvViKVGvevKo4trA0_vvUQJUrgBi2Uuqt/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FD%2BcWZ8t5wXn0Y%2BF44WPQ56KGhA%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bM8EG6/btsJiNXhlgx/AAAAAAAAAAAAAAAAAAAAAPgnMZMcFCpcvViKVGvevKo4trA0_vvUQJUrgBi2Uuqt/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=FD%2BcWZ8t5wXn0Y%2BF44WPQ56KGhA%3D&quot;></span><figcaption>밥 잘 사주는 예쁜 누나 정해인</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>밥 잘 사주는 예쁜 누나 정해인</figcaption> </figure> </p>" },
     { type: 'body', html: "<p>한지민과 호흡을 맞추며 싱글파파 유지호 역을 맡아 성숙한 감정 연기를 선보임.</p>" },
     { type: 'body', html: "<p>이 작품은 정해인의 연기 스펙트럼을 넓히는 계기가 됨.</p>" },
     { type: 'body', html: "<p>군무이탈체포조의 안준호 역을 맡아 깊이 있는 연기와 사회적 메시지를 담은 연출로 큰 사랑을 받음.</p>" },

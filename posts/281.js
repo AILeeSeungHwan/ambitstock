@@ -27,7 +27,7 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>아쉽게도 배트맨 : 다크 나이트의 조커를 기대하셨다면 실망하실 수 밖에 없습니다.</p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>이전 소제목의 폴리 아 되 뜻 포스팅을 보고 오셨다면 그 의미를 아실 겁니다. 결국 악한 자, 혹은 약한 자가 주변 환경에 어떠한 영향을 미치는지, 그렇게 할리퀸이 어떻게 탄생하는 지를 위주로 영화는 진행됩니다.</p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>개인적으로 오랜 시간동안 조커 2를 기다렸던 팬 입장에서 아쉽게 부분입니다.</p>" },
-    { type: 'body', html: "<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1396&quot; data-origin-width=&quot;1772&quot;><span data-alt=&quot;조커 2 호아킨 피닉스 레이디 가가&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ctTzpp/btsJIlzM3Gz/AAAAAAAAAAAAAAAAAAAAAHGF57ZBwgt8qBo6mPflVZFBD7iCa_OR4d95kR3716we/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oCr5x9ICOy%2F3ma6by0Fi6AzXkj4%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ctTzpp/btsJIlzM3Gz/AAAAAAAAAAAAAAAAAAAAAHGF57ZBwgt8qBo6mPflVZFBD7iCa_OR4d95kR3716we/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=oCr5x9ICOy%2F3ma6by0Fi6AzXkj4%3D&quot;></span><figcaption>조커 2 호아킨 피닉스 레이디 가가</figcaption> </figure> </p>" },
+    { type: 'body', html: "<p><figure><figcaption>조커 2 호아킨 피닉스 레이디 가가</figcaption> </figure> </p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>이미 많은 분들이 아실겁니다. 조커 : 폴리 아 되는 뮤지컬 영화입니다.</b></span></p>" },
     { type: 'body', html: "<p>그렇기에 호불호가 갈릴 것으로 예상이 됩니다.</p>" },
     { type: 'body', html: "<p>실제로 해외 평론가들 사이에서도 뮤지컬 영화라는 이유로 낮은 평점을 준 평론가들도 많습니다.</p>" },

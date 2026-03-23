@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;722&quot; data-origin-width=&quot;1439&quot;><span data-alt=&quot;넷플릭스 영화 레블리지 후기 결말리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/to9qP/btsJvoQamqD/AAAAAAAAAAAAAAAAAAAAADJtF4AqezjOLET6mh1DL6K3enItUYqTIWfkky47uwNE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QdeqUv6XGnsC%2B47j0ZVdkqbdamM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/to9qP/btsJvoQamqD/AAAAAAAAAAAAAAAAAAAAADJtF4AqezjOLET6mh1DL6K3enItUYqTIWfkky47uwNE/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QdeqUv6XGnsC%2B47j0ZVdkqbdamM%3D&quot;></span><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -51,7 +51,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;722&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;넷플릭스 영화 레블리지 후기 결말리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bgMBmE/btsJurf0SfW/AAAAAAAAAAAAAAAAAAAAAJVmWRO-aqfdC6g4Unwmn0WvYop_jVSrSIYOGEl5HPgN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pJO1qYkXFiHx%2FxFEJwd7nPivXck%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bgMBmE/btsJurf0SfW/AAAAAAAAAAAAAAAAAAAAAJVmWRO-aqfdC6g4Unwmn0WvYop_jVSrSIYOGEl5HPgN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pJO1qYkXFiHx%2FxFEJwd7nPivXck%3D&quot;></span><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -79,7 +79,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;720&quot; data-origin-width=&quot;486&quot;><span data-alt=&quot;넷플릭스 영화 레블리지 후기 결말리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/dwxOl0/btsJueOSfrw/AAAAAAAAAAAAAAAAAAAAACythCd9ckDlDE_K3a8ulwaR4J3k22qHf6eWoxkz3utc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Pa478jNPPsLrZG%2BZvZ7VeU82qqM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/dwxOl0/btsJueOSfrw/AAAAAAAAAAAAAAAAAAAAACythCd9ckDlDE_K3a8ulwaR4J3k22qHf6eWoxkz3utc/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Pa478jNPPsLrZG%2BZvZ7VeU82qqM%3D&quot;></span><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -111,7 +111,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;826&quot; data-origin-width=&quot;1144&quot;><span data-alt=&quot;넷플릭스 영화 레블리지 후기 결말리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/KviHn/btsJuRkWLmA/AAAAAAAAAAAAAAAAAAAAAGO4qSADE70MlMCawOW3l8sg8fmqD8hZb5pOmk0YpOFG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K3j%2FjwGfo6Zd4oFwJrJUjbuZw9w%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/KviHn/btsJuRkWLmA/AAAAAAAAAAAAAAAAAAAAAGO4qSADE70MlMCawOW3l8sg8fmqD8hZb5pOmk0YpOFG/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=K3j%2FjwGfo6Zd4oFwJrJUjbuZw9w%3D&quot;></span><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -139,7 +139,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;813&quot; data-origin-width=&quot;664&quot;><span data-alt=&quot;넷플릭스 영화 레블리지 후기 결말리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bA53wr/btsJusF2F45/AAAAAAAAAAAAAAAAAAAAAOWmTK9IMLQRM5CC5Oca2HxbzDyZi24IVPEEJtnsiTqD/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=821ewhviOIpX1cxyPzh5thwlJrM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bA53wr/btsJusF2F45/AAAAAAAAAAAAAAAAAAAAAOWmTK9IMLQRM5CC5Oca2HxbzDyZi24IVPEEJtnsiTqD/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=821ewhviOIpX1cxyPzh5thwlJrM%3D&quot;></span><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 영화 레블리지 후기 결말리뷰</figcaption> </figure> </p>'
     },
     {
       type: 'body',

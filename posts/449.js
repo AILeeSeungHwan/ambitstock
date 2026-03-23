@@ -51,7 +51,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;654&quot; data-origin-width=&quot;520&quot;><span data-alt=&quot;넷플릭스 애니메이션 나 혼자만 레벨업&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/IpG4R/btsD3aRpjEl/AAAAAAAAAAAAAAAAAAAAAPZ9uGba_CF7KdCOla4KSDIqfXBLNR3BHQvnb3VuyY-7/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rS%2Fd7%2BKbU9tbQpmxHlgRG7C4fBI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/IpG4R/btsD3aRpjEl/AAAAAAAAAAAAAAAAAAAAAPZ9uGba_CF7KdCOla4KSDIqfXBLNR3BHQvnb3VuyY-7/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rS%2Fd7%2BKbU9tbQpmxHlgRG7C4fBI%3D&quot;></span><figcaption>넷플릭스 애니메이션 나 혼자만 레벨업</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>넷플릭스 애니메이션 나 혼자만 레벨업</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -75,7 +75,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;617&quot; data-origin-width=&quot;826&quot;><span data-alt=&quot;IMDB 나 혼자만 레벨업 평점 분포&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/sWFcI/btsD4lkjAgC/AAAAAAAAAAAAAAAAAAAAAJXEJv4h_rR8buOqMdZJ7qTyqhHmyulnwpr_IuzzVoEq/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lddGo1Rt83y2QcQZ94vGCS4bTa0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/sWFcI/btsD4lkjAgC/AAAAAAAAAAAAAAAAAAAAAJXEJv4h_rR8buOqMdZJ7qTyqhHmyulnwpr_IuzzVoEq/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=lddGo1Rt83y2QcQZ94vGCS4bTa0%3D&quot;></span><figcaption>IMDB 나 혼자만 레벨업 평점 분포</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 나 혼자만 레벨업 평점 분포</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -83,7 +83,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;486&quot; data-origin-width=&quot;1031&quot;><span data-alt=&quot;Filmarks 나 혼자만 레벨업 일본 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/b4oih9/btsD3ajyDqK/AAAAAAAAAAAAAAAAAAAAAAIb8IFnaMh88_T5W-nGCTp0rk2dGQ8J_tyZ1qa6m7kD/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=fOYeM4TrGDX1Y0biBqUsWwxcqs0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/b4oih9/btsD3ajyDqK/AAAAAAAAAAAAAAAAAAAAAAIb8IFnaMh88_T5W-nGCTp0rk2dGQ8J_tyZ1qa6m7kD/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=fOYeM4TrGDX1Y0biBqUsWwxcqs0%3D&quot;></span><figcaption>Filmarks 나 혼자만 레벨업 일본 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>Filmarks 나 혼자만 레벨업 일본 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

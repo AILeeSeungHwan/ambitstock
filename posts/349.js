@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;988&quot; data-origin-width=&quot;986&quot;><span data-alt=&quot;CGV 할인 통신사 혜택 총정리&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/D07PV/btsI5hpKUBT/AAAAAAAAAAAAAAAAAAAAAJVhvcYahgVYbXjc4A4LoRcu-iF77fG4kCpJjCDAobq3/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=97xac07Oe5Z%2FVjLApUxZOGo3BwQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/D07PV/btsI5hpKUBT/AAAAAAAAAAAAAAAAAAAAAJVhvcYahgVYbXjc4A4LoRcu-iF77fG4kCpJjCDAobq3/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=97xac07Oe5Z%2FVjLApUxZOGo3BwQ%3D&quot;></span><figcaption>CGV 할인 통신사 혜택 총정리</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>CGV 할인 통신사 혜택 총정리</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -31,7 +31,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;814&quot; data-origin-width=&quot;902&quot;><span data-alt=&quot;CGV 할인 SKT 멤버십 혜택&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bC4xm5/btsI3cKnNEv/AAAAAAAAAAAAAAAAAAAAAAjdUdSnXDTaYzXRD9O_7t9Y3tmr05K3jlqtKW3ZhWTp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mePV%2FkLQBTn3ZSSpG8FMuZzdI2I%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bC4xm5/btsI3cKnNEv/AAAAAAAAAAAAAAAAAAAAAAjdUdSnXDTaYzXRD9O_7t9Y3tmr05K3jlqtKW3ZhWTp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=mePV%2FkLQBTn3ZSSpG8FMuZzdI2I%3D&quot;></span><figcaption>CGV 할인 SKT 멤버십 혜택</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>CGV 할인 SKT 멤버십 혜택</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -71,7 +71,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;786&quot; data-origin-width=&quot;822&quot;><span data-alt=&quot;CGV 할인 KT 멤버십 혜택&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/HKOF2/btsI40u2su4/AAAAAAAAAAAAAAAAAAAAAF9maiKasDBilgGuBoahO8a2zYRfiHPUED_AcYc66RAt/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QwoL4WI6Ujk38TAUtd1yswgZTFI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/HKOF2/btsI40u2su4/AAAAAAAAAAAAAAAAAAAAAF9maiKasDBilgGuBoahO8a2zYRfiHPUED_AcYc66RAt/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=QwoL4WI6Ujk38TAUtd1yswgZTFI%3D&quot;></span><figcaption>CGV 할인 KT 멤버십 혜택</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>CGV 할인 KT 멤버십 혜택</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -83,7 +83,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1016&quot; data-origin-width=&quot;1026&quot;><span data-alt=&quot;CGV-할인-LG-U+-멤버십-혜택&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/JJDEc/btsI2HqpPDy/AAAAAAAAAAAAAAAAAAAAANyGZaL3ooY6oDAlhDDQk0oP-MR5k91BKvRQ3XR7-CGp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=5%2FLJRqzVOi7iM%2FzONIUyVJe0npg%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/JJDEc/btsI2HqpPDy/AAAAAAAAAAAAAAAAAAAAANyGZaL3ooY6oDAlhDDQk0oP-MR5k91BKvRQ3XR7-CGp/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=5%2FLJRqzVOi7iM%2FzONIUyVJe0npg%3D&quot;></span><figcaption>CGV-할인-LG-U+-멤버십-혜택</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>CGV-할인-LG-U+-멤버십-혜택</figcaption> </figure> </p>'
     },
     {
       type: 'body',

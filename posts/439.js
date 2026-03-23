@@ -31,7 +31,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;356&quot; data-origin-width=&quot;945&quot;><span data-alt=&quot;로튼토마토 이상한 변호사 우영우&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/sejh6/btsEEFQW3LE/AAAAAAAAAAAAAAAAAAAAAOuN51E0sC-Du4eQNdtWjUo-nI3WkSbFlLCLzD5094HV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jCHr4EYp46Q%2BWOxJlNULskDbtFs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/sejh6/btsEEFQW3LE/AAAAAAAAAAAAAAAAAAAAAOuN51E0sC-Du4eQNdtWjUo-nI3WkSbFlLCLzD5094HV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=jCHr4EYp46Q%2BWOxJlNULskDbtFs%3D&quot;></span><figcaption>로튼토마토 이상한 변호사 우영우</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>로튼토마토 이상한 변호사 우영우</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -115,7 +115,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;541&quot; data-origin-width=&quot;1264&quot;><span data-alt=&quot;IMDB 이상한 변호사 우영우&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bwyEWk/btsED20djws/AAAAAAAAAAAAAAAAAAAAAAgfxS8q8o8YYwJjVePKuxzPr4VQU4GpOfrN_vLcFJ3V/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q8Ljw%2Fv8aBlb5lSAZQyDn0AVcn0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bwyEWk/btsED20djws/AAAAAAAAAAAAAAAAAAAAAAgfxS8q8o8YYwJjVePKuxzPr4VQU4GpOfrN_vLcFJ3V/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Q8Ljw%2Fv8aBlb5lSAZQyDn0AVcn0%3D&quot;></span><figcaption>IMDB 이상한 변호사 우영우</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 이상한 변호사 우영우</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -131,7 +131,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;616&quot; data-origin-width=&quot;848&quot;><span data-alt=&quot;IMDB 이상한 변호사 우영우&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/oCY2P/btsED5CwaQu/AAAAAAAAAAAAAAAAAAAAAD6moz7XAsnoMUjHHLRVz_0spWfLIqNOwEoOfXACXUgM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=l3Re3cuiycv6ruR%2B7ftvPnDcG6A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/oCY2P/btsED5CwaQu/AAAAAAAAAAAAAAAAAAAAAD6moz7XAsnoMUjHHLRVz_0spWfLIqNOwEoOfXACXUgM/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=l3Re3cuiycv6ruR%2B7ftvPnDcG6A%3D&quot;></span><figcaption>IMDB 이상한 변호사 우영우</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>IMDB 이상한 변호사 우영우</figcaption> </figure> </p>'
     },
     {
       type: 'body',

@@ -19,7 +19,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;926&quot; data-origin-width=&quot;1338&quot;><span data-alt=&quot;인셉션 로튼 토마토 평론가 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/lgF4l/btsJyuI78uF/AAAAAAAAAAAAAAAAAAAAAJws2coBBnuOIYXsUUyj5UBcTOuQaTSHURYGfrpea6xn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=t66Up3Mdc3w%2BdVlWUcgvdPSiq3c%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/lgF4l/btsJyuI78uF/AAAAAAAAAAAAAAAAAAAAAJws2coBBnuOIYXsUUyj5UBcTOuQaTSHURYGfrpea6xn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=t66Up3Mdc3w%2BdVlWUcgvdPSiq3c%3D&quot;></span><figcaption>인셉션 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>인셉션 로튼 토마토 평론가 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

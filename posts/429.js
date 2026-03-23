@@ -227,7 +227,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;734&quot; data-origin-width=&quot;688&quot;><span data-alt=&quot;영화 인사이드 아웃 2 굿즈&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/yJvwE/btsH0idKqHS/AAAAAAAAAAAAAAAAAAAAAHootRSytfoEvwXFNy9hFTez5YKL7on7axI7rZm-oUHy/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=X8IwjmlkXGtKcqUTg%2FErHqPVDGM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/yJvwE/btsH0idKqHS/AAAAAAAAAAAAAAAAAAAAAHootRSytfoEvwXFNy9hFTez5YKL7on7axI7rZm-oUHy/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=X8IwjmlkXGtKcqUTg%2FErHqPVDGM%3D&quot;></span><figcaption>영화 인사이드 아웃 2 굿즈</figcaption> </figure> <figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;729&quot; data-origin-width=&quot;494&quot;><span data-alt=&quot;영화 인사이드 아웃 2 굿즈&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bTMY37/btsHZSzRNSX/AAAAAAAAAAAAAAAAAAAAAIh-oNhS10B--ZqPBwtkzbqKuKjfXuQn7oYP5kf9elvd/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pTQkbSeXQzd1J3LxPn%2FRc8VvTfc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bTMY37/btsHZSzRNSX/AAAAAAAAAAAAAAAAAAAAAIh-oNhS10B--ZqPBwtkzbqKuKjfXuQn7oYP5kf9elvd/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=pTQkbSeXQzd1J3LxPn%2FRc8VvTfc%3D&quot;></span><figcaption>영화 인사이드 아웃 2 굿즈</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 인사이드 아웃 2 굿즈</figcaption> </figure> <figure><figcaption>영화 인사이드 아웃 2 굿즈</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -241,7 +241,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;585&quot; data-origin-width=&quot;1158&quot;><span data-alt=&quot;영화 인사이드 아웃1 OTT 보는곳&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/d87RY9/btsHZIKUuUo/AAAAAAAAAAAAAAAAAAAAAGNkArL-RSQYtYSMgIAWcHJTJqF1l8VqLS6Zmxr6ITQw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Eq44AP%2BDA%2FJMiImSaKf%2BqG3PLkI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/d87RY9/btsHZIKUuUo/AAAAAAAAAAAAAAAAAAAAAGNkArL-RSQYtYSMgIAWcHJTJqF1l8VqLS6Zmxr6ITQw/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Eq44AP%2BDA%2FJMiImSaKf%2BqG3PLkI%3D&quot;></span><figcaption>영화 인사이드 아웃1 OTT 보는곳</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 인사이드 아웃1 OTT 보는곳</figcaption> </figure> </p>'
     },
     { type: 'image', src: '/images/post429_img9.jpg', alt: '영화 인사이드 아웃1 OTT 보는곳', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post429_img8.jpg', alt: '영화 인사이드 아웃 2 굿즈', caption: 'ⓒ R의 필름공장' },

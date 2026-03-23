@@ -163,7 +163,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;743&quot; data-origin-width=&quot;665&quot;><span data-alt=&quot;AI가 그린 닥터둠 로다주 - 출처 익스트림 무비&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/k2gpE/btsI1DNcDHF/AAAAAAAAAAAAAAAAAAAAAM3q-XLc7xUwCqwLLWD7C-rBW_n_jlRm54ruh1kJSexD/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ihPIZXAmt4B1y8eIPN1A9Y0j04A%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/k2gpE/btsI1DNcDHF/AAAAAAAAAAAAAAAAAAAAAM3q-XLc7xUwCqwLLWD7C-rBW_n_jlRm54ruh1kJSexD/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=ihPIZXAmt4B1y8eIPN1A9Y0j04A%3D&quot;></span><figcaption>AI가 그린 닥터둠 로다주 - 출처 익스트림 무비</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>AI가 그린 닥터둠 로다주 - 출처 익스트림 무비</figcaption> </figure> </p>'
     },
     {
       type: 'body',

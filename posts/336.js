@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1148&quot; data-origin-width=&quot;956&quot;><span data-alt=&quot;드라마 폭군 해외 평점 후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bGfkNA/btsJb45cGpR/AAAAAAAAAAAAAAAAAAAAADsD_dDwWMPoRmWa290HKISP_D9UsLHXActGCTHbHCQg/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=e94oqDQvlZdQy6TrOzq2qdgUWQs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bGfkNA/btsJb45cGpR/AAAAAAAAAAAAAAAAAAAAADsD_dDwWMPoRmWa290HKISP_D9UsLHXActGCTHbHCQg/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=e94oqDQvlZdQy6TrOzq2qdgUWQs%3D&quot;></span><figcaption>드라마 폭군 해외 평점 후기반응</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>드라마 폭군 해외 평점 후기반응</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -63,7 +63,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1254&quot; data-origin-width=&quot;2136&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 해외 후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/0rg84/btsJbIVFY7k/AAAAAAAAAAAAAAAAAAAAAMv8t6BFAXbxzulB6gTh65DJRcjLXEy3FLlQee0of6oN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DUHeOnCOA1hUEA2OtDkNLK8E01M%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/0rg84/btsJbIVFY7k/AAAAAAAAAAAAAAAAAAAAAMv8t6BFAXbxzulB6gTh65DJRcjLXEy3FLlQee0of6oN/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=DUHeOnCOA1hUEA2OtDkNLK8E01M%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 해외 후기반응</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>디즈니 플러스 드라마 폭군 해외 후기반응</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -83,7 +83,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1254&quot; data-origin-width=&quot;2136&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 해외 후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/I3Nk5/btsJa12H9dw/AAAAAAAAAAAAAAAAAAAAAHEIz0Nxi-UnsMz0Jci6RLKzVXp6QhtHFUvlCzhm6OIK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KZd7ZDZeLVDZRHPyGPLii%2FbB2wo%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/I3Nk5/btsJa12H9dw/AAAAAAAAAAAAAAAAAAAAAHEIz0Nxi-UnsMz0Jci6RLKzVXp6QhtHFUvlCzhm6OIK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=KZd7ZDZeLVDZRHPyGPLii%2FbB2wo%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 해외 후기반응</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>디즈니 플러스 드라마 폭군 해외 후기반응</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -103,7 +103,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1254&quot; data-origin-width=&quot;2136&quot;><span data-alt=&quot;디즈니 플러스 드라마 폭군 해외 후기반응&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wMzGv/btsJatk56SX/AAAAAAAAAAAAAAAAAAAAAMasi5RFraj3Q1kx-ipceNMp1j406S_XTN77TilvbNxs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=BVYJWAXB5E4zB137zjuuGAU2CbE%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wMzGv/btsJatk56SX/AAAAAAAAAAAAAAAAAAAAAMasi5RFraj3Q1kx-ipceNMp1j406S_XTN77TilvbNxs/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=BVYJWAXB5E4zB137zjuuGAU2CbE%3D&quot;></span><figcaption>디즈니 플러스 드라마 폭군 해외 후기반응</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>디즈니 플러스 드라마 폭군 해외 후기반응</figcaption> </figure> </p>'
     },
     {
       type: 'body',

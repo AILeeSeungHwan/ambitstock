@@ -19,11 +19,11 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;694&quot; data-origin-width=&quot;493&quot;><span data-alt=&quot;미녀와 순미녀와 순정남 주요 등장인물정남 등장인물&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/Xpd6B/btsH92tv6AD/AAAAAAAAAAAAAAAAAAAAAOqc9TkDGxF_91hSSVY1f8aU-jG0kSaq7LjYr1gP8fag/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rDp6lhYPpINP2%2BziyJPusDkOYX8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/Xpd6B/btsH92tv6AD/AAAAAAAAAAAAAAAAAAAAAOqc9TkDGxF_91hSSVY1f8aU-jG0kSaq7LjYr1gP8fag/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=rDp6lhYPpINP2%2BziyJPusDkOYX8%3D&quot;></span><figcaption>미녀와 순미녀와 순정남 주요 등장인물정남 등장인물</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>미녀와 순미녀와 순정남 주요 등장인물정남 등장인물</figcaption> </figure> </p>'
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;625&quot; data-origin-width=&quot;620&quot;><span data-alt=&quot;미녀와 순정남 주요 등장인물관계도&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/blOhSN/btsH8TxDAS5/AAAAAAAAAAAAAAAAAAAAAMrwaQL4KSwFK9WCpAQexgpy4x2dKxB1Jsgwj1zPeygi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uWVLpAY09urmunO%2B9FLFi3Xrjno%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/blOhSN/btsH8TxDAS5/AAAAAAAAAAAAAAAAAAAAAMrwaQL4KSwFK9WCpAQexgpy4x2dKxB1Jsgwj1zPeygi/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=uWVLpAY09urmunO%2B9FLFi3Xrjno%3D&quot;></span><figcaption>미녀와 순정남 주요 등장인물관계도</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>미녀와 순정남 주요 등장인물관계도</figcaption> </figure> </p>'
     },
     {
       type: 'body',

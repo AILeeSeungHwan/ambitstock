@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>2025년 9월, 드라마 장르의 기대작 <b>리 밀러: 카메라를 든 여자</b>가 개봉을 앞두고 있습니다.</p><p>패션 모델에서 세계적인 전쟁 사진작가로 변모한 실존 인물 리 밀러의 삶을 다룬 이 작품은, <b>케이트 윈슬렛</b>이 주연을 맡아 더욱 큰 관심을 모으고 있습니다. 영국과 미국을 배경으로 한 이 영화는 전쟁의 참상을 기록한 밀러의 삶과 용기를 그리며, 알려지지 않았던 여성 사진작가의 이야기를 처음으로 스크린에 올렸습니다.</p><p>영화 개봉을 앞두고 <b>해외 평론가 리뷰</b>와 <b>관객들의 관람평</b>이 속속 나오고 있는데요. 작품에 대한 다양한 시각을 모아봤습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;460&quot; data-origin-width=&quot;692&quot;><span data-alt=&quot;영화 리 밀러: 카메라를 든 여자&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/clr6RK/btsQFNCcDFo/AAAAAAAAAAAAAAAAAAAAADel17sCziYbF9dme5FxQIp-brDRPLEjtdSI4_7hXczO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=quRHZQjZj23%2BHEs6J6Si4%2Fpttxs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/clr6RK/btsQFNCcDFo/AAAAAAAAAAAAAAAAAAAAADel17sCziYbF9dme5FxQIp-brDRPLEjtdSI4_7hXczO/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=quRHZQjZj23%2BHEs6J6Si4%2Fpttxs%3D&quot;></span><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
+      html: '<p>2025년 9월, 드라마 장르의 기대작 <b>리 밀러: 카메라를 든 여자</b>가 개봉을 앞두고 있습니다.</p><p>패션 모델에서 세계적인 전쟁 사진작가로 변모한 실존 인물 리 밀러의 삶을 다룬 이 작품은, <b>케이트 윈슬렛</b>이 주연을 맡아 더욱 큰 관심을 모으고 있습니다. 영국과 미국을 배경으로 한 이 영화는 전쟁의 참상을 기록한 밀러의 삶과 용기를 그리며, 알려지지 않았던 여성 사진작가의 이야기를 처음으로 스크린에 올렸습니다.</p><p>영화 개봉을 앞두고 <b>해외 평론가 리뷰</b>와 <b>관객들의 관람평</b>이 속속 나오고 있는데요. 작품에 대한 다양한 시각을 모아봤습니다.</p><p><figure><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -26,7 +26,7 @@ const post = {
     { type: 'image', src: '/images/post73_img1.jpg', alt: '영화 리 밀러: 카메라를 든 여자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;681&quot; data-origin-width=&quot;1002&quot;><span data-alt=&quot;영화 리 밀러: 카메라를 든 여자&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/2gJEb/btsQFovRAxn/AAAAAAAAAAAAAAAAAAAAACYuvrmh1HwU3ycOvAcVAyD0PGIOL3vK8k-FWzmSdFJ7/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=30r5wkHFh2KqzJtbGtWbim1uiS0%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/2gJEb/btsQFovRAxn/AAAAAAAAAAAAAAAAAAAAACYuvrmh1HwU3ycOvAcVAyD0PGIOL3vK8k-FWzmSdFJ7/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=30r5wkHFh2KqzJtbGtWbim1uiS0%3D&quot;></span><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
     },
     {
       type: 'h2',
@@ -41,7 +41,7 @@ const post = {
     { type: 'image', src: '/images/post73_img2.jpg', alt: '영화 리 밀러: 카메라를 든 여자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;460&quot; data-origin-width=&quot;692&quot;><span data-alt=&quot;영화 리 밀러: 카메라를 든 여자&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bBPAdV/btsQGSCK7Nm/AAAAAAAAAAAAAAAAAAAAAHK-UdzXJNEa9Rg9l0DLbzWPoj9brEmqddhPKymlJF_3/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ecm86rY9Bwq%2FvpTLZrAIgQvPueU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bBPAdV/btsQGSCK7Nm/AAAAAAAAAAAAAAAAAAAAAHK-UdzXJNEa9Rg9l0DLbzWPoj9brEmqddhPKymlJF_3/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=Ecm86rY9Bwq%2FvpTLZrAIgQvPueU%3D&quot;></span><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -64,7 +64,7 @@ const post = {
     { type: 'image', src: '/images/post73_img3.jpg', alt: '영화 리 밀러: 카메라를 든 여자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;460&quot; data-origin-width=&quot;692&quot;><span data-alt=&quot;영화 리 밀러: 카메라를 든 여자&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/yes5x/btsQEK7jMfS/AAAAAAAAAAAAAAAAAAAAAC8qkt2zdiSQY-3vNs3A0A2JOke4K8GS5UfFQwiOkYjj/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8fz6IaarzriFb8kBBy%2FGU5zVCEU%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/yes5x/btsQEK7jMfS/AAAAAAAAAAAAAAAAAAAAAC8qkt2zdiSQY-3vNs3A0A2JOke4K8GS5UfFQwiOkYjj/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=8fz6IaarzriFb8kBBy%2FGU5zVCEU%3D&quot;></span><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -72,7 +72,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;460&quot; data-origin-width=&quot;692&quot;><span data-alt=&quot;영화 리 밀러: 카메라를 든 여자&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/IF0jJ/btsQD4ZgwaV/AAAAAAAAAAAAAAAAAAAAANRmr30N8PBOEB76ID2QEBQslHsDDziT-1rNyToodej4/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WApQ2lmdQHmrpM9VK2muJ7%2FfPWI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/IF0jJ/btsQD4ZgwaV/AAAAAAAAAAAAAAAAAAAAANRmr30N8PBOEB76ID2QEBQslHsDDziT-1rNyToodej4/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=WApQ2lmdQHmrpM9VK2muJ7%2FfPWI%3D&quot;></span><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -88,7 +88,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;460&quot; data-origin-width=&quot;692&quot;><span data-alt=&quot;영화 리 밀러: 카메라를 든 여자&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bVojBv/btsQEqnnb2T/AAAAAAAAAAAAAAAAAAAAAEBnilTJCtvBYKCjuUWxPQEGod1qXqHzUpVX5_4GVuoM/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=imh2K3taVKSr9pRTpS038kKU9Ek%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bVojBv/btsQEqnnb2T/AAAAAAAAAAAAAAAAAAAAAEBnilTJCtvBYKCjuUWxPQEGod1qXqHzUpVX5_4GVuoM/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=imh2K3taVKSr9pRTpS038kKU9Ek%3D&quot;></span><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -107,7 +107,7 @@ const post = {
     { type: 'image', src: '/images/post73_img4.jpg', alt: '영화 리 밀러: 카메라를 든 여자', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;460&quot; data-origin-width=&quot;692&quot;><span data-alt=&quot;영화 리 밀러: 카메라를 든 여자&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bFHchF/btsQFYReR4n/AAAAAAAAAAAAAAAAAAAAABDNMRoNQgBXcUkEXRrB03gp3_p_NeU19gU92j2MamiP/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=coj5mAWkOGwmUBE0rPkOec969kM%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bFHchF/btsQFYReR4n/AAAAAAAAAAAAAAAAAAAAABDNMRoNQgBXcUkEXRrB03gp3_p_NeU19gU92j2MamiP/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=coj5mAWkOGwmUBE0rPkOec969kM%3D&quot;></span><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>영화 리 밀러: 카메라를 든 여자</figcaption> </figure> </p>'
     },
     {
       type: 'body',

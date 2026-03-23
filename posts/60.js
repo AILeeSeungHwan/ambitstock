@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>영화와 드라마를 볼 때 OTT 선택은 필수지만, 요즘은 가격 차이와 혜택 차이가 정말 큽니다. 2025년 현재 OTT 서비스들은 광고형 요금제, 통신사 제휴, 카드 할인 등을 다양하게 내놓고 있어요.</p><p>한 달에 2~3개 OTT를 동시에 쓰는 분들도 많지만, 조금만 비교해도 연간 10만 원 이상 절약할 수 있습니다.</p><p>오늘은 <b>가격·할인 혜택 중심</b>으로 2025년 OTT 추천 순위를 뽑아봤습니다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;853&quot; data-origin-width=&quot;1280&quot;><span data-alt=&quot;2025 OTT 추천 점유율 순위&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cbdowm/btsQ4jNRJ1y/AAAAAAAAAAAAAAAAAAAAAEDsa6xx2lEVTlBrjjY3fO9zDgO3r6C3cFePmAOaIcKU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LnX1XzZS5wNuRNptJGZMZ66f214%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cbdowm/btsQ4jNRJ1y/AAAAAAAAAAAAAAAAAAAAAEDsa6xx2lEVTlBrjjY3fO9zDgO3r6C3cFePmAOaIcKU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LnX1XzZS5wNuRNptJGZMZ66f214%3D&quot;></span><figcaption>2025 OTT 추천 점유율 순위</figcaption> </figure> </p>'
+      html: '<p>영화와 드라마를 볼 때 OTT 선택은 필수지만, 요즘은 가격 차이와 혜택 차이가 정말 큽니다. 2025년 현재 OTT 서비스들은 광고형 요금제, 통신사 제휴, 카드 할인 등을 다양하게 내놓고 있어요.</p><p>한 달에 2~3개 OTT를 동시에 쓰는 분들도 많지만, 조금만 비교해도 연간 10만 원 이상 절약할 수 있습니다.</p><p>오늘은 <b>가격·할인 혜택 중심</b>으로 2025년 OTT 추천 순위를 뽑아봤습니다.</p><p><figure><figcaption>2025 OTT 추천 점유율 순위</figcaption> </figure> </p>'
     },
     {
       type: 'image',

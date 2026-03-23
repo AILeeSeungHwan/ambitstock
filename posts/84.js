@@ -3,7 +3,7 @@ const post = {
   sections: [
     {
       type: 'intro',
-      html: '<p>지브리 애니메이션 중에서도 많은 사람들의 기억에 남는 작품이 바로 <b>모노노케 히메</b>다. 한국에서는 <b>원령공주</b>라는 제목으로 알려져 있는데, 여기서 “모노노케”라는 말이 주는 낯선 울림 때문에 더 궁금해하는 사람들이 많다.</p><p>일본 고어(古語)에서 <b>모노노케(もののけ)</b>는 사람을 해치거나 괴롭히는 초자연적 존재를 뜻한다. 단순히 귀신이나 요괴만이 아니라, 원한 맺힌 혼령, 신령 같은 것도 모두 포함한다. 여기에 <b>히메(姫)</b>, 즉 공주가 붙어서 ‘모노노케 히메 = 원령공주’라는 제목이 된 것이다.</p><p>작품 속에서 이 ‘공주’는 바로 <b>산(サン)</b>이다. 인간이지만 늑대신에게 길러져 인간 사회와는 담을 쌓고, 숲의 신들과 함께 살아가는 존재. 그래서 그녀는 인간과 자연 사이의 경계에 선 인물로, 제목 그대로 “원령공주”라 불리게 된다.</p><p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;769&quot; data-origin-width=&quot;531&quot;><span data-alt=&quot;모노노케 히메 뜻 결말 해석 리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/cGjN44/btsQqnju4yu/AAAAAAAAAAAAAAAAAAAAABSlJnQkTHuheG85GUMF_a9-xM96jMM65ENFbQoU8GIX/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=J%2BOQWOroDo5%2FTWi0CA%2FZIk6RJXI%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/cGjN44/btsQqnju4yu/AAAAAAAAAAAAAAAAAAAAABSlJnQkTHuheG85GUMF_a9-xM96jMM65ENFbQoU8GIX/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=J%2BOQWOroDo5%2FTWi0CA%2FZIk6RJXI%3D&quot;></span><figcaption>모노노케 히메 뜻 결말 해석 리뷰</figcaption> </figure> </p>'
+      html: '<p>지브리 애니메이션 중에서도 많은 사람들의 기억에 남는 작품이 바로 <b>모노노케 히메</b>다. 한국에서는 <b>원령공주</b>라는 제목으로 알려져 있는데, 여기서 “모노노케”라는 말이 주는 낯선 울림 때문에 더 궁금해하는 사람들이 많다.</p><p>일본 고어(古語)에서 <b>모노노케(もののけ)</b>는 사람을 해치거나 괴롭히는 초자연적 존재를 뜻한다. 단순히 귀신이나 요괴만이 아니라, 원한 맺힌 혼령, 신령 같은 것도 모두 포함한다. 여기에 <b>히메(姫)</b>, 즉 공주가 붙어서 ‘모노노케 히메 = 원령공주’라는 제목이 된 것이다.</p><p>작품 속에서 이 ‘공주’는 바로 <b>산(サン)</b>이다. 인간이지만 늑대신에게 길러져 인간 사회와는 담을 쌓고, 숲의 신들과 함께 살아가는 존재. 그래서 그녀는 인간과 자연 사이의 경계에 선 인물로, 제목 그대로 “원령공주”라 불리게 된다.</p><p><figure><figcaption>모노노케 히메 뜻 결말 해석 리뷰</figcaption> </figure> </p>'
     },
     {
       type: 'image',
@@ -34,7 +34,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;481&quot; data-origin-width=&quot;858&quot;><span data-alt=&quot;모노노케 히메 뜻 결말 해석 리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/m74MB/btsQrxZ4G2z/AAAAAAAAAAAAAAAAAAAAAGHiZt-IEbS0rTY-b4JH_TWhVpOLCMT6m1EvYJvByLde/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FI4OgRCM2hfp9NeJ0hIPCegKbh8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/m74MB/btsQrxZ4G2z/AAAAAAAAAAAAAAAAAAAAAGHiZt-IEbS0rTY-b4JH_TWhVpOLCMT6m1EvYJvByLde/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=%2FI4OgRCM2hfp9NeJ0hIPCegKbh8%3D&quot;></span><figcaption>모노노케 히메 뜻 결말 해석 리뷰</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>모노노케 히메 뜻 결말 해석 리뷰</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -42,7 +42,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;665&quot; data-origin-width=&quot;779&quot;><span data-alt=&quot;모노노케 히메 뜻 결말 해석 리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bSVDwM/btsQqAJKRlU/AAAAAAAAAAAAAAAAAAAAAOC5SH6in5In6vg4MUBdOrNyqHtyspxTNfM7gREgQMqR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7W5LEvIrn5RF1LC2J9jnAdza1I8%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bSVDwM/btsQqAJKRlU/AAAAAAAAAAAAAAAAAAAAAOC5SH6in5In6vg4MUBdOrNyqHtyspxTNfM7gREgQMqR/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=7W5LEvIrn5RF1LC2J9jnAdza1I8%3D&quot;></span><figcaption>모노노케 히메 뜻 결말 해석 리뷰</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>모노노케 히메 뜻 결말 해석 리뷰</figcaption> </figure> </p>'
     },
     {
       type: 'h2',
@@ -73,7 +73,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;362&quot; data-origin-width=&quot;530&quot;><span data-alt=&quot;모노노케 히메 뜻 결말 해석 리뷰&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/CaCrG/btsQroPzVqw/AAAAAAAAAAAAAAAAAAAAAETguNVsmp3KA_W_mHxs2SpYbQDyjSB1HXFTDcb11PKV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=bFoLBevBzKQxpii%2FUtPN3OV1bLQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/CaCrG/btsQroPzVqw/AAAAAAAAAAAAAAAAAAAAAETguNVsmp3KA_W_mHxs2SpYbQDyjSB1HXFTDcb11PKV/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=bFoLBevBzKQxpii%2FUtPN3OV1bLQ%3D&quot;></span><figcaption>모노노케 히메 뜻 결말 해석 리뷰</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>모노노케 히메 뜻 결말 해석 리뷰</figcaption> </figure> </p>'
     },
     {
       type: 'body',

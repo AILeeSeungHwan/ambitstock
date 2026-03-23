@@ -15,7 +15,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1368&quot; data-origin-width=&quot;936&quot;><span data-alt=&quot;탈출: 프로젝트 사일런스 해외 결말 후기&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/wnwcx/btsIEvB6JSV/AAAAAAAAAAAAAAAAAAAAAP-TwxhnJv7DONEEVSPykig7gBfVlqp7TIUQ0Ms67FQI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=waBkVSLzfdtfqvO0sl%2B837frZjQ%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/wnwcx/btsIEvB6JSV/AAAAAAAAAAAAAAAAAAAAAP-TwxhnJv7DONEEVSPykig7gBfVlqp7TIUQ0Ms67FQI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=waBkVSLzfdtfqvO0sl%2B837frZjQ%3D&quot;></span><figcaption>탈출: 프로젝트 사일런스 해외 결말 후기</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>탈출: 프로젝트 사일런스 해외 결말 후기</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -23,7 +23,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;492&quot; data-origin-width=&quot;1498&quot;><span data-alt=&quot;탈출: 프로젝트 사일런스 해외 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/bh4HpJ/btsIEKTtHJ9/AAAAAAAAAAAAAAAAAAAAAFFd9yFJacgq6ZInKCIKa06vuuZJuq3sQqJ7NBG4glol/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tf05gy0qw1JDMPJn9AS0%2FaINUTs%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/bh4HpJ/btsIEKTtHJ9/AAAAAAAAAAAAAAAAAAAAAFFd9yFJacgq6ZInKCIKa06vuuZJuq3sQqJ7NBG4glol/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tf05gy0qw1JDMPJn9AS0%2FaINUTs%3D&quot;></span><figcaption>탈출: 프로젝트 사일런스 해외 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>탈출: 프로젝트 사일런스 해외 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',
@@ -39,7 +39,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;890&quot; data-origin-width=&quot;2034&quot;><span data-alt=&quot;탈출: 프로젝트 사일런스 해외 평점&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/ebkXFi/btsICVa393V/AAAAAAAAAAAAAAAAAAAAACcfZ83e5lGDB2wxTWfiAIf2MZaWi3E4boy-U_BFee51/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LfspjAB9NV6coxZZZXNsgo5mB%2BY%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/ebkXFi/btsICVa393V/AAAAAAAAAAAAAAAAAAAAACcfZ83e5lGDB2wxTWfiAIf2MZaWi3E4boy-U_BFee51/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=LfspjAB9NV6coxZZZXNsgo5mB%2BY%3D&quot;></span><figcaption>탈출: 프로젝트 사일런스 해외 평점</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>탈출: 프로젝트 사일런스 해외 평점</figcaption> </figure> </p>'
     },
     {
       type: 'body',

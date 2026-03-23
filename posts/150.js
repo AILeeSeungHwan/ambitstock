@@ -128,7 +128,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><figure class=&quot;imageblock widthContent&quot; data-origin-height=&quot;1556&quot; data-origin-width=&quot;1002&quot;><span data-alt=&quot;미키 17 봉준호 로버트 패틴슨&quot; data-phocus=&quot;https://blog.kakaocdn.net/dna/d9hWcC/btsLpiokzDq/AAAAAAAAAAAAAAAAAAAAAB0WP4GEOfT4xaAYYhZZiKzrqLj_srdQHVj5ZqpzRCWm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tuRoVBopU%2Bnq8dqJecZrq3Hmvkc%3D&quot; data-url=&quot;https://blog.kakaocdn.net/dna/d9hWcC/btsLpiokzDq/AAAAAAAAAAAAAAAAAAAAAB0WP4GEOfT4xaAYYhZZiKzrqLj_srdQHVj5ZqpzRCWm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&amp;expires=1774969199&amp;allow_ip=&amp;allow_referer=&amp;signature=tuRoVBopU%2Bnq8dqJecZrq3Hmvkc%3D&quot;></span><figcaption>미키 17 봉준호 로버트 패틴슨</figcaption> </figure> </p>'
+      html: '<p><figure><figcaption>미키 17 봉준호 로버트 패틴슨</figcaption> </figure> </p>'
     },
     {
       type: 'h2',
