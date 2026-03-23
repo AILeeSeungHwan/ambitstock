@@ -197,7 +197,7 @@ const post = {
     },
     {
       type: 'body',
-      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b> 5위는 해리포터와 마법사의 돌입니다. </b></span></p>'
+      html: '<p><span style=&quot;background-color: #f3c000;&quot;><b> 5위는 해리포터와 비밀의 방입니다. </b></span></p>'
     },
     { type: 'image', src: '/images/post192_img5.jpg', alt: '해리포터 시리즈 인기 순위 추천', caption: 'ⓒ R의 필름공장' },
     {
