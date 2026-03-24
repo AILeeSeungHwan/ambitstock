@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a1b9a"/>
+      <stop offset="100%" style="stop-color:#1565c0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="60" font-weight="700" fill="#ffffff">월간남친 vs 세이렌</text>
+  <text x="600" y="290" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="36" fill="#e1bee7">3월 드라마 양대산맥</text>
+  <text x="600" y="360" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="30" fill="#bbdefb">로맨틱 코미디 vs 미스터리 스릴러</text>
+  <text x="600" y="440" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="26" fill="rgba(255,255,255,0.7)">취향별 선택 가이드</text>
+  <text x="600" y="570" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="20" fill="rgba(255,255,255,0.5)">ambitstock.com</text>
+</svg>

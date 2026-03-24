@@ -1,5 +1,16 @@
 const posts = [
   {
+    id: 576,
+    slug: 'monthly-boyfriend-vs-siren-drama-comparison-2026-march',
+    title: '월간남친 vs 세이렌 — 3월 드라마 양대산맥, 로코 4700만 시청 vs 스릴러 동시간대 1위 취향별 선택 가이드',
+    description: '넷플릭스 월간남친과 tvN 세이렌 비교 분석. 글로벌 4700만 시청시간 로맨틱 코미디 vs 6회 연속 동시간대 1위 미스터리 스릴러. 캐스팅·장르·시청 방식·취향별 추천 가이드.',
+    category: '드라마',
+    date: '2026-03-24',
+    tags: ['비교', '월간남친', '세이렌', '지수', '서인국', '박민영', '위하준', '넷플릭스', 'tvN', '2026봄드라마'],
+    thumbnail: '/images/post576_thumb.svg',
+    relatedSlugs: ['netflix-monthly-boyfriend-jisoo-global-no1-review-2026', 'siren-tvn-plot-twist-analysis-7ep-mystery-2026', 'spring-2026-kdrama-ratings-war-shin-irang-siren-analysis', 'march-2026-kdrama-lineup-netflix-tving-coupang-guide']
+  },
+  {
     id: 575,
     slug: 'king-and-man-vs-humint-box-office-comparison-2026',
     title: '왕과 사는 남자 vs 휴민트 — 같은 설 연휴, 1444만 vs 197만 흥행 격차의 이유',
