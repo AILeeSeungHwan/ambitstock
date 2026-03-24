@@ -1,5 +1,16 @@
 const posts = [
   {
+    id: 577,
+    slug: 'phantom-lawyer-shin-irang-overseas-reaction-imdb-mydl-2026',
+    title: '신이랑 법률사무소 해외반응 — IMDB 8.4, 이탈리아 영화제 초청, 유연석 빙의 연기에 해외 팬 열광',
+    description: '신이랑 법률사무소 해외반응 총정리. IMDB 8.4, MyDramaList 8.1, 넷플릭스 글로벌 비영어권 7위. 우디네극동영화제 한국드라마 최초 초청. Soompi·Dramabeans·allkpop 리뷰 핵심 정리.',
+    category: '해외반응후기',
+    date: '2026-03-24',
+    tags: ['해외반응', '신이랑법률사무소', '유연석', '이솜', 'IMDB', 'MyDramaList', '넷플릭스', '우디네극동영화제', 'K드라마'],
+    thumbnail: '/images/post577_thumb.svg',
+    relatedSlugs: ['with-god-shin-irang-law-office-yoo-yeonseok-review-2026', 'spring-2026-kdrama-ratings-war-shin-irang-siren-analysis', 'netflix-global-top10-march-4th-week-2026-kcontent', 'monthly-boyfriend-vs-siren-drama-comparison-2026-march']
+  },
+  {
     id: 576,
     slug: 'monthly-boyfriend-vs-siren-drama-comparison-2026-march',
     title: '월간남친 vs 세이렌 — 3월 드라마 양대산맥, 로코 4700만 시청 vs 스릴러 동시간대 1위 취향별 선택 가이드',
