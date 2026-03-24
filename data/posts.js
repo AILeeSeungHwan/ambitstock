@@ -1,5 +1,16 @@
 const posts = [
   {
+    id: 575,
+    slug: 'king-and-man-vs-humint-box-office-comparison-2026',
+    title: '왕과 사는 남자 vs 휴민트 — 같은 설 연휴, 1444만 vs 197만 흥행 격차의 이유',
+    description: '2026년 설 연휴 개봉 왕과 사는 남자와 휴민트 비교 분석. 1444만 vs 197만 관객수, 로튼토마토 96% vs 씨네21 7.17, 개봉 전략·관객층·장르 차이. 취향별 추천 가이드.',
+    category: '영화추천',
+    date: '2026-03-24',
+    tags: ['비교', '왕과사는남자', '휴민트', '박스오피스', '유해진', '조인성', '흥행분석', '2026영화'],
+    thumbnail: '/images/post575_king_poster.jpg',
+    relatedSlugs: ['king-and-the-man-1444-million-box-office-review-2026', 'humint-spy-action-review-joinsung-parkjungmin-2026', 'king-and-man-ending-meaning-danjong-eomheungdo-2026', 'spring-2026-theater-movie-top5-must-watch']
+  },
+  {
     id: 574,
     slug: 'spring-2026-kdrama-ratings-war-shin-irang-siren-analysis',
     title: '2026 봄 드라마 시청률 전쟁 — 신이랑 11.3% vs 세이렌 vs 건물주되는법, 3월 넷째주 결산',
