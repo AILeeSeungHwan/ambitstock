@@ -1,5 +1,27 @@
 const posts = [
   {
+    id: 579,
+    slug: '2026-box-office-hit-formula-king-man-1500-million',
+    title: '2026 천만 관객 영화의 흥행 공식 — 왕사남 1,500만이 증명한 5가지 법칙과 다음 천만 후보',
+    description: '왕과 사는 남자 1,500만 돌파로 본 천만 영화 흥행 공식 5가지. 입소문 역주행, 세대 확장, 스크린 독점, 극장 경험, 배우 신뢰 — 다음 천만 후보 전망까지.',
+    category: '영화추천',
+    date: '2026-03-25',
+    tags: ['트렌드', '천만영화', '왕과사는남자', '흥행분석', '박스오피스', '한국영화', '극장영화', '2026영화'],
+    thumbnail: '/images/post579_thumb.svg',
+    relatedSlugs: ['king-man-1500-million-alltime-revenue-no1-2026', 'king-and-man-ending-meaning-danjong-eomheungdo-2026', 'project-hail-mary-box-office-opening-trend-2026', 'spring-2026-theater-top5-sf-thriller-drama']
+  },
+  {
+    id: 578,
+    slug: 'king-man-1500-million-alltime-revenue-no1-2026',
+    title: '왕과 사는 남자 1,500만 돌파 — 역대 매출 1위·관객 3위, 명량 넘을 수 있을까',
+    description: '왕과 사는 남자 1,500만 관객 돌파. 누적 매출 1,425억 역대 1위, 관객 역대 3위. 명량 1,761만·극한직업 1,626만 추격전의 현실적 전망과 추천 가이드.',
+    category: '영화추천',
+    date: '2026-03-25',
+    tags: ['트렌드', '왕과사는남자', '1500만', '역대흥행', '명량', '박스오피스', '한국영화', '유해진'],
+    thumbnail: '/images/post578_thumb.svg',
+    relatedSlugs: ['king-and-the-man-1444-million-box-office-review-2026', 'king-and-man-ending-meaning-danjong-eomheungdo-2026', 'king-man-overseas-north-america-box-office-2026', 'king-and-man-vs-humint-box-office-comparison-2026']
+  },
+  {
     id: 577,
     slug: 'phantom-lawyer-shin-irang-overseas-reaction-imdb-mydl-2026',
     title: '신이랑 법률사무소 해외반응 — IMDB 8.4, 이탈리아 영화제 초청, 유연석 빙의 연기에 해외 팬 열광',

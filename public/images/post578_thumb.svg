@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#e50914"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-weight="900" font-size="72" fill="#ffffff">왕과 사는 남자</text>
+  <text x="600" y="310" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-weight="700" font-size="52" fill="#FFD700">1,500만 관객 돌파</text>
+  <text x="600" y="400" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-weight="500" font-size="36" fill="rgba(255,255,255,0.85)">역대 매출 1위 · 관객 3위</text>
+  <text x="600" y="460" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-weight="500" font-size="30" fill="rgba(255,255,255,0.6)">명량 넘을 수 있을까</text>
+  <text x="600" y="570" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-weight="400" font-size="20" fill="rgba(255,255,255,0.4)">ambitstock.com · 2026.03.25</text>
+</svg>
