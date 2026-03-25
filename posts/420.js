@@ -309,7 +309,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 26.948%</b></span></p>'
     },
-    { type: 'image', src: '/images/post420_img9.jpg', alt: '드라마 스카이 캐슬', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post420_img10.jpg', alt: '드라마 스카이 캐슬', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
@@ -345,7 +345,7 @@ const post = {
       html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000; font-family: \'Noto Serif KR\';&quot;><b>시청률 28.371%</b></span></p>'
     },
     { type: 'image', src: '/images/post420_img11.jpg', alt: '드라마 부부의 세계', caption: 'ⓒ R의 필름공장' },
-    { type: 'image', src: '/images/post420_img10.jpg', alt: '드라마 재벌집 막내아들', caption: 'ⓒ R의 필름공장' },
+    
     {
       type: 'body',
       html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>설명</b></span></p>'
