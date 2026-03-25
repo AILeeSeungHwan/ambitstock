@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e50914"/>
+      <stop offset="100%" style="stop-color:#b71c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="64" font-weight="bold">왕과 사는 남자</text>
+  <text x="600" y="290" text-anchor="middle" fill="#FFCDD2" font-family="sans-serif" font-size="48" font-weight="bold">역대 흥행 3위 · 매출 1위</text>
+  <text x="600" y="370" text-anchor="middle" fill="#FFD54F" font-family="sans-serif" font-size="38">1,500만 관객 · 1,425억 매출</text>
+  <text x="600" y="440" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="sans-serif" font-size="28">명량 넘을 수 있을까?</text>
+  <text x="600" y="570" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="sans-serif" font-size="20">ambitstock.com</text>
+</svg>

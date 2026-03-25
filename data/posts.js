@@ -1,5 +1,27 @@
 const posts = [
   {
+    id: 584,
+    slug: 'king-and-man-alltime-3rd-revenue-record-myeongryang-chase-2026',
+    title: '왕과 사는 남자 역대 흥행 3위 · 매출 1위 등극 — 1,500만 돌파, 명량 넘을 수 있을까',
+    description: '왕과 사는 남자 역대 흥행 3위 등극, 매출 1,425억 역대 1위 신기록. 역주행 곡선, 관객수 vs 매출 격차 분석, 명량 추월 가능성과 한국 영화 시장 시그널.',
+    category: '영화추천',
+    date: '2026-03-26',
+    tags: ['트렌드', '왕과사는남자', '흥행', '역대순위', '매출1위', '명량', '극한직업', '박스오피스'],
+    thumbnail: '/images/post584_thumb.svg',
+    relatedSlugs: ['2026-box-office-hit-formula-king-man-1500-million', 'spring-2026-theater-upcoming-movies-top5', 'mission-impossible-final-reckoning-review-2026', 'project-hail-mary-qa-interpretation-guide-2026']
+  },
+  {
+    id: 583,
+    slug: '21st-century-grand-princess-iu-byeonwooseok-disneyplus-april-2026',
+    title: '21세기 대군부인 사전 가이드 — 아이유 × 변우석 디즈니+ 4월 10일, 입헌군주제 로맨스 기대 포인트',
+    description: '21세기 대군부인 디즈니플러스 4월 10일 공개. 아이유·변우석 주연, 입헌군주제 로맨스, 전 에피소드 동시 공개 전략. 캐스팅·세계관·시청 포인트 사전 가이드.',
+    category: '드라마',
+    date: '2026-03-26',
+    tags: ['트렌드', '21세기대군부인', '아이유', '변우석', '디즈니플러스', '로맨스', 'K드라마', '4월신작'],
+    thumbnail: '/images/post583_thumb.svg',
+    relatedSlugs: ['netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex', 'euphoria-season3-coupangplay-april-2026-guide', 'monthly-boyfriend-vs-siren-drama-comparison-2026-march', 'spring-2026-kdrama-ratings-war-shin-irang-siren-analysis']
+  },
+  {
     id: 582,
     slug: 'peaky-blinders-series-complete-guide-watch-order-2026',
     title: '피키 블라인더스 시리즈 완벽 가이드 — 시즌1~6 + 불멸의 남자 영화, 입문 시청순서와 필수편 총정리',
