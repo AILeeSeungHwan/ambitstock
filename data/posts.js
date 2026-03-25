@@ -1,5 +1,16 @@
 const posts = [
   {
+    id: 582,
+    slug: 'peaky-blinders-series-complete-guide-watch-order-2026',
+    title: '피키 블라인더스 시리즈 완벽 가이드 — 시즌1~6 + 불멸의 남자 영화, 입문 시청순서와 필수편 총정리',
+    description: '피키 블라인더스 시리즈 입문 가이드. 시즌1~6 핵심 정리, 시간별 시청 루트 3가지, 불멸의 남자 영화 선행 지식, 취향별 추천. 로튼토마토 93%, IMDB 8.8 영국 범죄 드라마의 정점.',
+    category: '드라마',
+    date: '2026-03-25',
+    tags: ['피키블라인더스', '킬리언머피', '시리즈가이드', '시청순서', '불멸의남자', '넷플릭스', '영국드라마', '범죄드라마'],
+    thumbnail: '/images/post582_thumb.svg',
+    relatedSlugs: ['peaky-blinders-immortal-man-netflix-2026-review', 'peaky-blinders-immortal-man-overseas-reaction-2026', 'netflix-movie-recommend-2026-march', 'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex']
+  },
+  {
     id: 581,
     slug: 'climax-episode3-jujihoon-politics-twist-analysis-2026',
     title: '클라이맥스 3화 반전 분석 — 검찰 떠나 정치 입문한 주지훈, 시청률 자체 최고 3.9%',
