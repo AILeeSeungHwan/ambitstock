@@ -1,5 +1,16 @@
 const posts = [
   {
+    id: 581,
+    slug: 'climax-episode3-jujihoon-politics-twist-analysis-2026',
+    title: '클라이맥스 3화 반전 분석 — 검찰 떠나 정치 입문한 주지훈, 시청률 자체 최고 3.9%',
+    description: '클라이맥스 3화 핵심 반전 분석. 주지훈 검사→정치 입문, 하지원 7년 전 살인사건 떡밥, 시청률 3.9% 자체 최고. ENA·디즈니플러스 월화드라마 합류 가이드.',
+    category: '드라마',
+    date: '2026-03-25',
+    tags: ['트렌드', '클라이맥스', '주지훈', '하지원', '나나', 'ENA', '디즈니플러스', '반전분석', '정치드라마'],
+    thumbnail: '/images/post581_thumb.svg',
+    relatedSlugs: ['climax-ena-drama-jujihoon-hajiwon-2026', 'spring-2026-kdrama-ratings-war-shin-irang-siren-analysis', 'monthly-boyfriend-vs-siren-drama-comparison-2026-march', 'siren-tvn-plot-twist-analysis-7ep-mystery-2026']
+  },
+  {
     id: 580,
     slug: 'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
     title: '4월 넷플릭스 기대작 TOP 7 — Beef 시즌2·사냥개들2·APEX까지 장르별 완전정복',
