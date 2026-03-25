@@ -1,5 +1,16 @@
 const posts = [
   {
+    id: 580,
+    slug: 'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+    title: '4월 넷플릭스 기대작 TOP 7 — Beef 시즌2·사냥개들2·APEX까지 장르별 완전정복',
+    description: '2026년 4월 넷플릭스 기대작 TOP 7. Beef 시즌2 오스카 아이작·윤여정, 사냥개들 시즌2 K-액션, APEX 샤를리즈 테론, 기묘한 이야기 스핀오프, Man on Fire, 버고니아, Merrily We Roll Along까지 장르별 추천.',
+    category: '영화추천',
+    date: '2026-03-25',
+    tags: ['넷플릭스', '4월신작', '2026넷플릭스', 'Beef시즌2', '사냥개들시즌2', 'APEX', 'OTT추천', '기대작'],
+    thumbnail: '/images/post580_thumb.svg',
+    relatedSlugs: ['bloodhounds-season2-netflix-april-2026-guide', 'netflix-notes-last-row-choiminsik-preview-2026', 'netflix-scandal-sonyejin-jichangwook-joseon-romance-2026', 'netflix-movie-recommend-2026-march']
+  },
+  {
     id: 579,
     slug: '2026-box-office-hit-formula-king-man-1500-million',
     title: '2026 천만 관객 영화의 흥행 공식 — 왕사남 1,500만이 증명한 5가지 법칙과 다음 천만 후보',
