@@ -2,7 +2,6 @@ const post = {
   id: 319,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>현재 넷플릭스에서 시청가능한 영화 원더랜드 뜻과 의미, 그리고 해외평점 평론가 후기반응 살펴보겠습니다.</b></span></p><p>영화 원더랜드의 제목은 인간과 AI 간의 관계, 그리고 죽음과 이별을 다루는 스토리에서 유래합니다.</p><p>영화 속 원더랜드는 AI 기술을 통해 죽은 사람이나 혼수상태에 빠진 이들과 계속 소통할 수 있는 가상 세계입니다. 이 기술은 현실을 부정하고 상실의 아픔을 완화시키기 위해 고안된 것이며, 사람들은 죽은 이들이 단순히 멀리 여행을 떠난 것처럼 느끼게 됩니다. 이처럼 영화는 현실과 가상 사이의 경계를 탐구하며, 이별을 받아들이기 어려운 사람들의 감정적인 여정을 담고 있습니다.</p>" },
-    { type: 'image', src: "/images/post319_thumb.svg", alt: "넷플릭스 시청가능 원더랜드 뜻 의미 박보검 주연 해외 평점과 후기반응은?", caption: "넷플릭스 시청가능 원더랜드 뜻 의미 박보검 주연 해외 평점과 후기반응은?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>영화 원더랜드 로튼토마토 평점입니다.</b></p>" },
@@ -18,7 +17,7 @@ const post = {
     { type: 'image', src: "/images/post319_img3.jpg", alt: "넷플릭스 원더랜드", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post319_img1.jpg", alt: "넷플릭스 원더랜드", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><b>Ardine Cahya P</b> (5.0 stars): 좋은 콘셉트, 좋은 실행. 영화 정말 좋았음</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

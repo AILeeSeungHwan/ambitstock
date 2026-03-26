@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>모아나 2 개봉 정보 로튼 토마토 평점 관람평 결말후기 < 예매 할까 말까 > 디즈니 플러스 공개일은 언제?</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post171_thumb.svg',
-      alt: '모아나 2 개봉 정보 로튼 토마토 평점 관람평 결말후기 < 예매 할까 말까 > 디즈니 플러스 공개일은 언제?',
-      caption: '모아나 2 개봉 정보 로튼 토마토 평점 관람평 결말후기 < 예매 할까 말까 > 디즈니 플러스 공개일은 언제?'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -191,7 +185,7 @@ const post = {
       type: 'ending',
       html: '<p><b>모아나 2는 25년 2월 중 디즈니 플러스에서 공개 될 것으로 예상</b>됩니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

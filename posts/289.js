@@ -2,7 +2,6 @@ const post = {
   id: 289,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>트랜스포머 ONE 로튼 토마토 해외 평론가 결말후기리뷰 살펴보겠습니다.</b></span></p><p>트랜스포머 ONE 줄거리 내용 및 평점은 지난 포스팅을 참고하시길 바랍니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>로튼 토마토 해외 평론가들의 후기 리뷰를 의역하여 전달드립니다.</b></span></p>" },
-    { type: 'image', src: "/images/post289_thumb.svg", alt: "트랜스포머 ONE 해외 평론가 결말 후기 리뷰 정보 총정리 | 아이와 함께 보기 좋은, 하지만 부모가 더 좋아할 애니메이션 영화", caption: "트랜스포머 ONE 해외 평론가 결말 후기 리뷰 정보 총정리 | 아이와 함께 보기 좋은, 하지만 부모가 더 좋아할 애니메이션 영화" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>각 평론가의 평점과 후기를 확인해 보실 수 있습니다.</p>" },
@@ -41,7 +40,7 @@ const post = {
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'cta', href: "/animation-movie-overseas-rating-review/", text: "일본 애니메이션 영화 룩백 예매할만 할까? 제목 뜻 해외 현지 평점 후기" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드리며 포스팅 마칩니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 11월 22일 넷플릭스 개봉예정영화 조이의 탄생 (영어제목 : 조이 ) 관람평점 후기입니다.</b></span></p><p>현재 로튼토마토에서 높은 평가를 받은 작품으로 넷플릭스에서 22일 시청 가능합니다.</p><p>과연 <b>어떠한 점이 평론가들의 좋은 평가로 이어질 수 있었는지 </b>확인해 보도록 하겠습니다.</p><p><figure><figcaption>넷플릭스 영화 추천 조이의 탄생</figcaption> </figure> </p>'
     },
-    {
-      type: 'image',
-      src: '/images/post188_thumb.svg',
-      alt: '조이의 탄생 JOY 평점 관람평 결말 후기 해외 반응 <넷플릭스 영화 추천>',
-      caption: '조이의 탄생 JOY 평점 관람평 결말 후기 해외 반응 <넷플릭스 영화 추천>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -176,7 +170,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

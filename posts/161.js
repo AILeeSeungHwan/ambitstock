@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 11일 재개봉 영화 극장판 주술회전 0 로튼 토마토 평점 관람평 후기입니다.</b></span></p><p>로튼 토마토에서 신선도 보증마크를 획득하며 평론가뿐만 아니라 해외 관객에게도 높은 평가를 받은 작품으로</p><p>현재 넷플릭스에서 시청 가능하며 극장에서 12월 11일부터 재개봉 작품을 시청하실 수 있습니다.</p><p>원나블 다음 일본애니메이션 대표작품 1순위에 뽑히는 주술회전, 과연 <span style=&quot;background-color: #9feec3;&quot;><b>어떠한 점이 해외 평론가들과 관객들에게 좋은 평가를 받을 수 있었는지</b></span> 확인해보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post161_thumb.svg',
-      alt: '극장판 주술회전 0 로튼 토마토 평점 관람평 후기 < 평론가 관객 극찬 일본 애니메이션 추천 >',
-      caption: '극장판 주술회전 0 로튼 토마토 평점 관람평 후기 < 평론가 관객 극찬 일본 애니메이션 추천 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -157,7 +151,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

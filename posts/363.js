@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>마블 영화 개봉 예정작 2025년부터 2027년까지 총정리</b></span>입니다.</p><p>디즈니 플러스에 공개되는 작품도 함께 포함하였습니다.</p><div><center><a href=&quot;https://ambitstock.com/129&quot; title=&quot;2024-하반기-마블-영화-보러가기&quot;><button class=&quot;primary&quot;>2024 하반기 마블 영화 보러가기</button></a></center></div>'
     },
-    {
-      type: 'image',
-      src: '/images/post363_thumb.svg',
-      alt: '마블 영화 개봉 예정 총 정리 2025년 - 2027년',
-      caption: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -252,7 +246,7 @@ const post = {
       type: 'ending',
       html: '<p>여러 차원의 히어로들과 빌런들이 한데 모여 벌어지는 대규모 크로스오버 이벤트를 다룬다. 다양한 차원에서의 히어로들이 모여 거대한 전투를 벌이는 이야기를 그린다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

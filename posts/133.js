@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>더 엑소시즘(The Exorcism) 관람평 포토 결말 후기<배우는 죄가 없다></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post133_thumb.svg',
-      alt: '더 엑소시즘(The Exorcism) 관람평 포토 결말 후기<배우는 죄가 없다>',
-      caption: '더 엑소시즘(The Exorcism) 관람평 포토 결말 후기<배우는 죄가 없다>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -179,7 +173,7 @@ const post = {
       href: '/series-recommend-rating-top-8/',
       text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

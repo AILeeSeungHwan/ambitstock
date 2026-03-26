@@ -2,7 +2,6 @@ const post = {
   id: 226,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 롱레그스 뜻과 의미, 그리고 줄거리 내용을 바탕으로 영화 결말 해석 리뷰 포스팅입니다.</b></span></p><p>영화의 제목인 롱레그스 ( 영어제목 : Longlegs )의 상징성을 시작으로 줄거리 내용과 연관 지어 결말까지 해석해 보도록 하겠습니다.</p><p>언제나 영화의 제목은 전체의 주제를 담고 있기 때문에, 책을 읽을 때 목차를 자세히 보듯 반드시 깊이 생각해보아야 하는 부분이 있습니다.</p>" },
-    { type: 'image', src: "/images/post226_thumb.svg", alt: "롱레그스 뜻 의미 | 줄거리 내용과 함께 알아보는 영화 결말 해석 리뷰 시리즈", caption: "롱레그스 뜻 의미 | 줄거리 내용과 함께 알아보는 영화 결말 해석 리뷰 시리즈" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>이점을 인지하며 롱레그스 해석 시작하겠습니다.</p>" },
@@ -33,7 +32,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p>관객은 이 영화를 통해 삶에서 마주치는 두려움에 대한 이해를 넓히고, 자신의 내면을 돌아보는 기회를 얻게 된다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

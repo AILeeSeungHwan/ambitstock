@@ -2,7 +2,6 @@ const post = {
   id: 246,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>크리스토퍼 놀란 감독 영화 시리즈, 첫번째 작품은 영화 테넷(영어제목 : TENET) 입니다.</span></b></span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;>영화 테넷은 크리스토퍼 놀란 감독의 2020년작으로, 시간과 현실에 대한 복잡한 개념을 다룬 영화입니다. 영화의 제목인 테넷은 실제로는 단어의 약자가 아니라, 영화의 중심 개념과 관련된 단어입니다.</span></p><p><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>이번 포스팅에서는 영화 제목인 테넷의 제목 뜻 의미를 해석해보도록 하겠습니다. </span></b></p>" },
-    { type: 'image', src: "/images/post246_thumb.svg", alt: "테넷 제목 뜻 의미 해석 리뷰 - 한번 보고는 절대 이해 못하는 크리스토퍼 놀란 영화 추천", caption: "테넷 제목 뜻 의미 해석 리뷰 - 한번 보고는 절대 이해 못하는 크리스토퍼 놀란 영화 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>한번 보고는 절대 이해하지 못하는 악독한 영화 테넷, 제목의 뜻과 의미로부터 영화가 말하고자 하는 바를 함께 알아보도록 하겠습니다.</span></p>" },
@@ -29,7 +28,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

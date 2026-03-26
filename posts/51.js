@@ -2,7 +2,6 @@ const post = {
   id: 51,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; line-height: 1.8;&quot;>넷플릭스 <b>브리저튼 시즌4</b>가 공개된 지 6일이 지났다. 시즌2 파트2까지 나온 시점에서 가장 많이 검색되는 키워드는 역시 <b>‘결말’과 ‘시즌5’</b>다. 이번 시즌은 감정선이 한층 더 복잡해졌고, 마지막 장면은 다음 이야기를 암시하듯 여지를 남겼다. 그래서인지 공개 직후보다 지금 검색량이 더 붙는 분위기다.</p><p style=&quot;color: inherit; line-height: 1.8;&quot;>브리저튼 특유의 화려한 무도회와 로맨스는 그대로지만, 시즌4는 관계의 균열과 선택의 문제에 더 집중했다. 단순한 연애 서사라기보다는, 각 인물이 어떤 방향을 택하는지가 중심에 놓인다.</p>" },
-    { type: 'image', src: "/images/post51_thumb.svg", alt: "브리저튼 시즌4 결말 해석과 시즌5 가능성, 넷플릭스 시리즈 추천", caption: "브리저튼 시즌4 결말 해석과 시즌5 가능성, 넷플릭스 시리즈 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "브리저튼 시즌4 기본 정보", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -41,7 +40,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

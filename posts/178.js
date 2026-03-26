@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 1일 개봉예정영화 총을 든 스님 ( 영어제목 The Monk And the Gun ) 관람평 후기입니다.</b></span></p><p>전 세계 영화제에서 큰 화제를 불러 모은 영화로 <b>제96회 아카데미영화제 숏리스트 선정작</b>이며 현재 로튼 토마토에서 압도적인 평점을 기록하고 있습니다.</p><p>살생을 금하는 스님과 총이라는 이질적인 단어의 관계가 주목을 끄는 제목의 이 영화</p><p>과연 <b>어떠한 점이 해외 평론가들과 평단의 좋은 평가를 받을 수 있었는지</b> 확인해 보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post178_thumb.svg',
-      alt: '총을 든 스님 관람평 포토 정보 아카데미 수상작 <12월 명작 영화를 찾는다면 완벽한 선택>',
-      caption: '총을 든 스님 관람평 포토 정보 아카데미 수상작 <12월 명작 영화를 찾는다면 완벽한 선택>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -165,7 +159,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 431,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;>'Hierarchy'는 2024년 6월 7일 넷플릭스에서 첫 공개된 오리지널 드라마로, 총 7부작으로 이루어져 있습니다. 상위 0.01%의 엘리트들이 모여있는 고등학교를 배경으로 벌어지는 복수와 로맨스를 다루고 있습니다.</span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;>드라마 제목 <b><span style=&quot;background-color: #f3c000;&quot;>'하이라키' (Hierarchy)의 뜻</span></b>은 조직이나 집단 내 계층적인 구조를 의미합니다. 이 제목은 드라마에서 상위 엘리트들 사이의 복잡한 관계와 권력 구조를 상징적으로 나타내고 있습니다.</span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;>드라마 '하이라키'는 비밀을 품은 전학생 정재이가 엘리트 고등학교에 입학하면서 그들 사이에 균열이 생기고 벌어지는 이야기를 담고 있습니다. 소수가 질서이자 법으로 군림하는 주신고에 입학한 정재이가 중심이 되어, 엘리트들의 비밀과 복수가 얽힌 이야기를 풀어냅니다. </span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR'; color: inherit;&quot;>그렇다면 현재 넷플릭스 한국 순위 1위, 전체 순위 6위, 비영어권 순위 2위의 드라마 하이라키 해외 반응 살펴보도록 하겠습니다.</span></p>" },
-    { type: 'image', src: "/images/post431_thumb.svg", alt: "[드라마 하이라키 뜻 해외 평점 반응과 리뷰] 넷플릭스 순위권 시리즈 추천", caption: "[드라마 하이라키 뜻 해외 평점 반응과 리뷰] 넷플릭스 순위권 시리즈 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "IMDb 리뷰", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -50,7 +49,7 @@ const post = {
     { type: 'image', src: "/images/post431_img5.jpg", alt: "넷플릭스 드라마 하이라키 정재이", caption: "ⓒ R의 필름공장" },
     { type: 'h2', id: "section6", text: "출처", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
     { type: 'ending', html: "<ul style=&quot;list-style-type: disc; color: inherit; text-align: start;&quot;> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><a href=&quot;https://www.imdb.com/title/tt1396484/&quot; style=&quot;color: #456771;&quot;>IMDb</a>: 하이라키 드라마 정보 및 리뷰</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><a href=&quot;https://asianwiki.com/Hierarchy&quot; style=&quot;color: #456771;&quot;>AsianWiki</a>: 하이라키 드라마 정보 및 리뷰</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><a href=&quot;https://www.koimoi.com&quot; style=&quot;color: #456771;&quot;>Koimoi</a>: 하이라키 관련 뉴스</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><a href=&quot;https://www.jazminemedia.com&quot; style=&quot;color: #456771;&quot;>JazmineMedia</a>: 하이라키 관련 뉴스</span></li> <li><span style=&quot;font-family: 'Noto Serif KR';&quot;><a href=&quot;https://www.spoilerus.com&quot; style=&quot;color: #456771;&quot;>Spoiler US</a>: 하이라키 관련 뉴스</span></li> </ul>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

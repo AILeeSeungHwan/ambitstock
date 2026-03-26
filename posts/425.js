@@ -2,7 +2,6 @@ const post = {
   id: 425,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>스캔들은 2024년 6월 17일부터 KBS2에서 방영되는 일일 드라마입니다. 복수를 위해 모든 것을 건 여자와 세상을 가지고 싶었던 여자가 벌이는 미스터리 격정 멜로를 다룹니다. </span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;><span style=&quot;color: inherit; text-align: start;&quot;>KBS 일일드라마 스캔들은 </span>세상을 손에 넣고자 하는 여자와 복수를 위해 모든 것을 걸고 싸우는 또 다른 여자, 두 여자의 복수와 야망을 중심으로 한 미스터리 격정 멜로 드라마입니다. 주인공은 복수를 위해 모든 것을 걸고 싸우는 여자와 세상을 손에 넣으려는 야망을 가진 여자입니다. 이 드라마는 이 두 여자의 얽히고설킨 운명과 그로 인해 벌어지는 사건들을 그립니다.</span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR';&quot;>한채영이 연기하는 주인공은 어린 시절 부모를 잃고, 그 원수들에게 복수하기 위해 모든 것을 걸고 싸우는 여자입니다. 그녀는 사랑과 증오, 절망 속에서 자신의 삶을 이어가며, 복수의 길에서 만나게 되는 다양한 사람들과의 관계를 통해 성장합니다.</span></p>" },
-    { type: 'image', src: "/images/post425_thumb.svg", alt: "한채영 한보름 주연 KBS2 일일드라마 스캔들 정보 총정리 | 1화 2화 3화 줄거리 인물관계도 시청률", caption: "한채영 한보름 주연 KBS2 일일드라마 스캔들 정보 총정리 | 1화 2화 3화 줄거리 인물관계도 시청률" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>드라마 스캔들 한채영 (문정인)</figcaption> </figure> </p>" },
@@ -40,7 +39,7 @@ const post = {
     { type: 'image', src: "/images/post425_img3.jpg", alt: "드라마 스캔들 출연배우", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post425_img1.jpg", alt: "일일드라마 스캔들", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>KBS2 일일드라마 스캔들은 첫 회에서 AGB 기준 전국 시청률 7.2%를 기록하며 좋은 반응을 얻고 있습니다.</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

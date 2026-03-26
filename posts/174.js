@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 11월 28일 재개봉 예정영화 해바라기 해외 반응 평점 관람평입니다.</b></span></p><p>대한민국 남자라면 누구나 좋아할, 그리고 한번쯤은 해바라기의 명장면을 따라 해 보았을 명작 해바라기가 재개봉합니다.</p><p>이번 포스팅에서는 해바라기 재개봉 기념 해외 시청자들은 이 영화를 어떻게 평가할 지 알아보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post174_thumb.svg',
-      alt: '해바라기 해외 반응 평점 관람평 후기 <모든 남자들의 영화 재개봉!>',
-      caption: '해바라기 해외 반응 평점 관람평 후기 <모든 남자들의 영화 재개봉!>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -221,7 +215,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

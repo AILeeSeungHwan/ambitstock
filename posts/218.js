@@ -2,7 +2,6 @@ const post = {
   id: 218,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 섀도우의 13 제목 뜻 의미 해석, 줄거리 내용 포스팅입니다.</b></span></p><p><br>영화의 영어 제목인 The Shadow Strays를 통해 영화가 말하고자 하는 주제가 무엇인지 명확하게 확인해 보도록 하겠습니다.</br></p><p>단순한 액션 영화라 느껴지지만, 그 이면에 있는 스토리 라인에 대해 이해하고 시청하시길 바랍니다.</p>" },
-    { type: 'image', src: "/images/post218_thumb.svg", alt: "섀도우의 13 제목 뜻 의미 해석 줄거리 내용 - The Shadow Strays 액션 영화 추천", caption: "섀도우의 13 제목 뜻 의미 해석 줄거리 내용 - The Shadow Strays 액션 영화 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "섀도우의 13 줄거리 내용", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -32,7 +31,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/review-critic-reaction-release-upcoming-movie/", text: "글래디에이터 Ⅱ 2 시사회 후기 평론가 관람평 반응 11월 가장 기대되는 개봉 예정작 영화" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

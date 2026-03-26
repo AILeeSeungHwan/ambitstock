@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>보고타: 마지막 기회의 땅 뜻 해석 개봉 줄거리 정보 < 송중기 주연 개봉예정작 영화 추천 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post149_thumb.svg',
-      alt: '보고타: 마지막 기회의 땅 뜻 해석 개봉 줄거리 정보 < 송중기 주연 개봉예정작 영화 추천 >',
-      caption: '보고타: 마지막 기회의 땅 뜻 해석 개봉 줄거리 정보 < 송중기 주연 개봉예정작 영화 추천 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -164,7 +158,7 @@ const post = {
       href: '/plot-analysis-movie-release-upcoming/',
       text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 291,
   sections: [
     { type: 'intro', html: "<p>지난 포스팅에서 미키 17의 해외 시사회 후기반응과 예고편 정보 확인해 보았습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 미키 17의 제목 뜻과 원작 줄거리 내용을 해석해 보겠습니다.</b></span></p><p>해외 시사회 후기반응과 예고편 정보가 궁금하신 분은 해당 포스팅을 확인해 보시길 바랍니다.</p>" },
-    { type: 'image', src: "/images/post291_thumb.svg", alt: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화", caption: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 미키 17의 원작 소설 제목은 미키 7 ( 영어제목 : Mickey7 )입니다. 미키 7의 줄거리는 주인공 미키가 '소모품'이라는 설정</b></span>을 바탕으로 전개됩니다. 미키는 인간이 식민지로 삼으려는 얼음 행성 니플하임에서 일하는 복제 인간입니다. 그는 위험한 임무 중에 죽으면 새로운 몸으로 다시 태어납니다. 모든 기억이 복제본에 이식되지만, 그가 죽고 재생되는 과정은 육체적으로나 정신적으로 고통스러운 경험입니다.</p>" },
@@ -19,7 +18,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

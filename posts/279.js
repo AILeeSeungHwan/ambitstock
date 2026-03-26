@@ -2,7 +2,6 @@ const post = {
   id: 279,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 한국에서 가장 핫한 프로그램은 바로 이것입니다.</b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>모든 커뮤니티를 달구고 있는 주인공은 9월 17일 공개된 넷플릭스 예능 흑백요리사 (영어제목 : Culinary Class Wars )입니다.</b></span></p><p>지난 포스팅에서 다루었던 것처럼, 흑백요리사의 영어제목 Culinary Class Wars는 요리계급전쟁입니다.</p>" },
-    { type: 'image', src: "/images/post279_thumb.svg", alt: "흑백요리사 해외 반응 대박 떡상! 넷플릭스 순위 추천 2주차 5화 6화 7화 공개 리뷰", caption: "흑백요리사 해외 반응 대박 떡상! 넷플릭스 순위 추천 2주차 5화 6화 7화 공개 리뷰" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>흑백요리사의 부제를 그대로 영어로 번역한 제목입니다.</p>" },
@@ -37,7 +36,7 @@ const post = {
     { type: 'cta', href: "/netflix-recommend-overseas-reaction-rating-review/", text: "넷플릭스 예능 추천 흑백요리사 최강 최강록 | 출연진 영어제목 뜻 해외 반응 평점 후기 리뷰" },
     { type: 'cta', href: "/netflix-recommend-overseas-review-reaction/", text: "넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><b>흑백요리사 해외 후기리뷰 반응</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 347,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>베테랑 2 개봉 전 칸 국제 영화제 해외 평론가 시사회 후기 반응을 전해드립니다.</b></span></p><p>베테랑 2가 오는 2024년 9월 13일 개봉을 앞두고 있습니다.<span style=&quot;color: inherit; text-align: start;&quot;></span></p><p>8월의 기대작 에일리언 로물루스가 개봉 후에도 기대에 부응하는 엄청난 호평을 이어가고 있고, 이와 더불어 트위스터스, 빅토리, 행복의 나라 또한 높은 평점을 기록하며 극장가의 풍년을 울리고 있습니다.</p>" },
-    { type: 'image', src: "/images/post347_thumb.svg", alt: "베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에", caption: "베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>그에 반해 9월 개봉 예정 영화들이 8월에 대비하여 상대적으로 밋밋한 감이 있기에, 이 중 큰 기대작은 베테랑 2가 될 것 입니다.</p>" },
@@ -43,7 +42,7 @@ const post = {
     { type: 'image', src: "/images/post347_img3.jpg", alt: "영화 베테랑2 해외 시사회후기반응", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post347_img1.jpg", alt: "영화 베테랑2 해외 시사회후기반응", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><b>2.5/5</b> - &quot;미드나잇 스크리닝 영화로는 괜찮았지만, 순수한 B급 영화의 즐거움이 느껴졌다.&quot;</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

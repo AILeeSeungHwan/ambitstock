@@ -2,7 +2,6 @@ const post = {
   id: 346,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>현재 상영작 에일리언 로물루스 해외 로튼 토마토 평론가 평점 후기입니다.</b></span></p><p>관람하신 분들은 아시겠지만, 에일리언 시리즈 중 최고작이라 평가 받을 정도로 엄청난 작품이 탄생하였습니다.</p><p>에일리언 1, 2 의 중간 시점을 배경으로 하는 에일리언 로물루스, 과연 해외 평론가들의 관람평은 어떠할지 알아보겠습니다.</p>" },
-    { type: 'image', src: "/images/post346_thumb.svg", alt: "에일리언 로물루스 인기순위 로튼 토마토 평론가 관람평점과 후속작이 기대되는 후기", caption: "에일리언 로물루스 인기순위 로튼 토마토 평론가 관람평점과 후속작이 기대되는 후기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>에일리언 로물루스 평론가 후기</figcaption> </figure> </p>" },
@@ -52,7 +51,7 @@ const post = {
     { type: 'image', src: "/images/post346_img3.jpg", alt: "에일리언 로물루스 IMDB 평점", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post346_img1.jpg", alt: "에일리언 로물루스 평론가 후기", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><b>Richard Lawson - Vanity Fair (Top Critic)</b><br/>평점: 없음<br/><span style=&quot;background-color: #9feec3;&quot;><b>기본적인 기능을 성공적으로 수행하는 영화</b></span>다</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

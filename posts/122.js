@@ -2,7 +2,6 @@ const post = {
   id: 122,
   sections: [
     { type: 'intro', html: "<p>애니멀 킹덤 관람평 포토 뜻 해석 로튼 평점 < 신선도 보증 프랑스 영화 ></p>" },
-    { type: 'image', src: "/images/post122_thumb.svg", alt: "애니멀 킹덤 관람평 포토 뜻 해석 로튼 평점 < 신선도 보증 프랑스 영화 >", caption: "애니멀 킹덤 관람평 포토 뜻 해석 로튼 평점 < 신선도 보증 프랑스 영화 >" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "영화 애니멀 킹덤", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -67,7 +66,7 @@ const post = {
     { type: 'body', html: "<p><b>Josh Goller - 평점 3.5/5 (오리지널 스코어: 3.5/5)</b><br/><i>애니멀 킹덤</i>은 인간의 감정을 중심으로 한 판타지적 전제를 다루며, 그 이야기는 마치 자연의 냉혹한 무관심처럼 냉정하게 펼쳐진다.</p>" },
     { type: 'body', html: "<p>이상으로 영화 애니멀 킹덤 로튼 토마토 해외 평론가 관람평 결말후기 포스팅 마칩니다.</p>" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

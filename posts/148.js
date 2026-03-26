@@ -2,7 +2,6 @@ const post = {
   id: 148,
   sections: [
     { type: 'intro', html: "<p>보고타: 마지막 기회의 땅 관람평 시사회 후기 포토 < 콜롬비아 해외 촬영 현지 반응은? ></p>" },
-    { type: 'image', src: "/images/post148_thumb.svg", alt: "보고타: 마지막 기회의 땅 관람평 시사회 후기 포토 < 콜롬비아 해외 촬영 현지 반응은? >", caption: "보고타: 마지막 기회의 땅 관람평 시사회 후기 포토 < 콜롬비아 해외 촬영 현지 반응은? >" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "보고타: 마지막 기회의 땅 시사회 후기 및 평가", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -66,7 +65,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'cta', href: "/plot-analysis-movie-release-upcoming/", text: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

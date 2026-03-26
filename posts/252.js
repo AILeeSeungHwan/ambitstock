@@ -2,7 +2,6 @@ const post = {
   id: 252,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 전란이 한국 인기순위 1위를 이어가고 있습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>국내에서는 친숙한 소재인 조선시대 임진왜란을 배경으로 하며, 임진왜란시기 백성들을 버리고 도망친 무능력한 조선의 왕 선조, 그리고 혼란과 반란의 백성들.</p><p style=&quot;color: inherit; text-align: start;&quot;>제목의 뜻과 의미 해석, 그리고 현재 국내 넷플릭스 인기순위 1위를 기록하고 있는 영화 '전,란'의 평점과 해외반응까지 전체적으로 알아보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post252_thumb.svg", alt: "넷플릭스 영화 추천 전란 Uprising 뜻 의미 해석 평점 | 10월 한국 인기순위 1위 해외 반응은?", caption: "넷플릭스 영화 추천 전란 Uprising 뜻 의미 해석 평점 | 10월 한국 인기순위 1위 해외 반응은?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>우선 영화 전,란의 국내 인기 순위 및 평점입니다.</b></span></p>" },
@@ -42,7 +41,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

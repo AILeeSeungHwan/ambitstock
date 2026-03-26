@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>전 세계 유명 영화제 총정리 포스팅입니다.</b></span></p><p>우리가 흔히 알고 있는 칸, 베를린, 베니스, 토론토부터 독립영화를 메인으로 다루는 영화제까지 해외 주요 영화제를 모두 담았습니다.</p><p>주요 영화제는 전 세계적인 관심을 끌며, 기생충과 같이 한국의 영화를 세계에 알릴 수 있는 좋은 기회가 됩니다.</p><p>이번 포스팅을 통해 막연히 알고 있던 영화제의 특징들과 일정들을 함께 살펴보겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post197_thumb.svg',
-      alt: '2025년 해외 영화제 주요 일정 총정리 <칸, 베를린, 베니스, 토론토>',
-      caption: '2025년 해외 영화제 주요 일정 총정리 <칸, 베를린, 베니스, 토론토>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -271,7 +265,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

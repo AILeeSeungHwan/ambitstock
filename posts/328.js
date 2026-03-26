@@ -2,7 +2,6 @@ const post = {
   id: 328,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>크리스토퍼 놀란 감독 모든 작품 시리즈, 두 번째 작품은 영화 인터스텔라입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 인터스텔라 로튼토마토, IMDB평점 알아보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>크리스토퍼 놀란 감독의 모든 영화 중 평점 1등은 무엇일지 궁금하신 분은 아래 포스팅을 참고하세요.</p>" },
-    { type: 'image', src: "/images/post328_thumb.svg", alt: "영화 인터스텔라 뜻 결말 해석 완전 정복 크리스토퍼 놀란 감독 시리즈-2", caption: "영화 인터스텔라 뜻 결말 해석 완전 정복 크리스토퍼 놀란 감독 시리즈-2" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b>영화 인터스텔라 제목 뜻 의미입니다.</b></p>" },
@@ -42,7 +41,7 @@ const post = {
     { type: 'image', src: "/images/post328_img3.jpg", alt: "인터스텔라 결말 해석", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post328_img1.jpg", alt: "영화 인터스텔라 제목 뜻", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

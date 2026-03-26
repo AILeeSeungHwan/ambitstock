@@ -2,7 +2,6 @@ const post = {
   id: 341,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>유 플러스를 쓰시는 분이라면 절대 놓치지 마세요. 메가박스 통신사 할인 총정리 포스팅입니다.</b></span></p><p>2024년 하반기 8월 기준 할인 혜택으로, 메가박스에서 영화를 보실 분들은 통신사 중 가장 큰 혜택을 제공하는 유 플러스 멤버십을 꼭 이용하세요. 각 통신사별 내용 정리 시작하겠습니다.</p><p> </p>" },
-    { type: 'image', src: "/images/post341_thumb.svg", alt: "메가박스 유 플러스 할인 영화 예매 통신사 중 최고! 2024년 반드시 확인하자", caption: "메가박스 유 플러스 할인 영화 예매 통신사 중 최고! 2024년 반드시 확인하자" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>해당 내용은 메가박스 공식 제공 데이터입니다.</p>" },
@@ -39,7 +38,7 @@ const post = {
     { type: 'image', src: "/images/post341_img3.jpg", alt: "메가박스 SKT 할인 혜택", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post341_img1.jpg", alt: "메가박스 통신사 할인혜택 총정리", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>다음 포스팅에서는 카드별 메가박스 할인 혜택에 대해서 알아보도록 하겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

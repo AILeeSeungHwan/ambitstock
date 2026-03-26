@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>고스트캣 앙주 개봉! 관람평 포토 영어 제목 뜻 평점 < 로튼 평론가 후기 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post118_thumb.svg',
-      alt: '고스트캣 앙주 개봉! 관람평 포토 영어 제목 뜻 평점 < 로튼 평론가 후기 >',
-      caption: '고스트캣 앙주 개봉! 관람평 포토 영어 제목 뜻 평점 < 로튼 평론가 후기 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -204,7 +198,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

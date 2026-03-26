@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>영화 캡틴 아메리카 4번째 시리즈, 브레이브 뉴 월드 (영어제목 : Captain America: Brave New World )가 2025년 2월 12일 개봉하였습니다.</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화  해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=30909651&amp;qvt=0&amp;query=캡틴%20아메리카%20브레이브%20뉴%20월드%20상영일정&quot; title=&quot;영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 바로 보러 가기👉</button></a></center></div><p><figure><figcaption>캡틴 아메리카 브레이브 뉴 월드</figcaption> </figure> </p>'
     },
-    {
-      type: 'image',
-      src: '/images/post96_thumb.svg',
-      alt: '캡틴 아메리카 브레이브 뉴 월드 4 뜻 예매 1위 평점 결말 후기 < 마블 영화 >',
-      caption: '캡틴 아메리카 브레이브 뉴 월드 4 뜻 예매 1위 평점 결말 후기 < 마블 영화 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -226,7 +220,7 @@ const post = {
       type: 'ending',
       html: '<p><b>Alex Bentley - 평점 없음</b><br/>마블이 이전처럼 블록버스터 시장에서 다시 정상에 오르려면, \'캡틴 아메리카 브레이브 뉴 월드\'에서 보여준 것보다 훨씬 더 흥미로운 캐릭터와 이야기가 필요하다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

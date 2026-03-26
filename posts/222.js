@@ -2,7 +2,6 @@ const post = {
   id: 222,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>지브리 애니메이션 영화 그대는 어떻게 살 것인가가 로튼 토마토에서 좋은 평점을 기록 중입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>한국에서는 좋지 못한 평가를 받으며 미야자키 하야오 감독의 복귀작이자 진짜 은퇴작이 될 수 있는 작품임에도 큰 흥행에는 실패한 작품입니다. 평점 또한 국내 지브리 애니메이션의 평점 중에서도 낮은 점수를 기록하였습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>그렇다면 이번 포스팅에서는 영화 그대는 어떻게 살 것인가에 대한 해외 로튼 토마토 평점을 알아보도록 하겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post222_thumb.svg", alt: "그대는 어떻게 살 것인가 평점 로튼 토마토 해외 평론가 평가 | 넷플릭스 시청가능", caption: "그대는 어떻게 살 것인가 평점 로튼 토마토 해외 평론가 평가 | 넷플릭스 시청가능" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>그대는 어떻게 살 것인가 로튼토마토 평론가 평점입니다.</b></span></p>" },
@@ -40,7 +39,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

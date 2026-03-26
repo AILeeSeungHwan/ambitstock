@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>한국 웹툰 원작 나 혼자만 레벨업 2기가 넷플릭스에서 매주 일요일 공개되고 있습니다.</b></p><p>시즌 1에서 좋은 평가를 받으며 2기에 대한 기대감이 높아진 상황, 영화 또한 좋은 반응을 얻으며 앞으로의 작품성에 대한 기대가 더욱 높아진 상황입니다. 과연 현재 해외에서는 어떤 반응을 얻고 있는지 이번 포스팅에서 확인해 보도록 하겠습니다.</p><div><center><a href=&quot;https://www.imdb.com/title/tt33428606/?ref_=nv_sr_srsg_3_tt_7_nm_1_in_0_q_solo&quot; title=&quot;나 혼자만 레벨업 리어웨이크닝 해외 평점은?&quot;><button class=&quot;btn-hover color-8&quot;>나 혼자만 레벨업 2기 평점 보러 가기 👉</button></a></center></div><p style=&quot;text-align: center;&quot;><b>나 혼자만 레벨업 2기 평점이 궁금하시다면??</b></p><div><center><a href=&quot;https://www.netflix.com/browse?jbv=81749761&quot; title=&quot;나 혼자만 레벨업 2기 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>나 혼자만 레벨업 2기 보러 가기👉</button></a></center></div><p style=&quot;text-align: center;&quot;><b>위 링크를 통해</b></p><p style=&quot;text-align: center;&quot;><b>나 혼자만 레벨업 2기 바로 시청하러 가보세요</b></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post107_thumb.svg',
-      alt: '나 혼자만 레벨업 2기 <해외반응 평점 후기 평가>',
-      caption: '나 혼자만 레벨업 2기 <해외반응 평점 후기 평가>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -166,7 +160,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

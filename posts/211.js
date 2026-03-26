@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 비틀쥬스 비틀쥬스 로튼 토마토 평점 후기 관람평입니다.</b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>해당 포스팅을 바탕으로 영화 시청을 고민하고 계신 분들에게 객관적이고 확실한 정보를 전달드리겠습니다.</b></span></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post211_thumb.svg',
-      alt: '비틀쥬스 비틀쥬스 로튼 토마토 평점 결말후기 관람평 영화 추천',
-      caption: '비틀쥬스 비틀쥬스 로튼 토마토 평점 결말후기 관람평 영화 추천'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -138,7 +132,7 @@ const post = {
       href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

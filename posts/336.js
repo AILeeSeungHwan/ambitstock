@@ -2,7 +2,6 @@ const post = {
   id: 336,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>디즈니 플러스 드라마 폭군( 영어 제목 The Tyrant )의 해외 평점과 후기반응입니다.</b></span></p><p>IMDB와 로튼 토마토에서 확인하였으며, 해외 시청자들은 어떻게 폭군을 보았을 지 알아보겠습니다.</p><p>시즌 1 회수 안된 떡밥 정보와 시즌 2 줄거리 내용 예상은 해당 포스팅을 확인해보세요.</p>" },
-    { type: 'image', src: "/images/post336_thumb.svg", alt: "디즈니 플러스 드라마 폭군 해외 평점과 인기 순위 극명히 갈린 후기반응", caption: "디즈니 플러스 드라마 폭군 해외 평점과 인기 순위 극명히 갈린 후기반응" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>드라마 폭군 해외 평점 후기반응</figcaption> </figure> </p>" },
@@ -38,7 +37,7 @@ const post = {
     { type: 'image', src: "/images/post336_img3.jpg", alt: "IMDB 폭군 평점", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post336_img1.jpg", alt: "드라마 폭군 해외 평점 후기반응", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>한국 드라마를 좋아하지만, 이 작품은 전혀 이해할 수 없습니다. 캐릭터들이 왜 서로를 죽이는지 알 수 없고, 그 이유조차 제대로 설명되지 않습니다. 액션 장면은 지루하고 반복적이며, 스토리도 없기 때문에 공감할 수 있는 캐릭터도 없습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

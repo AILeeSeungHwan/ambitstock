@@ -2,7 +2,6 @@ const post = {
   id: 360,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>R의 필름공장 &lt;어벤져스 둠스데이 시리즈 5부작 3편&gt; 입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>두번째 포스팅에서 닥터둠의 배경과 빌런이 된 이유에 대해 설명하였습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><b>그의 행보는 명백히 빌런의 길을 걸어왔습니다.</b><b></b></p>" },
-    { type: 'image', src: "/images/post360_thumb.svg", alt: "어벤져스5 로다주 닥터둠 인격 심층분석 마블 코믹스 원작 | 그는 빌런인가 영웅인가 -3", caption: "어벤져스5 로다주 닥터둠 인격 심층분석 마블 코믹스 원작 | 그는 빌런인가 영웅인가 -3" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>하지만 라트베리아 국민들을 외부로부터 보호하기 위한 노력, 자신의 잘못을 회개하고 인류를 지킨 영웅으로서의 면모는</p>" },
@@ -52,7 +51,7 @@ const post = {
     { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;>네번째 포스팅은 <span style=&quot;background-color: #01ff51;&quot;>'<b>닥터 둠의 능력과 마블 원작 코믹스에서 닥터 둠과 전투를 벌인 히어로들'</b></span> 입니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

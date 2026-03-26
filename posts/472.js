@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit; text-align: start;&quot;><span><span style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>&lt;노량:죽음의 바다&gt; 가 금일 누적 관객수 426만명을<i>(24.01.13 기준)</i> </b> <b>기록</b></span>하였습니다. </span></span></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit; text-align: start;&quot;><span><span style=&quot;color: inherit; text-align: start;&quot;>서울의 봄과 함께 역사를 기반으로 한, 흥행을 이어가고 있는 <span style=&quot;color: inherit; text-align: start;&quot;>두 한국영화.</span> </span></span></span><span style=&quot;color: inherit; text-align: start;&quot;><span><span style=&quot;color: inherit; text-align: start;&quot;>이와 더불어 해외에서는 23년 12월 22일 미국 로스앤젤레스 4개관 개봉, 뒤이어 호주와 뉴질랜드에서는 24년 1월 4일 개봉, 캐나다 1월 5일 개봉이 예정되어있습니다. </span></span></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit; text-align: start;&quot;><span><span style=&quot;color: inherit; text-align: start;&quot;>그렇다면 현재까지 &lt;노량:죽음의 바다&gt;에 대한 해외 관객반응은 어떠할까요. 개봉한지 얼마 안된 영화인 만큼 노량과 더불어 이전 작품인 &lt;한산:용의 출현&gt; 의 해외반응, 특히 역사적 관계가 얽힌 일본 관객의 반응도 함께 살펴보도록 하겠습니다.</span></span></span></p><p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토와 IMDB, filmark 리뷰를 참고하였습니다.<b><span style=&quot;color: #1a5490;&quot;></span></b></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post472_thumb.svg',
-      alt: '[영화 노량:죽음의 바다 관객수 해외 개봉 반응 리뷰 및 평점] - 이리도 조선에 편리한 이야기 일본 반응? 한산:용의 출현 넷플릭스 다시 보기',
-      caption: '[영화 노량:죽음의 바다 관객수 해외 개봉 반응 리뷰 및 평점] - 이리도 조선에 편리한 이야기 일본 반응? 한산:용의 출현 넷플릭스 다시 보기'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -316,7 +310,7 @@ const post = {
       href: '/',
       text: '[영화 미키17 개봉일 티저 예고편, 개봉전 전작 기생충 해외 평점 반응] 봉준호 시리즈 1탄 - 기생'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

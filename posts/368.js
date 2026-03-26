@@ -2,7 +2,6 @@ const post = {
   id: 368,
   sections: [
     { type: 'intro', html: "<p>2024년 8월 7일 개봉 예정인 영화 <b>이오 카피타노 ( 영어제목 : IO Capitano ) 해외 평론가 평점 반응</b>입니다.</p><p>영화 이오 카피타노는 2023년 베네치아 영화제 황금사자상 경쟁후보작이고 제96회(2024년) 아카데미상 국제영화상 후보작이며,</p><p><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;><b>제80회(2023년) 베네치아 영화제 은사자상 감독상 수상작</b></span>입니다.</p>" },
-    { type: 'image', src: "/images/post368_thumb.svg", alt: "[명작 영화 추천] 8월에 찾아오는 감독상 수상작품 | 영화 이오 카피타노 뜻 해외 평론가 평점", caption: "[명작 영화 추천] 8월에 찾아오는 감독상 수상작품 | 영화 이오 카피타노 뜻 해외 평론가 평점" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #01ff51;&quot;>그냥 우리가 이 바다 한가운데서 죽길 바라는 거죠?</span></b></p>" },
@@ -35,7 +34,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'cta', href: "/netflix-movie-recommend-critic-rating/", text: "넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>다음 포스팅에서는 평론가 반응 및 후기 살펴보겠습니다.</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

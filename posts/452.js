@@ -2,7 +2,6 @@ const post = {
   id: 452,
   sections: [
     { type: 'intro', html: "<p>넷플릭스 오리지널 드라마 살인자 ㅇ 난감이 2월 9일 넷플릭스에서 공개 예정입니다.<br>영어 제목은 킬러 역설 (A Killer Paradox)이며, 우리나라 제목인 살인자 ㅇ난감은 어떻게 읽어야 할지 난감하죠.<br><span style=&quot;background-color: #f3c000;&quot;><b>작가님이 직접 밝힌 드라마 살인자 ㅇ 난감 제목 읽는법, 예고편 시청 및 해외 반응 알아보도록 하겠습니다.</b></span><br/> </br></br></p><p><figure><figcaption>넷플릭스 드라마 살인자 ㅇ 난감 포스터</figcaption> </figure> </p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 &lt;파묘&gt; 정보</b></span><br/><span style=&quot;color: #666666;&quot;><b>티저 예고편 해외반응이 궁금하다면</b></span></p>" },
-    { type: 'image', src: "/images/post452_thumb.svg", alt: "[넷플릭스 웹툰 원작 드라마 살인장난감? 살인자ㅇ난감? 해외 반응 평점 제목읽는법] 등장인물 최우식 손석구 개봉일 예고편 공개 예정작", caption: "[넷플릭스 웹툰 원작 드라마 살인장난감? 살인자ㅇ난감? 해외 반응 평점 제목읽는법] 등장인물 최우식 손석구 개봉일 예고편 공개 예정작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 조커 2: 폴리 아 되 정보</b></span><br/><span style=&quot;color: #666666;&quot;><b>조커 1 해외반응이 궁금하다면</b></span></p>" },
@@ -37,7 +36,7 @@ const post = {
     { type: 'image', src: "/images/post452_img3.jpg", alt: "조커 2: 폴리 아 되 개봉일 및 전작 해외 반응 알아보기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post452_img1.jpg", alt: "넷플릭스 드라마 살인자 ㅇ 난감 포스터", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p> <br/>이상 살인자ㅇ난감 개봉일, 해외 반응부터 예고편, 제목 읽는 법까지 총정리 마치겠습니다.<br/>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

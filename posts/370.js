@@ -2,7 +2,6 @@ const post = {
   id: 370,
   sections: [
     { type: 'intro', html: "<p><b>에일리언: 로물루스 (2024)</b>는 에일리언 시리즈의 일곱 번째 작품으로, <b><span style=&quot;color: white; background-color: #ff5722; padding: 2px;&quot;>페데 알바레즈</span></b> 감독이 연출했습니다.</p><p>2024년 8월 16일 개봉일 확정 된 에일리언: 로물루스는 <b><span style=&quot;color: white; background-color: #ff5722; padding: 2px;&quot;>에일리언과 에일리언 2 사이</span></b>의 시기를 배경으로 하며,</p><p>버려진 우주 정거장에서 젊은 우주 식민지 주민들이 외계 생명체와 마주치는 이야기를 다룹니다.</p>" },
-    { type: 'image', src: "/images/post370_thumb.svg", alt: "에일리언: 로물루스, 그래서 그게 뭔데? 영화 제목 뜻과 의미 해석", caption: "에일리언: 로물루스, 그래서 그게 뭔데? 영화 제목 뜻과 의미 해석" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b><a href=&quot;https://ambitstock.com/124&quot; title=&quot;에일리언: 로물루스 시사회 후기&quot;>에일리언: 로물루스 시사회 평론가 반응 후기가 궁금하신 분은 관련 포스팅 참고</a></b>하시길 바랍니다.</p>" },
@@ -21,7 +20,7 @@ const post = {
     { type: 'image', src: "/images/post370_img3.jpg", alt: "에일리언: 로물루스", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post370_img1.jpg", alt: "에일리언: 로물루스", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>영화는 에일리언 시리즈의 전통적인 공포와 긴장감을 유지하면서도, 새로운 이야기와 등장인물을 통해 신선한 시도를 합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

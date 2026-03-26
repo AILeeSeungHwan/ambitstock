@@ -2,7 +2,6 @@ const post = {
   id: 294,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 9월 기준 넷플릭스 볼만한 영화를 인기 순위 기준으로 추천해드립니다.</b></span></p><p>모든 작품들에 대한 정보는 로튼 토마토와 IMDB 평점과 후기를 바탕으로 순위를 측정하였으며, 각 영화에 대한 평론가들의 후기 또한 준비하였습니다. 한국 작품부터, 해외 할리우드 작품까지, 종합적으로 순위를 측정하였습니다.</p><p>이외 원하시는 작품에 대한 후기와 평점 정보는 댓글을 통해서 요청해주세요.</p>" },
-    { type: 'image', src: "/images/post294_thumb.svg", alt: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!", caption: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>시작하겠습니다.</p>" },
@@ -60,7 +59,7 @@ const post = {
     { type: 'image', src: "/images/post294_img3.jpg", alt: "넷플릭스 영화 딜리버런스", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post294_img1.jpg", alt: "넷플릭스 인기 순위 추천 TOP 10", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 67,
   sections: [
     { type: 'intro', html: "<p>OTT 공개예정 탭 들어가면 늘 고민이 시작되죠.</p><p>“이 많은 것 중에 뭘 먼저 찜해두지?” 올해 라인업을 훑어보니 한국 작품이 딱 눈에 꽂힙니다.</p><p>액션, 로코, 재난 SF까지 골고루. 달력에 체크해놔야 놓치지 않을 작품들을 <b>TOP7 → TOP1 역순</b>으로 정리했어요.</p><p>날짜·배우·감독 같은 기본 정보에, 개인적으로 왜 기대되는지까지 한 입 멘트로 곁들였습니다.</p>" },
-    { type: 'image', src: "/images/post67_thumb.svg", alt: "2025 넷플릭스 공개예정작 TOP 7｜한국 기대작 중심으로 싹 모았다", caption: "2025 넷플릭스 공개예정작 TOP 7｜한국 기대작 중심으로 싹 모았다" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "TOP 7. 로맨틱 어나니머스 (일본 드라마)", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -83,7 +82,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

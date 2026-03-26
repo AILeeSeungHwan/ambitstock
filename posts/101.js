@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>2025년 1월 17일 넷플릭스에 공개된 백 인 액션, 현재 한국 영화 순위 1위를 유지하고 있습니다.</p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 백 인 액션의 뜻과 해석, 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><p>현재 로튼 토마토에서의 평가는... 한국에서의 몇몇 반응과는 정말 상반된 평점을 평론가와 시청자들에게 받고 있는 이 영화, 함께 알아보시죠.</p><div><center><a href=&quot;https://www.netflix.com/browse?jbv=81307099&quot; title=&quot;백 인 액션 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>백 인 액션 바로 보러 가기👉</button></a></center></div>'
     },
-    {
-      type: 'image',
-      src: '/images/post101_thumb.svg',
-      alt: '넷플릭스 백 인 액션 (back in action) 뜻 해석 줄거리 평점 결말 후기 < 영화 순위 1위 >',
-      caption: '넷플릭스 백 인 액션 (back in action) 뜻 해석 줄거리 평점 결말 후기 < 영화 순위 1위 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -235,7 +229,7 @@ const post = {
       type: 'ending',
       html: '<p>달리는 중 먹는 패스트푸드 햄버거 같고, 그 포장지는 내용물만큼이나 영양가 없다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

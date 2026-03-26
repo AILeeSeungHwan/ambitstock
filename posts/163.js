@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 1승 시사회 관람평 줄거리 포스팅입니다.</b></span></p><p>2024년 12월 04일 개봉예정인 영화 1승에 대한 모든 정보를 개봉 전 확인해 보시길 바랍니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post163_thumb.svg',
-      alt: '영화 1승 시사회 관람평 줄거리 현재상영작 <12월 예매 1위 송강호 박정민 출연진 >',
-      caption: '영화 1승 시사회 관람평 줄거리 현재상영작 <12월 예매 1위 송강호 박정민 출연진 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -161,7 +155,7 @@ const post = {
       type: 'ending',
       html: '<p>12월 04일 개봉 예정이니, 극장에서 직접 확인해보세요!</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 353,
   sections: [
     { type: 'intro', html: "<p><b><span style=&quot;background-color: #01ff51;&quot;>영화 빅토리 시사회 반응 및 평점 후기 입니다. </span></b></p><p>2024년 8월 14일 개봉하는 영화 빅토리(영어제목 : Victory) 는 <b>에일리언 로물루스, 트위스터스, 행복의 나라</b> 등 올해 최고 기대작들과 같은 날 개봉하며, 개봉일 선정이 미스 초이스라는 평이 많지만, 시사회 평은 <span style=&quot;background-color: #01ff51;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>결과물이 영화 '써니' 재질의 </span>상당히 잘 만들어진 영화라는 긍정적인 평가</b></span>들이 주를 이루고 있습니다. </p><p><span style=&quot;background-color: transparent;&quot;>영화 빅토리 줄거리 개요와 함께 평점 후기반응 살펴보겠습니다.</span></p>" },
-    { type: 'image', src: "/images/post353_thumb.svg", alt: "영화 빅토리 시사회 반응 평점 후기 혜리 출연작 볼만할까? 현재상영작", caption: "영화 빅토리 시사회 반응 평점 후기 혜리 출연작 볼만할까? 현재상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>영화 빅토리 시사회 반응 평점 후기</figcaption> </figure> </p>" },
@@ -34,7 +33,7 @@ const post = {
     { type: 'cta', href: "/movie-overseas-critic-reaction-ending-review/", text: "영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기" },
     { type: 'cta', href: "/movie-release-plot/", text: "영화 행복의 나라 개봉일 확정 티저 예고편 공개 - 줄거리 및 등장인물 정보" },
     { type: 'ending', html: "<p>더 많은 반응은 왓챠피디어에서 확인 가능합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>영화 서바이브 2025 (영어제목 : survive) 예매 할까 말까?</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 서바이브의 뜻 해석과 함께 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다. 현재 로튼 토마토에서의 해외 평점은 어떠한지, 과연 영화관에서 볼만한, 예매할만한 작품인지 함께 확인해 보시죠.</p><div><center><a href=&quot;https://www.rottentomatoes.com/m/survive_2024&quot; title=&quot;서바이브 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>서바이브 평점 후기 바로 보러 가기👉</button></a></center></div>'
     },
-    {
-      type: 'image',
-      src: '/images/post100_thumb.svg',
-      alt: '서바이브 2025 survive 영화 뜻 관람평 해석 예매 < 로튼 토마토 해외 평점 >',
-      caption: '서바이브 2025 survive 영화 뜻 관람평 해석 예매 < 로튼 토마토 해외 평점 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -159,7 +153,7 @@ const post = {
       type: 'ending',
       html: '<p><b>Kat Hughes - 평점 3/5</b><br/>끊임없이 변화하는 배경, 위협, 그리고 긴장을 통해 ‘Survive’는 서바이벌 호러 장르에 환영받을 만한 작품으로 자리매김한다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

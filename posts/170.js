@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>나 혼자만 레벨업 리어웨이크닝 관람평 리뷰 포토 시즌 2 정보 평점 <해외 반응 반응></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post170_thumb.svg',
-      alt: '나 혼자만 레벨업 리어웨이크닝 관람평 리뷰 포토 시즌 2 정보 평점 <해외 반응 반응>',
-      caption: '나 혼자만 레벨업 리어웨이크닝 관람평 리뷰 포토 시즌 2 정보 평점 <해외 반응 반응>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -230,7 +224,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

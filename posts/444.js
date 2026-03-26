@@ -2,7 +2,6 @@ const post = {
   id: 444,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;>티모시 샬라메가 몰려온다. 듄 파트2, 찰리와 초콜릿 공장 그 이전의 이야기, 영화 웡카가 곧 개봉 예정입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>영화 듄 파트2와 웡카 보기전 전작 해외 평점과 반응 살펴보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>그 티모시 샬라메 개봉 예정작 시리즈 첫번째, 듄 파트1 입니다.</p>" },
-    { type: 'image', src: "/images/post444_thumb.svg", alt: "[티모시 샬라메가 몰려온다!] 영화 듄2 개봉일 및 예고편, 개봉전 전작 해외반응 리뷰 넷플릭스 OTT - 개봉 예정작 추천 듄 파트2", caption: "[티모시 샬라메가 몰려온다!] 영화 듄2 개봉일 및 예고편, 개봉전 전작 해외반응 리뷰 넷플릭스 OTT - 개봉 예정작 추천 듄 파트2" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><i><b> <span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>업데이트 </span></b></i></p>" },
@@ -40,7 +39,7 @@ const post = {
     { type: 'image', src: "/images/post444_img3.jpg", alt: "미키17 정보 및 기생충 반응", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post444_img1.jpg", alt: "영화 파묘 정보", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit; background-color: #f3c000;&quot;><b><span style=&quot;text-align: start;&quot;>2024.02.25 (일) 기준 듄 파트2 해외 평점 및 평론가 반응 업데이트</span></b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

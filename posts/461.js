@@ -2,7 +2,6 @@ const post = {
   id: 461,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;>역대 박스오피스 한국 영화 순위 시리즈 첫 번째, 영화 베테랑입니다. </p><p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;>속편 베테랑 2의 개봉일은 24년 하반기로 예정되어 있으며</span></span></b><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;> <span style=&quot;text-align: start;&quot;>이미 촬영이 마무리되어</span> 후반 작업을 진행 중이라</span></span></span> 합니다.</p><p>베테랑 2편 개봉 전 천만관객인 베테랑 1편의 박스오피스 순위 및 정보, 그리고 해외에서는 어떻게 시청하였는지 해외 리뷰 평점과 반응 알아보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post461_thumb.svg", alt: "[영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스 한국 영화 순위 시리즈 OTT 넷플릭스 다시보기", caption: "[영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스 한국 영화 순위 시리즈 OTT 넷플릭스 다시보기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>베테랑 1편의 박스오피스 정보입니다. 순위, 개봉일, 매출, 관객수, 스크린수, 그리고 상영 횟수를 확인하실 수 있습니다. 영화진흥위원회 영화관입장권통합전산망 KOFIC의 역대 박스오피스 통합전산망 자료를 토대로 작성되었습니다.</p>" },
@@ -36,7 +35,7 @@ const post = {
     { type: 'cta', href: "https://ambitstock.com/12", text: "[조커2 영화 개봉일 배우 조커 해외평점과 반응] - 배트맨 할리퀸 합류? 개봉 예정작 (영화 조커 OT" },
     { type: 'cta', href: "/", text: "[영화 미키17 개봉일 티저 예고편, 개봉전 전작 기생충 해외 평점 반응] 봉준호 시리즈 1탄 - 기생" },
     { type: 'ending', html: "<p><a href=&quot;https://ambitstock.com/9&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;><u><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b>봉준호감독 영화 미키 17</b></span></u></a></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

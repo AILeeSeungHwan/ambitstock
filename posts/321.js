@@ -2,7 +2,6 @@ const post = {
   id: 321,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시청가능 영화 더 유니온 해외 평점 후기 반응입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 더 유니온 로튼토마토, IMDB평점 알아보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>시작하기에 앞서 이 영화를 보고자 하는 분들은 큰 기대를 하지 마시길 바랍니다.</p>" },
-    { type: 'image', src: "/images/post321_thumb.svg", alt: "넷플릭스 영화 더 유니온 말 그대로 로튼 토마토! 제목 뜻 해외 평점 후기 반응", caption: "넷플릭스 영화 더 유니온 말 그대로 로튼 토마토! 제목 뜻 해외 평점 후기 반응" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>그 이유는 후기반응에서 살펴보시죠.</p>" },
@@ -38,7 +37,7 @@ const post = {
     { type: 'image', src: "/images/post321_img3.jpg", alt: "더 유니온", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post321_img1.jpg", alt: "더 유니온", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><b>후안 파블로 루소 (EscribiendoCine)</b>: 이야기의 흥미가 빠르게 사라졌고, 캐릭터들이 서로 혹은 관객과 연결되지 못했음. 엔터테인먼트 요소는 있지만, 끝나고 나면 기억에 남기 힘든 영화였음. 평점 5/10.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

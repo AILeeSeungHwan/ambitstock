@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>“무슨 영화 볼까?” 고민될 때, 믿고 보는 기준이 하나 있죠. 저는 <b>이동진 평론가가 만점을 준 작품</b>들에서 먼저 고릅니다. 영화적 성취가 뚜렷하고, 다시 보면 더 깊어지는 영화들이 많거든요.</p><p>아래 리스트는 <span style=&quot;background-color: #01ff51;&quot;><b>지금 넷플릭스에서 시청 가능한 작품</b></span>들로만 추려 담았습니다. 각 영화는 간단 소개에 그치지 않고, 제가 보며 느꼈던 포인트와 <b>감상 팁</b>, <b>같이 보면 좋은 영화</b>도 덧붙였습니다. 주말 한 편, 혹은 몰아보기에 딱 좋은 라인업이에요.</p><p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>여러분의 ‘인생영화’도 댓글로 남겨주세요.</b></span></p><p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>남겨주신 작품의 해외 평단 반응/평점을 정리해 추가로 올릴게요.</b></span></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post75_thumb.svg',
-      alt: '넷플릭스 영화 추천 리스트, 이동진 평론가가 만점 준 볼만한 명작영화 TOP 10',
-      caption: '넷플릭스 영화 추천 리스트, 이동진 평론가가 만점 준 볼만한 명작영화 TOP 10'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -408,7 +402,7 @@ const post = {
       href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

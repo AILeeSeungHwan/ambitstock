@@ -2,7 +2,6 @@ const post = {
   id: 343,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>아직 영화를 관람하지 못한 분들, 다시보기 시청을 원하시는 분들을 위해 </b></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>인사이드 아웃 2 디즈니 플러스<span> </span></b></span><span style=&quot;background-color: #9feec3;&quot;><b>공개일부터 디즈니 플러스 스핀오프<span> </span><span style=&quot;background-color: #9feec3;&quot;>소식까지</span></b><b><span> </span>알아보겠습니다.</b></span></p><p><span style=&quot;color: inherit; text-align: start;&quot;>6월 12일 개봉 후 한국에서만 872만명의 관객수를 기록한 <span style=&quot;color: inherit; text-align: start;&quot;>인사이드 아웃 2는<span> </span></span></span>전 세계 박스 오피스에서 15억 달러의 수익을 올리며 겨울왕국의 흥행을 뛰어넘은 큰 성공을 거두었고, 흥행 부진에 빠진 픽사에게 새로운 활력을 불어 넣어 주었습니다.</p>" },
-    { type: 'image', src: "/images/post343_thumb.svg", alt: "인사이드 아웃 2 디즈니 플러스 영화 추천 공개 예정작 드림 프로덕션까지!", caption: "인사이드 아웃 2 디즈니 플러스 영화 추천 공개 예정작 드림 프로덕션까지!" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>인사이드 아웃 2 디즈니 플러스</figcaption> </figure> </p>" },
@@ -22,7 +21,7 @@ const post = {
     { type: 'image', src: "/images/post343_img3.jpg", alt: "인사이드 아웃 2 디즈니 플러스", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post343_img1.jpg", alt: "인사이드 아웃 2 디즈니 플러스", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>디즈니 플러스 드라마 추천은 하단 포스팅에서 이어집니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

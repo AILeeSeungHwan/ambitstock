@@ -2,7 +2,6 @@ const post = {
   id: 243,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 탈출 : 프로젝트 사일런스가 2024년 10월 16일 수요일 넷플릭스에 공개되었습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>개봉 당시 행복의 나라와 더불어 고 이선균 유작으로 화제를 모았던 작품이었습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>과연 작품성면에서 어떠한지, 볼만한 영화인지 해외 평점과 후기를 바탕으로 알아보도록 하겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post243_thumb.svg", alt: "탈출 : 프로젝트 사일런스 넷플릭스 공개 볼만한 영화? | 해외 평점 로튼 토마토 평론가 반응 인기 순위", caption: "탈출 : 프로젝트 사일런스 넷플릭스 공개 볼만한 영화? | 해외 평점 로튼 토마토 평론가 반응 인기 순위" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서는 로튼 토마토 평론가, 시청자 평점과 IMDB 시청자평점 인기 순위를 알아보고, 다음 포스팅에서 자세한 결말후기반응을 다루도록 하겠습니다.</p>" },
@@ -40,7 +39,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

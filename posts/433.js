@@ -2,7 +2,6 @@ const post = {
   id: 433,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>2024년 하반기 한국영화 개봉예정작 라인업입니다. 총 열개의 작품이며, 관심있는 영화의 예고편을 꼭 찾아보시길 바랍니다.</span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;>그럼 바로 시작하겠습니다.</span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>주연:</b> 하정우, 여진구, 성동일, 채수빈</span></p>" },
-    { type: 'image', src: "/images/post433_thumb.svg", alt: "2024년 하반기 한국영화 개봉예정작 라인업 총정리", caption: "2024년 하반기 한국영화 개봉예정작 라인업 총정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>감독:</b> 김성한</span></p>" },
@@ -98,7 +97,7 @@ const post = {
     { type: 'cta', href: "/movie-rating-북한-도발-오물/", text: "북한 도발? 오물 풍선? 비행기 납치실화 | 영화 하이재킹 정보와 평점 및 평가 현재 상영작" },
     { type: 'cta', href: "/overseas-movie-release-guide/", text: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리" },
     { type: 'ending', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;하반기 해외 블록버스터 영화 추천&quot;>2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리</a></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

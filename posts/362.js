@@ -2,7 +2,6 @@ const post = {
   id: 362,
   sections: [
     { type: 'intro', html: "<p><b>R의 필름공장입니다.</b><br> <br><span style=&quot;background-color: #f3c000;&quot;><b>이번 시리즈에서는 어벤져스 둠스데이에 대한 모든 것을 담은 총 다섯 편의 포스팅을 준비</b></span><b>했습니다.</b><br/> <br/><b>현재 포스팅은 시리즈의 첫 번째 글로, </b><br/><b>어벤져스 둠스데이의 전반적인 배경과 닥터 둠에 대한 소개를 다룹니다.</b><br/> </br></br></p><p><figure><figcaption>어벤져스 둠스데이 완벽정리 시리즈</figcaption> </figure> </p><p><br/><b>해당 시리즈는 24년 8월 5일부터 5일간 연재됩니다.</b><br/><b>즐겨찾기, 구독하시면 이후 나오는 포스팅을 바로 확인해보실 수 있습니다.</b><br/> <br/><b></b></p>" },
-    { type: 'image', src: "/images/post362_thumb.svg", alt: "어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1", caption: "어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>모든 내용은 원작 코믹스와 마블 공식 홈페이지를 기반으로 제작되었습니다.</b><br/> </p>" },
@@ -26,7 +25,7 @@ const post = {
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'cta', href: "/disney-marvel-충격적-새로운-캡틴/", text: "충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈" },
     { type: 'ending', html: "<p><br/><b>여기까지 어벤져스 둠스데이 첫번째 포스팅, 둠스데이의 뜻과 줄거리 내용 포스팅을 마칩니다.</b><br/> <br/><b>다음 포스팅에서는 </b><b>닥터 둠의 과거와 배경 - 빌런이 된 이유와 타노스와 티어비교 알아보겠습니다.</b><br/> </p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

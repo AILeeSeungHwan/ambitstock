@@ -2,7 +2,6 @@ const post = {
   id: 330,
   sections: [
     { type: 'intro', html: "<p>전작의 성공을 잇는 동시에 새로운 매력을 더한 강력 범죄 수사 액션 영화 <b>'베테랑 2'가 돌아옵니다.</b></p><p>이번 작품은 황정민이 다시 한번 베테랑 형사 서도철, 강력 범죄 수사대의 리더로서 연쇄살인범을 추적하는 과정을 그립니다. 새로운 캐릭터로 합류한 정해인이 맡은 박선우는 강력범죄수사대의 막내 형사로, 서도철을 존경하며 함께 범죄를 해결해 나가는 과정에서 성장하는 모습을 보여줍니다.</p><p><b>베테랑 2 주요 출연진 및 등장인물 알아보겠습니다.</b><b></b></p>" },
-    { type: 'image', src: "/images/post330_thumb.svg", alt: "베테랑 2 빌런 악역 출연진 개봉일 정보 | 얼굴이 재밌는 정해인 스틸컷 모음 베테랑 3도?", caption: "베테랑 2 빌런 악역 출연진 개봉일 정보 | 얼굴이 재밌는 정해인 스틸컷 모음 베테랑 3도?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>서도철 (황정민)</b></p>" },
@@ -38,7 +37,7 @@ const post = {
     { type: 'image', src: "/images/post330_img1.jpg", alt: "베테랑 2", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/movie-rating-overseas-review-reaction/", text: "베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에" },
     { type: 'ending', html: "<p>베테랑 2의 칸 영화제 시사회 반응은 아래 포스팅을 확인해 보세요.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

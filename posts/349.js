@@ -2,7 +2,6 @@ const post = {
   id: 349,
   sections: [
     { type: 'intro', html: "<p><b>CGV 할인 혜택을 총정리 해드립니다. </b><b>SKT, KT, LG U+ 영화 예매 할인 혜택을 등급별로 나눠 전해드리겠습니다.</b></p><p>일상에서 문화생활을 즐기는 것은 언제나 새로운 바람을 넣어줍니다.</p><p>일상의 무료함에 밋밋해져버린 사고를 창의성과 흥분의 영감으로 가득채우는 영화.</p>" },
-    { type: 'image', src: "/images/post349_thumb.svg", alt: "CGV 할인 통신사 SKT KT LG U+ 영화 할인 혜택 총정리!", caption: "CGV 할인 통신사 SKT KT LG U+ 영화 할인 혜택 총정리!" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>현명한 문화소비를 도와드리고자 영화 할인 혜택 총정리 시리즈를 준비했습니다.</p>" },
@@ -33,7 +32,7 @@ const post = {
     { type: 'image', src: "/images/post349_img3.jpg", alt: "CGV-할인-KT-멤버십-혜택", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post349_img1.jpg", alt: "CGV-할인-통신사-혜택-총정리", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><b>CGV 할인 총정리 다음 시리즈는 카드혜택입니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

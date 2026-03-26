@@ -2,7 +2,6 @@ const post = {
   id: 287,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 9월 전 세계, 글로벌 인기 순위 1위 넷플릭스 시리즈, 완전무결한 커플 ( 영어제목 : The Perfect Couple )입니다.</b></span></p><p>한국 넷플릭스 순위에서도 상위권을 유지하고 있는 시리즈인 완전무결한 커플의 해외 평론가, 관람객 평점을 확인해 보도록 하겠습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>먼저 로튼 토마토 완전무결한 커플 평론가 평점과 관람객 평점 알아보겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post287_thumb.svg", alt: "넷플릭스 시리즈 완전무결한 커플 글로벌 순위 압도적 1위 | 로튼 평점 볼만할까?", caption: "넷플릭스 시리즈 완전무결한 커플 글로벌 순위 압도적 1위 | 로튼 평점 볼만할까?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>넷플릭스 시리즈 완전무결한 커플 평점</figcaption> </figure> </p>" },
@@ -54,7 +53,7 @@ const post = {
     { type: 'image', src: "/images/post287_img3.jpg", alt: "완전무결한 커플 IMDB 평점", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post287_img1.jpg", alt: "넷플릭스 시리즈 완전무결한 커플", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

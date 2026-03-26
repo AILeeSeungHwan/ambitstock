@@ -2,7 +2,6 @@ const post = {
   id: 320,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시청가능 영화 딜리버런스 제목 뜻 의미와 해외 평점 후기반응 알아보겠습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>최근 공개된 넷플릭스 영화들의 퀄리티에 실망감을 가진 분들이 많으실겁니다. ( 재밌었던 작품이 무엇이었는지 기억이 잘 나지 않음.. )</p><p style=&quot;color: inherit; text-align: start;&quot;>과연 여름맞이 공포영화 딜리버런스의 후기는 어떠한지, 로튼 토마토 평점과 후기 반응을 통해 알아보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post320_thumb.svg", alt: "요즘 넷플릭스 영화 왜이래 | 딜리버런스 뜻 의미 해외 평점과 후기 반응 (공포)", caption: "요즘 넷플릭스 영화 왜이래 | 딜리버런스 뜻 의미 해외 평점과 후기 반응 (공포)" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>&quot;더 딜리버런스(The Deliverance)&quot;</b>의 제목 Deliverance는 <b>&quot;구원&quot;</b> 또는 <b>&quot;해방&quot;</b>이라는 의미를 담고 있습니다.</p>" },
@@ -37,7 +36,7 @@ const post = {
     { type: 'image', src: "/images/post320_img3.jpg", alt: "영화 딜리버런스", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post320_img1.jpg", alt: "넷플릭스 영화 딜리버런스", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><b>Elliott Collins</b> - 2.8/5<br/>'The Deliverance'는 'The Exorcist Believer'가 추구했던 것을 예기치 않게 더 나은 버전으로 제공하였음. 매력적인 캐릭터와 관계에 투자하였지만, 공포를 제공하는 데는 실패하였음.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

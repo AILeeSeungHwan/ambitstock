@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\'; background-color: transparent;&quot;><br>JTBC 드라마 역대 시청률 순위 TOP10으로 알아보는<span> </span><b><span style=&quot;background-color: #f3c000;&quot;>넷플릭스 디즈니플러스 티빙 와챠 등 OTT 드라마 추천</span></b>입니다.</br></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>시청률 순위는 역순으로 10위부터 1위까지 알아보도록 하겠습니다. 드라마 영어제목, 간략한 설명 및 시청률, 그리고 등장인물 함께 확인하겠습니다.</span></p><p><figure><figcaption>JTBC 역대 시청률 드라마 추천</figcaption> </figure> </p>'
     },
-    {
-      type: 'image',
-      src: '/images/post420_thumb.svg',
-      alt: 'JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천',
-      caption: 'JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -400,7 +394,7 @@ const post = {
       href: '/movie-box-office-audience-guide-ott/',
       text: '역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

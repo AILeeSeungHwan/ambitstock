@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 11일 개봉예정영화 더 크로우( The Crow ) 관람평 후기와 영화 제목 뜻 의미 해석입니다.</b></span></p><p>현재 해외에서 로튼토마토 평론가 관객 평가가 엇갈리며 극단적인 차이를 보이고 있습니다.</p><p>과연 어떠한 점이 이러한 평가를 가져왔는지 확인해 보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post181_thumb.svg',
-      alt: '더 크로우 ( The Crow ) 영화 관람평 포토 정보 결말 후기 뜻 의미 해석 <평론가 관객 엇갈린 평가>',
-      caption: '더 크로우 ( The Crow ) 영화 관람평 포토 정보 결말 후기 뜻 의미 해석 <평론가 관객 엇갈린 평가>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -184,7 +178,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

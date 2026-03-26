@@ -2,7 +2,6 @@ const post = {
   id: 396,
   sections: [
     { type: 'intro', html: "<p>최애의 아이 시즌 2기 원작 만화 내용 (5권부터 10권까지) 줄거리 내용을 스포 포함 결말 후기까지 정리해드립니다.</p><p><br>최애의 아이 시즌 2는 원작 만화의 5권에서 10권까지의 내용을 기반으로 하고 있습니다. 이 부분에서는 아쿠아와 루비가 연예계에서 겪는 다양한 사건과 갈등이 중심이 됩니다.</br></p><p><figure><figcaption>최애의 아이 시즌 2기 줄거리 내용 스포 포함</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post396_thumb.svg", alt: "2024년 7월 애니메이션 추천 최애의 아이 시즌 2기 원작 만화책 줄거리 내용 스포 포함! 결말 및 후기 총정리", caption: "2024년 7월 애니메이션 추천 최애의 아이 시즌 2기 원작 만화책 줄거리 내용 스포 포함! 결말 및 후기 총정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><br/><span style=&quot;background-color: #f3c000;&quot;><b>루비는 새로운 도전으로 2.5차원 무대</b></span>에 오릅니다.</p>" },
@@ -55,7 +54,7 @@ const post = {
     { type: 'image', src: "/images/post396_img3.jpg", alt: "최애의 아이 시즌 2기 줄거리 내용 스포 포함", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post396_img1.jpg", alt: "최애의 아이 시즌 2기 줄거리 내용 스포 포함", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>주요 캐릭터들의 감정선이 충분히 다뤄지지 않았다는 점에서 아쉬움을 표했습니다 .<br/><br/></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

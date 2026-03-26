@@ -2,7 +2,6 @@ const post = {
   id: 241,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>작가 한강의 노벨문학상 수상으로 핫한 작품이 있습니다. 영화 채식주의자입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>2024년 10월 17일 채식주의자의 영화버전이 재개봉합니다. 2010년 작품으로 작품성에 대한 엄청난 비판과 비난이 있었던 영화입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>특히나 원작의 내용을 정확히 이해하지 못하고 만들어진 작품이라는 평가가 많은 만큼, 재개봉의 의의가 있을지에 대한 의문이 듭니다.</p>" },
-    { type: 'image', src: "/images/post241_thumb.svg", alt: "채식주의자 해외 반응 평점 관람평 재개봉 노벨문학상 작품 노출이 만연한 영화 작품성은?", caption: "채식주의자 해외 반응 평점 관람평 재개봉 노벨문학상 작품 노출이 만연한 영화 작품성은?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>그렇다면 해외 시청자들은 영화를 어떻게 보았는지, 얼마 없는 평가이지만 최대한 찾아서 전달해 드립니다.</p>" },
@@ -30,7 +29,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

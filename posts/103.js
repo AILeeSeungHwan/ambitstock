@@ -2,7 +2,6 @@ const post = {
   id: 103,
   sections: [
     { type: 'intro', html: "<p><b>영화 히트맨 2가 (영어제목 : Hit Man) 2025년 1월 22일 개봉하였습니다.</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 히트맨 2 개봉시기에 맞춰 넷플릭스에 공개된 전작에 대해 자세히 알아보도록 하겠습니다.</b></span></p><p>영화의 제목 뜻과 해석, 그리고 해외 시청자 반응과 평점 후기를 확인해 보시죠.</p><div><center><a href=&quot;https://www.netflix.com/browse?jbv=81313503&quot; title=&quot;히트맨 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>히트맨 바로 보러 가기👉</button></a></center></div>" },
-    { type: 'image', src: "/images/post103_thumb.svg", alt: "히트맨 2 개봉 전편 넷플릭스에서 시청가능! <제목 뜻 해석 평점 후기>", caption: "히트맨 2 개봉 전편 넷플릭스에서 시청가능! <제목 뜻 해석 평점 후기>" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -46,7 +45,7 @@ const post = {
     { type: 'body', html: "<p>몇몇 장면은 생략하거나 짧게 편집했어도 좋았을 것 같아요.</p>" },
     { type: 'body', html: "<p>스토리와 캐릭터는 복잡하거나 독창적이지 않고, 이미 본 듯한 느낌을 줍니다.</p>" },
     { type: 'ending', html: "<p>그래도 몇몇 재미있는 순간이 있어서 시간이 남는다면 한 번쯤 볼 만한 영화라고 생각해요.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

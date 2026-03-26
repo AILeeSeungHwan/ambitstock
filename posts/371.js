@@ -2,7 +2,6 @@ const post = {
   id: 371,
   sections: [
     { type: 'intro', html: "<p>2024년 8월 17일 개봉예정인 <b><span style=&quot;background-color: #01ff51;&quot;>에일리언: 로물루스 시사회 해외 후기반응과 출영진 쿠키여부 정보</span></b> 전해드립니다.</p><p>시사회 해외 후기반응부터 시작합니다.</p><p><figure><figcaption>에일리언 로물루스 시사회 후기</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post371_thumb.svg", alt: "에일리언 로물루스 보러가기 시사회 미친 해외 반응과 후기 출연진 쿠키 정보", caption: "에일리언 로물루스 보러가기 시사회 미친 해외 반응과 후기 출연진 쿠키 정보" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>영화 에일리언: 로물루스 부제<span> </span></b></span></p>" },
@@ -46,7 +45,7 @@ const post = {
     { type: 'image', src: "/images/post371_img3.jpg", alt: "에일리언 로물루스 시사회 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post371_img1.jpg", alt: "에일리언 로물루스 시사회 후기", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;>영화에서 중요한 사건에 관여하는 인물로, 이번 영화에서 첫 주요 역할을 맡았습니다​</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

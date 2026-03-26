@@ -2,7 +2,6 @@ const post = {
   id: 302,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>기다리던 2024년의 한국영화 대작 베테랑 2가 드디어 개봉하였습니다.</b></span></p><p>지금까지 한국영화는 속편에 대한 기대감을 완전히 박살내는 결과를 가져오는 경우가 대부분이었습니다. (범죄도시2, 신과 함께 예외)</p><p>1편의 성공이후 속편을 제작하지만 기대치만큼의 결과물을 가져오지 못하였죠.</p>" },
-    { type: 'image', src: "/images/post302_thumb.svg", alt: "현재상영작 순위 1위 베테랑 2 예매할까? 영어 제목 뜻과 해외 평점 로튼 토마토 반응", caption: "현재상영작 순위 1위 베테랑 2 예매할까? 영어 제목 뜻과 해외 평점 로튼 토마토 반응" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>과연 이번 베테랑 2의 결과는 어떠할 지, 소문난 잔치의 결과를 한번 함께 알아보도록 하겠습니다.</p>" },
@@ -38,7 +37,7 @@ const post = {
     { type: 'image', src: "/images/post302_img3.jpg", alt: "베테랑 2 네이버 평점", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post302_img1.jpg", alt: "베테랑 2 해외 평점", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>첫 번째 영화보다 거의 모든 면에서 더 큰 규모를 보여주며, <i>I, The Executioner</i>는 대중주의의 위험성을 경고하고, 폭력을 고발하며, 관객들을 손에 땀을 쥐게 하는 롤러코스터 같은 경험으로 이끕니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

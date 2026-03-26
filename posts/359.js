@@ -2,7 +2,6 @@ const post = {
   id: 359,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b>닥터 둠의 능력 총정리 어벤져스5 심층분석 시리즈 4번째 입니다.</b></p><p style=&quot;color: inherit; text-align: start;&quot;>마블 코믹스 원작을 바탕으로 <b>어벤져스5 MCU에서 나올 닥터 둠의 능력</b>을 총정리해드립니다.<br><br/></br></p><p>이전 세개의 포스팅, 둠스데이 메인빌런 닥터 둠의 배경과 빌런이 된 이유</p>" },
-    { type: 'image', src: "/images/post359_thumb.svg", alt: "어벤져스5 로다주 닥터 둠 능력 | 과학에 마법까지 마블 코믹스 원작 총정리 -4", caption: "어벤져스5 로다주 닥터 둠 능력 | 과학에 마법까지 마블 코믹스 원작 총정리 -4" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>그는 빌런인가 영웅인가에 대한 포스팅을<span> </span>먼저 보고 오시는 것을 추천합니다.</p>" },
@@ -55,7 +54,7 @@ const post = {
     { type: 'image', src: "/images/post359_img3.jpg", alt: "어벤져스5 닥터둠 능력", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post359_img1.jpg", alt: "어벤져스5 닥터둠 능력", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;>어벤져스 닥터 둠 시리즈 마지막 화에서 그 답을 찾아보겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 236,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 영화 더 룸 넥스트 도어 시사회 후기 리뷰 관람평 알아보도록 하겠습니다.</b></span></p><p>어떠한 점이 베니스국제영화제 황금사자상을 수상하게 만들었는지, 작품성에 대한 이야기와 결말 후기로부터 확인해 보겠습니다.</p><p>이전 포스팅을 통하여 영화 룸 넥스트 도어의 뜻과 의미 해석, 그리고 로튼 토마토 해외 평점을 확인해 보실 수 있습니다.</p>" },
-    { type: 'image', src: "/images/post236_thumb.svg", alt: "룸 넥스트 도어 시사회 결말 후기 리뷰 관람평 영화 예매 할까 말까 | 페드로 알모도바르 감독 수상작", caption: "룸 넥스트 도어 시사회 결말 후기 리뷰 관람평 영화 예매 할까 말까 | 페드로 알모도바르 감독 수상작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
@@ -40,7 +39,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

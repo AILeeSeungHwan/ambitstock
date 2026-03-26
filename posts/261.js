@@ -2,7 +2,6 @@ const post = {
   id: 261,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>더 플랫폼 2 해외 평론가 후기 반응 리뷰 살펴보겠습니다.</b></span></p><p>아마도 전작을 재밌게 시청하신 분들이라면, 이번 후속작에 대한 기대를 저버리시는게 좋다고 생각됩니다. 평론가와 시청자 모두 혹평만이 남아있는 작품이기에, 더 플랫폼 2를 지금 시청하고자 하는 분들은 다른 영화를 찾아보시길 바랍니다.</p><p>어떠한 점이 전작의 좋은 평가를 뒤집고 안 좋은 후속작을 가져오게 되었는지, 리뷰를 통해서 확인해 보시길 바랍니다. 지난 포스팅에서 좋은 평가를 받았던 전작 줄거리 내용 결말과 더 플랫폼 2의 평론가, 시청자 평점을 확인하실 수 있습니다.</p>" },
-    { type: 'image', src: "/images/post261_thumb.svg", alt: "더 플랫폼 2 해외 평론가 결말 후기 반응 관람평 리뷰 | 기대하셨다면 죄송합니다", caption: "더 플랫폼 2 해외 평론가 결말 후기 반응 관람평 리뷰 | 기대하셨다면 죄송합니다" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>더 플랫폼 2 평론가 반응 알아보겠습니다.</b></span></p>" },
@@ -30,7 +29,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

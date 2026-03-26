@@ -2,7 +2,6 @@ const post = {
   id: 260,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>의외로 풍성한 10월의 개봉예정영화입니다.</b></span></p><p>8월 이후 9월은 베테랑 2 외에 심드렁한 극장가였기에, 베테랑 2의 작품성이 어느 정도 떨어짐에도 불구하고 1위를 유지할 수 있었습니다. 10월은 여러 작품들의 이름이 오르내리고 있습니다.</p><p><figure><figcaption>할머니가 죽기 전 백만장자가 되는 법</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post260_thumb.svg", alt: "할머니가 죽기 전 백만장자가 되는 법 해외 평론가 후기 결말 반응 관람평 리뷰 | 개봉예정영화 태국", caption: "할머니가 죽기 전 백만장자가 되는 법 해외 평론가 후기 결말 반응 관람평 리뷰 | 개봉예정영화 태국" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>뉴욕 아시아 영화제 관객상을 수상하고 현재 로튼 토마토에서 좋은 반응을 받고 있는 태국 영화, 할머니가 죽기 전 백만장자가 되는 법, 해외 평론가 후기 반응 전체적으로 알아보도록 하겠습니다.</p>" },
@@ -34,7 +33,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

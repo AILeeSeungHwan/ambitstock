@@ -2,7 +2,6 @@ const post = {
   id: 256,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 더 플랫폼 2는 첫 번째 영화의 세계관을 공유하며 새로운 주인공 페렘푸안의 이야기를 다룹니다. </b></span></p><p>영화의 배경은 이전 작품과 같은 수직 자율 관리 센터이며, 이곳에는 333층이 존재합니다.</p><p>상층부에 있는 사람들은 먼저 음식을 먹을 수 있으며, 하층부로 갈수록 남은 음식이 전달되게 됩니다. 하지만 현실적으로 사람들이 배급받은 음식만 먹지 않기 때문에 각 층에 충분한 음식이 제공되지 못하고, 결국 혼란과 폭력이 발생합니다. 이번 영화에서는 첫 번째 작품의 무정부적인 혼란 대신 법을 지키지 않는 사람들에게 가혹한 처벌을 내리는 엄격한 시스템이 도입됩니다.</p>" },
-    { type: 'image', src: "/images/post256_thumb.svg", alt: "더 플랫폼 2 결말 해석 줄거리 내용 스포 포함 | 이기적인 인간 그리고 잔혹한 시스템", caption: "더 플랫폼 2 결말 해석 줄거리 내용 스포 포함 | 이기적인 인간 그리고 잔혹한 시스템" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b>더 플랫폼 1 줄거리 내용 결말 해석</b></p>" },
@@ -29,7 +28,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

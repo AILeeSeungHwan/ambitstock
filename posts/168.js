@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>공각기동대 영화 관람평 후기 해외 반응 < 일본 애니메이션 추천 역사적 명작이 돌아온다 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post168_thumb.svg',
-      alt: '공각기동대 영화 관람평 후기 해외 반응 < 일본 애니메이션 추천 역사적 명작이 돌아온다 >',
-      caption: '공각기동대 영화 관람평 후기 해외 반응 < 일본 애니메이션 추천 역사적 명작이 돌아온다 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -140,7 +134,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

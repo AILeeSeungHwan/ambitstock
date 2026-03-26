@@ -2,7 +2,6 @@ const post = {
   id: 388,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><span style=&quot;color: inherit;&quot;>2024년 02월 22일 목요일, 장재현감독의 영화 파묘가 개봉하였다. </span><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><b>개봉 첫날 관객수 32만 명을</b></span></span><span style=&quot;color: inherit;&quot;> 기록하며 서울의 봄 오픈 스코어 기록을 훌쩍 뛰어넘었고, 3일 차에는 벌써 71만 명을 기록 중이다. (26일 200만 관객수 돌파)</span><span style=&quot;color: inherit;&quot;><br/></span><span style=&quot;color: inherit;&quot;></span></span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;><span style=&quot;color: inherit;&quot;><br/></span><span style=&quot;color: inherit;&quot;>작품성과 별개로 현재 이승만 대통령 다큐멘터리 건국 전쟁 김덕영 감독의 발언으로 인하여 정치적인 좌파 우파 갈라치기가 일어나고 있다. 영화 파묘에 포함된 반일 소재가 그 이유인데, 이번 포스팅에서 자세하게 알아볼 것 이다.</span></span><span style=&quot;color: inherit;&quot;><br/></span><span style=&quot;font-family: Noto Serif KR;&quot;><span style=&quot;color: inherit;&quot;></span></span></p><p><span style=&quot;font-family: Noto Serif KR;&quot;><span style=&quot;color: inherit;&quot;><br/></span></span><span style=&quot;font-family: Noto Serif KR;&quot;><span style=&quot;color: inherit;&quot;>현재 영화 파묘의 평점은 8.61이며(현재 5일차 평점 8.34점), 제작비와 손익분기점은 140억, 관객수 330만으로, 개봉 첫날부터 지금까지 현재상영작 순위 1위를 꾸준히 유지하고 있다. 이러한 흐름이면 손익분기점은 쉽게 넘길 수 있을 것으로 보인다. 이번 포스팅에선 영화 파묘의 줄거리와 결말 해석, 그리고 현재 이슈에 대해 생각해 볼 수 있는 모든 것들을 알아보고자 한다</span></span><span style=&quot;color: inherit;&quot;>. </span><br/> <br/> </p>" },
-    { type: 'image', src: "/images/post388_thumb.svg", alt: "[영화 파묘 오컬트 뜻 반일논란] 명작에 때 아닌 정치색 전쟁 - 스포포함 결말 해석 후기리뷰 현재상영작 순위", caption: "[영화 파묘 오컬트 뜻 반일논란] 명작에 때 아닌 정치색 전쟁 - 스포포함 결말 해석 후기리뷰 현재상영작 순위" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;>장재현 감독 오컬트 영화 시리즈 정보는 이전 게시글 참고</span></p>" },
@@ -22,7 +21,7 @@ const post = {
     { type: 'image', src: "/images/post388_img3.jpg", alt: "장재현 감독", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post388_img1.jpg", alt: "영화 검은사제들", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p> <br/> <br/><span style=&quot;font-family: 'Noto Serif KR';&quot;>장재현 감독의 전작 검은 사제들, 사바하는 현재 OTT 중 넷플릭스에서 시청 가능</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 225,
   sections: [
     { type: 'intro', html: "<p>해외에서 엄청난 반응을 이끌고 있는 작품 아노라 (영어제목 : Anora )! 이동진 평론가가 추천하는 볼만한 개봉 예정 영화로, 어떤 후기를 남겼을지 관람평 리뷰 확인해 보도록 하겠습니다.</p><p><b><span style=&quot;background-color: #9feec3;&quot;>로튼 토마토 무려 99%, 신선도 보증마크 획득의 대작! 영화 아노라 입니다.</span></b></p><p><span style=&quot;background-color: #9feec3;&quot;><b>영화 아노라의 관람평 시사회 후기 리뷰입니다.</b></span></p>" },
-    { type: 'image', src: "/images/post225_thumb.svg", alt: "아노라 Anora 관람평 후기 시사회 리뷰 | 엄청나다! 이동진 평론가 볼만한 영화 추천", caption: "아노라 Anora 관람평 후기 시사회 리뷰 | 엄청나다! 이동진 평론가 볼만한 영화 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;>Britt Hayes - 평점: 5/5</span></i><br/>세안 베이커 감독의 영화 중 가장 재미있는 아노라 (Anora)는 매혹적인 캐릭터의 디테일한 고찰을 보인다.</p>" },
@@ -32,7 +31,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

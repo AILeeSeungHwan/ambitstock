@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>더 킬러: 죽음의 여왕 평점 로튼 관람평, 이 영화 꼭 보셔야 겠어요?</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post120_thumb.svg',
-      alt: '더 킬러: 죽음의 여왕 평점 로튼 관람평, 이 영화 꼭 보셔야 겠어요?',
-      caption: '더 킬러: 죽음의 여왕 평점 로튼 관람평, 이 영화 꼭 보셔야 겠어요?'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -178,7 +172,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

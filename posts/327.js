@@ -2,7 +2,6 @@ const post = {
   id: 327,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>최근 파일럿, 행복의 나라 등 연달아 개봉한 작품마다 흥행을 이어가던 조정석의, 또 하나의 작품이 등장합니다.</b></span></p><p>20년간 쌓아온 배우 경력동안 여러 OST 곡들을 직접 참여할정도로 가수에 대한 꿈을 가지고 있던 배우 조정석이 신인가수로 데뷔하는 과정을 보여주는 프로그램입니다. 우리가 모두 알고 있는 '아로하'라는 곡이 '대인기'를 끌며 한동안 대표 축가곡으로 자리를 잡았었습니다.</p><p>친한 선배의 축가로 아로하를 준비하며 조정석님의 노래를 수백번 들어보았는데, 목소리 톤이 굉장히 매력적이고 듣기 좋은 소리를 가지고 있습니다. 따라부르기도 좋은 곡이라 축가곡으로 큰 인기를 끌 수 있었던 것 같습니다.</p>" },
-    { type: 'image', src: "/images/post327_thumb.svg", alt: "신인가수 조정석 넷플릭스 출연진 PD 공개정보", caption: "신인가수 조정석 넷플릭스 출연진 PD 공개정보" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p> 열일하는 조정석님의 넷플릭스 예능 &lt;신인가수 조정석&gt;, 기본 정보부터 출연진, 연출진, 공개 정보 등 모든 정보을 함께 살펴보겠습니다.</p>" },
@@ -19,7 +18,7 @@ const post = {
     { type: 'image', src: "/images/post327_img3.jpg", alt: "신인가수 조정석", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post327_img1.jpg", alt: "신인가수 조정석", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>'신인가수 조정석'은 싱어송라이터를 꿈꾸는 조정석의 신인가수 데뷔 프로젝트로, 8월 30일 넷플릭스에서 공개될 예정입니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

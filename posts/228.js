@@ -2,7 +2,6 @@ const post = {
   id: 228,
   sections: [
     { type: 'intro', html: "<p>2024년 10월 23일은 여러 작품들이 개봉하였습니다.</p><p>그중에서도 독보적인 색채를 가진 한국영화가 등장하였는데, 영화 더 킬러스 (The Killers)입니다.</p><p>이번 포스팅에서는 영화 더 킬러스의 줄거리 내용을 바탕으로 <span style=&quot;background-color: #9feec3;&quot;><b>영화 더 킬러스 제목의 뜻과 의미를 해석하고, 해외 평론가들의 관람평 결말 후기 리뷰를 알아보도록 하겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post228_thumb.svg", alt: "더 킬러스 관람평 결말 후기 리뷰 줄거리 내용을 바탕으로 뜻 의미 해석하기 | 해외에서도 극찬! 로튼 토마토 반응 헤밍웨이 원작", caption: "더 킬러스 관람평 결말 후기 리뷰 줄거리 내용을 바탕으로 뜻 의미 해석하기 | 해외에서도 극찬! 로튼 토마토 반응 헤밍웨이 원작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>더 킬러스 줄거리 내용을 바탕으로 제목 뜻 의미를 해석해 보겠습니다.</b></span></p>" },
@@ -29,7 +28,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 11일 개봉작 크리스마스에 기적을 만날 확률 ( 영어제목 : Tokyo GodFathers) 관람평 후기입니다.</b></span></p><p><figure><figcaption>크리스마스에 기적을 만날 확률</figcaption> </figure> </p>'
     },
-    {
-      type: 'image',
-      src: '/images/post162_thumb.svg',
-      alt: '크리스마스에 기적을 만날 확률 관람평 결말 후기 포토 예매 < 고전 명작 일본 애니메이션 겨울 영화 추천 >',
-      caption: '크리스마스에 기적을 만날 확률 관람평 결말 후기 포토 예매 < 고전 명작 일본 애니메이션 겨울 영화 추천 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -181,7 +175,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

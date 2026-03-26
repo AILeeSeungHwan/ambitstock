@@ -2,7 +2,6 @@ const post = {
   id: 473,
   sections: [
     { type: 'intro', html: "<p>2023.12.30 최신업데이트<br/> <br/>서울의 봄 &lt;영어제목 - 12.12: THE DAY&gt;의 해외 평점 및 반응입니다.<br/>국내에선 올해 최고 영화로 평가받을만큼 흥행을 하였지만, 해외에서는 아직 관람객이 많지 않은 만큼 많은 리뷰를 남기진 않았습니다.<br/> </p>" },
-    { type: 'image', src: "/images/post473_thumb.svg", alt: "[서울의 봄 해외 평점 및 해외 반응] -  해외에서 바라보는 전두광의 그날 해외 개봉소식, 천만돌파 <서울의 봄> 리뷰 현재 상영작", caption: "[서울의 봄 해외 평점 및 해외 반응] -  해외에서 바라보는 전두광의 그날 해외 개봉소식, 천만돌파 <서울의 봄> 리뷰 현재 상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "1. IMDB", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -23,7 +22,7 @@ const post = {
     { type: 'cta', href: "https://v.daum.net/v/20231228063007014", text: "“국내는 좁다” 해외로 뻗는 ‘서울의 봄’" },
     { type: 'body', html: "<p><b>기사 요약</b></p>" },
     { type: 'ending', html: "<p>※ 23년 12월 28일 기준 북미 극장 매출이 100만 달러 돌파<br/>※ 올해 한국영화 최고 흥행 기록<br/>※ 2022년 범죄도시2 이후로 첫 100만 달러 돌파<br/>※ 로스앤젤레스 3개 극장에서 상영 시작, 현재 북미 전역 50개 극장으로 확대<br/>※ 2월 일본 개봉 예정</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

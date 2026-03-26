@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 애비게일 (Abigail)이 넷플릭스에 등록된 후 한국 영화 인기순위 TOP 등수에 올랐습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토에서도 좋은 평점을 기록하고 있는 이 영화, 볼지 말지 고민 중이라면 이 포스팅을 통해 확실하게 알아보시길 바랍니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>애비게일 로튼 토마토 평점과 해외 평론가 반응 후기를 함께 알아보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post205_thumb.svg',
-      alt: '애비게일 (Abigail) 평점 결말 후기 관람평 리뷰 | 넷플릭스 최신 등록 인기 순위 영화 추천',
-      caption: '애비게일 (Abigail) 평점 결말 후기 관람평 리뷰 | 넷플릭스 최신 등록 인기 순위 영화 추천'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -134,7 +128,7 @@ const post = {
       href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

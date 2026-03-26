@@ -2,7 +2,6 @@ const post = {
   id: 407,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>영화 범죄도시 4 ( 영어제목 : The Roundup: Punishment  - Crime City 4) <span style=&quot;background-color: #f3c000;&quot;><b>해외 평론가 평점 및 리뷰 반응</b></span>입니다.</span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;>로튼토마토 평점 및 평론가 리뷰를 통해 마동석의 범죄도시4 해외 반응 살펴보겠습니다.</span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;>로튼토마토 <span style=&quot;background-color: #f3c000;&quot;><b>범죄도시4 평론가 평점은 90%, 관람객 평점 92%</b></span> 입니다.</span></p>" },
-    { type: 'image', src: "/images/post407_thumb.svg", alt: "시멘트 주먹 마동석 영화 추천 | 범죄도시 4 해외 평론가 평점 및 리뷰 반응", caption: "시멘트 주먹 마동석 영화 추천 | 범죄도시 4 해외 평론가 평점 및 리뷰 반응" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>국내에서는 범죄도시 시리즈의 반복으로 인해 물린다는 반응이 많은 만큼, 네이버 평점 또한 7.5점대의 저조한 기록을 한 것과는 대비되는 결과 입니다.</span></p>" },
@@ -54,7 +53,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-jtbc-top10-ott/", text: "JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천" },
     { type: 'cta', href: "/tving-drama-recommend-tvn-top-10/", text: "2024년 TVN 역대 시청률 TOP 10 티빙 드라마 순위 추천" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><span style=&quot;background-color: #f3c000;&quot;><b>디즈니 플러스, JTBC, TVN 역대 시청률 순위</b></span>로 알아보는 드라마 추천 정보 확인하세요</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

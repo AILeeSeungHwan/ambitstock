@@ -2,7 +2,6 @@ const post = {
   id: 237,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 룸 넥스트 도어가 로튼 토마토에서 좋은 평점을 기록 중입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>81회 베니스국제영화제 황금사자상을 수상한 작품으로, 작품성으로는 의심하지 않고 관람하셔도 되는 영화가 2024년 10월 23일 개봉합니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 영화 제목인 룸 넥스트 도어의 뜻과 의미를 해석하고 로튼 토마토와 해외 평점, 인기순위를 확인해 보도록 하겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post237_thumb.svg", alt: "영화 룸 넥스트 도어 뜻 의미 해석 로튼 토마토 해외 평점 | 81회 베니스국제영화제(황금사자상)", caption: "영화 룸 넥스트 도어 뜻 의미 해석 로튼 토마토 해외 평점 | 81회 베니스국제영화제(황금사자상)" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 룸 넥스트 도어 로튼토마토 평론가 평점입니다.</b></span></p>" },
@@ -40,7 +39,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

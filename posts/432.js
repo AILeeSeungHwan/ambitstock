@@ -2,7 +2,6 @@ const post = {
   id: 432,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>반지의 제왕을 좋아하시는 팬들에게 기쁜 소식이 있습니다. <span class=&quot;highlight&quot;>&quot;반지의 제왕: 로히림의 전쟁&quot;</span>이 곧 개봉합니다. 이번 시리즈는 전작들과는 다르게 애니메이션으로 제작중이며, J.R.R. 톨킨의 풍부한 세계관에서 로한의 역사와 전설을 심도 있게 다룰 예정입니다. 로히림(로한인을 뜻함)의 용맹한 전사들과 그들이 겪었던 전쟁을 중심으로 한 서사시를 그려낼 것입니다. </span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;> </span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;> </span></p>" },
-    { type: 'image', src: "/images/post432_thumb.svg", alt: "박스오피스 1위 영화의 귀환 - 반지의 제왕 로히림의 전쟁 개봉정보 및 전작 OTT 다시보기 총정리", caption: "박스오피스 1위 영화의 귀환 - 반지의 제왕 로히림의 전쟁 개봉정보 및 전작 OTT 다시보기 총정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;> </span></p>" },
@@ -64,7 +63,7 @@ const post = {
     { type: 'image', src: "/images/post432_img3.jpg", alt: "헤라 헬름 할레스 하마", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post432_img1.jpg", alt: "반지의 제왕 로히림의 전쟁", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>반지의 제왕 전 시리즈 시청 가능한 OTT는 현재 시리즈온, 웨이브, 쿠팡 플레이입니다.</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 345,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 더 인플루언서 인기 순위와 출연진들의 근황 이슈논란을 전해드립니다.</b></span></p><p>방영 전 부터 온갖 이슈의 중심에 섰던 더 인플루언서, 방영 후에도 과즙세연의 새로운 논란과 이슈가 발생하며 끝없는 논란의 인플루언서의 삶을 현실에서도 보여주고 있습니다. 해외 시청자들은 어떻게 보았는지 알아보겠습니다.</p><p><figure><figcaption>넷플릭스 인기 순위 더 인플루언서</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post345_thumb.svg", alt: "넷플릭스 인기 순위 더 인플루언서 과즙세연 오킹 근황 이슈논란 속 1위 유지", caption: "넷플릭스 인기 순위 더 인플루언서 과즙세연 오킹 근황 이슈논란 속 1위 유지" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>소셜 서바이벌 예능 '더 인플루언서'가 전 세계적으로 큰 인기를 끌며,<span> </span><span style=&quot;background-color: #9feec3;&quot;><b>2024년 8월 14일 기준 글로벌 TV쇼(비영어) 부문에서 4위</b></span>에 올랐습니다. 대한민국의 대표 인플루언서 77명 중 최고의 영향력을 가진 사람을 찾기 위해 경쟁하는 형식으로,<span> </span><span style=&quot;background-color: #9feec3;&quot;><b>공개 직후 한국 내 'TOP 10 시리즈' 부문에서 연속 1위를 차지하며 화제</b></span>를 모았습니다.</p>" },
@@ -22,7 +21,7 @@ const post = {
     { type: 'image', src: "/images/post345_img3.jpg", alt: "더 인플루언서 과즙세연", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post345_img1.jpg", alt: "넷플릭스 인기 순위 더 인플루언서", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>다음 포스팅에서는 넷플릭스 더 인플루언서 해외 평점과 후기 반응을 전해드리겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

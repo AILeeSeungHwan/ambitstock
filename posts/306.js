@@ -2,7 +2,6 @@ const post = {
   id: 306,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>현재 상영작 중 볼만한 영화를 추천해드립니다. </b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>영화 스픽 노 이블, 제목 뜻과 줄거리 내용의 연관성을 알아보고, 로튼 토마토 평론가 평점과 후기반응을 바탕으로 예매할지 말지 정해드리겠습니다.</b></span></p><p><b>영화 스픽 노 이블 로튼 토마토 평론가 평점입니다.</b></p>" },
-    { type: 'image', src: "/images/post306_thumb.svg", alt: "현재 상영작 추천 영화 스픽 노 이블 제목 뜻 예매할까 말까 | 스포 포함 줄거리 내용 평론가 평점 반응", caption: "현재 상영작 추천 영화 스픽 노 이블 제목 뜻 예매할까 말까 | 스포 포함 줄거리 내용 평론가 평점 반응" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>로튼 토마토 스픽 노 이블 평점</figcaption> </figure> </p>" },
@@ -22,7 +21,7 @@ const post = {
     { type: 'image', src: "/images/post306_img3.jpg", alt: "스픽 노 이블 결말 해석", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post306_img1.jpg", alt: "로튼 토마토 스픽 노 이블 평점", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>다음 포스팅에서 평론가 후기 반응 살펴보도록 하겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

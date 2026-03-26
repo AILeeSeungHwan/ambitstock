@@ -2,7 +2,6 @@ const post = {
   id: 87,
   sections: [
     { type: 'intro', html: "<p>2025년 3월 26일에 개봉한 영화 승부, 아마도 올해 상반기 모두가 기다리던 한국영화였을 것입니다. 연기로는 누구도 욕할 수 없는 둘, 이병헌과 유아인이 주연을 맡았으며, 개봉 이후 박스오피스 1위를 유지하며 흥행을 이어가고 있습니다. 현재 4월 3일까지 누적 관객 수는 약 92만 명으로 좋은 성적을 거두고 있습니다.</p><p>이번 포스팅에서는 영화 승부의 줄거리, 그리고 현재 긍정적인 평가와 부정적인 평가, 이동진평론가의 평점과 평가까지 종합적으로 알아보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post87_thumb.svg", alt: "승부(The Match) 1위 이병헌 유아인 결말 후기 이동진 평점 <조훈현 이창호 실화>", caption: "승부(The Match) 1위 이병헌 유아인 결말 후기 이동진 평점 <조훈현 이창호 실화>" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -37,7 +36,7 @@ const post = {
     { type: 'body', html: "<p>영화 평론가 이동진은 '승부'에 대해 별점 3점을 부여하며, &quot;전설적인 순간을 고스란히 살려낸 배우들이 감탄스럽다&quot;는 평을 남기며 배우들의 연기력이 영화의 주요한 강점임이라 평가하였습니다. 그러나 별점 3점은 그의 평가 기준에서 중간 정도의 점수로, 작품성에 대한 아쉬움도 내포되어 있는 것으로 해석됩니다. 이러한 평가는 관객들에게 영화 선택 시 참고할 만한 지표가 될 수 있습니다.</p>" },
     { type: 'image', src: "/images/post87_img6.jpg", alt: "승부", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=top_sly.hst&amp;fbm=0&amp;acr=1&amp;acq=%EC%8A%B9%EB%B6%80+&amp;qdt=0&amp;ie=utf8&amp;query=%EC%98%81%ED%99%94+%EC%8A%B9%EB%B6%80+%EC%98%88%EB%A7%A4&quot; style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: -webkit-center;&quot;> 승부 바로 보러 가기👉</a></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

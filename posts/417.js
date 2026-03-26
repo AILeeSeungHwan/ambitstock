@@ -26,7 +26,7 @@ const post = {
     { type: 'image', src: "/images/post417_img3.jpg", alt: "핸섬가이즈 이성민", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post417_img1.jpg", alt: "영화 핸섬 가이즈", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;><br/>이러한 해외 매체들의 반응을 종합해 보면, &quot;핸섬가이즈&quot;는 다양한 국가에서 그 독특한 컨셉과 뛰어난 작품성, 그리고 배우들의 열연으로 입소문과 함께 흥행을 이어가고 있습니다. 해외성과에 대한 좋은 소식이 울리길 기대하는 바입니다. 아직 영화를 보지 않은 분들은 영화 &quot;핸섬 가이즈&quot; 꼭 예매 시간 확인하시고 시청하시길 바랍니다. </p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

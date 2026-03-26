@@ -2,7 +2,6 @@ const post = {
   id: 104,
   sections: [
     { type: 'intro', html: "<p><b>현재 넷플릭스에서 시청가능한 영화 도그데이즈 (영어제목 : Dog Days)</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 도그데이즈의 뜻 의미 해석과 함께 해외 평점을 알아보고 볼만한 작품인지 확인해 보도록 하겠습니다.</b></span></p><div><center><a href=&quot;https://www.netflix.com/browse?jbv=81777530&quot; title=&quot;도그데이즈 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>도그데이즈 바로 보러 가기👉</button></a></center></div>" },
-    { type: 'image', src: "/images/post104_thumb.svg", alt: "도그데이즈 영화 줄거리 제목 뜻 해석 해외 평점 <Dog Days 넷플릭스 ON>", caption: "도그데이즈 영화 줄거리 제목 뜻 해석 해외 평점 <Dog Days 넷플릭스 ON>" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -56,7 +55,7 @@ const post = {
     { type: 'h2', id: "section-반려동물을-키우는-사람이라면", text: "반려동물을 키우는 사람이라면", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>누구나 공감할 수 있는 이야기</p>" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;>곳곳에 숨어있는 유머도 좋았고, 감동적인 장면들도 많았다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

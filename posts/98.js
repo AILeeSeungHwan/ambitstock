@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>영화 멜랑콜리아 (영어제목 : <span style=&quot;color: inherit; text-align: start;&quot;>Melancholia</span>)가 2025년 1월 28일 재개봉합니다.</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 멜랑콜리아의 제목 뜻을 줄거리와 함께 연관지어 알아보고, 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=1812446&amp;qvt=0&amp;query=영화%20멜랑콜리아%20상영일정&quot; title=&quot;영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>멜랑콜리아 바로 보러 가기👉</button></a></center></div>'
     },
-    {
-      type: 'image',
-      src: '/images/post98_thumb.svg',
-      alt: '멜랑콜리아 뜻 해석 줄거리 평점 < 멜랑꼴리하다 그 표현, 맞습니다 >',
-      caption: '멜랑콜리아 뜻 해석 줄거리 평점 < 멜랑꼴리하다 그 표현, 맞습니다 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -163,7 +157,7 @@ const post = {
       type: 'ending',
       html: '<p>다음 포스팅에서는 멜랑꼴리아의 해외 평론가 후기 관람평 알아보도록 하겠습니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

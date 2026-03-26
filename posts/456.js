@@ -2,7 +2,6 @@ const post = {
   id: 456,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;>넷플릭스 추천 영화 &lt;위플래쉬&gt;입니다. </p><p style=&quot;color: inherit; text-align: start;&quot;>그저 그런 음악 영화, 혹은 나태함에 빠진 삶을 전환시킬 인생영화.</p><p style=&quot;color: inherit; text-align: start;&quot;>영화 위플래쉬 리뷰 시작합니다.</p>" },
-    { type: 'image', src: "/images/post456_thumb.svg", alt: "[영화 위플래쉬 결말은 해피엔딩일까] 뜻과 해석 - 넷플릭스 인생 영화 추천 시리즈 줄거리 리뷰 1부", caption: "[영화 위플래쉬 결말은 해피엔딩일까] 뜻과 해석 - 넷플릭스 인생 영화 추천 시리즈 줄거리 리뷰 1부" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>영화 위플래쉬 제목 뜻은 '채찍' 입니다. 이 채찍을 들고 있는 플렛처 교수는 주인공 앤드류를 향해 거칠게 내려칩니다.</p>" },
@@ -30,7 +29,7 @@ const post = {
     { type: 'image', src: "/images/post456_img3.jpg", alt: "영화 위플래쉬 결말", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post456_img1.jpg", alt: "영화 위플래쉬 플레처 앤드류", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 위플래쉬 해외 반응 및 평점 리뷰가 궁금하다면</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

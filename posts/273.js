@@ -2,7 +2,6 @@ const post = {
   id: 273,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>지옥 시즌 2가 돌아옵니다.</b></span></p><p>2024년 10월 25일 넷플릭스 공개 예정인 지옥은 유아인의 불미스러운 사건으로 하차하게 된 후 정진수 역으로 김성철이 대체하게 되었습니다. 약 때문인지 연기력이 뛰어나서인지, 유아인의 연기는 베테랑 때부터 언제나 독보적이었기에 그의 부재를 김성철이 채울 수 있을지 기대되는 부분입니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>그렇다면 김성철 배우를 모르는 이들을 위해 김성철 배우의 데뷔작부터 대표작 필모그래피, 그리고 지옥 시즌 2의 줄거리 내용 함께 알아보도록 하겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post273_thumb.svg", alt: "넷플릭스 시리즈 지옥 시즌 2 줄거리 내용 | 유아인 부재 대체자는 김성철 데뷔작부터 대표작 필모", caption: "넷플릭스 시리즈 지옥 시즌 2 줄거리 내용 | 유아인 부재 대체자는 김성철 데뷔작부터 대표작 필모" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>&lt;지옥 시즌 2&gt;는 시즌 1에서 이어지는 혼란스러운 세계를 배경으로 이야기가 전개됩니다. </b></span></p>" },
@@ -25,7 +24,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

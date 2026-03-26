@@ -2,7 +2,6 @@ const post = {
   id: 127,
   sections: [
     { type: 'intro', html: "<p>현재상영작 영화 예매 순위 관객수 2025년 1월 TOP10</p>" },
-    { type: 'image', src: "/images/post127_thumb.svg", alt: "현재상영작 영화 예매 순위 관객수 2025년 1월 TOP10", caption: "현재상영작 영화 예매 순위 관객수 2025년 1월 TOP10" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "2025년 1월 현재상영작 영화 예매 순위 총정리", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -113,7 +112,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'cta', href: "/movie-box-office-audience-guide-ott/", text: "역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

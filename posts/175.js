@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 11월 27일 개봉예정영화 애시드 레인: 죽음의 비 뜻 관람평 후기입니다.</b></span></p><p>해외 관객들의 후기 리뷰를 통해 영화 애시드 레인: 죽음의 비, 예매할지 말지 정해드리겠습니다.</p><p>이번 포스팅을 통해 애시드 레인: 죽음의 비 제목 뜻 의미, 그리고 관람평 평점 결말후기 확인해 보시길 바랍니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post175_thumb.svg',
-      alt: '애시드 레인: 죽음의 비 뜻 관람평 리뷰 해외 반응 평점 예매할까 말까',
-      caption: '애시드 레인: 죽음의 비 뜻 관람평 리뷰 해외 반응 평점 예매할까 말까'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -257,7 +251,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

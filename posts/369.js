@@ -2,7 +2,6 @@ const post = {
   id: 369,
   sections: [
     { type: 'intro', html: "<p><figure><figcaption>2024년 8월 개봉예정작 총정리</figcaption> </figure> </p><p><span style=&quot;background-color: #ef5369; color: #ffffff;&quot;><b>2024년 8월 개봉 예정 작품들을 한눈에 정리해드립니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>한국 영화부터 해외 블록버스터 영화까지 모든 작품들을 한번에 확인해보세요.</p>" },
-    { type: 'image', src: "/images/post369_thumb.svg", alt: "2024년 8월 개봉 예정작 영화 추천 한국 해외작품 총 정리", caption: "2024년 8월 개봉 예정작 영화 추천 한국 해외작품 총 정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>특히나 8월에는 모두가 기다리시는 작품들이 대거 개봉할 예정입니다.</p>" },
@@ -71,7 +70,7 @@ const post = {
     { type: 'cta', href: "/movie-release-upcoming-guide/", text: "2024년 하반기 한국영화 개봉예정작 라인업 총정리" },
     { type: 'cta', href: "/netflix-release-upcoming-series-movie-recommend/", text: "2024년-2025년 넷플릭스 공개 예정 영화 오리지널 작품 라인업" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>도망칠 곳 없는 제주에서 이들의 쫓고 쫓기는 대환장 추격이 시작된다!</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

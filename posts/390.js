@@ -2,7 +2,6 @@ const post = {
   id: 390,
   sections: [
     { type: 'intro', html: "<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</span></b></p><p style=&quot;color: inherit; text-align: start;&quot;>2024년 7월 3주차 신작, 한국 넷플릭스 인기 순위 2위 영화 마담 웹 (영어제목 madame web) 입니다.</p><p>영화 제목인 마담 웹의 뜻은 프랑스어에서 기혼 여성을 귀하게 부르는 말인 madame에 거미줄의 web을 합친 의미 입니다.</p>" },
-    { type: 'image', src: "/images/post390_thumb.svg", alt: "넷플릭스 신규 영화 컨텐츠 마담 웹 볼 만할까? 제목 뜻과 해외 평점 결말 후기를 알아보자.", caption: "넷플릭스 신규 영화 컨텐츠 마담 웹 볼 만할까? 제목 뜻과 해외 평점 결말 후기를 알아보자." },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>가볍게 말하면 '스파이더 걸' 을 다르게 표현했다고 보면 되겠습니다.</p>" },
@@ -102,7 +101,7 @@ const post = {
     { type: 'image', src: "/images/post390_img3.jpg", alt: "마담 웹 평점 결말 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post390_img1.jpg", alt: "마담 웹 평점 결말 후기", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>영화 마담 웹 (영어 제목 madame web) 후기 총평입니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

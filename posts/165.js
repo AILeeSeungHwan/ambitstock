@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>밀레니엄 맘보 정보 뜻 출연진 평점 결말 관람평 포토 < 백 투더 2000 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post165_thumb.svg',
-      alt: '밀레니엄 맘보 정보 뜻 출연진 평점 결말 관람평 포토 < 백 투더 2000 >',
-      caption: '밀레니엄 맘보 정보 뜻 출연진 평점 결말 관람평 포토 < 백 투더 2000 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -212,7 +206,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

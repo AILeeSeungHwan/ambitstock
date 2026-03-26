@@ -2,7 +2,6 @@ const post = {
   id: 213,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 추천 페드로 파라모 입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>볼까 말까 고민되시는 분들을 위해 로튼 토마토 평점, 평론가 관람평과 후기, 그리고 제목의 뜻과 의미를 해석해보는 시간을 가지도록 하겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>이 포스팅을 통해 영화 시청에 도움이 되시길 바랍니다.</p>" },
-    { type: 'image', src: "/images/post213_thumb.svg", alt: "넷플릭스 멕시코 영화 추천 페드로 파라모 제목 뜻과 의미 해석 평점 관람평 후기", caption: "넷플릭스 멕시코 영화 추천 페드로 파라모 제목 뜻과 의미 해석 평점 관람평 후기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>Pedro Páramo는 멕시코 작가 후안 룰포(Juan Rulfo)의 대표적인 소설 제목이자 그 주인공의 이름</b></span>입니다. 이 소설은 1955년에 출간되었으며, 멕시코 문학에서 중요한 위치를 차지하고 있습니다.</p>" },
@@ -46,7 +45,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

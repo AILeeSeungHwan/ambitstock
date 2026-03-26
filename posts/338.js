@@ -2,7 +2,6 @@ const post = {
   id: 338,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>지상파 종합편성 케이블 뉴스 종합 시청률 순위를 전해드립니다.</b></span></p><p>KBS MBC SBS YTN TV 조선 JTBC 채널A 등 모든 방송사의 대표 뉴스 시청률을 바탕으로 시청률 순위를 종합하였습니다.</p><p>이와 더불어 각 방송사 정치 성향을 분석하여 전달드립니다.</p><p>꼭 읽어보시고 편향되지 않는 뉴스 소식 전해들으시길 바랍니다.</p><p>해당 포스팅은 뉴스 시청률 순위만을 정리한 정보를 필요로 하시는 분이 많아 작성하게 되었습니다.</p><p>더 궁금한 정보, 원하시는 컨텐츠가 있으신 분들은 댓글로 남겨주세요.</p><p><figure><figcaption>모든 방송사 뉴스 시청률 총정리</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post338_thumb.svg", alt: "2024년 뉴스 시청률 순위 지상파 종편 케이블 | 방송사 정치 성향 완벽정리", caption: "2024년 뉴스 시청률 순위 지상파 종편 케이블 | 방송사 정치 성향 완벽정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "지상파 방송사 정치 성향", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -55,7 +54,7 @@ const post = {
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;>11. YTN - 뉴스 START3부: 시청률 1.217%</p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;>12. YTN - YTN24(23:50): 시청률 1.147%</p>" },
     { type: 'ending', html: "<blockquote><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>뉴스 시청률 순위 최하위<br/>JTBC 뉴스특보<br/>시청률 0.9%</span></b></blockquote>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

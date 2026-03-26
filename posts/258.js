@@ -2,7 +2,6 @@ const post = {
   id: 258,
   sections: [
     { type: 'intro', html: "<p>올해 개봉한 공포 영화들의 성과가 상당히 좋지 못하였습니다. 하지만 이 작품은 다릅니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 10월 9일 개봉예정영화 악이 도사리고 있을 때 ( 영어제목 : When Evil Lurks ) 해외 평론가 로튼 토마토 평점 반응입니다.</b></span></p><p>이미 국내 시사회 후기에서도 상당히 좋은 평점을 기록하며 좋은 반응을 이끌어내고 있는 이 작품, 과연 해외에서는 어떻게 보았는지 알아보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post258_thumb.svg", alt: "악이 도사리고 있을 때 해외 시사회 평론가 로튼 토마토 평점 반응 | 아마 올해 공포 영화 중 최고 작품", caption: "악이 도사리고 있을 때 해외 시사회 평론가 로튼 토마토 평점 반응 | 아마 올해 공포 영화 중 최고 작품" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>악이 도사리고 있을 때 영어 제목은 WHEN EVIL LURKS입니다.</b></span></p>" },
@@ -38,7 +37,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-vs-one-vs/", text: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

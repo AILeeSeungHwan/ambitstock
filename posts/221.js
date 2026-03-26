@@ -2,7 +2,6 @@ const post = {
   id: 221,
   sections: [
     { type: 'intro', html: "<p>섀도우의 13 (영어 제목 : The Shadow Stray)가 한국 넷플릭스 영화 순위 TOP 10에 올랐습니다.</p><p>이번 포스팅에서는 섀도우의 13 볼지 말지 고민 중인 분들이 판단할 수 있도록, <span style=&quot;background-color: #9feec3;&quot;><b>로튼 토마토 평론가 평점과 시청자 평점, 그리고 다음 포스팅에서는 후기 관람평</b></span>을 알아보겠습니다.</p><p>영화는 잔인한 장면들이 상당히 많이 포함되어 있습니다. 시청에 유의하시길 바랍니다.</p>" },
-    { type: 'image', src: "/images/post221_thumb.svg", alt: "영화 섀도우의 13 평점 로튼 토마토 해외 반응 넷플릭스 시청가능 인기 순위", caption: "영화 섀도우의 13 평점 로튼 토마토 해외 반응 넷플릭스 시청가능 인기 순위" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 섀도우의 13 로튼토마토 평론가 평점입니다.</b></span><span style=&quot;background-color: #9feec3;&quot;></span></p>" },
@@ -30,7 +29,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

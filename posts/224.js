@@ -2,7 +2,6 @@ const post = {
   id: 224,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 아노라 ( Anora )가 로튼 토마토에서 엄청난 평점을 기록하며 평론가들의 찬사를 받고 있습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>아마도 올해 로튼 토마토 최고의 영화가 아닌가 싶을 정도의 평론가 평점과 관객 평점을 기록하고 있으며, 곧 한국에서도 관람하실 수 있을 예정입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>이전 포스팅에서 영화 아노라의 해외 평론가 관람평과 후기를 다루었습니다.</p>" },
-    { type: 'image', src: "/images/post224_thumb.svg", alt: "아노라 평점 해외 영화 인기 순위작 | 로튼 토마토 올해 최고의 작품 이동진 평론가 추천작", caption: "아노라 평점 해외 영화 인기 순위작 | 로튼 토마토 올해 최고의 작품 이동진 평론가 추천작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 영화 아노라 로튼 토마토 평론가 평점과 시청자 평점을 알아보도록 하겠습니다.</b></span></p>" },
@@ -31,7 +30,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

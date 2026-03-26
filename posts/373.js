@@ -2,7 +2,6 @@ const post = {
   id: 373,
   sections: [
     { type: 'intro', html: "<p>범죄 액션 스릴러 <span style=&quot;color: inherit; text-align: start;&quot;>영화 리볼버 ( 영어제목 : Revolver ) 가 <span style=&quot;color: inherit; text-align: start;&quot;>2024년 8월 7일 개봉합니다.</span></span></p><p>영화 제목인 리볼버는 <span style=&quot;background-color: #ff5722; color: #ffffff;&quot;><b>회전, 공전하다를 의미하는 revolve에서 유래하여 '회전하는 것' - 회전 권총을 의미</b></span>합니다. </p><p><figure><figcaption>영화 리볼버 시사회 평점 후기</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post373_thumb.svg", alt: "영화 리볼버 심상치 않은 시사회 반응 평점 후기 | 뜻 줄거리 출연진 쿠키 영상", caption: "영화 리볼버 심상치 않은 시사회 반응 평점 후기 | 뜻 줄거리 출연진 쿠키 영상" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>오승욱 감독이 연출하고, 전도연, 지창욱, 임지연이 주연을 맡은 영화 리볼버는</p>" },
@@ -45,7 +44,7 @@ const post = {
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'ending', html: "<p><figure><figcaption>영화 리볼버 시사회 평점 후기</figcaption> </figure> </p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

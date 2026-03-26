@@ -2,7 +2,6 @@ const post = {
   id: 141,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;color: inherit;&quot;>볼만한 영화를 찾으시나요.</span></p><p><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: #5e5e64; background-color: transparent;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>이동진 평론가의 별점 다섯개 영화</b></span>로 볼만한 명작 영화 최신작들을 추천합니다.</span></span></p><p><span style=&quot;color: inherit;&quot;>각 작품에 대한 포스터와 이동진 평론가의 담담한 한줄 평, 그리고 영화의 줄거리를 함께 소개해드리겠습니다. </span></p><p><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent; text-align: start;&quot;><b>누구나 당연히 알고 있는 명작 영화가 아닌, </b></span><span style=&quot;background-color: transparent; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>익히 들어보지 않은, 흔치 않은 작품들만 선별하여 정리</b></span>하였습니다.</span></span></p><p><span style=&quot;color: inherit;&quot;>순서는 순위와 관계없습니다.</span></p><p><figure><figcaption>이동진 평론가 추천 볼만한 명작 영화</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post141_thumb.svg", alt: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10", caption: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "10. 노 베어스 (2022년)", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -93,7 +92,7 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;background-color: transparent; color: #5e5e64; text-align: start;&quot;><br/>독일 장교 루돌프 회스(크리스티안 프리델)와 그의 <span style=&quot;background-color: #f3c000;&quot;><b>가족이 꿈꾸는 이상향, 아우슈비츠. </b></span></span></p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: transparent; color: #5e5e64; text-align: start;&quot;>아내 헤트비히(산드라 휠러)가 정성스럽게 가꾼 꽃들이 <span style=&quot;background-color: #f3c000;&quot;><b>만발한 정원은 아이들의 웃음소리로 가득</b></span>하다. </span></p>" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b><span style=&quot;color: #5e5e64; text-align: start;&quot;>그림처럼 아름다운 집에서, 과연 악마는 다른 세상에 사는 것일까?</span></b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

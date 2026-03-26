@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>해리 포터와 죽음의 성물 2 재개봉 < 시리즈 최고작품은? 결말 후기 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post129_thumb.svg',
-      alt: '해리 포터와 죽음의 성물 2 재개봉 < 시리즈 최고작품은? 결말 후기 >',
-      caption: '해리 포터와 죽음의 성물 2 재개봉 < 시리즈 최고작품은? 결말 후기 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -194,7 +188,7 @@ const post = {
       href: '/series-recommend-rating-top-8/',
       text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

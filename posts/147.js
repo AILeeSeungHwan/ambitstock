@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>해리 포터와 죽음의 성물 1 결말 후기 다시보기 < 시리즈 모든 작품 중 인기 순위는 ? ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post147_thumb.svg',
-      alt: '해리 포터와 죽음의 성물 1 결말 후기 다시보기 < 시리즈 모든 작품 중 인기 순위는 ? >',
-      caption: '해리 포터와 죽음의 성물 1 결말 후기 다시보기 < 시리즈 모든 작품 중 인기 순위는 ? >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -179,7 +173,7 @@ const post = {
       href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

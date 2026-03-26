@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>영화 도어즈가 재개봉하였습니다.</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>전설적인 밴드 도어즈의 짐 모리슨, 그의 일대기를 바탕으로 한 영화 도어즈의 줄거리와 뜻, 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://www.netflix.com/browse?jbv=81752951&quot; title=&quot;도어즈 해외 평점 바로 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>도어즈 해외 평점 바로 보러 가기👉</button></a></center></div>'
     },
-    {
-      type: 'image',
-      src: '/images/post102_thumb.svg',
-      alt: '도어즈 영화 제목 뜻 줄거리 해석 해외 평점 후기 < 록의 아이콘 짐 모리슨의 밴드 >',
-      caption: '도어즈 영화 제목 뜻 줄거리 해석 해외 평점 후기 < 록의 아이콘 짐 모리슨의 밴드 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -196,7 +190,7 @@ const post = {
       type: 'ending',
       html: '<p><b>존 하틀 - 평점 3.5/4</b><br/>1960년대 후반의 사이키델릭 록 장면을 신랄하게 유머러스하고 놀랍도록 진실되게 그려냈다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

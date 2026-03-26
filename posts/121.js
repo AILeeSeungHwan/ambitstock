@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>영화 메모리 관람평 뜻 개봉 정보 포토 <피터 사스가드 베니스영화제 남우주연상 수상작></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post121_thumb.svg',
-      alt: '영화 메모리 관람평 뜻 개봉 정보 포토 <피터 사스가드 베니스영화제 남우주연상 수상작>',
-      caption: '영화 메모리 관람평 뜻 개봉 정보 포토 <피터 사스가드 베니스영화제 남우주연상 수상작>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -202,7 +196,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

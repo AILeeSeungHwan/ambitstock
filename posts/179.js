@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 18일 개봉예정영화 파라다이스 이즈 버닝 ( 영어제목 Paradise Is Burning ) 관람평 후기입니다.</b></span></p><p>미카 구스타프손 감독, 비앙카 델브라보, 딜빈 아사드, 사피라 모스페리, 이다 엥볼 출연작으로 현재 로튼 토마토에서 평론가 평점 무려 100%를 기록하고 있습니다.</p><p>과연 <b>어떠한 점이 해외 평론가들에게 좋은 평가를 받을 수 있었는지</b> 현재 해외에서 명작으로 이 영화, 해외 평론가 관람평 후기 확인해 보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post179_thumb.svg',
-      alt: '파라다이스 이즈 버닝 Paradise Is burning 뜻 시사회 관람평 포토 정보 <로튼 토마토 평론가 평점 100%>',
-      caption: '파라다이스 이즈 버닝 Paradise Is burning 뜻 시사회 관람평 포토 정보 <로튼 토마토 평론가 평점 100%>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -223,7 +217,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

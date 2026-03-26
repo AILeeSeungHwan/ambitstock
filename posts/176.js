@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>넷플릭스 공개 영화 파일럿, 해외 반응 로튼 토마토 평론가 평점 후기 포스팅입니다.</b></span></p><p>한국에서 한 동안 예매 1등 작품으로 흥행과 더불어 여러 논란이 있었던 영화 파일럿입니다.</p><p>과연 <b>해외 시청자들은 어떻게 평가하였을지 확인해 보도록 하겠습니다.</b></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post176_thumb.svg',
-      alt: '파일럿 넷플릭스 영화 공개! 해외 반응 로튼 토마토 평론가 평점 후기 리뷰',
-      caption: '파일럿 넷플릭스 영화 공개! 해외 반응 로튼 토마토 평론가 평점 후기 리뷰'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -122,7 +116,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

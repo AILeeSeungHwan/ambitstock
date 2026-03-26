@@ -2,7 +2,6 @@ const post = {
   id: 247,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>설경구 장동건 김희애 수현 주연 영화 보통의 가족이 10월 16일 개봉합니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이미 2023년 토론토 국제 영화제(TIFF)에서 처음 공개된 후 좋은 평가를 받으며 기대를 모으고 있는 작품으로, 캐스팅 라인업에서부터 실패할 수 없는 영화로 생각됩니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>이전 포스팅에서 토론토 국제 영화제 평론가 시사회 후기를 알아보았습니다.</p>" },
-    { type: 'image', src: "/images/post247_thumb.svg", alt: "보통의 가족 평점 및 해외 반응 영화 예매 순위 1위 | 영어 제목 로튼 토마토 평론가 관람평 100%", caption: "보통의 가족 평점 및 해외 반응 영화 예매 순위 1위 | 영어 제목 로튼 토마토 평론가 관람평 100%" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서는 보통의 가족 로튼 토마토 평점을 알아보도록 하겠습니다.</p>" },
@@ -34,7 +33,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

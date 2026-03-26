@@ -2,7 +2,6 @@ const post = {
   id: 379,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 미나리 정이삭 감독의 할리우드 재난 블록버스터 영화 트위스터스(Twisters)</b></span></p><p>전작 트위스터 개봉 이후 28년만의 후속작품으로,</p><p>미국 현지에서 7월 19일 개봉 후 영화 제목 그대로 트위스터스를 일으키고 있는 화제작입니다.</p>" },
-    { type: 'image', src: "/images/post379_thumb.svg", alt: "영화 트위스터스 뜻 해외 반응 및 로튼토마토 평론가 평점 - 미나리 정이삭 감독 작품 등장인물 배우 캐스팅 정보 개봉일", caption: "영화 트위스터스 뜻 해외 반응 및 로튼토마토 평론가 평점 - 미나리 정이삭 감독 작품 등장인물 배우 캐스팅 정보 개봉일" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>한국에선 2024년 8월 14일 개봉 예정인 이 작품 과연 해외 반응은 어떠한지,</p>" },
@@ -67,7 +66,7 @@ const post = {
     { type: 'image', src: "/images/post379_img1.jpg", alt: "영화 트위스터스 뜻 평론가 평점", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/movie-overseas-critic-reaction-ending-review/", text: "영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기" },
     { type: 'ending', html: "<p>다음 포스팅에서 영화 트위스터스의 해외 평론가들의 후기 살펴보겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

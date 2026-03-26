@@ -2,7 +2,6 @@ const post = {
   id: 280,
   sections: [
     { type: 'intro', html: "<p><b>반지의 제왕 시리즈 힘의 반지 ( 영어제목 : the lord of the rings the rings of power season 2 fandom ) 해외 후기반응 및 리뷰 알아보도록 하겠습니다.</b></p><p>지난 포스팅에서 확인한 바와 같이 반지의 제왕 시리즈 힘의 반지는 10점과 1점으로 양극화된 평점 분포를 받았습니다.</p><p>무려 38만 표본이라는 엄청난 표본에 인기 순위도 IMDB TOP 10을 유지하고 있는 작품입니다.</p>" },
-    { type: 'image', src: "/images/post280_thumb.svg", alt: "반지의 제왕 힘의 반지 시리즈 해외 결말 후기반응 및 리뷰 | 아마존 프라임 볼만한 작품 추천", caption: "반지의 제왕 힘의 반지 시리즈 해외 결말 후기반응 및 리뷰 | 아마존 프라임 볼만한 작품 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>왜 이렇게 호불호가 심한지, 시청자 리뷰와 평점 함께 알아보도록 하겠습니다.</p>" },
@@ -30,7 +29,7 @@ const post = {
     { type: 'image', src: "/images/post280_img1.jpg", alt: "반지의 제왕 후기반응", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/rating-recommend-imdb/", text: "반지의 제왕 - 힘의 반지 IMDB 인기 순위 평점 | 아마존 프라임 추천" },
     { type: 'ending', html: "<p>리뷰 폭격으로 인해 쇼의 질이 평가절하되는 것에 실망하였다. '반지의 제왕' 세계관의 훌륭한 추가작이며, 비판적인 의견에 흔들리지 말고 시청할 가치가 충분한 작품이다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

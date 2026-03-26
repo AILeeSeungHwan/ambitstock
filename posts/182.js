@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 11일 개봉예정영화 이처럼 사소한 것들(영어제목 : Small Things like these) 해외 반응 관람평 후기입니다.</b></span></p><p>로튼 토마토에서 신선도 보증마크를 획득하며 높은 평가를 받은 작품으로 넷플릭스에서 22일 시청 가능합니다.</p><p>과연 <b>어떠한 점이 해외 평론가들에게 좋은 평가를 받을 수 있었는지</b> 확인해 보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post182_thumb.svg',
-      alt: '이처럼 사소한 것들 영화 관람평 해외 반응 정보 <킬리언 머피가 온다>',
-      caption: '이처럼 사소한 것들 영화 관람평 해외 반응 정보 <킬리언 머피가 온다>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -175,7 +169,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>6888 중앙우편대대 (The Six Triple Eight) 정보 넷플릭스 추천영화 평점 순위 < 진짜 PC영화를 향해 갈린 국내 해외반응 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post137_thumb.svg',
-      alt: '6888 중앙우편대대 (The Six Triple Eight) 정보 넷플릭스 추천영화 평점 순위 < 진짜 PC영화를 향해 갈린 국내 해외반응 >',
-      caption: '6888 중앙우편대대 (The Six Triple Eight) 정보 넷플릭스 추천영화 평점 순위 < 진짜 PC영화를 향해 갈린 국내 해외반응 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -170,7 +164,7 @@ const post = {
       href: '/series-recommend-rating-top-8/',
       text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

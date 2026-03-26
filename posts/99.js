@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>애니메이션 영화 반지의 제왕: 로히림의 전쟁 (영어제목 : The Lord of the Rings: The War of the Rohirrim ) 이 2025년 1월 25일  개봉합니다.</b></p><p>이번 포스팅에서는 역대 최고의 시리즈로 뽑히는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 반지의 제왕의 애니메이션 영화, 로히림의 전쟁 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?sm=tab_hty.top&amp;where=nexearch&amp;ssc=tab.nx.all&amp;query=반지의+제왕+로히림의+전쟁+예매&amp;oquery=서바이브+정보&amp;tqi=iHth5lpzL8wssTfAvudssssssMl-116987&quot; title=&quot;반지의 제왕: 로히림의 전쟁 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>반지의 제왕: 로히림의 전쟁 바로 보러 가기👉</button></a></center></div>'
     },
-    {
-      type: 'image',
-      src: '/images/post99_thumb.svg',
-      alt: '반지의 제왕: 로히림의 전쟁 관람평 줄거리 결말 <평론가 관객 엇갈린 평점>',
-      caption: '반지의 제왕: 로히림의 전쟁 관람평 줄거리 결말 <평론가 관객 엇갈린 평점>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -185,7 +179,7 @@ const post = {
       type: 'ending',
       html: '<div><center><a href=&quot;https://search.naver.com/search.naver?sm=tab_hty.top&amp;where=nexearch&amp;ssc=tab.nx.all&amp;query=반지의+제왕+로히림의+전쟁+예매&amp;oquery=서바이브+정보&amp;tqi=iHth5lpzL8wssTfAvudssssssMl-116987&quot; title=&quot;반지의 제왕: 로히림의 전쟁 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>반지의 제왕: 로히림의 전쟁 바로 보러 가기👉</button></a></center></div>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

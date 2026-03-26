@@ -2,7 +2,6 @@ const post = {
   id: 265,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>지난 포스팅 와일드 로봇의 엄청난 로튼 토마토 평론가 평점, 관객 평점에 이어 평론가 후기 리뷰 살펴보도록 하겠습니다.</b></span></p><p>어떠한 점이 역대 최고의 영화라 평가받을 정도로 높은 관람평을 이끌어 내었는지, 확인해 보도록 하겠습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>와일드 로봇 평론가 결말 후기 리뷰입니다.</b></span></p>" },
-    { type: 'image', src: "/images/post265_thumb.svg", alt: "와일드 로봇 평론가 결말 후기 리뷰 관람평 | 애니메이션 영화 1위 예매할까 말까? 딱 정해드림.", caption: "와일드 로봇 평론가 결말 후기 리뷰 관람평 | 애니메이션 영화 1위 예매할까 말까? 딱 정해드림." },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;color: inherit; text-align: start;&quot;>John Flickinger - 평점 (A-)<span> </span></span><br>'와일드 로봇'은 롤러코스터를 타는 듯 예상치 못한 감정 오르내림을 이끌어냈고, '터미네이터 2: 심판의 날' 이후 느껴보지 못한 보호 본능을 다시 일으켰다.</br></p>" },
@@ -41,7 +40,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

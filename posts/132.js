@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>노스페라투 관람평 포토 결말 후기 뜻 해석 < 1월 공포영화는 무조건 이 작품 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post132_thumb.svg',
-      alt: '노스페라투 관람평 포토 결말 후기 뜻 해석 < 1월 공포영화는 무조건 이 작품 >',
-      caption: '노스페라투 관람평 포토 결말 후기 뜻 해석 < 1월 공포영화는 무조건 이 작품 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -199,7 +193,7 @@ const post = {
       href: '/series-recommend-rating-top-8/',
       text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>그해 크리스마스에는 넷플릭스 애니메이션 영화 평점 관람평 정보 < 겨울 영화 추천 feat 애드 시런 ost></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post152_thumb.svg',
-      alt: '그해 크리스마스에는 넷플릭스 애니메이션 영화 평점 관람평 정보 < 겨울 영화 추천 feat 애드 시런 ost>',
-      caption: '그해 크리스마스에는 넷플릭스 애니메이션 영화 평점 관람평 정보 < 겨울 영화 추천 feat 애드 시런 ost>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -151,7 +145,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 469,
   sections: [
     { type: 'intro', html: "<p>한국형 SF영화 외계+인 2부가 개봉을 앞두고 있습니다. </p><p><b><span style=&quot;background-color: #f3c000;&quot;>2024년 01월 10일 수요일 예정이며, 2022년 07월 20일 1부에 이어 약 1년반 만에 2부</span></b>를 만나볼 수 있습니다.</p><p>외계+인 1부의 국내평이 엇갈렸던 상황이었고, 더군다나 한국에서의 관객수는 154만명으로 티켓값으로만 계산된 손익분기점인 약 700만명을 채우지 못하며 모든 부담을 2부가 떠안게 된 상황입니다.</p>" },
-    { type: 'image', src: "/images/post469_thumb.svg", alt: "[영화 외계인 해외 반응 평점 및 리뷰 손익분기점] 레벨문은 23점 외계+인은? 외계인 2부 개봉전 1부 알아보기 2024년 1월 개봉 예정작", caption: "[영화 외계인 해외 반응 평점 및 리뷰 손익분기점] 레벨문은 23점 외계+인은? 외계인 2부 개봉전 1부 알아보기 2024년 1월 개봉 예정작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b><a href=&quot;https://ambitstock.com/16&quot;>영화 외계인 2부 4DX 리뷰 및 평점 알아보기</a></b></p>" },
@@ -60,7 +59,7 @@ const post = {
     { type: 'image', src: "/images/post469_img3.jpg", alt: "조커 2: 폴리 아 되 개봉일 및 전작 해외 반응 알아보기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post469_img1.jpg", alt: "영화 외계인 김태리", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;background-color: transparent; color: inherit; text-align: left;&quot;>구독 및 즐겨찾기하시어 궁금하신 내용 빠르게 확인해보세요.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

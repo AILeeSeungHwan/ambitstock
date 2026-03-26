@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>트렁크 드라마 해외 반응 평점 결말 후기 인기 순위 리뷰 < 넷플릭스 공유 시리즈 추천 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post154_thumb.svg',
-      alt: '트렁크 드라마 해외 반응 평점 결말 후기 인기 순위 리뷰 < 넷플릭스 공유 시리즈 추천 >',
-      caption: '트렁크 드라마 해외 반응 평점 결말 후기 인기 순위 리뷰 < 넷플릭스 공유 시리즈 추천 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -127,7 +121,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

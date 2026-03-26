@@ -2,7 +2,6 @@ const post = {
   id: 307,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>크리스토퍼 놀란 영화 추천 시리즈 3-2편, 영화 인셉션입니다.</b></span><span style=&quot;background-color: #9feec3;&quot;><b></b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>지난 포스팅 인셉션 뜻과 평점, 줄거리 결말의 연관성에 이어 평론가 후기와 리뷰 알아보겠습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>역대 크리스토퍼 놀란 영화 중 최고의 작품으로 평가받는 인셉션의 로튼 토마토 평론가 후기는 어떠한지 상세하게 알아보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post307_thumb.svg", alt: "크리스토퍼 놀란 영화 추천 인셉션 로튼 토마토 평론가 후기 리뷰 시리즈 3-2", caption: "크리스토퍼 놀란 영화 추천 인셉션 로튼 토마토 평론가 후기 리뷰 시리즈 3-2" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>크리스토퍼 놀란 감독의 모든 작품 순위는 아래 포스팅에서 확인 가능합니다.</p>" },
@@ -33,7 +32,7 @@ const post = {
     { type: 'image', src: "/images/post307_img3.jpg", alt: "인셉션", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post307_img1.jpg", alt: "인셉션", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

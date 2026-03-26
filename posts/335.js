@@ -2,7 +2,6 @@ const post = {
   id: 335,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시리즈 '아무도 없는 숲속에서'가 24년 8월 23일 공개됩니다.</b></span></p><p>시사회를 통해 1화부터 4화까지 이미 시청한 관객분들과 평론가들의 후기 추천평을 전해드리겠습니다.</p><p><figure><figcaption>넷플릭스 시리즈 추천 아무도 없는 숲속에서</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post335_thumb.svg", alt: "넷플릭스 시리즈 추천 아무도 없는 숲속에서 평론가 후기 추천평가", caption: "넷플릭스 시리즈 추천 아무도 없는 숲속에서 평론가 후기 추천평가" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>넷플릭스 시리즈 <b>&lt;아무도 없는 숲속에서&gt;</b>는 한적하고 평화로웠던 숲 속의 펜션에 예기치 않게 찾아온 미스터리한 인물로 인해 일상이 무너지고, 사건이 발생하는 이야기를 그린 서스펜스 스릴러입니다.</p>" },
@@ -20,7 +19,7 @@ const post = {
     { type: 'image', src: "/images/post335_img3.jpg", alt: "넷플릭스 시리즈 추천 아무도 없는 숲속에서", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post335_img1.jpg", alt: "넷플릭스 시리즈 추천 아무도 없는 숲속에서", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>아무도 없는 숲속에서 해외 평점과 후기반응, 평론가 평점 포스팅으로 돌아오겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

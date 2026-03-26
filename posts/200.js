@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 캐롤의 제목은 주인공 캐롤 에런스 (Carol Aird)의 이름을 그대로 따온 것입니다. </b></span></p><p>하지만 이 제목은 단순히 캐롤이라는 인물의 이름을 넘어서, 영화의 깊은 의미와 감정을 담고 있습니다.</p><p>영화 제목 <b>&quot;캐롤&quot;</b>의 의미를 자세히 해석해 보겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post200_thumb.svg',
-      alt: '영화 캐롤 제목 뜻 의미 해석 | 레즈비언이라는 사회적 제약과 갈망의 상징 넷플릭스 시청가능',
-      caption: '영화 캐롤 제목 뜻 의미 해석 | 레즈비언이라는 사회적 제약과 갈망의 상징 넷플릭스 시청가능'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -179,7 +173,7 @@ const post = {
       type: 'ending',
       html: '<p>제목 그 이상의 의미가 담긴 뜻과 시대적 배경을 함께 이해함으로써 영화의 깊이를 더욱 느끼실 수 있으실 겁니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

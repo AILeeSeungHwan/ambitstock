@@ -2,7 +2,6 @@ const post = {
   id: 367,
   sections: [
     { type: 'intro', html: "<p><br>영화 이오 카피타노 평론가 후기 리뷰입니다.</br></p><p>첫번째 포스팅을 통해 영화 이오 카피타노의 기본 정보들과 제목 뜻, 평론가 평점을 먼저 확인해보시길 바랍니다.</p><p><b>Matt Brunson</b><span> </span><span style=&quot;color: #999999;&quot;>Film Frenzy</span></p>" },
-    { type: 'image', src: "/images/post367_thumb.svg", alt: "당신의 오늘을 감사함으로 채울 영화 이오 카피타노 해외 평론가 후기 리뷰", caption: "당신의 오늘을 감사함으로 채울 영화 이오 카피타노 해외 평론가 후기 리뷰" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>3/4</span></b></p>" },
@@ -29,7 +28,7 @@ const post = {
     { type: 'image', src: "/images/post367_img3.jpg", alt: "영화 이오 카피타노 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post367_img1.jpg", alt: "영화 이오 카피타노 후기", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;>영화<span> </span>리뷰보단 덤덤히 적어내는 나의 일상에 대한 감사 일기이다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

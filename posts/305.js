@@ -2,7 +2,6 @@ const post = {
   id: 305,
   sections: [
     { type: 'intro', html: "<p>현재 상영작 영화 스픽 노 이블 로튼 토마토 해외 평론가 결말후기 반응 알아보겠습니다.</p><p>스픽 노 이블의 평점과 제목 뜻 의미가 궁금하시다면 <span style=&quot;color: inherit; text-align: start;&quot;>이전 포스팅을 참고하세요.</span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>스픽 노 이블 해외 평론가 후기 알아보겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post305_thumb.svg", alt: "공포 영화 추천 스픽 노 이블 해외 평론가 결말 후기 반응 총정리! 덴마크 원작 현재 상영작", caption: "공포 영화 추천 스픽 노 이블 해외 평론가 결말 후기 반응 총정리! 덴마크 원작 현재 상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>평론가 이름과 각 평론가 별 평점을, 그리고 후기를 한국말로 의역하여 자연스럽게 읽히도록 정리하였습니다.</p>" },
@@ -43,7 +42,7 @@ const post = {
     { type: 'image', src: "/images/post305_img1.jpg", alt: "스픽 노 이블 결말 후기 반응", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/recommend-movie-plot-critic-rating-reaction/", text: "현재 상영작 추천 영화 스픽 노 이블 제목 뜻 예매할까 말까 | 스포 포함 줄거리 내용 평론가 평" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

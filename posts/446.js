@@ -2,7 +2,6 @@ const post = {
   id: 446,
   sections: [
     { type: 'intro', html: "<p>2024년 1월31일 한국에 개봉한 <span style=&quot;background-color: #f3c000;&quot;><b>티모시 샬라메의 웡카 해외 반응 및 평점 리뷰</b></span>입니다.<br/>찰리와 초콜릿 공장의 조니뎁을 이어 웡카의 어린시절을 연기한 티모시 샬라메 버전 웡카는 조니뎁의 기괴한 느낌과는 상반된 모습을 보여주었습니다. <br/> <br/> </p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;><b>영화 &lt;웡카&gt;</b></span></p><p> <br/> <br/>한국보다 먼저 해외에서 개봉한 웡카 해외 반응 살펴보도록 하겠습니다. <br/> <br/> </p>" },
-    { type: 'image', src: "/images/post446_thumb.svg", alt: "[영화 웡카 한국 개봉일 해외 반응 및 관람평점 리뷰] 다시 느끼는 해리포터의 황홀경 2024년 현재 상영작", caption: "[영화 웡카 한국 개봉일 해외 반응 및 관람평점 리뷰] 다시 느끼는 해리포터의 황홀경 2024년 현재 상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>넷플릭스 시리즈 선산 볼만할까?</b></span><br/><span style=&quot;color: inherit;&quot;><b>해외 반응과 평점리뷰</b></span></p>" },
@@ -30,7 +29,7 @@ const post = {
     { type: 'image', src: "/images/post446_img3.jpg", alt: "넷플릭스 시리즈 살인자ㅇ난감 어떻게 읽어야 하는지 궁금하다면", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post446_img1.jpg", alt: "영화 웡카 현재 상영작", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b>영화 미키 17 개봉정보와</b></span><br/><span style=&quot;color: inherit;&quot;><b>봉준호 감독 </b></span><span style=&quot;color: inherit;&quot;><b>기생충 해외 반응</b></span><br/> </p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 424,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>드라마 수지맞은 우리는 &lt;우당탕탕 패밀리&gt;의 후속 드라마로 추락한 스타 의사 (함은정)과 무대뽀 초짜 의사(백성현)의 케미를 중심으로 2024년 3월 25일부터 KBS1에서 방영 중입니다.</span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;>드라마 &quot;수지맞은 우리&quot;는 추락한 스타 의사 진수지와 무대뽀 초짜 의사 채우리의 이야기를 중심으로 전개됩니다. 진수지는 스캔들로 인해 나락에 떨어진 상태이며, 채우리는 열정과 정의감으로 환자와의 신뢰를 우선시하는 인물입니다. 두 사람은 병원에서 만나게 되며, 서로의 대조적인 성격과 가치관으로 인해 갈등을 겪지만, 점차 서로를 이해하고 치유해 나가며 공감대를 형성해 갑니다. 이 과정에서 두 사람은 자신의 상처를 극복하고 성장해 나가게 됩니다.</span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b><span style=&quot;background-color: #f3c000;&quot;>진수지는 장수의 딸이자, 윤자의 의붓딸로, 준종합병원 해들병원의 정신건강의학과 전문의입니다.</span></b>  어린 시절부터 뛰어난 재능을 가졌지만, 스캔들로 인해 나락으로 떨어지게 되었습니다. </span></p>" },
-    { type: 'image', src: "/images/post424_thumb.svg", alt: "[종합 시청률 1위 드라마] <수지맞은 우리> 줄거리 및 인물관계도 최신 화 정보 함은정 주연", caption: "[종합 시청률 1위 드라마] <수지맞은 우리> 줄거리 및 인물관계도 최신 화 정보 함은정 주연" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><span style=&quot;background-color: #f3c000;&quot;><b>채우리는 선영의 아들이자, 두리의 오빠로, 정신건강의학과 의사입니다.</b></span> 그는 진수지와는 대조적인 성격을 가지고 있으며, 환자와의 신뢰와 이해를 중시합니다.</span></p>" },
@@ -39,7 +38,7 @@ const post = {
     { type: 'image', src: "/images/post424_img3.jpg", alt: "드라마 수지맞은 우리 등장인물", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post424_img1.jpg", alt: "드라마 수지맞은 우리", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>KBS1 드라마 수지맞은 우리는 첫 회에서 전국 시청률 12.6%를 기록하였고,  최근 방영된 62화는 13.1%로 방영이후 최고 시청률을 기록 하였습니다.</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 25일 개봉영화 더 폴: 디렉터스 컷 관람평 후기 뜻 의미 해석입니다.</b></span></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post159_thumb.svg',
-      alt: '더 폴: 디렉터스 컷 뜻 의미 해석 평점 관람평 결말 후기 포토 < 시대를 뛰어 넘은 색감이 미친 영화 >',
-      caption: '더 폴: 디렉터스 컷 뜻 의미 해석 평점 관람평 결말 후기 포토 < 시대를 뛰어 넘은 색감이 미친 영화 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -177,7 +171,7 @@ const post = {
       type: 'ending',
       html: '<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>결국 \'추락\'은 <br/>재탄생과 치유로 나아가는 <br/>여정을 암시한다.</span> </b></span></blockquote>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

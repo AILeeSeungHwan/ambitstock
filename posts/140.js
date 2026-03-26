@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>수퍼 소닉 3 관람평 포토 시사회 결말 후기 < 로튼 토마토 평론가 관객 극찬 반응 영화 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post140_thumb.svg',
-      alt: '수퍼 소닉 3 관람평 포토 시사회 결말 후기 < 로튼 토마토 평론가 관객 극찬 반응 영화 >',
-      caption: '수퍼 소닉 3 관람평 포토 시사회 결말 후기 < 로튼 토마토 평론가 관객 극찬 반응 영화 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -171,7 +165,7 @@ const post = {
       href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

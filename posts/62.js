@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>넷플릭스와 디즈니플러스, 둘 다 구독 중인 분들도 많죠. 하지만 2025년 들어 두 OTT의 <b>요금제 구조와 결제 정책</b>이 꽤 달라졌습니다. 광고형 요금제, 4K 화질, 동시접속 수 제한 등 실제 사용 시 체감 차이가 크기 때문이에요. 이번 글에서는 <b>요금제 비교</b>부터 <b>결제 팁</b>, 그리고 제가 직접 써보며 느낀 경험까지 모두 정리했습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post62_thumb.svg',
-      alt: 'OTT 추천 요금제·결제 비교 2025 넷플릭스 vs 디즈니플러스, 어디가 더 합리적일까?',
-      caption: 'OTT 추천 요금제·결제 비교 2025 넷플릭스 vs 디즈니플러스, 어디가 더 합리적일까?'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -111,7 +105,7 @@ const post = {
       href: '/netflix-upcoming-top-7/',
       text: '2025 넷플릭스 공개예정작 TOP 7｜한국 기대작 중심으로 싹 모았다'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

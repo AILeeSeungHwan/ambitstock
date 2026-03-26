@@ -2,7 +2,6 @@ const post = {
   id: 123,
   sections: [
     { type: 'intro', html: "<p>하얼빈 박스오피스 1위 천만영화 되나 - 스포 포함 평론가 로튼 토마토 해외 반응 결말 후기</p>" },
-    { type: 'image', src: "/images/post123_thumb.svg", alt: "하얼빈 박스오피스 1위 천만영화 되나 - 스포 포함 평론가 로튼 토마토 해외 반응 결말 후기", caption: "하얼빈 박스오피스 1위 천만영화 되나 - 스포 포함 평론가 로튼 토마토 해외 반응 결말 후기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "영화 하얼빈 예매 순위 압도적 1위! 결말 후기 로튼 토마토 평점", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -45,7 +44,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'cta', href: "/series-recommend-rating-top-8/", text: "해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

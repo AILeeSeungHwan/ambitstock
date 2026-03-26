@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>피스 바이 피스 관람평 뜻 해석 <퍼렐 윌리엄스 역사를 레고 영화로></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post131_thumb.svg',
-      alt: '피스 바이 피스 관람평 뜻 해석 <퍼렐 윌리엄스 역사를 레고 영화로>',
-      caption: '피스 바이 피스 관람평 뜻 해석 <퍼렐 윌리엄스 역사를 레고 영화로>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -177,7 +171,7 @@ const post = {
       href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 227,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 10월 31일 개봉예정영화 롱레그스 ( 영어제목 : Longlegs )의 시사회 관람평 후기 리뷰입니다.</b></span></p><p>한창 여름 개봉했던 공포영화들의 아쉬운 성적을 뒤로하고 가을에 개봉하는 공포영화들은 굉장히 좋은 성적을 거두고 있습니다.</p><p>로튼토마토에서 신선도 보증마크를 획득한 작품, 롱레그스의 시사회 관람평 후기 리뷰 알아보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post227_thumb.svg", alt: "롱레그스 시사회 관람평 후기 리뷰 | 로튼토마토 신선도 보증작품 공포 개봉예정영화", caption: "롱레그스 시사회 관람평 후기 리뷰 | 로튼토마토 신선도 보증작품 공포 개봉예정영화" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>아래 포스팅을 통하여 2024년 개봉한 모든 공포 영화에 대한 평점기반 인기 순위를 확인해 보실 수 있습니다.</p>" },
@@ -34,7 +33,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><br><span style=&quot;font-family: \'Noto Serif KR\';&quot;>\'탈출: 프로젝트 사일런스\'는 2024년 7월 12일 개봉 예정인 재난 스릴러 영화입니다. 8월 개봉할 행복의 나라와 더불어 고 이선균 배우의 유작 두편 중 하나 입니다. 짙은 안개 속에서 공항대교에서 벌어지는 재난 상황을 배경으로 하며 </span><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;background-color: #f3c000;&quot;><b>제작비 200억원, 손익분기점은 약 400만 명의 관객 수준으로 알려져있습니다.</b></span></span></br></p><p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>2023년 5월 21일 자정 국제 칸영화제 시사회에서 최초로 공개된 이 작품은 약 5분동안의 기립 박수를 받으며 성황리에 시사회를 마무리 지었고, 2024년 7월 12일 개봉을 앞두고 있습니다.</span></p><p><figure><figcaption>탈출 프로젝트 사일런스 스틸컷</figcaption> </figure> </p><blockquote style=&quot;background-color: #fcfcfc; text-align: left;&quot;> <h2 style=&quot;color: inherit;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>목 차<br/></b></span></h2> <ul style=&quot;list-style-type: circle;&quot;> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><span style=&quot;caret-color: #456771;&quot;><b>탈출 프로젝트 사일런스 줄거리</b></span></span></li> <li><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>주요 등장인물 및 배우</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>제작정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>쿠키 및 후속작 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: \'Noto Serif KR\';&quot;><b>탈출 프로젝트 사일런스 OTT 다시보기 정보 </b></span></li> </ul> </blockquote>'
     },
-    {
-      type: 'image',
-      src: '/images/post427_thumb.svg',
-      alt: '[고 이선균 유작] 영화 탈출: 프로젝트 사일런스, 개봉일부터 스틸컷 등장인물 줄거리까지 총정리',
-      caption: '[고 이선균 유작] 영화 탈출: 프로젝트 사일런스, 개봉일부터 스틸컷 등장인물 줄거리까지 총정리'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -149,7 +143,7 @@ const post = {
       type: 'ending',
       html: '<p><span style=&quot;font-family: \'Noto Serif KR\';&quot;>- 현재까지는 개봉 전이므로 OTT 플랫폼 정보는 제공되지 않았습니다. 개봉 후 주요 OTT 플랫폼에서 확인할 수 있을 것입니다.</span></p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

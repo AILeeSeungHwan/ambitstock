@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>영화 브루탈리스트 (영어제목 : The Brutalist)은 2025년 2월 12일 개봉하는 영화</b>로, \'피아니스트\'의 애드리언 브로디가 주연을 맡았습니다.</p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 브루탈리스트 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;http://www.cgv.co.kr/movies/detail-view/cast.aspx?midx=89414&quot; title=&quot;브루탈리스트 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>브루탈리스트 바로 보러 가기👉</button></a></center></div>'
     },
-    {
-      type: 'image',
-      src: '/images/post105_thumb.svg',
-      alt: '브루탈리스트 영화 제목 뜻 해석 관람평 포토 후기 < 215분간의 진짜 영화 >',
-      caption: '브루탈리스트 영화 제목 뜻 해석 관람평 포토 후기 < 215분간의 진짜 영화 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -186,7 +180,7 @@ const post = {
       type: 'ending',
       html: '<p><b>MaryAnn Johanson - 평점(5/5)</b><br/>차갑고 감정적이지 않으며, 주인공처럼 고집스럽고 도전적이다. 그의 작품처럼 거대하다. 아드리안 브로디의 연기는 엄청나며, 단단한 분노와 만져볼 수 있을 정도로 애틋한 슬픔을 담고 있다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

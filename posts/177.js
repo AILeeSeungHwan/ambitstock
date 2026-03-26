@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 01일 개봉예정영화 헬보이: 크룩드 맨 관람평 후기 뜻입니다.</b></span></p><p>헬보이가 돌아왔습니다. 하지만 해외에서의 평가는 현재 참혹한 상황입니다.</p><p>과연 <b>어떠한 점이 처참한 결과를 가져오게 되었는지, 로튼 토마토 평점과 해외 평론가들의 후기를 바탕으로 확인해 보도록 하겠습니다.</b></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post177_thumb.svg',
-      alt: '헬보이: 크룩드 맨 관람평 뜻 포토 결말 정보 평점 < 헬보이의 귀환 하지만 ... 불시착? >',
-      caption: '헬보이: 크룩드 맨 관람평 뜻 포토 결말 정보 평점 < 헬보이의 귀환 하지만 ... 불시착? >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -167,7 +161,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

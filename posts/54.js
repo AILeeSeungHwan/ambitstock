@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p style=&quot;color: inherit; line-height: 1.8;&quot;><b>역사 영화는 언제나 양날의 검입니다. 이미 결말을 알고 있는 이야기를 얼마나 설득력 있게 풀어내느냐가 관건이기 때문입니다. </b></p><p style=&quot;color: inherit; line-height: 1.8;&quot;>영화 왕과 사는남자, 이번 작품은 조선 시대 단종을 둘러싼 이야기를 바탕으로, 역사적 사실 위에 상상력을 더해 감정선을 촘촘하게 쌓아 올립니다. 거대한 전투나 자극적인 장면에 의존하기보다는 인물의 선택과 관계, 그리고 시대적 비극이 만들어내는 긴장에 집중합니다.</p><p style=&quot;color: inherit; line-height: 1.8;&quot;>특히 단종과 엄흥도를 중심으로 전개되는 이야기는 역사 재현을 넘어 인간적인 고뇌와 충정을 담아내며 깊은 여운을 남깁니다.</p><p style=&quot;color: inherit; line-height: 1.8;&quot;>해외 관객들 역시 연기와 감정 표현에 높은 평가를 보내고 있어, 이번 포스팅에서는 이에 대한 이야기를 소개해 보겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post54_thumb.svg',
-      alt: '왕과 사는 남자 리뷰｜The King’s Warden 영어제목 뜻·해외 반응·결말 해석',
-      caption: '왕과 사는 남자 리뷰｜The King’s Warden 영어제목 뜻·해외 반응·결말 해석'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -70,7 +64,7 @@ const post = {
       type: 'ending',
       html: '<p style=&quot;color: inherit; line-height: 1.8;&quot;>영화의 결말은 역사적 사실을 기반으로 전개되지만, 감정적으로는 훨씬 깊은 울림을 남깁니다. 단종의 운명은 이미 알려진 비극이지만, 이를 바라보는 인물들의 시선과 선택을 통해 이야기는 새로운 감정을 만들어냅니다. 특히 마지막 장면에서는 정치적 패배가 아닌 인간적인 존엄과 충절에 초점을 맞추며, 관객에게 묵직한 여운을 남깁니다. 과도한 신파 없이 담담하게 마무리되는 연출은 오히려 더 큰 감동을 전하며, 역사 영화가 줄 수 있는 가장 진정성 있는 결말로 평가받고 있습니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

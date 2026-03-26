@@ -2,7 +2,6 @@ const post = {
   id: 239,
   sections: [
     { type: 'intro', html: "<p>영화 더러운 돈에 손대지 마라 (영어제목 : Dirty Money)는 2024년 10월 17일에 개봉한 범죄 스릴러로, 두 명의 탐정이 금전적 욕망에 의해 범죄에 휘말리면서 벌어지는 이야기를 담고 있습니다.</p><p>개봉 첫날 반응 평가는 좋지 못한 모습으로, 해외 시사회 후기리뷰와 함께 국내 관람평도 함께 확인해 보시길 바랍니다.</p><p><span style=&quot;background-color: #f3c000;&quot;><b>이번 포스팅에서는 출연진 등장인물 정보에 대해서 다루겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post239_thumb.svg", alt: "더러운 돈에 손대지 마라 출연진 정보 등장인물 개봉 후 좋지 못한 관람평 | 해외 시사회 후기 리뷰도 함께 보자", caption: "더러운 돈에 손대지 마라 출연진 정보 등장인물 개봉 후 좋지 못한 관람평 | 해외 시사회 후기 리뷰도 함께 보자" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;더러운 돈에 손대지 마라 시사회 후기 리뷰&quot;>2024.10.07 - [영화/영화 정보] - 더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리 보기 개봉예정영화</a></p>" },
@@ -27,7 +26,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p>가볍게 관람할 수 있는 영화 더러운 돈에 손대지 마라 입니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

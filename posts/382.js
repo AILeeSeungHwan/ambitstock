@@ -2,7 +2,6 @@ const post = {
   id: 382,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;>데드풀 시리즈 세번째, 영화 데드풀과 울버린( 영어제목: Deadpool &amp; Wolverine)가 7월 24일 개봉하였습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>데드풀과 울버린 시사회를 관람한 <span style=&quot;background-color: #01ff51;&quot;><b>해외 평론가들의 후기반응 평가</b></span>가 풀리며,</p><p style=&quot;color: inherit; text-align: start;&quot;>오늘 ( 7월 24일 ) 기준으로 로튼토마토에서 정보를 확인할 수 있습니다.</p>" },
-    { type: 'image', src: "/images/post382_thumb.svg", alt: "데드풀과 울버린 평점 해외 반응 후기 | 쿠키 정보 마블 현재 상영작 영화 추천", caption: "데드풀과 울버린 평점 해외 반응 후기 | 쿠키 정보 마블 현재 상영작 영화 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: left;&quot;><span style=&quot;color: inherit; background-color: #f3c000;&quot;><b>데드풀 시리즈 새번째 작품, 데드풀과 울버린의 해외 반응 평점, 그리고 후기</b></span>는 어떠한지 알아보겠습니다. </p>" },
@@ -59,7 +58,7 @@ const post = {
     { type: 'cta', href: "/movie-release-series-overseas-reaction-rating-review-ott/", text: "영화 데드풀 3: 데드풀과 울버린 R등급 개봉! 시리즈 전 작품 해외 반응 평점 후기는? OTT 다시보기" },
     { type: 'cta', href: "/marvel-movie-recommend-series-overseas-critic-rating-review/", text: "데드풀과 울버린 보기 전 마블 영화 추천 시리즈! 데드풀 2 로튼토마토 해외 평론가 평점 후기 리" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><b>엔딩 크레딧이 모두 끝난 이후 총 1개 있습니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 468,
   sections: [
     { type: 'intro', html: "<p style=&quot;text-align: start;&quot;><span style=&quot;color: inherit;&quot;>봉준호 감독의 신작, 미키 17이 개봉을 앞두고 있습니다. 소설 '미키 7'을 원작으로 하며 영화 '기생충' 이후 첫 영화입니다.</span></p><p style=&quot;text-align: start;&quot;><span style=&quot;color: inherit;&quot;><span><s> <span style=&quot;color: inherit; text-align: start;&quot;>2024년 3월 29일 금요일</span> 개봉 예정으로</s><b>(<span style=&quot;background-color: #f3c000;&quot;>금일 24.01.11 기사로, 지난해 할리우드 파업 여파 개봉이 연기되었습니다</span>),</b> </span>개봉 예정작<span> </span>중 가장 기대되는 영화이며, 앞선 영화들이 준 기대감이 해외팬들에게 확실하게 반영되어 있을 것입니다. </span></p><p style=&quot;text-align: start;&quot;><span style=&quot;color: inherit; text-align: start;&quot;>미키 17 개봉전 봉준호의 역대 영화 해외반응을 살펴보도록 하겠습니다.</span></p>" },
-    { type: 'image', src: "/images/post468_thumb.svg", alt: "[개봉 예정작 영화 미키17 개봉일 티저 예고편] 봉준호 해외 평점 반응 시리즈 1탄 기생충, 넷플릭스 영화 추천", caption: "[개봉 예정작 영화 미키17 개봉일 티저 예고편] 봉준호 해외 평점 반응 시리즈 1탄 기생충, 넷플릭스 영화 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: start;&quot;><b><span style=&quot;color: inherit; background-color: #f3c000;&quot;>봉준호 시리즈 첫번째 영화는 &lt;기생충&gt;입니다.</span></b></p>" },
@@ -37,7 +36,7 @@ const post = {
     { type: 'image', src: "/images/post468_img3.jpg", alt: "영화 기생충 포스터", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post468_img1.jpg", alt: "봉준호 시리즈 2탄 영화 괴물 해외 평점 반응 바로보기", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>이상으로 봉준호 시리즈 1탄 기생충에 대한 해외 평점 및 반응 마치며, 2탄 영화 괴물로 찾아오겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 422,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;font-family: 'Noto Serif KR'; background-color: transparent;&quot;>2024년 6월 대한민국 지상파 방송 시청률 순위 TOP 10 입니다. </span></p><p><span style=&quot;font-family: 'Noto Serif KR'; background-color: transparent;&quot;>드라마와 예능, 뉴스까지 종합 시청률 순위 확인해보도록 하겠습니다.</span></p><p><span style=&quot;&quot;><span style=&quot;background-color: transparent;&quot;>신규 업데이트 많은 분들의 요청에 의해 2024년 모든 방송사 뉴스 시청률 순위를 정리하였습니다.</span></span><span style=&quot;&quot;><span style=&quot;background-color: transparent;&quot;>이와 함께 각 방송사 뉴스별 정치 성향도 함께 확인하실 수 있습니다.</span></span></p>" },
-    { type: 'image', src: "/images/post422_thumb.svg", alt: "2024년 6월 대한민국 지상파 방송 시청률 순위 TOP 10", caption: "2024년 6월 대한민국 지상파 방송 시청률 순위 TOP 10" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>대한민국 지상파 시청률 TOP10</figcaption> </figure> </p>" },
@@ -37,7 +36,7 @@ const post = {
     { type: 'cta', href: "/drama-plot-종합-시청률-위/", text: "[종합 시청률 1위 드라마] <수지맞은 우리> 줄거리 및 인물관계도 최신 화 정보 함은정 주연" },
     { type: 'cta', href: "/drama-guide-plot-kbs2/", text: "한채영 한보름 주연 KBS2 일일드라마 스캔들 정보 총정리 | 1화 2화 3화 줄거리 인물관계도 시청률" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>SBS의 '궁금한 이야기 Y'도 5.5%의 시청률로 공동 9위를 차지했습니다. 다양한 사회적 이슈와 미스터리한 사건들을 탐사하고 분석하는 이 프로그램은 시청자들의 궁금증을 해소해주고 있습니다.</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 266,
   sections: [
     { type: 'intro', html: "<p>2024년 애니메이션 영화들의 약진이 두드러집니다. 그중에서도 단언컨대 애니메이션 이상으로 모든 영화 통틀어 최고의 영화로 평가받을 수 있는 작품이 개봉하였습니다. 현재상영작 애니메이션 영화, 와일드 로봇입니다.</p><p>해외 시사회 평가부터 상당히 좋은 반응을 가져왔던 와일드 로봇</p><p><span style=&quot;background-color: #9feec3;&quot;><b>이번 시리즈는 현재 해외 평점과 국내 평점 어떠한지 확인하고, 두 번째 로튼 토마토 평론가 후기 반응, 마지막으로 영화 제목인 와일드 로봇 뜻과 의미, 총 3편에 걸쳐 다루어보도록 하겠습니다.</b></span><br><br/></br></p>" },
-    { type: 'image', src: "/images/post266_thumb.svg", alt: "와일드 로봇 로튼 토마토 평론가 평점 시사회 해외 반응 | 단언컨대 올해 최고의 애니메이션 영화 현재상영작", caption: "와일드 로봇 로튼 토마토 평론가 평점 시사회 해외 반응 | 단언컨대 올해 최고의 애니메이션 영화 현재상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 와일드 로봇 로튼토마토 평론가 평점입니다.</b></span></p>" },
@@ -27,7 +26,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-vs-one-vs/", text: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

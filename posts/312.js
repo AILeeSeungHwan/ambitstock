@@ -2,7 +2,6 @@ const post = {
   id: 312,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>조커 2: 폴리아 되(Joker: Folie à Deux)의 제목 뜻과 의미를 줄거리와 연관하여 자세히 알아보겠습니다.</b></span></p><p>한국 개봉일 2024년 10월 2일 곧 찾아올 영화 조커 2, 조커 1편의 엄청난 임팩트는 여전히 큰 충격을 줄 정도의 여운을 남겼습니다.</p><p>이번 포스팅에서는 폴리아 되 라는 단어의 뜻이 무엇인지, 공개 될 조커 2 폴리아 되 제목과 줄거리사이 어떤 연관성을 가지고 있는지 전체적인 내용들을 살펴보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post312_thumb.svg", alt: "조커 2 폴리 아 되 제목 뜻 의미? 줄거리 내용과 연관관계 심층분석", caption: "조커 2 폴리 아 되 제목 뜻 의미? 줄거리 내용과 연관관계 심층분석" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>조커 2 폴리 아 되 제목 뜻 의미</figcaption> </figure> </p>" },
@@ -29,7 +28,7 @@ const post = {
     { type: 'image', src: "/images/post312_img3.jpg", alt: "조커 2 폴리 아 되 제목 뜻 의미", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post312_img1.jpg", alt: "조커 2 폴리 아 되 제목 뜻 의미", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

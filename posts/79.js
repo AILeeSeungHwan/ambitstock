@@ -2,7 +2,6 @@ const post = {
   id: 79,
   sections: [
     { type: 'intro', html: "<p>여름 블록버스터 시즌이 지나고 찾아온 9월, 극장가는 한층 다채로운 장르와 이야기들로 관객들을 맞이할 준비를 하고 있습니다.</p><p>가족과 함께 즐길 수 있는 애니메이션부터 사회적 메시지를 담은 드라마, 강렬한 액션과 스릴러, 그리고 오래 기다려온 명작의 귀환까지 올가을 스크린은 선택지가 무척 풍성합니다.</p><p>특히 이번 2025년 9월에는 <b>한국 영화와 해외 화제작이 동시에 포진</b>되어 있어 관객들의 기대가 어느 때보다 큽니다.</p><p>박찬욱 감독의 신작 <i>어쩔 수가 없다</i>부터 인기 애니메이션 <i>체인소 맨</i> 극장판, 그리고 사회적 이슈를 건드리는 드라마 <i>홍이</i>까지.</p><p>다양한 작품들이 개봉을 앞두고 예매 순위에도 이름을 올리며 뜨거운 화제를 모으고 있습니다.</p><p>이번 포스팅에서는 <b>2025년 9월 개봉 예정작 10편</b>을 정리했습니다.</p><p>각 영화의 개봉일과 줄거리, 출연진, 그리고 관람 포인트까지 한눈에 확인할 수 있도록 준비했으니, 이번 달 어떤 영화를 볼지 고민하는 분들에게 도움이 되길 바랍니다.</p><p>극장 나들이를 계획 중이라면, 아래 라인업을 꼭 참고해 보세요.</p><p><figure><figcaption>2025년 9월 개봉예정작 영화</figcaption> </figure> </p><p>1. 2025-09-19</p>" },
-    { type: 'image', src: "/images/post79_thumb.svg", alt: "2025년 9월 개봉예정작 영화 추천 한국 + 해외 화제작!", caption: "2025년 9월 개봉예정작 영화 추천 한국 + 해외 화제작!" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "명탐정 코난: 17년 전의 진상", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -124,7 +123,7 @@ const post = {
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'cta', href: "/movie-box-office-audience-guide-ott/", text: "역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>크리스마스 추천 영화 넷플릭스 시청 가능 캐롤 Carol 로튼 토마토 평점 및 후기 포스팅입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>개봉 당시에도 좋은 평가를 받으며 이동진평론가의 극찬을 받은 영화 캐롤, 재개봉 기념 영화관에서 볼지말지 고민중이시라면 이 포스팅을 통해 결정해보시길 바랍니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>영화 캐롤은 현재 넷플릭스에서도 시청 가능합니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post201_thumb.svg',
-      alt: '캐롤 Carol 크리스마스 추천 재개봉 영화 로튼 평점 평론가 결말후기 넷플릭스 시청 가능',
-      caption: '캐롤 Carol 크리스마스 추천 재개봉 영화 로튼 평점 평론가 결말후기 넷플릭스 시청 가능'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -164,7 +158,7 @@ const post = {
       href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

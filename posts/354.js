@@ -2,7 +2,6 @@ const post = {
   id: 354,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>2024년 최고 기대작 영화 에일리언 로물루스의 시사회 SNS 반응 후기 리뷰가 공개</b></span>되었습니다.</p><p>전체적으로 '매우 극찬' 평이 줄을 이으고 있으며,</p><p>에일리언 1, 에일리언 2를 반드시 시청하고 볼 것, 역대 최고의 최종 결말을, 그리고 반드시 <b>4DX ( 한국은 CGV )</b>로 시청할 것을 추천한다는 반응이 이어지고 있습니다.</p>" },
-    { type: 'image', src: "/images/post354_thumb.svg", alt: "영화 에일리언 로물루스 4DX 예매 첫 SNS 시사회 해외 반응 역대 최고의 결말 스틸컷과 함께 보기", caption: "영화 에일리언 로물루스 4DX 예매 첫 SNS 시사회 해외 반응 역대 최고의 결말 스틸컷과 함께 보기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>에일리언 로물루스 스틸컷과 함께 시사회 첫 반응</b></span> 살펴보도록 하겠습니다.</p>" },
@@ -34,7 +33,7 @@ const post = {
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'cta', href: "/netflix-movie-recommend-critic-rating/", text: "넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;>빠르게 전해드리겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

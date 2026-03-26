@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 04일 개봉예정영화 아들들 SONS 관람평 후기입니다.</b></span></p><p>구스타브 몰러 감독의 작품으로 이미 해외에서는 좋은 평을 받았으며 제74회 베를린국제영화제 황금곰상 노미네이션에 오른 작품입니다.</p><blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>내 아들을 죽인 살인자<br/></span>그를 마주해야 한다</b></span></blockquote><p>과연 <b>어떠한 점이 해외 평론가들에게 좋은 평가를 받을 수 있었는지</b> 확인해보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post186_thumb.svg',
-      alt: '영화 아들들 SONS 관람평 평점 후기 해외 반응 <제 74회 베를린국제영화제 황금곰상 노미네이션>',
-      caption: '영화 아들들 SONS 관람평 평점 후기 해외 반응 <제 74회 베를린국제영화제 황금곰상 노미네이션>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -125,7 +119,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

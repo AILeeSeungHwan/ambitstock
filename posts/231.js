@@ -2,7 +2,6 @@ const post = {
   id: 231,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 글래디에이터 2가 2024년 11월 13일 개봉합니다. </b></span></p><p>첫 작품이 엄청난 대작으로 평가받는 만큼 2000년 1편 개봉 후 24년 만의 후속작에 대한 기대감도 엄청납니다.</p><p>아직 본격적으로 마케팅활동을 하지 않았기에 영화 팬분들이 아니라면 아직 개봉 소식을 모르시는 분들도 많을 것입니다.</p>" },
-    { type: 'image', src: "/images/post231_thumb.svg", alt: "글래디에이터 Ⅱ 2 시사회 후기 평론가 관람평 반응 11월 가장 기대되는 개봉 예정작 영화", caption: "글래디에이터 Ⅱ 2 시사회 후기 평론가 관람평 반응 11월 가장 기대되는 개봉 예정작 영화" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 해외 시사회에 공개된 글래디에이터 2의 평론가 후기 관람평반응 알아보도록 하겠습니다.</b></span></p>" },
@@ -24,7 +23,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

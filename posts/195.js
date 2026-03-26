@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>애니메이션 영화 나의 히어로 아카데미아 더 무비: 유어 넥스트가 로튼 토마토에서 압도적인 평점을 기록 중입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서는 영화 <b>나의 히어로 아카데미아 더 무비: 유어 넥스트의 </b>로튼 토마토 평점과 해외 시사회 후기 관람평에 대해 알아보도록 하겠습니다.</p><p><figure><figcaption>나의 히어로 아카데미아 더 무비: 유어 넥스트</figcaption> </figure> </p>'
     },
-    {
-      type: 'image',
-      src: '/images/post195_thumb.svg',
-      alt: '나의 히어로 아카데미아 더 무비: 유어 넥스트 시사회 후기 관람평 해외 반응 <압도적 로튼 토마토 평점 애니메이션 영화 추천>',
-      caption: '나의 히어로 아카데미아 더 무비: 유어 넥스트 시사회 후기 관람평 해외 반응 <압도적 로튼 토마토 평점 애니메이션 영화 추천>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -192,7 +186,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

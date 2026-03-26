@@ -2,7 +2,6 @@ const post = {
   id: 301,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 나우 유 씨미 제목 뜻과 의미를 줄거리 내용, 결말 해석과 연관지어 알아보겠습니다. </b></span></p><p>현재 넷플릭스에서 시청 가능한 나우 유 씨미는 모두가 알고 있 듯, 마술 영화의 최고로 평가받습니다.</p><p>그 연출과 전개, 캐릭터들의 매력등 여러 부분에서 볼만한 가치가 있는 영화 나우 유 씨미, 포스팅 시작합니다.</p>" },
-    { type: 'image', src: "/images/post301_thumb.svg", alt: "넷플릭스 영화 추천 나우 유 씨미 제목 뜻 줄거리 내용 결말 해석 | 마술이 아니고 마법이다", caption: "넷플릭스 영화 추천 나우 유 씨미 제목 뜻 줄거리 내용 결말 해석 | 마술이 아니고 마법이다" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>영화 제목 나우 유 씨 미 ( Now You See Me ) 를 단어 하나하나 해석하여 그 뜻을 알아보겠습니다.</b></p>" },
@@ -23,7 +22,7 @@ const post = {
     { type: 'body', html: "<p>원하시는 컨텐츠가 있다면 댓글로 남겨주세요.</p>" },
     { type: 'image', src: "/images/post301_img1.jpg", alt: "나우 유 씨미 뜻 해석", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 466,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000; color: inherit;&quot;>호아킨피닉스의 <b>조커2</b>가 2024년 10월 4일 개봉</span></b>을 앞두고 있습니다. <span style=&quot;color: inherit; text-align: start;&quot;>24년을 맞이하며 1월 3일부터 넷플릭스 신작영화로 &lt;조커&gt;가 공개되며<span> </span></span>기대감을 한 층 더 높히고 있습니다. 그렇다면 <span style=&quot;color: inherit; text-align: start;&quot;>개봉 예정작 영화 조거2를 보기전,<span> 영화 </span></span>조커에 대한 해외 반응 살펴보도록 하겠습니다.</p><blockquote><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>조커 2 관련 콘텐츠(시사회 후기, 로튼토마토 평점)<br>업데이트 되었습니다.<br/></br></span>총 5개의 포스팅을 <br/>영화 해외반응 탭에서 확인해보세요.</b></blockquote>" },
-    { type: 'image', src: "/images/post466_thumb.svg", alt: "[조커2 영화 개봉일 배우 조커 해외평점과 반응] - 배트맨 할리퀸 합류? 개봉 예정작 (영화 조커 OTT 넷플릭스 다시보기 현재 상영작)", caption: "[조커2 영화 개봉일 배우 조커 해외평점과 반응] - 배트맨 할리퀸 합류? 개봉 예정작 (영화 조커 OTT 넷플릭스 다시보기 현재 상영작)" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "1. 로튼 토마토 ( Rotten Tomatoes 평론가 리뷰 )", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -56,7 +55,7 @@ const post = {
     { type: 'body', html: "<p><a href=&quot;https://ambitstock.com/9&quot; style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: start;&quot;>미키17 보기전 봉준호의 괴물 해외반응 다시보기</a></p>" },
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'ending', html: "<p><a href=&quot;https://ambitstock.com/9&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;봉준호의 기생충 해외반응 다시보기&quot;>미키17 보기전 봉준호의 기생충 해외반응 다시보기</a></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

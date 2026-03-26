@@ -2,7 +2,6 @@ const post = {
   id: 254,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>24년 10월 09일 수요일 개봉예정영화 싱글 에이트 ( Single 8 ) 해외 시사회 평점 후기입니다.</b></span></p><p>먼저 영화 제목인 싱글 에이트의 뜻과 의미를 해석하고, 21회 바르셀로나 빅 아시안 섬머 필름페스티벌 심사위원대상을 받은 해당 작품의 해외 평점 후기 리뷰 알아보도록 하겠습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>영화 싱글 에이트의 평점 및 인기 순위입니다.</b></span></p>" },
-    { type: 'image', src: "/images/post254_thumb.svg", alt: "싱글 에이트 Single 8 뜻 의미 해석 해외 평점 | 심사위원대상 수상작 일본개봉예정영화", caption: "싱글 에이트 Single 8 뜻 의미 해석 해외 평점 | 심사위원대상 수상작 일본개봉예정영화" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>IMDB 평점은 6.9점, 인기순위는 아직 측정되지 않았습니다.</b></span></p>" },
@@ -23,7 +22,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-vs-one-vs/", text: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

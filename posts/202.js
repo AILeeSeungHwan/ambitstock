@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>쿠엔틴타란티노 감독의 헤이트풀 8 제목 뜻 의미 해석, 그리고 로튼 토마토 평점과 평론가 결말후기 포스팅입니다.</b></span></p><p>이번 포스팅을 통해 넷플릭스 시청 가능한 타란티노 영화 헤이트풀 8, 볼지 말지 확실하게 전해드리겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post202_thumb.svg',
-      alt: '헤이트풀 8 뜻 의미 해석 | 로튼 평점 평론가 결말후기 관람평 서부극 잔인한 영화 추천 넷플릭스 시청가능',
-      caption: '헤이트풀 8 뜻 의미 해석 | 로튼 평점 평론가 결말후기 관람평 서부극 잔인한 영화 추천 넷플릭스 시청가능'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -177,7 +171,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

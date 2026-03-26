@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>브로드웨이 뮤지컬로 큰 성공을 거둔 작품 <b>위키드가 판타지 뮤지컬 영화로 개봉</b>합니다.</p><p><span style=&quot;background-color: transparent;&quot;><b>11월 20일 개봉한 영화 위키드는 오즈의 마법사의 프리퀄로</b>,</span> 서쪽 마녀 엘파바와 착한 마녀 글린다의 이야기를 중심으로 합니다.</p><p>두 인물은 성격과 가치관이 완전히 다르지만 우정을 쌓아가는 과정을 통해 예상치 못한 모험과 갈등을 겪습니다. </p><blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>아리아나 그란데<br>착한 마녀 글린다 역</br></span></b></span></blockquote><p><span style=&quot;background-color: transparent;&quot;><b>이번 영화는 2부작으로 제작되었으며, 2024년 11월 20일 파트 1이 개봉될 예정입니다. </b></span></p><p>감독은 존 추, 출연진으로는 신시아 에리보(엘파바 역)와 아리아나 그란데(글린다 역)가 등장해 기대를 모으고 있습니다.</p><p>영화의 주요 테마는 자신을 이해하고 진정한 정체성을 찾아가는 과정입니다.</p><p><span style=&quot;background-color: #f3c000;&quot;><b>이번 포스팅에서는 현재상영작 영화 제목인 위키드의 뜻 의미 해석, 그리고 원작 소설 뮤지컬 줄거리 내용에 대해서 알아보도록 하겠습니다.</b></span></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post199_thumb.svg',
-      alt: '현재상영작 영화 위키드 뜻 뮤지컬 소설 원작 줄거리 내용 <아리아나 그란데 출연작>',
-      caption: '현재상영작 영화 위키드 뜻 뮤지컬 소설 원작 줄거리 내용 <아리아나 그란데 출연작>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -134,7 +128,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

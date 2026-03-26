@@ -2,7 +2,6 @@ const post = {
   id: 117,
   sections: [
     { type: 'intro', html: "<p>카라바조의 그림자 개봉 관람평 결말 후기 뜻 해석 포토 <천재 화가의 작품 뒤에 숨겨진 어둠></p>" },
-    { type: 'image', src: "/images/post117_thumb.svg", alt: "카라바조의 그림자 개봉 관람평 결말 후기 뜻 해석 포토 <천재 화가의 작품 뒤에 숨겨진 어둠>", caption: "카라바조의 그림자 개봉 관람평 결말 후기 뜻 해석 포토 <천재 화가의 작품 뒤에 숨겨진 어둠>" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "영화 카라바조의 그림자 개봉", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -73,7 +72,7 @@ const post = {
     { type: 'body', html: "<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>예술가의 강렬한 독창성이 <br/>더 분명히 드러났다면 <br/>더 즐겁게 느껴졌을 것이다.</span></b></span></blockquote>" },
     { type: 'body', html: "<p>이상으로 영화 카라바조의 그림자 해외 평론가 관객 관람평 결말후기 포스팅 마칩니다.</p>" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

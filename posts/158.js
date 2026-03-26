@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 04일 개봉영화 \'소방관\' 시사회 관람평 리뷰입니다.</b></span></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post158_thumb.svg',
-      alt: '현재상영작 소방관 시사회 관람평 리뷰 포토 < 홍제동 화재 실화기반 영화 >',
-      caption: '현재상영작 소방관 시사회 관람평 리뷰 포토 < 홍제동 화재 실화기반 영화 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -166,7 +160,7 @@ const post = {
       type: 'ending',
       html: '<p><b>12월의 최고 기대작 영화 소방관, 영화관에서 확인해 보시길 바랍니다.</b></p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

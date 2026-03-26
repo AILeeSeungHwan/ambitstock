@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>하얼빈 시사회 관람평 리뷰 포토 < 토론토 국제 영화제 > 해외 평론가 반응 결말 후기 개봉예정작</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post156_thumb.svg',
-      alt: '하얼빈 시사회 관람평 리뷰 포토 < 토론토 국제 영화제 > 해외 평론가 반응 결말 후기 개봉예정작',
-      caption: '하얼빈 시사회 관람평 리뷰 포토 < 토론토 국제 영화제 > 해외 평론가 반응 결말 후기 개봉예정작'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -182,7 +176,7 @@ const post = {
       type: 'ending',
       html: '<p>영화 하얼빈은 12월 25일 크리스마스에 영화관에서 관람하실 수 있습니다. </p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

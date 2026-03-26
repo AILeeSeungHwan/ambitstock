@@ -2,7 +2,6 @@ const post = {
   id: 106,
   sections: [
     { type: 'intro', html: "<p><b>영화 삶이 다할때까지 (영어제목 : Ad Vitam)은 2025년 1월 10일 넷플릭스에서 공개된 프랑스 액션 스릴러 영화</b>로, 기욤 카네(Guillaume Canet)가 주연을 맡았습니다.</p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 삶이 다할때까지 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://www.netflix.com/browse?jbv=81752951&quot; title=&quot;삶이 다할때까지 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>삶이 다할때까지 바로 보러 가기👉</button></a></center></div>" },
-    { type: 'image', src: "/images/post106_thumb.svg", alt: "영화 삶이 다할때까지 줄거리 평점 후기 <영어제목 Ad Vitam 뜻 해석은?>", caption: "영화 삶이 다할때까지 줄거리 평점 후기 <영어제목 Ad Vitam 뜻 해석은?>" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -47,7 +46,7 @@ const post = {
     { type: 'h2', id: "section7", text: "액션은 훌륭하지만 줄거리 약함 / 두 이야기의 균형 부족 - 평점(1.5/4) / 평점(1.5/5)", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
     { type: 'body', html: "<p>로돌프 로가의 프랑스 액션 스릴러 <i>Ad Vitam</i>은 몇몇 긴장감 넘치는 순간이 있지만, 액션 장면 사이의 빈약한 줄거리가 심박수를 계속해서 유지시키지 못한다.</p>" },
     { type: 'ending', html: "<p>넷플릭스에서 공개된 프랑스 영화 <i>Ad Vitam</i>은 두 이야기의 균형을 잘 맞추지 못해 기억에 남지 않을 정도로 평범하다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

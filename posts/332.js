@@ -2,7 +2,6 @@ const post = {
   id: 332,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>크리스토퍼 놀란 감독 모든 작품 시리즈, 첫번째 작품은 테넷입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 테넷 로튼토마토, IMDB평점 알아보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>크리스토퍼 놀란 감독의 모든 영화 중 평점 1등은 무엇일지 궁금하신 분은 아래 포스팅을 참고하세요.</p>" },
-    { type: 'image', src: "/images/post332_thumb.svg", alt: "크리스토퍼 놀란 영화 중 꼴찌! 테넷 해외 로튼토마토 IMDB 평점은? 넷플릭스 시청가능", caption: "크리스토퍼 놀란 영화 중 꼴찌! 테넷 해외 로튼토마토 IMDB 평점은? 넷플릭스 시청가능" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b>테넷 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></p>" },
@@ -16,7 +15,7 @@ const post = {
     { type: 'image', src: "/images/post332_img3.jpg", alt: "크리스토퍼 놀란 영화 중 꼴찌! 테넷 해외 로튼토마토 IMDB 평점은? 넷플릭스 시청가능", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post332_img1.jpg", alt: "영화 테넷 평점", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>로튼 토마토 평론가 평점이 왜 이렇게 낮은지에 대해서는 의문이 드네요. 이와 관련하여 다음 포스팅에서 평론가 후기 해석 살펴보겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 58,
   sections: [
     { type: 'intro', html: "<p>영화 블로그 포스팅: 화이트 아웃(Whiteout, 2025) - 전체 HTML 코드</p><p>제목 / SEO</p><p>메타 설명</p><p><b>화이트 아웃(Whiteout, 2025)</b>은 혹한의 고립 상황에서 벌어지는 생존 액션·스릴러입니다.</p><p>캐나다 제작 91분, 데릭 반스 연출, 제임스 맥두걸·더글라스 니백·조엘 라벨·이안 매튜스 출연.</p><p>한눈에 보는 <b>기본 정보·줄거리·해외 평론가 한 줄 평·관객 후기</b>까지 깔끔히 정리했어요.</p><p>인트로</p><p>폐쇄된 노동 수용소에서 탈옥한 수감자들이 끝없는 설원으로 내몰리며 벌어지는 <b>생존전·추격전·심리전</b>이 핵심이에요. 얼어붙은 대지 위에서 인간과 인간(<b>man vs man</b>), 인간과 자연(<b>man vs nature</b>)의 충돌을 빠른 호흡으로 밀어붙이는 작품이라 긴장감이 유지돼요. 인디 감성의 날것 같은 액션과, 설경을 밀도 있게 담아낸 촬영이 강점으로 꼽힙니다.</p><p>기본 정보</p>" },
-    { type: 'image', src: "/images/post58_thumb.svg", alt: "화이트 아웃(Whiteout) 관람평 액션·스릴러 영화｜정보·줄거리·평론가/관객 후기 총정리", caption: "화이트 아웃(Whiteout) 관람평 액션·스릴러 영화｜정보·줄거리·평론가/관객 후기 총정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "영화 화이트 아웃 기본 정보", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -31,7 +30,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

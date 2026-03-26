@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>영화와 드라마를 볼 때 OTT 선택은 필수지만, 요즘은 가격 차이와 혜택 차이가 정말 큽니다. 2025년 현재 OTT 서비스들은 광고형 요금제, 통신사 제휴, 카드 할인 등을 다양하게 내놓고 있어요.</p><p>한 달에 2~3개 OTT를 동시에 쓰는 분들도 많지만, 조금만 비교해도 연간 10만 원 이상 절약할 수 있습니다.</p><p>오늘은 <b>가격·할인 혜택 중심</b>으로 2025년 OTT 추천 순위를 뽑아봤습니다.</p><p><figure><figcaption>2025 OTT 추천 점유율 순위</figcaption> </figure> </p>'
     },
-    {
-      type: 'image',
-      src: '/images/post60_thumb.svg',
-      alt: '2025 OTT 추천 점유율 순위 TOP5 - 넷플릭스부터 쿠팡플레이 웨이브까지(요금제·할인 혜택)',
-      caption: '2025 OTT 추천 점유율 순위 TOP5 - 넷플릭스부터 쿠팡플레이 웨이브까지(요금제·할인 혜택)'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -153,7 +147,7 @@ const post = {
       href: '/movie-box-office-audience-guide-ott/',
       text: '역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

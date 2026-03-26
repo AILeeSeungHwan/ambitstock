@@ -2,7 +2,6 @@ const post = {
   id: 394,
   sections: [
     { type: 'intro', html: "<p>JU건설의 내부 감사실을 배경으로 한 오피스 수사극!</p><p>현재 2화까지 방영 된 드라마 '감사'합니다의 <span style=&quot;background-color: #f3c000;&quot;><b>시청률은 1화에서 3.5%, 2화 시청률 5.9%</b></span>까지 오르며 가파른 상승세를 이어가고 있습니다.</p><p>여기서 드라마 제목인 감사합니다 의 뜻을 살펴보면,</p>" },
-    { type: 'image', src: "/images/post394_thumb.svg", alt: "TVN 주말 드라마 추천 감사합니다 등장인물관계도 줄거리 제목 뜻을 아시나요 | 티빙", caption: "TVN 주말 드라마 추천 감사합니다 등장인물관계도 줄거리 제목 뜻을 아시나요 | 티빙" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>제목의 '감사'는 우리가 흔히 인사할 때 쓰는 감사가 아닌, 아래의 뜻을 따릅니다.</p>" },
@@ -65,7 +64,7 @@ const post = {
     { type: 'image', src: "/images/post394_img3.jpg", alt: "tvn 토일 주말 드라마 감사합니다 줄거리 인물관계도", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post394_img1.jpg", alt: "tvn 토일 주말 드라마 감사합니다 줄거리 인물관계도", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>구한수와 윤서진은 감사팀에서의 경험을 통해 서로의 다름을 이해하고, 협력하여 문제를 해결해 나갑니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

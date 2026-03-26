@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>해관전선 관람평 후기 뜻 해석 < 홍콩영화.. 이제 진짜 보내줄까? ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post115_thumb.svg',
-      alt: '해관전선 관람평 후기 뜻 해석 < 홍콩영화.. 이제 진짜 보내줄까? >',
-      caption: '해관전선 관람평 후기 뜻 해석 < 홍콩영화.. 이제 진짜 보내줄까? >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -176,7 +170,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

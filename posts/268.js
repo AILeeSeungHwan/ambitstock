@@ -2,7 +2,6 @@ const post = {
   id: 268,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>10월 1일 개봉한 대도시의 사랑법의 행보가 예사롭지 않습니다.</b></span></p><p>사전 예약 4만 4196명을 기록하며 9월 10월의 가을 한국 영화 1위 베테랑 2를 꺾으며 예매 1위에 올랐습니다.</p><p>뿐만 아니라 현재 국내 평가또한 상당히 높으며 흥행을 예고하고 있습니다.</p>" },
-    { type: 'image', src: "/images/post268_thumb.svg", alt: "대도시의 사랑법 해외 관람평점도 좋은 반응 ! 현재상영작 한국 영화 예매 인기 순위", caption: "대도시의 사랑법 해외 관람평점도 좋은 반응 ! 현재상영작 한국 영화 예매 인기 순위" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>영화는 서울의 젊은이들이 겪는 사랑과 자아 찾기에 대한 이야기를 다루며 청춘의 혼란과 소용돌이를 묘사합니다.</p>" },
@@ -33,7 +32,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

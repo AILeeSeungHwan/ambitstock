@@ -2,7 +2,6 @@ const post = {
   id: 143,
   sections: [
     { type: 'intro', html: "<p>색, 계 ( Lust, Caution ) 뜻 해석 해외 반응 결말 후기 관람평 포토 < 탕웨이 수위 높은 노출 작품 재개봉 ></p>" },
-    { type: 'image', src: "/images/post143_thumb.svg", alt: "색, 계 ( Lust, Caution ) 뜻 해석 해외 반응 결말 후기 관람평 포토 < 탕웨이 수위 높은 노출 작품 재개봉 >", caption: "색, 계 ( Lust, Caution ) 뜻 해석 해외 반응 결말 후기 관람평 포토 < 탕웨이 수위 높은 노출 작품 재개봉 >" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "색, 계(영어 제목 : Lust, Caution) 뜻 해외 반응 결말 후기 포토", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -56,7 +55,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'cta', href: "/series-recommend-rating-top-8/", text: "해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

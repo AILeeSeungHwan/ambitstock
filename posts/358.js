@@ -2,7 +2,6 @@ const post = {
   id: 358,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>어벤져스 둠스데이 결말 로다주의 닥터 둠, 아이언맨이 될 수 있다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>어벤져스 둠스데이 시리즈 마지막 5화, 저번 화에 이어서</p><p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>로버트 다우니 주니어의 닥터 둠이 아이언맨이 될 수 있을 것인가</span></b>에 대해 원작 코믹스 내용을 바탕으로 알아보겠습니다.</p>" },
-    { type: 'image', src: "/images/post358_thumb.svg", alt: "마블 영화 어벤져스 둠스데이 결말 | 닥터 둠 아이언맨 인격 관계 로다주는 돌아온다-5", caption: "마블 영화 어벤져스 둠스데이 결말 | 닥터 둠 아이언맨 인격 관계 로다주는 돌아온다-5" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b><span style=&quot;background-color: #01ff51;&quot;>시리즈 이전화들에서 언급하였듯, </span></b></p>" },
@@ -25,7 +24,7 @@ const post = {
     { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 개봉 예정작 개봉일 순으로 총 정리 feat. 디즈니플러스 시리즈 공개 예정" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;>2025년-2027년 마블 개봉 예정작 총정리</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

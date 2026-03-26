@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 11일 개봉예정영화 서브스턴스 관람평 후기입니다.</b></span></p><p>로튼 토마토에서 신선도 보증마크를 획득하며 높은 평가를 받은 작품으로 2024년 마지막 12월의 최고 기대작 중 하나입니다.</p><p>과연 해외에서 어떠한 평가를 받았는지, <b>해외 시사회 관람평 정보와 서브스턴스 뜻 의미</b> 알아보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post183_thumb.svg',
-      alt: '서브스턴스 뜻 의미 해외 시사회 관람평 정보 < 2024년 12월 영화 개봉 예정작 >',
-      caption: '서브스턴스 뜻 의미 해외 시사회 관람평 정보 < 2024년 12월 영화 개봉 예정작 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -165,7 +159,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

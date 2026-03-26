@@ -2,7 +2,6 @@ const post = {
   id: 283,
   sections: [
     { type: 'intro', html: "<p>넷플릭스 시리즈 추천 콘텐츠, 이번 작품은 실화 기반 시리즈 '괴물 - 메넨 데즈 형제 이야기' (영어 제목 : monsters the lyle and erik menendez story )입니다.</p><p>이번 포스팅에서는 괴물 해외 로튼토마토 평점과 IMDB 평점을 살펴보며, 볼만한 시리즈인지 확인해 보도록 하겠습니다.</p><p><figure><figcaption>넷플릭스 시리즈 인기 순위 추천 - 괴물 메넨 데즈 형제 이야기</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post283_thumb.svg", alt: "넷플릭스 시리즈 인기 순위 추천 실화 기반 괴물 메넨 데즈 형제 이야기 - 주요 등장인물 평점 해외 반응", caption: "넷플릭스 시리즈 인기 순위 추천 실화 기반 괴물 메넨 데즈 형제 이야기 - 주요 등장인물 평점 해외 반응" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>로튼 토마토 괴물 메넨 데즈 형제 이야기 평론가 평점과 관람객 평점입니다.</b></span></p>" },
@@ -35,7 +34,7 @@ const post = {
     { type: 'image', src: "/images/post283_img3.jpg", alt: "넷플릭스 시리즈 인기 순위 추천 실화 기반 괴물 메넨 데즈 형제 이야기 - 주요 등장인물 평점 해외 반응", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post283_img1.jpg", alt: "괴물 메넨 데즈 형제 이야기 스틸컷 입니다.", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 325,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 이매지너리의 해외 평론가 후기리뷰를 스틸컷과 함께 전달드립니다.</b></span></p><p>지난 포스팅에서 이매지너리의 영어제목 Imaginary 뜻과 의미, 그리고 해외평점 알아보았습니다.</p><p>포스팅 하단 글을 통해서 확인해보실 수 있습니다.</p>" },
-    { type: 'image', src: "/images/post325_thumb.svg", alt: "이매지너리 평론가 후기 리뷰 정보 | 시리즈 2 3편은 어쩌려고.. 스틸컷과 함께 보자", caption: "이매지너리 평론가 후기 리뷰 정보 | 시리즈 2 3편은 어쩌려고.. 스틸컷과 함께 보자" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>이매지너리 평론가 후기를 모두 전해드리겠습니다.</b></span></p>" },
@@ -34,7 +33,7 @@ const post = {
     { type: 'image', src: "/images/post325_img1.jpg", alt: "이매지너리", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/movie-overseas-rating-reaction-horror/", text: "영화 이매지너리 뜻 로튼 해외 평점과 반응 | 올해 공포는 다 죽었다" },
     { type: 'ending', html: "<p><br/>이상으로 이매지너리 평론가 후기 포스팅 마칩니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

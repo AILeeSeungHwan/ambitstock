@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>더 퍼스트 슬램덩크 재개봉 뜻 해석 <로튼 해외 반응 100% 일본 애니메이션 스포츠 영화의 정점></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post113_thumb.svg',
-      alt: '더 퍼스트 슬램덩크 재개봉 뜻 해석 <로튼 해외 반응 100% 일본 애니메이션 스포츠 영화의 정점>',
-      caption: '더 퍼스트 슬램덩크 재개봉 뜻 해석 <로튼 해외 반응 100% 일본 애니메이션 스포츠 영화의 정점>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -227,7 +221,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

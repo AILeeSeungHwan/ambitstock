@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>영화 미키17 (영어제목 : Mickey 17 )이 드디어 개봉합니다. <br>2025년 2월 28일 개봉예정작으로 믿고 보는 봉준호감독님의 연출과 로버트 패틴슨 배우의 엄청난 연기력을 확인해 보실 수 있습니다.</br></b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 미키17 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?sm=tab_hty.top&amp;where=nexearch&amp;ssc=tab.nx.all&amp;query=미키+17+상영일정&amp;oquery=미키+17+상영일정&amp;tqi=iJkOhwqpsECssKoSl14ssssstz0-111019&quot; title=&quot;미키 17 영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 미키 17 바로 보러 가기👉</button></a></center></div>'
     },
-    {
-      type: 'image',
-      src: '/images/post95_thumb.svg',
-      alt: '미키 17 개봉 관람평 후기 평점 해외 반응 <영화 순위 1위>',
-      caption: '미키 17 개봉 관람평 후기 평점 해외 반응 <영화 순위 1위>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -223,7 +217,7 @@ const post = {
       type: 'ending',
       html: '<div><center><a href=&quot;https://search.naver.com/search.naver?sm=tab_hty.top&amp;where=nexearch&amp;ssc=tab.nx.all&amp;query=미키+17+상영일정&amp;oquery=미키+17+상영일정&amp;tqi=iJkOhwqpsECssKoSl14ssssstz0-111019&quot; title=&quot;미키 17 영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 미키 17 바로 보러 가기👉</button></a></center></div>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

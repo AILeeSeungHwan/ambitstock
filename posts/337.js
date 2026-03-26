@@ -37,7 +37,7 @@ const post = {
     { type: 'image', src: "/images/post337_img3.jpg", alt: "디즈니 플러스 드라마 폭군 시즌 2", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post337_img1.jpg", alt: "디즈니 플러스 드라마 폭군 시즌 2", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;>다음 포스팅에서는 폭군 해외 평점과 후기반응 살펴보겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

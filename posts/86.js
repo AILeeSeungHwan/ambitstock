@@ -2,7 +2,6 @@ const post = {
   id: 86,
   sections: [
     { type: 'intro', html: "<p>2025년 9월 현재상영작 영화 예매 순위 인기 TOP10</p>" },
-    { type: 'image', src: "/images/post86_thumb.svg", alt: "2025년 9월 현재상영작 영화 예매 순위 인기 TOP10", caption: "2025년 9월 현재상영작 영화 예매 순위 인기 TOP10" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "2025년 9월 현재상영작 영화 예매 순위 TOP10", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -121,7 +120,7 @@ const post = {
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'cta', href: "/movie-box-office-audience-guide-ott/", text: "역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부" },
     { type: 'cta', href: "/series-recommend-rating-top-8/", text: "해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

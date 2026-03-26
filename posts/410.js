@@ -2,7 +2,6 @@ const post = {
   id: 410,
   sections: [
     { type: 'intro', html: "<p>넷플릭스 오리지널 시리즈 더 에이트 쇼, 어떻게 보셨나요?</p><p>웹툰 원작 머니게임, 파이게임을 차용하여 만들어진 더 에이트 쇼는 원작의 충격적인 전개를 그대로 가져와 예상치 못한 잔인함을 그려냈습니다. 해외 평점과 반응은 각기 다양합니다. 하지만 공통적인 한 가지는, <span style=&quot;background-color: #f3c000;&quot;><b>'오징어 게임' 언급이 항상 함께 한다는 것</b></span>입니다.</p><p><figure><figcaption>넷플릭스 시리즈 더 에이트 쇼</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post410_thumb.svg", alt: "&quot;넷플릭스 역대 최고 작품 오징어 게임의 아류&quot; 더 에이트 쇼 해외 평론가 평점 및 반응 리뷰 - 넷플릭스 드라마 추천", caption: "&quot;넷플릭스 역대 최고 작품 오징어 게임의 아류&quot; 더 에이트 쇼 해외 평론가 평점 및 반응 리뷰 - 넷플릭스 드라마 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>더 에이트 쇼를 모두 보신 분들은 아시겠지만,선정적인 농담, 배우 천우희의 노출씬, 고어한 장면 연출, 고문<span style=&quot;color: inherit; text-align: start;&quot;><span> </span></span>등 호불호가 갈릴 요소들이 포함되어 있기에, 좋은 평가만을 받기엔 힘들것이라 예상하실 수 있으실 겁니다.</p>" },
@@ -83,7 +82,7 @@ const post = {
     { type: 'image', src: "/images/post410_img3.jpg", alt: "더 에이트 쇼", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post410_img1.jpg", alt: "넷플릭스 시리즈 더 에이트 쇼", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p> </p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

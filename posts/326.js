@@ -2,7 +2,6 @@ const post = {
   id: 326,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 공포 영화 개봉작 이매지너리의 해외 평점 반응입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>2024년 8월 28일 한국 개봉한 이매니저리 ( IMAGINARY )는 이미 북미에서 3월 8일 개봉하였고, 흥행성적과는 별개로 압도적으로 낮은 평점을 기록하고 있습니다. 이매지너리 외에 한국 공포영화 늘봄가든도 처참한 평점을 기록 중 입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>이매지너리 해외 평점과 제목 뜻 등 볼만한 영화일지 알아보겠습니다.</p>" },
-    { type: 'image', src: "/images/post326_thumb.svg", alt: "영화 이매지너리 뜻 로튼 해외 평점과 반응 | 올해 공포는 다 죽었다", caption: "영화 이매지너리 뜻 로튼 해외 평점과 반응 | 올해 공포는 다 죽었다" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b>테넷 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></p>" },
@@ -23,7 +22,7 @@ const post = {
     { type: 'image', src: "/images/post326_img1.jpg", alt: "영화 이매지너리 평점", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/movie-overseas-critic-rating-reaction-review/", text: "영화 콰이어트 플레이스 3 : 첫째 날 해외 평론가 평점 반응 결말 후기" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

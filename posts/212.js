@@ -2,7 +2,6 @@ const post = {
   id: 212,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>11월 최고 기대작 영화 글래디에이터 2입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>2000년대 명작 영화 중 하나인 글래디에이터의 후속작으로, 제작 소식만으로 많은 이들의 기대감과 더불어 전편의 명성에 먹칠하는 것은 아닐지에 대한 걱정이 함께 공존한 화제작입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서는 현재 로튼 토마토에서 공개된 평론가 평점과 후기 관람평, 그리고 글래디에이터의 제목 뜻과 의미를 함께 알아보겠습니다. 이 포스팅을 통해 영화 시청에 도움이 되시길 바랍니다.</p>" },
-    { type: 'image', src: "/images/post212_thumb.svg", alt: "글래디에이터 2 평점 관람평 후기 제목 뜻 의미 | 로튼 토마토 평론가 반응은?", caption: "글래디에이터 2 평점 관람평 후기 제목 뜻 의미 | 로튼 토마토 평론가 반응은?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>글래디에이터는 고대 로마에서 &quot;검투사&quot;를 뜻하는 말로, 주로 검이나 창 같은 무기를 들고 싸우는 전사들을 가리킵니다.</p>" },
@@ -49,7 +48,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

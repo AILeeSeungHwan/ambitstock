@@ -2,7 +2,6 @@ const post = {
   id: 277,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 추천 흑백요리사의 해외 후기 리뷰 반응 알아보도록 하겠습니다.</b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>현재 한국의 모든 관심을 휩쓸고 있는 흑백요리사, 넷플릭스 비영어권 순위 1위를 차지하며 해외에서도 큰 반응을 이끌고 있습니다.</b></span></p><p>남긴 모든 리뷰를 살펴보면 대부분의 평점이 9점 10점을 기록하고 있음을 알 수 있습니다.</p>" },
-    { type: 'image', src: "/images/post277_thumb.svg", alt: "넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가", caption: "넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>심지어 하나 있는 1점 평점 리뷰는 리뷰 좋아요 2개 싫어요 개수가 39개나 될 정도로 극딜(?)을 당하고 있습니다.</p>" },
@@ -46,7 +45,7 @@ const post = {
     { type: 'image', src: "/images/post277_img3.jpg", alt: "넷플릭스 추천 흑백요리사", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post277_img1.jpg", alt: "넷플릭스 추천 흑백요리사", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>전체적인 평가가 굉장히 좋고, 새로운 한국음식을 볼 수 있었다는 것에 대한 평가, 심사위원의 평가방식과 전개방식, 경연스타일 연출 등 모든 부분에서 긍정적인 평가를 받고 있습니다. 과연 우승자는 누구일지, 이번 매주 화요일 공개되는 흑백요리사 3주 차도 기대해 보겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

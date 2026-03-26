@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 11일 개봉영화 X를 담아, 당신에게 관람평 후기입니다.</b></span></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post160_thumb.svg',
-      alt: 'X를 담아, 당신에게 관람평 후기 영어제목 Wicked Little Letters 해외 반응',
-      caption: 'X를 담아, 당신에게 관람평 후기 영어제목 Wicked Little Letters 해외 반응'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -176,7 +170,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 344,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 더 인플루언서 뜻과 해외 평점, 후기반응</b></span> 입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>이전 포스팅을 통해 더 인플루언서의 해외 순위와 논란 이슈사항들을 살펴보았습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>인플루언서의 뜻이 무엇인지, 그리고 해외 평점과 후기반응은 어떠한지 알아보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post344_thumb.svg", alt: "넷플릭스 더 인플루언서 뜻, 해외 시청자들의 평점과 후기반응은 어떨까", caption: "넷플릭스 더 인플루언서 뜻, 해외 시청자들의 평점과 후기반응은 어떨까" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>첫번째로 인플루언서의 뜻을 알아보겠습니다.</b></span></p>" },
@@ -35,7 +34,7 @@ const post = {
     { type: 'image', src: "/images/post344_img3.jpg", alt: "넷플릭스 더 인플루언서 해외 평점 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post344_img1.jpg", alt: "넷플릭스 더 인플루언서", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;>다소 기이한 장면들도 있었지만, <span style=&quot;background-color: #9feec3;&quot;><b>전반적으로 7개의 에피소드로 구성된 이 쇼는 재미있게 볼 만하다.</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

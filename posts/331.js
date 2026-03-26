@@ -2,7 +2,6 @@ const post = {
   id: 331,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>아무도 없는 숲속에서 해외 평점과 후기반응 전해드립니다.</b></span></p><p>한국에서의 평점은 썩 좋지 못해 공개전 기대치에 미치지 못한 작품이 된 아무도 없는 숲속에서,</p><p>해외에서의 인기와 후기 반응은 어떠한지 살펴보시죠.</p>" },
-    { type: 'image', src: "/images/post331_thumb.svg", alt: "넷플릭스 드라마 아무도 없는 숲속에서 해외 평점과 후기 반응 볼만한 시리즈인가?", caption: "넷플릭스 드라마 아무도 없는 숲속에서 해외 평점과 후기 반응 볼만한 시리즈인가?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>예상하시겠지만 전체적으로 고민시의 연기력과 분위기, 외모를 칭찬하는 리뷰가 상당히 많습니다.</p>" },
@@ -36,7 +35,7 @@ const post = {
     { type: 'image', src: "/images/post331_img3.jpg", alt: "아무도 없는 숲속에서 평점분포", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post331_img1.jpg", alt: "아무도 없는 숲속에서", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>첫 에피소드가 너무 느리게 전개되며, 새로운 캐릭터가 너무 자주 등장해 집중하기 어렵다고 비판. 이후 에피소드를 볼 동기를 전혀 주지 못했다고 평가.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

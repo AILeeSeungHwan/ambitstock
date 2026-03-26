@@ -2,7 +2,6 @@ const post = {
   id: 429,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>영화 '인사이드 아웃 2'이 2024년 6월 14일 개봉하였습니다. 라일리의 청소년기를 배경으로, 새로운 감정들이 추가되어 복잡한 감정 변화를 겪으며 성장하는 이야기를 다룹니다. 새로운 감정들인 불안(Anxiety), 당혹감(Embarrassment), 무기력(Ennui), 질투(Envy)가 등장하며 기존 감정들과의 갈등을 통해 라일리는 자신의 정체성을 찾아가는 과정을 그립니다.</b></span></p><p><span style=&quot;font-family: 'Noto Serif KR'; background-color: transparent;&quot;><b>현재 상영작 '인사이드 아웃 2'의 제작비는 약 1억 7500만 달러에서 2억 달러로 추정되며, 손익분기점은 4억 달러 이상으로 예상됩니다. </b></span><span style=&quot;font-family: 'Noto Serif KR'; background-color: transparent;&quot;><b>현재 국내 박스오피스 1위, <span style=&quot;color: inherit; background-color: #f3c000;&quot;>4일차에 100만, 닷새만에 200만명의 관객수</span>를 기록중이며, 네이버 실관람객 평점 9.22점이라는 좋은 평가를 받고 있습니다. 인기 영화인만큼 다양한 상영 일정에 편성되어 있고, 총 96분의 짧은 런닝타임으로 구성되어 있습니다. 특히 애니메이션 영화 특성상 어린아이들을 위한 인사이드 아웃2 더빙 예약또한 인기가 많은 것으로 보입니다.</b></span></p><blockquote style=&quot;background-color: #fcfcfc; text-align: left;&quot;> <h2 style=&quot;color: inherit;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>목 차<br/></b></span></h2> <ul style=&quot;list-style-type: circle;&quot;> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>영화 제목 인사이드 아웃 뜻</b></span></li> <li><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>주요 등장인물 및 배우와 더빙 성우</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>제작 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>로튼 토마토 평론가 평점 및 리뷰</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>IMDB 평점 및 리뷰</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>IMDB 평점 통계</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>인사이드 아웃2 쿠키 및 굿즈 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>영화 인사이드 아웃 OTT 다시보기 보는곳</b></span></li> </ul> </blockquote>" },
-    { type: 'image', src: "/images/post429_thumb.svg", alt: "인사이드 아웃 2 뜻 의미, 해외 평점 반응 분석 - 쿠키 굿즈 새로운 감정 등 모든 정보 총정리 이동욱 출연 현재 상영작", caption: "인사이드 아웃 2 뜻 의미, 해외 평점 반응 분석 - 쿠키 굿즈 새로운 감정 등 모든 정보 총정리 이동욱 출연 현재 상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "영화 제목 인사이드 아웃 뜻", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -65,7 +64,7 @@ const post = {
     { type: 'body', html: "<p><figure><figcaption>영화 인사이드 아웃1 OTT 보는곳</figcaption> </figure> </p>" },
     { type: 'image', src: "/images/post429_img8.jpg", alt: "영화 인사이드 아웃 2 굿즈", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>영화 인사이드 아웃1 OTT 다시보기 보는곳은 디즈니플러스, 웨이브와 네이버, 구글플레이에서 구매를 통해 시청하실 수 있습니다.</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

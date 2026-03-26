@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>영화 하얼빈 개봉 정보 출연진 줄거리 결말 후기 < 2024년 12월 기대되는 한국 독립운동 개봉예정작 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post157_thumb.svg',
-      alt: '영화 하얼빈 개봉 정보 출연진 줄거리 결말 후기 < 2024년 12월 기대되는 한국 독립운동 개봉예정작 >',
-      caption: '영화 하얼빈 개봉 정보 출연진 줄거리 결말 후기 < 2024년 12월 기대되는 한국 독립운동 개봉예정작 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -199,7 +193,7 @@ const post = {
       type: 'ending',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li>일부 연출은 영화적 재미를 위해 각색되었을 가능성이 있습니다.</li> </ul>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

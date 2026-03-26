@@ -2,7 +2,6 @@ const post = {
   id: 264,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 와일드 로봇 시리즈 세 번째, 뜻과 의미에 대해서 알아보도록 하겠습니다.</b></span></p><p>지난 포스팅들에서 로튼 토마토 평론가 평점, 해외 후기를 알아보았고, 이번 포스팅에서는 줄거리 내용을 바탕으로 제목 뜻과 의미를 해석해 보는 시간을 가져보겠습니다.</p><p>다시 한번 말씀드리지만 평론가 평점과 후기에서 알 수 있듯, 올해 최고의 영화, 혹은 역대 최고의 애니메이션 영화라고 평가받는 작품인만큼 꼭 예매하셔서 아이들과 좋은 추억을 만드시길 바랍니다.</p>" },
-    { type: 'image', src: "/images/post264_thumb.svg", alt: "와일드 로봇 제목 뜻 의미 해석 내용 줄거리와 함께 보기 | 아이와 보기 좋은 애니메이션 현재 상영작", caption: "와일드 로봇 제목 뜻 의미 해석 내용 줄거리와 함께 보기 | 아이와 보기 좋은 애니메이션 현재 상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>압도적인 로튼 토마토 평론가 평점과 관람객 평점, 평점분포와 인기순위가 궁금하신 분은 아래 포스팅을 참고하시길 바랍니다.</p>" },
@@ -35,7 +34,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

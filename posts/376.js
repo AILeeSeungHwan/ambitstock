@@ -2,7 +2,6 @@ const post = {
   id: 376,
   sections: [
     { type: 'intro', html: "<p>넷플릭스 영화 뭐 볼지 고민이신 분들을 위해 가져왔습니다.</p><p><span style=&quot;background-color: #01ff51;&quot;><b>이동진 평론가의 만점 영화 시리즈에 이은 박평식 평론가 평점 7점이상 넷플릭스 영화 추천</b></span>입니다.</p><p>수십년간 평론가로 활동한 박평식 평론가는 <b>평점 10점을 준 영화가 전무할 정도로 <span style=&quot;color: inherit; text-align: start;&quot;>짠 평점을 주기로 악명 높습니다.</span> </b><b> </b></p>" },
-    { type: 'image', src: "/images/post376_thumb.svg", alt: "넷플릭스 영화 추천 | 박평식 평론가의 7점은 97점이다 명작 영화 평점 순위 TOP 10", caption: "넷플릭스 영화 추천 | 박평식 평론가의 7점은 97점이다 명작 영화 평점 순위 TOP 10" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>네임드로는 이동진 평론가와 쌍박을 이룰 정도의 명성이지만, 성향과 한줄평은 이 둘의 결이 다르죠.</p>" },
@@ -93,7 +92,7 @@ const post = {
     { type: 'cta', href: "/tving-drama-recommend-tvn-top-10/", text: "2024년 TVN 역대 시청률 TOP 10 티빙 드라마 순위 추천" },
     { type: 'cta', href: "/disney-plus-disney-series-drama-recommend-top-10/", text: "디즈니플러스 오리지널 시리즈 한국 볼만한 드라마 추천 순위 TOP 10" },
     { type: 'ending', html: "<p>박평식 평론가 시리즈 두번째에선 평점 9점을 남긴 영화들을 알아보도록 하겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

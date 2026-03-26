@@ -2,7 +2,6 @@ const post = {
   id: 311,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>조커 2 폴리 아되 로튼 토마토 평론가 시사회 평점이 공개되었습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>올해 최고의 기대작 중 하나인 조커 2는 올해 뿐만 아니라 최근 몇 년간 개봉만을 손꼽아 기다린 팬 들이 많았습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>하지만 모두가 알다시피 조커 첫번째 편의 엄청난 임팩트와 작품성때문에 걱정의 시선도 동반하였죠.</p>" },
-    { type: 'image', src: "/images/post311_thumb.svg", alt: "조커 2 폴리 아되 시사회 후기 반응 로튼 토마토 평론가 평점 개봉 등급 | 속편의 저주인가 현재상영작", caption: "조커 2 폴리 아되 시사회 후기 반응 로튼 토마토 평론가 평점 개봉 등급 | 속편의 저주인가 현재상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>과연 조커 2 의 시사회 반응은 어떠한지, 공개된 시사회 반응들과 로튼 토마토 평론가 평점과 IMDB 평점을 함께 확인해보도록 하겠습니다.</p>" },
@@ -25,7 +24,7 @@ const post = {
     { type: 'image', src: "/images/post311_img1.jpg", alt: "조커 2 로튼토마토 평점", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/plot-folie-deux/", text: "조커 2 폴리 아 되 제목 뜻 의미 Folie à Deux? 줄거리 내용과 연관관계 심층분석" },
     { type: 'ending', html: "<p>당연하게도 현재 인기순위는 11위로, 개봉까지 시간이 남아있음에도 높은 순위를 기록하고 있습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

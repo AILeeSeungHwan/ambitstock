@@ -2,7 +2,6 @@ const post = {
   id: 295,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>일본 애니메이션 영화 룩백 ( 영어제목 : Look Back ) 제목 뜻과 해외 현지 평점 후기 입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>한국에서도 좋은 평가를 받으며 영화 예매 인기순위 4위를 기록하고 있는 룩백, 볼만한 영화인지 예매할지 말지 확실히 알아보겠습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>일본 애니메이션 영화 룩백 ( 영어제목 : Look Back ) 의 IMDB 평점입니다.</b></span></p>" },
-    { type: 'image', src: "/images/post295_thumb.svg", alt: "일본 애니메이션 영화 룩백 예매할만 할까? 제목 뜻 해외 현지 평점 후기", caption: "일본 애니메이션 영화 룩백 예매할만 할까? 제목 뜻 해외 현지 평점 후기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>10점 만점 중 8.3점을 기록하며 준수한 평점을 기록중입니다.</b></span></p>" },
@@ -26,7 +25,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><span style=&quot;color: #444447;&quot;><span style=&quot;caret-color: #444447;&quot;><b>함께 보면 좋은 컨텐츠를 추천해드립니다.</b></span></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

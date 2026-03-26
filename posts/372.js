@@ -2,7 +2,6 @@ const post = {
   id: 372,
   sections: [
     { type: 'intro', html: "<p>디즈니 플러스 볼만한 드라마를 한방에 정리해드립니다. 이전 디즈니 플러스 한국 드라마 포스팅에 이은 해외편입니다. 추천 순위는 TOP 10 역순으로 출연진과 간략한 줄거리 전달해드립니다.</p>" },
-    { type: 'image', src: "/images/post372_thumb.svg", alt: "디즈니 플러스 볼만한 드라마 추천 순위 2024년 TOP 10 해외편", caption: "" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
 
@@ -54,7 +53,7 @@ const post = {
     { type: 'cta', href: "/entry/넷플릭스-영화-추천-박평식-평론가의-7점은-97점이다-명작-영화-평점-순위-TOP-10/", text: "넷플릭스 영화 추천 | 박평식 평론가 명작 영화 평점 순위 TOP 10" },
 
     { type: 'ending', html: "<p>토니 스타크 이후 마블 유니버스의 유일한 희망이라 평 받는 로키입니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>페라리 관람평 포토 줄거리 평점 <엔초 페라리 충격 실화 영화></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post128_thumb.svg',
-      alt: '페라리 관람평 포토 줄거리 평점 <엔초 페라리 충격 실화 영화>',
-      caption: '페라리 관람평 포토 줄거리 평점 <엔초 페라리 충격 실화 영화>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -167,7 +161,7 @@ const post = {
       href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

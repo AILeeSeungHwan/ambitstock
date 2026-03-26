@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p style=&quot;color: inherit; font-size: 16px; line-height: 1.8;&quot;>2025년 10월 8일 개봉 예정인 <i>하우스 오브 다이너마이트</i>는 스릴러 장르의 대가 <b>캐서린 비글로우</b> 감독이 연출한 최신작입니다. 출처 불명의 단일 미사일이 미국을 향해 발사되면서 시작되는 이 영화는, 핵 위기 상황 속에서 요동치는 정치적 갈등과 인간의 공포를 극사실적으로 그려냅니다. 이 작품은 <b>이드리스 엘바</b>, <b>레베카 퍼거슨</b>, <b>가브리엘 바소</b>, <b>자레드 해리스</b> 등 막강한 배우진이 합류해 기대를 모으고 있습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post64_thumb.svg',
-      alt: '넷플릭스 영화 추천 하우스 오브 다이너마이트 뜻 관람평 – 캐서린 비글로우 신작, 해외 평론가 극찬 총정리',
-      caption: '넷플릭스 영화 추천 하우스 오브 다이너마이트 뜻 관람평 – 캐서린 비글로우 신작, 해외 평론가 극찬 총정리'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -143,7 +137,7 @@ const post = {
       href: '/movie-recommend-rating-top-9/',
       text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

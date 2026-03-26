@@ -2,7 +2,6 @@ const post = {
   id: 74,
   sections: [
     { type: 'intro', html: "<p>2025년 9월, 홍콩·중국 합작 액션 범죄 블록버스터 <b>포풍추영(The Shadow’s Edge)</b>이 드디어 전 세계 극장에서 공개되었습니다. 성룡과 양가휘라는 두 베테랑 배우의 만남, 세븐틴 문준휘(준)의 스크린 데뷔, 그리고 래리 양 감독의 연출로 화제를 모은 작품인데요. 개봉과 동시에 해외 평론가와 관객들의 다양한 반응이 쏟아졌습니다.</p><p>이번 포스팅에서는 <b>포풍추영 해외 반응</b>, <b>결말 후기</b>, <b>관람평</b>까지 정리해 보았습니다.</p><p>작품의 기본 정보, 영화 제목의 뜻, 출연진, 제작 비하인드가 궁금하다면 <b>아래 포스팅을 확인하세요.</b></p><p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;포풍추영 보러가기&quot;>2025.09.18 - [영화/영화 추천] - 영화 〈포풍추영〉 뜻 줄거리·출연진 성룡·양가휘·세븐틴 준의 홍콩 폭풍 액션 영화!</a></p>" },
-    { type: 'image', src: "/images/post74_thumb.svg", alt: "포풍추영 관람평 모아보기 | 해외 평론가 반응·결말 후기·평가 정리 중국 홍콩영화 추천", caption: "포풍추영 관람평 모아보기 | 해외 평론가 반응·결말 후기·평가 정리 중국 홍콩영화 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "포풍추영 해외 평론가 반응", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -34,7 +33,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

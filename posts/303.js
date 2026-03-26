@@ -2,7 +2,6 @@ const post = {
   id: 303,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, 'Malgun Gothic', '맑은 고딕', dotum, 돋움, sans-serif;&quot;>크리스토퍼 놀란 영화 시리즈 5번째 작품, <span style=&quot;background-color: #9feec3;&quot;><b>영화 메멘토(영어제목: Memento)</b></span> 입니다.</span></p><p><span style=&quot;font-family: AppleSDGothicNeo-Regular, 'Malgun Gothic', '맑은 고딕', dotum, 돋움, sans-serif;&quot;>놀란 감독의 첫 작품을 떠올리신다면 메멘토를 떠올리시는 분들이 많을 것입니다. </span></p><p><span style=&quot;font-family: AppleSDGothicNeo-Regular, 'Malgun Gothic', '맑은 고딕', dotum, 돋움, sans-serif;&quot;>대중의 인식에 첫 작품임에도 최고의 스토리 전개와 연출을 바탕으로 많은 이들의 뇌리에 박힌 영화 메멘토.</span></p>" },
-    { type: 'image', src: "/images/post303_thumb.svg", alt: "메멘토 뜻 의미 결말 해석 | 우리의 기억은 진실 되었는가? 크리스토퍼 놀란 영화 추천 -5", caption: "메멘토 뜻 의미 결말 해석 | 우리의 기억은 진실 되었는가? 크리스토퍼 놀란 영화 추천 -5" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, 'Malgun Gothic', '맑은 고딕', dotum, 돋움, sans-serif;&quot;>영화제목 메멘토의 뜻과 의미, 주제, 결말에 대한 해석 리뷰까지, 모든 내용을 상세하게 다뤄보겠습니다.</span></p>" },
@@ -27,7 +26,7 @@ const post = {
     { type: 'image', src: "/images/post303_img3.jpg", alt: "흔들리는 기억속에서", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post303_img1.jpg", alt: "영화 메멘토 의미와 주제", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, 'Malgun Gothic', '맑은 고딕', dotum, 돋움, sans-serif;&quot;>메멘토는 그저 한 남자의 복수극이 아닌, 우리의 기억이 얼마나 불완전한지를 되돌아보게 만드는 작품이다. 영화를 통해 우리는 자신을 더 깊이 들여다보고, 과거를 대하는 우리의 자세를 성찰할 수 있게 된다.</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

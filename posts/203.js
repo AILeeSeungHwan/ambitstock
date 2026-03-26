@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>세기의 명감독 영화 추천 시리즈, 지난 <b><a href=&quot;https://ambitstock.com/160&quot; title=&quot;크리스토퍼 놀란 감독 영화 추천&quot;>크리스토퍼 놀란 감독 영화 추천</a></b>에 이은 <span style=&quot;background-color: #9feec3;&quot;><b>2번째 감독은 쿠엔틴타란티노입니다.</b></span></p><p>쿠엔틴 타란티노 감독의 수상 내역과 더불어 대표작들의 필모그래피를 평점 인기 순으로 전해드리도록 하겠습니다.</p><p>영화 스타일이 독보적이고 감독 본인이 영화광이기 때문에 클리셰란 클리셰는 모두 꿰고 있어 예측이 가는 장면이 있으면 죄다 깨부수는 걸로 유명한 감독입니다. 자극적이고 잔인한 장면들이 자주 포함되어 호불호가 갈리지만 명감독이라 불리는 것에 예외 없는 감독일 것이라 생각합니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post203_thumb.svg',
-      alt: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9',
-      caption: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -453,7 +447,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

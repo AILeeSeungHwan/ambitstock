@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 11월 28일 개봉예정영화 모스크바 미션 Moscow Mission 관람평 후기입니다.</b></span></p><p>해외 평론가와 시청자들은 어떻게 관람하였는지, 한국에서 개봉하기 전 미리 해외 반응 확인해 보시길 바랍니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post187_thumb.svg',
-      alt: '모스크바 미션 관람평 평점 결말후기 해외 반응 | 유덕화 장한위 주연 중국 액션 영화',
-      caption: '모스크바 미션 관람평 평점 결말후기 해외 반응 | 유덕화 장한위 주연 중국 액션 영화'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -144,7 +138,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

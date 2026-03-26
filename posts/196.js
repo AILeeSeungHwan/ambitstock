@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>2024년 11월 27일 개봉하는 모아나 2 시사회 후기 관람평입니다.</b></p><p>디즈니의 애니메이션 스튜디오에서 일부 미리 공개된 모아나 2는 현재 긍정적인 평가와 더불어 작품성에 대한 걱정을 불러일으키고 있습니다.</p><p><span style=&quot;background-color: #f3c000;&quot;><b>과연 어떠한 평가를 받았는지 영화 개봉전 미리보는 시사회, 모아나 2 후기 관람평</b></span> 확인해 보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post196_thumb.svg',
-      alt: '모아나 2 뜻 의미 시사회 후기 관람평 | 기대보다 걱정이 앞서는 디즈니 신작 영화',
-      caption: '모아나 2 뜻 의미 시사회 후기 관람평 | 기대보다 걱정이 앞서는 디즈니 신작 영화'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -131,7 +125,7 @@ const post = {
       type: 'ending',
       html: '<p>양화 모아나 2는 2024년 11월 27일 영화관에서 확인가능 합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

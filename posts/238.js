@@ -2,7 +2,6 @@ const post = {
   id: 238,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 10월 23일 개봉예정작 베놈 시리즈 3번째 작품 베놈 : 라스트 댄스, 시사회 후기 관람평 리뷰 알아보겠습니다.</b></span></p><p><figure><figcaption>베놈 라스트 댄스 시사회 후기</figcaption> </figure> </p><p>뉴욕 시사회에서 선보인 영화 베놈 라스트 댄스의 해외 후기들을 상세히 확인하여 재미적인 요소가 어떠한지, 예매할지 말지 결정해 보시길 바랍니다.</p>" },
-    { type: 'image', src: "/images/post238_thumb.svg", alt: "베놈 라스트 댄스 시사회 후기 해외 관람평 리뷰반응 | 3부작 마지막 결말 예매 할까 말까?", caption: "베놈 라스트 댄스 시사회 후기 해외 관람평 리뷰반응 | 3부작 마지막 결말 예매 할까 말까?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
@@ -55,7 +54,7 @@ const post = {
     { type: 'cta', href: "/ending-어벤져스-둠스데이/", text: "마블 영화 어벤져스 둠스데이 결말 | 닥터 둠 아이언맨 인격 관계 로다주는 돌아온다-5" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p>결론적으로 톰 하디의 연기와 베놈 시리즈 자체를 좋아하시는 팬분들은 걱정 없이 영화관에서 시청하시는 것을 추천드립니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

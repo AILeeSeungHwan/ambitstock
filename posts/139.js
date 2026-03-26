@@ -2,7 +2,6 @@ const post = {
   id: 139,
   sections: [
     { type: 'intro', html: "<p>오징어 게임 시즌 2 해외 반응 결말 평가 <시리즈 3편 제작 확정> - 넷플릭스 드라마 추천 현재상영작</p>" },
-    { type: 'image', src: "/images/post139_thumb.svg", alt: "오징어 게임 시즌 2 해외 반응 결말 평가 <시리즈 3편 제작 확정> - 넷플릭스 드라마 추천 현재상영작", caption: "오징어 게임 시즌 2 해외 반응 결말 평가 <시리즈 3편 제작 확정> - 넷플릭스 드라마 추천 현재상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "오징어 게임 시즌 2 해외 반응 평가 - 시리즈 3편 줄거리 예상", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -60,7 +59,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'cta', href: "/plot-analysis-movie-release-upcoming/", text: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>대도시의 사랑법 넷플릭스 OTT 공개 < 해외 반응 관람평점 후기 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post119_thumb.svg',
-      alt: '대도시의 사랑법 넷플릭스 OTT 공개 < 해외 반응 관람평점 후기 >',
-      caption: '대도시의 사랑법 넷플릭스 OTT 공개 < 해외 반응 관람평점 후기 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -216,7 +210,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

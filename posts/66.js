@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p style=&quot;color: inherit; font-size: 16px; line-height: 1.7;&quot;>2025년 10월 1일 개봉 예정인 <b>영화 <i>원 배틀 애프터 어나더</i></b>는 레오나르도 디카프리오, 숀 펜, 베니치오 델 토로, 레지나 홀 등 초호화 캐스팅으로 화제를 모으고 있는 <b>범죄 액션 블록버스터</b>입니다.</p><p style=&quot;color: inherit; font-size: 16px; line-height: 1.7;&quot;>미국을 배경으로 펼쳐지는 이 영화는 총 161분이라는 긴 러닝타임 동안 끊임없이 이어지는 추격과 대결을 담아내며, 현재 예매 순위 28위로 아직 한국 관객들의 관심에서 멀어져있지만 <b>해외에서의 반응은 그야말로 폭발적</b>입니다. 이번 포스팅에서는 영화의 줄거리와 출연진, 그리고 해외 평론가들의 반응을 정리해보겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post66_thumb.svg',
-      alt: '액션 영화 원 배틀 애프터 어나더 관람평 – 해외 평론가들 반응은 폭발적!',
-      caption: '액션 영화 원 배틀 애프터 어나더 관람평 – 해외 평론가들 반응은 폭발적!'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -152,7 +146,7 @@ const post = {
       href: '/movie-recommend-rating-top-9/',
       text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>시빌 워: 분열의 시대 정보 출연진 관람평 뜻 해석 포토 < 로튼 토마토 평론가 평점 신선도 보증! ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post164_thumb.svg',
-      alt: '시빌 워: 분열의 시대 정보 출연진 관람평 뜻 해석 포토 < 로튼 토마토 평론가 평점 신선도 보증! >',
-      caption: '시빌 워: 분열의 시대 정보 출연진 관람평 뜻 해석 포토 < 로튼 토마토 평론가 평점 신선도 보증! >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -218,7 +212,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

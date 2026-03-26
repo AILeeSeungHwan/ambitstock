@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>지브리 스튜디오 역대 애니메이션 중, 로튼 토마토에서 평론가들에게 가장 높은 평가를 받은 인기 순위 11편을 정리해드립니다.</b></span></p><p>지브리의 총 25개 작품 중 로튼 토마토 신선도 보증마크를 획득한 작품들만 선별했으며, 평점 순으로 11위부터 1위까지 소개해드립니다.</p><p>전체 작품의 평점 순위를 보고 싶으신 분들은 댓글로 알려주시면, 다음 포스팅에서 상세히 다뤄드리겠습니다.</p><div><center><a href=&quot;/ title=&quot;역대 지브리 애니메이션 시리즈&quot;><button class=&quot;primary&quot;>역대 지브리 애니메이션 보러가기</button></a></center></div><p style=&quot;text-align: center;&quot;>지브리 애니메이션 모든 작품 개봉 순서대로</p><p style=&quot;text-align: center;&quot;>총 25작품이 궁금하신 분들은 지난 시리즈를 참고하시길 바랍니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post340_thumb.svg',
-      alt: '지브리 스튜디오 역대 애니메이션 추천 인기 순위 로튼 기준 총정리!',
-      caption: '지브리 스튜디오 역대 애니메이션 추천 인기 순위 로튼 기준 총정리!'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -308,7 +302,7 @@ const post = {
       type: 'ending',
       html: '<p>과거와 현재를 오가며 삶의 의미를 되새기는 이 영화는 시간이 흘러도 변하지 않는 감정을 아름답게 담아낸 작품입니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

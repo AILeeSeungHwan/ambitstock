@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>2024년 12월 18일, 배리 젠킨스 감독 (Barry Jenkins)이 연출한 <span style=&quot;background-color: #f3c000;&quot;><b>디즈니의 최신작 무파사 : 라이온 킹\'Mufasa: The Lion King\'</b> </span>가 개봉 예정 입니다.</p><p><b>현재 무파사: 라이온 킹은 프리미어에서 스토리와 비주얼의 진화를 보여주며 긍정적인 평가</b>를 받고 있습니다.</p><p>이번 포스팅에서 무파사: 라이온킹의 기본 정보 줄거리 내용과 해외 시사회 후기 반응 관람평 알아보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post180_thumb.svg',
-      alt: '무파사: 라이온 킹 시사회 정보 관람평 후기 포토 줄거리 내용 <디즈니 실사화 영화>',
-      caption: '무파사: 라이온 킹 시사회 정보 관람평 후기 포토 줄거리 내용 <디즈니 실사화 영화>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -151,7 +145,7 @@ const post = {
       href: '/review-critic-reaction-release-upcoming-movie/',
       text: '글래디에이터 Ⅱ 2 시사회 후기 평론가 관람평 반응 11월 가장 기대되는 개봉 예정작 영화'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

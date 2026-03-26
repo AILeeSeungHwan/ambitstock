@@ -2,7 +2,6 @@ const post = {
   id: 284,
   sections: [
     { type: 'intro', html: "<p>2024년도 9월을 넘어 10월을 가고 있습니다.</p><p>8월에는 대작들이 쏟아진 것에 반해 9월은 베테랑 2 외에는 뜨뜻미지근한 반응의 극장가였었죠. 하지만 다가오는 10월, 그리고 9월말 다시 한번 대작들이 쏟아집니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 개봉 예정작 중 메인 기대작 세가지 작품을 비교하여 어떤 영화를 예매하면 좋을지!</b></span></p>" },
-    { type: 'image', src: "/images/post284_thumb.svg", alt: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천", caption: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>볼만한 영화 추천 딱 정해드리도록 하겠습니다.</b></span></p>" },
@@ -41,7 +40,7 @@ const post = {
     { type: 'cta', href: "/review-reaction-critic-rating-release/", text: "조커 2 폴리 아되 시사회 후기 반응 로튼 토마토 평론가 평점 개봉 등급 | 속편의 저주인가 현재" },
     { type: 'cta', href: "/", text: "트랜스포머 ONE 해외 평론가 결말 후기 리뷰 정보 총정리 | 아이와 함께 보기 좋은, 하지만 부모가" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

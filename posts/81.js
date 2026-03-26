@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>영화순위 예매 1위 어쩔수가없다 원작 소설 The Ax 줄거리와 결말, 박찬욱 감독 해석</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post81_thumb.svg',
-      alt: '영화순위 예매 1위 어쩔수가없다 원작 소설 The Ax 줄거리와 결말, 박찬욱 감독 해석',
-      caption: '영화순위 예매 1위 어쩔수가없다 원작 소설 The Ax 줄거리와 결말, 박찬욱 감독 해석'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -163,7 +157,7 @@ const post = {
       href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

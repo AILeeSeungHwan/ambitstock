@@ -2,7 +2,6 @@ const post = {
   id: 459,
   sections: [
     { type: 'intro', html: "<p>역대 박스오피스 시리즈 세 번째, <b>영화</b> <b>극한직업 (영어제목 : Extreme Job) 입니다.</b> <br>현재 넷플릭스로 다시보실 수 있으며, 킬링타임으로 제격인 코미디 영화입니다.<br>로튼 토마토, IMDB 해외 반응 평점 및 리뷰 확인해보겠습니다.<br/> </br></br></p><p> <br/>영화 극한직업 박스오피스 정보입니다.</p><p style=&quot;text-align: center;&quot;><b>영화 극한직업</b><b><br/></b><br/><b>역대 박스오피스 순위      </b><span style=&quot;color: #ef5369;&quot;><b>2위</b></span><br/><b>개봉일   </b><span style=&quot;color: #ef5369;&quot;><b>2019년 01월 23일</b></span><br/><b>매출    </b><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: #ef5369;&quot;><b>139,657,105,516원</b></span></span><br/><b>관객수         </b><span style=&quot;color: #ef5369;&quot;><b>16,266,480명</b></span><br/><b>스크린수                    </b><span style=&quot;color: #ef5369;&quot;><b>2,003</b></span><br/><b>상영 횟수               </b><span style=&quot;color: #ef5369;&quot;><b>292,817</b></span></p>" },
-    { type: 'image', src: "/images/post459_thumb.svg", alt: "[영화 극한직업 해외 반응 평점 및 리뷰] - 역대 박스오피스 시리즈 세번째 넷플릭스로 다시보기", caption: "[영화 극한직업 해외 반응 평점 및 리뷰] - 역대 박스오피스 시리즈 세번째 넷플릭스로 다시보기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>영화 극한직업 로튼토마토 평점</figcaption> </figure> </p>" },
@@ -26,7 +25,7 @@ const post = {
     { type: 'cta', href: "/overseas-rating-reaction-release-upcoming-joker/", text: "[조커2 영화 개봉일 배우 조커 해외평점과 반응] - 배트맨 할리퀸 합류? 개봉 예정작 (영화 조커 OT" },
     { type: 'cta', href: "/", text: "[영화 미키17 개봉일 티저 예고편, 개봉전 전작 기생충 해외 평점 반응] 봉준호 시리즈 1탄 - 기생" },
     { type: 'ending', html: "<p><a href=&quot;https://ambitstock.com/9&quot; target=&quot;_self&quot;><span><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><u><b>미키 17</b></u></span></span></span></a></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

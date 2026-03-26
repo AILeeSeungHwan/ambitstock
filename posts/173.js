@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>엠알 나인 관람평 평점 결말 해외 반응 후기 < 예매 할지 말지 정해드림 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post173_thumb.svg',
-      alt: '엠알 나인 관람평 평점 결말 해외 반응 후기 < 예매 할지 말지 정해드림 >',
-      caption: '엠알 나인 관람평 평점 결말 해외 반응 후기 < 예매 할지 말지 정해드림 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -243,7 +237,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

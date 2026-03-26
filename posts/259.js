@@ -2,7 +2,6 @@ const post = {
   id: 259,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 할머니가 죽기 전 백만장자가 되는 법이 로튼 토마토에서 정말 좋은 평점을 기록 중입니다.</b></span></p><p>아마도 올해 첫 로튼 토마토 100점 영화가 아닌가 싶을 정도로 굉장히 좋은 평가를 기록하며, 곧 한국에서도 관람하실 수 있을 예정입니다.</p><p><figure><figcaption>할머니가 죽기 전 백만장자가 되는 법</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post259_thumb.svg", alt: "할머니가 죽기 전 백만장자가 되는 법 해외 평론가 평점 시사회 반응 | 아마올해 첫 로튼 토마토 100점 영화", caption: "할머니가 죽기 전 백만장자가 되는 법 해외 평론가 평점 시사회 반응 | 아마올해 첫 로튼 토마토 100점 영화" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>이 태국 영화는 뉴욕 아시아 영화제에서 관객상을 수상하며 좋은 성적을 거두었습니다. 그리고 현재 해외 평론가들로부터도 찬사를 받고 있는 작품이며, 관객상을 받은 만큼 당연하게도 관람객들 또한 좋은 평가를 남기는 중입니다.</p>" },
@@ -42,7 +41,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-vs-one-vs/", text: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

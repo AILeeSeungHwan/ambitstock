@@ -2,7 +2,6 @@ const post = {
   id: 310,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>조커 2 폴리 아되 예매할지 말지 고민이신 모든 분들을 위하여, 영화 조커 2 폴리 아되 평론가 평점 및 후기 노 스포 리뷰 쿠키여부 전달드립니다.</b></span></p><p>로튼 토마토 평론가 후기를 요약하여 정리하였으며, 평론가 이름과 평점, 내용을 번역하였습니다.</p><p>해당 내용은 중요한 부분만을 요약하였고, 전체적으로 의역하여 자연스럽게 이해할 수 있도록 변형하였습니다.</p>" },
-    { type: 'image', src: "/images/post310_thumb.svg", alt: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 쿠키 총정리", caption: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 쿠키 총정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>전체적인 의견이 달라지지 않도록 번역하였으니, 이 점 참고하여 조커 2 폴리 아 되 예매 볼만한 영화인지 판단해 보시길 바랍니다.</p>" },
@@ -38,7 +37,7 @@ const post = {
     { type: 'image', src: "/images/post310_img1.jpg", alt: "조커 2 시사회 결말 후기", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/plot-folie-deux/", text: "조커 2 폴리 아 되 제목 뜻 의미 Folie à Deux? 줄거리 내용과 연관관계 심층분석" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>트렁크 시즌2 는 이렇게 된다. 김려령 장편소설 원작 소설 줄거리 및 결말</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post142_thumb.svg',
-      alt: '트렁크 시즌2 는 이렇게 된다. 김려령 장편소설 원작 소설 줄거리 및 결말',
-      caption: '트렁크 시즌2 는 이렇게 된다. 김려령 장편소설 원작 소설 줄거리 및 결말'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -116,7 +110,7 @@ const post = {
       href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

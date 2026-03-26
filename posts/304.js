@@ -2,7 +2,6 @@ const post = {
   id: 304,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>크리스토퍼 놀란 감독 영화의 모든 작품들을 소개합니다. </b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>시리즈 4번째 작품은 영화 배트맨 다크나이트.</b></span></p><p>이번 포스팅에서는 배트맨 다크나이트의 제목 뜻과 의미를 영화의 줄거리, 결말과 연관지어 해석해보자 합니다.</p>" },
-    { type: 'image', src: "/images/post304_thumb.svg", alt: "명작 영화 추천 배트맨 다크나이트 뜻과 의미 결말 해석 리뷰 | 빛보다 밝은 어둠이여 놀란 시리즈 -4", caption: "명작 영화 추천 배트맨 다크나이트 뜻과 의미 결말 해석 리뷰 | 빛보다 밝은 어둠이여 놀란 시리즈 -4" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>다크 나이트</b>(The Dark Knight)는 제목에서부터 <span style=&quot;background-color: #9feec3;&quot;><b>고담 시의 어두운 수호자인 배트맨(Batman)의 상징성과 그가 지닌 어두운 면모를 강조</b></span>한다.</p>" },
@@ -21,7 +20,7 @@ const post = {
     { type: 'image', src: "/images/post304_img3.jpg", alt: "배트맨 다크나이트 결말 해석", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post304_img1.jpg", alt: "배트맨 다크 나이트 제목 뜻 의미", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>'다크 나이트' 이다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

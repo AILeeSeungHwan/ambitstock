@@ -2,7 +2,6 @@ const post = {
   id: 300,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 나우 유 씨미 시리즈 해외 평점 및 평론가 후기 알아보도록 하겠습니다.</b></span></p><p>한국에서 상당히 인기작품으로 좋은 평가를 가지고 있는 현재 넷플릭스에서 시청가능한 영화 '나우 유 씨미', 1편부터 2편까지 그리고 후속작 3편에 대한 정보까지 시리즈로 포스팅 진행하겠습니다.</p><p>나우 유 씨미 영어 제목 뜻과 의미 결말 해석 <a href=&quot;https://ambitstock.com/199&quot; title=&quot;나우 유 씨미 영어 제목 뜻과 의미 결말 해석&quot;>( 보러가기 )</a></p>" },
-    { type: 'image', src: "/images/post300_thumb.svg", alt: "넷플릭스 영화 추천 나우 유 씨미 시리즈 해외 평점 평론가 후기 후속작까지 총정리! 1-1", caption: "넷플릭스 영화 추천 나우 유 씨미 시리즈 해외 평점 평론가 후기 후속작까지 총정리! 1-1" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>이동진 평론가 추천 넷플릭스 시청가능 영화 <a href=&quot;https://ambitstock.com/114&quot; title=&quot;이동진 평론가 추천 넷플릭스 시청가능 영화&quot;>( 보러가기 )</a></p>" },
@@ -29,7 +28,7 @@ const post = {
     { type: 'image', src: "/images/post300_img3.jpg", alt: "나우 유 씨미 평점 분포", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post300_img1.jpg", alt: "로튼 토마토 나우 유 씨미 평점", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>다음 포스팅에서 이어집니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

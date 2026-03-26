@@ -2,7 +2,6 @@ const post = {
   id: 288,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>미친 대작들이 개봉합니다. 트랜스포머부터 기생충이후 공개되는 봉준호감독의 신작, 조커 2와 마블영화 MCU 까지!</b></span></p><p>기대되는 개봉예정영화들을 한 눈에 정리해서 전달해드리겠습니다.</p><p>총 6개의 작품을 준비하였으며, 순위는 상관없이 나열하였으며 개봉일과 시사회 후기반응까지 총정리하였습니다.</p>" },
-    { type: 'image', src: "/images/post288_thumb.svg", alt: "기대되는 영화 개봉예정작 개봉일부터 시사회 후기반응까지 총 정리 TOP 6", caption: "기대되는 영화 개봉예정작 개봉일부터 시사회 후기반응까지 총 정리 TOP 6" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>트랜스포머 팬분들이 설렐만한 소식입니다. 2024년 9월 25일 트랜스포머 애니메이션 영화 트랜스포머 ONE이 개봉합니다.</b></p>" },
@@ -36,7 +35,7 @@ const post = {
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'cta', href: "/plot-series-어벤져스-둠스데이-뜻/", text: "어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>1월 4일 공개된 넷플릭스 시리즈 별들에게 물어봐의 해외 반응이 심상치 않습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서는 한국 뿐만 아니라<span> </span><b>해외에서도 좋은 반응을 이끌고 있는 한국형 SF 드라마</b><span> </span>별들에게 물어봐!</p><p style=&quot;color: inherit; text-align: start;&quot;><b>영어 제목과 평점 그리고 해외 시청자 반응 후기</b>를 알아보도록 하겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bjkw&amp;x_csa=%7B%22pkid%22%3A%2257%22%2C%20%22isOpen%22%3Afalse%2C%20%22tab%22%3A%22rating%22%7D&amp;pkid=57&amp;os=35133358&amp;qvt=0&amp;query=%EB%B3%84%EB%93%A4%EC%97%90%EA%B2%8C%20%EB%AC%BC%EC%96%B4%EB%B4%90%20%EC%8B%9C%EC%B2%AD%EB%A5%A0&quot; title=&quot;별들에게 물어봐 시청률 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>별들에게 물어봐 회차별 시청률 보러 가기 👉</button></a></center></div><p style=&quot;text-align: center;&quot;><b>별들에게 물어봐 회차별 시청률이 궁금하시다면??</b></p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bjkw&amp;x_csa=%7B%22pkid%22%3A%2257%22%2C%20%22isOpen%22%3Afalse%2C%20%22tab%22%3A%22episode_info%22%7D&amp;pkid=57&amp;os=35133358&amp;qvt=0&amp;query=%EB%B3%84%EB%93%A4%EC%97%90%EA%B2%8C%20%EB%AC%BC%EC%96%B4%EB%B4%90%20%ED%9A%8C%EC%B0%A8%EC%A0%95%EB%B3%B4&quot; title=&quot;별들에게 물어봐 다음화 회차 정보 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>별들에게 물어봐 다음화 언제 공개? 회차 정보 보러 가기👉</button></a></center></div><p style=&quot;text-align: center;&quot;><b>별들에게 물어봐 다음화는 언제나와?</b></p><p style=&quot;text-align: center;&quot;><b>위 링크를 통해 별들에게 물어봐 회차 정보를 확인해보세요.</b></p><p style=&quot;text-align: center;&quot;><b>.</b></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post108_thumb.svg',
-      alt: '별들에게 물어봐 평점 리뷰 인기 순위 영어제목 <심상치 않은 호평 해외 반응 후기!>',
-      caption: '별들에게 물어봐 평점 리뷰 인기 순위 영어제목 <심상치 않은 호평 해외 반응 후기!>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -326,7 +320,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 296,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 9월 13일 공개된 넷플릭스 영화 어글리, 볼만한 영화인지 해외 평점과 후기를 바탕으로 알아보겠습니다.</b></span></p><p>이번 포스팅에서는 어글리 제목의 뜻과 해외 평점을 알아보도록 하고, 다음 포스팅에서 평론가 후기 정보 알아보겠습니다.</p><p><b><span style=&quot;background-color: #f3c000;&quot;>함께 보면 좋은 넷플릭스 영화 추천</span></b></p>" },
-    { type: 'image', src: "/images/post296_thumb.svg", alt: "넷플릭스 영화 추천 어글리 볼만한가? 제목 뜻 해외 평점 시즌 2부 후속작도?", caption: "넷플릭스 영화 추천 어글리 볼만한가? 제목 뜻 해외 평점 시즌 2부 후속작도?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 어글리 로튼토마토 평론가 평점, 관람객 평점입니다.</b></span></p>" },
@@ -28,7 +27,7 @@ const post = {
     { type: 'cta', href: "/netflix-movie-ending-review/", text: "넷플릭스 영화 순위 노 웨이 업 결말 후기 리뷰 볼만한 재밌는 영화일까 노 스포 팩트체크" },
     { type: 'cta', href: "/netflix-movie-recommend-rating/", text: "넷플릭스 영화 추천 레블리지 영어제목 뜻 의미와 평점 | 현재상영작" },
     { type: 'ending', html: "<p>다음 포스팅에서 영화 어글리의 평가가 왜이리 낮은지, 평론가 후기에 대해서 알아보겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

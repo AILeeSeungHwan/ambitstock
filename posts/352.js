@@ -2,7 +2,6 @@ const post = {
   id: 352,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>2024년 8월 14일 개봉하는 영화 행복의 나라 시사회 후기반응 평점입니다.</b></span></p><p>8월 14일 개봉하는 대작들이 넘쳐나기 때문에 ( 에일리언 로물루스, 트위스터스, 행복의 나라, 빅토리 등 ) 영화를 좋아하는 여러분들에게 굉장한 고민거리를 제공하고 있습니다.</p><p>과연 행복의 나라 시사회 반응은 어떠한지, 후기 평점 살펴보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post352_thumb.svg", alt: "행복의 나라 시사회 후기반응 평점 예매 볼만할까? 이선균 조정석 주연", caption: "행복의 나라 시사회 후기반응 평점 예매 볼만할까? 이선균 조정석 주연" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>뻔한 맛에 상상력 한 스푼. 아니 두 세 스푼?</b></p>" },
@@ -38,7 +37,7 @@ const post = {
     { type: 'cta', href: "/movie-overseas-critic-reaction-ending-review/", text: "영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기" },
     { type: 'cta', href: "/netflix-movie-recommend-critic-rating/", text: "넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>영화 행복의 나라 개봉 후 로튼 토마토 해외 반응과 평점 후기</b></span> 전해드리겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

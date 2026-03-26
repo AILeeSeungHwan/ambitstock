@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p style=&quot;color: inherit; font-size: 16px; line-height: 1.7;&quot;>세계적인 거장 박찬욱 감독이 신작 <i>어쩔수가없다 (No Other Choice)</i>로 돌아왔습니다.</p><p style=&quot;color: inherit; font-size: 16px; line-height: 1.7;&quot;>이번 영화는 실직한 가장 만수의 몰락을 통해 남성성, 가족의 의미, 사회적 압박이라는 주제를 다루며 블랙코미디와 스릴러의 경계를 넘나듭니다. 이병헌은 웃음과 비극을 동시에 담아낸 연기로 또 한 번 극찬을 받고 있으며, 당연하게도 모두가 기다리는 박찬욱 감독의 작품이기에, 많은 이들이 개봉날만을 기다리고 있습니다.</p><p style=&quot;color: inherit; font-size: 16px; line-height: 1.7;&quot;>특히 이번 작품은 공개 직후부터 해외 평론가들로부터 폭넓은 관심과 호평을 받으며, 전작 <i>헤어질 결심</i>과 비교될 정도로 주목받고 있습니다. 본 포스팅에서는 영화 줄거리와 출연진 소개에 이어, 전 세계 주요 영화 매체와 평론가들이 전한 생생한 반응과 후기를 함께 살펴보겠습니다.</p><p><figure><figcaption>어쩔수가없다 개봉 평론가 후기</figcaption> </figure> </p>'
     },
-    {
-      type: 'image',
-      src: '/images/post85_thumb.svg',
-      alt: '어쩔수가없다 개봉일 해외 평론가 반응 관람평 후기 [박찬욱 감독 신작]',
-      caption: '어쩔수가없다 개봉일 해외 평론가 반응 관람평 후기 [박찬욱 감독 신작]'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -202,7 +196,7 @@ const post = {
       href: '/marvel-movie-release-upcoming/',
       text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 423,
   sections: [
     { type: 'intro', html: "<p>드라마 미녀와 순정남은 KBS2에서 방영하는 주말드라마로, 주말 오후 7시 55분부터 9시 20분까지 방송됩니다.</p><p><span style=&quot;background-color: #f3c000;&quot;><b>웨이브와 쿠팡플레이, 넷플릭스 OTT 플랫폼</b></span>에서 스트리밍할 수 있습니다</p><p>하루아침에 밑바닥으로 떨어진 톱배우와 그녀를 사랑하며 다시 일으켜 세우는 신입 드라마 PD의 고군분투를 그린, 파란만장한 로맨스 성장 드라마, 미녀와 순정남은 서로의 인생에 변화를 주는 두 주인공,</p>" },
-    { type: 'image', src: "/images/post423_thumb.svg", alt: "[KBS2 주말 드라마 미녀와 순정남] 등장인물 관계도 최신화 선공개 예고편 시청률", caption: "[KBS2 주말 드라마 미녀와 순정남] 등장인물 관계도 최신화 선공개 예고편 시청률" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>드라마 미녀와 순정남은 박도라(임수향)와 고필승(지현우)의 로맨스를 중심으로 전개됩니다. 박도라는 엄마의 권유로 배우로서 힘겹게 살아가던 중 고필승과의 만남을 통해 자신의 진정한 꿈과 행복을 찾게 됩니다. </p>" },
@@ -16,7 +15,7 @@ const post = {
     { type: 'image', src: "/images/post423_img3.jpg", alt: "미녀와 순정남 주요 등장인물관계도", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post423_img1.jpg", alt: "드라마 미녀와 순정남", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><br/>추가적인 정보는 해당 드라마의 공식 홈페이지나 스트리밍 플랫폼에서 확인할 수 있습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

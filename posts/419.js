@@ -2,7 +2,6 @@ const post = {
   id: 419,
   sections: [
     { type: 'intro', html: "<p>디즈니플러스 한국 볼만한 드라마 추천 순위 TOP10입니다. 순위는 디즈니플러스 한국 드라마 인기 트렌드 및 검색 순위 기반으로 제작되었습니다.</p>" },
-    { type: 'image', src: "/images/post419_thumb.svg", alt: "디즈니플러스 한국 드라마 추천 순위 TOP 10", caption: "" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section-10위-너와-나의-경찰수업--영어제목--rookie-c", text: "10위 너와 나의 경찰수업 (영어제목: Rookie Cops)", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
@@ -39,7 +38,7 @@ const post = {
     { type: 'cta', href: "/movie-release-upcoming-guide/", text: "2024년 하반기 한국영화 개봉예정작 라인업 총정리" },
     { type: 'cta', href: "/netflix-drama-recommend-jtbc-top10-ott/", text: "JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천" },
     { type: 'cta', href: "/movie-recommend-guide-box-office-audience-top20-ott/", text: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위" },
-    { type: 'ending', html: "<p>이 글이 도움이 되셨다면 관련 포스팅도 확인해보세요.</p>" },
+    { type: 'ending', html: "<p>이 글이 도움이 되셨다면 관련 포스팅도 확인해보세요.</p>" }
   ]
 }
 

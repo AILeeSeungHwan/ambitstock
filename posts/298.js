@@ -2,7 +2,6 @@ const post = {
   id: 298,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 나우 유 씨미 포스팅 시리즈 2편, 나우 유 씨미 두번째 작품에 대한 로튼 토마토와 IMDB 해외 평점을 알아보도록 하겠습니다.</b></span></p><p>지난 3개의 포스팅을 참고하여 1편에 대한 뜻, 해외 평점, 그리고 후기 확인해보실 수 있습니다.</p><p><b>나우 유 씨미 2 로튼 토마토 평론가 평점, 관람객 평점입니다.</b></p>" },
-    { type: 'image', src: "/images/post298_thumb.svg", alt: "나우 유 씨미 2 시리즈 로튼 해외 평점 반응 | 흥행이란 마술은 없었다 2-1", caption: "나우 유 씨미 2 시리즈 로튼 해외 평점 반응 | 흥행이란 마술은 없었다 2-1" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>나우 유 씨미 로튼 토마토 평점</figcaption> </figure> </p>" },
@@ -28,7 +27,7 @@ const post = {
     { type: 'cta', href: "/netflix-movie-recommend-plot-ending-analysis/", text: "넷플릭스 영화 추천 나우 유 씨미 제목 뜻 줄거리 내용 결말 해석 | 마술이 아니고 마법이다" },
     { type: 'cta', href: "/movie-overseas-critic-review-guide/", text: "나우 유 씨미 영화 해외 평론가 로튼 토마토 후기 총정리" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

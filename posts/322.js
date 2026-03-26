@@ -2,7 +2,6 @@ const post = {
   id: 322,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>디즈니 플러스에서 시청가능한 지난 마블 영화들의 역대 빌런들을 총정리하였습니다.</b></span></p><p>총 10명, 역대 빌런들의 등장 영화와 특징들을 함께 알아보도록 하겠습니다.</p><p>포스팅 하단에 24년도-27년도까지 개봉예정 마블영화, 어벤져스 5 둠스데이에 대한 시리즈 5부작도 준비하였습니다.</p>" },
-    { type: 'image', src: "/images/post322_thumb.svg", alt: "디즈니 플러스 마블 영화 역대 빌런 총정리", caption: "디즈니 플러스 마블 영화 역대 빌런 총정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>함께 참고하시길 바랍니다.</p>" },
@@ -40,7 +39,7 @@ const post = {
     { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

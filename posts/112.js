@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>언데드 다루는 법 관람평 포토 뜻 해석 개봉 정보 < 로튼 평론가 관객 엇갈린 평점 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post112_thumb.svg',
-      alt: '언데드 다루는 법 관람평 포토 뜻 해석 개봉 정보 < 로튼 평론가 관객 엇갈린 평점 >',
-      caption: '언데드 다루는 법 관람평 포토 뜻 해석 개봉 정보 < 로튼 평론가 관객 엇갈린 평점 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -215,7 +209,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

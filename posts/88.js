@@ -2,7 +2,6 @@ const post = {
   id: 88,
   sections: [
     { type: 'intro', html: "<p>현재상영작 개봉 영화 예매 순위 관객수 2025년 4월 TOP10</p>" },
-    { type: 'image', src: "/images/post88_thumb.svg", alt: "현재상영작 개봉 영화 예매 순위 관객수 2025년 4월 TOP10", caption: "현재상영작 개봉 영화 예매 순위 관객수 2025년 4월 TOP10" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "2025년 4월 현재상영작 영화 예매 순위 총정리", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -99,7 +98,7 @@ const post = {
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'cta', href: "/plot-analysis-movie-release-upcoming/", text: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

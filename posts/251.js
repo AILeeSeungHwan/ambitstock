@@ -2,7 +2,6 @@ const post = {
   id: 251,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>강동원 박정민 차승원 주연 넷플릭스 영화 추천 '전, 란'의 해외 평론가 결말 후기반응입니다.</b></span></p><p>이전 포스팅을 통하여 영화 전,란의 뜻과 의미 해석, 영어제목과 평점을 알아보았습니다. 생각보다 해외에서 낮은 평점을 기록한 영화 전,란의 평론가와 시청자 후기를 바탕으로 어떠한 점이 해외 시청자들에게 외면받았는지 알아보도록 하겠습니다.</p><p>먼저 영화 <span style=&quot;background-color: #f3c000;&quot;><b>전,란 해외 평론가의 결말 후기반응</b></span> 알아보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post251_thumb.svg", alt: "넷플릭스 영화 추천 전,란 결말 후기반응 로튼 토마토 해외 평론가 관람평 정보", caption: "넷플릭스 영화 추천 전,란 결말 후기반응 로튼 토마토 해외 평론가 관람평 정보" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>영화 전,란 해외 평론가 결말 후기 반응</figcaption> </figure> </p>" },
@@ -46,7 +45,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

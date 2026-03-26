@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>블링크 트와이스 예매 할까 말까? 고민중이신 분들을 위한 영화제목 뜻 의미 해석, 로튼 토마토 평론가 평점 포스팅입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅을 통해서 고민되는 영화에 대해 볼지 말지 정보 전해드리겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post210_thumb.svg',
-      alt: '블링크 트와이스 뜻 의미 해석 평점 예매 할까 말까? | 로튼 토마토 신선도 보증 마크 획득 영화',
-      caption: '블링크 트와이스 뜻 의미 해석 평점 예매 할까 말까? | 로튼 토마토 신선도 보증 마크 획득 영화'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -186,7 +180,7 @@ const post = {
       href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

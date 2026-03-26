@@ -2,7 +2,6 @@ const post = {
   id: 374,
   sections: [
     { type: 'intro', html: "<p>박평식 평론가의 평점으로 알아보는 명작 영화 Top 10 입니다.</p><p>지난 시리즈는 박평식 평론가의 7점이상 작품 중 넷플릭스에서 시청가능한 작품들로 소개해드렸습니다.</p><p>이번 포스팅에서는 한 평생 수십년을 평론가 활동을 하며</p>" },
-    { type: 'image', src: "/images/post374_thumb.svg", alt: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10", caption: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #ff5722; color: #ffffff;&quot;><b>평점 10점을 준 적이 없는 박평식 평론가가 9점을 준 유일한 작품 10편을 전해드립니다.</b></span></p>" },
@@ -61,7 +60,7 @@ const post = {
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/overseas-movie-release-guide/", text: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리" },
     { type: 'ending', html: "<p><b><span style=&quot;background-color: #01ff51; color: inherit; text-align: start;&quot;>무어는 이러한 아이러니를 지적하며 정치권의 위선과 자국민의 고통을 조명한다.</span></b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 404,
   sections: [
     { type: 'intro', html: "<p>넷플릭스 오리지널 시리즈 드라마 슈퍼 셀<span> </span>볼만할까?</p><p><span style=&quot;color: #781b33;&quot;><b>객관적인 자료를 바탕으로 넷플릭스 볼만한 드라마, 영화를 추천</b></span>드립니다.</p><p>넷플릭스 신작 추천 시리즈, 이번 작품은 슈퍼 셀입니다.</p>" },
-    { type: 'image', src: "/images/post404_thumb.svg", alt: "넷플릭스 오리지널 시리즈 드라마 추천 <슈퍼 셀> | 해외 평점과 리뷰 반응 총정리", caption: "넷플릭스 오리지널 시리즈 드라마 추천 <슈퍼 셀> | 해외 평점과 리뷰 반응 총정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>로튼 토마토, IMDB 해외 평점 및 리뷰 반응을 통해서 넷플릭스 오리지널 시리즈 슈퍼 셀</p>" },
@@ -48,7 +47,7 @@ const post = {
     { type: 'image', src: "/images/post404_img3.jpg", alt: "넷플릭스 슈퍼 셀 평점", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post404_img1.jpg", alt: "넷플릭스 오리지널 시리즈 슈퍼 셀", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><span style=&quot;color: #1a5490;&quot;><b>모두가 좋아하는 완벽한 명작을 좋아한다면 그다지..?</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

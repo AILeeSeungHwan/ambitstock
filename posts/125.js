@@ -2,7 +2,6 @@ const post = {
   id: 125,
   sections: [
     { type: 'intro', html: "<p>오징어 게임 시즌2 세계 1위! 결말 후기 리뷰 < 로튼 토마토 해외 반응 평점 재미와 실망사이 ></p>" },
-    { type: 'image', src: "/images/post125_thumb.svg", alt: "오징어 게임 시즌2 세계 1위! 결말 후기 리뷰 < 로튼 토마토 해외 반응 평점 재미와 실망사이 >", caption: "오징어 게임 시즌2 세계 1위! 결말 후기 리뷰 < 로튼 토마토 해외 반응 평점 재미와 실망사이 >" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "오징어 게임 시즌2 세계 1위! 해외 반응은? 로튼 토마토 관람평 결말 후기 평점 알아보자", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -76,7 +75,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

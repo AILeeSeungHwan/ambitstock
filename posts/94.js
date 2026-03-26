@@ -2,7 +2,6 @@ const post = {
   id: 94,
   sections: [
     { type: 'intro', html: "<p><b>영화 그 시절, 우리가 좋아했던 소녀 (영어제목 : <span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>You Are the Apple of My Eye </span>)이 2025년 2월 21일 개봉하였습니다.</b></p><p>이번 포스팅에서는 대만영화로 유명한 원작의 리메이크, <span style=&quot;background-color: #9feec3;&quot;><b>영화 그 시절, 우리가 좋아했던 소녀 줄거리와 영어제목의 뜻, 그리고 해외 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=34230236&amp;qvt=0&amp;query=영화%20그%20시절%20우리가%20좋아했던%20소녀%20상영일정&quot; title=&quot;영화 그 시절, 우리가 좋아했던 소녀 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 그 시절, 우리가 좋아했던 소녀 바로 보러 가기👉</button></a></center></div><p><figure><figcaption>그 시절, 우리가 좋아했던 소녀</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post94_thumb.svg", alt: "그 시절, 우리가 좋아했던 소녀 개봉 결말 후기 평점 관람평 < 대만 영화 리메이크작 >", caption: "그 시절, 우리가 좋아했던 소녀 개봉 결말 후기 평점 관람평 < 대만 영화 리메이크작 >" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -57,7 +56,7 @@ const post = {
     { type: 'body', html: "<p>개봉 이후 관객들의 다양한 반응이 기대됩니다.</p>" },
     { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=34230236&amp;qvt=0&amp;query=영화%20그%20시절%20우리가%20좋아했던%20소녀%20상영일정&quot; title=&quot;그 시절, 우리가 좋아했던 소녀 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 그 시절, 우리가 좋아했던 소녀 바로 보러 가기👉</button></a></center></div>" },
     { type: 'ending', html: "<p><figure><figcaption>그 시절, 우리가 좋아했던 소녀</figcaption> </figure> </p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 232,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 예능 코미디 프로그램 '코미디 리벤지'의 이전 작, 코미디 로얄 해외 반응 평점 리뷰 후기입니다.</b></span></p><p>사실 약간의 부끄러운 부분이 없지 않아 있었던 작품으로, 세계 시청자들이 볼 수 있는 넷플릭스에서 이런 장면들이 나와도 되나 생각이 들 던 예능입니다. 물론 부족한 부분도 있지만 긍정적으로 생각되는 점들도 있었고, 코미디언이라는 직업을 가지고 사람들을 웃기기 위해 노력하는 모습은 역시 '프로는 프로다'였습니다.</p><p>그렇다면 과연 해외 시청자들은 어떻게 보았을지, 코미디 로얄의 해외 반응 평점입니다.</p>" },
-    { type: 'image', src: "/images/post232_thumb.svg", alt: "코미디 리벤지 보기 전 이전 작품 로얄 원숭이 | 해외 반응 평점 리뷰 후기", caption: "코미디 리벤지 보기 전 이전 작품 로얄 원숭이 | 해외 반응 평점 리뷰 후기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 예능 코미디 로얄의 해외 평점 반응입니다.</b></span></p>" },
@@ -32,7 +31,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

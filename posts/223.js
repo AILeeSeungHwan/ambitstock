@@ -2,7 +2,6 @@ const post = {
   id: 223,
   sections: [
     { type: 'intro', html: "<p>베놈 라스트 댄스가 개봉 후 한국 박스오피스 1위를 이어가고 있습니다.</p><p>한국에서의 평가는 무난하며 네이버 평점은 7점대를 기록하고 있으며, 다음 달까지 흥행이 이어질 것으로 보입니다.</p><p>하지만 해외 로튼토마토 평점과 평론가 후기는 아주 처참한 상황입니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 베놈 3부작의 마지막 라스트 댄스 해외 평론가 후기와 평점, 그리고 후속작 4편에 대해 알아보도록 하겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post223_thumb.svg", alt: "베놈 라스트 댄스 현재상영작 관람평 결말 후기 | 로튼 토마토 아쉬운 평론가 평점 | 후속작 베놈 4?", caption: "베놈 라스트 댄스 현재상영작 관람평 결말 후기 | 로튼 토마토 아쉬운 평론가 평점 | 후속작 베놈 4?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "베놈 라스트 댄스 관람평 결말 후기", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -56,7 +55,7 @@ const post = {
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

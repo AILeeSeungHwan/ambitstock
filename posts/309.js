@@ -2,7 +2,6 @@ const post = {
   id: 309,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 보헤미안 랩소디 ( 영어제목 : Bohemian Rhapsody) 의 제목은 퀸(Queen)의 상징적인 노래 제목</b></span>에서 따왔으며, 이 제목은 영화의 주제와 깊은 연관이 있습니다.</p><p>이번 포스팅에서는 영화 보헤미안 랩소디의 제목인 Bohemian Rhapsody 뜻과 의미를 심층적으로 분석해보고, 영화 줄거리내용과 연관성을 바탕으로 설명해보도록 하겠습니다. 또한 퀸 프레디 머큐리의 삶과 보헤미안 랩소디로 무엇을 말하고자 하였는지도 함께 알아보겠습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>먼저, &quot;Bohemian&quot;이라는 단어는 자유롭고 규범에 얽매이지 않는 예술가적 삶을 의미</b></span>합니다. 영화 속 주인공인 프레디 머큐리는 평범한 삶과는 다른 길을 걷고, 사회적 규칙에 얽매이지 않고 자기 자신을 찾아가는 인물로 묘사됩니다. 그의 독특한 스타일, 음악적 실험, 그리고 성 정체성에 대한 자유로움은 바로 보헤미안적인 삶을 상징합니다.</p>" },
-    { type: 'image', src: "/images/post309_thumb.svg", alt: "넷플릭스 영화 추천 순위 보헤미안 랩소디 제목 뜻과 의미 | 퀸 프레디 머큐리의 삶을 해석하다.", caption: "넷플릭스 영화 추천 순위 보헤미안 랩소디 제목 뜻과 의미 | 퀸 프레디 머큐리의 삶을 해석하다." },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>보헤미안 랩소디 제목 뜻 의미</figcaption> </figure> </p>" },
@@ -23,7 +22,7 @@ const post = {
     { type: 'image', src: "/images/post309_img3.jpg", alt: "보헤미안 랩소디", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post309_img1.jpg", alt: "보헤미안 랩소디 제목 뜻 의미", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p> </p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

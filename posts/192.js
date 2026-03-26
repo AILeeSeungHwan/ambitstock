@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>최고의 시리즈로 기억되는 &lt;해리포터 시리즈&gt;를 인기 순위 및 평점 순으로 추천해 드립니다.</b></span></p><p>해리와 아이들의 성장과 함께 자란 어른이들이 영화 해리포터 시리즈를 <span style=&quot;color: inherit; text-align: start;&quot;>다시 찾아보고자 할 때</span></p><p><span style=&quot;color: inherit; text-align: start;&quot;> 이 포스팅을 통해 원하시는 추억을 돌아보시길 바랍니다. </span></p><p><figure><figcaption>해리포터 시리즈 인기 순위 추천</figcaption> </figure> </p><p><span style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>해리포터 모든 시리즈의 로튼 토마토 평점을 바탕으로 순위</b></span>를 정하였으며,</span></p><p><span style=&quot;color: inherit; text-align: start;&quot;> 평점순위가 실제로 영화의 흥행과 연관되지는 않습니다.</span></p><p><span style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토 평론가 평점, 시청자 평점과 함께 영화 개봉당시의 반응, 그리고 줄거리 내용을 함께 알아보도록 하겠습니다.</span></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post192_thumb.svg',
-      alt: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8',
-      caption: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -472,7 +466,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

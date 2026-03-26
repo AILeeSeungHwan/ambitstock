@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>월레스와 그로밋: 복수의 날개 관람평 포토 펭귄 <로튼 토마토 평점 100%></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post111_thumb.svg',
-      alt: '월레스와 그로밋: 복수의 날개 관람평 포토 펭귄 <로튼 토마토 평점 100%>',
-      caption: '월레스와 그로밋: 복수의 날개 관람평 포토 펭귄 <로튼 토마토 평점 100%>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -208,7 +202,7 @@ const post = {
       href: '/series-recommend-rating-top-8/',
       text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

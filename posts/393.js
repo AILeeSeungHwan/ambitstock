@@ -2,7 +2,6 @@ const post = {
   id: 393,
   sections: [
     { type: 'intro', html: "<p><b><span style=&quot;background-color: #01ff51;&quot;>넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?</span></b></p><p style=&quot;color: inherit; text-align: start;&quot;>2024년 7월 2주차 신작, 넷플릭스 영화 추천, 인기 순위 1위 영화 댓글부대 영어제목 Troll Factory 입니다.</p><p><figure><figcaption>영화 댓글부대 해외 평점 반응 결말후기</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post393_thumb.svg", alt: "영화 댓글부대 볼까말까 | 만전 실제 실화기반 해외 반응 평점 결말후기 리뷰", caption: "영화 댓글부대 볼까말까 | 만전 실제 실화기반 해외 반응 평점 결말후기 리뷰" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;color: inherit; text-align: left;&quot;>2024년 7월 10일 넷플릭스 공개된 영화 댓글부대가 넷플릭스 대한민국 영화 순위 1위를 기록하고 있습니다.</span></p>" },
@@ -112,7 +111,7 @@ const post = {
     { type: 'image', src: "/images/post393_img3.jpg", alt: "영화 댓글부대 해외 평점 반응 결말후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post393_img1.jpg", alt: "영화 댓글부대 해외 평점 반응 결말후기", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>영화 댓글부대 영어 제목 Troll Factory 총평입니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

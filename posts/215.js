@@ -2,7 +2,6 @@ const post = {
   id: 215,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 타임컷 볼까말까? 결정해드립니다.</b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>영화 타임컷 해외반응 로튼토마토 평론가 평점 후기입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 타임컷 로튼토마토 평론가 평점입니다.</b></span></p>" },
-    { type: 'image', src: "/images/post215_thumb.svg", alt: "넷플릭스 영화 타임컷 볼까말까? | 로튼 토마토 평점 평론가 결말 후기", caption: "넷플릭스 영화 타임컷 볼까말까? | 로튼 토마토 평점 평론가 결말 후기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 29%, 관람객 평점 32%의 영화 타임컷 평점입니다.</b></span></p>" },
@@ -39,7 +38,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>‘<b>극장판 체인소 맨: 레제편</b>’이 예상을 뒤엎고 <b>한국 박스오피스 1위</b>를 차지했습니다. 화제작 <b>보스</b>와 박찬욱 감독의 <b>어쩔수가없다</b>를 제치며, 개봉 3주차에도 식지 않는 인기를 이어가고 있습니다. 특히 평일 기준 하루 12만 명 이상 관객을 동원하며 ‘역주행 신화’를 써내려가고 있습니다.</p><p><figure><figcaption>체인소 맨: 레제편 박스오피스 1위</figcaption> </figure> </p>'
     },
-    {
-      type: 'image',
-      src: '/images/post57_thumb.svg',
-      alt: '체인소 맨: 레제편 박스오피스 1위 영화 예매 순위 돌풍｜보스·박찬욱 신작 제치고 정상 등극',
-      caption: '체인소 맨: 레제편 박스오피스 1위 영화 예매 순위 돌풍｜보스·박찬욱 신작 제치고 정상 등극'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -124,7 +118,7 @@ const post = {
       href: '/movie-recommend-rating-top-9/',
       text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

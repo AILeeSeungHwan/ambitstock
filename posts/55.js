@@ -2,7 +2,6 @@ const post = {
   id: 55,
   sections: [
     { type: 'intro', html: "<p>TVA 1기 이후 ‘그다음’을 기다리던 팬들이 드디어 <b>레제</b>를 스크린에서 만났어요. <b>요시하라 타츠야</b> 감독, <b>MAPPA 단독 투자</b>로 완성된 이 극장판은 사랑과 폭주 사이에 선 <b>덴지</b>의 선택을 정면으로 밀어붙입니다. 개봉 3주차에도 박스오피스 상위권을 지키며, 굿즈/특전 대란까지 만들어낸 이 작품 왜 이렇게 뜨거운지, 요소별로 깔끔히 정리해 드릴게요.</p>" },
-    { type: 'image', src: "/images/post55_thumb.svg", alt: "체인소 맨 1위 레제편 흥행 질주｜MAPPA 작품 굿즈 대란까지 한 번에 정리", caption: "체인소 맨 1위 레제편 흥행 질주｜MAPPA 작품 굿즈 대란까지 한 번에 정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "체인소 맨 작품 기본 정보", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -40,7 +39,7 @@ const post = {
     { type: 'body', html: "<p>결과적으로, <b>TVA 1기 총집편 → 극장판 레제</b>의 리듬이 팬덤과 흥행을 동시에 견인했습니다.</p>" },
     { type: 'h2', id: "section8", text: "체인소 맨 쿠키? 굿즈? 관람 팁", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'ending', html: "<ol style=&quot;list-style-type: decimal;&quot;> <li><b>쿠키</b>까지 꼭 보기(엔드 크레딧 후 <b>파워</b> 등장)</li> <li><b>좌석</b>: 액션·폭우·저주파 효과가 살아나는 <b>중후열 중앙</b> 추천</li> <li><b>굿즈</b>: 특전 수량·증정 시간 <b>극장 공지</b> 확인(오픈런 대비)</li> </ol>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

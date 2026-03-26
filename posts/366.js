@@ -2,7 +2,6 @@ const post = {
   id: 366,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;color: #781b33;&quot;><b>지난 몇 년간 어벤저스 엔드 게임 로버트 다우니 주니어의 퇴장을 시작으로 마블의 암흑기가 시작</b></span>되었죠.</p><p>올해 개봉한, 그리고 디즈니 플러스에서 공개한 여러 마블 작품들도 이전의 명성과는 못하는 결과물을 보여주었습니다.</p><p><span style=&quot;color: #1a5490;&quot;><b>아이언맨의 자리를 대신해 유일하게 살아남은 명작 캐릭터는 톰 히들스턴의 로키 뿐</b></span>입니다.</p>" },
-    { type: 'image', src: "/images/post366_thumb.svg", alt: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리", caption: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>그리고 2024년도 절반이 지난 시점 7월 24일, 데드풀과 울버린의 흥행, 그리고 로버트 다우니 주니어의 아이언맨 아닌 어벤저스 빌런으로의 복귀 등 마블은 다시 한번 영화계를 평정할 준비를 하고 있습니다.</p>" },
@@ -60,7 +59,7 @@ const post = {
     { type: 'cta', href: "/disney-marvel-충격적-새로운-캡틴/", text: "충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈" },
     { type: 'cta', href: "/marvel-disney-series/", text: "[마블 뉴스] 차기 아이언맨은 흑인 여성이다 - 디즈니 플러스 시리즈 아이언 하트 공개 논란 두가" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>다음 포스팅에서 2025년부터 2027년까지 마블 개봉, 공개 예정작을 전해드리겠습니다.</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

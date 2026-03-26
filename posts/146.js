@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>조명가게 시즌 2 공개가 절실하다 해외 반응 평점 < 영어제목 드라마 인기 순위 리뷰 후기 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post146_thumb.svg',
-      alt: '조명가게 시즌 2 공개가 절실하다 해외 반응 평점 < 영어제목 드라마 인기 순위 리뷰 후기 >',
-      caption: '조명가게 시즌 2 공개가 절실하다 해외 반응 평점 < 영어제목 드라마 인기 순위 리뷰 후기 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -170,7 +164,7 @@ const post = {
       href: '/series-recommend-rating-top-8/',
       text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

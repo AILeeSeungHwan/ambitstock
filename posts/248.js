@@ -2,7 +2,6 @@ const post = {
   id: 248,
   sections: [
     { type: 'intro', html: "<p><b><span style=&quot;background-color: #9feec3;&quot;>넷플릭스 오리지널 시리즈 </span><span style=&quot;background-color: #9feec3;&quot;>'흑백요리사: 요리계급전쟁'의 시즌2 제작이 확정되었습니다.</span></b> 시즌1의 성공에 이어, 넷플릭스는 글로벌 요리 예능 열풍을 이어가겠다는 목표를 밝혔습니다.<b> &lt;흑백요리사&gt;</b>는 공개 이후 전 세계적으로 큰 반향을 일으키며, 3주 연속 넷플릭스 글로벌 TOP 10 비영어 TV 부문 1위를 기록한 바 있습니다.</p><p>국내에서도 모든 SNS, 커뮤니티가 흑백요리사로 도배가 될 정도로 엄청난 인기를 휩쓸었습니다. 2024년 하반기는 가히 흑백요리사의 해라고 할 수 있을 정도로, 대한민국 요리 예능으로 최고의 인기를 끌었다는 점이 굉장히 고무적입니다. 시즌1에 대한 성과와 리뷰를 가볍게 정리하며 시즌 2 공개일 또한 함께 확인해 보겠습니다.</p><p><b>흑백요리사의 최고 흥행 비결은 백종원</b>과 <b>안성재</b> 셰프의 세밀한 심사와 예측할 수 없는 미션들입니다. 특히 미슐랭 3 스타 셰프 안성재의 정교한 심사와 백종원의 대중적인 시각이 어우러지며 요리 서바이벌의 새로운 기준을 제시했습니다.</p>" },
-    { type: 'image', src: "/images/post248_thumb.svg", alt: "넷플릭스 흑백요리사 시즌 2 제작 확정! 완결 리뷰 글로벌 인기 순위 3주 연속 1위 공개일은 언제?", caption: "넷플릭스 흑백요리사 시즌 2 제작 확정! 완결 리뷰 글로벌 인기 순위 3주 연속 1위 공개일은 언제?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>안성재 셰프가 처음 심사위원으로 등장하였을 때 이 분이 누구인지 <span style=&quot;color: inherit; text-align: start;&quot;>시청자의 90%는<span> 몰랐을 것이라 생각됩니다. 1화를 볼 당시, '당신은 누구십니까? 얼마나 대단하신 분일지 한번 봅시다!'라는 생각이 피어나던 찰나 첫 심사에서부터 알게 되었습니다. 와 엄청난 사람이구나.</span></span></p>" },
@@ -27,7 +26,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

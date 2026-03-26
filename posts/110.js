@@ -2,7 +2,6 @@ const post = {
   id: 110,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>2025년 넷플릭스 영화 뭐 볼까?</b></span></p><p><b>넷플릭스 영화 추천 TOP 20, 2025년입니다.</b></p><p><figure><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p><p>넷플릭스 영화 정말 많은데 막상 보려고 하면 뭘 봐야 할지 모를 때가 많죠?</p><p><b>속 편히 현재 넷플릭스에서 시청가능한 평론가 인정 작품들을 선택</b>해보세요.</p><p>이동진 평론가, 박평식 평론가가 사랑한 명작 영화들을<span> </span><b>한줄평, 줄거리와 함께 전달</b>드리겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><b>이 포스팅을 즐겨찾기</b><span> </span>하시고<span> </span><b>넷플릭스에서 시청가능한 명작 영화</b>들을 하나씩 꺼내보세요.</p><p>한국 영화계 <b>평론가 양대산맥 박평식 평론가의 평점 9점 영화 모음</b>입니다.</p><p>평생토록 만점영화가 없었던 평론가이기에, <b>9점을 준 영화들이 주는 만족감</b>이 상당하실 겁니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>후회하지 않는 시청되실 수 있습니다. 꼭 확인해보세요.</b></span></p><p>명실상부 현재 대한민국에서 <b>가장 핫하고 인기 있는 영화 평론가 이동진</b>입니다.</p><p>이동진 평론가의 평점 만점작들을 모아보았습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>이 포스팅을 통해 인생 영화를 갱신해 보세요!</b></span></p><p>자 그럼 <b>넷플릭스에서 시청가능한 박평식, 이동진 평론가의 영화추천 시작</b>합니다.</p>" },
-    { type: 'image', src: "/images/post110_thumb.svg", alt: "넷플릭스 영화 추천 이동진 박평식 평론가 순위 TOP 20, 2025", caption: "넷플릭스 영화 추천 이동진 박평식 평론가 순위 TOP 20, 2025" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "넷플릭스 추천 영화 - 박평식", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -208,7 +207,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
     { type: 'cta', href: "/release-upcoming-guide-movie-recommend-top10/", text: "개봉예정영화 2025년 1월 추천 순위 총정리 TOP10" },
     { type: 'cta', href: "/netflix-movie-recommend-series-release-upcoming-guide/", text: "넷플릭스 영화 추천 시리즈 2025년 한국 개봉예정작 총정리!" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

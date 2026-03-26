@@ -2,7 +2,6 @@ const post = {
   id: 316,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>드디어 볼만한 넷플릭스 영화가 나왔습니다. 영화 레블리지 (영어제목 Rebel Ridge)의 뜻 의미와 평점 포스팅입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>최근 나온 넷플릭스 영화들이 졸작으로 평가를 받으며 넷플릭스 영화에 대한 기대감이 낮아져있었습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>하지만 이번에 공개된 레블리지, 해외 평가부터 국내 반응까지 좋은 결과를 이끌어내고 있습니다.</p>" },
-    { type: 'image', src: "/images/post316_thumb.svg", alt: "넷플릭스 영화 추천 레블리지 영어제목 뜻 의미와 평점 | 현재상영작", caption: "넷플릭스 영화 추천 레블리지 영어제목 뜻 의미와 평점 | 현재상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>넷플릭스 영화 레블리지 포스팅, 시작하겠습니다.</p>" },
@@ -30,7 +29,7 @@ const post = {
     { type: 'body', html: "<p class=&quot;og-host&quot;>ambitstock.com</p>" },
     { type: 'image', src: "/images/post316_img1.jpg", alt: "넷플릭스 영화 추천 레블리지", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p> </p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

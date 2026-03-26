@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>호러 영화 팬이라면 한 번쯤 들어봤을 이름, <b>컨저링(The Conjuring)</b>. 제목만 들었을 땐 정확히 어떤 의미인지 감이 오지 않을 수 있다. 영어 단어 <i>conjure</i>에서 나온 말인데, 이는 ‘마법을 부리다’, ‘영혼을 불러내다’라는 뜻을 갖고 있다. 때로는 ‘어떤 장면을 떠올리다’라는 의미로도 쓰인다. 즉, 이 작품의 제목은 <b>보이지 않는 존재를 소환하는 행위</b>를 그대로 드러낸 셈이다.</p><p>영화를 보다 보면 이 단어가 왜 제목이 되었는지 자연스럽게 와 닿는다. 악령이 불러내지고, 워렌 부부는 그 소환된 존재와 맞서 싸운다. 공포의 근원은 결국 누군가가 무언가를 불러내는 데서 시작되며, 워렌 부부의 구마 의식은 그 대가로 치러야 할 싸움인 것이다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post82_thumb.svg',
-      alt: '컨저링 4 (The Conjuring) 제목 뜻 해석은? 결말 리뷰',
-      caption: '컨저링 4 (The Conjuring) 제목 뜻 해석은? 결말 리뷰'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -123,7 +117,7 @@ const post = {
       href: '/horror-movie-recommend-guide/',
       text: '2024년 공포 영화 추천 인기 순위 총정리 현재상영작'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

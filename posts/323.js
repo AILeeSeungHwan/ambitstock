@@ -15,7 +15,7 @@ const post = {
     { type: 'image', src: "/images/post323_img3.jpg", alt: "안녕, 할부지 푸바오", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post323_img1.jpg", alt: "안녕, 할부지 푸바오", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>9월 4일 영화관에서 확인해보시길 바랍니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

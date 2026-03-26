@@ -2,7 +2,6 @@ const post = {
   id: 77,
   sections: [
     { type: 'intro', html: "<p>2025년 9월, 한국컨텐츠에 진심인 넷플릭스의 신작 <b>사마귀(Mantis)</b>가 공개됩니다.</p><p>이 작품은 넷플릭스 화제작 &lt;길복순&gt;의 세계관을 확장한 스핀오프 영화로, 무너진 암살자 업계에서 다시 복귀한 A급 킬러 ‘한울’의 이야기를 그립니다. 임시완, 박규영, 조우진이라는 강력한 캐스팅과 함께, 무정부 상태가 된 청부살인 판에서 벌어지는 3자 구도의 정면승부가 펼쳐질 예정입니다.</p><p>무너진 질서 속에서 권력과 생존을 쟁취하려는 인간의 본능을 주제로 합니다.</p><p>특히 영화 제목인 ‘사마귀’는 치밀한 기다림과 단 한 번의 일격을 상징하며, 작품의 주제와 캐릭터를 압축적으로 보여주는 키워드입니다. 이제부터 <i>사마귀</i>의 주요 정보, 줄거리, 캐릭터, 관람 포인트, 그리고 제목에 담긴 의미까지 차례대로 살펴보겠습니다.</p>" },
-    { type: 'image', src: "/images/post77_thumb.svg", alt: "넷플릭스 영화 추천 사마귀 공개일 뜻 예정작! | 길복순 스핀오프 임시완 후속작 주연", caption: "넷플릭스 영화 추천 사마귀 공개일 뜻 예정작! | 길복순 스핀오프 임시완 후속작 주연" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "넷플릭스 영화 사마귀 (Mantis, 2025)", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -46,7 +45,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

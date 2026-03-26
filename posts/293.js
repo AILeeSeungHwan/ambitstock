@@ -2,7 +2,6 @@ const post = {
   id: 293,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 예능 추천, 이번 컨텐츠는 흑백요리사 입니다.</b></span></p><p>지난 더 인플루언서 공개 이후 여러 이슈들을 뒤로하고서도, 나름의 좋은 평가를 받으며 인기를 이어갔습니다. <span style=&quot;letter-spacing: 0px;&quot;>오히려 논란들 덕분에 노이즈 마케팅으로 성공한 느낌이 있죠.</span></p><p>이번에 넷플릭스 신규 예능, 백종원 안성재 최강록 승우아빠 등 인기 셰프들이 함께하는 흑백요리사 해외 반응과 후기는 어떠한지 함께 확인해보겠습니다.</p>" },
-    { type: 'image', src: "/images/post293_thumb.svg", alt: "넷플릭스 예능 추천 흑백요리사 최강 최강록 | 출연진 영어제목 뜻 해외 반응 평점 후기 리뷰", caption: "넷플릭스 예능 추천 흑백요리사 최강 최강록 | 출연진 영어제목 뜻 해외 반응 평점 후기 리뷰" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>넷플릭스 예능 흑백요리사의 영어제목은 CULINARY CLASS WARS 입니다.</b></p>" },
@@ -34,7 +33,7 @@ const post = {
     { type: 'cta', href: "/netflix-pd-신인가수-조정석/", text: "신인가수 조정석 넷플릭스 출연진 PD 공개정보" },
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 컨텐츠를 소개드립니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

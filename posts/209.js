@@ -2,7 +2,6 @@ const post = {
   id: 209,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>블링크 트와이스 해외 평론가 결말후기 관람평입니다.</b></span></p><p>이전 포스팅을 토앟여 블링크 트와이스(Blink Twice)의 뜻과 의미 해석, 그리고 로튼 토마토 평점과 관객평점을 확인해보실 수 있습니다.</p>" },
-    { type: 'image', src: "/images/post209_thumb.svg", alt: "블링크 트와이스 (Blink Twice) 해외 평론가 결말 후기 관람평 리뷰", caption: "블링크 트와이스 (Blink Twice) 해외 평론가 결말 후기 관람평 리뷰" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -39,7 +38,7 @@ const post = {
     { type: 'body', html: "<p>이상으로 영화 블링크 트와이스 해외 평론가 후기 리뷰 마칩니다.</p>" },
     { type: 'cta', href: "/analysis-rating-movie/", text: "블링크 트와이스 뜻 의미 해석 평점 예매 할까 말까? | 로튼 토마토 신선도 보증 마크 획득 영화" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 471,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;>넷플릭스 TOP10 1위를 유지하였던 영화  <span style=&quot;color: inherit; text-align: start;&quot;>&lt;레벨문 REBEL MOON 파트 1 : 불의 아이&gt;입니다.</span></p><p style=&quot;color: inherit; text-align: start;&quot;> 배두나님이 작중 주연으로 출현한다는 소식에 시청하신 국내팬들도 많으실텐데요.</p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>'갓' 쓴 배두나를 병풍으로 만들었다는 평</b></span>도 있을정도로 작중 출현시간이 상당히 짧았습니다. (약 7분)</p>" },
-    { type: 'image', src: "/images/post471_thumb.svg", alt: "[레벨문 REBEL MOON 파트1 갓 쓴 배두나 해외 평점 및 리뷰 후기 반응] - 내가 외계+인보다 못하다고? 넷플릭스 OTT 파트2 예정", caption: "[레벨문 REBEL MOON 파트1 갓 쓴 배두나 해외 평점 및 리뷰 후기 반응] - 내가 외계+인보다 못하다고? 넷플릭스 OTT 파트2 예정" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit; text-align: start;&quot;>REBEL MOON에 대한 해외 관람객들의 평가 및 </span><span data-dobid=&quot;hdw&quot; style=&quot;background-color: transparent; color: #202124; text-align: start;&quot;>배두나가 연기한 네메시스(</span><span style=&quot;background-color: transparent; color: #202124; text-align: start;&quot;>Nemesis) 캐릭터평도 함께 살펴보겠습니다.</span></p>" },
@@ -66,7 +65,7 @@ const post = {
     { type: 'image', src: "/images/post471_img3.jpg", alt: "영화 외계인 1부 해외 반응 및 평점&amp;#44; 손익분기점", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post471_img1.jpg", alt: "영화 레벨문 파트1 포스터", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>이는 간격을 잘 채우는 Tom Holkenborg 덕분에 큰 문제가 아닙니다.<span> </span>특히 Holkenborg의 트레이드마크인 타악기가 여전히 낡아지지 않은 강력한 번영과 함께 이전 협업을 매우 연상시킵니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

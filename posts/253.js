@@ -2,7 +2,6 @@ const post = {
   id: 253,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 싱글 에이트 결말 후기 해외반응 리뷰 알아보도록 하겠습니다.</b></span></p><p>심사위원대상 수상작인 싱글 에이트의 해외 평점과 제목 뜻 의미 해석은 지난 포스팅을 확인해 보시길 바랍니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>싱글 에이트 결말 후기 해외리뷰 반응 알아보도록 하겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post253_thumb.svg", alt: "싱글 에이트 결말 후기 해외반응 관람평 리뷰 | 내가 만드는 인생이란 영화", caption: "싱글 에이트 결말 후기 해외반응 관람평 리뷰 | 내가 만드는 인생이란 영화" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>8/10</b><br>영화 '싱글8'은 잘 쓰인 영화로, 편안한 분위기와 훌륭한 메시지를 담고 있다. 영화는 일본 고등학생들이 함께 스타워즈에서 영감을 받은 영화 프로젝트를 진행하는 성장 이야기를 중심으로 전개된다.</br></p>" },
@@ -18,7 +17,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

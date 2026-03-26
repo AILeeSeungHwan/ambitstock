@@ -2,7 +2,6 @@ const post = {
   id: 421,
   sections: [
     { type: 'intro', html: "<p>2024년 TVN 티빙 드라마 역대 시청률 순위 TOP10으로 알아보는 티빙 드라마 추천입니다. 시청률 순위는 역순으로 10위부터 1위까지 알아보겠습니다.</p>" },
-    { type: 'image', src: "/images/post421_thumb.svg", alt: "TVN 역대 시청률 순위 TOP 10 티빙 드라마 추천", caption: "" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
 
@@ -51,7 +50,7 @@ const post = {
     { type: 'body', html: "<p>가족의 희생과 사랑을 중심으로 펼쳐지는 이야기를 그린 드라마로, 힘든 현실 속에서 꿈과 희망을 잃지 않으려는 사람들의 이야기를 담고 있다.</p>" },
 
     { type: 'ending', html: "<p>TVN 역대 시청률 TOP 10을 정리해봤습니다. 아직 안 본 작품이 있다면 티빙에서 확인해보세요.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

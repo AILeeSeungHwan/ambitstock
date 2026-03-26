@@ -2,7 +2,6 @@ const post = {
   id: 361,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;>어벤져스 둠스데이 시리즈 5부작 포스팅 2편입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>이번 편에서는 <span style=&quot;background-color: #f3c000;&quot;><b>닥터 둠 타노스 티어와 능력치 비교, 그리고 닥터 둠이 빌런이 된 배경</b></span>에 대해서 전해드립니다.</p><p><figure><figcaption>어벤져스5 둠스데이 완벽정리 시리즈</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post361_thumb.svg", alt: "어벤져스5 둠스데이 닥터 둠 타노스 티어 비교 | 그가 빌런이 된 과거배경 -2", caption: "어벤져스5 둠스데이 닥터 둠 타노스 티어 비교 | 그가 빌런이 된 과거배경 -2" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;color: inherit;&quot;>닥터 둠, 본명 빅터 본 둠(Victor Von Doom)은 동유럽의 가상 국가 라트베리아에서 태어났습니다. </span></p>" },
@@ -51,7 +50,7 @@ const post = {
     { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;>어벤져스 둠스데이 시리즈 3편에서 이어집니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

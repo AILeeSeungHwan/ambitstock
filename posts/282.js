@@ -2,7 +2,6 @@ const post = {
   id: 282,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>반지의 제왕이 <b>아마존 프라임<span> </span><b>TV 시리즈 </b></b>'반지의 제왕 : 힘의 반지' <b>로</b> 돌아왔습니다.</b></span></p><p>역대 최고의 대작이라 평가받는 반지의 제왕, 호빗에서 기대만큼의 작품성과 연출을 보여주지 못해 명성을 잃어 다음 시리즈가 못 나올 것이라는 예상과 다르게 아마존 프라임에서 이걸 해냅니다.</p><p>과연 우리의 추억속 명작 '반지의 제왕'이 다시 한번 시리즈로 부활할 수 있을지, <span style=&quot;background-color: #9feec3;&quot;><b>해외 IMDB 인기 순위 TOP 10을 유지하고 있는 힘의 반지 평점과 해외 반응 살펴보겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post282_thumb.svg", alt: "반지의 제왕 - 힘의 반지 IMDB 인기 순위 평점 | 아마존 프라임 추천", caption: "반지의 제왕 - 힘의 반지 IMDB 인기 순위 평점 | 아마존 프라임 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>반지의 제왕 시리즈 인기 순위 및 평점입니다.</b></span></p>" },
@@ -35,7 +34,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-vs-one-vs/", text: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
     { type: 'cta', href: "/netflix-series-recommend-rating-overseas-reaction/", text: "넷플릭스 시리즈 인기 순위 추천 실화 기반 괴물 메넨 데즈 형제 이야기 - 주요 등장인물 평점 해" },
     { type: 'ending', html: "<p><b>반지의 제왕 시리즈뿐만 아니라 애니메이션 영화로도 곧 찾아옵니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

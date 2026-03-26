@@ -2,7 +2,6 @@ const post = {
   id: 411,
   sections: [
     { type: 'intro', html: "<p style=&quot;text-align: left;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>역대 영화 박스오피스 관객 수 흥행 순위 TOP20</b></span>으로 확인해보는 영화 추천 2부입니다.</p><p style=&quot;text-align: left;&quot;>1부에 이어 흥행 순위 TOP 10 부터 TOP 1까지 알아보도록 하겠습니다.</p><p>TOP 20 - TOP 11 1부 보러가기</p>" },
-    { type: 'image', src: "/images/post411_thumb.svg", alt: "역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부", caption: "역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>모든 데이터는 영화관입장권통합전상망의 공식데이터입니다. 순위는 역순으로 정리하였습니다. </p>" },
@@ -43,7 +42,7 @@ const post = {
     { type: 'cta', href: "/movie-overseas-reaction-rating-review-box-office-series-netflix/", text: "[영화 극한직업 해외 반응 평점 및 리뷰] - 역대 박스오피스 시리즈 세번째 넷플릭스로 다시보기" },
     { type: 'cta', href: "/movie-audience-review-overseas-rating-reaction/", text: "[영화 노량:죽음의 바다 관객수 해외 개봉 반응 리뷰 및 평점] - 이리도 조선에 편리한 이야기 일" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;>명량 OTT 다시보기 보는곳 : 넷플릭스 왓챠 티빙</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

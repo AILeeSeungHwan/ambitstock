@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p style=&quot;color: inherit; font-size: 16px; line-height: 1.8;&quot;>디즈니의 전설적인 SF 프랜차이즈가 새로운 이름과 함께 돌아왔습니다.<b> 바로 <i>트론: 아레스 (Tron: Ares)</i>. </b></p><p style=&quot;color: inherit; font-size: 16px; line-height: 1.8;&quot;>‘아레스’는 그리스 신화 속 전쟁의 신을 뜻하며, 이번 작품에서는 초지능 AI 전사의 이름으로 등장합니다.</p><p style=&quot;color: inherit; font-size: 16px; line-height: 1.8;&quot;>현실과 가상의 경계를 허무는 세계관 속에서, 인류를 위협하는 디지털 전사의 등장과 이를 막으려는 인간들의 사투가 본격적으로 펼쳐집니다. 자레드 레토가 차갑고 강렬한 AI 아레스를 연기하며, 한국계 미국인 배우 그레타 리가 천재 프로그래머 ‘이브 킴’으로 합류해 한국인 최초 할리우드 주연의 의미를 더했습니다.</p><p style=&quot;color: inherit; font-size: 16px; line-height: 1.8;&quot;>그녀는 내한 인터뷰에서 “<b>올림픽에 나가도 될 만큼 달렸다</b>”고 농담을 던질 정도로 강도 높은 액션을 직접 소화했다고 밝혀 더욱 화제를 모았습니다. 화려한 비주얼과 현대적인 문제의식, 그리고 새로운 액션 스타의 탄생을 예고하는 <i>트론: 아레스</i>는 2025년 하반기 최고의 기대작으로 손꼽히고 있습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post65_thumb.svg',
-      alt: '트론: 아레스 뜻 개봉 정보·스토리 정리 - 할리우드 최초 한국인 주연! 그레타 리 출연작',
-      caption: '트론: 아레스 뜻 개봉 정보·스토리 정리 - 할리우드 최초 한국인 주연! 그레타 리 출연작'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -129,7 +123,7 @@ const post = {
       href: '/movie-recommend-rating-top-9/',
       text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

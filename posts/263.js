@@ -2,7 +2,6 @@ const post = {
   id: 263,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 더 플랫폼 2가 10월 4일 공개되었습니다.</b></span></p><p>공개된 작품을 보기 전, 2019년 넷플릭스 공개된 전작 <span style=&quot;color: inherit; text-align: start;&quot;>더 플랫폼(The Platform - 스페인 제작) </span>에 대한 줄거리와 내용, 그리고 평점과 결말까지 전체적인 정보 전달해 드리도록 하겠습니다.</p><p>전체적인 스타일은 올해 넷플릭스 공개 된 한국 작품인 '더 에이트 쇼'와 비슷한 느낌을 줍니다. ( 시기적으로 더 플랫폼이 더 먼저이기에, 더 에이트 쇼가 해당 아이디어를 참고한 것으로 보입니다. ) 더 에이트 쇼와 마찬가지로 현대 사회의 계층 구조와 자원의 불평등 분배를 비판적으로 다루고 있습니다.</p>" },
-    { type: 'image', src: "/images/post263_thumb.svg", alt: "넷플릭스 영화 더 플랫폼 2 보기전 뜻 의미, 로튼 반응과 전작 평점 결말 정보까지 | 볼지말지 알려드림", caption: "넷플릭스 영화 더 플랫폼 2 보기전 뜻 의미, 로튼 반응과 전작 평점 결말 정보까지 | 볼지말지 알려드림" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>&quot;더 플랫폼&quot;의 배경은 수직으로 배열된 여러 층의 감옥이며, 각 층마다 두 명씩의 사람들이 갇혀 있습니다. 매일 위층에서부터 아래층으로 음식을 담은 플랫폼이 내려가며, 상위층 사람들은 풍성한 음식을 먼저 먹을 수 있지만, 하위층 사람들에게 도달할 때쯤에는 거의 아무것도 남지 않거나 형편없는 상태가 됩니다.</p>" },
@@ -27,7 +26,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

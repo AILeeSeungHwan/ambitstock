@@ -2,7 +2,6 @@ const post = {
   id: 405,
   sections: [
     { type: 'intro', html: "<p>넷플릭스 영화 가족이라서 문제입니다 ( 영어제목 : A Family Affair 뜻 가족의 일)가 공개되었습니다.</p><p>니콜 키드먼, 잭 애프론, 조이 킹 주연의 이 영화, 볼만할까요?</p><p>로튼 토마토 해외 평점 및 리뷰 반응을 통해서 확인해보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post405_thumb.svg", alt: "넷플릭스 영화 <가족이라서 문제입니다> 볼만한 영화인가? 해외 평점 리뷰 반응", caption: "넷플릭스 영화 <가족이라서 문제입니다> 볼만한 영화인가? 해외 평점 리뷰 반응" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 가족이라서 문제입니다.</figcaption> </figure> </p>" },
@@ -31,7 +30,7 @@ const post = {
     { type: 'image', src: "/images/post405_img3.jpg", alt: "넷플릭스 영화 가족이라서 문제입니다.", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post405_img1.jpg", alt: "넷플릭스 영화 가족이라서 문제입니다.", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>비 추천. 정말 킬링타임용으로 주말에 볼 게 없다면 시청하시길 추천합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

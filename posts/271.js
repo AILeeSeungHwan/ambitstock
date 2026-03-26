@@ -2,7 +2,6 @@ const post = {
   id: 271,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>경성크리처(영어제목 : Gyeongseong Creature) 시즌 2가 공개되었습니다.</b></span></p><p>이번 시즌에서는 과거 일제치하의 조선이 아닌 현시대에서 '크리처', '괴물'에 집중한 전개를 보여주었습니다.</p><p>국내 평가도 특별히 개성을 느끼진 못하였지만 확실한 재미는 잡았다!라는 평가가 지배적입니다.</p>" },
-    { type: 'image', src: "/images/post271_thumb.svg", alt: "경성크리처 시즌 2 해외 반응 뜨겁다! 로튼토마토 후기 평가 IMDB 평론가 시청자 평점", caption: "경성크리처 시즌 2 해외 반응 뜨겁다! 로튼토마토 후기 평가 IMDB 평론가 시청자 평점" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>시즌 1 공개부터 지금까지 여러모로 논란이 많았던 넷플릭스 시리즈 경성크리처, 과연 해외에서 어떻게 시청하였을지!</p>" },
@@ -29,7 +28,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-vs-one-vs/", text: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

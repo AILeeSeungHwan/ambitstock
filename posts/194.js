@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>칸 영화제 수상작 모든 것은 아르망에서 시작되었다 해외 시사회 후기 관람평 포스팅입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토 평론가 평점과 후기를 바탕으로 황금카메라상 수상 12월 개봉 예정작 \'모든 것은 아르망에서 시작되었다.\' 볼지 말지 확인해 보시길 바랍니다.</p><p><figure><figcaption>모든 것은 아르망에서 시작되었다</figcaption> </figure> </p>'
     },
-    {
-      type: 'image',
-      src: '/images/post194_thumb.svg',
-      alt: '칸 영화제 수상작 <모든 것은 아르망에서 시작되었다> Armand 해외 반응 평론가 시사회 후기 관람평',
-      caption: '칸 영화제 수상작 <모든 것은 아르망에서 시작되었다> Armand 해외 반응 평론가 시사회 후기 관람평'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -175,7 +169,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

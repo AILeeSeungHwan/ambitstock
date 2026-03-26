@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 11월 20일 개봉 영화 위키드가 압도적인 평가를 받고 있습니다.</b></span></p><p>예매율 압도적 1위, 해외 평론가 관객으로부터 압도적인 평점과 후기 관람평, 국내 관객분들과 뮤지컬 소설 원작을 좋아하시는 분들에게 까지 극찬이 이어지고 있습니다.</p><p>2부작으로 구성된 영화 위키드, <b>과연 어떠한 평가를 받았는지, 해외 반응과 로튼 토마토 평점을 바탕</b>으로 알아보도록 하겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post190_thumb.svg',
-      alt: '위키드 Wicked 평점 영화 예매 순위 압도적 1위 결말 리뷰 <2024년 최고의 영화>',
-      caption: '위키드 Wicked 평점 영화 예매 순위 압도적 1위 결말 리뷰 <2024년 최고의 영화>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -193,7 +187,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

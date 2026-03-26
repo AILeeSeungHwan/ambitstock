@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>넷플릭스 시리즈 완전무결한 커플 볼지 말지 정해드립니다.</b></p><p><b>해외 시청자들의 완전무결한 커플 결말 후기 반응 리뷰를 살펴보도록 하겠습니다.</b></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post286_thumb.svg',
-      alt: '완전무결한 커플 해외 시청자 평점과 리뷰 결말 후기반응 | 넷플릭스 시리즈 볼지말지 감 잡아드림',
-      caption: '완전무결한 커플 해외 시청자 평점과 리뷰 결말 후기반응 | 넷플릭스 시리즈 볼지말지 감 잡아드림'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -158,7 +152,7 @@ const post = {
       href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

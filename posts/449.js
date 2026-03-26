@@ -2,7 +2,6 @@ const post = {
   id: 449,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;>웹툰 원작 나 혼자만 레벨업 (영어 제목 Solo Leveling<span style=&quot;background-color: transparent; color: #202124; text-align: center;&quot;>(Only I Level Up), 일본어 제목 俺だけレベルアップな件 ) 애니메이션 버전이 넷플릭스에서 상영중입니다. </span><span style=&quot;background-color: transparent; color: #202124; text-align: center;&quot;>원작의 좋은 평을 이어갈 수 있을지, 애니메이션 해외 반응 알아보겠습니다.</span></p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>넷플릭스 화제작 선산과 비슷한 장르</b></span></p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>최민식 김고은 주연 &lt;파묘&gt;</b></span></p>" },
-    { type: 'image', src: "/images/post449_thumb.svg", alt: "[애니메이션 나 혼자만 레벨업 엇갈리는 해외 반응과 일본 반응] 해외 평점 넷플릭스 OTT 일본어 더빙 다시보기 보는법", caption: "[애니메이션 나 혼자만 레벨업 엇갈리는 해외 반응과 일본 반응] 해외 평점 넷플릭스 OTT 일본어 더빙 다시보기 보는법" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 조커 2: 폴리 아 되 정보</b></span></p>" },
@@ -47,7 +46,7 @@ const post = {
     { type: 'image', src: "/images/post449_img3.jpg", alt: "조커 2: 폴리 아 되 개봉일 및 전작 해외 반응 알아보기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post449_img1.jpg", alt: "애니메이션 나 혼자만 레벨업", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>현재 나 혼자만 레벨업은 넷플릭스, 티빙, 웨이브, 왓챠, 라프텔 등 다양한 OTT 사이트에서 시청 가능합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

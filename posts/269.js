@@ -2,7 +2,6 @@ const post = {
   id: 269,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 하반기 공개된 넷플릭스 드라마 해외 반응을 바탕으로 추천해 드립니다.</b></span></p><p>순위엔 공개 예정작도 포함되었으며, 이번 포스팅에서 분명 아직 보지 못한 인생작품을 찾으실 수 있으실 것입니다.</p><p>순위와 함께 각각의 작품에 대한 포스팅도 함께 확인해 보시고 취향에 맞는 볼만한 좋은 작품을 선별해 보시길 바랍니다.</p>" },
-    { type: 'image', src: "/images/post269_thumb.svg", alt: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7", caption: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>7위는 넷플릭스 드라마 시리즈 괴물 메넨 데즈 형제 이야기입니다.</b></span></p>" },
@@ -56,7 +55,7 @@ const post = {
     { type: 'cta', href: "/netflix-recommend-overseas-review-reaction/", text: "넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가" },
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p>아래 포스팅을 통해 넷플릭스 영화 추천도 확인해 보실 수 있습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

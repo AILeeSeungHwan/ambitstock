@@ -2,7 +2,6 @@ const post = {
   id: 229,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>마이펫의 컴백홈 어드벤처 (영어제목 : GRACIE &amp; PEDRO: PETS TO THE RESCUE) 해외 평론가 후기 관람평입니다.</b></span></p><p>2024년 10월 23일 개봉한 애니메이션 영화로 아이와 함께 볼 애니메이션 영화를 찾고 계신 분들을 위하여 이번 포스팅을 통해서 예매할지 말지 결정하실 수 있도록 전달해 드리겠습니다.</p><p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'image', src: "/images/post229_thumb.svg", alt: "마이펫의 컴백홈 어드벤처 후기 관람평 평점 리뷰 아이와 함께 볼 애니메이션 영화", caption: "마이펫의 컴백홈 어드벤처 후기 관람평 평점 리뷰 아이와 함께 볼 애니메이션 영화" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>먼저 마이펫의 컴백홈 어드벤쳐 평점입니다.</b></p>" },
@@ -40,7 +39,7 @@ const post = {
     { type: 'cta', href: "/review-plot-아마존-활명수-시사회/", text: "아마존 활명수 시사회 후기 관람평 | 극한직업 케미가 돌아온다. (줄거리 내용 출연진 등장인물" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p>처참한 평가를 받은 영화 마이펫의 컴백홈 어드벤처입니다. 혹시라도 아이와 함께 이 영화를 볼 생각이 있으셨던 부모님들은 다시 한번 생각해 보는 시간을 가지시는 것이 좋을 것 같습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 380,
   sections: [
     { type: 'intro', html: "<p>이동진 평론가가 평점 만점을 준 작품에서 찾은 볼만한 넷플릭스 영화 추천 작품들입니다.</p><p>인생 영화들로 구성된 리스트들은 <span style=&quot;background-color: #01ff51;&quot;><b>모두 넷플릭스에서 시청 가능한 작품</b></span>들입니다.</p><p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post380_thumb.svg", alt: "넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상작품", caption: "넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상작품" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>추천하고 싶은 </b><b>본인의 인생영화를 댓글로 남겨주세요.</b></span></p>" },
@@ -89,7 +88,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-jtbc-top10-ott/", text: "JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천" },
     { type: 'cta', href: "/movie-recommend-guide-box-office-audience-top20-ott/", text: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위" },
     { type: 'ending', html: "<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>주인공들이 겪는 가정 내 불화와 사회적인 억압을 생생히 재현한다.</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 281,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>조커 2 예매하기 전, 꼭 알아야 하는 사실들을 알아보겠습니다.</b></span></p><p>총 4가지 정보를 정리하였으며, 조커 1을 시청하지 않은 이들도 알아두면 좋은 내용을 가볍게 정리하였습니다.</p><p>이외 해외 평론가 시사회 후기 반응과 평점, 폴리 아 되 뜻 의미에 대한 포스팅은 페이지 하단에서 확인가능합니다.</p>" },
-    { type: 'image', src: "/images/post281_thumb.svg", alt: "조커 2 폴리 아 되 예매 전 꼭 알아야 하는 사실들 결말 스포 없음", caption: "조커 2 폴리 아 되 예매 전 꼭 알아야 하는 사실들 결말 스포 없음" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>아마도 영화를 좋아하시는 분들이라면 무조건 보았을 대작 &lt;조커&gt;, 여러 상을 휩쓸었지만 사실 평론가들의 평점은 상당히 낮았습니다.</p>" },
@@ -50,7 +49,7 @@ const post = {
     { type: 'cta', href: "/plot-analysis-movie-release-upcoming/", text: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>조커 2와 함께 보면 좋은 콘텐츠를 전달해 드립니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

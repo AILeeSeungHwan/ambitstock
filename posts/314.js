@@ -2,7 +2,6 @@ const post = {
   id: 314,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 9월 현재 넷플릭스 영화 인기 순위권인 노 웨이 업( 영어 제목 : No Way Up ) 의 제목 뜻 의미와 평점을 알아보도록 하겠습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 노 웨이 업의 로튼토마토, IMDB평점 알아보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><b>노 웨이 업 로튼 토마토 평론가 평점 및 관객 평점입니다.</b></p>" },
-    { type: 'image', src: "/images/post314_thumb.svg", alt: "9월 넷플릭스 영화 인기 순위 노 웨이 업 제목 뜻 의미와 평점", caption: "9월 넷플릭스 영화 인기 순위 노 웨이 업 제목 뜻 의미와 평점" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 36%, 관람객 평점은 등록되지 않았습니다.</b></span></p>" },
@@ -31,7 +30,7 @@ const post = {
     { type: 'image', src: "/images/post314_img1.jpg", alt: "영화 노 웨이 업", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/netflix-movie-review-ending-critic-reaction/", text: "넷플릭스 영화 레블리지 후기 결말 리뷰 로튼 평론가 반응 현재상영작" },
     { type: 'ending', html: "<p class=&quot;og-host&quot;>ambitstock.com</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

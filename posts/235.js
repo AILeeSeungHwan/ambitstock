@@ -2,7 +2,6 @@ const post = {
   id: 235,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>트럼프의 부동산 성장기를 다룬 화제작 영화 어프렌티스가 10월 23일 한국에서 개봉합니다.</b></span></p><p>2024년 칸 영화제 황금종려상 경쟁작으로 선정된 이 영화는 미국 대선이 얼마 남지 않은 상황에 개봉한 화제작으로 개봉 전부터 엄청난 화제와 더불어 평론가들로부터 시사회에서 긍정적인 반응을 이끌었습니다.</p><p>그리고 현재 미국에서는 이미 개봉 후 큰 반항을 일으키고 있는 이 영화, <span style=&quot;background-color: #9feec3;&quot;><b>영화 제목인 어프렌티스는 무슨 뜻인지, The Apprentice 뜻 의미 해석 알아보도록 하겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post235_thumb.svg", alt: "어프렌티스 The Apprentice 뜻 의미 해석 | 트럼프 일대기 미국 차기 대통령 후보 그는 괴물인가 거인인가", caption: "어프렌티스 The Apprentice 뜻 의미 해석 | 트럼프 일대기 미국 차기 대통령 후보 그는 괴물인가 거인인가" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>The Apprentice의 뜻을 이해하기 위해서는 영화의 줄거리 내용 배경을 먼저 이해하여야 합니다.</b></span></p>" },
@@ -23,7 +22,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

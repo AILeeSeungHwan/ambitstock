@@ -2,7 +2,6 @@ const post = {
   id: 240,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 채식주의자에 대한 스포 포함 줄거리 내용 결말 후기 관람평입니다.</b></span></p><p>2024년 10월 17일 재개봉하는 채식주의자에 대한 결말 스포포함 한 리뷰를 확인해 보시길 바랍니다.</p><p>이전 포스팅에서 영화 채식주의자에 대한 해외 평점 및 반응 또한 함께 보실 수 있습니다.</p>" },
-    { type: 'image', src: "/images/post240_thumb.svg", alt: "영화 채식주의자 스포 포함 줄거리 내용 결말 후기 관람평 리뷰 | 원작 소설만큼 볼만 할까?", caption: "영화 채식주의자 스포 포함 줄거리 내용 결말 후기 관람평 리뷰 | 원작 소설만큼 볼만 할까?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>현대 사회에서 영화는 많은 장르를 흡수했지만, 소설의 내면 묘사를 따라잡지 못하였다. </span></b></span></p>" },
@@ -24,7 +23,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

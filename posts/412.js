@@ -2,7 +2,6 @@ const post = {
   id: 412,
   sections: [
     { type: 'intro', html: "<p style=&quot;text-align: left;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>역대 영화 박스오피스 관객 수 흥행 순위 TOP20</b></span>으로 확인해보는 영화 추천입니다.</p><p style=&quot;text-align: left;&quot;>영화조아 누누티비 티비나무와 같은 불법 스트리밍 사이트도 있지만, 정당히 OTT 구독료로 시청가능한 OTT 사이트로 정리하였습니다.</p><p style=&quot;text-align: left;&quot;>모든 데이터는 영화관입장권통합전상망에서 가져온 공식데이터입니다. 순위는 역순으로 정리하였습니다. </p>" },
-    { type: 'image', src: "/images/post412_thumb.svg", alt: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위", caption: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>역대 영화 박스오피스 흥행 순위 TOP 20</figcaption> </figure> </p>" },
@@ -40,7 +39,7 @@ const post = {
     { type: 'cta', href: "/", text: "[영화 파묘 오컬트 뜻 반일논란] 명작에 때 아닌 정치색 전쟁 - 스포포함 결말 해석 리뷰 현재상" },
     { type: 'cta', href: "/", text: "[영화 파묘 개봉일 및 티저 예고편 해외반응] - 파묘 뜻 등장인물과 포스터 영어제목 Exhuma 뜻 2월" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;>2부에서 계속됩니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

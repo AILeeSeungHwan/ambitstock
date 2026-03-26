@@ -2,7 +2,6 @@ const post = {
   id: 364,
   sections: [
     { type: 'intro', html: "<p>이번 포스팅에서는 MCU 팬들이 가장 기대하고,<span> </span>한편으로는 가장 걱정되는</p><p>마블 시네마틱 유니버스의 2025년 논란 이슈 뉴스를 전해드립니다.</p><p><span style=&quot;background-color: #01ff51;&quot;><b>우리 모두가 알고 있는 토니 스타크 로버트 다우니 주니어의 복귀의 기쁨 뒤로 여전히 마블의 걱정거리가 남아있습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post364_thumb.svg", alt: "충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈", caption: "충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>최근 할리우드 영화계에 가장 핫한 사건이라 하면 당연하게도 이 장면입니다.</p>" },
@@ -35,7 +34,7 @@ const post = {
     { type: 'cta', href: "/", text: "어벤저스 5 메인 빌런 캉에 대한 모든것, 히어로만 60명 아이언맨 복귀는? - 해외 반응과 개봉 정" },
     { type: 'cta', href: "/marvel-disney-series/", text: "[마블 뉴스] 차기 아이언맨은 흑인 여성이다 - 디즈니 플러스 시리즈 아이언 하트 공개 논란 두가" },
     { type: 'ending', html: "<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, 'Malgun Gothic', '맑은 고딕', dotum, 돋움, sans-serif;&quot;>다음 포스팅에서 2025년, 2026년 마블 공개 예정 모든 작품들을 전달해드리겠습니다.</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

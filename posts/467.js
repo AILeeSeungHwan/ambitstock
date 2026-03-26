@@ -2,7 +2,6 @@ const post = {
   id: 467,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;>경성크리처 파트2가 1월 5일 금요일 공개되었습니다. 파트1에 이어서 파트2에 대한 해외 반응 살펴보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>파트1까지에 대한 해외 평점 및 일본 반응은 아래 링크를 통하여 확인하실 수 있습니다.</p>" },
-    { type: 'image', src: "/images/post467_thumb.svg", alt: "[경성크리처 파트2 의도적 평점테러] 배우들의 일본어발음 일본 반응 및 해외 평점 - 시즌2 개봉 예정작", caption: "[경성크리처 파트2 의도적 평점테러] 배우들의 일본어발음 일본 반응 및 해외 평점 - 시즌2 개봉 예정작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "1. 로튼 토마토 ( Rotten Tomatoes 평론가 리뷰 )", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -57,7 +56,7 @@ const post = {
     { type: 'body', html: "<p>리뷰를 선별적으로 추린것도 아니고 순서대로 가져왔음에도 작품성 자체만으로 좋은 평가를 받고 있는 것을 알 수 있습니다. 중간에 나라를, 말을, 생활을, 소중한 사람을, 인간의 존엄을 빼앗았다는 리뷰에서 지난 역사에 대한 반성의 표현또한 볼 수 있었습니다.</p>" },
     { type: 'cta', href: "https://ambitstock.com/2", text: "[한소희를 좋아했지만] 경성크리처 논란 및 해외반응, 일본 평점 리뷰 - 시즌2 파트2 일정 넷플릭" },
     { type: 'ending', html: "<p>시즌1 마지막 쿠키영상을 통하여 시즌2 파트3가 예정되어 있다는 점을 알 수 있습니다. 일본 네티즌들의 리뷰에서도 그와 관련된 내용이 포함되어 있네요. 시즌2는 현재 제작중이며 2024년 공개예정이라 합니다. 추후 공개되는 시즌2도 빠르게 해외 반응 살펴보도록 하겠습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

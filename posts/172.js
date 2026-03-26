@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>섀도우 오브 파이어 뜻 해석 줄거리 내용 정보 <일본 2차 세계대전 전쟁 영화></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post172_thumb.svg',
-      alt: '섀도우 오브 파이어 뜻 해석 줄거리 내용 정보 <일본 2차 세계대전 전쟁 영화>',
-      caption: '섀도우 오브 파이어 뜻 해석 줄거리 내용 정보 <일본 2차 세계대전 전쟁 영화>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -162,7 +156,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

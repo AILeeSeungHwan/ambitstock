@@ -2,7 +2,6 @@ const post = {
   id: 234,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 어프렌티스 해외 평점 평론가 반응 인기 순위입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>1970년-1980년 트럼프의 뉴욕 부동산 경력을 다룬 영화로, 미국 대선을 앞둔 트럼프에게 민감한 내용을 주제로 담은 영화입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토에서 굉장히 긍정적인 반응을 이끌고 있는 영화 어프렌티스.</p>" },
-    { type: 'image', src: "/images/post234_thumb.svg", alt: "영화 어프렌티스 배경 해외 평점 평론가 반응 인기 순위 | 미국 대선 트럼프 전기를 다룬 화제작 로튼 토마토 신선도 보증!", caption: "영화 어프렌티스 배경 해외 평점 평론가 반응 인기 순위 | 미국 대선 트럼프 전기를 다룬 화제작 로튼 토마토 신선도 보증!" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>과연 해외 평론가 평점 반응은 어떠할 지, 영화관에서 볼만한 영화일지 확인해보도록 하겠습니다.</p>" },
@@ -32,7 +31,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

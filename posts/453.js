@@ -2,7 +2,6 @@ const post = {
   id: 453,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>6화 기준 7.8% tvN 웹툰 원작 드라마 내 남편과 결혼해줘 가 해외에서도 인기 몰이를 하고 있습니다.</b></span><br>웹툰 원작을 먼저 보았던 해외 시청자들은 실사화 <span style=&quot;color: inherit;&quot;>드라마를 어떻게 생각할까요</span><br>박민영 나인우 이이경주연의 총 16부작 월화 8시 50분 드라마 내 남편과 결혼해 줘 해외 시청자 반응 알아보겠습니다.<br/> </br></br></p><p><figure><figcaption>웹툰원작 드라마 내 남편과 결혼해줘 스틸컷</figcaption> </figure> </p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 &lt;파묘&gt; 정보</b></span><br/><span style=&quot;color: #666666;&quot;><b>티저 예고편 해외반응이 궁금하다면</b></span></p>" },
-    { type: 'image', src: "/images/post453_thumb.svg", alt: "[해외 반응 웹툰 원작이 더 좋다? 드라마 내 남편과 결혼해줘 리뷰 평점] 시청률 7.8% 등장인물관계 티빙 넷플릭스 다시보기 몇부작", caption: "[해외 반응 웹툰 원작이 더 좋다? 드라마 내 남편과 결혼해줘 리뷰 평점] 시청률 7.8% 등장인물관계 티빙 넷플릭스 다시보기 몇부작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #666666;&quot;><b>영화 조커 2: 폴리 아 되 정보</b></span><br/><span style=&quot;color: #666666;&quot;><b>조커 1 해외반응이 궁금하다면</b></span></p>" },
@@ -25,7 +24,7 @@ const post = {
     { type: 'image', src: "/images/post453_img3.jpg", alt: "조커 2: 폴리 아 되 개봉일 및 전작 해외 반응 알아보기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post453_img1.jpg", alt: "웹툰원작 드라마 내 남편과 결혼해줘 스틸컷", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p> <br/> <br/>웹툰원작 드라마 내 남편과 결혼해 줘의 인물관계도입니다.<br/> <br/><b>시한부 인생에서 10년 전으로 환생한 강지원(박민영)을 두고, 환생 전 부부 박민환(이이경), 그와 바람피우는 지원의 절친 정수민(송하윤), 갑자기 잘해주는 썸 같은 의문의 부장님 유지혁 (나인우), 강지원의 이루지 못한 첫사랑 백은호 (이기광) 등으로 이루어져 있습니다.</b><br/> <br/> <br/>지금까지 웹툰원작 드라마 내 남편과 결혼해 줘 해외 반응 및 리뷰, 등장인물관계도 알아보았습니다.<br/>더 많은 해외 반응 블로그 게시글을 통해 확인해 보실 수 있습니다. 감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

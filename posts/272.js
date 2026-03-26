@@ -2,7 +2,6 @@ const post = {
   id: 272,
   sections: [
     { type: 'intro', html: "<p>시즌 2는 총 6부작으로, 오는 2024년 하반기 10월 25일 넷플릭스를 통해 공개될 예정입니다.</p><p>연상호 감독은 이번 시즌이 질문과 미스터리로 잔뜩 채워질 것이라 하였으며, 시즌 1보다 더 많은 궁금증을 남길 것이라고 예고했습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 지옥 시즌 2 출연진과 등장인물에 대해 알아보도록 하겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post272_thumb.svg", alt: "넷플릭스 시리즈 추천 지옥 시즌 2 출연진 등장인물 유아인 김성철 문근영", caption: "넷플릭스 시리즈 추천 지옥 시즌 2 출연진 등장인물 유아인 김성철 문근영" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>지옥 시즌 2 줄거리 내용, 유아인 대체 김성철 배우의 대표작과 데뷔작 필모그래피는 아래 포스팅을 통해 확인하실 수 있습니다.</p>" },
@@ -25,7 +24,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

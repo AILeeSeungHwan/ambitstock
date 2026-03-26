@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>미키 17 관람평 정보 시사회 해외 반응 후기 포토 < 개봉일 또 다시 연기, 이유는 흥행 걱정? > 개봉예정작</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post150_thumb.svg',
-      alt: '미키 17 관람평 정보 시사회 해외 반응 후기 포토 < 개봉일 또 다시 연기, 이유는 흥행 걱정? > 개봉예정작',
-      caption: '미키 17 관람평 정보 시사회 해외 반응 후기 포토 < 개봉일 또 다시 연기, 이유는 흥행 걱정? > 개봉예정작'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -178,7 +172,7 @@ const post = {
       href: '/plot-analysis-movie-release-upcoming/',
       text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

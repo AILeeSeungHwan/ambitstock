@@ -2,7 +2,6 @@ const post = {
   id: 116,
   sections: [
     { type: 'intro', html: "<p>개봉예정영화 2025년 1월 추천 순위 총정리 TOP10</p>" },
-    { type: 'image', src: "/images/post116_thumb.svg", alt: "개봉예정영화 2025년 1월 추천 순위 총정리 TOP10", caption: "개봉예정영화 2025년 1월 추천 순위 총정리 TOP10" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "개봉예정영화 2025년 1월 추천 순위 총정리", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -125,7 +124,7 @@ const post = {
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

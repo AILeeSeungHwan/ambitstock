@@ -2,7 +2,6 @@ const post = {
   id: 92,
   sections: [
     { type: 'intro', html: "<p><b>이번 포스팅에서는 미키 17 개봉 전 원작 소설 줄거리 결말을 알아보겠습니다. </b></p><p>원작 소설은 미키 17이 아닌 '미키 7'이며 에드워드 애슈턴(Edward Ashton)이 쓴 SF 소설로, 인류가 새로운 행성을 개척하는 과정에서 '소모품 인간(Expendable)'이라는 개념을 중심으로 이야기를 풀어나갑니다.</p><p>작품은 복제 기술과 인간 정체성, 생존 본능을 다루며 철학적이면서도 긴장감 넘치는 전개를 보여줍니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?sm=tab_hty.top&amp;where=nexearch&amp;ssc=tab.nx.all&amp;query=미키17+상영일정&amp;oquery=캡틴+아메리카+브레이브+뉴+월드+상영일정&amp;tqi=iIJpelqVN8ossmwlyONssssssQd-063667&quot; title=&quot;미키 17 영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 미키 17 바로 보러 가기👉</button></a></center></div><div><center><a href=&quot;https://ambitstock.com/410&quot; title=&quot;미키 17 후기 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>미키 17 후기 보러 가기👉</button></a></center></div><p style=&quot;text-align: center;&quot;><b>미키 17 개봉전 미리보는 평점! </b></p><p style=&quot;text-align: center;&quot;><b>해외 시사회 평론가 후기 반응이 궁금하다면?</b></p><p style=&quot;text-align: center;&quot;><b>위 링크를 통해 확인해 보세요.</b></p>" },
-    { type: 'image', src: "/images/post92_thumb.svg", alt: "미키 7 원작 소설 줄거리 결말 - 봉준호 영화 미키 17 미키 18 글로 읽기", caption: "미키 7 원작 소설 줄거리 결말 - 봉준호 영화 미키 17 미키 18 글로 읽기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "미키 7 배경 설정", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -40,7 +39,7 @@ const post = {
     { type: 'body', html: "<p>드디어 공개되는 봉준호감독의 영화 미키 17을 꼭 영화관에서 확인해 보시길 바랍니다.</p>" },
     { type: 'cta', href: "/release-review-rating-overseas-reaction-movie/", text: "미키 17 개봉 관람평 후기 평점 해외 반응 <영화 순위 1위>" },
     { type: 'ending', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?sm=tab_hty.top&amp;where=nexearch&amp;ssc=tab.nx.all&amp;query=미키17+상영일정&amp;oquery=캡틴+아메리카+브레이브+뉴+월드+상영일정&amp;tqi=iIJpelqVN8ossmwlyONssssssQd-063667&quot; title=&quot;미키 17 영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 미키 17 바로 보러 가기👉</button></a></center></div>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

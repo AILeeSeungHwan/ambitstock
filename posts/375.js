@@ -2,7 +2,6 @@ const post = {
   id: 375,
   sections: [
     { type: 'intro', html: "<p>글로벌 히트작 &lt;오징어 게임&gt;이 올 연말 시즌 2로 다시 돌아옵니다.</p><p>넷플릭스는 황동혁 감독의 편지와 함께 <span style=&quot;background-color: #01ff51;&quot;><b>오징어 게임 시즌2의 개봉일은 2024년 12월 26일 공개 예정</b></span>입니다.</p><p><b><span style=&quot;background-color: #01ff51;&quot;>황동혁 감독은 편지에서 시즌 2의 큰 줄거리를 공개</span></b>하며, 주인공 성기훈(이정재)이 다시 게임에 참여한다고 전했습니다.</p>" },
-    { type: 'image', src: "/images/post375_thumb.svg", alt: "오징어 게임 시즌 2 개봉일 줄거리 발표 출연진 전작 해외 반응과 시즌 3 예고", caption: "오징어 게임 시즌 2 개봉일 줄거리 발표 출연진 전작 해외 반응과 시즌 3 예고" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>오징어게임 시즌3를 마지막으로 넷플릭스의 대표작품인 오징어게임이 마무리 될 것이라 하며,</p>" },
@@ -36,7 +35,7 @@ const post = {
     { type: 'image', src: "/images/post375_img1.jpg", alt: "오징어게임 시즌2", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/overseas-reaction-rating-season-netflix-drama-recommend-ott/", text: "[해외 반응 오징어게임 평점 리뷰] 시즌2 전설의 귀환 한류 콘텐츠의 시작 공개일 미정 넷플릭스" },
     { type: 'ending', html: "<p>여러분.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

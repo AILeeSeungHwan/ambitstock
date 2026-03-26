@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 시청가능 영화 히든 페이스 평론가 평점 및 결말후기 관람평 리뷰입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>동명의 한국영화 히든 페이스 개봉의 영향인지 현재 넷플릭스 영화 순위와 관심도가 상승 중인 영화 히든 페이스 입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>우연히 접하게 되실 이 영화, 제목의 뜻 의미 해석과 어떤 평가를 받았는지 이번 포스팅을 통하여 확인해보시길 바랍니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post204_thumb.svg',
-      alt: '히든 페이스 뜻 의미 해석 평점 결말후기 관람평 라틴 영화',
-      caption: '히든 페이스 뜻 의미 해석 평점 결말후기 관람평 라틴 영화'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -170,7 +164,7 @@ const post = {
       href: '/movie-recommend-overseas-critic-rating-guide/',
       text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

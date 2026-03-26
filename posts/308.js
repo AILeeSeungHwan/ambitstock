@@ -2,7 +2,6 @@ const post = {
   id: 308,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>크리스토퍼 놀란 영화 시리즈, 세번째 영화는 인셉션 ( 영어제목 : Inception ) 입니다.</b></span></p><p>이번 포스팅에서 영화 인셉션의 제목 뜻과 줄거리 내용을 바탕으로 영화 제목의 의미를 알아보도록 하겠습니다.</p><p>마지막으로 인셉션 결말에 대한 해석을 알아보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post308_thumb.svg", alt: "영화 인셉션 뜻 결말 해석 리뷰 - 코브는 자유를 찾았는가 크리스토퍼 놀란 시리즈-3", caption: "영화 인셉션 뜻 결말 해석 리뷰 - 코브는 자유를 찾았는가 크리스토퍼 놀란 시리즈-3" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b>먼저 영화 인셉션 로튼 토마토 평론가 평점 및 관객 평점을 알아보겠습니다.</b></p>" },
@@ -23,7 +22,7 @@ const post = {
     { type: 'image', src: "/images/post308_img3.jpg", alt: "인셉션 제목 뜻", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post308_img1.jpg", alt: "인셉션 로튼 토마토 평론가 평점", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>즉, 그의 진정한 목표는 아이디어의 주입이나 복수심을 넘어서, 자신의 내면에서 가족과의 재회를 찾는 것이었을지도 모릅니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

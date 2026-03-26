@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스에서 24년 11월 8일 공개된 오리지널 드라마, 미스터 플랑크톤( Mr. Plankton )의 해외 반응 평점 알아보도록 하겠습니다.</b></span></p><p>해외에서는 어떤 반응을 보이고 있는지, 좋은 작품인지 볼만할지 함께 확인해 보시죠.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post206_thumb.svg',
-      alt: '미스터 플랑크톤 뜻 의미 해석 해외 반응 평점 넷플릭스 한국 드라마 추천',
-      caption: '미스터 플랑크톤 뜻 의미 해석 해외 반응 평점 넷플릭스 한국 드라마 추천'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -170,7 +164,7 @@ const post = {
       href: '/overseas-review-rating-netflix-drama-recommend/',
       text: '미스터 플랑크톤 해외 시청자 후기 리뷰 평점! 넷플릭스 한국 드라마 추천 극찬일색 평가'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

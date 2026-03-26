@@ -2,7 +2,6 @@ const post = {
   id: 244,
   sections: [
     { type: 'intro', html: "<p>2024년에도 많은 공포 영화들이 개봉하였습니다.</p><p>과연 어떤 영화가 좋은 평점을 받으며 인기몰이를 하였는지, <span style=&quot;background-color: #9feec3;&quot;><b>2024년 현재상영작 포함 개봉 공포 영화 인기 순위별 추천 포스팅 시작합니다.</b></span></p>" },
-    { type: 'image', src: "/images/post244_thumb.svg", alt: "2024년 공포 영화 추천 인기 순위 총정리 현재상영작", caption: "2024년 공포 영화 추천 인기 순위 총정리 현재상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "8위 늘봄가든", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -82,7 +81,7 @@ const post = {
     { type: 'cta', href: "/release-upcoming-guide-movie-recommend-top10/", text: "2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10" },
     { type: 'cta', href: "/netflix-movie-recommend-release-upcoming-guide/", text: "2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!" },
     { type: 'cta', href: "/movie-drama-recommend-netflix/", text: "볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

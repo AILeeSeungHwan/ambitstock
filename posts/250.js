@@ -2,7 +2,6 @@ const post = {
   id: 250,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b>2024년 10월 16일 장동건 설경구 김희애 수현 주연 영화 보통의 가족이 개봉합니다.</b></p><p style=&quot;color: inherit; text-align: start;&quot;>2023년 토론토 국제 영화제(TIFF)에서 처음 공개된 후 많은 호평을 받으며 캐스팅 기대감만큼 작품성도 인정받은 작품입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>현재 여러 영화 평점사이트에서 보통의 가족에 대한 후기 평점을 확인해 볼 수 있으며, 이번 포스팅에서 등장인물 출연진 확인 후 해외 평론가 결말 후기 반응 살펴보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post250_thumb.svg", alt: "현재상영작 보통의 가족 토론토 국제 영화제 시사회 결말 후기 해외 로튼 평론가 반응 | 등장인물 출연진 정보 네덜란드 소설 원작", caption: "현재상영작 보통의 가족 토론토 국제 영화제 시사회 결말 후기 해외 로튼 평론가 반응 | 등장인물 출연진 정보 네덜란드 소설 원작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>영화 보통의 가족은 네덜란드 소설<span> &lt;</span><b>디너&gt;</b>를 원작으로, 가족 간의 도덕적 딜레마와 범죄를 둘러싼 갈등을 메인으로 하는 줄거리를 다루고 있습니다. 주요 등장인물은 다음과 같습니다.<b></b></p>" },
@@ -30,7 +29,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

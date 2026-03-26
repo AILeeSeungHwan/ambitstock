@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>2025년 9월, 홍콩과 중국이 손잡은 액션 범죄 블록버스터 <b>포풍추영(The Shadow’s Edge)</b>이 드디어 개봉합니다.</p><p>저는 평소 성룡 영화를 챙겨보는 편인데, 최근 몇 년간은 솔직히 아쉬움이 남았던 게 사실이에요. 극장에서 성룡의 이름만으로도 설레서 표를 끊곤 했지만, 막상 보고 나면 “예전 같진 않다”는 생각을 하게 되곤 했습니다. 하지만 이번 신작은 다르다는 말이 벌써부터 돌고 있고, 실제 시사회와 평론 반응도 기대 이상이라는 소식이라 마음이 두근거립니다.</p><p>포스터 자리</p><p><figure data-ke-type=&quot;image&quot; data-ke-style=&quot;widthContent&quot; data-ke-mobilestyle=&quot;widthOrigin&quot;><img src=&quot;여기에_포스터_토큰_붙이기&quot; data-image-src=&quot;여기에_포스터_토큰_붙이기&quot; alt=&quot;영화 포풍추영 포스터&quot;><figcaption>포풍추영 공식 포스터</figcaption></figure></p><p><b>포풍추영</b>은 첨단 감시 시스템과 보안망을 뚫고 수십억을 탈취한 범죄 조직을 쫓는 마카오 경찰들의 이야기입니다. 은퇴한 범죄 추적 전문가 황더중(성룡 분)이 다시 수사에 합류하면서, 냉혹한 범죄 조직의 수장 푸룽성(양가휘 분)과의 숨 막히는 대결이 펼쳐집니다. 142분의 러닝타임 동안 쉴 틈 없는 추격전과 정보전, 그리고 시대를 관통하는 메시지가 담겨 있다고 하네요.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post76_thumb.svg',
-      alt: '영화 〈포풍추영〉 뜻 줄거리·출연진 성룡·양가휘·세븐틴 준의 홍콩 폭풍 액션 영화!',
-      caption: '영화 〈포풍추영〉 뜻 줄거리·출연진 성룡·양가휘·세븐틴 준의 홍콩 폭풍 액션 영화!'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -170,7 +164,7 @@ const post = {
       href: '/movie-recommend-critic-masterpiece/',
       text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

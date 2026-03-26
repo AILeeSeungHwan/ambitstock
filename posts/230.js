@@ -2,7 +2,6 @@ const post = {
   id: 230,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>아마존 활명수가 2024년 10월 30일 개봉합니다.</b></span></p><p><b>류승룡</b>, <b>진선규</b>, <b>염혜란</b>, <b>고경표</b> 등의 출연진과 함께, 브라질 아마존에서 벌어지는 코미디 장르로, 출연진을 보면 알 수 있듯 천만 영화 극한직업 풍의 영화를 기대해 볼 수 있을 것입니다. 영화는 전직 국가대표 양궁 선수 <b>진봉(류승룡)</b>이 아마존 원주민들과 함께 세계 양궁 대회를 준비하는 과정을 다룹니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>이번 포스팅에서는 아마존 활명수의 줄거리 내용과 출연진 등장인물 정보를 시사회 후기 관람평과 함께 알아보도록 하겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post230_thumb.svg", alt: "아마존 활명수 시사회 후기 관람평 | 극한직업 케미가 돌아온다. (줄거리 내용 출연진 등장인물 정보)", caption: "아마존 활명수 시사회 후기 관람평 | 극한직업 케미가 돌아온다. (줄거리 내용 출연진 등장인물 정보)" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>각 내용 사이에 시사회 후기평을 첨가하였으니, 함께 읽어보시어 개봉 전 영화 반응 확인해보시길 바랍니다.</p>" },
@@ -32,7 +31,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

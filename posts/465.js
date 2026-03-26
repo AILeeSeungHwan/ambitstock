@@ -2,7 +2,6 @@ const post = {
   id: 465,
   sections: [
     { type: 'intro', html: "<p>신카이 마코토 감독의 애니메이션 영화 <span style=&quot;color: inherit;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>&lt;스즈메의 문단속 - 다녀왔어&gt; 특별판이 24년 01월 10일 개봉 예정</span></b></span>입니다. 스즈메의 문단속은 재난영화시리즈의 3번째 작품으로 한국에서도 인기를 끌었던 작품입니다. 그렇다면 북미,유럽등 (미국 영국 독일 프랑스 등) 해외반응과 일본에서의 평가는 어떠한지 살펴보겠습니다.</p><p><figure><figcaption>로튼 토마토 스즈메의 문단속 평점</figcaption> </figure> </p><p style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토 영화 스즈메의 문단속 평점입니다. 평론가 리뷰를 Fresh(긍정)와 Rotten(부정)으로 분류, 긍정률 60% 이상일 때 Fresh로 분류됩니다.</p>" },
-    { type: 'image', src: "/images/post465_thumb.svg", alt: "[스즈메의 문단속 - 다녀왔어 특별판 개봉 예정작] 해외반응, 평점 및 줄거리 리뷰, 관객수 넷플릭스 공개정보", caption: "[스즈메의 문단속 - 다녀왔어 특별판 개봉 예정작] 해외반응, 평점 및 줄거리 리뷰, 관객수 넷플릭스 공개정보" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>스즈메의 문단속은 SUZUME 라는 영어제목으로 개봉하였습니다. 평론가 평점은 96%, 관람객 평점은 98%를 기록하며 압도적인 찬사를 받은 것으로 알 수 있습니다. 특히나, TOP 평론가 5명이상이 좋은 점수를 줄 때 얻게 되는 신선도 보증 마크를 받으며, 타 영화와는 차별되는 압도적인 점수를 받은 것으로 알 수 있습니다. 그렇다면 탑 평론가 평점과 리뷰 확인해보도록 하겠습니다.</p>" },
@@ -50,7 +49,7 @@ const post = {
     { type: 'image', src: "/images/post465_img3.jpg", alt: "스즈메의 문단속 - 다이진", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post465_img1.jpg", alt: "로튼 토마토 스즈메의 문단속 평점", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>구독 및 즐겨찾기 후 궁금하신 영화 해외 평점 및 반응 빠르게 확인하세요.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

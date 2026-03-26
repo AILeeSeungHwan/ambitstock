@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>크레이븐 더 헌터 뜻 관람평 시사회 후기 해외 반응 < 스파이더맨 유니버스 ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post166_thumb.svg',
-      alt: '크레이븐 더 헌터 뜻 관람평 시사회 후기 해외 반응 < 스파이더맨 유니버스 >',
-      caption: '크레이븐 더 헌터 뜻 관람평 시사회 후기 해외 반응 < 스파이더맨 유니버스 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -134,7 +128,7 @@ const post = {
       type: 'ending',
       html: '<p>&quot;더 헌터(The Hunter)&quot;는 그의 본질적인 직업과 성격을 나타낸다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

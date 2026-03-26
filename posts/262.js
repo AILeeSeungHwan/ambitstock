@@ -2,7 +2,6 @@ const post = {
   id: 262,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 더 플랫폼 2 해외 평론가 평점 반응입니다.</b></span></p><p>지난 포스팅에서 전작의 줄거리 내용과 평점 및 결말 정보를 모두 확인해 보았습니다. 이를 바탕으로 차기작의 반응이 어떠한지 해외 시청자들을 바탕으로 평점 확인해 보고, 다음 포스팅에서 해외 평론가 후기반응을 알아보겠습니다.</p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 더 플랫폼 2 로튼토마토 평론가 평점입니다.</b></span></p>" },
-    { type: 'image', src: "/images/post262_thumb.svg", alt: "더 플랫폼 2 해외 평론가 평점 반응 넷플릭스 영화 후속작은 왜 항상 이런 결말인가", caption: "더 플랫폼 2 해외 평론가 평점 반응 넷플릭스 영화 후속작은 왜 항상 이런 결말인가" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>평론가 평점 55%, 관람객 평점 26%의 영화 더 플랫폼 2 평점입니다.</b></span></p>" },
@@ -26,7 +25,7 @@ const post = {
     { type: 'cta', href: "/movie-recommend-vs-one-vs/", text: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

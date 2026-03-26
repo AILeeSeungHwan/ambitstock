@@ -2,7 +2,6 @@ const post = {
   id: 93,
   sections: [
     { type: 'intro', html: "<p><b>애니메이션 영화 퇴마록 (영어제목 : Exorcism Chronicles: The Beginning)이 2025년 2월 21일 그 시절, 우리가 좋아했던 소녀와 같은 날짜에 개봉합니다.</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 퇴마록 줄거리와 영화 제목 뜻, 평점과 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=34316803&amp;qvt=0&amp;query=영화%20퇴마록%20상영일정&quot; title=&quot;영화 퇴마록 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 영화 퇴마록 바로 보러 가기👉</button></a></center></div>" },
-    { type: 'image', src: "/images/post93_thumb.svg", alt: "퇴마록 개봉 결말 후기 관람평 뜻 해석 평점 < 오컬트 애니메이션 영화 2부후속편 기대 >", caption: "퇴마록 개봉 결말 후기 관람평 뜻 해석 평점 < 오컬트 애니메이션 영화 2부후속편 기대 >" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -54,7 +53,7 @@ const post = {
     { type: 'body', html: "<p>전반적으로, '퇴마록'은 원작의 감성을 충실히 재현하면서도 독특한 비주얼과 액션으로 관객들의 호평을 받고 있습니다.</p>" },
     { type: 'body', html: "<p>특히, 특화된 상영관에서의 관람이 영화의 매력을 한층 더 높여준다는 평가가 많습니다.</p>" },
     { type: 'ending', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=34316803&amp;qvt=0&amp;query=영화%20퇴마록%20상영일정&quot; title=&quot;영화 퇴마록 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>영화 퇴마록 바로 보러 가기👉</button></a></center></div>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

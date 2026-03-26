@@ -2,7 +2,6 @@ const post = {
   id: 365,
   sections: [
     { type: 'intro', html: "<p>2025년 디즈니 플러스에서 새로운 아이언맨이 등장합니다.</p><p>그리고 우리의 기대와는 다른 모습으로 시작합니다.</p><p><span style=&quot;background-color: #01ff51;&quot;><b>흑인 여성 아이언맨입니다.</b></span></p>" },
-    { type: 'image', src: "/images/post365_thumb.svg", alt: "[마블 뉴스] 차기 아이언맨은 흑인 여성이다 - 디즈니 플러스 시리즈 아이언 하트 공개 논란 두가지", caption: "[마블 뉴스] 차기 아이언맨은 흑인 여성이다 - 디즈니 플러스 시리즈 아이언 하트 공개 논란 두가지" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>디즈니의 정치적 올바름이 아이언맨에게도 손을 뻗어 흑인 여성 아이언맨으로 등장합니다.</p>" },
@@ -37,7 +36,7 @@ const post = {
     { type: 'image', src: "/images/post365_img1.jpg", alt: "차기 아이언맨 아이언하트", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 개봉 예정작 개봉일 순으로 총 정리 feat. 디즈니플러스 시리즈 공개 예정" },
     { type: 'ending', html: "<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, 'Malgun Gothic', '맑은 고딕', dotum, 돋움, sans-serif;&quot;>아이언하트는 2025년 중 디즈니플러스에서 공개될 예정입니다.</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>2025년 2월 26일 개봉하는 영화 사랑은 사라지지 않는다 (영어제목 : no love lost)</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화의 줄거리와 해외 평점, 후기를 알아보고 볼만한 작품인지 확인</b></span>해 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=32827020&amp;qvt=0&amp;query=사랑은%20사라지지%20않는다%20상영일정&quot; title=&quot;영화 사랑은 사라지지 않는다 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 바로 보러 가기👉</button></a></center></div>'
     },
-    {
-      type: 'image',
-      src: '/images/post90_thumb.svg',
-      alt: '사랑은 사라지지 않는다 개봉 <영화 줄거리 평점 결말 후기>',
-      caption: '사랑은 사라지지 않는다 개봉 <영화 줄거리 평점 결말 후기>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -162,7 +156,7 @@ const post = {
       type: 'ending',
       html: '<p>그러나 일부 평론가는 작품의 메시지가 명확하지 않으며, 즉흥적인 전개로 인해 집중력을 잃는다고 평가했으며, 전반적으로 감상자의 취향에 따라 호불호가 갈릴 수 있는 영화입니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

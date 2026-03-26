@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>2024년 11월 30일 개봉 예정영화 <span style=&quot;background-color: #f3c000;&quot;><b>밀실 70억 ( 영어 제목 : The Immaculate Room ) 예매 할까 말까 고민 중이신 분들에게 해외 시사회 평론가 관람평 후기</b></span> 전해드립니다.</p><p>해당 포스팅을 바탕으로 영화 예매할지 말지 결정해 보시길 바랍니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post191_thumb.svg',
-      alt: '밀실 70억 예매 할까 말까? 관람평 결말후기 시사회 < 500만 달러를 위한 50일 > 개봉 예정작 영화',
-      caption: '밀실 70억 예매 할까 말까? 관람평 결말후기 시사회 < 500만 달러를 위한 50일 > 개봉 예정작 영화'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -184,7 +178,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

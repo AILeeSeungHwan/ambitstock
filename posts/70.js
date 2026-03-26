@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>2025년 9월, 액션 스릴러 <b>보이 킬스 월드(Boy Kills World)</b>가 개봉합니다.</p><p>독일·남아프리카공화국·미국 합작으로, <b>빌 스카스가드</b>가 청력을 잃고 말하지 못하는 ‘보이’로 등장해 만화적 과장과 하드고어 액션을 결합한 복수극을 선보입니다.<br>스타일은 강하고 서사는 간결하다는 평이 많은 작품이라, 취향에 따라 호불호가 갈릴 수 있어요.</br></p><p>아래에서 사실만 정리해 드릴게요.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post70_thumb.svg',
-      alt: '액션 영화 보이 킬스 월드 관람평 | 해외 반응과 결말 후기, 제목 뜻은?',
-      caption: '액션 영화 보이 킬스 월드 관람평 | 해외 반응과 결말 후기, 제목 뜻은?'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -175,7 +169,7 @@ const post = {
       href: '/movie-recommend-rating-top-9/',
       text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

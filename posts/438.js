@@ -2,7 +2,6 @@ const post = {
   id: 438,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>손석구 최우식 주연 살인장난감 해외 반응 및 평점 리뷰</span></b>입니다. 현재 넷플릭스 한국 순위 1위 작품으로 신선한 연출과 편집, 줄거리로 호평을 받고 있습니다. '타인은 지옥이다'를 연출한 이창희 감독의 최신작이며, 이전 작품을 재밌게 시청하신 분들이라면 이번 작품도 즐겁게 보실 수 있으실 겁니다. 해외 반응 및 평점 리뷰 확인해 보도록 하겠습니다.</p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #9d9d9d;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>송촌 (배우 이희준) </span></b></span></p><p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;><b>넷플릭스 시리즈 선산 </b></span><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;><b>해외 반응과 평점리뷰</b></span></p>" },
-    { type: 'image', src: "/images/post438_thumb.svg", alt: "[살인장난감 해외반응 평점 결말] 노출 수위를 유의하세요 - 넷플릭스 현재 상영작 드라마 추천 시즌2는?", caption: "[살인장난감 해외반응 평점 결말] 노출 수위를 유의하세요 - 넷플릭스 현재 상영작 드라마 추천 시즌2는?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit; font-family: 'Noto Serif KR';&quot;><b>살인장난감 제목 읽는법 및 정보</b></span></p>" },
@@ -35,7 +34,7 @@ const post = {
     { type: 'image', src: "/images/post438_img3.jpg", alt: "살인장난감 평점", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post438_img1.jpg", alt: "넷플릭스 시리즈 선산 볼만할까? 해외 반응과 평점리뷰", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #f3c000; font-family: 'Noto Serif KR'; color: inherit;&quot;><b>2024년 개봉 예정작 영화 추천입니다.</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

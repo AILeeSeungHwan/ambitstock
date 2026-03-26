@@ -2,7 +2,6 @@ const post = {
   id: 257,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 악이 도사리고 있을 때 로튼 토마토 평론가 후기입니다.</b></span></p><p>어떠한 점이 공포 영화 중에서도 좋은 점수를 이끌었는지 해외 평론가들의 후기와 반응을 통해 알아보도록 하겠습니다.</p><p><i><b><span style=&quot;background-color: #f3c000;&quot;>데이비드 누세어 - 평점: 1/4</span></b></i> <br>점점 더 무관심하고 실망스럽게 진행된다.</br></p>" },
-    { type: 'image', src: "/images/post257_thumb.svg", alt: "영화 악이 도사리고 있을 때 해외 로튼 토마토 평론가 후기 결말 반응", caption: "영화 악이 도사리고 있을 때 해외 로튼 토마토 평론가 후기 결말 반응" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><i><b><span style=&quot;background-color: #f3c000;&quot;>로미 노턴 - 평점: 4/5</span></b></i> <br/>'악이 도사리고 있을 때'는 위협적인 상황을 잘 만들어내며, 위장을 뒤틀리게 하는 폭력과 섬뜩한 디테일을 선보인다. 연기는 오랜 시간 동안 공포 장르에서 본 것 중 최고였으며, 배우들의 두려움, 고통, 행동 모두가 믿음직스러웠다.</p>" },
@@ -41,7 +40,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

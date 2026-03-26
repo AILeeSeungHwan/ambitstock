@@ -2,7 +2,6 @@ const post = {
   id: 348,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>널 기다리며 (영어제목 MISSING YOU) 로튼토마토 해외 평점 및 후기반응 입니다. </b></span></p><p>국내에서는 평점 7.7대의 높은 평점과 관객수 66만명을 기록한 영화 널 기다리며는 각 OTT 에서 시청 가능했지만 현재는 라인업에서 빠지게 되었습니다.</p><p><span style=&quot;letter-spacing: 0px;&quot;>영화를 보고자 하는 분들은 애플 TV에서 1500원에 구매하여 시청 가능합니다.</span></p>" },
-    { type: 'image', src: "/images/post348_thumb.svg", alt: "널 기다리며 넷플릭스 등 OTT에 빠졌다 | 영화 로튼 토마토 평점 해외 반응", caption: "널 기다리며 넷플릭스 등 OTT에 빠졌다 | 영화 로튼 토마토 평점 해외 반응" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;letter-spacing: 0px;&quot;>널 기다리며 로튼토마토와 IMDB 평점, 평점분포 및 후기반응 함께 알아보도록 하겠습니다.</span></p>" },
@@ -43,7 +42,7 @@ const post = {
     { type: 'image', src: "/images/post348_img3.jpg", alt: "널 기다리며 로튼토마토 평점", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post348_img1.jpg", alt: "널-기다리며-넷플릭스", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>영화의 결말은 감정적으로 깊이 박히며, 이를 통해 '미씽 유'는 잊을 수 없는 작품으로 자리 잡았습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

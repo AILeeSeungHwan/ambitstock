@@ -2,7 +2,6 @@ const post = {
   id: 217,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 영화 인기 순위 작품 볼지 말지 알려드립니다.</b></span></p><p><span style=&quot;background-color: #9feec3;&quot;><b>원더우먼 1984 해외 평론가 후기와 로튼 토마토 평점입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 로튼토마토 1984 평론가 평점입니다.</b></span></p>" },
-    { type: 'image', src: "/images/post217_thumb.svg", alt: "넷플릭스 영화 인기 순위 TOP 10 원더우먼 1984 볼까 말까? 해외 평론가 후기 로튼토마토 평점", caption: "넷플릭스 영화 인기 순위 TOP 10 원더우먼 1984 볼까 말까? 해외 평론가 후기 로튼토마토 평점" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>원더우먼 1984 로튼토마토 평론가 평점</figcaption> </figure> </p>" },
@@ -37,7 +36,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

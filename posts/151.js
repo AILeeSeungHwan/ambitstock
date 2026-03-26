@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>라팔마 넷플릭스 드라마 평점 뜻 스포포함 결말 후기 관람평 해외 반응 < 재난 시리즈 추천 하나? ></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post151_thumb.svg',
-      alt: '라팔마 넷플릭스 드라마 평점 뜻 스포포함 결말 후기 관람평 해외 반응 < 재난 시리즈 추천 하나? >',
-      caption: '라팔마 넷플릭스 드라마 평점 뜻 스포포함 결말 후기 관람평 해외 반응 < 재난 시리즈 추천 하나? >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -126,7 +120,7 @@ const post = {
       type: 'ending',
       html: '<p>현재 넷플릭스에서 시청할 수 있으며, 재난물 장르를 선호하는 시청자들에게 추천할 만한 작품입니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

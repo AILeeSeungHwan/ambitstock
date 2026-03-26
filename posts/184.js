@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>2024년 12월 04일 개봉예정영화 나이브스 아웃</b></span><span style=&quot;background-color: #f3c000;&quot;><b> 평론가 관람평 후기입니다.</b></span></p><p>개봉당시 여러 상을 휩쓸며 평단의 극찬을 받은 작품으로 2024년 12월 04일 재개봉을 통해 영화관에서 다시 한번 시청하실 수 있습니다.</p><blockquote><span style=&quot;font-family: \'Noto Serif KR\';&quot;>새틀라이트시상식 앙상블상<br/></span>미국비평가협회상 앙상블상 영화 톱<br>워싱턴비평가협회상 앙상블연기상</br></blockquote><p><span style=&quot;color: inherit; text-align: start;&quot;>로튼 토마토<span> </span></span>평론가뿐만<span style=&quot;color: inherit; text-align: start;&quot;><span> </span>아니라 관객 평점도 압도적인 평가를 받은 이 작품</span></p><p><span style=&quot;background-color: #f3c000;&quot;><b>이번 포스팅에서는 영화 나이브스 아웃의 제목의 뜻과 의미 그리고 평점 관람평 후기</b></span> 알아보겠습니다.</p>'
     },
-    {
-      type: 'image',
-      src: '/images/post184_thumb.svg',
-      alt: '나이브스 아웃 뜻 의미 해석 관람평 리뷰 < 로튼 토마토 평론가 극찬 재개봉 영화 >',
-      caption: '나이브스 아웃 뜻 의미 해석 관람평 리뷰 < 로튼 토마토 평론가 극찬 재개봉 영화 >'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -174,7 +168,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

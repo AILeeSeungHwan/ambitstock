@@ -2,7 +2,6 @@ const post = {
   id: 463,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #f3c000; color: inherit;&quot;><b><span style=&quot;background-color: transparent;&quot;>영화 &lt;길 위에 김대중&gt;이 </span>2024년 01월 10일 개봉 예정<span style=&quot;background-color: transparent;&quot;>입니다.</span></b></span><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;> </span></span></span></p><p><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;background-color: transparent;&quot;>길위에 김대중은 대한민국</span> 15대 대통령 김대중의 탄생 100주년을 기념하며 제작되었으며, 민주주의를 향한 험난한 대한민국 역사 위에 선 인간 김대중의 파란만장한 삶을 담았습니다. </span></span></p><p><span style=&quot;background-color: transparent;&quot;><span style=&quot;color: inherit;&quot;>이번 포스팅에서는 영화 길위에 김대중 줄거리, 그리고 김대중 전 대통령님의 생애에 대한 해외인사들의 평가를 살펴보도록 하겠습니다. </span></span><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>이미 시사회를 마치고 개봉을 앞둔 </span><span style=&quot;letter-spacing: 0px;&quot;>영화 &lt;길위에 김대중&gt;, 민환기 감독님의 말로 시작하겠습니다.</span></p>" },
-    { type: 'image', src: "/images/post463_thumb.svg", alt: "[길위에 김대중 개봉일 시사회 해외반응] 개봉전 김대중대통령 업적 외신평가 알아보기 - 탄생 100주년 기념 영화개봉 예정작 현재 상영작", caption: "[길위에 김대중 개봉일 시사회 해외반응] 개봉전 김대중대통령 업적 외신평가 알아보기 - 탄생 100주년 기념 영화개봉 예정작 현재 상영작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: transparent; color: #444447; text-align: start;&quot;>목포의 청년 사업가. 전남 신안의 섬에서 태어난 김대중은 어린 시절부터 공부를 잘하였고, 목포에서 공부를 이어가 뛰어난 사업 수완으로 목포 제일가는 청년사업가가 된다. 사업으로 탄탄대로를 걷던 그가 <span style=&quot;background-color: transparent; color: #444447; text-align: start;&quot;>6.25로 죽을 위기를 넘기며</span> 바라본 다음 시선은 정치였다. 그에게 대한민국 정치는 이념의 정치였고, 이로부터 희생된 무고한 국민들을 지키기 위해 정치인 김대중의 삶이 시작된다.</span><span style=&quot;background-color: transparent; color: #444447; text-align: start;&quot;></span></p>" },
@@ -37,7 +36,7 @@ const post = {
     { type: 'image', src: "/images/post463_img3.jpg", alt: "[길위에 김대중 개봉일 시사회 해외반응] 개봉전 김대중대통령 업적 외신평가 알아보기 - 탄생 100주년 기념 영화개봉 예정작 현재 상영작", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post463_img1.jpg", alt: "[길위에 김대중 개봉일 시사회 해외반응] 개봉전 김대중대통령 업적 외신평가 알아보기 - 탄생 100주년 기념 영화개봉 예정작 현재 상영작", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><b><span style=&quot;color: #666666;&quot;>기생충 해외 반응</span></b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

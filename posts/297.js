@@ -2,7 +2,6 @@ const post = {
   id: 297,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 9월 13일 넷플릭스 공개된, 김우빈 주연 영화 무도실무관입니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>한국에서는 믿고 보는 배우인 김우빈 영화, 해외에서는 반응이 어떠한지, 무도 실무관의 뜻과 영어제목, 해외 반응 평점 후기 모두 알아보겠습니다. 해외 반응은 로튼토마토와 IMDB 를 바탕으로 확인하였습니다.</p><p><span style=&quot;background-color: #9feec3;&quot;><b>먼저 IMDB 평점 알아보겠습니다.</b></span></p>" },
-    { type: 'image', src: "/images/post297_thumb.svg", alt: "넷플릭스 영화 추천 무도실무관 볼만한가? 영어 제목 뜻 해외 반응 평점 후기", caption: "넷플릭스 영화 추천 무도실무관 볼만한가? 영어 제목 뜻 해외 반응 평점 후기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>IMDB 평점은 10점 만점의 7점을 기록하였습니다.</b></span></p>" },
@@ -42,7 +41,7 @@ const post = {
     { type: 'cta', href: "/recommend-movie-plot-critic-rating-reaction/", text: "현재 상영작 추천 영화 스픽 노 이블 제목 뜻 예매할까 말까 | 스포 포함 줄거리 내용 평론가 평" },
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

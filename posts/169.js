@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>나우 이즈 굿 관람평 결말후기 리뷰 다코타 패닝 영화 재개봉 <해외 반응 평점></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post169_thumb.svg',
-      alt: '나우 이즈 굿 관람평 결말후기 리뷰 다코타 패닝 영화 재개봉 <해외 반응 평점>',
-      caption: '나우 이즈 굿 관람평 결말후기 리뷰 다코타 패닝 영화 재개봉 <해외 반응 평점>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -196,7 +190,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

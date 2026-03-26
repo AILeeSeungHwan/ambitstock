@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p>사일런트 러브 뜻 관람평 결말 후기 포토 <말할 수 없는 소년과 시력을 잃은 소녀></p>'
     },
-    {
-      type: 'image',
-      src: '/images/post114_thumb.svg',
-      alt: '사일런트 러브 뜻 관람평 결말 후기 포토 <말할 수 없는 소년과 시력을 잃은 소녀>',
-      caption: '사일런트 러브 뜻 관람평 결말 후기 포토 <말할 수 없는 소년과 시력을 잃은 소녀>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -196,7 +190,7 @@ const post = {
       type: 'ending',
       html: '<p>감사합니다.</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 413,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>넷플릭스 시리즈 성공작 스위트 홈 시즌 3가 돌아옵니다.</span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;><span style=&quot;background-color: #f3c000;&quot;><b>스위트 홈 시즌3 공개일은 7월 19일</b></span>로 6월 29일 기준 D-20일입니다. 신규 시리즈 공개 전, 전 작품들의 줄거리 요약 및 등장인물 소개와 티저 예고편 확인해 보도록 하겠습니다.</span></p><p><figure><figcaption>넷플릭스 시리즈 스위트홈 시즌3</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post413_thumb.svg", alt: "스위트 홈 시즌3 공개일 임박! 넷플릭스 시리즈 이전 줄거리 요약 등장인물 티저 예고편", caption: "스위트 홈 시즌3 공개일 임박! 넷플릭스 시리즈 이전 줄거리 요약 등장인물 티저 예고편" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: 'Noto Serif KR';&quot;>스위트홈 은 차현수(송강 분)가 가족을 잃은 후 은둔형 외톨이로 살며, 자살을 결심하고 이사한 아파트에서 벌어지는 기이한 사건들을 그린 시리즈입니다. 갑작스럽게 사람들을 괴물로 변이 시키는 원인 불명의 바이러스가 퍼지며, 아파트 주민들은 생존을 위해 힘을 합치게 됩니다. </span></p>" },
@@ -35,7 +34,7 @@ const post = {
     { type: 'image', src: "/images/post413_img3.jpg", alt: "넷플릭스 시리즈 스위트홈 이도현", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post413_img1.jpg", alt: "넷플릭스 시리즈 스위트홈 시즌3", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>현재 &quot;스위트홈&quot; 시즌 3에 대한 평점 및 평가반응, 몇 부작인지에 대한 정보는 공개되지 않았습니다. 공개 후 새로운 포스팅을 통해 소식 전해드리겠습니다.</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

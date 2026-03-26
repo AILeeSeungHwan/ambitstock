@@ -2,7 +2,6 @@ const post = {
   id: 351,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 예매 순위를 총정리 해드립니다.</b></span></p><p><b>영화 예매 순위와 더불어 각 영화의 평점, 시사회, 해외 반응과 후기를 함께 보실 수 있습니다.</b></p><p><figure><figcaption>영화 예매 순위 - 출처 다음 영화 순위</figcaption> </figure> </p>" },
-    { type: 'image', src: "/images/post351_thumb.svg", alt: "영화 예매 순위 시사회 해외반응 후기와 함께 현재상영작 총정리", caption: "영화 예매 순위 시사회 해외반응 후기와 함께 현재상영작 총정리" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>14일 대작 4인방 중 1위를 차지한 작품은 영화 행복의 나라</b></span>입니다.</p>" },
@@ -66,7 +65,7 @@ const post = {
     { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리" },
     { type: 'cta', href: "/plot-series-어벤져스-둠스데이-뜻/", text: "어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1" },
     { type: 'ending', html: "<p>이외 7위 사랑의 하츄핑 9위 8월 21일 개봉하는 필사의 추격, 10위에 슈퍼배드 4가 랭크하였습니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

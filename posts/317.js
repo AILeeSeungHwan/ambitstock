@@ -2,7 +2,6 @@ const post = {
   id: 317,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>넷플릭스 오리지널 애니메이션 터미네이터 제로의 후기 결말과 인기순위를 알아보겠습니다.</b></span></p><p>이전 포스팅에서 터미네이터 제목의 뜻과 의의, 터미네이터 제로 줄거리와 평점을 알아보았습니다.</p><p>포스팅 하단의 이전 글 발행에서 확인해보실 수 있습니다.</p>" },
-    { type: 'image', src: "/images/post317_thumb.svg", alt: "넷플릭스 인기 순위 터미네이터 제로 일본 후기 결말 | 테미네이터 1 2 이후 최고의 작품", caption: "넷플릭스 인기 순위 터미네이터 제로 일본 후기 결말 | 테미네이터 1 2 이후 최고의 작품" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>먼저 <b>터미네이터 제로의 IMDB 평점</b>을 알아보겠습니다.</p>" },
@@ -31,7 +30,7 @@ const post = {
     { type: 'cta', href: "/netflix-movie-overseas-rating-review-reaction/", text: "넷플릭스 영화 더 유니온 말 그대로 로튼 토마토! 제목 뜻 해외 평점 후기 반응" },
     { type: 'cta', href: "/netflix-overseas-rating-review-reaction/", text: "넷플릭스 시청가능 원더랜드 뜻 의미 박보검 주연 해외 평점과 후기반응은?" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>함께 보면 좋은 컨텐츠</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 290,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>2024년 9월 25일 개봉예정 애니메이션 영화 트랜스포머 원 줄거리 내용, 그리고 해외 평점과 반응 알아보겠습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>총 두개의 포스팅으로 2번째 포스팅에서는 로튼 토마토 평론가 후기를 알아보며 트랜스포머 원 예매할지 말지 정해드리도록 하겠습니다.</p><p>사이버트론 행성의 운명을 건 전쟁이 시작되려 한다. 변신 능력이 없는 하급 로봇 오라이온 팩스와 D-16은 사이버트론 행성의 지하 광산에서 일하면서 한 번도 가보지 못한 지상 세계를 꿈꾸고 있었다. 그러던 중 쾌활한 수다쟁이 B-127과 카리스마 넘치는 엘리타 원과 함께 출입이 금지된 지상으로 향하게 된다.</p>" },
-    { type: 'image', src: "/images/post290_thumb.svg", alt: "트랜스포머 원 예매할까 말까 줄거리 내용 | 해외 평점 반응 애니메이션 영화 순위 개봉예정작", caption: "트랜스포머 원 예매할까 말까 줄거리 내용 | 해외 평점 반응 애니메이션 영화 순위 개봉예정작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p>지상에서 그들은 오랫동안 잠들어 있던 알파 트라이온을 만나고, 그의 도움으로 자신들 안에 잠재되어 있던 변신 능력을 얻게 된다. 막강한 힘과 함께 변신의 자유를 느끼지만, 이내 자신들의 행성을 지배하는 거대한 배후의 존재를 알게 되며 모든 것을 바꿀 전쟁을 시작하게 된다.</p>" },
@@ -26,7 +25,7 @@ const post = {
     { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'cta', href: "/animation-movie-overseas-rating-review/", text: "일본 애니메이션 영화 룩백 예매할만 할까? 제목 뜻 해외 현지 평점 후기" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드리며 포스팅 마칩니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

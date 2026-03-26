@@ -2,7 +2,6 @@ const post = {
   id: 470,
   sections: [
     { type: 'intro', html: "<p style=&quot;color: inherit; text-align: left;&quot;>드라마 <b><span style=&quot;background-color: #f3c000; color: inherit;&quot;>고려거란전쟁이 <span style=&quot;text-align: left;&quot;>KBS2 연말시상식을 </span></span></b><span style=&quot;color: inherit; text-align: start;&quot;><b><span style=&quot;background-color: #f3c000;&quot;>싹슬이</span></b>하였습니다.</span></p><p style=&quot;color: inherit; text-align: left;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>작가상의 이정우작가님, 조연상에 이원종배우님</span></b></p><p style=&quot;color: inherit; text-align: left;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>인기상에 지승현배우님, </span><span style=&quot;color: inherit; text-align: start;&quot;>베스트 커플상에 김동준배우님 최수종배우님 </span></b></p>" },
-    { type: 'image', src: "/images/post470_thumb.svg", alt: "[고려거란전쟁 중국 반응 및 해외 평점 시청률 몇부작 종영일] 몰래보는 중국의 비아냥? - 넷플릭스 현재 상영작 재방송 다시보기 편성표 정보", caption: "[고려거란전쟁 중국 반응 및 해외 평점 시청률 몇부작 종영일] 몰래보는 중국의 비아냥? - 넷플릭스 현재 상영작 재방송 다시보기 편성표 정보" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: left;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>우수상에 지승현 배우님, 최우수상에 김동준 배우님 </span></b></p>" },
@@ -64,7 +63,7 @@ const post = {
     { type: 'image', src: "/images/post470_img1.jpg", alt: "[고려거란전쟁 중국 반응 및 해외 평점 시청률 몇부작 종영일] 몰래보는 중국의 비아냥? - 넷플릭스 현재 상영작 재방송 다시보기 편성표 정보", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "https://search.daum.net/search?w=tot&DA=YZR&t__nil_searchbox=btn&sug=&sugo=&sq=&o=&q=%EA%B3%A0%EB%A0%A4%EA%B1%B0%EB%9E%80%EC%A0%84%EC%9F%81+%EC%9E%AC%EB%B0%A9%EC%86%A1", text: "고려거란전쟁 재방송 – Daum 검색" },
     { type: 'ending', html: "<p style=&quot;text-align: left;&quot;>감사합니다.</p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

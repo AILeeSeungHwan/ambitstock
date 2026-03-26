@@ -2,7 +2,6 @@ const post = {
   id: 245,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 스마일이 2편으로 돌아왔습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>올해도 많은 공포영화들이 개봉하였지만 생각보다 좋은 성적을 낸 작품은 없습니다. 작품성도 딱히 볼만한 영화는 나오지 않아서 아쉬운 부분이 없지 않아 있기에, 이번 늦여름(?)에 개봉하는 공포 영화 스마일 2에 대한 기대가 공포영화 팬분들에게는 클 것으로 예상합니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>그렇다면 어떠한 점이 영화 스마일을 기대하게 만드는지, 전작의 평점과 결말후기반응을 통해 알아보도록 하겠습니다.</p>" },
-    { type: 'image', src: "/images/post245_thumb.svg", alt: "영화 스마일 왜 인기 순위 상위 기대작인가? 전작의 평가를 보면 답이 있다. 1편 로튼토마토 평점 결말 후기", caption: "영화 스마일 왜 인기 순위 상위 기대작인가? 전작의 평가를 보면 답이 있다. 1편 로튼토마토 평점 결말 후기" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>영화 스마일 로튼토마토 평론가 평점입니다.</b></span></p>" },
@@ -38,7 +37,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

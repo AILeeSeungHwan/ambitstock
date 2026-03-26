@@ -2,7 +2,6 @@ const post = {
   id: 214,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>아케인 시즌 2가 전 시즌에 이어 압도적인 평점으로 공개되었습니다.</b></span></p><p style=&quot;color: inherit; text-align: start;&quot;>아마 많은 분들이 기다리던 넷플릭스 시리즈라 한다면 롤 시네마틱 시리즈인 아케인일 것입니다.</p><p style=&quot;color: inherit; text-align: start;&quot;>애니메이션임에도 불구하고 그 작품성과 연출, 시리즈 내내 보여주는 화려한 전투씬과 그 색감은 롤을 모르더라도 보신 분들이라면 빠져들 수 밖에 없는 매력을 보여주었습니다.</p>" },
-    { type: 'image', src: "/images/post214_thumb.svg", alt: "아케인 시즌 2 볼까 말까? 압도적 평론가 평점 넷플릭스 추천 순위", caption: "아케인 시즌 2 볼까 말까? 압도적 평론가 평점 넷플릭스 추천 순위" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>이번 포스팅에서 아케인 시즌 2의 로튼 토마토 평점과 평론가 후기를 함께 알아보도록 하겠습니다.</p>" },
@@ -39,7 +38,7 @@ const post = {
     { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 130,
   sections: [
     { type: 'intro', html: "<p>2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5</p>" },
-    { type: 'image', src: "/images/post130_thumb.svg", alt: "2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5", caption: "2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "2025년 1월 개봉 예정 한국 영화 기대작 총정리 TOP 5", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -78,7 +77,7 @@ const post = {
     { type: 'cta', href: "/netflix-movie-recommend-release-upcoming-guide/", text: "2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!" },
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

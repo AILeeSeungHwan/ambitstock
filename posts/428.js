@@ -2,7 +2,6 @@ const post = {
   id: 428,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>콰이어트 플레이스 3편인 콰이어트 플레이스: 첫째날 ( A Quiet Place: Day One ) 개봉이 얼마 남지 않았습니다. </span></p><p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b><span style=&quot;background-color: #f3c000;&quot;>2024년 6월 26일 개봉 예정</span></b>인 콰이어트 플레이스를 보기전, 시리즈 1편, 2편에 대한 정보와 각 영화의 해외 평론가 평점과 리뷰, 그리고 흥행수익까지 모든 것을 알아보는 시리즈를 준비했습니다. 그럼 콰이어트 플레이스 시리즈 1편 시작하겠습니다.</span></p><blockquote style=&quot;background-color: #fcfcfc; text-align: left;&quot;> <h2 style=&quot;color: inherit;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>목 차<br/></b></span></h2> <ul style=&quot;list-style-type: circle;&quot;> <li><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><span style=&quot;caret-color: #456771;&quot;><b>영화의 기본정보와 줄거리</b></span></span></li> <li><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>주요 등장인물 및 배우</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>제작정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>콰이어트 플레이스 1편 결말</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>쿠키 및 후속작 정보</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>영화의 주요 포인트</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>마무리하며</b></span></li> <li style=&quot;color: #666666;&quot;><span style=&quot;color: #456771; font-family: 'Noto Serif KR';&quot;><b>콰이어트 플레이스 1편 OTT 다시보기 정보 </b></span></li> </ul> </blockquote>" },
-    { type: 'image', src: "/images/post428_thumb.svg", alt: "[시리즈 개봉 전 볼만한 영화 추천] 콰이어트 플레이스 재밌나요?", caption: "[시리즈 개봉 전 볼만한 영화 추천] 콰이어트 플레이스 재밌나요?" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "영화의 기본정보와 줄거리", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -50,7 +49,7 @@ const post = {
     { type: 'image', src: "/images/post428_img5.jpg", alt: "영화 콰이어트 플레이스 등장인물", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post428_img3.jpg", alt: "영화 콰이어트 플레이스 등장인물", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>다음 시리즈에서는 콰이어트 플레이스 1편 해외 평론가 평점과 반응, 리뷰를 살펴보도록 하겠습니다.</span></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

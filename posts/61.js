@@ -2,7 +2,6 @@ const post = {
   id: 61,
   sections: [
     { type: 'intro', html: "<p>넷플릭스는 이제 많은 사람들에게 ‘생활 구독료’에 가까운 존재가 되었어요. 그런데 매달 13,500원(스탠다드)이나 17,000원(프리미엄)을 꾸준히 내다 보면, 연간 20만 원이 훌쩍 넘는 비용이 부담스럽게 느껴질 수 있습니다.</p><p>그래서 요즘은 “어떻게 하면 넷플릭스를 조금이라도 저렴하게 쓸 수 있을까?”를 고민하는 분들이 많습니다.</p><p>실제로 주변에서도 통신사 결합 상품을 이용하거나, 카드 캐시백을 챙기고, 가족 간 계정을 나눠 쓰는 방식으로 비용을 크게 줄이고 있더라고요. 저 역시 직접 할인 조합을 적용해보면서 절약 효과를 체감했는데요. 오늘은 2025년 기준으로 넷플릭스를 <b>더 합리적으로 구독하는 방법</b>을 정리해 보겠습니다.</p>" },
-    { type: 'image', src: "/images/post61_thumb.svg", alt: "넷플릭스 요금제 할인 총정리 2025년 - 통신사 카드 혜택", caption: "넷플릭스 요금제 할인 총정리 2025년 - 통신사 카드 혜택" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'h2', id: "section1", text: "넷플릭스 할인받는 방법 (2025)", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
@@ -31,7 +30,7 @@ const post = {
     { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'cta', href: "/netflix-movie-recommend-masterpiece-top-10/", text: "넷플릭스 영화 추천 TOP 10｜꼭 봐야 할 최고의 명작 모음 (2025 최신)" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -2,7 +2,6 @@ const post = {
   id: 242,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 탈출 : 프로젝트 사일런스 결말후기 반응 관람평 리뷰입니다.</b></span></p><p>2024년 10월 16일 넷플릭스에 공개되었지만 극장에서 좋지 못한 평가를 받은 이 영화, 어떤 점이 문제였을지 그리고 볼만한 영화인지, 해외 평론가들의 후기를 바탕으로 상세하게 살펴보도록 하겠습니다.</p><p>이전 포스팅을 통해서 탈출 : 프로젝트 사일런스의 해외 국내 평점, 관객수와 손익분기점 등을 확인하실 수 있습니다.</p>" },
-    { type: 'image', src: "/images/post242_thumb.svg", alt: "넷플릭스 공개 탈출 : 프로젝트 사일런스 결말후기 반응 관람평 리뷰 | 이 영화는 무엇이 잘 못 되었나", caption: "넷플릭스 공개 탈출 : 프로젝트 사일런스 결말후기 반응 관람평 리뷰 | 이 영화는 무엇이 잘 못 되었나" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><b>탈출 : 프로젝트 사일런스에 대한 로튼 토마토 평론가 결말후기 관람평 리뷰입니다.</b></p>" },
@@ -38,7 +37,7 @@ const post = {
     { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

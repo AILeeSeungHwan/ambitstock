@@ -2,7 +2,6 @@ const post = {
   id: 292,
   sections: [
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>기다리고 기다리던 봉준호 감독의 영화 미키 17 개봉일이 확정되었습니다.</b></span></p><p>2024년 09월 17일 비공개 시사회가 이루어졌고, 평론가들의 반응은 압도적으로 긍정적인 시사회 후기가 이어지고 있습니다.</p><p>과연 어떠한 작품이 탄생하였을지, 이번에도 우리에게 또 한번의 대작을 선물해 줄 것인지,</p>" },
-    { type: 'image', src: "/images/post292_thumb.svg", alt: "미키 17 시사회 평론가 후기반응 예고편 드디어 개봉일 확정 ! 봉준호 영화 추천 개봉예정작", caption: "미키 17 시사회 평론가 후기반응 예고편 드디어 개봉일 확정 ! 봉준호 영화 추천 개봉예정작" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><span style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>아마 한국에서 가장 빠른 미키 17 시사회 후기 포스팅이라 감히 예상해보며</b></span>,<span> </span></span>압도적 기대작 미키 17 시사회 후기반응 살펴보겠습니다.</p>" },
@@ -24,7 +23,7 @@ const post = {
     { type: 'image', src: "/images/post292_img1.jpg", alt: "영화 미키 17", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/plot-analysis-movie-release-upcoming/", text: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
     { type: 'ending', html: "<p><b>2025년 1월 큰 작품 옵니다.</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

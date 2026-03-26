@@ -5,12 +5,6 @@ const post = {
       type: 'intro',
       html: '<p><b>2025년 넷플릭스 한국영화 기대작이었던 영화 계시록 (영어제목 : Revelations)의 모든 정보를 정리하였습니다.</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 계시록의 줄거리, 영어제목 뜻과 해외 평점 후기를 알아보고 볼만한 작품인지</b></span> 판단할 수 있도록 도와드리겠습니다.</p><div><center><a href=&quot;https://www.netflix.com/browse?jbv=81747556&quot; title=&quot;영화 계시록 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 바로 보러 가기👉</button></a></center></div>'
     },
-    {
-      type: 'image',
-      src: '/images/post89_thumb.svg',
-      alt: '계시록 결말 후기 해외 평점 반응 <류준열 신현빈 주연 넷플릭스 영화>',
-      caption: '계시록 결말 후기 해외 평점 반응 <류준열 신현빈 주연 넷플릭스 영화>'
-    },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -174,7 +168,7 @@ const post = {
       type: 'ending',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>James Marsh - 2/5</span></i><br/>&quot;연상호는 현실적인 분위기를 연출하려 했지만, 결국 개연성이 부족한 이야기 전개로 인해 실패하고 말았다.&quot;</p>'
     },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

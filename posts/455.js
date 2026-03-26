@@ -2,7 +2,6 @@ const post = {
   id: 455,
   sections: [
     { type: 'intro', html: "<p>넷플릭스 인생 영화 추천</p><p>영화 위플래쉬 리뷰 2부 시작합니다.</p><p style=&quot;text-align: center;&quot;><span style=&quot;color: #777777; text-align: center;&quot;>위플래쉬 결말에 대한 논쟁이 궁금하시다면, </span></p>" },
-    { type: 'image', src: "/images/post455_thumb.svg", alt: "[이 정도면 정말 잘한 걸까? The One Thing을 향해] 영화 위플래쉬 리뷰 2부 넷플릭스 인생 영화 추천", caption: "[이 정도면 정말 잘한 걸까? The One Thing을 향해] 영화 위플래쉬 리뷰 2부 넷플릭스 인생 영화 추천" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #777777; text-align: center;&quot;>상단 리뷰 1부 이미지링크를 통해 확인할 수 있습니다.</span></p>" },
@@ -27,7 +26,7 @@ const post = {
     { type: 'image', src: "/images/post455_img3.jpg", alt: "영화 위플래쉬 앤드류", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post455_img1.jpg", alt: "영화 위플래쉬 결말 리뷰 1부", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: center;&quot;><b>영화 위플래쉬 해외 반응 및 평점 리뷰가 궁금하다면</b></p>" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 
