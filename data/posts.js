@@ -1,5 +1,16 @@
 const posts = [
   {
+    id: 585,
+    slug: 'wuthering-heights-2026-ending-explained-fennell',
+    title: '폭풍의 언덕 결말 해석 — 에메랄드 페넬이 원작을 뒤집은 이유, 유산·엇갈림·어린 시절 회귀의 의미',
+    description: '폭풍의 언덕 2026 결말 해석. 에메랄드 페넬 감독이 원작의 2세대를 잘라낸 이유, 캐서린 유산과 히스클리프 지각의 의미, 마지막 어린 시절 장면의 두 가지 해석. 로튼토마토 57%, IMDB 6.2 평가 분석.',
+    category: '영화추천',
+    date: '2026-03-26',
+    tags: ['폭풍의언덕', '결말해석', '에메랄드페넬', '마고로비', '제이콥엘로디', '원작비교', '2026영화', '로맨스'],
+    thumbnail: '/images/post585_thumb.svg',
+    relatedSlugs: ['shawshank-redemption-4k-rerelease-2026-theater-guide', 'spring-2026-theater-movie-top5-must-watch', 'project-hail-mary-qa-interpretation-guide-2026', 'king-and-man-ending-meaning-danjong-eomheungdo-2026']
+  },
+  {
     id: 584,
     slug: 'king-and-man-alltime-3rd-revenue-record-myeongryang-chase-2026',
     title: '왕과 사는 남자 역대 흥행 3위 · 매출 1위 등극 — 1,500만 돌파, 명량 넘을 수 있을까',
