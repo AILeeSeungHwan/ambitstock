@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 587,
+    slug: 'peaky-blinders-immortal-man-ending-explained-tommy-death-2026',
+    title: '피키 블라인더스: 불멸의 남자 결말 해석 — 토미 셸비는 왜 아들에게 자신을 쏘라고 했나',
+    description: '피키 블라인더스 불멸의 남자 결말 해석. 토미 셸비의 자기 결정적 죽음, 듀크의 권력 승계, 집시 장례식의 의미. 로튼토마토 91%, 넷플릭스 글로벌 1위 영화의 세 가지 결말 해석.',
+    category: '영화추천',
+    date: '2026-03-26',
+    tags: ['트렌드', '피키블라인더스', '불멸의남자', '결말해석', '킬리언머피', '넷플릭스', '배리키오건', '토미셸비'],
+    thumbnail: '/images/post587_thumb.svg',
+    relatedSlugs: [
+      'peaky-blinders-series-guide-watch-order-2026',
+      'peaky-blinders-immortal-man-overseas-reaction-rt92',
+      'peaky-blinders-immortal-man-netflix-march-2026'
+    ],
+    contentType: '해석',
+    platform: '넷플릭스',
+    spoilerLevel: 'heavy'
+  },
+  {
     id: 586,
     slug: 'undertone-a24-ending-explained-abyzou-horror-2026',
     title: '언더톤 결말 해석 — A24 호러가 아무것도 보여주지 않은 이유, 아비주·에비·마지막 녹음의 세 가지 해석',
