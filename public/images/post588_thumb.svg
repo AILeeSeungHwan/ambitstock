@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#b71c1c"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" font-family="sans-serif" font-size="72" font-weight="bold" fill="#ffffff">소년의 시간</text>
+  <text x="600" y="300" text-anchor="middle" font-family="sans-serif" font-size="48" fill="#ffcdd2">Adolescence 해외반응</text>
+  <text x="600" y="380" text-anchor="middle" font-family="sans-serif" font-size="36" fill="#ef9a9a">RT 100% · 에미상 9관왕 · 145M 시청</text>
+  <text x="600" y="460" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#ffffff" opacity="0.7">넷플릭스 역대 리미티드 시리즈 1위</text>
+  <text x="600" y="570" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#ffffff" opacity="0.5">ambitstock.com</text>
+</svg>

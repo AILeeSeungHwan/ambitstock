@@ -1,5 +1,22 @@
 const posts = [
   {
+    id: 588,
+    slug: 'adolescence-netflix-overseas-reaction-rt100-emmy-2026',
+    title: '소년의 시간 해외반응 총정리 — RT 100%, 에미상 9관왕, 넷플릭스 145M 시청의 비밀',
+    description: '넷플릭스 소년의 시간(Adolescence) 해외반응 정리. 로튼토마토 100%, IMDB 8.1, 에미상 9관왕, 골든글로브 4관왕. 원테이크 촬영 기법, 레딧 논쟁, 93개국 TOP 10 동시 진입 기록 분석.',
+    category: '해외반응후기',
+    date: '2026-03-26',
+    tags: ['해외 반응', '소년의시간', 'Adolescence', '넷플릭스', '에미상', '로튼토마토', '원테이크', '스티븐그레이엄'],
+    thumbnail: '/images/post588_thumb.svg',
+    relatedSlugs: [
+      'netflix-movie-recommend-2026-march',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex'
+    ],
+    contentType: '해외반응',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 587,
     slug: 'peaky-blinders-immortal-man-ending-explained-tommy-death-2026',
     title: '피키 블라인더스: 불멸의 남자 결말 해석 — 토미 셸비는 왜 아들에게 자신을 쏘라고 했나',
