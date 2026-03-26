@@ -6,6 +6,7 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p style=&quot;text-align: start;&quot;><b><span style=&quot;color: inherit; background-color: #f3c000;&quot;>봉준호 시리즈 첫번째 영화는 &lt;기생충&gt;입니다.</span></b></p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b><span style=&quot;color: #666666;&quot;>봉준호 시리즈 2탄 영화 괴물 해외 평점 반응 바로보기 </span></b></p>" },
+    { type: 'h2', id: 'section1', text: '로튼토마토 99% — 탑 평론가들의 극찬, 봉준호의 정점', gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)' },
     { type: 'body', html: "<p><figure><figcaption>로튼 토마토 영화 기생충 평점</figcaption> </figure> </p>" },
     { type: 'body', html: "<p style=&quot;text-align: left;&quot;>압도적인 평점의 기생충 로튼 토마토 지수입니다. 설명이 필요 없는 Top Critics ( 탑 비평가 ) 리뷰 확인해 보겠습니다.</p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #953b34;&quot;><b><i><span style=&quot;background-color: transparent; text-align: start;&quot;>봉준호의 전성기</span></i></b></span></p>" },
@@ -20,6 +21,7 @@ const post = {
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: inherit;&quot;><b><i><span style=&quot;background-color: transparent; text-align: start;&quot;>'기생충'은 당신에게 달라붙어 놓지 않는다.</span></i></b></span></p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #953b34;&quot;><b><i><span style=&quot;background-color: transparent; text-align: start;&quot;>현대 한국에서 계급 제도가 무엇을 의미하는지 꾸준히 다루어 온 봉준호는 </span></i></b></span></p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b><span style=&quot;color: #953b34;&quot;><i><span style=&quot;background-color: transparent; text-align: start;&quot;>마침내 그의 신작 &lt;기생충&gt;으로 정점에 이르렀다.</span></i></span></b></p>" },
+    { type: 'h2', id: 'section2', text: 'IMDB 평점 8.5 — 전 세계 관객이 인정한 계급 드라마', gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)' },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #1a5490;&quot;><b>평점 8.5/10</b></span></p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>무려 917,000명의 평가받았고, 10점 만점에 8.5점을 기록하였습니다. (외계+인 1부 평점 표본수는 4,600명)</p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: center;&quot;><b> 영화 &lt;기생충&gt; 관객 평점분포 &lt;데이터 표본 917,000명&gt;</b></p>" },
@@ -31,10 +33,10 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>잘 쓰인 각본과 훌륭한 연기, 또한 기술적으로도 빛나는 영화 촬영법과 BGM이 너무 좋고, 렉 하나 없이 완벽하게 편집되었습니다.<span> </span>아마도 최근 최고의 경험이 아닐까 싶습니다.<span> </span>그 순수한 예술은 현대사회를 닮아서 그들이 숨겨왔던 감정은 매우 뛰어난 다층적 걸작입니다.<span> </span>어두운 스릴러를 좋아한다면 봉준호 감독의 &lt;기생충&gt;을 놓치지 마세요.<span> </span>2019년 최고의 영화 목록에서 확실히 1위를 차지했습니다.</p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: #781b33;&quot;><i>(grows on you는 직역하면 너에게서 성장하다. 의역하면 시간이 갈수록 / 볼수록 매력 있는, 볼매로 해석되어집니다.) </i></span></p>" },
     { type: 'image', src: "/images/post468_img6.jpg", alt: "영화 기생충 평점분포", caption: "ⓒ R의 필름공장" },
-    { type: 'image', src: "/images/post468_img5.jpg", alt: "IMDB 영화 기생충 평점", caption: "ⓒ R의 필름공장" },
-    { type: 'image', src: "/images/post468_img4.jpg", alt: "영화 기생충 포스터", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post468_img3.jpg", alt: "영화 기생충 포스터", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post468_img1.jpg", alt: "봉준호 시리즈 2탄 영화 괴물 해외 평점 반응 바로보기", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post468_img4.jpg", alt: "영화 기생충 포스터", caption: "ⓒ R의 필름공장" },
+    { type: 'image', src: "/images/post468_img5.jpg", alt: "IMDB 영화 기생충 평점", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p>이상으로 봉준호 시리즈 1탄 기생충에 대한 해외 평점 및 반응 마치며, 2탄 영화 괴물로 찾아오겠습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

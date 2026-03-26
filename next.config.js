@@ -2,6 +2,11 @@
 module.exports = {
   trailingSlash: true,
   reactStrictMode: true,
+  async rewrites() {
+    return [
+      { source: '/sitemap.xml', destination: '/api/sitemap' },
+    ]
+  },
   async redirects() {
     return [
       // 모바일 entry URL → 데스크탑 entry URL
