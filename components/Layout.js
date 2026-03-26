@@ -662,8 +662,8 @@ export default function Layout({ children, title, description, onCategoryChange 
 
   const t = THEMES[themeIdx] || THEMES[0]
   const f = FONTS[fontIdx] || FONTS[0]
-  const pageTitle = title ? title + ' | R의 필름공장' : 'R의 필름공장 — 영화·드라마·애니메이션 추천 리뷰'
-  const pageDesc = description || '영화 추천, 드라마 리뷰, 마블 해석, 해외 반응, 애니메이션 추천 등 콘텐츠 큐레이션.'
+  const pageTitle = title ? title + ' | R의 필름공장' : 'R의 필름공장 — 영화 추천·결말 해석·해외반응 허브'
+  const pageDesc = description || '영화 추천, 결말 해석, 해외반응, 드라마·애니·마블 정보를 한곳에서. 589편+ 작품 가이드.'
   const currentCat = CATEGORIES.find(c => c.slug === selectedCat) || CATEGORIES[0]
 
   return (
@@ -705,7 +705,10 @@ export default function Layout({ children, title, description, onCategoryChange 
                 letterSpacing: '-0.5px', display: 'flex', alignItems: 'center', gap: 8,
               }}>
                 <img src="/favicon.svg" alt="R" style={{ width: 28, height: 28, borderRadius: 6 }} />
-                <span>R의 필름공장</span>
+                <div style={{ display: 'flex', flexDirection: 'column' }}>
+                  <span>R의 필름공장</span>
+                  <span style={{ fontSize: 9, fontWeight: 500, opacity: 0.45, letterSpacing: '0.05em', color: t.text }}>영화 · 드라마 · 애니 가이드</span>
+                </div>
               </a>
 
               {/* 카테고리 드롭다운 버튼 */}

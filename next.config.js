@@ -24,6 +24,9 @@ module.exports = {
       { source: '/m/category/:path*', destination: '/', permanent: true },
       { source: '/m/category', destination: '/', permanent: true },
       { source: '/archive/:path*', destination: '/', permanent: true },
+
+      // Fallback: /entry/ URLs without matching tistorySlug → home
+      { source: '/entry/:path*', destination: '/', permanent: false },
     ]
   },
 }

@@ -1,4 +1,5 @@
 const getPostUrl = require('../lib/getPostUrl')
+const ContentTypeBadge = require('./ContentTypeBadge')
 
 const CATEGORY_COLORS = {
   '영화추천': { bg: '#e3f2fd', text: '#1565c0', icon: '🎬' },
@@ -68,11 +69,13 @@ export function FeaturedCard({ post }) {
           padding: '32px 28px',
           display: 'flex', flexDirection: 'column', justifyContent: 'center',
         }}>
-          <span style={{
-            display: 'inline-block', background: cat.bg, color: cat.text,
-            fontSize: 11, fontWeight: 700, padding: '3px 10px', borderRadius: 4,
-            marginBottom: 14, alignSelf: 'flex-start',
-          }}>{post.category}</span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 14 }}>
+            <span style={{
+              display: 'inline-block', background: cat.bg, color: cat.text,
+              fontSize: 11, fontWeight: 700, padding: '3px 10px', borderRadius: 4,
+            }}>{post.category}</span>
+            {post.contentType && <ContentTypeBadge type={post.contentType} size="medium" />}
+          </div>
           <h2 style={{
             fontSize: 22, fontWeight: 800, lineHeight: 1.35, margin: '0 0 12px',
             display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden',
@@ -115,11 +118,12 @@ export function ListCard({ post }) {
       }}>
         {/* 텍스트 */}
         <div style={{ flex: 1, minWidth: 0, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 8, flexWrap: 'wrap' }}>
             <span style={{
               fontSize: 11, fontWeight: 700, padding: '2px 8px', borderRadius: 3,
               background: cat.bg, color: cat.text,
             }}>{post.category}</span>
+            {post.contentType && <ContentTypeBadge type={post.contentType} />}
             <time style={{ fontSize: 11, opacity: 0.35 }}>{formatDate(post.date)}</time>
           </div>
           <h3 style={{
@@ -188,11 +192,13 @@ export default function PostCard({ post }) {
           padding: '14px 16px', flex: 1,
           display: 'flex', flexDirection: 'column', minHeight: 120,
         }}>
-          <span style={{
-            display: 'inline-block', background: cat.bg, color: cat.text,
-            fontSize: 10, fontWeight: 700, padding: '2px 7px', borderRadius: 4,
-            marginBottom: 8, alignSelf: 'flex-start',
-          }}>{post.category}</span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 4, marginBottom: 8 }}>
+            <span style={{
+              display: 'inline-block', background: cat.bg, color: cat.text,
+              fontSize: 10, fontWeight: 700, padding: '2px 7px', borderRadius: 4,
+            }}>{post.category}</span>
+            {post.contentType && <ContentTypeBadge type={post.contentType} />}
+          </div>
           <h3 style={{
             fontSize: 14, fontWeight: 700, lineHeight: 1.4, margin: '0 0 6px',
             display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden',
