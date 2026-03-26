@@ -14,9 +14,6 @@ const post = {
     { type: 'body', html: "<p><b>9/10</b><br/>멜버른에서 열린 호주 일본 영화제에서 스트리밍으로 시청하였다. 세 명의 고등학생들이 8mm 영화 제작에 흥미를 가지게 되고, 점차 이야기가 전개되는 과정을 단계별로 묘사한 영화였다.</p>" },
     { type: 'body', html: "<p>놀랍게도 이 영화는 독특한 촬영 기법을 사용하여 등장인물들이 더욱 가까워지게 하였고, 영화 제작 분야에서 흔히 저지르는 실수를 배우는 과정을 통해 관객을 몰입시켰다. 10분 길이의 8mm 단편 영화가 교실 안에서 완벽하게 연출된 것은 큰 보너스였다. 큰 장점이라고 할 수 있다.</p>" },
     { type: 'image', src: "/images/post253_img1.jpg", alt: "싱글 에이트 결말 후기 해외반응 관람평 리뷰 | 내가 만드는 인생이란 영화", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

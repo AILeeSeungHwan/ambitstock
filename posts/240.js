@@ -20,10 +20,6 @@ const post = {
     { type: 'image', src: "/images/post240_img3.jpg", alt: "채식주의자", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>원작 소설의 팬들에게는 영화가 기대에 미치지 못할 것이고, 원작을 모르는 사람들에게는 대부분의 내용을 이해하기 어려울 수 있다. 그럼에도 불구하고, 영화는 <span style=&quot;background-color: #f3c000;&quot;><b>소설의 본질을 어느 정도 잘 전달하였으며, 중요한 주제와 감정은 잘 표현되었다.</b></span></span></p>" },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>특히, 배우들의 연기는 훌륭하고 믿을 만했으며 큰 찬사를 받을 만하다. 시각적으로도 세심한 디테일로 각 장면의 본질을 잘 포착하였다.</span></p>" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/horror-movie-recommend-guide/", text: "2024년 공포 영화 추천 인기 순위 총정리 현재상영작" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

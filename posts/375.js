@@ -35,7 +35,6 @@ const post = {
     { type: 'body', html: "<p>곧 만나요,</p>" },
     { type: 'image', src: "/images/post375_img4.jpg", alt: "오징어게임 시즌2", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post375_img5.jpg", alt: "오징어게임 시즌2 평점", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/overseas-reaction-rating-season-netflix-drama-recommend-ott/", text: "[해외 반응 오징어게임 평점 리뷰] 시즌2 전설의 귀환 한류 콘텐츠의 시작 공개일 미정 넷플릭스" },
     { type: 'ending', html: "<p>여러분.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

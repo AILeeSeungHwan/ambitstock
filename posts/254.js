@@ -19,9 +19,6 @@ const post = {
     { type: 'body', html: "<p>영화 '싱글 에이트(영어제목 : Single Eight)'는 어린 시절의 순수함과 성장을 다룬 작품으로, 주인공이 8mm 필름 카메라를 사용하여 자신의 이야기를 기록하는 내용을 담고 있습니다. 영화의 주제는 과거의 추억을 되새기고 그것이 현재와 미래에 미치는 영향에 대해 알아가는 과정을 8mm 필름 카메라에 담아냅니다.</p>" },
     { type: 'body', html: "<p>8mm 카메라는 추억을 보존하는 매개체로, 주인공이 겪는 성장 과정과 변화를 시각적으로 보여주는 도구로 사용됩니다. 영화는 성장과 변화 속에서 잊히지 않는 어린 시절의 의미를 강조하고 있으며, 일상 속에서 발견할 수 있는 작고 소중한 순간들을 재조명합니다.</p>" },
     { type: 'body', html: "<p>다음 포스팅에서는 싱글 에이트의 후기 리뷰 살펴보도록 하겠습니다.</p>" },
-    { type: 'cta', href: "/netflix-recommend-overseas-review-reaction/", text: "넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가" },
-    { type: 'cta', href: "/movie-recommend-vs-one-vs/", text: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -54,9 +54,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: center;&quot;>공개 후 6개월 후 디즈니 플러스에서 시청 가능할 것으로 예상됩니다. </p>" },
     { type: 'body', html: "<p>다음 포스팅에서 <span style=&quot;background-color: #f3c000;&quot;><b>데드풀 2와 데드풀 3- 데드풀과 울버린 평점 및 후기</b></span>로 찾아오겠습니다.</p>" },
     { type: 'cta', href: "/", text: "영화 데드풀과 울버린 해외 시사회 반응 평가 평점 후기 | 마블 현재 상영작 추천 로튼 토마토 신" },
-    { type: 'cta', href: "/overseas-movie-release-guide/", text: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리" },
-    { type: 'cta', href: "/new-release-netflix-movie-drama-recommend-top-10/", text: "신작 고민끝! 2024년 넷플릭스 볼만한 영화 애니 드라마 추천 현재 상영작 순위 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-guide-box-office-audience-top20-ott/", text: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위" },
     { type: 'ending', html: "<p>즐겨찾기 구독 후 7월 24일 올라올 데드풀 3 해외 반응과 평점 후기 바로 확인하세요.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

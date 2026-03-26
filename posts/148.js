@@ -49,7 +49,6 @@ const post = {
     { type: 'image', src: "/images/post148_img7.jpg", alt: "보고타: 마지막 기회의 땅 시사회 관람평", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>송중기는 주인공 국희 역을 맡아 가족을 지키기 위해 고군분투하는 모습을 보여주며, 그의 연기력은 영화의 감정을 더욱 풍부하게 만들었습니다. 이번 작품은 송중기의 새로운 연기 도전과 김성제 감독의 뛰어난 연출로 더욱 기대되는 작품이죠.</p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;보고타 마지막 기회의 땅 뜻 해석 개봉&quot;>2024.12.21 - [영화/영화 정보] - 보고타: 마지막 기회의 땅 뜻 해석 개봉 줄거리 정보 &lt; 송중기 주연 개봉예정작 영화 추천 &gt;</a></p>" },
-    { type: 'cta', href: "/analysis-release-plot-upcoming-movie-recommend/", text: "보고타: 마지막 기회의 땅 뜻 해석 개봉 줄거리 정보 < 송중기 주연 개봉예정작 영화 추천 >" },
     { type: 'h2', id: "section8", text: "보고타 예매 할까 말까? 결말", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'body', html: "<p>전반적으로, <i>'보고타: 마지막 기회의 땅'</i>은 송중기의 연기 변신과 김성제 감독의 능숙한 연출 덕분에 큰 기대감을 모은 작품입니다. 영화의 스토리와 배경, 그리고 캐릭터 간의 갈등이 잘 결합되어 관객들에게 깊은 인상을 남기기 좋은 영화입니다.</p>" },
     { type: 'image', src: "/images/post148_img11.jpg", alt: "보고타: 마지막 기회의 땅", caption: "ⓒ R의 필름공장" },
@@ -61,10 +60,6 @@ const post = {
     { type: 'body', html: "<p>개봉 후 평론가와 관객 해외반응 등 후기 리뷰로 찾아오겠습니다.</p>" },
     { type: 'h2', id: "section9", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
-    { type: 'cta', href: "/plot-analysis-movie-release-upcoming/", text: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

@@ -28,10 +28,6 @@ const post = {
     { type: 'body', html: "<p>저자는 팬으로서 이러한 콘텐츠에 대한 관심은 있지만, 넷플릭스가 다른 쇼의 컨셉을 이렇게 노골적으로 훔치는 것은 옳지 않다고 판단하여 평점을 주지 않았습니다. 일부 차이점이 있더라도, 그 차이점들은 중요하지 않으며, 이 프로그램은 단순히 &quot;마스터셰프&quot;의 복사판일 뿐이라는 결론을 내렸습니다.</p>" },
     { type: 'body', html: "<p>전체적으로 흑백요리사에 대한 불만이 가득한 리뷰를 남겼습니다. 결국 마스터셰프를 따라했다는 이유가 평점 1점을 남긴 이유가 되겠습니다. 추가로 원하시는 컨텐츠나 작품들이 있다면 댓글로 남겨주시길 바랍니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'cta', href: "/netflix-recommend-overseas-review-reaction/", text: "넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가" },
-    { type: 'cta', href: "/netflix-인기-순위/", text: "넷플릭스 인기 순위 더 인플루언서 과즙세연 오킹 근황 이슈논란 속 1위 유지" },
-    { type: 'cta', href: "/netflix-pd-신인가수-조정석/", text: "신인가수 조정석 넷플릭스 출연진 PD 공개정보" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 컨텐츠를 소개드립니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

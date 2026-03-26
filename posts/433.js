@@ -96,8 +96,6 @@ const post = {
     { type: 'image', src: "/images/post433_img8.jpg", alt: "영화 한국이 싫어서 포스터", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post433_img9.jpg", alt: "영화 행복의 나라 포스터", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post433_img10.jpg", alt: "영화 크로스 포스터", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/movie-rating-북한-도발-오물/", text: "북한 도발? 오물 풍선? 비행기 납치실화 | 영화 하이재킹 정보와 평점 및 평가 현재 상영작" },
-    { type: 'cta', href: "/overseas-movie-release-guide/", text: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리" },
     { type: 'ending', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;하반기 해외 블록버스터 영화 추천&quot;>2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리</a></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

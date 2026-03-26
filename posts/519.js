@@ -83,11 +83,6 @@ const post = {
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
-      type: 'cta',
-      href: '/netflix-tving-coupangplay-ott-comparison-2026/',
-      text: '넷플릭스 vs 티빙 vs 쿠팡플레이 콘텐츠 비교 보기'
-    },
-    {
       type: 'ending',
       html: '<p>2026년 OTT 시장은 광고요금제를 중심으로 재편되고 있다. 넷플릭스는 가격을 올렸고, 쿠팡은 무료로 풀었고, 티빙과 웨이브는 합치기 시작했다. 이 흐름에서 중요한 건 &laquo;어디에 내 콘텐츠가 있느냐&raquo;다. 요금이 아무리 싸도 보고 싶은 게 없으면 의미가 없다.</p><p>관련 글도 함께 확인해 보자.</p><ul><li><a href="/netflix-subscription-plans-2026/">넷플릭스 요금제 비교 2026 총정리</a></li><li><a href="/ott-subscription-cost-comparison-2026/">OTT 구독 요금 비교 2026 최저가 꿀팁</a></li><li><a href="/netflix-tving-coupangplay-ott-comparison-2026/">넷플릭스 vs 티빙 vs 쿠팡플레이 OTT 비교 2026</a></li></ul>'
     },

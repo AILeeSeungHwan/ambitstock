@@ -55,9 +55,6 @@ const post = {
     { type: 'body', html: "<p><figure><figcaption>괴수 8호 다시보기 OTT 보는곳</figcaption> </figure> </p>" },
     { type: 'image', src: "/images/post406_img16.jpg", alt: "괴수 8호", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post406_img17.jpg", alt: "괴수 8호 평점 분포", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/season-reaction-overseas-rating-review-guide-ott/", text: "최애의 아이 시즌 2기 일본 현지 반응 해외 평점 리뷰 OTT 다시 보는곳 총정리!" },
-    { type: 'cta', href: "/season-plot-guide/", text: "최애의 아이 시즌 2기 드디어 공개! 원작 줄거리와 성우진 방영일정 총정리" },
-    { type: 'cta', href: "/plot-괴수-호-기/", text: "괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!" },
     { type: 'ending', html: "<p>애니메이션 괴수 8호 다시보기 OTT 보는 곳, <b><span style=&quot;background-color: #f3c000;&quot;>넷플릭스, 디즈니 플러스, 왓챠</span></b>에서 시청가능합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

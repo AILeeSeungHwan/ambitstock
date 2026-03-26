@@ -67,9 +67,6 @@ const post = {
     { type: 'body', html: "<p>완벽한 변장술로 형사들을 크게 뺑이 치게 만든 사기꾼 '김인해'(박성웅), 말보다 주먹이 빠른 분노조절장애 형사 '조수광'(곽시양), 피도 눈물도 없는 보스 '주린팡'(윤경호)까지 제주도에서 운명적으로 조우한다.</p>" },
     { type: 'body', html: "<p> </p>" },
     { type: 'image', src: "/images/post369_img8.jpg", alt: "2024년 8월 개봉 예정작", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/overseas-movie-release-guide/", text: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리" },
-    { type: 'cta', href: "/movie-release-upcoming-guide/", text: "2024년 하반기 한국영화 개봉예정작 라인업 총정리" },
-    { type: 'cta', href: "/netflix-release-upcoming-series-movie-recommend/", text: "2024년-2025년 넷플릭스 공개 예정 영화 오리지널 작품 라인업" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>도망칠 곳 없는 제주에서 이들의 쫓고 쫓기는 대환장 추격이 시작된다!</b></span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

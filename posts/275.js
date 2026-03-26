@@ -37,10 +37,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>당연히 이와 비슷한 것을 본 적이 있을 것이다. 하지만 우리의 믿음직한 영웅은 여전히 멋져 보이며, 몇몇 매끄럽게 전달되는 스릴도 즐길 수 있다.</p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>전체적으로 &quot;스피드&quot;라는 원작 영화를 모방하였다는 평가와 더불어 리암니슨에 대한 연기력은 의심할 여지가 없다는 평가가 지배적입니다.</p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #9feec3;&quot;><b>좋은 작품이라고는 말 할 수 없지만 스릴있는 영화를 즐기시고 싶으신 분들이라면 시청해보셔도 무방할 듯 합니다.</b></span></p>" },
-    { type: 'cta', href: "/review-overseas-rating-reaction-movie-series/", text: "레트리뷰션 뜻과 의미 - 로튼토마토 해외 평점 반응으로 알아보는 볼만한 영화 찾기 시리즈" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

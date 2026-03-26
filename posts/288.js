@@ -32,12 +32,6 @@ const post = {
     { type: 'body', html: "<p>여기까지 최고로 기대되는 개봉예정작들에 대한 포스팅 마무리합니다.</p>" },
     { type: 'body', html: "<p>이외에도 베놈3, 크레이븐 더 헌터, 글레이에이터2 등 블록버스터 작품들이 개봉예정입니다.</p>" },
     { type: 'body', html: "<p>관련 정보는 아래 포스팅을 확인해보시길 바랍니다.</p>" },
-    { type: 'cta', href: "/plot-overseas-rating-reaction-animation-movie-release-upcoming/", text: "트랜스포머 원 예매할까 말까 줄거리 내용 | 해외 평점 반응 애니메이션 영화 순위 개봉예정작" },
-    { type: 'cta', href: "/critic-review-reaction-release-movie-recommend-upcoming/", text: "미키 17 시사회 평론가 후기반응 예고편 드디어 개봉일 확정 ! 봉준호 영화 추천 개봉예정작" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/disney-movie-recommend-upcoming/", text: "인사이드 아웃 2 디즈니 플러스 영화 추천 공개 예정작 드림 프로덕션까지!" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'cta', href: "/plot-series-어벤져스-둠스데이-뜻/", text: "어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

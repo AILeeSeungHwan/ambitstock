@@ -7,9 +7,6 @@ const post = {
     { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
     { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'image', src: "/images/post208_img1.jpg", alt: "글래디에이터 2", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/review-critic-reaction-release-upcoming-movie/", text: "글래디에이터 Ⅱ 2 시사회 후기 평론가 관람평 반응 11월 가장 기대되는 개봉 예정작 영화" },
     { type: 'h2', id: "section2", text: "새로운 영웅, 루시우스의 여정", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'body', html: "<p><i>글래디에이터 Ⅱ</i>는 막시무스의 죽음 이후 약 20여 년이 흐른 고대 로마를 배경으로 한다. 로마는 두 폭군 황제, 게타와 카라칼라가 지배하며 자유의 꿈이 사라진 시대를 맞이한다.</p>" },
     { type: 'image', src: "/images/post208_img2.jpg", alt: "글래디에이터 2", caption: "ⓒ R의 필름공장" },
@@ -40,7 +37,6 @@ const post = {
     { type: 'h2', id: "section7", text: "새로운 전설의 시작", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
     { type: 'body', html: "<p><i>글래디에이터 Ⅱ</i>는 단순히 전작의 명성에 의존하지 않고, 새롭고 신선한 이야기를 통해 로마 제국의 과거와 미래를 잇는 강렬한 서사를 풀어냈다. 루시우스라는 새로운 영웅의 등장과 함께, 영화는 폭압적 권력에 맞서는 자유와 정의의 가치를 다시 한 번 강조한다.</p>" },
     { type: 'image', src: "/images/post208_img7.jpg", alt: "글래디에이터 2", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/rating-review-critic-reaction/", text: "글래디에이터 2 평점 관람평 후기 제목 뜻 의미 | 로튼 토마토 평론가 반응은?" },
     { type: 'ending', html: "<p>전쟁과 싸움, 그리고 내면의 갈등을 넘나드는 루시우스의 여정은 관객들에게 깊은 인상을 남기며, <i>글래디에이터</i>의 세계를 더욱 풍성하게 만들어낸다. 웅장한 스케일, 강력한 액션, 그리고 뛰어난 연기력으로 무장한 <i>글래디에이터 Ⅱ</i>는 전 세계 영화 팬들에게 또 하나의 전설적인 영화를 선사하며, 11월 극장가를 장악하고 있다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -54,10 +54,7 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; font-size: 16px; line-height: 1.8;&quot;>가족 영화이자 동시에 인간의 선함과 나눔의 가치를 일깨우는 감동적인 작품으로, 아카데미 애니메이션상 후보에도 오르며 작품성을 인정받았습니다.</p>" },
     { type: 'h2', id: "section11", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

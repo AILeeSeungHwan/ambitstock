@@ -51,9 +51,6 @@ const post = {
     { type: 'body', html: "<p><b>줄거리 내용</b></p>" },
     { type: 'body', html: "<p>팀 하디는 3부작의 마지막 영화에서 마블의 가장 위대하고 복잠한 캐릭터 중 하나인 베놈(Venom)으로 돌아옵니다. 에디와 베놈은 도망 중입니다. 두 세계 모두에게 사냥당하고 네트워크가 닫히면서, 이 두 사람은 베놈과 에디의 마지막 춤의 막을 내릴 파괴적인 결정을 내려야 합니다.</p>" },
     { type: 'body', html: "<p><b><span style=&quot;color: #1a5490;&quot;>메인 빌런으로 예상되는 우주에서 온 다른 심비오트의 공격과 더불어 인류에게도 공격당하는 에디와 베놈의, 생존이 아닌 죽음을 향한 라스트 댄스가 될 것 입니다.</span></b></p>" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'cta', href: "/disney-marvel-충격적-새로운-캡틴/", text: "충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈" },
-    { type: 'cta', href: "/marvel-disney-series/", text: "[마블 뉴스] 차기 아이언맨은 흑인 여성이다 - 디즈니 플러스 시리즈 아이언 하트 공개 논란 두가" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>다음 포스팅에서 2025년부터 2027년까지 마블 개봉, 공개 예정작을 전해드리겠습니다.</b></span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

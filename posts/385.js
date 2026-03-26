@@ -34,9 +34,6 @@ const post = {
     { type: 'body', html: "<p><b>막상스 빈센트</b></p>" },
     { type: 'image', src: "/images/post385_img12.jpg", alt: "영화 탈주 해외 반응 결말 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post385_img13.jpg", alt: "영화 탈주 해외 반응 결말 후기", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/release-movie-plot-overseas-review-rating-reaction/", text: "영화 탈주 줄거리 완벽 정리 | 등장인물 예고편 | 해외 개봉 소식과 리뷰 평점 반응" },
-    { type: 'cta', href: "/movie-release-upcoming-guide/", text: "2024년 하반기 한국영화 개봉예정작 라인업 총정리" },
-    { type: 'cta', href: "/overseas-movie-release-guide/", text: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리" },
     { type: 'ending', html: "<p><figure><figcaption>영화 탈주 해외 반응 결말 후기</figcaption> </figure> </p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

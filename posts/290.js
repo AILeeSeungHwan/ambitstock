@@ -23,9 +23,6 @@ const post = {
     { type: 'image', src: "/images/post290_img4.jpg", alt: "트랜스포머 원 IMDB 평점", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>다음 포스팅에서 트랜스포머 ONE 평론가 후기를 다루도록하겠습니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'cta', href: "/critic-review-reaction-release-movie-recommend-upcoming/", text: "미키 17 시사회 평론가 후기반응 예고편 드디어 개봉일 확정 ! 봉준호 영화 추천 개봉예정작" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/animation-movie-overseas-rating-review/", text: "일본 애니메이션 영화 룩백 예매할만 할까? 제목 뜻 해외 현지 평점 후기" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드리며 포스팅 마칩니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

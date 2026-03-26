@@ -38,9 +38,6 @@ const post = {
     { type: 'body', html: "<p>오랜만에 볼만한 한국 넷플릭스 영화가 나온 것 같아서 다행이라 생각합니다.</p>" },
     { type: 'body', html: "<p>이후에 해외 반응과 넷플릭스 순위정보 갱신되면 다음 포스팅으로 찾아뵙겠습니다.</p>" },
     { type: 'image', src: "/images/post297_img1.jpg", alt: "넷플릭스 영화 무도실무관", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/overseas-rating-reaction/", text: "현재상영작 순위 1위 베테랑 2 예매할까? 영어 제목 뜻과 해외 평점 로튼 토마토 반응" },
-    { type: 'cta', href: "/recommend-movie-plot-critic-rating-reaction/", text: "현재 상영작 추천 영화 스픽 노 이블 제목 뜻 예매할까 말까 | 스포 포함 줄거리 내용 평론가 평" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

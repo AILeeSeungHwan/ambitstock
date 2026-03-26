@@ -24,10 +24,6 @@ const post = {
     { type: 'image', src: "/images/post268_img3.jpg", alt: "대도시의 사랑법", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post268_img1.jpg", alt: "대도시의 사랑법", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>다음 포스팅에서 대도시의 사랑법 토론토 국제 영화제 시사회 해외 평론가 후기 리뷰 살펴보도록 하겠습니다.</p>" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 쿠키 총정리" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

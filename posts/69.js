@@ -31,11 +31,6 @@ const post = {
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>2025.09.20 - [영화/영화 해외반응후기] - 영화 마이다스 맨: 전설의 시작 관람평 출연진 | 비틀즈 매니저 브라이언 엡스타인 이야기</a></p>'
     },
     {
-      type: 'cta',
-      href: '/movie-review-마이다스-맨/',
-      text: '영화 마이다스 맨: 전설의 시작 관람평 출연진 | 비틀즈 매니저 브라이언 엡스타인 이야기'
-    },
-    {
       type: 'h2',
       id: 'section2',
       text: '비틀즈 실제 타임라인: 핵심 연표',
@@ -135,21 +130,6 @@ const post = {
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-rating-top-9/',
-      text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

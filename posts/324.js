@@ -41,8 +41,6 @@ const post = {
     { type: 'body', html: "<p>베테랑 2 정해인을 마지막으로 포스팅 마칩니다.</p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>곧 개봉할 베테랑 2에서의 정해인의 모습이 기대가 됩니다.</b></span></p>" },
     { type: 'body', html: "<p>베테랑 2의 칸 시사회 후기반응과 베테랑2 정보는 아래 포스팅에서 확인가능합니다.</p>" },
-    { type: 'cta', href: "/release-베테랑-빌런-악역/", text: "베테랑 2 빌런 악역 출연진 개봉일 정보 | 얼굴이 재밌는 정해인 스틸컷 모음 베테랑 3도?" },
-    { type: 'cta', href: "/movie-rating-overseas-review-reaction/", text: "베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

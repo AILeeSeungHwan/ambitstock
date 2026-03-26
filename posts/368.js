@@ -31,8 +31,6 @@ const post = {
     { type: 'body', html: "<p><b>그저 재미로 시청하기에는 모호한 부분이 있을 것으로 예상됩니다.</b></p>" },
     { type: 'body', html: "<p>평점 표본 국가 순위는 이탈리아, 미국, 영국, 브라질, 네덜란드 순입니다.</p>" },
     { type: 'image', src: "/images/post368_img6.jpg", alt: "영화 이오 카피타노 평점", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
-    { type: 'cta', href: "/netflix-movie-recommend-critic-rating/", text: "넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>다음 포스팅에서는 평론가 반응 및 후기 살펴보겠습니다.</b></span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

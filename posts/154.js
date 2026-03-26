@@ -25,26 +25,6 @@ const post = {
     },
     { type: 'image', src: '/images/post154_img1.jpg', alt: '넷플릭스 드라마 트렁크', caption: 'ⓒ R의 필름공장' },
     {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
-    {
-      type: 'cta',
-      href: '/horror-movie-recommend-guide/',
-      text: '2024년 공포 영화 추천 인기 순위 총정리 현재상영작'
-    },
-    {
-      type: 'cta',
-      href: '/plot-analysis-movie-release-upcoming/',
-      text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
-    },
-    {
       type: 'h2',
       id: 'section3',
       text: '트렁크 해외 반응 인기 순위 평점',

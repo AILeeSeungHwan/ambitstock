@@ -47,10 +47,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>여기까지 &lt;어벤져스5 둠스데이 시리즈 5부작 - 3편&gt; 닥터둠의 배경과 행보에 대해 심층적으로 분석하였습니다.</p>" },
     { type: 'image', src: "/images/post360_img7.jpg", alt: "선과 악은 공존한다", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post360_img8.jpg", alt: "어벤져스5 로다주 닥터둠", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/plot-series-어벤져스-둠스데이-뜻/", text: "어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1" },
-    { type: 'cta', href: "/comparison-어벤져스-둠스데이-닥터/", text: "어벤져스5 둠스데이 닥터 둠 타노스 티어 비교 | 그가 빌런이 된 과거배경 -2" },
-    { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;>네번째 포스팅은 <span style=&quot;background-color: #01ff51;&quot;>'<b>닥터 둠의 능력과 마블 원작 코믹스에서 닥터 둠과 전투를 벌인 히어로들'</b></span> 입니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

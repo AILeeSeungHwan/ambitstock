@@ -19,21 +19,6 @@ const post = {
     },
     { type: 'image', src: '/images/post200_img1.jpg', alt: '캐롤', caption: 'ⓒ R의 필름공장' },
     {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-rating-top-9/',
-      text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
-    },
-    {
       type: 'h2',
       id: 'section2',
       text: '1. 주인공 캐롤의 이름',

@@ -47,9 +47,6 @@ const post = {
     { type: 'body', html: "<p>전체적으로 작품성에 치중한 후기이기에, 트럼프라는 정치적인 인물을 배제할 순 없지만 순전히 작품으로 좋은 영화임을 확실히 알 수 있는 관람평이었습니다.</p>" },
     { type: 'cta', href: "/", text: "어프렌티스 The Apprentice 뜻 의미 해석 | 트럼프 일대기 미국 차기 대통령 후보 그는 괴물인가 거인" },
     { type: 'cta', href: "/", text: "영화 어프렌티스 배경 해외 평점 평론가 반응 인기 순위 | 미국 대선 트럼프 전기를 다룬 화제작" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

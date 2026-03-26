@@ -20,11 +20,6 @@ const post = {
     { type: 'body', html: "<p><b>금일 공개 된 경성크리처 시즌 2, 아직 해외 후기 및 반응은 수집되지 않았습니다.</b></p>" },
     { type: 'body', html: "<p>해외 반응 및 일본 현지 반응 확인되는 즉시 다음 포스팅에서 전달드리도록 하겠습니다.</p>" },
     { type: 'body', html: "<p>이전 포스팅을 통해 시즌 1에서의 평점과 해외반응을 참고하세요.</p>" },
-    { type: 'cta', href: "/rating-reaction-overseas-season-upcoming/", text: "[경성크리처 파트2 의도적 평점테러] 배우들의 일본어발음 일본 반응 및 해외 평점 - 시즌2 개봉" },
-    { type: 'cta', href: "/season-review-overseas-rating-reaction/", text: "[한소희를 좋아했지만] 경성크리처 논란 및 해외 반응, 일본 평점 리뷰 넷플릭스 현재 상영작" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

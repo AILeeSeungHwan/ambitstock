@@ -21,10 +21,6 @@ const post = {
     { type: 'body', html: "<p>영화는 두 형사의 잘못된 선택이 어떻게 예기치 못한 결과를 초래하는지 보여주며, 돈에 대한 탐욕과 도덕적 갈등, 그리고 그로 인한 파멸을 그립니다. 명덕과 동혁은 자신들이 계획한 범죄가 점차 통제 불능의 상황으로 치닫게 됩니다.</p>" },
     { type: 'image', src: "/images/post239_img5.jpg", alt: "더러운 돈에 손대지 마라", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>영화에 대한 평가는 대체로 흔한 소재를 흔한 방식으로 풀어 쓴 영화라는 관람평이 지배적입니다. 또한 스토리가 너무나 빈약하여 몰입이 안된다는 평가도 있고요. 하지만 배우진들의 완벽한 연기와 기본에 충실한 전개에 대해 긍정적인 평가도 있습니다.</p>" },
-    { type: 'cta', href: "/review-critic-reaction-movie-release-upcoming/", text: "더러운 돈에 손대지 마라 시사회 후기 평론가 반응 관람평 리뷰 미리보기 개봉예정영화" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p>가볍게 관람할 수 있는 영화 더러운 돈에 손대지 마라 입니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

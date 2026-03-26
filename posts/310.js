@@ -39,7 +39,6 @@ const post = {
     { type: 'body', html: "<p>정리된 후기를 바탕으로 조커 2 예매할지 말지 결정이 되었으면 좋겠습니다.</p>" },
     { type: 'image', src: "/images/post310_img3.jpg", alt: "조커 2 시사회 결말 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post310_img1.jpg", alt: "조커 2 시사회 결말 후기", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/plot-folie-deux/", text: "조커 2 폴리 아 되 제목 뜻 의미 Folie à Deux? 줄거리 내용과 연관관계 심층분석" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

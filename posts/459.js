@@ -23,7 +23,6 @@ const post = {
     { type: 'cta', href: "/", text: "[영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스" },
     { type: 'cta', href: "/", text: "[영화 범죄도시 4 개봉일 출연진 빌런 예고편] 범죄도시 2 해외 평점 및 리뷰 반응 다시보기 - 역" },
     { type: 'cta', href: "/", text: "[영화 파묘 개봉일 및 티저 예고편 해외반응] - 파묘 뜻 등장인물과 포스터 영어제목 Exhuma 뜻 2월" },
-    { type: 'cta', href: "/overseas-rating-reaction-release-upcoming-joker/", text: "[조커2 영화 개봉일 배우 조커 해외평점과 반응] - 배트맨 할리퀸 합류? 개봉 예정작 (영화 조커 OT" },
     { type: 'cta', href: "/", text: "[영화 미키17 개봉일 티저 예고편, 개봉전 전작 기생충 해외 평점 반응] 봉준호 시리즈 1탄 - 기생" },
     { type: 'image', src: "/images/post459_img6.jpg", alt: "IMDB 극한직업 평점", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><a href=&quot;https://ambitstock.com/9&quot; target=&quot;_self&quot;><span><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;color: inherit;&quot;><u><b>미키 17</b></u></span></span></span></a></p>" },

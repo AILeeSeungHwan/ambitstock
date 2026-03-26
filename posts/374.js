@@ -57,9 +57,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>2002년, &lt;볼링 포 콜럼바인&gt;으로 큰 성공을 거둔 마이클 무어 감독은 &lt;화씨 911&gt;을 통해 부시 행정부의 외교정책을 강하게 비판한다.</span></p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>무어는 부시 대통령의 이라크 침공 결정과 그 배경에 있는 사우디 왕가 및 빈 라덴과의 연계를 탐구하며 공개되지 않은 진실을 드러낸다.</span></p>" },
     { type: 'body', html: "<p><b><span style=&quot;background-color: #01ff51; color: inherit; text-align: start;&quot;>영화는 부시 행정부가 전쟁에 막대한 자원을 투입하는 동안, 미국 본토에서는 방어 부족과 인권 침해가 심각해진 상황을 대비시킨다.</span></b></p>" },
-    { type: 'cta', href: "/netflix-movie-recommend-critic-masterpiece-rating-top-10/", text: "넷플릭스 영화 추천 | 박평식 평론가의 7점은 97점이다 명작 영화 평점 순위 TOP 10" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/overseas-movie-release-guide/", text: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리" },
     { type: 'ending', html: "<p><b><span style=&quot;background-color: #01ff51; color: inherit; text-align: start;&quot;>무어는 이러한 아이러니를 지적하며 정치권의 위선과 자국민의 고통을 조명한다.</span></b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

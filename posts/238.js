@@ -43,9 +43,6 @@ const post = {
     { type: 'body', html: "<p>시각적 효과는 여전히 훌륭하다는 평가가 주를 이루었습니다.</p>" },
     { type: 'image', src: "/images/post238_img9.jpg", alt: "베놈 라스트 댄스 시사회 후기", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>이와 같은 평가들을 종합하면, 영화는 시각적 성과와 톰 하디의 연기가 돋보였으나, 스토리 전개에서는 다소 아쉬운 점이 지적된 베놈 : 라스트 댄스의 시사회 후기였습니다.</p>" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-어벤져스-둠스데이/", text: "마블 영화 어벤져스 둠스데이 결말 | 닥터 둠 아이언맨 인격 관계 로다주는 돌아온다-5" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p>결론적으로 톰 하디의 연기와 베놈 시리즈 자체를 좋아하시는 팬분들은 걱정 없이 영화관에서 시청하시는 것을 추천드립니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

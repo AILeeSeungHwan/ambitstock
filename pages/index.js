@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect, useMemo, useRef, useCallback } from 'react'
 import { useRouter } from 'next/router'
 import Head from 'next/head'
 import Layout from '../components/Layout'
@@ -368,84 +368,8 @@ export default function Home({ posts, catCount, trendPosts }) {
 
       {/* ─── 오늘의 트렌드 배너 ─── */}
       {trendPosts && trendPosts.length > 0 && (
-        <section style={{ marginBottom: 48, padding: '32px 0', background: 'linear-gradient(135deg, #1a1a2e, #16213e)', borderRadius: 16, overflow: 'hidden' }}>
-          <div style={{ padding: '0 24px', marginBottom: 16, display: 'flex', alignItems: 'center', gap: 8 }}>
-            <span style={{ fontSize: 22 }}>🔥</span>
-            <h2 style={{ fontSize: 20, fontWeight: 800, color: '#fff', margin: 0 }}>오늘의 트렌드</h2>
-            <span style={{ fontSize: 12, color: 'rgba(255,255,255,0.4)', marginLeft: 'auto' }}>TODAY</span>
-          </div>
-          <div className="trend-scroll" style={{ display: 'flex', gap: 16, overflowX: 'auto', padding: '0 24px 16px', scrollSnapType: 'x mandatory' }}>
-            {trendPosts.map(post => (
-              <a
-                key={post.id}
-                href={getPostUrl(post)}
-                className="trend-card"
-                style={{
-                  flexShrink: 0,
-                  width: 280,
-                  borderRadius: 12,
-                  overflow: 'hidden',
-                  scrollSnapAlign: 'start',
-                  textDecoration: 'none',
-                  display: 'block',
-                  position: 'relative',
-                  boxShadow: '0 4px 20px rgba(0,0,0,0.4)',
-                  background: '#0d1117',
-                  transition: 'transform 0.2s',
-                }}
-              >
-                {/* 썸네일 영역 */}
-                <div style={{ position: 'relative', width: '100%', height: 160, background: '#1e2330', overflow: 'hidden' }}>
-                  {post.thumbnail ? (
-                    <img
-                      src={post.thumbnail}
-                      alt={post.title}
-                      style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
-                    />
-                  ) : (
-                    <div style={{
-                      width: '100%', height: '100%',
-                      display: 'flex', alignItems: 'center', justifyContent: 'center',
-                      background: 'linear-gradient(135deg, #e50914, #ff6b6b)',
-                      fontSize: 40,
-                    }}>🎬</div>
-                  )}
-                  {/* 오버레이 그라디언트 */}
-                  <div style={{
-                    position: 'absolute', bottom: 0, left: 0, right: 0, height: '50%',
-                    background: 'linear-gradient(to top, rgba(0,0,0,0.7), transparent)',
-                  }} />
-                  {/* TODAY 배지 */}
-                  <div style={{
-                    position: 'absolute', top: 10, left: 10,
-                    background: '#e50914', color: '#fff',
-                    fontSize: 10, fontWeight: 800, padding: '3px 8px',
-                    borderRadius: 4, letterSpacing: '0.05em',
-                  }}>TODAY</div>
-                </div>
-                {/* 텍스트 영역 */}
-                <div style={{ padding: '12px 14px 14px' }}>
-                  <p style={{
-                    margin: 0,
-                    fontSize: 13,
-                    fontWeight: 700,
-                    color: '#fff',
-                    lineHeight: 1.45,
-                    display: '-webkit-box',
-                    WebkitLineClamp: 2,
-                    WebkitBoxOrient: 'vertical',
-                    overflow: 'hidden',
-                  }}>{post.title}</p>
-                  {post.date && (
-                    <p style={{ margin: '8px 0 0', fontSize: 11, color: 'rgba(255,255,255,0.35)' }}>
-                      {post.date}
-                    </p>
-                  )}
-                </div>
-              </a>
-            ))}
-          </div>
-        </section>
+        <TrendBanner trendPosts={trendPosts} getPostUrl={getPostUrl} />
+
       )}
 
       <AdUnit slot="6297515693" format="auto" style={{ marginBottom: 48 }} />
@@ -571,6 +495,176 @@ export default function Home({ posts, catCount, trendPosts }) {
         }
       `}</style>
     </Layout>
+  )
+}
+
+/* ─── 트렌드 배너 (스와이프 + 자동 스크롤) ─── */
+function TrendBanner({ trendPosts, getPostUrl }) {
+  const scrollRef = useRef(null)
+  const autoTimerRef = useRef(null)
+  const [activeIdx, setActiveIdx] = useState(0)
+
+  const scrollToIdx = useCallback((idx) => {
+    const el = scrollRef.current
+    if (!el) return
+    const card = el.children[idx]
+    if (!card) return
+    el.scrollTo({ left: card.offsetLeft - 24, behavior: 'smooth' })
+  }, [])
+
+  // 스크롤 위치에 따른 activeIdx 업데이트
+  useEffect(() => {
+    const el = scrollRef.current
+    if (!el) return
+    const onScroll = () => {
+      const scrollLeft = el.scrollLeft + 24
+      let closest = 0
+      let minDist = Infinity
+      Array.from(el.children).forEach((child, i) => {
+        const dist = Math.abs(child.offsetLeft - scrollLeft)
+        if (dist < minDist) { minDist = dist; closest = i }
+      })
+      setActiveIdx(closest)
+    }
+    el.addEventListener('scroll', onScroll, { passive: true })
+    return () => el.removeEventListener('scroll', onScroll)
+  }, [])
+
+  // 자동 스와이프 (4초 간격)
+  useEffect(() => {
+    const start = () => {
+      autoTimerRef.current = setInterval(() => {
+        setActiveIdx(prev => {
+          const next = prev + 1 >= trendPosts.length ? 0 : prev + 1
+          scrollToIdx(next)
+          return next
+        })
+      }, 4000)
+    }
+    start()
+    return () => clearInterval(autoTimerRef.current)
+  }, [trendPosts.length, scrollToIdx])
+
+  // 사용자 터치 시 자동 스와이프 일시 정지 후 재시작
+  const pauseAuto = useCallback(() => {
+    clearInterval(autoTimerRef.current)
+  }, [])
+  const resumeAuto = useCallback(() => {
+    clearInterval(autoTimerRef.current)
+    autoTimerRef.current = setInterval(() => {
+      setActiveIdx(prev => {
+        const next = prev + 1 >= trendPosts.length ? 0 : prev + 1
+        scrollToIdx(next)
+        return next
+      })
+    }, 4000)
+  }, [trendPosts.length, scrollToIdx])
+
+  return (
+    <section style={{ marginBottom: 48, padding: '32px 0', background: 'linear-gradient(135deg, #1a1a2e, #16213e)', borderRadius: 16, overflow: 'hidden' }}>
+      <div style={{ padding: '0 24px', marginBottom: 16, display: 'flex', alignItems: 'center', gap: 8 }}>
+        <span style={{ fontSize: 22 }}>🔥</span>
+        <h2 style={{ fontSize: 20, fontWeight: 800, color: '#fff', margin: 0 }}>오늘의 트렌드</h2>
+        <span style={{ fontSize: 12, color: 'rgba(255,255,255,0.4)', marginLeft: 'auto' }}>TODAY</span>
+      </div>
+      <div
+        ref={scrollRef}
+        className="trend-scroll"
+        style={{ display: 'flex', gap: 16, overflowX: 'auto', padding: '0 24px 16px', scrollSnapType: 'x mandatory' }}
+        onTouchStart={pauseAuto}
+        onTouchEnd={() => setTimeout(resumeAuto, 3000)}
+        onMouseDown={pauseAuto}
+        onMouseUp={() => setTimeout(resumeAuto, 3000)}
+      >
+        {trendPosts.map(post => (
+          <a
+            key={post.id}
+            href={getPostUrl(post)}
+            className="trend-card"
+            style={{
+              flexShrink: 0,
+              width: 280,
+              borderRadius: 12,
+              overflow: 'hidden',
+              scrollSnapAlign: 'start',
+              textDecoration: 'none',
+              display: 'block',
+              position: 'relative',
+              boxShadow: '0 4px 20px rgba(0,0,0,0.4)',
+              background: '#0d1117',
+              transition: 'transform 0.2s',
+            }}
+          >
+            <div style={{ position: 'relative', width: '100%', height: 160, background: '#1e2330', overflow: 'hidden' }}>
+              {post.thumbnail ? (
+                <img
+                  src={post.thumbnail}
+                  alt={post.title}
+                  style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
+                />
+              ) : (
+                <div style={{
+                  width: '100%', height: '100%',
+                  display: 'flex', alignItems: 'center', justifyContent: 'center',
+                  background: 'linear-gradient(135deg, #e50914, #ff6b6b)',
+                  fontSize: 40,
+                }}>🎬</div>
+              )}
+              <div style={{
+                position: 'absolute', bottom: 0, left: 0, right: 0, height: '50%',
+                background: 'linear-gradient(to top, rgba(0,0,0,0.7), transparent)',
+              }} />
+              <div style={{
+                position: 'absolute', top: 10, left: 10,
+                background: '#e50914', color: '#fff',
+                fontSize: 10, fontWeight: 800, padding: '3px 8px',
+                borderRadius: 4, letterSpacing: '0.05em',
+              }}>TODAY</div>
+            </div>
+            <div style={{ padding: '12px 14px 14px' }}>
+              <p style={{
+                margin: 0,
+                fontSize: 13,
+                fontWeight: 700,
+                color: '#fff',
+                lineHeight: 1.45,
+                display: '-webkit-box',
+                WebkitLineClamp: 2,
+                WebkitBoxOrient: 'vertical',
+                overflow: 'hidden',
+              }}>{post.title}</p>
+              {post.date && (
+                <p style={{ margin: '8px 0 0', fontSize: 11, color: 'rgba(255,255,255,0.35)' }}>
+                  {post.date}
+                </p>
+              )}
+            </div>
+          </a>
+        ))}
+      </div>
+      {/* 인디케이터 점 */}
+      {trendPosts.length > 1 && (
+        <div style={{ display: 'flex', justifyContent: 'center', gap: 6, marginTop: 4 }}>
+          {trendPosts.map((_, i) => (
+            <button
+              key={i}
+              onClick={() => { scrollToIdx(i); setActiveIdx(i); pauseAuto(); setTimeout(resumeAuto, 3000); }}
+              style={{
+                width: activeIdx === i ? 20 : 8,
+                height: 8,
+                borderRadius: 4,
+                border: 'none',
+                padding: 0,
+                cursor: 'pointer',
+                background: activeIdx === i ? '#e50914' : 'rgba(255,255,255,0.25)',
+                transition: 'all 0.3s',
+              }}
+              aria-label={'트렌드 ' + (i + 1) + '번째로 이동'}
+            />
+          ))}
+        </div>
+      )}
+    </section>
   )
 }
 

@@ -19,21 +19,6 @@ const post = {
     },
     { type: 'image', src: '/images/post206_img1.jpg', alt: '미스터 플랑크톤 뜻 의미 해석', caption: 'ⓒ R의 필름공장' },
     {
-      type: 'cta',
-      href: '/netflix-movie-recommend-guide-top-10/',
-      text: '넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
       type: 'h2',
       id: 'section2',
       text: '미스터 플랑크톤 제목 뜻 의미 해석',
@@ -158,11 +143,6 @@ const post = {
     {
       type: 'ending',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;미스터 플랑크톤 해외 반응&quot;>2024.11.15 - [드라마] - 미스터 플랑크톤 해외 시청자 후기 리뷰 평점! 넷플릭스 한국 드라마 추천 극찬일색 평가</a></p>'
-    },
-    {
-      type: 'cta',
-      href: '/overseas-review-rating-netflix-drama-recommend/',
-      text: '미스터 플랑크톤 해외 시청자 후기 리뷰 평점! 넷플릭스 한국 드라마 추천 극찬일색 평가'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

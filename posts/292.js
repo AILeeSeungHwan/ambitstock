@@ -23,7 +23,6 @@ const post = {
     { type: 'image', src: "/images/post292_img4.jpg", alt: "미키 17 시사회 후기반응", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>시사회 평론가 후기를 바탕으로 알 수 있듯, 벌써부터 '아카데미 상'이 떠오르는 건 섣부른 기대일지도 모르겠지만, 예고편을 보신 분들이라면 기대만은 아닐 것이라고 생각이 되실 겁니다.</p>" },
     { type: 'body', html: "<p><b>한국계 배우 스티븐 연 부터, 로버트 패틴슨의 연기, 봉준호 감독의 연출, 그리고 시사회 긍정적인 후기반응까지!</b></p>" },
-    { type: 'cta', href: "/plot-analysis-movie-release-upcoming/", text: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
     { type: 'ending', html: "<p><b>2025년 1월 큰 작품 옵니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

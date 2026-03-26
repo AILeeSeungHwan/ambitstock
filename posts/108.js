@@ -14,11 +14,6 @@ const post = {
       gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
     },
     {
-      type: 'cta',
-      href: '/movie-drama-recommend-netflix/',
-      text: '볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>'
-    },
-    {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;>볼만한 영화 드라마가 없으시다면? 이 포스팅으로 고민 종료!</p>'
     },
@@ -32,11 +27,6 @@ const post = {
       html: '<p style=&quot;text-align: center;&quot;><b>자신있게 추천하는 볼만한 영화 드라마 추천 !</b></p>'
     },
     {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><b>이동진 평론가가 추천하는 별 다섯개 명작</b></p>'
     },
@@ -47,11 +37,6 @@ const post = {
     {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><b>그가 만점을 준 작품</b>을 모았습니다.</p>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
     {
       type: 'body',

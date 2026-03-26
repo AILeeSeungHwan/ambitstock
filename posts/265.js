@@ -37,9 +37,6 @@ const post = {
     { type: 'image', src: "/images/post265_img1.jpg", alt: "와일드 로봇", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>후기를 보시면 아시겠지만 올해 최고의 애니메이션 영화라는 평이 다수 보입니다. 대부분의 평론가들이 입을 모아 최고라고 이야기하는 영화는 흔치 않기에, <span style=&quot;background-color: #9feec3;&quot;><b>영화 예매를 고민하시는 분들이라면 꼭 아이들과 함께 영화관에서 시청해보시길 바랍니다.</b></span></p>" },
     { type: 'body', html: "<p>다음 포스팅에서는 영화 와일드 로봇의 뜻과 의미를 내용 줄거리와 연관지어 알아보도록 하겠습니다.</p>" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

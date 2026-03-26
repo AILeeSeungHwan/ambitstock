@@ -20,11 +20,6 @@ const post = {
     { type: 'image', src: "/images/post272_img4.jpg", alt: "지옥 시즌 2 김신록", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post272_img3.jpg", alt: "지옥 시즌 2 김현주", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>유아인은 불미스러운 일로 인해 시즌 2에서 하차했으며, 그 자리는 김성철이 대신 맡게 되었습니다. 연상호 감독은 이번 시즌이 더욱 흥미로운 질문들로 가득할 것이라고 예고했으며, 시즌 1에서 풀리지 않은 미스터리들이 어떻게 풀릴지 기대가 됩니다.</p>" },
-    { type: 'cta', href: "/netflix-series-season-plot/", text: "넷플릭스 시리즈 지옥 시즌 2 줄거리 내용 | 유아인 부재 대체자는 김성철 데뷔작부터 대표작 필" },
-    { type: 'cta', href: "/netflix-series-recommend-season-plot-rating/", text: "넷플릭스 시리즈 추천 경성크리처 시즌 2 공개 뜻 줄거리 내용 | 이번에도 일본 평점테러 논란 생" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

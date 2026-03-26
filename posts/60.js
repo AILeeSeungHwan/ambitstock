@@ -69,11 +69,6 @@ const post = {
       html: '<p>디즈니플러스는 <b>연간 결제 할인</b>이 있다는 점이 강점이에요. 마블·픽사 팬이라면 무조건 가치 있는 선택이고, 통신사 결합까지 적용하면 월 부담을 크게 낮출 수 있습니다.</p>'
     },
     {
-      type: 'cta',
-      href: '/recommend-plan-comparison-netflix-disney-plus-disney-ott-vs/',
-      text: 'OTT 추천 요금제·결제 비교 2025 넷플릭스 vs 디즈니플러스, 어디가 더 합리적일까?'
-    },
-    {
       type: 'h2',
       id: 'section5',
       text: '1위. 넷플릭스 (Netflix)',
@@ -87,11 +82,6 @@ const post = {
     {
       type: 'body',
       html: '<p>넷플릭스는 여전히 1위입니다. 비싸다고 생각할 수 있지만, 통신사·카드 할인과 가족 공유까지 활용하면 실제 부담은 훨씬 줄어듭니다. 특히 KT ‘넷플릭스 초이스’ 상품은 <b>프리미엄 요금제를 무료</b>로 제공해 가장 큰 혜택을 줍니다.</p>'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-plan-discount-guide/',
-      text: '넷플릭스 요금제 할인 총정리 2025년 - 통신사 카드 혜택'
     },
     {
       type: 'h2',
@@ -131,21 +121,6 @@ const post = {
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-box-office-audience-guide-ott/',
-      text: '역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

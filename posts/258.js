@@ -28,9 +28,6 @@ const post = {
     { type: 'body', html: "<p>어느 정도 재미는 있으나 갸우뚱하는 부분들이 많았던 것으로 볼 수 있습니다. 이외의 점수에도 8점과 6점, 그리고 9점, 10점 순으로 평점을 기록하였고, 국가 분포는 미국 브라질 영국 아르헨티나 터키 순으로 기록되었습니다.</p>" },
     { type: 'body', html: "<p>그렇다면 도대체 어떠한 부분에서 평점이 이렇게 갈리게 되었을까요.</p>" },
     { type: 'body', html: "<p>다음 포스팅에서 해외 평론가 후기반응 리뷰 살펴보겠습니다.</p>" },
-    { type: 'cta', href: "/netflix-recommend-overseas-review-reaction/", text: "넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가" },
-    { type: 'cta', href: "/movie-recommend-vs-one-vs/", text: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

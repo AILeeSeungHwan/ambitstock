@@ -23,8 +23,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>감사합니다.</p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;>2024년 하반기부터</p>" },
     { type: 'image', src: "/images/post358_img3.jpg", alt: "닥터둠 아이언맨", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 개봉 예정작 개봉일 순으로 총 정리 feat. 디즈니플러스 시리즈 공개 예정" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;>2025년-2027년 마블 개봉 예정작 총정리</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

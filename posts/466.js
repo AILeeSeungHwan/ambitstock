@@ -53,7 +53,6 @@ const post = {
     { type: 'body', html: "<p>하지만 <b><span style=&quot;background-color: #f3c000;&quot;>배트맨의 출현과 관련된 소식은 아직 존재하지 않습니다</span>.</b> 힌트라 한다면 전편 &lt;조커&gt;에서 어린 브루스 웨인의 등장 뿐, 이후에 등장한 소식은 찾아볼 수 없었습니다. 더군다나, 더 배트맨의 로버트 패틴슨도 합류가능성이 매우 적어보입니다. 이미 영화적 흥행을 이룬 조커의 개봉전부터, 토드 필립스 영화 조커 감독은 DC 유니버스가 아닌 독자적 조커 영화를 만들고자 하였기 때문이죠. 로버트 패틴슨과 호아킨 피닉스의 조합을 기대하던 팬들 입장에선 절실히 바라시겠지만, 현 기조에선 패틴슨의 합류 가능성은 없다 보아도 무방합니다. </p>" },
     { type: 'body', html: "<p>이상으로 조커1에 대한 해외 평점 및 평론가 리뷰 마치도록 하겠습니다. 조커2 개봉 후 다시 찾아오겠습니다.</p>" },
     { type: 'body', html: "<p><a href=&quot;https://ambitstock.com/9&quot; style=&quot;background-color: #e6f5ff; color: #0070d1; text-align: start;&quot;>미키17 보기전 봉준호의 괴물 해외반응 다시보기</a></p>" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
     { type: 'ending', html: "<p><a href=&quot;https://ambitstock.com/9&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;봉준호의 기생충 해외반응 다시보기&quot;>미키17 보기전 봉준호의 기생충 해외반응 다시보기</a></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

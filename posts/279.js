@@ -36,8 +36,6 @@ const post = {
     { type: 'body', html: "<p>다음 포스팅에서는 어떠한 점이 해외 시청자들에게 긍정적인 반응을 이끌었는지, 부정적인 요인은 무엇인지 해외 후기리뷰 살펴보겠습니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
     { type: 'image', src: "/images/post279_img3.jpg", alt: "넷플릭스 추천 흑백요리사", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/netflix-recommend-overseas-reaction-rating-review/", text: "넷플릭스 예능 추천 흑백요리사 최강 최강록 | 출연진 영어제목 뜻 해외 반응 평점 후기 리뷰" },
-    { type: 'cta', href: "/netflix-recommend-overseas-review-reaction/", text: "넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><b>흑백요리사 해외 후기리뷰 반응</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

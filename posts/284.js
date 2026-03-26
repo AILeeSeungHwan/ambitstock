@@ -36,10 +36,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>이러한 걱정거리에도 뮤지컬 영화의 특성상 영화관에서의 몰입도가 다른 영화와 다른 점, 호아킨 피닉스와 레이디 가가의 연기력은 흠 잡을 곳이 없다는 점, 그리고 결국 '조커는 조커' 라는 점, 이 세가지의 이유로 조커 2 폴리 아 되 예매 반드시 추천합니다.</b></span></p>" },
     { type: 'body', html: "<p>이상으로 24년 10월 예매하기 좋은 영화 추천 마무리합니다.</p>" },
     { type: 'body', html: "<p>R의 필름공장과 함께 즐거운 문화생활하시길 바랍니다.</p>" },
-    { type: 'cta', href: "/movie-rating-overseas-review-reaction/", text: "베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에" },
-    { type: 'cta', href: "/plot-folie-deux/", text: "조커 2 폴리 아 되 제목 뜻 의미? 줄거리 내용과 연관관계 심층분석" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/review-reaction-critic-rating-release/", text: "조커 2 폴리 아되 시사회 후기 반응 로튼 토마토 평론가 평점 개봉 등급 | 속편의 저주인가 현재" },
     { type: 'cta', href: "/", text: "트랜스포머 ONE 해외 평론가 결말 후기 리뷰 정보 총정리 | 아이와 함께 보기 좋은, 하지만 부모가" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }

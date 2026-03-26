@@ -29,9 +29,6 @@ const post = {
     { type: 'body', html: "<p>감사합니다.</p>" },
     { type: 'image', src: "/images/post317_img3.jpg", alt: "터미네이터 제로 결말 해석 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post317_img1.jpg", alt: "터미네이터 제로 평점", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/netflix-animation-recommend-rating-plot/", text: "넷플릭스 애니메이션 추천 터미네이터 제로 뜻 평점 줄거리 내용 보는곳 | 현재상영작" },
-    { type: 'cta', href: "/netflix-movie-overseas-rating-review-reaction/", text: "넷플릭스 영화 더 유니온 말 그대로 로튼 토마토! 제목 뜻 해외 평점 후기 반응" },
-    { type: 'cta', href: "/netflix-overseas-rating-review-reaction/", text: "넷플릭스 시청가능 원더랜드 뜻 의미 박보검 주연 해외 평점과 후기반응은?" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>함께 보면 좋은 컨텐츠</b></span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

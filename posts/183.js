@@ -19,21 +19,6 @@ const post = {
     },
     { type: 'image', src: '/images/post183_img1.jpg', alt: '영화 서브스턴스', caption: 'ⓒ R의 필름공장' },
     {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/series-recommend-rating-top-8/',
-      text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
-    },
-    {
       type: 'h2',
       id: 'section2',
       text: '서브스턴스 Substance 뜻 의미 해석',

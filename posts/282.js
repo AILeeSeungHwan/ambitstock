@@ -30,9 +30,6 @@ const post = {
     { type: 'body', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
     { type: 'image', src: "/images/post282_img6.jpg", alt: "반지의 제왕 스틸컷 입니다.", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post282_img1.jpg", alt: "반지의 제왕 힘의 반지", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/box-office-movie-release-guide-ott/", text: "박스오피스 1위 영화의 귀환 - 반지의 제왕 로히림의 전쟁 개봉정보 및 전작 OTT 다시보기 총정리" },
-    { type: 'cta', href: "/movie-recommend-vs-one-vs/", text: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
-    { type: 'cta', href: "/netflix-series-recommend-rating-overseas-reaction/", text: "넷플릭스 시리즈 인기 순위 추천 실화 기반 괴물 메넨 데즈 형제 이야기 - 주요 등장인물 평점 해" },
     { type: 'ending', html: "<p><b>반지의 제왕 시리즈뿐만 아니라 애니메이션 영화로도 곧 찾아옵니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

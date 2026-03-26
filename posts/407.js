@@ -50,10 +50,6 @@ const post = {
     { type: 'image', src: "/images/post407_img8.jpg", alt: "범죄도시 4", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post407_img9.jpg", alt: "범죄도시 4", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/", text: "[영화 범죄도시 4 개봉일 출연진 빌런 예고편] 범죄도시 2 해외 평점 및 리뷰 반응 다시보기 - 역" },
-    { type: 'cta', href: "/movie-recommend-guide-box-office-audience-top20-ott/", text: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위" },
-    { type: 'cta', href: "/disney-plus-disney-series-drama-recommend-top-10/", text: "디즈니플러스 오리지널 시리즈 한국 드라마 추천 순위 TOP 10" },
-    { type: 'cta', href: "/netflix-drama-recommend-jtbc-top10-ott/", text: "JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천" },
-    { type: 'cta', href: "/tving-drama-recommend-tvn-top-10/", text: "2024년 TVN 역대 시청률 TOP 10 티빙 드라마 순위 추천" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><span style=&quot;background-color: #f3c000;&quot;><b>디즈니 플러스, JTBC, TVN 역대 시청률 순위</b></span>로 알아보는 드라마 추천 정보 확인하세요</span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

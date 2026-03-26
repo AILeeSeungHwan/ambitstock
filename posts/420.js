@@ -184,11 +184,6 @@ const post = {
       html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 넷플릭스 (NETFLIX)<span> </span>, 디즈니 플러스(DISNEY+)</span></p>'
     },
     {
-      type: 'cta',
-      href: '/movie-drama-recommend-netflix/',
-      text: '볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>'
-    },
-    {
       type: 'h2',
       id: 'section6',
       text: '5위 이태원 클라쓰 (영어제목:Itaewon Class)',
@@ -373,26 +368,6 @@ const post = {
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/release-upcoming-guide-movie-recommend-top10/',
-      text: '2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-box-office-audience-guide-ott/',
-      text: '역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

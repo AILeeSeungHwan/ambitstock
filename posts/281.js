@@ -46,11 +46,6 @@ const post = {
     { type: 'body', html: "<p>감사합니다.</p>" },
     { type: 'image', src: "/images/post281_img6.jpg", alt: "조커 2 호아킨 피닉스 레이디 가가", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post281_img7.jpg", alt: "조커 2 뮤지컬 영화", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/plot-folie-deux/", text: "조커 2 폴리 아 되 제목 뜻 의미? 줄거리 내용과 연관관계 심층분석" },
-    { type: 'cta', href: "/review-reaction-critic-rating-release/", text: "조커 2 폴리아되 시사회 후기 반응 로튼 토마토 평론가 평점 개봉 등급 | 속편의 저주인가 현재" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/plot-analysis-movie-release-upcoming/", text: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>조커 2와 함께 보면 좋은 콘텐츠를 전달해 드립니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

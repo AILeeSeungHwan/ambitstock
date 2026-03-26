@@ -89,11 +89,6 @@ const post = {
       caption: '출처: 네이버 영화'
     },
     {
-      type: 'cta',
-      href: '/netflix-movie-recommend-2026-march/',
-      text: '2026년 3월 넷플릭스 추천 영화 전체 목록 보기'
-    },
-    {
       type: 'ending',
       html: '<p>3월 18일 개봉. 로튼토마토 94%, 156분. 이 숫자만 봐도 충분히 극장에 갈 이유가 된다. 인터스텔라 이후 진짜 SF 영화를 기다렸다면, 지금이 그 타이밍이다.</p><p>라이언 고슬링이 기억을 잃은 채 혼자 우주에서 깨어나는 오프닝 10분이 이미 훌륭하다. 나머지 146분은 그 위에 쌓인다. 보고 나서 로키에 대해 이야기하고 싶어질 것이다.</p><p>관련 글: <a href="/netflix-movie-recommend-2026-march/">2026년 3월 넷플릭스 신작 총정리</a> | <a href="/bong-joonho-filmography-guide/">봉준호 감독 전작 입문 가이드</a></p>'
     },

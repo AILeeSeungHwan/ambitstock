@@ -187,21 +187,6 @@ const post = {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
-    {
-      type: 'cta',
-      href: '/movie-drama-recommend-netflix/',
-      text: '볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

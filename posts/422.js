@@ -35,8 +35,6 @@ const post = {
     { type: 'image', src: "/images/post422_img8.jpg", alt: "아침마당", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post422_img9.jpg", alt: "KBS 뉴스광장 2부", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post422_img10.jpg", alt: "드라마 우리, 집", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/drama-plot-종합-시청률-위/", text: "[종합 시청률 1위 드라마] <수지맞은 우리> 줄거리 및 인물관계도 최신 화 정보 함은정 주연" },
-    { type: 'cta', href: "/drama-guide-plot-kbs2/", text: "한채영 한보름 주연 KBS2 일일드라마 스캔들 정보 총정리 | 1화 2화 3화 줄거리 인물관계도 시청률" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>SBS의 '궁금한 이야기 Y'도 5.5%의 시청률로 공동 9위를 차지했습니다. 다양한 사회적 이슈와 미스터리한 사건들을 탐사하고 분석하는 이 프로그램은 시청자들의 궁금증을 해소해주고 있습니다.</span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

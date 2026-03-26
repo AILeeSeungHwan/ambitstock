@@ -73,18 +73,8 @@ const post = {
       html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;이동진 추천 영화&quot;>이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10</a></p>'
     },
     {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;박평식 추천 영화&quot;>박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10</a></p>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
     },
     {
       type: 'h2',
@@ -113,18 +103,8 @@ const post = {
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;넷플릭스 시청 가능 이동진 추천 영화&quot;>넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상작품</a></p>'
     },
     {
-      type: 'cta',
-      href: '/netflix-movie-recommend-critic-rating/',
-      text: '넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상'
-    },
-    {
       type: 'body',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;넷플릭스 시청 가능 박평식 추천 영화&quot;>넷플릭스 영화 추천 | 박평식 평론가의 7점은 97점이다 명작 영화 평점 순위 TOP 10</a></p>'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-movie-recommend-critic-masterpiece-rating-top-10/',
-      text: '넷플릭스 영화 추천 | 박평식 평론가의 7점은 97점이다 명작 영화 평점 순위 TOP 10'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -150,18 +130,8 @@ const post = {
       html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;JTBC 드라마 추천&quot;>JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천</a></p>'
     },
     {
-      type: 'cta',
-      href: '/netflix-drama-recommend-jtbc-top10-ott/',
-      text: 'JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천'
-    },
-    {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;TVN 드라마 추천&quot;>2024년 TVN 역대 시청률 TOP 10 티빙 드라마 순위 추천</a></p>'
-    },
-    {
-      type: 'cta',
-      href: '/tving-drama-recommend-tvn-top-10/',
-      text: '2024년 TVN 역대 시청률 TOP 10 티빙 드라마 순위 추천'
     },
     {
       type: 'h2',
@@ -182,18 +152,8 @@ const post = {
       html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;디즈니 플러스 드라마 해외&quot;>디즈니 플러스 볼만한 드라마 추천 순위 2024년 TOP 10 | 해외 편</a></p>'
     },
     {
-      type: 'cta',
-      href: '/disney-drama-recommend-overseas-top-10/',
-      text: '디즈니 플러스 볼만한 드라마 추천 순위 2024년 TOP 10 | 해외편'
-    },
-    {
       type: 'body',
       html: '<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;디즈니 플러스 드라마 한국&quot;>디즈니플러스 오리지널 시리즈 한국 볼만한 드라마 추천 순위 TOP 10</a></p>'
-    },
-    {
-      type: 'cta',
-      href: '/disney-plus-disney-series-drama-recommend-top-10/',
-      text: '디즈니플러스 오리지널 시리즈 한국 볼만한 드라마 추천 순위 TOP 10'
     },
     {
       type: 'h2',
@@ -218,45 +178,20 @@ const post = {
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot;>지브리 스튜디오 역대 애니메이션 추천 인기 순위 로튼 기준 총정리!</a></p>'
     },
     {
-      type: 'cta',
-      href: '/animation-recommend-guide/',
-      text: '지브리 스튜디오 역대 애니메이션 추천 인기 순위 로튼 기준 총정리!'
-    },
-    {
       type: 'body',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot;>해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8</a></p>'
-    },
-    {
-      type: 'cta',
-      href: '/series-recommend-rating-top-8/',
-      text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
     },
     {
       type: 'body',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot;>킹스맨 시리즈 최고 작품은 무엇일까?</a></p>'
     },
     {
-      type: 'cta',
-      href: '/series-netflix-movie-recommend/',
-      text: '킹스맨 시리즈 최고 작품은 무엇일까? 넷플릭스 영화 추천'
-    },
-    {
       type: 'body',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot;>크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!</a></p>'
     },
     {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
       type: 'body',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot;>영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9</a></p>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-rating-top-9/',
-      text: '영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9'
     },
     {
       type: 'h2',
@@ -281,27 +216,12 @@ const post = {
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;1월 개봉예정작&quot;>2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10</a></p>'
     },
     {
-      type: 'cta',
-      href: '/release-upcoming-guide-movie-recommend-top10/',
-      text: '2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10'
-    },
-    {
       type: 'body',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2025년 개봉예정작&quot;> 2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!</a></p>'
     },
     {
-      type: 'cta',
-      href: '/netflix-movie-recommend-release-upcoming-guide/',
-      text: '2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!'
-    },
-    {
       type: 'body',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2025년 현재상영작&quot;>현재상영작 영화 예매 순위 관객수 2025년 1월 TOP10</a></p>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-audience-top10-2/',
-      text: '현재상영작 영화 예매 순위 관객수 2025년 1월 TOP10'
     },
     {
       type: 'body',

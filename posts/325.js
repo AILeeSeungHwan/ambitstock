@@ -34,7 +34,6 @@ const post = {
     { type: 'image', src: "/images/post325_img4.jpg", alt: "이매지너리", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post325_img3.jpg", alt: "이매지너리", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post325_img1.jpg", alt: "이매지너리", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/movie-overseas-rating-reaction-horror/", text: "영화 이매지너리 뜻 로튼 해외 평점과 반응 | 올해 공포는 다 죽었다" },
     { type: 'ending', html: "<p><br/>이상으로 이매지너리 평론가 후기 포스팅 마칩니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

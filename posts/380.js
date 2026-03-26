@@ -84,12 +84,7 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;color: inherit;&quot;><b>'로마'는 아카데미상을 받은 </b><span style=&quot;background-color: #01ff51;&quot;><b>감독 겸 작가 알폰소 쿠아론</b></span><b>('그래비티', '칠드런 오브 맨', '이 투 마마')의 </b></span><span style=&quot;color: inherit;&quot;><b><span style=&quot;background-color: #01ff51;&quot;>어린 시절을 반영한 자전적 작품</span>이다.</b></span></p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>멕시코시티 내 <span style=&quot;background-color: #f3c000;&quot;><b>로마 지역을 배경으로, 한 중산층 가족의 젊은 가정부인 클레오(얄리차 아파리시오)의 시선을 따라 이야기는 흘러간다.</b></span> </span></p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>감독 자신을 키워낸 여성들에 대한 깊은 애정을 담은 이 작품은 </span><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>1970년대 멕시코의 정치적 격랑 속에서 </span></p>" },
-    { type: 'cta', href: "/movie-review-netflix-recommend-the-one-thing/", text: "[이 정도면 정말 잘한 걸까? The One Thing을 향해] 영화 위플래쉬 리뷰 2부 넷플릭스 인생 영화 추천" },
-    { type: 'cta', href: "/movie-ending-analysis-netflix-recommend-series-plot-review/", text: "[영화 위플래쉬 결말은 해피엔딩일까] 뜻과 해석 - 넷플릭스 인생 영화 추천 시리즈 줄거리 리뷰" },
     { type: 'cta', href: "/", text: "[넷플릭스 인생 영화 추천 위플래쉬 해외 반응 및 평점 리뷰] 영화 라라랜드의 데이미언 셔젤 감" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/netflix-drama-recommend-jtbc-top10-ott/", text: "JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천" },
-    { type: 'cta', href: "/movie-recommend-guide-box-office-audience-top20-ott/", text: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위" },
     { type: 'ending', html: "<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>주인공들이 겪는 가정 내 불화와 사회적인 억압을 생생히 재현한다.</span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

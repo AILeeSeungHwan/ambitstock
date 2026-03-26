@@ -39,8 +39,6 @@ const post = {
     { type: 'image', src: "/images/post322_img4.jpg", alt: "디즈니 플러스 마블", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post322_img3.jpg", alt: "디즈니 플러스 마블", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post322_img1.jpg", alt: "디즈니 플러스 마블", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

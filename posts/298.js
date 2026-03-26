@@ -26,8 +26,6 @@ const post = {
     { type: 'body', html: "<p>이상으로 나우 유 씨미 2 평점 포스팅 마칩니다.</p>" },
     { type: 'image', src: "/images/post298_img4.jpg", alt: "나우 유 씨미 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post298_img5.jpg", alt: "나우 유 씨미 후기", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/netflix-movie-recommend-plot-ending-analysis/", text: "넷플릭스 영화 추천 나우 유 씨미 제목 뜻 줄거리 내용 결말 해석 | 마술이 아니고 마법이다" },
-    { type: 'cta', href: "/movie-overseas-critic-review-guide/", text: "나우 유 씨미 영화 해외 평론가 로튼 토마토 후기 총정리" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -28,9 +28,6 @@ const post = {
     { type: 'body', html: "<p>이상으로 아마존 활명수 영화에 대한 모든 정보 포스팅 마칩니다.</p>" },
     { type: 'body', html: "<p>전체적으로 시사회 평도 좋으니, 극한직업의 느낌을 기대하시는 분들은 영화관에서 꼭 예매하여 관람해 보시길 바랍니다.</p>" },
     { type: 'image', src: "/images/post230_img5.jpg", alt: "아마존 활명수", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

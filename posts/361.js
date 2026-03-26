@@ -42,8 +42,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>앞으로 나올 어벤져스5 둠스데이에서 닥터둠.</p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;background-color: #01ff51;&quot;><b>그는 영웅일까요 빌런일까요</b></span></p>" },
     { type: 'image', src: "/images/post361_img7.jpg", alt: "어벤져스5 둠스데이 닥터둠 과거배경", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;>어벤져스 둠스데이 시리즈 3편에서 이어집니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

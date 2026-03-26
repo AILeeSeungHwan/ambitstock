@@ -13,7 +13,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><i>스타워즈</i><span> </span>시리즈의 영화<span> </span><i>&quot;라스트 제다이&quot;</i><span> </span>대본이 개봉 전에 유출되었습니다. 주요 스토리라인과 캐릭터 전개가 온라인에 퍼지면서 팬들 사이에서 많은 논란이 있었습니다. 루카스필름과 디즈니는 유출된 자료를 삭제하기 위해 노력했지만, 이미 널리 퍼진 상태였습니다.</p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;>넷플릭스의<span> </span><i>&quot;위쳐&quot;</i><span> </span>시즌 2의 여러 장면이 공개 전에 유출되었습니다. 이로 인해 팬들 사이에서 스포일러를 피하려는 움직임이 있었으며, 넷플릭스는 해당 자료를 신속히 삭제하려고 했습니다. 그러나 일부 팬들은 이미 주요 스토리를 알게 되어 정식 공개 전에 흥미를 잃기도 했습니다.</p>" },
     { type: 'image', src: "/images/post356_img4.jpg", alt: "아케인 시즌2 제작영상 줄거리 넷플릭스 유출 사건, 이전에도 비슷한 사건들이 있었다고?", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/season-netflix-아케인-기/", text: "아케인 시즌2기 스포 유출 공개일 넷플릭스 보안 침해 사건 공식 예고편" },
     { type: 'ending', html: "<p style=&quot;color: inherit; text-align: start;&quot;>이러한 유출 사건들은 기업들에게 큰 손실을 가져올 수 있으며, 팬들에게도 콘텐츠 감상의 기회를 빼앗는 결과를 초래합니다. 이에 따라 기업들은 보안 강화와 사전 예방 조치에 더 많은 노력을 기울이고 있습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

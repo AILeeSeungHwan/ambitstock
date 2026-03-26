@@ -23,9 +23,6 @@ const post = {
     { type: 'body', html: "<p>영화는 시즌 2 후속작에 대한 가능성만을 열어둔 채 두루뭉실하게 끝이 납니다.</p>" },
     { type: 'body', html: "<p>현재까지 나온 평점의 결과로는 최근 공개된 넷플릭스 영화 유니온, 크로스 등과 같은 결을 이어가는 것 같습니다.</p>" },
     { type: 'body', html: "<p><i><b> ( 안보는게 좋다는 말입니다. )</b></i></p>" },
-    { type: 'cta', href: "/netflix-movie-recommend-overseas-reaction-rating-review/", text: "넷플릭스 영화 추천 무도실무관 볼만한가? 영어 제목 뜻 해외 반응 평점 후기" },
-    { type: 'cta', href: "/netflix-movie-ending-review/", text: "넷플릭스 영화 순위 노 웨이 업 결말 후기 리뷰 볼만한 재밌는 영화일까 노 스포 팩트체크" },
-    { type: 'cta', href: "/netflix-movie-recommend-rating/", text: "넷플릭스 영화 추천 레블리지 영어제목 뜻 의미와 평점 | 현재상영작" },
     { type: 'ending', html: "<p>다음 포스팅에서 영화 어글리의 평가가 왜이리 낮은지, 평론가 후기에 대해서 알아보겠습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

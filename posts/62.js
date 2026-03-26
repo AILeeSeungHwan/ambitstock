@@ -90,21 +90,6 @@ const post = {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
     },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-movie-recommend-masterpiece-top-10/',
-      text: '넷플릭스 영화 추천 TOP 10｜꼭 봐야 할 최고의 명작 모음 (2025 최신)'
-    },
-    {
-      type: 'cta',
-      href: '/netflix-upcoming-top-7/',
-      text: '2025 넷플릭스 공개예정작 TOP 7｜한국 기대작 중심으로 싹 모았다'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

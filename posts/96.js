@@ -19,21 +19,6 @@ const post = {
     },
     { type: 'image', src: '/images/post96_img1.jpg', alt: '캡틴 아메리카 브레이브 뉴 월드', caption: 'ⓒ R의 필름공장' },
     {
-      type: 'cta',
-      href: '/netflix-movie-recommend-release-upcoming-guide/',
-      text: '2025년 넷플릭스 한국 영화 추천 개봉예정작 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
-    {
       type: 'h2',
       id: 'section2',
       text: '영화 캡틴 아메리카 브레이브 뉴 월드 줄거리',

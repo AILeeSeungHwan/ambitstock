@@ -21,10 +21,6 @@ const post = {
     { type: 'body', html: "<p> <br/> <br/>중요한 사실은 2015년부터 2018년까지 이어진 인퍼머스 아이언맨(Infamous Iron Man) <span style=&quot;color: inherit;&quot;>원작 코믹스에서</span><span style=&quot;color: inherit;&quot;> </span>닥터 둠<span style=&quot;color: #1a5490;&quot;>은</span><span style=&quot;color: inherit;&quot;> 그는 자신의 과거를 속죄하고 히어로로서 새로운 길을 걷기 위해 </span><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: inherit;&quot;><b>토니 스타크가 사라진 이후 아이언맨의 갑옷을 입고 히어로로 활동</b></span></span><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: inherit;&quot;><b>하였다는 내용이 존재</b></span></span><span style=&quot;color: inherit;&quot;>한다는 것입니다.</span><br/> <br/><span style=&quot;background-color: #01ff51;&quot;><span style=&quot;color: inherit;&quot;><b>모습은 다르지만 로버트 다우니 주니어의 아이언 맨 복귀를 기대</b></span></span><span style=&quot;color: inherit;&quot;>하는 말이 팬들 사이에서 나올 수 밖에 없습니다.</span><br/>이에 대한 구체적인 설명은 어벤져스 둠스데이 포스팅 마지막에서 다룰 예정입니다.<br/> </p>" },
     { type: 'image', src: "/images/post362_img6.jpg", alt: "어벤져스 둠스데이 뜻 줄거리", caption: "ⓒ R의 필름공장" },
     { type: 'cta', href: "/", text: "어벤저스 5 메인 빌런 캉에 대한 모든것, 히어로만 60명 아이언맨 복귀는? - 해외 반응과 개봉 정" },
-    { type: 'cta', href: "/comparison-어벤져스-둠스데이-닥터/", text: "어벤져스5 둠스데이 닥터 둠 타노스 티어 비교 | 그가 빌런이 된 과거배경 -2" },
-    { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'cta', href: "/disney-marvel-충격적-새로운-캡틴/", text: "충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈" },
     { type: 'ending', html: "<p><br/><b>여기까지 어벤져스 둠스데이 첫번째 포스팅, 둠스데이의 뜻과 줄거리 내용 포스팅을 마칩니다.</b><br/> <br/><b>다음 포스팅에서는 </b><b>닥터 둠의 과거와 배경 - 빌런이 된 이유와 타노스와 티어비교 알아보겠습니다.</b><br/> </p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

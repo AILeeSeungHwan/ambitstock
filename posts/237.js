@@ -32,9 +32,6 @@ const post = {
     { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10</b></span></p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7</b></span></p>" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -29,8 +29,6 @@ const post = {
     { type: 'image', src: "/images/post299_img4.jpg", alt: "나우 유 씨미 영화 해외 평론가 로튼 토마토 후기 총정리", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>여기까지 나우 유 씨미 해외 후기 포스팅 마무리하겠습니다.</p>" },
     { type: 'body', html: "<p>다음 시리즈에서는 나우 유 씨미 2에 대한 평점과 후기 알아보겠습니다.</p>" },
-    { type: 'cta', href: "/netflix-movie-recommend-plot-ending-analysis/", text: "넷플릭스 영화 추천 나우 유 씨미 제목 뜻 줄거리 내용 결말 해석 | 마술이 아니고 마법이다" },
-    { type: 'cta', href: "/netflix-movie-recommend-series-overseas-rating-critic-review/", text: "넷플릭스 영화 추천 나우 유 씨미 시리즈 해외 평점 평론가 후기 후속작까지 총정리! 1-1" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -45,11 +45,6 @@ const post = {
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;더 엑소시즘&quot;>더 엑소시즘(The Exorcism) 관람평 포토 결말 후기 &lt;배우는 죄가 없다&gt;</a></p>'
     },
     {
-      type: 'cta',
-      href: '/review-ending-the-exorcism/',
-      text: '더 엑소시즘(The Exorcism) 관람평 포토 결말 후기<배우는 죄가 없다>'
-    },
-    {
       type: 'body',
       html: '<p>어떠한 부분이 평론가들의 좋은 평점을 이끌었는지 후기 관람평 확인해 보겠습니다.</p>'
     },
@@ -167,31 +162,6 @@ const post = {
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
-    {
-      type: 'cta',
-      href: '/marvel-movie-release-upcoming/',
-      text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
-    },
-    {
-      type: 'cta',
-      href: '/series-recommend-rating-top-8/',
-      text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

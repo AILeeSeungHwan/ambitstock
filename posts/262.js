@@ -19,10 +19,6 @@ const post = {
     { type: 'body', html: "<p>망작에서 자주 볼 수 있는 평점 분포를 보이고 있는 더 플랫폼 2입니다.</p>" },
     { type: 'body', html: "<p>전작의 기대치가 너무 높았던 탓일까요. 아니면 이러한 콘셉트를 가진 작품들이 후속작에서는 신선함이 떨어지기 때문에 발생하는 지루함 때문일까요.</p>" },
     { type: 'body', html: "<p>다음 포스팅에서 더 플랫폼 2 해외 시청자 후기반응 리뷰 살펴보겠습니다.</p>" },
-    { type: 'cta', href: "/netflix-movie-reaction-rating-ending/", text: "넷플릭스 영화 더 플랫폼 2 보기전 뜻 의미, 로튼 반응과 전작 평점 결말 정보까지 | 볼지말지 알" },
-    { type: 'cta', href: "/netflix-recommend-overseas-review-reaction/", text: "넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가" },
-    { type: 'cta', href: "/movie-recommend-vs-one-vs/", text: "조커 2 : 폴리 아 되 vs 트랜스포머 ONE vs 베테랑 2 순위 딱 정해드림 볼만한 영화 예매 추천" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -125,11 +125,6 @@ const post = {
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;조명가게 해외 반응 리뷰&quot;>2024.12.21 - [영화/영화 해외반응후기] - 조명가게 해외 리뷰 스포 포함 결말후기 &lt; 디즈니 플러스 강풀 웹툰 원작 드라마의 흥행 &gt;</a></p>'
     },
     {
-      type: 'cta',
-      href: '/overseas-review-ending-disney-drama-box-office/',
-      text: '조명가게 해외 리뷰 스포 포함 결말후기 < 디즈니 플러스 강풀 웹툰 원작 드라마의 흥행 >'
-    },
-    {
       type: 'h2',
       id: 'section7',
       text: '함께 보면 좋은 콘텐츠',
@@ -138,31 +133,6 @@ const post = {
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
-    {
-      type: 'cta',
-      href: '/plot-analysis-movie-release-upcoming/',
-      text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
-    },
-    {
-      type: 'cta',
-      href: '/marvel-movie-release-upcoming/',
-      text: '마블 영화 개봉 예정 총 정리 2025년 - 2027년'
-    },
-    {
-      type: 'cta',
-      href: '/series-recommend-rating-top-8/',
-      text: '해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -57,11 +57,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>다음 포스팅에서 드라마 체크인 한양의 해외 시청자 후기 반응 리뷰 살펴보도록 하겠습니다.</span></p>" },
     { type: 'h2', id: "section6", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></span></p>" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'cta', href: "/series-recommend-rating-top-8/", text: "해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

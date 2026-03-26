@@ -7,9 +7,6 @@ const post = {
     { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
     { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'image', src: "/images/post198_img1.jpg", alt: "위키드", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/review-critic-reaction-release-upcoming-movie/", text: "글래디에이터 Ⅱ 2 시사회 후기 평론가 관람평 반응 11월 가장 기대되는 개봉 예정작 영화" },
     { type: 'h2', id: "section2", text: "위키드 시사회 긍정적 반응", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'body', html: "<h4><span style=&quot;background-color: #f3c000;&quot;><b>1. 연출과 캐스팅</b></span></h4>" },
     { type: 'image', src: "/images/post198_img2.jpg", alt: "위키드", caption: "ⓒ R의 필름공장" },
@@ -36,7 +33,6 @@ const post = {
     { type: 'image', src: "/images/post198_img6.jpg", alt: "위키드", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post198_img5.jpg", alt: "위키드", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>이는 향후 개봉 후 대중들의 반응에도 긍정적인 영향을 미칠 가능성이 높아 보입니다.</p>" },
-    { type: 'cta', href: "/movie-plot-현재상영작-위키드/", text: "현재상영작 영화 위키드 뜻 뮤지컬 소설 원작 줄거리 내용 <아리아나 그란데 출연작>" },
     { type: 'ending', html: "<p>영화관에서 확인해보시길 바랍니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

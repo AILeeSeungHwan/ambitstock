@@ -120,9 +120,6 @@ const post = {
     { type: 'body', html: "<div><center><a href=&quot;/ title=&quot;10월 개봉예정영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>10월 개봉예정영화 보러 가기👉</button></a></center></div>" },
     { type: 'h2', id: "section11", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'cta', href: "/movie-box-office-audience-guide-ott/", text: "역대 영화 박스오피스 관객 수 흥행 순위 OTT 다시보기 보는 곳 총정리 2부" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

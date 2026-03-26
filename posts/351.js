@@ -34,9 +34,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>역시나 세븐틴은 춤이 압권입니다.</b></span></p>" },
     { type: 'image', src: "/images/post351_img6.jpg", alt: "영화 예매 순위", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post351_img7.jpg", alt: "영화 예매 순위", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/netflix-movie-recommend-critic-rating/", text: "넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상" },
-    { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리" },
-    { type: 'cta', href: "/plot-series-어벤져스-둠스데이-뜻/", text: "어벤져스 둠스데이 뜻 줄거리 내용 설명 | 닥터 둠 완벽정리 시리즈 -1" },
     { type: 'ending', html: "<p>이외 7위 사랑의 하츄핑 9위 8월 21일 개봉하는 필사의 추격, 10위에 슈퍼배드 4가 랭크하였습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -14,7 +14,6 @@ const post = {
     { type: 'body', html: "<p>저는 국민카드 캐시백을 활용하는데, 매달 5천 원씩만 돌려받아도 1년이면 6만 원 절약이에요. 주변에선 현대카드 M포인트를 활용해 포인트로 구독료를 거의 전액 커버하는 분도 있더군요.</p>" },
     { type: 'h2', id: "section---계정-공유--가족-그룹-", text: "③ 계정 공유 (가족 그룹)", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
     { type: 'body', html: "<p>넷플릭스는 계정 공유 제한을 강화했지만, 같은 가구 내 가족 인증을 하면 여전히 나눠 쓸 수 있습니다. 프리미엄 요금제(17,000원)를 4명이 나눠 쓰면 1인당 월 4,250원 수준이 됩니다. 제 후배는 가족끼리 계정을 나눠서 쓰는데, 본인 부담은 월 4천 원 정도라 “OTT 중 가장 가성비가 좋다”고 하더라고요.</p>" },
-    { type: 'cta', href: "/recommend-plan-comparison-netflix-disney-plus-disney-ott-vs/", text: "OTT 추천 요금제·결제 비교 2025 넷플릭스 vs 디즈니플러스, 어디가 더 합리적일까?" },
     { type: 'h2', id: "section---연간-결제-플랫폼-할인", text: "④ 연간 결제·플랫폼 할인", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
     { type: 'body', html: "<p>넷플릭스는 자체 연간 결제 할인은 없지만, 일부 통신사나 카드사 이벤트에서 <b>12개월 선결제 시 1개월 무료</b> 같은 혜택을 제공하기도 합니다. 또 구글플레이·애플 앱스토어 결제보다 웹 결제가 보통 더 저렴하니, <b>결제 경로만 바꿔도 절약</b>이 가능해요.</p>" },
     { type: 'h2', id: "section---주변-사례", text: "⑤ 주변 사례", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
@@ -27,9 +26,6 @@ const post = {
     { type: 'body', html: "<p>주변에서도 이미 이렇게 쓰는 경우가 많으니, 지금 본인 상황에 맞게 조합을 찾아보시면 좋을 것 같아요.</p>" },
     { type: 'h2', id: "section3", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
-    { type: 'cta', href: "/netflix-movie-recommend-masterpiece-top-10/", text: "넷플릭스 영화 추천 TOP 10｜꼭 봐야 할 최고의 명작 모음 (2025 최신)" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

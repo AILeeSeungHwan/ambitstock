@@ -19,21 +19,6 @@ const post = {
     },
     { type: 'image', src: '/images/post171_img1.jpg', alt: '모아나 2', caption: 'ⓒ R의 필름공장' },
     {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
       type: 'h2',
       id: 'section2',
       text: '모아나 2 개봉! 로튼 토마토 평점과 평론가 관람평 결말 후기',
@@ -66,11 +51,6 @@ const post = {
     {
       type: 'body',
       html: '<p>개봉 전 부터 비공개 시사회에서 좋지 못한 평을 받았던 영화 모아나 2, 실제 개봉 후 평론가들에게 낮은 평가를 받고 있습니다.</p>'
-    },
-    {
-      type: 'cta',
-      href: '/review-disney-new-release-movie/',
-      text: '모아나 2 뜻 의미 시사회 후기 관람평 | 기대보다 걱정이 앞서는 디즈니 신작 영화'
     },
     {
       type: 'body',

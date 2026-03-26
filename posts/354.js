@@ -24,9 +24,6 @@ const post = {
     { type: 'image', src: "/images/post354_img6.jpg", alt: "에일리언 로물루스 4DX 첫 해외 시사회 반응", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;>영화 에일리언 로물루스 개봉 후</p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b>로튼토마토 에일리언 로물루스 평론가 후기 </b></p>" },
-    { type: 'cta', href: "/release-upcoming-movie-recommend-overseas-2/", text: "2024년 8월 개봉 예정작 영화 추천 한국 해외작품 총 정리" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'cta', href: "/netflix-movie-recommend-critic-rating/", text: "넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;>빠르게 전해드리겠습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

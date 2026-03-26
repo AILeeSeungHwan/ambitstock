@@ -63,7 +63,6 @@ const post = {
     { type: 'image', src: "/images/post401_img15.jpg", alt: "최애의 아이 시즌 2기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post401_img16.jpg", alt: "최애의 아이 시즌 2기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post401_img17.jpg", alt: "최애의 아이 시즌 2기", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/plot-괴수-호-기/", text: "괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!" },
     { type: 'ending', html: "<p><figure><figcaption>최애의 아이 시즌 2기 공개 일정</figcaption> </figure> </p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

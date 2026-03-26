@@ -27,9 +27,6 @@ const post = {
     { type: 'image', src: "/images/post229_img6.jpg", alt: "마이펫의 컴백홈 어드벤처 관람평 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post229_img7.jpg", alt: "마이펫의 컴백홈 어드벤처 관람평 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post229_img8.jpg", alt: "마이펫의 컴백홈 어드벤처 관람평 후기", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/review-plot-아마존-활명수-시사회/", text: "아마존 활명수 시사회 후기 관람평 | 극한직업 케미가 돌아온다. (줄거리 내용 출연진 등장인물" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p>처참한 평가를 받은 영화 마이펫의 컴백홈 어드벤처입니다. 혹시라도 아이와 함께 이 영화를 볼 생각이 있으셨던 부모님들은 다시 한번 생각해 보는 시간을 가지시는 것이 좋을 것 같습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

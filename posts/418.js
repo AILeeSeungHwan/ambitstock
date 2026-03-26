@@ -22,9 +22,6 @@ const post = {
     { type: 'image', src: "/images/post418_img6.jpg", alt: "콰이어트 플레이스 스틸컷", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post418_img7.jpg", alt: "콰이어트 플레이스3 스틸컷", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post418_img8.jpg", alt: "콰이어트 플레이스 스틸컷", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/series-release-movie-recommend/", text: "[시리즈 개봉 전 볼만한 영화 추천] 콰이어트 플레이스 재밌나요?" },
-    { type: 'cta', href: "/release-plot-upcoming-movie-recommend/", text: "콰이어트 플레이스: 첫째 날 글로 보는 영화 | 출연진 줄거리 완벽 정리 | 현재 상영작" },
-    { type: 'cta', href: "/netflix-drama-recommend-jtbc-top10-ott/", text: "JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천" },
     { type: 'ending', html: "<p><a href=&quot;/ target=&quot;_self&quot; title=&quot;jtbc 넷플릭스 드라마 추천&quot;><span>JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천</span></a></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

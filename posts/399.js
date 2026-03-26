@@ -54,7 +54,6 @@ const post = {
     { type: 'body', html: "<p><b><span style=&quot;color: #781b33;&quot;>특히 2기의 원작내용에 해당하는 부분이 악평</span></b>을 받는 부분이기 때문에, <b><span style=&quot;background-color: #f3c000;&quot;>애니메이션에선 각색을 하게 될 것인지</span></b>,</p>" },
     { type: 'body', html: "<p>1기의 호평을 2기 애니메이션에서도 이어갈 수 있을지 기대가 되는 부분입니다.</p>" },
     { type: 'body', html: "<p>그러나 원작을 충실히 따른다면 대략적인 줄거리는 이와 비슷할 것입니다.</p>" },
-    { type: 'cta', href: "/overseas-rating-review-reaction-guide-netflix-animation-recommend/", text: "괴수 8호 시즌 2기 제작 확정! 해외 평점 및 리뷰 반응 정보 총정리 | 넷플릭스 볼만한 애니메이션" },
     { type: 'ending', html: "<p>이상으로 괴수 8호 시즌 2기 정보 마칩니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

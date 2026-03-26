@@ -22,7 +22,6 @@ const post = {
     { type: 'body', html: "<p><b>최근 공개된 넷플릭스 영화들에 대한 후기 및 평가 포스팅입니다.</b></p>" },
     { type: 'body', html: "<p><b>각 후기 결말을 확인해보시고 볼만한 영화인지 판단해보시길 바랍니다.</b></p>" },
     { type: 'image', src: "/images/post314_img1.jpg", alt: "영화 노 웨이 업", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/netflix-movie-review-ending-critic-reaction/", text: "넷플릭스 영화 레블리지 후기 결말 리뷰 로튼 평론가 반응 현재상영작" },
     { type: 'ending', html: "<p> </p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

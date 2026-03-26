@@ -30,9 +30,6 @@ const post = {
     { type: 'image', src: "/images/post214_img7.jpg", alt: "아케인 시즌2", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p><i><span style=&quot;background-color: #f3c000;&quot;>Ariel Kras - 평점 (오리지널 스코어: 3/5)</span></i><br/>첫 번째 시즌이 매우 강력했음에도 불구하고, Arcane 시즌 2는 많은 시간 동안 플롯에 얽혀 고전하다가 결국 속도를 끌어올리며 이전 시즌에서 특별했던 요소들을 다시 살려낸다.</p>" },
     { type: 'image', src: "/images/post214_img8.jpg", alt: "아케인 시즌2", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/netflix-drama-recommend-overseas-reaction-top-7/", text: "넷플릭스 볼만한 드라마 추천 오리지널 해외 반응 2024년 하반기 순위 TOP 7" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b>크리스토퍼 놀란 영화 모든 작품 평점 순 영화 추천</b></span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

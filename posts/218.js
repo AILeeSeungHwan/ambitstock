@@ -27,10 +27,6 @@ const post = {
     { type: 'body', html: "<p>한국어 제목보다는 영어 제목이 영화의 주제와 목적성을 좀 더 명확히 표현하고 있습니다.</p>" },
     { type: 'h2', id: "section-함께-보면-좋은-콘텐츠", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/review-critic-reaction-release-upcoming-movie/", text: "글래디에이터 Ⅱ 2 시사회 후기 평론가 관람평 반응 11월 가장 기대되는 개봉 예정작 영화" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

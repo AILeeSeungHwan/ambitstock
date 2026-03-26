@@ -37,7 +37,6 @@ const post = {
     { type: 'image', src: "/images/post92_img4.jpg", alt: "미키 7", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>복제와 의식의 연속성에 대한 철학적 고민을 바탕으로, 흥미진진한 전개와 독창적인 세계관을 제공합니다.</p>" },
     { type: 'body', html: "<p>드디어 공개되는 봉준호감독의 영화 미키 17을 꼭 영화관에서 확인해 보시길 바랍니다.</p>" },
-    { type: 'cta', href: "/release-review-rating-overseas-reaction-movie/", text: "미키 17 개봉 관람평 후기 평점 해외 반응 <영화 순위 1위>" },
     { type: 'ending', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?sm=tab_hty.top&amp;where=nexearch&amp;ssc=tab.nx.all&amp;query=미키17+상영일정&amp;oquery=캡틴+아메리카+브레이브+뉴+월드+상영일정&amp;tqi=iIJpelqVN8ossmwlyONssssssQd-063667&quot; title=&quot;미키 17 영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 미키 17 바로 보러 가기👉</button></a></center></div>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -47,8 +47,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>데드풀 3 - 데드풀과 울버린 티저 예고편 </b> <iframe allowfullscreen=&quot;true&quot; frameborder=&quot;&quot; height=&quot;619&quot; src=&quot;https://www.youtube.com/embed/hU05_Rkm8qE&quot; width=&quot;1100&quot;></iframe></span></p>" },
     { type: 'body', html: "<p>이상으로 해외 개봉예정작 라인업 정리를 마칩니다.</p>" },
     { type: 'body', html: "<p>원하시는 콘텐츠, 게시글이 있다면 언제든 문의 남겨주세요.</p>" },
-    { type: 'cta', href: "/movie-overseas-critic-rating-reaction-review/", text: "영화 현재 상영작 순위 해외 평론가 평점 반응 리뷰 | 콰이어트 플레이스 3 : 첫째 날" },
-    { type: 'cta', href: "/movie-release-upcoming-guide/", text: "2024년 하반기 한국영화 개봉예정작 라인업 총정리" },
     { type: 'ending', html: "<p>여러분이 만들어주시는 다양한 콘텐츠들과 함께 행복한 문화생활 즐기세요!</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

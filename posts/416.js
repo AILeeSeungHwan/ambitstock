@@ -19,7 +19,7 @@ const post = {
     { type: 'image', src: "/images/post416_img3.jpg", alt: "영화 하이재킹 성동일", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post416_img4.jpg", alt: "영화 하이재킹 여진구", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post416_img5.jpg", alt: "영화 하이재킹 채수빈", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/movie-overseas-rating-review-reaction/", text: "B급 매력의 A급 영화, 해외에서 먼저 알아본 '핸섬 가이즈' 평점 리뷰 및 반응" },
+
     { type: 'ending', html: "<p>영화 하이재킹은 4DX 또한 예매 가능하며, 웅장한 여객기 촬영액션씬을 볼만한 가치가 있다는 평가가 많습니다. 큰 화면과 웅장한 사운드를 선호하시는 분은 하이재킹 4DX로 꼭 시청하시길 바랍니다. 현재 상영작 영화 하이재킹 쿠키 영상은 없습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

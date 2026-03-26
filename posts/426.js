@@ -52,14 +52,11 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>이상으로 콰이어트 플레이스 : 첫째날 마칩니다. </span></p>" },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>본 사이트에서 더욱 다양한 영화, 드라마 컨텐츠를 즐겨보세요.</span></p>" },
     { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>[시리즈 개봉 전 볼만한 영화 추천] 콰이어트 플레이스 재밌나요?</a></p>" },
-    { type: 'cta', href: "/series-release-movie-recommend/", text: "[시리즈 개봉 전 볼만한 영화 추천] 콰이어트 플레이스 재밌나요?" },
     { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;> 2024년 하반기 한국영화 개봉예정작 라인업 총정리</a></p>" },
-    { type: 'cta', href: "/movie-release-upcoming-guide/", text: "2024년 하반기 한국영화 개봉예정작 라인업 총정리" },
     { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>어벤저스 5 메인 빌런 캉에 대한 모든것, 히어로만 60명 아이언맨 복귀는? - 해외 반응과 개봉 정보 총정리 OTT 다시보기</a></p>" },
     { type: 'cta', href: "/", text: "어벤저스 5 메인 빌런 캉에 대한 모든것, 히어로만 60명 아이언맨 복귀는? - 해외 반응과 개봉 정" },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>출처</span></p>" },
     { type: 'body', html: "<ul style=&quot;list-style-type: disc;&quot;> <li style=&quot;color: inherit;&quot;><span style=&quot;font-family: 'Noto Serif KR';&quot;><a href=&quot;https://en.wikipedia.org/wiki/A_Quiet_Place:_Day_One&quot; title=&quot;위키피디아&quot;>A Quiet Place: Day One - Wikipedia</a></span></li> <li style=&quot;color: inherit;&quot;><span style=&quot;font-family: 'Noto Serif KR';&quot;><a href=&quot;https://www.space.com/a-quiet-place-day-one-alien-invasion-trailer-paramount&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot; title=&quot;space.com&quot;>A Quiet Place: Day One - Space.com</a></span></li> </ul>" },
-    { type: 'cta', href: "/overseas-movie-release-guide/", text: "[2024년 하반기 해외 개봉예정영화 기대작 순위] 조커2 글래디에이터 2 데드풀 3 까지, 개봉일 공식" },
     { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>포토 이미지 출처 - IMDB</span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

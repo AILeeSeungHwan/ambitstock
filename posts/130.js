@@ -45,7 +45,6 @@ const post = {
     { type: 'body', html: "<p>‘HITMAN IS BACK!’ 대한민국을 포복절도하게 만든 암살요원, 이번엔 ‘암살요인 준’으로 돌아왔다! 욱해서 그린 웹툰 *'암살요원 준'*의 성공으로 잠시 흥행 작가가 된 '준'. 그러나 시즌 2 연재와 동시에 '뇌절작가'로 전락한 그는, 망작이 된 시즌 2로 오히려 자신을 노리는 글로벌 악당들의 내한 열풍을 일으킨다.</p>" },
     { type: 'body', html: "<p>아무것도 모른 채 다시 한번 대히트를 꿈꾸며 신작 웹툰 연재에 돌입한 '준'. 하지만 그의 웹툰을 모방한 테러가 발생하고, 국정원은 그를 범인으로 지목하는데… 과연 ‘준’은 예언자인가, 아니면 테러리스트인가? 2025년, 더욱 강렬해진 그의 대히트를 기대하라!</p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2025년 1월 개봉예정작 총정리&quot;><span style=&quot;background-color: #f3c000;&quot;><b>2025년 1월 개봉하는 모든 영화 총정리! 영화 추천 순위 TOP10</b></span></a></p>" },
-    { type: 'cta', href: "/release-upcoming-guide-movie-recommend-top10/", text: "2025년 1월 개봉예정작 총정리! 영화 추천 순위 TOP10" },
     { type: 'h2', id: "section5", text: "4. 검은 수녀들", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
     { type: 'body', html: "<p><b>4번째 작품은 검은 수녀들 입니다.</b></p>" },
     { type: 'image', src: "/images/post130_img5.jpg", alt: "영화 폭락", caption: "ⓒ R의 필름공장" },
@@ -73,10 +72,6 @@ const post = {
     { type: 'body', html: "<p>선생님 그때부터였던 것 같아요…. 우리 애가 나가더니, 갑자기 엄마~ 엄마~ 목 터지게 부르는 거야! 그래서, 이 개#@뒈!@#^%놈이 또 무슨 사고 치고 지@#%염@$#나 내가 설거지하다 말고 방망이 들고 옥상에 뛰어나갔더니 글쎄 어머머 벼락을 맞았지 뭐예요?! 그리고 애가 얼마나 놀랬으면 지리는거야 내가 계속 지리라 했어요. 선생님 잘했죠??? 그런데 그날 이후… 하찮은 능력이 생긴 경찰과 그 가족의 웃음벨 코미디가 시작된다!</p>" },
     { type: 'h2', id: "section8", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'cta', href: "/movie-drama-recommend-netflix/", text: "볼만한 영화 드라마 추천 넷플릭스 시청가능 <이동진 박평식 한줄평 추천작품>" },
-    { type: 'cta', href: "/netflix-movie-recommend-release-upcoming-guide/", text: "2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

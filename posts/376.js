@@ -89,12 +89,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>아버지를 용서하려는 방탕한 아들, 지난 밤의 연인을 그리워하는 청년, 아들을 보고 싶어하는 남편을 기다리는 아내 등의 사연을 도라는 삐뚤빼뚤한 글씨로 편지지에 옮긴다.</span></p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>하지만 도라는 그들의 꿈과 희망, 그리고 그리움을 담은 편지들을 </span><span style=&quot;color: inherit; text-align: start;&quot;>우체통 대신 쓰레기통에 던져버린다.</span></p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>그녀에게는 그들의 이야기들이 신물나게 느껴질 뿐이다...</span></b></span></p>" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/netflix-movie-recommend-critic-rating/", text: "넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상" },
-    { type: 'cta', href: "/overseas-movie-release-guide/", text: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리" },
-    { type: 'cta', href: "/movie-recommend-guide-box-office-audience-top20-ott/", text: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위" },
-    { type: 'cta', href: "/tving-drama-recommend-tvn-top-10/", text: "2024년 TVN 역대 시청률 TOP 10 티빙 드라마 순위 추천" },
-    { type: 'cta', href: "/disney-plus-disney-series-drama-recommend-top-10/", text: "디즈니플러스 오리지널 시리즈 한국 볼만한 드라마 추천 순위 TOP 10" },
     { type: 'ending', html: "<p>박평식 평론가 시리즈 두번째에선 평점 9점을 남긴 영화들을 알아보도록 하겠습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

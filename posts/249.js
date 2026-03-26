@@ -26,11 +26,6 @@ const post = {
     { type: 'image', src: "/images/post249_img3.jpg", alt: "영화 스마일 2 시사회 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post249_img1.jpg", alt: "영화 스마일 2 시사회 후기", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>이상으로 영화 스마일 2에 대한 해외 시사회 후기 관람평 반응 마칩니다.</p>" },
-    { type: 'cta', href: "/movie-rating-ending-review/", text: "영화 스마일 왜 인기 순위 상위 기대작인가? 전작의 평가를 보면 답이 있다. 1편 로튼토마토 평점" },
-    { type: 'cta', href: "/horror-movie-recommend-guide/", text: "2024년 공포 영화 추천 인기 순위 총정리 현재상영작" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

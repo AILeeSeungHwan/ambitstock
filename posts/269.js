@@ -46,17 +46,6 @@ const post = {
     { type: 'body', html: "<p>해외에서도 엄청난 반응을 일으키고 있는 흑백요리사, 혹시라도 시청하지 않으신 분이 있다면 다른 작품 다 넣어두시고 이것 꼭 보시길 바랍니다.</p>" },
     { type: 'body', html: "<p>정말 1위로 뽑는 이유가 있습니다. 아마 시청해 보신 분들이라면 납득할만한 순위라고 생각됩니다.</p>" },
     { type: 'body', html: "<p>이상으로 넷플릭스 드라마 추천 포스팅 마칩니다.</p>" },
-    { type: 'cta', href: "/netflix-series-recommend-rating-overseas-reaction/", text: "넷플릭스 시리즈 인기 순위 추천 실화 기반 괴물 메넨 데즈 형제 이야기 - 주요 등장인물 평점 해" },
-    { type: 'cta', href: "/netflix-series-rating/", text: "넷플릭스 시리즈 완전무결한 커플 글로벌 순위 압도적 1위 | 로튼 평점 볼만할까?" },
-    { type: 'cta', href: "/netflix-drama-overseas-rating-review-reaction-series/", text: "넷플릭스 드라마 아무도 없는 숲속에서 해외 평점과 후기 반응 볼만한 시리즈인가?" },
-    { type: 'cta', href: "/netflix-animation-rating-reaction-twilight-of-the-gods/", text: "넷플릭스 애니메이션 신들의 황혼 Twilight of the Gods 아쉬운 평점과 의외의 반응" },
-    { type: 'cta', href: "/netflix-series-season-plot/", text: "넷플릭스 시리즈 지옥 시즌 2 줄거리 내용 | 유아인 부재 대체자는 김성철 데뷔작부터 대표작 필" },
-    { type: 'cta', href: "/netflix-series-recommend-season/", text: "넷플릭스 시리즈 추천 지옥 시즌 2 출연진 등장인물 유아인 김성철 문근영" },
-    { type: 'cta', href: "/netflix-series-recommend-season-plot-rating/", text: "넷플릭스 시리즈 추천 경성크리처 시즌 2 공개 뜻 줄거리 내용 | 이번에도 일본 평점테러 논란 생" },
-    { type: 'cta', href: "/season-overseas-reaction-review-critic-rating-imdb/", text: "경성크리처 시즌 2 해외 반응 뜨겁다! 로튼토마토 후기 평가 IMDB 평론가 시청자 평점" },
-    { type: 'cta', href: "/netflix-recommend-season-ending-review-overseas-reaction/", text: "넷플릭스 현재상영작 인기 순위 추천 경성크리처 시즌 2 결말 후기 리뷰 | 벌써부터 시즌 3 기대" },
-    { type: 'cta', href: "/netflix-recommend-overseas-review-reaction/", text: "넷플릭스 추천 흑백요리사 순위 비영어권 1위! 해외 후기 리뷰 심사위원 반응 우승자는 누구인가" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
     { type: 'ending', html: "<p>아래 포스팅을 통해 넷플릭스 영화 추천도 확인해 보실 수 있습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

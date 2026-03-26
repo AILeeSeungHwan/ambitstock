@@ -19,21 +19,6 @@ const post = {
     },
     { type: 'image', src: '/images/post170_img1.jpg', alt: '나 혼자만 레벨업 리어웨이크닝 관람평 후기', caption: 'ⓒ R의 필름공장' },
     {
-      type: 'cta',
-      href: '/netflix-movie-recommend-critic-masterpiece-rating-top-10/',
-      text: '넷플릭스 영화 추천 | 박평식 평론가의 7점은 97점이다 명작 영화 평점 순위 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-overseas-critic-rating-guide/',
-      text: '크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
       type: 'h2',
       id: 'section2',
       text: '2024년 11월 28일 개봉 영화 나 혼자만 레벨업 - 리어웨이크닝 - 관람평 후기',

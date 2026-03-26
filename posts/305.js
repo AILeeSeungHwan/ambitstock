@@ -36,7 +36,6 @@ const post = {
     { type: 'image', src: "/images/post305_img5.jpg", alt: "스픽 노 이블 결말 후기 반응", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post305_img6.jpg", alt: "스픽 노 이블 결말 후기 반응", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>여기까지 스픽 노 이블의 해외 평론가 후기 포스팅 마무리합니다.</p>" },
-    { type: 'cta', href: "/recommend-movie-plot-critic-rating-reaction/", text: "현재 상영작 추천 영화 스픽 노 이블 제목 뜻 예매할까 말까 | 스포 포함 줄거리 내용 평론가 평" },
     { type: 'ending', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

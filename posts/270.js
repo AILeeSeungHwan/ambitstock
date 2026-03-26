@@ -36,9 +36,6 @@ const post = {
     { type: 'body', html: "<p>10/10, 복잡한 캐릭터와 잘 만들어진 상호작용, 뛰어난 연기를 원한다면 강력 추천한다.</p>" },
     { type: 'body', html: "<p>이상으로 경성크리처 해외 후기리뷰 포스팅 마무리하겠습니다.</p>" },
     { type: 'body', html: "<p>전체적으로 긍정적인 평가가 많은, 잘 뽑힌 작품이라 생각됩니다. 시즌 1을 재밌게 시청하신 분이라면 꼭 시즌 2도 시청해보시길 바랍니다. 이러한 좋은 평가 반응을 바탕으로 시즌 3가 이어졌으면 좋겠습니다.</p>" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

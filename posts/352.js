@@ -30,9 +30,6 @@ const post = {
     { type: 'body', html: "<p>지긋지긋하다. 캐릭터도, 각본도, 연출도, 시대배경도.<br/>[1회차: Laser 2D 시사회] - 2.0</p>" },
     { type: 'body', html: "<p>앞선 영화들보다 하나 비범한 점이 없다 - 2.5</p>" },
     { type: 'body', html: "<p>더 많은 행복의 나라 평점과 후기는 왓챠피디아에서 확인 가능합니다.</p>" },
-    { type: 'cta', href: "/marvel-release-upcoming-disney-plus-disney-series-feat/", text: "2024년 마블 영화 개봉 예정 작품 개봉일 순으로 총 정리" },
-    { type: 'cta', href: "/movie-overseas-critic-reaction-ending-review/", text: "영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기" },
-    { type: 'cta', href: "/netflix-movie-recommend-critic-rating/", text: "넷플릭스 영화 추천 | 이동진 평론가 평점 만점작에서 찾는 인생영화 - 넷플릭스 시청가능 수상" },
     { type: 'ending', html: "<p><span style=&quot;background-color: #01ff51;&quot;><b>영화 행복의 나라 개봉 후 로튼 토마토 해외 반응과 평점 후기</b></span> 전해드리겠습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

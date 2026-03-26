@@ -23,9 +23,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;>로저 무어 - 평점: 3/4</span> <br/>'할머니가 돌아가시기 전에 백만장자가 되는 법'은 탐욕스러운 가족 소동극처럼 제목이 붙여졌지만, 달콤하고 슬프고 감상적인 태국의 종말론 멜로 드라마이다.</p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;>마크 듀직 - 평점: 3.5/4</span> <br/>'할머니가 돌아가시기 전에 백만장자가 되는 법'은 매우 감동적이지만, 영화는 캐릭터들을 진짜이고 결점이 있는 사람들로 대하며 감정적 보상을 얻는다.</p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;>아비 오퍼 - 평점: N/A</span> <br/>손자와 할머니의 관계를 따뜻하고 애정 어린 시선으로 그린 작품으로, 사랑과 연민을 촉구하는 항의의 메시지를 담고 있다.</p>" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

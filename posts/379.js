@@ -67,7 +67,6 @@ const post = {
     { type: 'image', src: "/images/post379_img7.jpg", alt: "영화 트위스터스 등장인물 캐스팅", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post379_img8.jpg", alt: "영화 트위스터스 평론가 평점", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post379_img9.jpg", alt: "영화 트위스터스 평론가 평점", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/movie-overseas-critic-reaction-ending-review/", text: "영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기" },
     { type: 'ending', html: "<p>다음 포스팅에서 영화 트위스터스의 해외 평론가들의 후기 살펴보겠습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

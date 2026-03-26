@@ -11,7 +11,6 @@ const post = {
     { type: 'body', html: "<p>콰이어트 플레이스 : 첫째날에 대한 완벽 정리, 3편은 하단 게시글을 확인하세요.</p>" },
     { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>콰이어트 플레이스 3: 첫째날 개봉 전 남들보다 미리보는 예고편 | 출연진 줄거리 완벽 정리 | 개봉 예정 영화 추천</a></p>" },
     { type: 'image', src: "/images/post428_poster.jpg", alt: "포스트 428 관련 이미지", caption: "출처: 네이버 영화" },
-    { type: 'cta', href: "/release-plot-upcoming-movie-recommend/", text: "콰이어트 플레이스 3: 첫째날 개봉 전 남들보다 미리보는 예고편 | 출연진 줄거리 완벽 정리 | 개" },
     { type: 'h2', id: "section-주요-등장인물-및-배우", text: "주요 등장인물 및 배우", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>에블린 애벗 (Evelyn Abbott)</b></span></p>" },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>가족의 어머니 역할로, 에밀리 블런트가 연기한다. 강인하고 헌신적인 인물로, 가족을 지키기 위해 최선을 다한다.</span><br><span style=&quot;font-family: 'Noto Serif KR';&quot;></span></br></p>" },

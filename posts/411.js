@@ -37,12 +37,9 @@ const post = {
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;>개봉일: 2019-01-23<br/>매출액: 139,657,105,516원<br/>관객 수: 16,266,480명<br/>상영관 수: 2,003<br/>상영 횟수: 292,817<br/>출연진: 류승룡, 이하늬, 진선규, 이동휘</p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;>극한직업 OTT 다시보기 보는곳 : 넷플릭스 왓챠 티빙</p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;>개봉일: 2014-07-30<br/>매출액: 135,762,080,310원<br/>관객 수: 17,616,299명<br/>상영관 수: 1,587<br/>상영 횟수: 188,729<br/>출연진: 최민식, 류승룡, 조진웅, 진구</p>" },
-    { type: 'cta', href: "/movie-recommend-guide-box-office-audience-top20-ott/", text: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위" },
     { type: 'cta', href: "/", text: "[서울의 봄 해외 평점 및 해외 반응] - 해외에서 바라보는 전두광의 그날 해외 개봉소식, 천만돌" },
     { type: 'cta', href: "/", text: "[영화 추천 베테랑 2 개봉 전 정보, 천만관객 베테랑 1편 해외 리뷰 평점 반응] - 역대 박스오피스" },
     { type: 'cta', href: "/", text: "어벤저스 5 메인 빌런 캉에 대한 모든것, 히어로만 60명 아이언맨 복귀는? - 해외 반응과 개봉 정" },
-    { type: 'cta', href: "/movie-overseas-reaction-rating-review-box-office-series-netflix/", text: "[영화 극한직업 해외 반응 평점 및 리뷰] - 역대 박스오피스 시리즈 세번째 넷플릭스로 다시보기" },
-    { type: 'cta', href: "/movie-audience-review-overseas-rating-reaction/", text: "[영화 노량:죽음의 바다 관객수 해외 개봉 반응 리뷰 및 평점] - 이리도 조선에 편리한 이야기 일" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;>명량 OTT 다시보기 보는곳 : 넷플릭스 왓챠 티빙</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

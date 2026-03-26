@@ -25,9 +25,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;color: #781b33;&quot;><b>동시에 그 시기에 일어난 여러가지 사회적 사건들을 너무 많이 보여주려고 하다보니 영화가 바빠보인다는 단점</b></span>도 있다.</p>" },
     { type: 'body', html: "<p>다들 쪼오금 줏대가 없어 보이긴 하는... - 3.0</p>" },
     { type: 'body', html: "<p>평점과 후기 출처는 왓챠피디어입니다.</p>" },
-    { type: 'cta', href: "/movie-overseas-reaction-ending-dx-sns/", text: "영화 에일리언 로물루스 4DX 예매 첫 SNS 시사회 해외 반응 역대 최고의 결말 스틸컷과 함께 보기" },
-    { type: 'cta', href: "/movie-overseas-critic-reaction-ending-review/", text: "영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기" },
-    { type: 'cta', href: "/movie-release-plot/", text: "영화 행복의 나라 개봉일 확정 티저 예고편 공개 - 줄거리 및 등장인물 정보" },
     { type: 'ending', html: "<p>더 많은 반응은 왓챠피디어에서 확인 가능합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -35,10 +35,6 @@ const post = {
     { type: 'image', src: "/images/post257_img4.jpg", alt: "악이 도사리고 있을 때", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post257_img3.jpg", alt: "악이 도사리고 있을 때", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>이상으로 악이 도사리고 있을 때 평론가 후기 반응 알아보았습니다.</p>" },
-    { type: 'cta', href: "/overseas-critic-rating-reaction-horror-movie/", text: "악이 도사리고 있을 때 해외 시사회 평론가 로튼 토마토 평점 반응 | 아마 올해 공포 영화 중 최" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

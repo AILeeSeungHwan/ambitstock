@@ -12,7 +12,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;>각 작품에 대한 포스터와 영화의 줄거리, 그리고 감독의 영화에 대한 인터뷰를 함께 소개해드리겠습니다. </span></p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;><span style=&quot;caret-color: inherit; background-color: transparent;&quot;><b>해당 포스팅은 넷플릭스 공식 홈페이지의 2025년 공개예정 한국영화감독 인터뷰를 참고하여 작성하였습니다.</b></span></span></p>" },
     { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!&quot;><br>2024.12.28 - [영화/영화 정보] - 2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리! 1부</br></a></p>" },
-    { type: 'cta', href: "/netflix-movie-recommend-release-upcoming-guide/", text: "2025년 한국 넷플릭스 영화 추천 개봉예정작 총정리!" },
     { type: 'h2', id: "section2", text: "5. 사마귀 (mantis)", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'h2', id: "section-장르", text: "장르", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
     { type: 'image', src: "/images/post135_img2.jpg", alt: "넷플릭스 개봉예정작", caption: "ⓒ R의 필름공장" },
@@ -55,10 +54,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;>공간들의 현실적인 톤을 놓치지 않으면서 최대한 다채롭게 표현하려고 노력했다”며, 현실 스릴러라는 장르적 재미를 예고했습니다. 또한, “첫 작품은 스마트폰을 소재로 했고, 이번 작품은 집을 소재로 하다 보니 넷플릭스의 시청 환경과 궁합이 잘 맞겠다는 생각을 했다”며 넷플릭스와의 호흡에 대한 기대감을 전했습니다.</span></p>" },
     { type: 'h2', id: "section5", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
-    { type: 'cta', href: "/plot-analysis-movie-release-upcoming/", text: "미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

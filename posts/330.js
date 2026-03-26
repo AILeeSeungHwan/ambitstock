@@ -38,7 +38,6 @@ const post = {
     { type: 'image', src: "/images/post330_img4.jpg", alt: "베테랑 2 오달수", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post330_img3.jpg", alt: "베테랑 2 정해인", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post330_img1.jpg", alt: "베테랑 2", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/movie-rating-overseas-review-reaction/", text: "베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에" },
     { type: 'ending', html: "<p>베테랑 2의 칸 영화제 시사회 반응은 아래 포스팅을 확인해 보세요.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

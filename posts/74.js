@@ -28,11 +28,7 @@ const post = {
     { type: 'body', html: "<p>저는 개인적으로 성룡이 세월과 함께 어떤 방식으로 무대 위에 다시 서는지 보여주는 <b>배우 인생의 전환점</b>이라고 생각합니다.</p>" },
     { type: 'body', html: "<p>지금 이 영화를 볼 수 있다는 사실만으로도 한 편의 시대를 경험하는 기분이 듭니다.</p>" },
     { type: 'h2', id: "section5", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
-    { type: 'cta', href: "/movie-plot-action/", text: "영화 〈포풍추영〉 뜻 줄거리·출연진 성룡·양가휘·세븐틴 준의 홍콩 폭풍 액션 영화!" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

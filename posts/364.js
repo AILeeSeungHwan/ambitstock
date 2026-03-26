@@ -30,7 +30,6 @@ const post = {
     { type: 'image', src: "/images/post364_img4.jpg", alt: "충격적 새로운 캡틴 아메리카 아이언맨 닥터 둠, 2025년 디즈니의 마블 논란 이슈", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b>차기 아이언맨 아이언하트에 대한 두가지 논란은 하단 포스팅에서 확인가능합니다.</b></p>" },
     { type: 'cta', href: "/", text: "어벤저스 5 메인 빌런 캉에 대한 모든것, 히어로만 60명 아이언맨 복귀는? - 해외 반응과 개봉 정" },
-    { type: 'cta', href: "/marvel-disney-series/", text: "[마블 뉴스] 차기 아이언맨은 흑인 여성이다 - 디즈니 플러스 시리즈 아이언 하트 공개 논란 두가" },
     { type: 'ending', html: "<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, 'Malgun Gothic', '맑은 고딕', dotum, 돋움, sans-serif;&quot;>다음 포스팅에서 2025년, 2026년 마블 공개 예정 모든 작품들을 전달해드리겠습니다.</span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

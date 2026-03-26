@@ -49,11 +49,6 @@ const post = {
     { type: 'body', html: "<p><b><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;background-color: #f3c000;&quot;><span style=&quot;background-color: #f3c000;&quot;>Rotten score: 2/5</span></span></span></b></p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b>데드풀과 울버린 쿠키 영상은 </b></p>" },
     { type: 'image', src: "/images/post382_img10.jpg", alt: "데드풀과 울버린 평점 해외 반응 후기 | 쿠키 정보 마블 현재 상영작 영화 추천", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/overseas-movie-release-guide/", text: "2024년 하반기 해외 블록버스터 영화 추천 개봉예정 기대작 총정리" },
-    { type: 'cta', href: "/new-release-netflix-movie-drama-recommend-top-10/", text: "신작 고민끝! 2024년 넷플릭스 볼만한 영화 애니 드라마 추천 현재 상영작 순위 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-guide-box-office-audience-top20-ott/", text: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위" },
-    { type: 'cta', href: "/movie-release-series-overseas-reaction-rating-review-ott/", text: "영화 데드풀 3: 데드풀과 울버린 R등급 개봉! 시리즈 전 작품 해외 반응 평점 후기는? OTT 다시보기" },
-    { type: 'cta', href: "/marvel-movie-recommend-series-overseas-critic-rating-review/", text: "데드풀과 울버린 보기 전 마블 영화 추천 시리즈! 데드풀 2 로튼토마토 해외 평론가 평점 후기 리" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><b>엔딩 크레딧이 모두 끝난 이후 총 1개 있습니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -50,11 +50,6 @@ const post = {
       html: '<p>주연으로는 로버트 패틴슨, 마크 러팔로, 나오미 애키, 토니 콜렛 등이 캐스팅되어 많은 영화 팬들의 기대를 받고 있죠. 현재까지 공식 시사회는 진행되지 않았지만, 내부 관계자와 일부 관객을 대상으로 한 비공식 테스트 시사회가 열렸으며, 이에 대한 후기가 조금씩 공개되고 있습니다.</p>'
     },
     {
-      type: 'cta',
-      href: '/plot-analysis-movie-release-upcoming/',
-      text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
-    },
-    {
       type: 'h2',
       id: 'section3',
       text: '미키 17 시사회 해외 관람평 긍정적 반응',
@@ -156,21 +151,6 @@ const post = {
     {
       type: 'ending',
       html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
-    {
-      type: 'cta',
-      href: '/critic-recommend-masterpiece-movie-top-10/',
-      text: '이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10'
-    },
-    {
-      type: 'cta',
-      href: '/movie-recommend-critic-masterpiece/',
-      text: '박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10'
-    },
-    {
-      type: 'cta',
-      href: '/plot-analysis-movie-release-upcoming/',
-      text: '미키 17 제목 뜻 원작 줄거리 내용 해석 | 2025년 최고 기대작 개봉예정영화'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

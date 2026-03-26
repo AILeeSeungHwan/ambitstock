@@ -45,8 +45,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>꽤 오랜만의 영화관 혼자.</span><br/><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>스크린 독차지로 감상.</span><br/><br/><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>이번에는 조금 맛이 다른 느낌으로.</span><br/><br/><b><span style=&quot;background-color: #01ff51; color: inherit; text-align: start;&quot;>마지막으로 충격적인 사실 발각으로, 입이 뾰뼜어.</span></b><br/><br/><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>내년에는 그 사람들이구나, 기대된다!</span></p>" },
     { type: 'image', src: "/images/post386_img13.jpg", alt: "명탐정코난 극장판 100만 달러의 펜타그램", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b><span style=&quot;color: inherit; text-align: start;&quot;>3.6/5.0</span></b></span></p>" },
-    { type: 'cta', href: "/movie-overseas-rating-reaction-ending-review/", text: "영화 탈출: 프로젝트 사일런스 해외 평점과 외국 반응 결말 후기 재미있을까" },
-    { type: 'cta', href: "/release-movie-plot-overseas-review-rating-reaction/", text: "영화 탈주 줄거리 완벽 정리 | 등장인물 예고편 | 해외 개봉 소식과 리뷰 평점 반응" },
     { type: 'ending', html: "<p><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>코난 지식이 없는 나, 스포일러 없는 사이트에서 주요 캐릭터의 인간관계나 인연 등을 예습해서 임한 덕분에, 꽤 알기 쉬웠어!</span><br/><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>주위의 진지한 평가는 그 정도였지만, 나에게는 꽤 재미있고, 즐거웠어!</span><br/><span style=&quot;background-color: transparent; color: inherit; text-align: start;&quot;>가슴 뭉클한 장면도,♡</span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

@@ -84,15 +84,6 @@ const post = {
     { type: 'body', html: "<p>히스 레저의 조커 연기는 전설로 남았습니다.</p>" },
     { type: 'body', html: "<p>이상으로 크리스토퍼 놀란 감독 영화 시리즈 평점순위 포스팅 마칩니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'cta', href: "/movie-overseas-rating-netflix-imdb/", text: "크리스토퍼 놀란 영화 중 꼴찌! 테넷 해외 로튼토마토 IMDB 평점은? 넷플릭스 시청가능" },
-    { type: 'cta', href: "/movie-ending-analysis-series/", text: "영화 인터스텔라 뜻 결말 해석 완전 정복 크리스토퍼 놀란 감독 시리즈-2" },
-    { type: 'cta', href: "/movie-ending-analysis-review-series/", text: "영화 인셉션 뜻 결말 해석 리뷰 - 코브는 자유를 찾았는가 크리스토퍼 놀란 시리즈-3" },
-    { type: 'cta', href: "/movie-recommend-critic-review-series/", text: "크리스토퍼 놀란 영화 추천 인셉션 로튼 토마토 평론가 후기 리뷰 시리즈 3-2" },
-    { type: 'cta', href: "/ending-analysis-movie-recommend/", text: "메멘토 뜻 의미 결말 해석 | 우리의 기억은 진실 되었는가? 크리스토퍼 놀란 영화 추천 -5" },
-    { type: 'cta', href: "/masterpiece-movie-recommend-ending-analysis-review-series/", text: "명작 영화 추천 배트맨 다크나이트 뜻과 의미 결말 해석 리뷰 | 빛보다 밝은 어둠이여 놀란 시리" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

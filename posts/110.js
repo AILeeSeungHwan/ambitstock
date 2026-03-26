@@ -144,8 +144,6 @@ const post = {
     { type: 'body', html: "<p>최고의 지휘자이지만 동시에 최악의 폭군인 '플레쳐' 교수는 폭언과 학대로 '앤드류'를 한계까지 몰아붙이고 또 몰아붙인다. 드럼 주위로 뚝뚝 떨어지는 피, 빠르게 달리는 선율 뒤로 아득해지는 의식 속에서, 드럼에 대한 '앤드류'의 집착과 광기가 폭발한다.</p>" },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>최고의 연주를 위한 완벽한 스윙이 시작된다!</b></span></p>" },
     { type: 'h2', id: "section-위플래쉬-리뷰-2부작", text: "위플래쉬 리뷰 2부작", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
-    { type: 'cta', href: "/movie-review-netflix-recommend-the-one-thing/", text: "[이 정도면 정말 잘한 걸까? The One Thing을 향해] 영화 위플래쉬 리뷰 2부 넷플릭스 인생 영화 추천" },
-    { type: 'cta', href: "/movie-ending-analysis-netflix-recommend-series-plot-review/", text: "[영화 위플래쉬 결말은 해피엔딩일까] 뜻과 해석 - 넷플릭스 인생 영화 추천 시리즈 줄거리 리뷰" },
     { type: 'h2', id: "section17", text: "6. 살인의 추억", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
     { type: 'body', html: "<p><figure><figcaption>넷플릭스 영화 추천 2025년</figcaption> </figure> </p>" },
     { type: 'image', src: "/images/post110_img17.jpg", alt: "넷플릭스 영화 추천 2025년", caption: "ⓒ R의 필름공장" },
@@ -203,10 +201,6 @@ const post = {
     { type: 'body', html: "<p>감독 자신을 키운 여성들에 대한 깊은 애정을 담아, 1970년대 멕시코의 정치적 격변 속에서 주인공들이 겪는 가정 내 갈등과 사회적 억압을 사실적으로 그려낸 작품이다.</p>" },
     { type: 'h2', id: "section23", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
-    { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
-    { type: 'cta', href: "/release-upcoming-guide-movie-recommend-top10/", text: "개봉예정영화 2025년 1월 추천 순위 총정리 TOP10" },
-    { type: 'cta', href: "/netflix-movie-recommend-series-release-upcoming-guide/", text: "넷플릭스 영화 추천 시리즈 2025년 한국 개봉예정작 총정리!" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

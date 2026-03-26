@@ -24,7 +24,6 @@ const post = {
     { type: 'image', src: "/images/post311_img4.jpg", alt: "조커 2 시사회 평론가 후기반응", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post311_img3.jpg", alt: "조커 2 시사회 평론가 후기반응", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post311_img1.jpg", alt: "조커 2 로튼토마토 평점", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/plot-folie-deux/", text: "조커 2 폴리 아 되 제목 뜻 의미 Folie à Deux? 줄거리 내용과 연관관계 심층분석" },
     { type: 'ending', html: "<p>당연하게도 현재 인기순위는 11위로, 개봉까지 시간이 남아있음에도 높은 순위를 기록하고 있습니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

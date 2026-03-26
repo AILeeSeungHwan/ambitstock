@@ -51,10 +51,6 @@ const post = {
     { type: 'h2', id: "section-함께-보면-좋은-콘텐츠", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
     { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;마블 영화 2025-2027&quot;>2024.08.04 - [영화/마블] - 마블 영화 개봉 예정 총 정리 2025년 - 2027년</a></p>" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'cta', href: "/netflix-movie-recommend-guide-top-10/", text: "넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!" },
-    { type: 'cta', href: "/ending-review-guide/", text: "조커 2 폴리아되 예매 할지 말지 정해드림 | 시사회 결말 후기 노 스포 리뷰 총정리" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

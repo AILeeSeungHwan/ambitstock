@@ -37,9 +37,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; line-height: 1.8;&quot;>브리저튼 시즌4는 화려함은 유지하면서도 다음 시즌을 향한 포석을 남긴 이야기다. 결말이 완전히 닫히지 않았기에, 시즌5에 대한 기대는 당분간 계속 이어질 듯하다.</p>" },
     { type: 'h2', id: "section8", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-rating-top-9/", text: "영화 추천 쿠엔틴타란티노 필모그래피 수상작품 평점 인기 순위 TOP 9" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

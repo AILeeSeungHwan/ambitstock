@@ -32,9 +32,6 @@ const post = {
     { type: 'image', src: "/images/post373_img8.jpg", alt: "영화 리볼버 시사회 평점 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post373_img9.jpg", alt: "영화 리볼버 시사회 평점 후기", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post373_img10.jpg", alt: "영화 리볼버 시사회 평점 후기", caption: "ⓒ R의 필름공장" },
-    { type: 'cta', href: "/movie-review-rating/", text: "현재상영작 영화 파일럿 성차별 논란 이슈 후기와 평점 쿠키 정보" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
     { type: 'ending', html: "<p><figure><figcaption>영화 리볼버 시사회 평점 후기</figcaption> </figure> </p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

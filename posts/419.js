@@ -35,9 +35,6 @@ const post = {
     { type: 'image', src: '/images/post419_drama11.jpg', alt: '무빙 포스터', caption: 'ⓒ 네이버 영화' },
     { type: 'body', html: "<ul style=&quot;list-style-type: disc;&quot;><li><b>줄거리:</b> 초능력을 가진 세 명의 십대와 그들의 부모가 비밀을 지키기 위해 벌이는 이야기입니다. 빠른 회복 능력을 가진 장주원, 그의 친구 김두식, 그리고 초능력을 숨기며 살아가는 이미현이 주요 인물로 등장하며, 이들이 협력하여 비밀을 지키기 위해 벌이는 긴장감 넘치는 이야기를 그립니다.</li></ul><ul style=&quot;list-style-type: disc;&quot;> <li style=&quot;color: inherit;&quot;><b>출연진 및 배역:</b> <ul style=&quot;list-style-type: disc;&quot;> <li><b>류승룡:</b><span> </span>장주원 역</li> <li><b>조인성:</b><span> </span>김두식 역</li> <li><b>한효주:</b><span> </span>이미현 역</li> <li><b>차태현:</b><span> 전계도</span> 역</li> <li><b>류승범:</b><span> 프랭크</span> 역</li> <li><b>김성균</b>: 이재만 역</li> </ul> </li> </ul>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'cta', href: "/movie-release-upcoming-guide/", text: "2024년 하반기 한국영화 개봉예정작 라인업 총정리" },
-    { type: 'cta', href: "/netflix-drama-recommend-jtbc-top10-ott/", text: "JTBC 역대 시청률 순위 TOP10 OTT 넷플릭스 드라마 추천" },
-    { type: 'cta', href: "/movie-recommend-guide-box-office-audience-top20-ott/", text: "TOP20 영화 추천 OTT 다시보기 보는 곳 총정리! - 역대 박스오피스 관객 수 흥행 순위" },
     { type: 'ending', html: "<p>이 글이 도움이 되셨다면 관련 포스팅도 확인해보세요.</p>" }
   ]
 }

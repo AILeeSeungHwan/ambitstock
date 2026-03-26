@@ -22,7 +22,6 @@ const post = {
     { type: 'body', html: "<p><b>Sarah Musnicky - 평점 6.5/10</b><br/>우민호는 이야기의 전개를 우선시하며 이 영감을 주는 긴장감 넘치는 이야기를 다소 텅 비어있는 느낌으로 만든다. 그럼에도 불구하고, 이 점을 제외하면 &quot;하얼빈&quot;은 충분히 능숙하고 스릴 넘치는 영화이다.</p>" },
     { type: 'body', html: "<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>국가 영웅 이야기에 대한 존경심은 인정<br/></span>얕은 스토리가 매력을 해쳤다.</b></span></blockquote>" },
     { type: 'body', html: "<p><b>Sarah Marrs - 평점 없음</b><br/>국가의 영웅 이야기를 어느 정도 존경심을 담아 전하는 것은 이해할 수 있지만, &quot;하얼빈&quot;의 얕은 면이 흥미로운 스파이 스릴러의 매력을 해친다.</p>" },
-    { type: 'cta', href: "/movie-audience-top10-2/", text: "현재상영작 영화 예매 순위 관객수 2025년 1월 TOP10" },
     { type: 'body', html: "<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>아릅답게 구성된 액션 장면</span></b></span></blockquote>" },
     { type: 'body', html: "<p><b>Robert Daniels - 평점 없음</b><br/>&quot;하얼빈&quot;은 기억에 남는 캐릭터가 부족하지만, 연출과 기술 면에서는 그 부족함을 충분히 채운다. 액션 장면은 아름답게 구성되어 있다.</p>" },
     { type: 'body', html: "<p><b>Giovanni Lago - 평점 6/10</b><br/>&quot;영화 하얼빈&quot;은 그 주제 자체가 매우 흥미로워서 <b>그저 이렇게 반쯤 재미있는 스파이 영화로 끝나는 것이 아쉽다.</b></p>" },
@@ -39,11 +38,6 @@ const post = {
     { type: 'body', html: "<p>결국, 안중근 의사는 일본 법정에서 사형을 선고받고 형장의 이슬로 사라지지만, 그의 행동과 신념은 한국 독립운동의 상징으로 남게 됩니다. 영화는 안중근 의사가 남긴 유언과 그가 작성한 '동양평화론'의 일부를 비추며 끝이 납니다. 안중근 개인의 복수가 아닌, 더 큰 이상과 평화를 위한 것이었음을 강조합니다.</p>" },
     { type: 'h2', id: "section5", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
     { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
-    { type: 'cta', href: "/movie-recommend-overseas-critic-rating-guide/", text: "크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!" },
-    { type: 'cta', href: "/critic-recommend-masterpiece-movie-top-10/", text: "이동진 평론가가 추천하는 별 다섯개 명작! 볼만한 영화 추천 TOP 10" },
-    { type: 'cta', href: "/movie-recommend-critic-masterpiece/", text: "박평식 평론가 평점 9점! 2024년에도 진한 명작 영화 추천 순위 Top 10" },
-    { type: 'cta', href: "/marvel-movie-release-upcoming/", text: "마블 영화 개봉 예정 총 정리 2025년 - 2027년" },
-    { type: 'cta', href: "/series-recommend-rating-top-8/", text: "해리포터 시리즈 인기 순위 순서 추천 평점 TOP 8" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
