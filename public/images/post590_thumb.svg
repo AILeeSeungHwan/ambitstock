@@ -1,0 +1,14 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a1b9a"/>
+      <stop offset="100%" style="stop-color:#4a148c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="64" font-weight="900" fill="#ffffff">하트브레이크 하이</text>
+  <text x="600" y="285" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="48" font-weight="700" fill="#81D4FA">시즌3 — 마지막 시즌</text>
+  <text x="600" y="375" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="34" font-weight="500" fill="rgba(255,255,255,0.9)">넷플릭스 글로벌 3위 | 공개 이틀 만에 화제</text>
+  <text x="600" y="445" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="28" font-weight="400" fill="rgba(255,255,255,0.7)">RT 87~88% | 2026</text>
+  <text x="600" y="570" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="22" fill="rgba(255,255,255,0.5)">ambitstock.com</text>
+</svg>

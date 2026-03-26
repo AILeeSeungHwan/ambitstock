@@ -1,5 +1,39 @@
 const posts = [
   {
+    id: 590,
+    slug: 'heartbreak-high-season3-final-netflix-review-2026',
+    title: '하트브레이크 하이 시즌3 리뷰 — 넷플릭스 글로벌 3위, 마지막 시즌의 호불호 총정리',
+    description: '넷플릭스 하트브레이크 하이 시즌3 리뷰. 공개 이틀 만에 글로벌 3위, 시즌1~2 로튼토마토 87~88%. 마지막 시즌 줄거리, 해외 반응, 추천 대상 비추 대상 정리.',
+    category: '드라마',
+    date: '2026-03-27',
+    tags: ['트렌드', '하트브레이크하이', 'HeartbreakHigh', '넷플릭스', '청춘드라마', '호주드라마', '시즌3', '드라마 추천'],
+    thumbnail: '/images/post590_thumb.svg',
+    relatedSlugs: [
+      'adolescence-netflix-overseas-reaction-rt100-emmy-2026',
+      'netflix-movie-recommend-2026-march'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 589,
+    slug: 'made-in-korea-netflix-india-korea-movie-review-2026',
+    title: '메이드 인 코리아 넷플릭스 리뷰 — 인도-한국 합작, 글로벌 3위 영화의 진짜 볼 만한가',
+    description: '넷플릭스 메이드 인 코리아 리뷰. IMDB 6.1, 인도-한국 합작 영화. 한류 소재 드라마, 프리양카 모한·박혜진 출연. 글로벌 3위 화제작의 추천 대상과 호불호 정리.',
+    category: '영화추천',
+    date: '2026-03-27',
+    tags: ['트렌드', '메이드인코리아', 'MadeInKorea', '넷플릭스', '인도영화', '한류', '박혜진', '영화 추천'],
+    thumbnail: '/images/post589_thumb.svg',
+    relatedSlugs: [
+      'adolescence-netflix-overseas-reaction-rt100-emmy-2026',
+      'netflix-movie-recommend-2026-march'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 588,
     slug: 'adolescence-netflix-overseas-reaction-rt100-emmy-2026',
     title: '소년의 시간 해외반응 총정리 — RT 100%, 에미상 9관왕, 넷플릭스 145M 시청의 비밀',
