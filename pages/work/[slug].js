@@ -73,15 +73,51 @@ export async function getStaticProps({ params }) {
       return 0
     })
 
+  // 같은 카테고리의 관련 작품 허브 3개 (자기 자신 제외, 포스트 수 내림차순)
+  const relatedWorks = works
+    .filter(w => w.slug !== work.slug && w.category === work.category)
+    .sort((a, b) => b.posts.length - a.posts.length)
+    .slice(0, 3)
+    .map(w => ({ slug: w.slug, title: w.title, postCount: w.posts.length }))
+
+  // Extract rating numbers from post descriptions/titles for AggregateRating
+  const ratingRegexes = [
+    /(?:로튼토마토|RT|Rotten\s*Tomatoes?)\s*(\d{1,3})%/i,
+    /(?:IMDB|IMDb)\s*(\d+(?:\.\d+)?)/i,
+  ]
+  const ratings = []
+  relatedPosts.forEach(p => {
+    const text = (p.title || '') + ' ' + (p.description || '')
+    for (const rx of ratingRegexes) {
+      const m = text.match(rx)
+      if (m) {
+        const val = parseFloat(m[1])
+        // RT is percentage (0-100), IMDB is 0-10; normalize to 0-10
+        const normalized = val > 10 ? val / 10 : val
+        if (normalized > 0 && normalized <= 10) {
+          ratings.push(normalized)
+        }
+      }
+    }
+  })
+  const aggregateRating = ratings.length > 0 ? {
+    best: 10,
+    worst: 0,
+    value: Math.round((ratings.reduce((a, b) => a + b, 0) / ratings.length) * 10) / 10,
+    count: ratings.length,
+  } : null
+
   return {
     props: {
       work: { slug: work.slug, title: work.title, category: work.category, platform: work.platform || null },
       relatedPosts,
+      relatedWorks,
+      aggregateRating,
     },
   }
 }
 
-export default function WorkHubPage({ work, relatedPosts }) {
+export default function WorkHubPage({ work, relatedPosts, relatedWorks, aggregateRating }) {
   const [activeTab, setActiveTab] = useState(0)
 
   const filteredPosts = useMemo(() => {
@@ -128,6 +164,21 @@ export default function WorkHubPage({ work, relatedPosts }) {
       <Head>
         <link rel="canonical" href={pageUrl} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+        {aggregateRating && (
+          <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': work.category === '드라마' ? 'TVSeries' : 'Movie',
+            name: work.title,
+            url: pageUrl,
+            aggregateRating: {
+              '@type': 'AggregateRating',
+              ratingValue: aggregateRating.value,
+              bestRating: aggregateRating.best,
+              worstRating: aggregateRating.worst,
+              ratingCount: aggregateRating.count,
+            },
+          }) }} />
+        )}
       </Head>
       <PageTracker />
 
@@ -196,6 +247,44 @@ export default function WorkHubPage({ work, relatedPosts }) {
           </div>
         )}
 
+        {/* ─── 관련 작품 허브 ─── */}
+        {relatedWorks && relatedWorks.length > 0 && (
+          <section style={{ marginTop: 56 }}>
+            <div style={{
+              display: 'flex', alignItems: 'center', gap: 8,
+              marginBottom: 16, paddingBottom: 12,
+              borderBottom: '2px solid var(--text-color, #1a1a2e)',
+            }}>
+              <span style={{ fontSize: 20 }}>🎯</span>
+              <h2 style={{ fontSize: 18, fontWeight: 800, margin: 0 }}>관련 작품 허브</h2>
+            </div>
+            <div className="related-works-grid" style={{
+              display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 16,
+            }}>
+              {relatedWorks.map(w => (
+                <a key={w.slug} href={'/work/' + w.slug + '/'} style={{
+                  display: 'block', textDecoration: 'none', color: 'inherit',
+                  borderRadius: 12, overflow: 'hidden',
+                  border: '1px solid var(--border-color, #eee)',
+                  background: 'var(--card-bg, #fff)',
+                  padding: '20px 16px',
+                  transition: 'transform 0.2s, box-shadow 0.2s',
+                }}>
+                  <p style={{
+                    margin: '0 0 8px', fontSize: 16, fontWeight: 700, lineHeight: 1.3,
+                  }}>{w.title}</p>
+                  <span style={{
+                    display: 'inline-block',
+                    background: (cat.bg || '#f5f5f5'),
+                    color: (cat.text || '#666'),
+                    fontSize: 12, fontWeight: 700, padding: '3px 8px', borderRadius: 4,
+                  }}>{w.postCount}편</span>
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
+
         {/* ─── Back to Home ─── */}
         <div style={{ textAlign: 'center', marginTop: 48 }}>
           <a href="/" style={{
@@ -217,9 +306,11 @@ export default function WorkHubPage({ work, relatedPosts }) {
         }
         @media (max-width: 768px) {
           .work-grid { grid-template-columns: repeat(2, 1fr) !important; }
+          .related-works-grid { grid-template-columns: repeat(2, 1fr) !important; }
         }
         @media (max-width: 480px) {
           .work-grid { grid-template-columns: 1fr !important; }
+          .related-works-grid { grid-template-columns: 1fr !important; }
         }
       `}</style>
     </Layout>

@@ -12,6 +12,7 @@ import works from '../data/works'
 import getPostUrl from '../lib/getPostUrl'
 import getOgImage from '../lib/getOgImage'
 import { getInternalLinks } from '../lib/internal-links'
+import { getSimilarWorks } from '../lib/similar-works'
 
 export async function getStaticPaths() {
   // tistorySlug가 있는 포스트는 /entry/[slug]에서 처리
@@ -90,8 +91,23 @@ export async function getStaticProps({ params }) {
     nextRead: internalLinks.nextRead ? serializePost(internalLinks.nextRead) : null,
   }
 
+  // 비슷한 작품 (태그 기반)
+  const similarRaw = getSimilarWorks(meta, posts, 3)
+  const similarPosts = similarRaw.map(p => {
+    let thumb = p.thumbnail
+    if (!thumb) {
+      try {
+        const rm = require('../posts/' + p.id + '.js')
+        const rd = rm.default || rm
+        const ri = rd.sections.find(s => s.type === 'image')
+        thumb = ri ? ri.src : null
+      } catch (e) {}
+    }
+    return { ...p, thumbnail: thumb }
+  })
+
   const safeMeta = Object.fromEntries(Object.entries({ ...meta, thumbnail, ogImage }).filter(([, v]) => v !== undefined))
-  return { props: { meta: safeMeta, postData, related, internalLinks: serializedLinks } }
+  return { props: { meta: safeMeta, postData, related, internalLinks: serializedLinks, similarPosts } }
 }
 
 /* ─── TOC ─── */
@@ -244,7 +260,7 @@ function RelatedCard({ post }) {
   )
 }
 
-export default function PostPage({ meta, postData, related, internalLinks }) {
+export default function PostPage({ meta, postData, related, internalLinks, similarPosts }) {
   if (!meta || !postData) return null
 
   const canonicalUrl = 'https://ambitstock.com/' + meta.slug + '/'
@@ -284,6 +300,43 @@ export default function PostPage({ meta, postData, related, internalLinks }) {
         <meta name="article:published_time" content={meta.date} />
         <meta name="article:section" content={meta.category} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+        {/* Review schema for 후기 posts with rating-related titles */}
+        {meta.contentType === '후기' && /평점|점수|별점|rating|리뷰|후기|평가/.test(meta.title) && (() => {
+          const reviewLd = {
+            '@context': 'https://schema.org',
+            '@type': 'Review',
+            name: meta.title,
+            author: { '@type': 'Organization', name: 'R의 필름공장', url: 'https://ambitstock.com' },
+            datePublished: meta.date,
+            reviewBody: meta.description,
+            itemReviewed: { '@type': 'Movie', name: meta.title.split(/\s*[—\-:·]/)[0].trim() },
+          }
+          return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewLd) }} />
+        })()}
+        {/* FAQPage schema for 해석 posts with Q&A-style h2 headings */}
+        {meta.contentType === '해석' && (() => {
+          const sections = postData.sections.filter(Boolean)
+          const faqs = []
+          for (let i = 0; i < sections.length; i++) {
+            const s = sections[i]
+            if (s.type === 'h2' && /\?|인가|일까|였을까|무엇|왜|어떻게|의미는|뜻은|까$/.test(s.text)) {
+              const nextBody = sections.slice(i + 1).find(ns => ns.type === 'body')
+              if (nextBody && nextBody.html) {
+                faqs.push({
+                  '@type': 'Question',
+                  name: s.text,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: nextBody.html.replace(/<[^>]*>/g, '').slice(0, 500),
+                  },
+                })
+              }
+            }
+          }
+          if (faqs.length === 0) return null
+          const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs }
+          return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
+        })()}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           '@context': 'https://schema.org', '@type': 'BreadcrumbList',
           'itemListElement': [
@@ -412,6 +465,29 @@ export default function PostPage({ meta, postData, related, internalLinks }) {
                     <span style={{ fontSize: 11, opacity: 0.4 }}>{post.date}</span>
                   </div>
                 </a>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* 이 작품이 좋았다면 (태그 기반 유사 추천) */}
+      {similarPosts && similarPosts.length > 0 && (
+        <section style={{ maxWidth: 720, margin: '40px auto 0' }}>
+          <div style={{
+            borderTop: '1px solid var(--border-color, #eee)',
+            paddingTop: 32,
+          }}>
+            <h3 style={{ fontSize: 16, fontWeight: 700, marginBottom: 20, opacity: 0.7 }}>
+              이 작품이 좋았다면
+            </h3>
+            <div style={{
+              display: 'grid',
+              gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))',
+              gap: 16,
+            }}>
+              {similarPosts.map(post => (
+                <RelatedCard key={post.id} post={post} />
               ))}
             </div>
           </div>

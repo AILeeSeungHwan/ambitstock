@@ -29,6 +29,8 @@ export async function getStaticPaths() {
   return { paths, fallback: false }
 }
 
+const GENRE_LIST = ['SF', '호러', '로맨스', '액션', '스릴러', '코미디', '범죄', '드라마', '애니메이션', '다큐']
+
 export async function getStaticProps({ params }) {
   const ott = OTT_MAP[params.slug]
   if (!ott) return { notFound: true }
@@ -55,6 +57,7 @@ export async function getStaticProps({ params }) {
         date: p.date || null,
         category: p.category || null,
         contentType: p.contentType || null,
+        tags: p.tags || [],
         thumbnail: thumb,
       }
     })
@@ -64,6 +67,19 @@ export async function getStaticProps({ params }) {
     })
     .slice(0, 48)
 
+  // 이 OTT 포스트들에서 실제 존재하는 장르 태그만 추출
+  const genreSet = new Set()
+  filteredPosts.forEach(p => {
+    if (p.tags) {
+      p.tags.forEach(t => {
+        GENRE_LIST.forEach(g => {
+          if (t.toLowerCase().includes(g.toLowerCase())) genreSet.add(g)
+        })
+      })
+    }
+  })
+  const availableGenres = GENRE_LIST.filter(g => genreSet.has(g))
+
   return {
     props: {
       slug: params.slug,
@@ -72,18 +88,36 @@ export async function getStaticProps({ params }) {
       ottColor: ott.color,
       ottDescription: ott.description,
       posts: filteredPosts,
+      availableGenres,
     },
   }
 }
 
-export default function OttHubPage({ slug, ottName, ottIcon, ottColor, ottDescription, posts }) {
+export default function OttHubPage({ slug, ottName, ottIcon, ottColor, ottDescription, posts, availableGenres }) {
   const [activeTab, setActiveTab] = useState(0)
+  const [selectedGenres, setSelectedGenres] = useState([])
+
+  const toggleGenre = (genre) => {
+    setSelectedGenres(prev =>
+      prev.includes(genre) ? prev.filter(g => g !== genre) : [...prev, genre]
+    )
+  }
 
   const filteredPosts = useMemo(() => {
+    let result = posts
     const tab = TABS[activeTab]
-    if (!tab.value) return posts
-    return posts.filter(p => p.contentType === tab.value)
-  }, [activeTab, posts])
+    if (tab.value) {
+      result = result.filter(p => p.contentType === tab.value)
+    }
+    if (selectedGenres.length > 0) {
+      result = result.filter(p =>
+        p.tags && selectedGenres.some(genre =>
+          p.tags.some(t => t.toLowerCase().includes(genre.toLowerCase()))
+        )
+      )
+    }
+    return result
+  }, [activeTab, posts, selectedGenres])
 
   const contentTypes = useMemo(() => {
     const types = new Set()
@@ -170,6 +204,40 @@ export default function OttHubPage({ slug, ottName, ottIcon, ottColor, ottDescri
                   transition: 'all 0.2s', whiteSpace: 'nowrap', flexShrink: 0,
                 }}>
                   {t.label}
+                </button>
+              )
+            })}
+          </div>
+        )}
+
+        {/* ─── Genre Filter ─── */}
+        {availableGenres && availableGenres.length > 0 && (
+          <div style={{
+            display: 'flex', gap: 6, marginBottom: 24, overflowX: 'auto',
+            paddingBottom: 4, WebkitOverflowScrolling: 'touch', flexWrap: 'wrap',
+          }}>
+            <button onClick={() => setSelectedGenres([])} style={{
+              padding: '5px 12px', borderRadius: 16, cursor: 'pointer',
+              border: selectedGenres.length === 0 ? '1.5px solid ' + ottColor : '1px solid var(--border-color, #ddd)',
+              background: selectedGenres.length === 0 ? ottColor + '18' : 'transparent',
+              color: selectedGenres.length === 0 ? ottColor : 'inherit',
+              fontSize: 12, fontWeight: selectedGenres.length === 0 ? 700 : 400,
+              transition: 'all 0.2s', whiteSpace: 'nowrap', flexShrink: 0,
+            }}>
+              전체
+            </button>
+            {availableGenres.map(genre => {
+              const isActive = selectedGenres.includes(genre)
+              return (
+                <button key={genre} onClick={() => toggleGenre(genre)} style={{
+                  padding: '5px 12px', borderRadius: 16, cursor: 'pointer',
+                  border: isActive ? '1.5px solid ' + ottColor : '1px solid var(--border-color, #ddd)',
+                  background: isActive ? ottColor + '18' : 'transparent',
+                  color: isActive ? ottColor : 'inherit',
+                  fontSize: 12, fontWeight: isActive ? 700 : 400,
+                  transition: 'all 0.2s', whiteSpace: 'nowrap', flexShrink: 0,
+                }}>
+                  {genre}
                 </button>
               )
             })}

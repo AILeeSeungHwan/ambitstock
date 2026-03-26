@@ -27,6 +27,25 @@ const OTT_SECTIONS = [
   { label: '쿠팡플레이', icon: '🟠', color: '#ff6900', tags: ['쿠팡플레이', '쿠팡'] },
 ]
 
+const GENRE_CHIPS = [
+  { label: 'SF', tags: ['SF', 'SF영화'] },
+  { label: '호러', tags: ['호러', '공포 영화', '공포'] },
+  { label: '로맨스', tags: ['로맨스', '멜로', '로맨틱코미디'] },
+  { label: '액션', tags: ['액션', '블록버스터'] },
+  { label: '스릴러', tags: ['스릴러', '심리스릴러', 'K스릴러'] },
+  { label: '코미디', tags: ['코미디', '시트콤'] },
+  { label: '범죄', tags: ['범죄', '범죄드라마', '미스터리'] },
+  { label: '애니', tags: ['애니메이션', '애니메이션 영화'] },
+]
+
+const OTT_CHIPS = [
+  { label: '넷플릭스', platform: '넷플릭스' },
+  { label: '디즈니+', platform: '디즈니플러스' },
+  { label: '티빙', platform: '티빙' },
+  { label: '쿠팡', platform: '쿠팡플레이' },
+  { label: '극장', platform: '극장' },
+]
+
 const CATEGORY_ICONS = {
   '영화추천': '🎬',
   '해외반응후기': '🌍',
@@ -36,8 +55,11 @@ const CATEGORY_ICONS = {
 }
 
 export async function getStaticProps() {
-  const posts = require('../data/posts').default || require('../data/posts')
-  const postsWithThumbnail = posts.map(post => {
+  const allPosts = require('../data/posts').default || require('../data/posts')
+  const works = require('../data/works').default || require('../data/works')
+
+  // Resolve thumbnails from post files when missing
+  const postsWithThumbnail = allPosts.map(post => {
     if (post.thumbnail) return post
     try {
       const mod = require('../posts/' + post.id + '.js')
@@ -48,23 +70,74 @@ export async function getStaticProps() {
       return post
     }
   })
+
+  // Category counts from ALL posts (accurate totals)
   const catCount = {}
   postsWithThumbnail.forEach(p => {
     catCount[p.category] = (catCount[p.category] || 0) + 1
   })
+
+  // Trend posts (already limited to 10)
   const trendPosts = postsWithThumbnail
     .filter(p => p.tags && p.tags.some(t => t === 'trend' || t === '트렌드' || t === '오늘의트렌드'))
     .sort((a, b) => new Date(b.date) - new Date(a.date))
     .slice(0, 10)
-  return { props: { posts: postsWithThumbnail, catCount, trendPosts } }
+    .map(toLightPost)
+
+  // 작품 허브: 포스트 수 내림차순 상위 4개
+  const topWorks = [...works]
+    .sort((a, b) => b.posts.length - a.posts.length)
+    .slice(0, 4)
+    .map(w => {
+      const workPosts = w.posts
+        .map(id => postsWithThumbnail.find(p => p.id === id))
+        .filter(Boolean)
+        .sort((a, b) => new Date(b.date) - new Date(a.date))
+      const recentThumb = workPosts.find(p => p.thumbnail)
+      return {
+        slug: w.slug,
+        title: w.title,
+        postCount: w.posts.length,
+        category: w.category,
+        thumbnail: recentThumb ? recentThumb.thumbnail : null,
+      }
+    })
+
+  // Lightweight: only fields needed for home page rendering
+  // Sort by date descending, limit to 100 most recent posts
+  const sorted = [...postsWithThumbnail]
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .slice(0, 100)
+    .map(toLightPost)
+
+  return { props: { posts: sorted, catCount, trendPosts, topWorks, totalCount: postsWithThumbnail.length } }
 }
 
-export default function Home({ posts, catCount, trendPosts }) {
+function toLightPost(p) {
+  const light = {
+    id: p.id,
+    slug: p.slug,
+    title: p.title,
+    date: p.date,
+    category: p.category,
+    tags: p.tags,
+  }
+  if (p.tistorySlug) light.tistorySlug = p.tistorySlug
+  if (p.contentType) light.contentType = p.contentType
+  if (p.platform) light.platform = p.platform
+  if (p.thumbnail) light.thumbnail = p.thumbnail
+  if (p.description) light.description = p.description.length > 100 ? p.description.slice(0, 100) + '...' : p.description
+  return light
+}
+
+export default function Home({ posts, catCount, trendPosts, topWorks, totalCount }) {
   const router = useRouter()
   const [currentPage, setCurrentPage] = useState(1)
   const [selectedCat, setSelectedCat] = useState(null)
   const [selectedMood, setSelectedMood] = useState(null)
   const [showAllPosts, setShowAllPosts] = useState(false)
+  const [selectedGenres, setSelectedGenres] = useState([])
+  const [selectedOtts, setSelectedOtts] = useState([])
 
   // URL query param으로 카테고리 선택 지원
   useEffect(() => {
@@ -94,6 +167,22 @@ export default function Home({ posts, catCount, trendPosts }) {
     ).slice(0, 8)
   }, [sorted, selectedMood])
 
+  // 장르 + OTT 필터 (union)
+  const genreOttFiltered = useMemo(() => {
+    if (selectedGenres.length === 0 && selectedOtts.length === 0) return []
+    return sorted.filter(p => {
+      var matchGenre = selectedGenres.length === 0 || selectedGenres.some(gi => {
+        var chip = GENRE_CHIPS[gi]
+        return p.tags && p.tags.some(t => chip.tags.some(ct => t.toLowerCase().includes(ct.toLowerCase())))
+      })
+      var matchOtt = selectedOtts.length === 0 || selectedOtts.some(oi => {
+        var chip = OTT_CHIPS[oi]
+        return p.platform === chip.platform
+      })
+      return matchGenre && matchOtt
+    }).slice(0, 16)
+  }, [sorted, selectedGenres, selectedOtts])
+
   // 카테고리별 최신 포스트
   const byCategory = useMemo(() => {
     const result = {}
@@ -117,6 +206,8 @@ export default function Home({ posts, catCount, trendPosts }) {
   const handleCat = (cat) => {
     setSelectedCat(cat === selectedCat ? null : cat)
     setSelectedMood(null)
+    setSelectedGenres([])
+    setSelectedOtts([])
     setCurrentPage(1)
     setShowAllPosts(true)
   }
@@ -124,8 +215,31 @@ export default function Home({ posts, catCount, trendPosts }) {
   const handleMood = (idx) => {
     setSelectedMood(idx === selectedMood ? null : idx)
     setSelectedCat(null)
+    setSelectedGenres([])
+    setSelectedOtts([])
     setShowAllPosts(false)
   }
+
+  const toggleGenre = (idx) => {
+    setSelectedGenres(prev => prev.includes(idx) ? prev.filter(i => i !== idx) : [...prev, idx])
+    setSelectedMood(null)
+    setSelectedCat(null)
+    setShowAllPosts(false)
+  }
+
+  const toggleOtt = (idx) => {
+    setSelectedOtts(prev => prev.includes(idx) ? prev.filter(i => i !== idx) : [...prev, idx])
+    setSelectedMood(null)
+    setSelectedCat(null)
+    setShowAllPosts(false)
+  }
+
+  const clearFilters = () => {
+    setSelectedGenres([])
+    setSelectedOtts([])
+  }
+
+  const hasActiveFilters = selectedGenres.length > 0 || selectedOtts.length > 0
 
   const categories = Object.entries(catCount).sort((a, b) => b[1] - a[1])
 
@@ -215,7 +329,7 @@ export default function Home({ posts, catCount, trendPosts }) {
             }}>
               <h3 style={{ fontSize: 13, fontWeight: 700, margin: '0 0 14px', opacity: 0.5 }}>카테고리</h3>
               <button onClick={() => { setSelectedCat(null); setCurrentPage(1) }} style={sidebarCatBtn(!selectedCat)}>
-                <span>전체</span><span style={{ opacity: 0.4 }}>{posts.length}</span>
+                <span>전체</span><span style={{ opacity: 0.4 }}>{totalCount || posts.length}</span>
               </button>
               {categories.map(([cat, count]) => (
                 <button key={cat} onClick={() => handleCat(cat)} style={sidebarCatBtn(selectedCat === cat)}>
@@ -406,6 +520,74 @@ export default function Home({ posts, catCount, trendPosts }) {
         </div>
       </section>
 
+      {/* ─── 장르 + OTT 필터 ─── */}
+      <section style={{ marginBottom: 32 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 12 }}>
+          <span style={{ fontSize: 13, fontWeight: 700, opacity: 0.5, whiteSpace: 'nowrap' }}>장르</span>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
+            {GENRE_CHIPS.map((chip, idx) => (
+              <button key={chip.label} onClick={() => toggleGenre(idx)} style={{
+                padding: '7px 14px', borderRadius: 20, cursor: 'pointer',
+                border: selectedGenres.includes(idx) ? '2px solid #e50914' : '1px solid var(--border-color, #ddd)',
+                background: selectedGenres.includes(idx) ? '#e5091411' : 'var(--card-bg, #fff)',
+                color: 'inherit', fontSize: 12, fontWeight: selectedGenres.includes(idx) ? 700 : 500,
+                transition: 'all 0.2s',
+                boxShadow: selectedGenres.includes(idx) ? '0 2px 12px rgba(229,9,20,0.15)' : '0 1px 4px rgba(0,0,0,0.05)',
+              }}>
+                {chip.label}
+              </button>
+            ))}
+          </div>
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          <span style={{ fontSize: 13, fontWeight: 700, opacity: 0.5, whiteSpace: 'nowrap' }}>OTT</span>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
+            {OTT_CHIPS.map((chip, idx) => (
+              <button key={chip.label} onClick={() => toggleOtt(idx)} style={{
+                padding: '7px 14px', borderRadius: 20, cursor: 'pointer',
+                border: selectedOtts.includes(idx) ? '2px solid #e50914' : '1px solid var(--border-color, #ddd)',
+                background: selectedOtts.includes(idx) ? '#e5091411' : 'var(--card-bg, #fff)',
+                color: 'inherit', fontSize: 12, fontWeight: selectedOtts.includes(idx) ? 700 : 500,
+                transition: 'all 0.2s',
+                boxShadow: selectedOtts.includes(idx) ? '0 2px 12px rgba(229,9,20,0.15)' : '0 1px 4px rgba(0,0,0,0.05)',
+              }}>
+                {chip.label}
+              </button>
+            ))}
+          </div>
+          {hasActiveFilters && (
+            <button onClick={clearFilters} style={{
+              padding: '6px 12px', borderRadius: 16, cursor: 'pointer',
+              border: '1px solid var(--border-color, #ddd)',
+              background: 'transparent', color: '#e50914',
+              fontSize: 11, fontWeight: 600, transition: 'all 0.2s',
+              whiteSpace: 'nowrap', marginLeft: 4,
+            }}>
+              필터 초기화
+            </button>
+          )}
+        </div>
+      </section>
+
+      {/* ─── 장르/OTT 필터 결과 ─── */}
+      {hasActiveFilters && genreOttFiltered.length > 0 && (
+        <section style={{ marginBottom: 48 }}>
+          <SectionHeader icon="🎯" title={'필터 결과 (' + genreOttFiltered.length + '개)'} />
+          <div className="filter-grid" style={{
+            display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 16,
+          }}>
+            {genreOttFiltered.map(post => (
+              <PostCard key={post.id} post={post} />
+            ))}
+          </div>
+        </section>
+      )}
+      {hasActiveFilters && genreOttFiltered.length === 0 && (
+        <section style={{ textAlign: 'center', padding: '32px 20px 48px', opacity: 0.4 }}>
+          <p style={{ fontSize: 14 }}>선택한 필터에 맞는 포스팅을 준비 중입니다.</p>
+        </section>
+      )}
+
       {/* ─── 무드 결과 ─── */}
       {selectedMood !== null && moodFiltered.length > 0 && (
         <section style={{ marginBottom: 48 }}>
@@ -436,6 +618,64 @@ export default function Home({ posts, catCount, trendPosts }) {
       {/* ─── OTT별 탐색 (카드형) ─── */}
       <OTTSection sorted={sorted} getPostUrl={getPostUrl} />
 
+      {/* ─── 지금 반응 오는 작품 ─── */}
+      {topWorks && topWorks.length > 0 && (
+        <section style={{ marginBottom: 48 }}>
+          <SectionHeader icon="🎯" title="지금 반응 오는 작품" />
+          <div className="top-works-grid" style={{
+            display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 16,
+          }}>
+            {topWorks.map(w => (
+              <a key={w.slug} href={'/work/' + w.slug + '/'} style={{
+                display: 'block', textDecoration: 'none', color: 'inherit',
+                borderRadius: 12, overflow: 'hidden',
+                border: '1px solid var(--border-color, #eee)',
+                background: 'var(--card-bg, #fff)',
+                transition: 'transform 0.2s, box-shadow 0.2s',
+              }}>
+                <div style={{
+                  height: 140, overflow: 'hidden',
+                  background: 'linear-gradient(135deg, #1a1a2e, #16213e)',
+                  position: 'relative',
+                }}>
+                  {w.thumbnail ? (
+                    <img src={w.thumbnail} alt={w.title} loading="lazy" style={{
+                      width: '100%', height: '100%', objectFit: 'cover', display: 'block',
+                      opacity: 0.85,
+                    }} />
+                  ) : (
+                    <div style={{
+                      width: '100%', height: '100%',
+                      display: 'flex', alignItems: 'center', justifyContent: 'center',
+                      fontSize: 40,
+                    }}>🎬</div>
+                  )}
+                  <div style={{
+                    position: 'absolute', bottom: 0, left: 0, right: 0, height: '60%',
+                    background: 'linear-gradient(to top, rgba(0,0,0,0.7), transparent)',
+                  }} />
+                  <span style={{
+                    position: 'absolute', top: 10, right: 10,
+                    background: '#e50914', color: '#fff',
+                    fontSize: 11, fontWeight: 800, padding: '3px 8px',
+                    borderRadius: 10,
+                  }}>{w.postCount}편</span>
+                </div>
+                <div style={{ padding: '12px 14px' }}>
+                  <p style={{
+                    margin: 0, fontSize: 14, fontWeight: 700, lineHeight: 1.4,
+                    display: '-webkit-box', WebkitLineClamp: 1, WebkitBoxOrient: 'vertical', overflow: 'hidden',
+                  }}>{w.title}</p>
+                  <p style={{
+                    margin: '4px 0 0', fontSize: 11, opacity: 0.45,
+                  }}>{w.category}</p>
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+
       {/* ─── 인기 콘텐츠 (탭 전환형) ─── */}
       <PopularTabSection categories={categories} byCategory={byCategory} handleCat={handleCat} />
 
@@ -448,7 +688,7 @@ export default function Home({ posts, catCount, trendPosts }) {
         borderRadius: 20, marginTop: 20,
       }}>
         <p style={{ fontSize: 14, opacity: 0.5, margin: '0 0 16px' }}>
-          {posts.length}편의 작품 가이드가 준비되어 있습니다
+          {totalCount || posts.length}편의 작품 가이드가 준비되어 있습니다
         </p>
         <button onClick={() => setShowAllPosts(true)} style={{
           padding: '14px 40px', borderRadius: 28, cursor: 'pointer',
@@ -478,14 +718,18 @@ export default function Home({ posts, catCount, trendPosts }) {
       <style jsx global>{`
         @media (max-width: 900px) {
           .mood-grid { grid-template-columns: repeat(2, 1fr) !important; }
+          .filter-grid { grid-template-columns: repeat(2, 1fr) !important; }
           .trending-grid { grid-template-columns: repeat(3, 1fr) !important; }
           .ott-card-grid { grid-template-columns: repeat(2, 1fr) !important; }
           .popular-grid { grid-template-columns: repeat(2, 1fr) !important; }
+          .top-works-grid { grid-template-columns: repeat(2, 1fr) !important; }
         }
         @media (max-width: 600px) {
           .trending-grid { grid-template-columns: repeat(2, 1fr) !important; }
+          .filter-grid { grid-template-columns: 1fr !important; }
           .ott-card-grid { grid-template-columns: 1fr !important; }
           .popular-grid { grid-template-columns: 1fr !important; }
+          .top-works-grid { grid-template-columns: 1fr !important; }
         }
         @media (max-width: 500px) {
           .mood-grid { grid-template-columns: 1fr !important; }
