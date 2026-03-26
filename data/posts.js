@@ -1,5 +1,16 @@
 const posts = [
   {
+    id: 586,
+    slug: 'undertone-a24-ending-explained-abyzou-horror-2026',
+    title: '언더톤 결말 해석 — A24 호러가 아무것도 보여주지 않은 이유, 아비주·에비·마지막 녹음의 세 가지 해석',
+    description: '언더톤(Undertone) 결말 해석. A24 호러 열린결말 세 가지 해석 — 아비주 빙의, 에비 정신 붕괴, 메타 팟캐스트 구조. RT 76%, IMDB 6.6, 소리로만 공포를 만든 이안 투아손 감독 데뷔작.',
+    category: '영화추천',
+    date: '2026-03-26',
+    tags: ['언더톤', '결말해석', 'A24', '호러', '아비주', '열린결말', '니나키리', '2026영화'],
+    thumbnail: '/images/post586_thumb.svg',
+    relatedSlugs: ['wuthering-heights-2026-ending-explained-fennell', 'project-hail-mary-qa-interpretation-guide-2026', 'netflix-movie-recommend-2026-march']
+  },
+  {
     id: 585,
     slug: 'wuthering-heights-2026-ending-explained-fennell',
     title: '폭풍의 언덕 결말 해석 — 에메랄드 페넬이 원작을 뒤집은 이유, 유산·엇갈림·어린 시절 회귀의 의미',
