@@ -1,5 +1,41 @@
 const posts = [
   {
+    id: 593,
+    slug: 'vladimir-netflix-rachel-weisz-overseas-reaction-rt74-2026',
+    title: '블라디미르 넷플릭스 해외반응 — RT 74%, IMDB 5.9인데 글로벌 3위, 왜 리뷰와 인기가 엇갈리나',
+    description: '넷플릭스 블라디미르(Vladimir) 해외반응 총정리. 로튼토마토 74%, IMDB 5.9, 그런데 글로벌 3위. 레이첼 와이즈 주연 캠퍼스 심리 스릴러 8화 완결의 추천 대상과 호불호 정리.',
+    category: '해외반응후기',
+    date: '2026-03-28',
+    tags: ['트렌드', '블라디미르', 'Vladimir', '넷플릭스', '레이첼와이즈', '해외 반응', '심리스릴러', '넷플릭스드라마'],
+    thumbnail: '/images/post593_thumb.svg',
+    relatedSlugs: [
+      'netflix-korean-drama-top10-alltime',
+      'heartbreak-high-season3-final-netflix-review-2026',
+      'netflix-documentary-recommend-2026-top10'
+    ],
+    contentType: '해외반응',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 592,
+    slug: 'bts-the-return-netflix-documentary-review-arirang-2026',
+    title: 'BTS: 더 리턴 넷플릭스 다큐 리뷰 — 아이돌 다큐가 아닌 음악인의 창작 기록',
+    description: 'BTS 더 리턴 넷플릭스 다큐멘터리 리뷰. 3년 9개월 공백 뒤 아리랑 앨범 제작 과정, RM·지민·뷔의 솔직한 고민, 바오 응우옌 감독의 시선. 추천 대상과 볼거리 정리.',
+    category: '해외반응후기',
+    date: '2026-03-28',
+    tags: ['트렌드', 'BTS', '더리턴', '넷플릭스', '다큐멘터리', '아리랑', 'K-POP', '방탄소년단'],
+    thumbnail: '/images/post592_thumb.svg',
+    relatedSlugs: [
+      'bts-arirang-netflix-live-comeback-guide-2026',
+      'netflix-documentary-recommend-2026-top10',
+      'netflix-korean-drama-top10-alltime'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 591,
     slug: 'something-very-bad-netflix-duffer-brothers-overseas-reaction-2026',
     title: 'Something Very Bad Is Going to Happen 해외반응 — RT 83% vs 관객 69%, 더퍼 브라더스 호러의 극과 극 평가',
