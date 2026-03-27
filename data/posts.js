@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 591,
+    slug: 'something-very-bad-netflix-duffer-brothers-overseas-reaction-2026',
+    title: 'Something Very Bad Is Going to Happen 해외반응 — RT 83% vs 관객 69%, 더퍼 브라더스 호러의 극과 극 평가',
+    description: '넷플릭스 Something Very Bad Is Going to Happen 해외반응 정리. 로튼토마토 83%, 관객 69%, 스크린랜트 9/10. 더퍼 브라더스 제작 호러 미니시리즈 비평가·레딧·시청자 반응 총정리.',
+    category: '해외반응후기',
+    date: '2026-03-27',
+    tags: ['해외 반응', '넷플릭스', '더퍼브라더스', '호러', 'SomethingVeryBad', '카밀라모로네', '심리호러', '2026드라마'],
+    thumbnail: '/images/post591_thumb.svg',
+    relatedSlugs: [
+      'undertone-a24-ending-explained-abyzou-horror-2026',
+      'horror-movies-recommend-2026-top10',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex'
+    ],
+    contentType: '해외반응',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 590,
     slug: 'heartbreak-high-season3-final-netflix-review-2026',
     title: '하트브레이크 하이 시즌3 리뷰 — 넷플릭스 글로벌 3위, 마지막 시즌의 호불호 총정리',
