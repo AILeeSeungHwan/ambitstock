@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#b71c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" font-family="sans-serif" font-size="72" font-weight="bold" fill="#ffffff">스크림 7 해외반응</text>
+  <text x="600" y="320" text-anchor="middle" font-family="sans-serif" font-size="48" fill="#ff6f61">RT 31% vs 관객 76%</text>
+  <text x="600" y="400" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#ffcc02">프랜차이즈 역대 최고 오프닝 $64.1M</text>
+  <text x="600" y="480" text-anchor="middle" font-family="sans-serif" font-size="32" fill="rgba(255,255,255,0.7)">4월 1일 국내 개봉 · 2026</text>
+  <text x="600" y="570" text-anchor="middle" font-family="sans-serif" font-size="24" fill="rgba(255,255,255,0.4)">ambitstock.com</text>
+</svg>

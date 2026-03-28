@@ -1,5 +1,41 @@
 const posts = [
   {
+    id: 595,
+    slug: 'detective-hole-netflix-jo-nesbo-rt100-overseas-reaction-2026',
+    title: '디텍티브 홀 넷플릭스 해외반응 — RT 100%, 글로벌 TV 2위, 더 스노우맨 이후 해리 홀의 부활',
+    description: '넷플릭스 디텍티브 홀(Detective Hole) 해외반응 정리. 로튼토마토 100%, 글로벌 TV 2위. 조 네스뵈 원작·직접 각색, 토비아스 산텔만·조엘 키나만 주연 9화 완결 추천 가이드.',
+    category: '해외반응후기',
+    date: '2026-03-29',
+    tags: ['트렌드', '디텍티브홀', 'DetectiveHole', '넷플릭스', '조네스뵈', '해리홀', '노르딕느와르', '범죄드라마'],
+    thumbnail: '/images/post595_thumb.svg',
+    relatedSlugs: [
+      'netflix-korean-drama-top10-alltime',
+      'vladimir-netflix-rachel-weisz-overseas-reaction-rt74-2026',
+      'something-very-bad-netflix-duffer-brothers-overseas-reaction-2026'
+    ],
+    contentType: '해외반응',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 594,
+    slug: 'scream-7-overseas-reaction-rt31-box-office-record-2026',
+    title: '스크림 7 해외반응 — RT 31% vs 관객 76%, 프랜차이즈 역대 최고 오프닝 $64.1M의 비밀',
+    description: '스크림 7 해외반응 총정리. 로튼토마토 31% 프랜차이즈 최저인데 북미 $64.1M 역대 최고 오프닝, 전 세계 $1.96억. 니브 캠벨 복귀, 4월 1일 국내 개봉 전 봉매 가이드.',
+    category: '해외반응후기',
+    date: '2026-03-29',
+    tags: ['트렌드', '스크림7', 'Scream7', '호러', '니브캠벨', '해외 반응', '박스오피스', '4월개봉'],
+    thumbnail: '/images/post594_thumb.svg',
+    relatedSlugs: [
+      'horror-movies-recommend-2026-top10',
+      'undertone-a24-ending-explained-abyzou-horror-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex'
+    ],
+    contentType: '해외반응',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
     id: 593,
     slug: 'vladimir-netflix-rachel-weisz-overseas-reaction-rt74-2026',
     title: '블라디미르 넷플릭스 해외반응 — RT 74%, IMDB 5.9인데 글로벌 3위, 왜 리뷰와 인기가 엇갈리나',

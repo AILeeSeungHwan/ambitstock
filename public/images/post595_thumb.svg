@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a"/>
+      <stop offset="100%" style="stop-color:#1b4332"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#ffffff">디텍티브 홀</text>
+  <text x="600" y="280" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#81d4fa">Jo Nesbø's Detective Hole</text>
+  <text x="600" y="370" text-anchor="middle" font-family="sans-serif" font-size="52" fill="#ff6f61">로튼토마토 100%</text>
+  <text x="600" y="440" text-anchor="middle" font-family="sans-serif" font-size="36" fill="#ffcc02">넷플릭스 글로벌 TV 2위</text>
+  <text x="600" y="510" text-anchor="middle" font-family="sans-serif" font-size="30" fill="rgba(255,255,255,0.7)">조 네스뵈 원작 · 9화 완결 · 2026</text>
+  <text x="600" y="570" text-anchor="middle" font-family="sans-serif" font-size="24" fill="rgba(255,255,255,0.4)">ambitstock.com</text>
+</svg>
