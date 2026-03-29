@@ -15,10 +15,17 @@ import { getInternalLinks } from '../lib/internal-links'
 import { getSimilarWorks } from '../lib/similar-works'
 
 export async function getStaticPaths() {
-  // tistorySlug가 있는 포스트는 /entry/[slug]에서 처리
-  const paths = posts
-    .filter(p => !p.tistorySlug)
-    .map(p => ({ params: { slug: String(p.slug) } }))
+  // 모든 포스트를 slug 경로로 생성 (tistorySlug 포스트도 slug URL로 접근 가능)
+  // 중복 slug 제거 (동일 slug가 여러 포스트에 있을 수 있음)
+  const slugSet = new Set()
+  const paths = []
+  for (const p of posts) {
+    const s = String(p.slug)
+    if (!slugSet.has(s)) {
+      slugSet.add(s)
+      paths.push({ params: { slug: s } })
+    }
+  }
   return { paths, fallback: false }
 }
 

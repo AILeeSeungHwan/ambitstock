@@ -1,4 +1,5 @@
 /** @type {import('next').NextConfig} */
+const posts = require('./data/posts')
 module.exports = {
   trailingSlash: true,
   reactStrictMode: true,
@@ -8,13 +9,19 @@ module.exports = {
     ]
   },
   async redirects() {
+    // 숫자 ID → slug 301 리다이렉트 (전체 포스트 자동 생성)
+    const idRedirects = posts.map(p => ({
+      source: '/' + p.id,
+      destination: '/' + p.slug + '/',
+      permanent: true,
+    }))
+
     return [
       // 모바일 entry URL → 데스크탑 entry URL
       { source: '/m/entry/:path*', destination: '/entry/:path*', permanent: true },
 
-      // 티스토리 숫자 ID 리다이렉트
-      { source: '/319', destination: '/', permanent: true },
-      { source: '/23', destination: '/', permanent: true },
+      // 숫자 ID 리다이렉트 (동적 생성)
+      ...idRedirects,
 
       // Fallback catch-all
       { source: '/category/:path*', destination: '/', permanent: true },

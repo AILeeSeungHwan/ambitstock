@@ -119,13 +119,13 @@ function toLightPost(p) {
     title: p.title,
     date: p.date,
     category: p.category,
-    tags: p.tags,
+    tags: (p.tags || []).slice(0, 5),
   }
   if (p.tistorySlug) light.tistorySlug = p.tistorySlug
   if (p.contentType) light.contentType = p.contentType
   if (p.platform) light.platform = p.platform
   if (p.thumbnail) light.thumbnail = p.thumbnail
-  if (p.description) light.description = p.description
+  if (p.description) light.description = p.description.length > 200 ? p.description.slice(0, 200) : p.description
   return light
 }
 
