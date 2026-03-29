@@ -25,8 +25,7 @@ module.exports = {
       { source: '/m/category', destination: '/', permanent: true },
       { source: '/archive/:path*', destination: '/', permanent: true },
 
-      // Fallback: /entry/ URLs without matching tistorySlug → home
-      { source: '/entry/:path*', destination: '/', permanent: false },
+      // /entry/ URLs은 entry/[slug].js 페이지가 처리 (tistorySlug 기반 301 리다이렉트)
     ]
   },
 }

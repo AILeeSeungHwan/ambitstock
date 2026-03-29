@@ -104,10 +104,9 @@ export async function getStaticProps() {
     })
 
   // Lightweight: only fields needed for home page rendering
-  // Sort by date descending, limit to 100 most recent posts
+  // Sort by date descending — all posts
   const sorted = [...postsWithThumbnail]
     .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .slice(0, 100)
     .map(toLightPost)
 
   return { props: { posts: sorted, catCount, trendPosts, topWorks, totalCount: postsWithThumbnail.length } }
@@ -126,7 +125,7 @@ function toLightPost(p) {
   if (p.contentType) light.contentType = p.contentType
   if (p.platform) light.platform = p.platform
   if (p.thumbnail) light.thumbnail = p.thumbnail
-  if (p.description) light.description = p.description.length > 100 ? p.description.slice(0, 100) + '...' : p.description
+  if (p.description) light.description = p.description
   return light
 }
 
@@ -151,11 +150,21 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
     return [...posts].sort((a, b) => new Date(b.date) - new Date(a.date))
   }, [posts])
 
-  // 카테고리 필터
+  // 카테고리 + OTT 필터 (전체보기 모드용)
   const filtered = useMemo(() => {
-    if (!selectedCat) return sorted
-    return sorted.filter(p => p.category === selectedCat)
-  }, [sorted, selectedCat])
+    let result = sorted
+    if (selectedCat) {
+      result = result.filter(p => p.category === selectedCat)
+    }
+    if (selectedOtts.length > 0) {
+      result = result.filter(p => selectedOtts.some(oi => {
+        const section = OTT_SECTIONS[oi]
+        if (!section) return false
+        return p.tags && p.tags.some(t => section.tags.some(st => t.toLowerCase().includes(st.toLowerCase())))
+      }))
+    }
+    return result
+  }, [sorted, selectedCat, selectedOtts])
 
   // 무드 필터 (태그 기반)
   const moodFiltered = useMemo(() => {
@@ -253,7 +262,7 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
         <PageTracker slug="main" />
 
         {/* 뒤로가기 */}
-        <button onClick={() => { setShowAllPosts(false); setSelectedCat(null); setCurrentPage(1) }} style={{
+        <button onClick={() => { setShowAllPosts(false); setSelectedCat(null); setSelectedOtts([]); setSelectedGenres([]); setCurrentPage(1) }} style={{
           background: 'none', border: 'none', cursor: 'pointer', color: 'inherit',
           fontSize: 14, opacity: 0.6, marginBottom: 20, padding: 0,
           display: 'flex', alignItems: 'center', gap: 6,
@@ -281,7 +290,7 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
               marginBottom: 8, paddingBottom: 16, borderBottom: '2px solid var(--text-color, #1a1a2e)',
             }}>
               <h2 style={{ fontSize: 18, fontWeight: 800, margin: 0 }}>
-                {selectedCat || '전체 포스팅'}
+                {selectedCat || (selectedOtts.length > 0 ? OTT_SECTIONS[selectedOtts[0]]?.label + ' 포스팅' : '전체 포스팅')}
               </h2>
               <span style={{ fontSize: 13, opacity: 0.4 }}>{filtered.length}개의 글</span>
             </div>
@@ -616,7 +625,14 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
       <AdUnit slot="6297515693" format="auto" style={{ marginBottom: 48 }} />
 
       {/* ─── OTT별 탐색 (카드형) ─── */}
-      <OTTSection sorted={sorted} getPostUrl={getPostUrl} />
+      <OTTSection sorted={sorted} getPostUrl={getPostUrl} onViewAll={(ottIndex) => {
+        setSelectedOtts([ottIndex])
+        setSelectedGenres([])
+        setSelectedMood(null)
+        setSelectedCat(null)
+        setShowAllPosts(true)
+        setCurrentPage(1)
+      }} />
 
       {/* ─── 지금 반응 오는 작품 ─── */}
       {topWorks && topWorks.length > 0 && (
@@ -757,7 +773,7 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
 }
 
 /* ─── OTT별 탐색 (탭 + 카드형) ─── */
-function OTTSection({ sorted, getPostUrl }) {
+function OTTSection({ sorted, getPostUrl, onViewAll }) {
   const [activeOtt, setActiveOtt] = useState(0)
   const ott = OTT_SECTIONS[activeOtt]
   const ottPosts = useMemo(() => {
@@ -821,6 +837,16 @@ function OTTSection({ sorted, getPostUrl }) {
       </div>
       {ottPosts.length === 0 && (
         <p style={{ textAlign: 'center', fontSize: 13, opacity: 0.4, padding: '20px 0' }}>해당 OTT 관련 포스팅을 준비 중입니다.</p>
+      )}
+      {ottPosts.length > 0 && onViewAll && (
+        <div style={{ textAlign: 'right', marginTop: 12 }}>
+          <button onClick={() => onViewAll(activeOtt)} style={{
+            background: 'none', border: 'none', cursor: 'pointer',
+            color: ott.color || 'var(--primary-color, #e50914)', fontSize: 13, fontWeight: 600,
+          }}>
+            {ott.label} 전체 보기 →
+          </button>
+        </div>
       )}
     </section>
   )
