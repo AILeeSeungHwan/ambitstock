@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#4a148c"/>
+      <stop offset="100%" style="stop-color:#880e4f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="52" font-weight="700" fill="#ffffff">Something Very Bad Is</text>
+  <text x="600" y="270" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="52" font-weight="700" fill="#ffffff">Going to Happen</text>
+  <text x="600" y="360" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#ff6b6b">결말 해석</text>
+  <text x="600" y="430" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="28" fill="#cccccc">저주를 깰 수 있었지만 깨지 않은 레이첼의 선택</text>
+  <text x="600" y="480" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="28" fill="#cccccc">그리고 '목격자'가 된다는 것의 의미</text>
+  <text x="600" y="560" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="22" fill="#888888">넷플릭스 · 2026 · RT 83%</text>
+</svg>

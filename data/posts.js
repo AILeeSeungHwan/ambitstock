@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 596,
+    slug: 'something-very-bad-ending-explained-curse-witness-rachel-2026',
+    title: 'Something Very Bad Is Going to Happen 결말 해석 — 레이첼은 왜 저주를 깨지 않았나, 목격자가 된다는 것의 의미',
+    description: 'Something Very Bad Is Going to Happen 결말 해석. 하킨 가문 저주의 기원, 레이첼이 의식을 거부한 이유, 결혼식 대학살의 규칙, 목격자(The Witness) 결말의 네 가지 해석. RT 83%, 더퍼 브라더스 넷플릭스 호러.',
+    category: '해외반응후기',
+    date: '2026-03-29',
+    tags: ['결말해석', 'SomethingVeryBad', '넷플릭스', '더퍼브라더스', '카밀라모로네', '호러', '저주', '열린결말'],
+    thumbnail: '/images/post596_thumb.svg',
+    relatedSlugs: [
+      'something-very-bad-netflix-duffer-brothers-overseas-reaction-2026',
+      'undertone-a24-ending-explained-abyzou-horror-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex'
+    ],
+    contentType: '해석',
+    platform: '넷플릭스',
+    spoilerLevel: 'heavy'
+  },
+  {
     id: 595,
     slug: 'detective-hole-netflix-jo-nesbo-rt100-overseas-reaction-2026',
     title: '디텍티브 홀 넷플릭스 해외반응 — RT 100%, 글로벌 TV 2위, 더 스노우맨 이후 해리 홀의 부활',
