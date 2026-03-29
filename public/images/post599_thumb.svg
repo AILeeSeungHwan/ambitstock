@@ -1,0 +1,15 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg599" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a"/>
+      <stop offset="50%" style="stop-color:#2d0a0a"/>
+      <stop offset="100%" style="stop-color:#0d0d0d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg599)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="72" font-weight="900" fill="#e50914">스크림 시리즈</text>
+  <text x="600" y="290" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="52" font-weight="700" fill="#ffffff">완벽 시청순서 가이드</text>
+  <text x="600" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#cccccc">1편~7편 · 필수 vs 선택 · OTT 시청 방법</text>
+  <text x="600" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#e50914">4월 1일 스크림 7 국내 개봉 D-2</text>
+  <text x="600" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#666666">ambitstock.com · R의 필름공장</text>
+</svg>

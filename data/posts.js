@@ -1,5 +1,41 @@
 const posts = [
   {
+    id: 600,
+    slug: 'last-song-you-left-me-japan-romance-movie-april-2026',
+    title: '네가 마지막으로 남긴 노래 사전 정보 — 프리미어 매진, 원작 9.9점, 4월 1일 봄 극장 로맨스',
+    description: '네가 마지막으로 남긴 노래 사전 정보. 미키 타카히로 감독, 원작 소설 교보문고 9.9점, 프리미어 상영회 초고속 매진, 4월 1일 개봉. 추천 대상과 비슷한 작품 비교.',
+    category: '영화추천',
+    date: '2026-03-30',
+    tags: ['트렌드', '네가마지막으로남긴노래', '일본영화', '로맨스', '미키타카히로', '4월개봉', '청춘영화', '극장추천'],
+    thumbnail: '/images/post600_thumb.svg',
+    relatedSlugs: [
+      'scream-series-complete-watch-order-guide-2026',
+      'netflix-movie-recommend-2026-march',
+      'recommend-movie-netflix-top-2025'
+    ],
+    contentType: '추천',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 599,
+    slug: 'scream-series-complete-watch-order-guide-2026',
+    title: '스크림 시리즈 완벽 시청순서 가이드 — 4월 1일 스크림 7 국내 개봉 전 1~6편 필수·선택 정리',
+    description: '스크림 시리즈 시청순서 완벽 가이드. 1편(1996)~7편(2026) 전체 정리, 필수 vs 건너뛰어도 되는 편, 3가지 시청 루트, OTT 시청 방법, 스크림 7 사전 정보까지.',
+    category: '영화추천',
+    date: '2026-03-30',
+    tags: ['트렌드', '스크림', '스크림7', '시청순서', '시리즈가이드', '호러', '니브캠벨', '4월개봉'],
+    thumbnail: '/images/post599_thumb.svg',
+    relatedSlugs: [
+      'scream-7-overseas-reaction-rt31-box-office-record-2026',
+      'horror-movies-recommend-2026-top10',
+      'last-song-you-left-me-japan-romance-movie-april-2026'
+    ],
+    contentType: '가이드',
+    platform: '극장',
+    spoilerLevel: 'partial'
+  },
+  {
     id: 598,
     slug: 'netflix-movie-recommend-alltime-top10-most-watched-2026',
     title: '넷플릭스 영화 추천 역대 1위 작품 TOP 10 — 2026 글로벌 시청수 기준 총정리',
