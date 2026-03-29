@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 597,
+    slug: 'stranger-things-series-complete-guide-watch-order-2026',
+    title: '기묘한 이야기 시리즈 완벽 가이드 — 시즌1~5 시청순서, 시즌별 평가, 테일즈 프롬 85 스핀오프 입문까지',
+    description: '기묘한 이야기(Stranger Things) 시리즈 가이드. 시즌1~5 시청순서 3가지 루트, 시즌별 RT 평점 비교, 핵심 복선 정리, 4월 23일 애니메이션 스핀오프 테일즈 프롬 85 사전 가이드.',
+    category: '드라마',
+    date: '2026-03-29',
+    tags: ['기묘한이야기', 'StrangerThings', '넷플릭스', '시청순서', '시리즈가이드', '테일즈프롬85', '시즌5', '스핀오프'],
+    thumbnail: '/images/post597_thumb.svg',
+    relatedSlugs: [
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'something-very-bad-netflix-duffer-brothers-overseas-reaction-2026',
+      'something-very-bad-ending-explained-curse-witness-rachel-2026'
+    ],
+    contentType: '가이드',
+    platform: '넷플릭스',
+    spoilerLevel: 'partial'
+  },
+  {
     id: 596,
     slug: 'something-very-bad-ending-explained-curse-witness-rachel-2026',
     title: 'Something Very Bad Is Going to Happen 결말 해석 — 레이첼은 왜 저주를 깨지 않았나, 목격자가 된다는 것의 의미',

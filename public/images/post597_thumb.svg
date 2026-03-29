@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="50%" style="stop-color:#1a0a0a"/>
+      <stop offset="100%" style="stop-color:#2d0a0a"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1120" height="550" rx="12" fill="none" stroke="#e50914" stroke-width="2" opacity="0.4"/>
+  <text x="600" y="200" font-family="Arial Black, sans-serif" font-size="28" fill="#e50914" text-anchor="middle" letter-spacing="8" filter="url(#glow)">STRANGER THINGS</text>
+  <text x="600" y="290" font-family="Arial Black, sans-serif" font-size="52" fill="#ffffff" text-anchor="middle" font-weight="bold">기묘한 이야기</text>
+  <text x="600" y="355" font-family="Arial Black, sans-serif" font-size="48" fill="#ffffff" text-anchor="middle" font-weight="bold">시리즈 완벽 가이드</text>
+  <text x="600" y="430" font-family="Arial, sans-serif" font-size="26" fill="#ff6b6b" text-anchor="middle">시즌1~5 시청순서 · 시즌별 평가 · 스핀오프 입문</text>
+  <text x="600" y="520" font-family="Arial, sans-serif" font-size="20" fill="#888888" text-anchor="middle">ambitstock.com | 2026</text>
+</svg>
