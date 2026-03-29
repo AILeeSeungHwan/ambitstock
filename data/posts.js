@@ -1265,7 +1265,7 @@ const posts = [
   },
   {
     id: 522,
-    slug: 'devil-wears-prada-2-april-2026-release-info',
+    slug: 'devil-wears-prada-2-april-2026-release-info-522',
     title: '악마는 프라다를 입는다 2 — 20년 만의 속편, 2026년 4월 개봉 사전 정보 총정리',
     description: '악마는 프라다를 입는다 2 개봉 정보. 메릴 스트립·앤 해서웨이·에밀리 블런트 전원 복귀, 감독·각본 동일, 2026년 4월 한국 개봉 확정. 전편 팬이 알아야 할 모든 것.',
     category: '영화추천',
@@ -3199,7 +3199,7 @@ const posts = [
   },
   {
     id: 110,
-    slug: 'recommend-movie-netflix-top-2025',
+    slug: 'recommend-movie-netflix-top-2025-110',
     tistorySlug: '넷플릭스-영화-추천-이동진-박평식-평론가-순위-TOP-20-2025',
     title: '넷플릭스 영화 추천 이동진 박평식 평론가 순위 TOP 20, 2025',
     description: '2025년 넷플릭스 영화 뭐 볼까?넷플릭스 영화 추천 TOP 20, 2025년입니다.   넷플릭스 영화 정말 많은데 막상 보려고 하면 뭘 봐야 할지 모를 때가 많죠?속 편히 현재 넷플릭스에서 시청가능한 평론가 인정 작품들을 선택해보세요. 이동진 평론가, 박평식 평론가가',
@@ -3493,7 +3493,7 @@ const posts = [
   },
   {
     id: 131,
-    slug: 'analysis-review-movie',
+    slug: 'analysis-review-movie-131',
     tistorySlug: '피스-바이-피스-관람평-뜻-해석-퍼렐-윌리엄스-역사를-레고-영화로',
     title: '피스 바이 피스 관람평 뜻 해석 <퍼렐 윌리엄스 역사를 레고 영화로>',
     description: '피스 바이 피스 관람평 뜻 해석, 퍼렐의 역사를 레고로   피스 바이 피스 로튼 토마토 평론가 평점피스 바이 피스 로튼 토마토 평론가 평점입니다.  평론가 평점 83%, 관객 평점 90%입니다.80점 중반대의 높은 평론가 평점과 더불어 로튼 토마토 신선도 보증 마크 또',
@@ -3871,7 +3871,7 @@ const posts = [
   },
   {
     id: 158,
-    slug: 'review-movie',
+    slug: 'review-movie-158',
     tistorySlug: '현재상영작-소방관-시사회-관람평-리뷰-포토-홍제동-화재-실화기반-영화',
     title: '현재상영작 소방관 시사회 관람평 리뷰 포토 < 홍제동 화재 실화기반 영화 >',
     description: '2024년 12월 04일 개봉영화 \'소방관\' 시사회 관람평 리뷰입니다.      함께 보면 좋은 콘텐츠더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.  크리스토퍼 놀란 영화 추천 | 모든 작품 로튼 토마토 평점 인기 순위 총정리!크리스토퍼 놀란의 모든 작품을 로튼 토',
@@ -4081,7 +4081,7 @@ const posts = [
   },
   {
     id: 173,
-    slug: 'ending-rating-reaction-overseas-review',
+    slug: 'ending-rating-reaction-overseas-review-173',
     tistorySlug: '엠알-나인-관람평-평점-결말-해외-반응-후기-예매-할지-말지-정해드림',
     title: '엠알 나인 관람평 평점 결말 해외 반응 후기 < 예매 할지 말지 정해드림 >',
     description: '엠알 나인 ( 영어제목 : MR-9: Do or Die ) 관람평 후기 12월 개봉예정영화      함께 보면 좋은 콘텐츠더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.  넷플릭스 영화 추천 2024년 9월 인기 작품 순위 TOP 10 총정리!2024년 9월 기준 넷',
@@ -4109,7 +4109,7 @@ const posts = [
   },
   {
     id: 175,
-    slug: 'rating-reaction-overseas-review',
+    slug: 'rating-reaction-overseas-review-175',
     tistorySlug: '애시드-레인-죽음의-비-뜻-관람평-리뷰-해외-반응-평점-예매할까-말까',
     title: '애시드 레인: 죽음의 비 뜻 관람평 리뷰 해외 반응 평점 예매할까 말까',
     description: '2024년 11월 27일 개봉예정영화 애시드 레인: 죽음의 비 뜻 관람평 후기입니다. 해외 관객들의 후기 리뷰를 통해 영화 애시드 레인: 죽음의 비, 예매할지 말지 정해드리겠습니다.이번 포스팅을 통해 애시드 레인: 죽음의 비 제목 뜻 의미, 그리고 관람평 평점 결말후기',
@@ -4249,7 +4249,7 @@ const posts = [
   },
   {
     id: 185,
-    slug: 'rating-review-movie',
+    slug: 'rating-review-movie-185',
     tistorySlug: '리바이벌-69-관람평-평점-다큐멘터리-영화-존-레논의-토론토-로큰롤-리바이벌',
     title: '리바이벌 69\' 관람평 평점 다큐멘터리 영화 <존 레논의 토론토 로큰롤 리바이벌>',
     description: '2024년 12월 04일 개봉예정영화 리바이벌 69\' 평론가 관람평 후기입니다. 전설의 뮤직 페스티벌 토론토 로큰롤 리바이벌의 시작이었던 1969년도, 존 레논과 척 베리, 리틀 리처드, 더 도어즈, 보 디들리 그리고 오노 요코. 전설적인 인물들의 무모하고도 역사적인 ',
@@ -4431,7 +4431,7 @@ const posts = [
   },
   {
     id: 198,
-    slug: 'reaction-overseas-review',
+    slug: 'reaction-overseas-review-198',
     tistorySlug: '위키드-시사회-후기-관람평-해외-평론가-평가-반응-아리아나-그란데-완벽히-어울린다-현재상영작',
     title: '위키드 시사회 후기 관람평 | 해외 평론가 평가 반응 아리아나 그란데 &quot;완벽히 어울린다&quot; 현재상영작',
     description: '영화 위키드에 대한 해외 평론가 시사회 후기 반응 포스팅입니다. 2024년 10월 30일에 진행된 영화 위키드의 첫 시사회는 미국의 비공개 프리뷰 행사로 열렸습니다. 이번 시사회는 영화 제작사 유니버설 픽처스의 주도로, 평론가와 영화 업계 관계자들을 초청하여 진행되었습',
@@ -4515,7 +4515,7 @@ const posts = [
   },
   {
     id: 204,
-    slug: 'analysis-ending-rating-review-movie',
+    slug: 'analysis-ending-rating-review-movie-204',
     tistorySlug: '히든-페이스-뜻-의미-해석-평점-결말후기-관람평-라틴-영화',
     title: '히든 페이스 뜻 의미 해석 평점 결말후기 관람평 라틴 영화',
     description: '넷플릭스 시청가능 영화 히든 페이스 평론가 평점 및 결말후기 관람평 리뷰입니다.동명의 한국영화 히든 페이스 개봉의 영향인지 현재 넷플릭스 영화 순위와 관심도가 상승 중인 영화 히든 페이스 입니다.우연히 접하게 되실 이 영화, 제목의 뜻 의미 해석과 어떤 평가를 받았는지',
@@ -4669,7 +4669,7 @@ const posts = [
   },
   {
     id: 215,
-    slug: 'ending-rating-review-movie-netflix',
+    slug: 'ending-rating-review-movie-netflix-215',
     tistorySlug: '넷플릭스-영화-타임컷-볼까말까-로튼-토마토-평점-평론가-결말-후기',
     title: '넷플릭스 영화 타임컷 볼까말까? | 로튼 토마토 평점 평론가 결말 후기',
     description: '넷플릭스 영화 타임컷 볼까말까? 결정해드립니다.영화 타임컷 해외반응 로튼토마토 평론가 평점 후기입니다.       영화 타임컷 로튼토마토 평론가 평점영화 타임컷 로튼토마토 평론가 평점입니다.   평론가 평점 29%, 관람객 평점 32%의 영화 타임컷 평점입니다. 처참한',
@@ -4781,7 +4781,7 @@ const posts = [
   },
   {
     id: 223,
-    slug: 'ending-rating-review',
+    slug: 'ending-rating-review-223',
     tistorySlug: '베놈-라스트-댄스-현재상영작-관람평-결말-후기-로튼-토마토-아쉬운-평론가-평점-후속작-베놈-4',
     title: '베놈 라스트 댄스 현재상영작 관람평 결말 후기 | 로튼 토마토 아쉬운 평론가 평점 | 후속작 베놈 4?',
     description: '베놈 라스트 댄스가 개봉 후 한국 박스오피스 1위를 이어가고 있습니다.한국에서의 평가는 무난하며 네이버 평점은 7점대를 기록하고 있으며, 다음 달까지 흥행이 이어질 것으로 보입니다. 하지만 해외 로튼토마토 평점과 평론가 후기는 아주 처참한 상황입니다.이번 포스팅에서는 ',
@@ -4921,7 +4921,7 @@ const posts = [
   },
   {
     id: 233,
-    slug: 'ending-review',
+    slug: 'ending-review-233',
     tistorySlug: '어프렌티스-시사회-후기-관람평-결말-리뷰-악마에게서-연민을-느끼다',
     title: '어프렌티스 시사회 후기 관람평 결말 리뷰 | 악마에게서 연민을 느끼다',
     description: '영화 어프렌티스의 해외 평론가 후기 관람평 리뷰입니다. 지난 포스팅을 통해 어프렌티스의 뜻과 의미, 그리고 해외 로튼 토마토 평점에 대하여 확인하실 수 있습니다. 어프렌티스 지난 포스팅  어프렌티스 The Apprentice 뜻 의미 해석 | 트럼프 일대기 미국 차기 ',
@@ -5033,7 +5033,7 @@ const posts = [
   },
   {
     id: 241,
-    slug: 'release-rating-reaction-overseas-review-movie',
+    slug: 'release-rating-reaction-overseas-review-movie-241',
     tistorySlug: '채식주의자-재개봉-노벨문학상-작품-노출이-만연한-영화-작품성은-해외-평점-관람평',
     title: '채식주의자 해외 반응 평점 관람평 재개봉 노벨문학상 작품 노출이 만연한 영화 작품성은?',
     description: '작가 한강의 노벨문학상 수상으로 핫한 작품이 있습니다. 영화 채식주의자입니다. 2024년 10월 17일 채식주의자의 영화버전이 재개봉합니다. 2010년 작품으로 작품성에 대한 엄청난 비판과 비난이 있었던 영화입니다.특히나 원작의 내용을 정확히 이해하지 못하고 만들어진 ',
@@ -5061,7 +5061,7 @@ const posts = [
   },
   {
     id: 243,
-    slug: 'rating-reaction-overseas-movie-netflix',
+    slug: 'rating-reaction-overseas-movie-netflix-243',
     tistorySlug: '탈출-프로젝트-사일런스-넷플릭스-공개-볼만한-영화-해외-평점-로튼-토마토-평론가-반응-인기-순위',
     title: '탈출 : 프로젝트 사일런스 넷플릭스 공개 볼만한 영화? | 해외 평점 로튼 토마토 평론가 반응 인기 순위',
     description: '영화 탈출 : 프로젝트 사일런스가 2024년 10월 16일 수요일 넷플릭스에 공개되었습니다.개봉 당시 행복의 나라와 더불어 고 이선균 유작으로 화제를 모았던 작품이었습니다.  과연 작품성면에서 어떠한지, 볼만한 영화인지 해외 평점과 후기를 바탕으로 알아보도록 하겠습니다',
@@ -5299,7 +5299,7 @@ const posts = [
   },
   {
     id: 260,
-    slug: 'release-ending-reaction-overseas-review-movie',
+    slug: 'release-ending-reaction-overseas-review-movie-260',
     tistorySlug: '할머니가-죽기-전-백만장자가-되는-법-해외-평론가-후기-결말-반응-관람평-리뷰-개봉예정영화-태국',
     title: '할머니가 죽기 전 백만장자가 되는 법 해외 평론가 후기 결말 반응 관람평 리뷰 | 개봉예정영화 태국',
     description: '의외로 풍성한 10월의 개봉예정영화입니다.8월 이후 9월은 베테랑 2 외에 심드렁한 극장가였기에, 베테랑 2의 작품성이 어느 정도 떨어짐에도 불구하고 1위를 유지할 수 있었습니다. 10월은 여러 작품들의 이름이 오르내리고 있습니다.  뉴욕 아시아 영화제 관객상을 수상하',
@@ -6069,7 +6069,7 @@ const posts = [
   },
   {
     id: 315,
-    slug: 'ending-reaction-review-movie-netflix',
+    slug: 'ending-reaction-review-movie-netflix-315',
     tistorySlug: '넷플릭스-영화-레블리지-후기-결말-리뷰-로튼-평론가-반응-현재상영작',
     title: '넷플릭스 영화 레블리지 후기 결말 리뷰 로튼 평론가 반응 현재상영작',
     description: '넷플릭스 영화 레블리지 후기 결말 리뷰 로튼토마토 평론가 반응입니다.레블리지의 뜻과 의미, 평점이 궁금하신 분은 이전 포스팅을 참고하시길 바랍니다.최근 공개된 넷플릭스 영화 중 최고의 작품으로 평가 받는 레블리지, 후기 살펴보도록 하겠습니다.    넷플릭스 영화 레블리',
@@ -6083,7 +6083,7 @@ const posts = [
   },
   {
     id: 316,
-    slug: 'rating-recommend-movie-netflix',
+    slug: 'rating-recommend-movie-netflix-rebel-ridge-review',
     tistorySlug: '넷플릭스-영화-추천-레블리지-영어제목-뜻-의미와-평점-현재상영작',
     title: '넷플릭스 영화 추천 레블리지 영어제목 뜻 의미와 평점 | 현재상영작',
     description: '드디어 볼만한 넷플릭스 영화가 나왔습니다. 영화 레블리지 (영어제목 Rebel Ridge)의 뜻 의미와 평점 포스팅입니다.최근 나온 넷플릭스 영화들이 졸작으로 평가를 받으며 넷플릭스 영화에 대한 기대감이 낮아져있었습니다.하지만 이번에 공개된 레블리지, 해외 평가부터 국',
@@ -6153,7 +6153,7 @@ const posts = [
   },
   {
     id: 321,
-    slug: 'rating-reaction-overseas-review-movie-netflix',
+    slug: 'rating-reaction-overseas-review-movie-netflix-321',
     tistorySlug: '넷플릭스-영화-더-유니온-말-그대로-로튼-토마토-제목-뜻-해외-평점-후기-반응',
     title: '넷플릭스 영화 더 유니온 말 그대로 로튼 토마토! 제목 뜻 해외 평점 후기 반응',
     description: '넷플릭스 시청가능 영화 더 유니온 해외 평점 후기 반응입니다.이번 포스팅에서 현재 넷플릭스에서 시청가능한 영화 더 유니온 로튼토마토, IMDB평점 알아보겠습니다. 시작하기에 앞서 이 영화를 보고자 하는 분들은 큰 기대를 하지 마시길 바랍니다.그 이유는 후기반응에서 살펴',
@@ -6181,7 +6181,7 @@ const posts = [
   },
   {
     id: 323,
-    slug: 'review-movie',
+    slug: 'review-movie-323',
     tistorySlug: '다큐멘터리-영화-안녕-할부지-푸바오-근황-후기-중국-반환-이유는',
     title: '다큐멘터리 영화 \'안녕, 할부지\' 푸바오 근황 후기 중국 반환 이유는?',
     description: '다가오는 9월 4일, 다큐멘터리 영화 \'안녕, 할부지\'가 전국 CGV, 롯데시네마, 메가박스에서 동시 개봉합니다. 에버랜드와 콘텐츠 제작사 에이컴즈가 공동 제작했으며, 자이언트 판다 푸바오와 그의 가족, 그리고 그들을 돌본 주키퍼들의 이야기를 담은 영화 \'안녕, 할부지',
@@ -6223,7 +6223,7 @@ const posts = [
   },
   {
     id: 326,
-    slug: 'horror-rating-reaction-overseas-movie',
+    slug: 'horror-rating-reaction-overseas-movie-326',
     tistorySlug: '영화-이매지너리-뜻-로튼-해외-평점과-반응-올해-공포는-다-죽었다',
     title: '영화 이매지너리 뜻 로튼 해외 평점과 반응 | 올해 공포는 다 죽었다',
     description: '2024년 공포 영화 개봉작 이매지너리의 해외 평점 반응입니다.2024년 8월 28일 한국 개봉한 이매니저리 ( IMAGINARY )는 이미 북미에서 3월 8일 개봉하였고, 흥행성적과는 별개로 압도적으로 낮은 평점을 기록하고 있습니다. 이매지너리 외에 한국 공포영화 늘',
@@ -6279,7 +6279,7 @@ const posts = [
   },
   {
     id: 330,
-    slug: 'release',
+    slug: 'release-330',
     tistorySlug: '베테랑-2-빌런-악역-출연진-개봉일-정보-얼굴이-재밌는-정해인-스틸컷-모음-베테랑-3도',
     title: '베테랑 2 빌런 악역 출연진 개봉일 정보 | 얼굴이 재밌는 정해인 스틸컷 모음 베테랑 3도?',
     description: '전작의 성공을 잇는 동시에 새로운 매력을 더한 강력 범죄 수사 액션 영화 \'베테랑 2\'가 돌아옵니다. 이번 작품은 황정민이 다시 한번 베테랑 형사 서도철, 강력 범죄 수사대의 리더로서 연쇄살인범을 추적하는 과정을 그립니다. 새로운 캐릭터로 합류한 정해인이 맡은 박선우는',
@@ -6363,7 +6363,7 @@ const posts = [
   },
   {
     id: 336,
-    slug: 'rating-reaction-overseas-review-drama',
+    slug: 'rating-reaction-overseas-review-drama-336',
     tistorySlug: '디즈니-플러스-드라마-폭군-해외-평점과-인기-순위-극명히-갈린-후기반응',
     title: '디즈니 플러스 드라마 폭군 해외 평점과 인기 순위 극명히 갈린 후기반응',
     description: '디즈니 플러스 드라마 폭군( 영어 제목 The Tyrant )의 해외 평점과 후기반응입니다.IMDB와 로튼 토마토에서 확인하였으며, 해외 시청자들은 어떻게 폭군을 보았을 지 알아보겠습니다. 시즌 1 회수 안된 떡밥 정보와 시즌 2 줄거리 내용 예상은 해당 포스팅을 확인',
@@ -6475,7 +6475,7 @@ const posts = [
   },
   {
     id: 344,
-    slug: 'rating-reaction-overseas-review-netflix',
+    slug: 'rating-reaction-overseas-review-netflix-344',
     tistorySlug: '넷플릭스-더-인플루언서-뜻-해외-시청자들의-평점과-후기반응은-어떨까',
     title: '넷플릭스 더 인플루언서 뜻, 해외 시청자들의 평점과 후기반응은 어떨까',
     description: '넷플릭스 더 인플루언서 뜻과 해외 평점, 후기반응 입니다.이전 포스팅을 통해 더 인플루언서의 해외 순위와 논란 이슈사항들을 살펴보았습니다.인플루언서의 뜻이 무엇인지, 그리고 해외 평점과 후기반응은 어떠한지 알아보도록 하겠습니다. 더 인플루언서 보러 가기       인플',
@@ -6503,7 +6503,7 @@ const posts = [
   },
   {
     id: 346,
-    slug: 'rating-review',
+    slug: 'rating-review-346',
     tistorySlug: '에일리언-로물루스-인기순위-로튼-토마토-평론가-관람평점과-후속작이-기대되는-후기',
     title: '에일리언 로물루스 인기순위 로튼 토마토 평론가 관람평점과 후속작이 기대되는 후기',
     description: '현재 상영작 에일리언 로물루스 해외 로튼 토마토 평론가 평점 후기입니다.관람하신 분들은 아시겠지만, 에일리언 시리즈 중 최고작이라 평가 받을 정도로 엄청난 작품이 탄생하였습니다.에일리언 1, 2 의 중간 시점을 배경으로 하는 에일리언 로물루스, 과연 해외 평론가들의 관',
@@ -6517,7 +6517,7 @@ const posts = [
   },
   {
     id: 347,
-    slug: 'rating-reaction-overseas-review-movie',
+    slug: 'rating-reaction-overseas-review-movie-347',
     tistorySlug: '베테랑-2-칸-영화제-시사회-평점-해외-후기반응-호평과-혹평이-동시에',
     title: '베테랑 2 칸 영화제 시사회 평점 해외 후기반응 | 호평과 혹평이 동시에',
     description: '베테랑 2 개봉 전 칸 국제 영화제 해외 평론가 시사회 후기 반응을 전해드립니다. 베테랑 2가 오는 2024년 9월 13일 개봉을 앞두고 있습니다.8월의 기대작 에일리언 로물루스가 개봉 후에도 기대에 부응하는 엄청난 호평을 이어가고 있고, 이와 더불어 트위스터스, 빅토',
@@ -6587,7 +6587,7 @@ const posts = [
   },
   {
     id: 352,
-    slug: 'rating-reaction-review',
+    slug: 'rating-reaction-review-352',
     tistorySlug: '행복의-나라-시사회-후기반응-평점-예매-볼만할까-이선균-조정석-주연',
     title: '행복의 나라 시사회 후기반응 평점 예매 볼만할까? 이선균 조정석 주연',
     description: '2024년 8월 14일 개봉하는 영화 행복의 나라 시사회 후기반응 평점입니다.8월 14일 개봉하는 대작들이 넘쳐나기 때문에 ( 에일리언 로물루스, 트위스터스, 행복의 나라, 빅토리 등 ) 영화를 좋아하는 여러분들에게 굉장한 고민거리를 제공하고 있습니다. 과연 행복의 나',
@@ -6853,7 +6853,7 @@ const posts = [
   },
   {
     id: 371,
-    slug: 'reaction-overseas-review',
+    slug: 'reaction-overseas-review-371',
     tistorySlug: '에일리언-로물루스-시사회-미친-해외-반응과-후기-출연진-정보',
     title: '에일리언 로물루스 보러가기 시사회 미친 해외 반응과 후기 출연진 쿠키 정보',
     description: '2024년 8월 17일 개봉예정인 에일리언: 로물루스 시사회 해외 후기반응과 출영진 쿠키여부 정보 전해드립니다.시사회 해외 후기반응부터 시작합니다.   영화 에일리언: 로물루스 부제 로물루스는 무엇인가?로물루스 뜻  24.08.12 업데이트해외 시사회 SNS 첫 반응에',
@@ -6937,7 +6937,7 @@ const posts = [
   },
   {
     id: 377,
-    slug: 'rating-review-movie',
+    slug: 'rating-review-movie-377',
     tistorySlug: '현재상영작-영화-파일럿-성차별-논란-이슈-후기와-평점-쿠키-정보',
     title: '현재상영작 영화 파일럿 성차별 논란 이슈 후기와 평점 쿠키 정보',
     description: '2024년 7월 31일 영화 파일럿이 개봉하였습니다. 현재 개봉일 기준 오전 9점대의 영화 파일럿 네이버 평점은 8.4점으로 하락하고 있는 추세입니다.영화 파일럿 관객수는 첫날 23만명으로 현재상영작 영화 인기 순위 1위를 기록하고 있습니다.  영화 파일럿 기본정보감독',
@@ -6951,7 +6951,7 @@ const posts = [
   },
   {
     id: 378,
-    slug: 'ending-reaction-overseas-review-movie',
+    slug: 'ending-reaction-overseas-review-movie-378',
     tistorySlug: '영화-트위스터스-로튼-토마토-해외-평론가-반응-결말-후기',
     title: '영화 트위스터스 로튼 토마토 해외 평론가 반응 결말 후기',
     description: '영화 트위스터스 시리즈 두번째 입니다. 첫번째 포스팅을 통해 로튼 토마토 평론가 평점 및 영화 트위스터스 제목 뜻, 배우진 캐스팅 정보를 알아보았습니다. 영화 트위스터스 뜻 해외 반응 및 로튼토마토 평론가 평점 - 미나리 정이삭 감독 작품 등장인물영화 미나리 정이삭 감',
@@ -7189,7 +7189,7 @@ const posts = [
   },
   {
     id: 395,
-    slug: 'ending-rating-reaction-overseas-review-recommend-movie-netflix',
+    slug: 'ending-rating-reaction-overseas-review-recommend-movie-netflix-395',
     tistorySlug: '비버리-힐즈-캅-엑셀-F-4-볼만-한지-딱-정해줌-넷플릭스-영화-추천-인기-순위-1위-평점-결말-후기-해외-반응-차기작',
     title: '비버리 힐스 캅: 엑셀 F 4 볼만 한지 딱 정해줌 - 넷플릭스 영화 추천 인기 순위 1위 | 평점 결말 후기 해외 반응 차기작',
     description: '넷플릭스 영화, 신작들은 많은데 뭘 봐야할지 모르겠다?2024년 7월 2주차 신작, 넷플릭스 영화 추천, 인기 순위 1위 비버리 힐스 캅: 엑셀 F ( 4번째 시리즈 ) 입니다. 로튼 토마토 평점 및 IMDB 평점, 비버리 힐스 캅: 엑셀 F에 대한 해외 후기를 종합적',
@@ -7245,7 +7245,7 @@ const posts = [
   },
   {
     id: 399,
-    slug: 'plot',
+    slug: 'plot-399',
     tistorySlug: '괴수-8호-2기-원작-만화책-내용-스포-포함-줄거리-요약-정보-완벽-정리',
     title: '괴수 8호 2기 원작 만화책 내용 스포 포함 줄거리 요약 정보 완벽 정리!',
     description: '괴수 8호 2기의 예상 내용을 원작 만화를 바탕으로 요약해드리겠습니다. 괴수 8호는 마츠모토 나오야가 집필한 일본 만화로,괴수로 변할 수 있는 주인공 카프카 히비노의 이야기를 중심으로 전개됩니다.현재 성황리에 호평을 받으며 1기를 마무리 지었으며, 2기 제작이 확정되었',
@@ -7301,7 +7301,7 @@ const posts = [
   },
   {
     id: 403,
-    slug: 'ending-rating-reaction-overseas-review-movie-netflix',
+    slug: 'ending-rating-reaction-overseas-review-movie-netflix-403',
     tistorySlug: '넷플릭스-영화-봄이-사라진-세계-평점-결말-포함-해외리뷰-영어-일본어-제목-뜻',
     title: '넷플릭스 영화 봄이 사라진 세계 평점 결말 포함 해외 후기 리뷰반응 | 영어 일본어 제목 뜻',
     description: '객관적인 자료를 바탕으로 넷플릭스 볼만한 드라마, 영화를 추천드립니다. 넷플릭스 신작 추천 시리즈, 이번 작품은 일본 영화 봄이 사라진 세계 입니다. 일본 영화를 떠올린다면 \'나는 내일, 어제의 너와 만난다\', \'너의 췌장을 먹고 싶어\' 와 같은 일본 영화 특유의 감성',
@@ -7329,7 +7329,7 @@ const posts = [
   },
   {
     id: 405,
-    slug: 'rating-reaction-overseas-review-movie-netflix',
+    slug: 'rating-reaction-overseas-review-movie-netflix-405',
     tistorySlug: '넷플릭스-영화-가족이라서-문제입니다-볼만한-영화인가-해외-평점-리뷰-반응',
     title: '넷플릭스 영화 <가족이라서 문제입니다> 볼만한 영화인가? 해외 평점 리뷰 반응',
     description: '넷플릭스 영화 가족이라서 문제입니다 ( 영어제목 : A Family Affair 뜻 가족의 일)가 공개되었습니다.니콜 키드먼, 잭 애프론, 조이 킹 주연의 이 영화, 볼만할까요?로튼 토마토 해외 평점 및 리뷰 반응을 통해서 확인해보도록 하겠습니다.    목 차가족이라서',
@@ -7441,7 +7441,7 @@ const posts = [
   },
   {
     id: 413,
-    slug: 'series-season-plot-netflix',
+    slug: 'series-season-plot-netflix-413',
     tistorySlug: '스위트-홈-시즌3-공개일-임박-넷플릭스-시리즈-이전-줄거리-요약-등장인물-티저-예고편',
     title: '스위트 홈 시즌3 공개일 임박! 넷플릭스 시리즈 이전 줄거리 요약 등장인물 티저 예고편',
     description: '넷플릭스 시리즈 성공작 스위트 홈 시즌 3가 돌아옵니다. 스위트 홈 시즌3 공개일은 7월 19일로 6월 29일 기준 D-20일입니다. 신규 시리즈 공개 전, 전 작품들의 줄거리 요약 및 등장인물 소개와 티저 예고편 확인해 보도록 하겠습니다.  목 차스위트홈 이전 시즌 ',
@@ -7497,7 +7497,7 @@ const posts = [
   },
   {
     id: 417,
-    slug: 'rating-reaction-overseas-review-movie',
+    slug: 'rating-reaction-overseas-review-movie-417',
     tistorySlug: 'B급-매력의-A급-영화-해외에서-먼저-알아본-핸섬-가이즈-평점-리뷰-및-반응',
     title: 'B급 매력의 A급 영화, 해외에서 먼저 알아본 \'핸섬 가이즈\' 평점 리뷰 및 반응',
     description: '\'잘생긴 녀석들\', 핸섬 가이즈 뜻은 영화의 전체적인 감성을 관통합니다. 본인들이 잘생겼다고 생각하는 주 캐릭터들의 오만방자함과 그와 반하는 고어하면서도 코믹한 사건들을 통하여 찐한 B급 감성을 영화에 입힙니다. 최근 개봉한 한국 코미디영화들을 보면 극한직업같은 웰메이',
@@ -7623,7 +7623,7 @@ const posts = [
   },
   {
     id: 426,
-    slug: 'plot-movie',
+    slug: 'plot-movie-426',
     tistorySlug: '콰이어트-플레이스-3-첫째날-개봉-전-남들보다-미리보는-예고편-출연진-줄거리-완벽-정리-개봉-예정-영화-추천',
     title: '콰이어트 플레이스: 첫째 날 글로 보는 영화 | 출연진 줄거리 완벽 정리 | 현재 상영작',
     description: '콰이어트 플레이스: 첫째 날 (A Quiet Place: Day One) 은 \'콰이어트 플레이스\' 시리즈 세번째 작품, 스핀오프 프리퀄로, 첫 외계 생명체 침공 당시의 이야기를 다룹니다. 영화 제목 콰이어트 플레이스의 뜻은 영어 그대로 \'조용한 장소\'이며, 소리를 감지',
@@ -7749,7 +7749,7 @@ const posts = [
   },
   {
     id: 435,
-    slug: 'rating-reaction-overseas-review-movie',
+    slug: 'rating-reaction-overseas-review-movie-435',
     tistorySlug: '영화-듄-파트2-시사회-해외-평론가반응-파트3-예정-듄-뜻과-후기-평점-리뷰-쿠키-예매-정보-현재상영작',
     title: '[영화 듄 파트2 시사회 해외 평론가반응 파트3 예정?] 듄 뜻과 후기 평점 리뷰 쿠키 예매 정보 현재상영작',
     description: '2024년 최고 기대작 영화 듄 파트 2가 개봉을 앞두고 있습니다. 티모시 샬라메와 젠데이아 콜먼이 내한하며 개봉 전 기대감을 한껏 올린 영화 듄 파트 2 (영어 제목:Dune: Part Two) 해외 반응 및 평점 리뷰입니다. 현재 해외 평론가들 사이에서 압도적인 평',
@@ -7959,7 +7959,7 @@ const posts = [
   },
   {
     id: 450,
-    slug: 'rating-reaction-overseas-review-recommend-movie-netflix-ott',
+    slug: 'rating-reaction-overseas-review-recommend-movie-netflix-ott-450',
     tistorySlug: '영화-천박사-퇴마-연구소-설경의-비밀-해외-평점-반응리뷰-강동원-영화-추천-넷플릭스-OTT-다시보기-블랙핑크-지수-선녀역-특별출연작',
     title: '[영화 천박사 퇴마 연구소: 설경의 비밀 해외 평점 반응리뷰] 강동원 영화 추천 넷플릭스 OTT 다시보기 블랙핑크 지수 선녀역 특별출연작',
     description: '배우 강동원 영화 추천, 웹툰 원작 영화 천박사 퇴마 연구소: 설경의 비밀(영어 제목: Dr. Cheon and the Lost Talisman ) 해외 평점 및 반응리뷰입니다. 함께보면 좋은 2024년 개봉 예정작 추천 영화 개봉일 및 해외 반응 영화 조커 2: 폴리',
@@ -8295,7 +8295,7 @@ const posts = [
   },
   {
     id: 474,
-    slug: 'rating-reaction-overseas-review-netflix',
+    slug: 'rating-reaction-overseas-review-netflix-474',
     tistorySlug: '경성크리처-시즌1-리뷰-해외-평점-및-일본-반응',
     title: '[한소희를 좋아했지만] 경성크리처 논란 및 해외 반응, 일본 평점 리뷰 넷플릭스 현재 상영작',
     description: '경성크리처 파트1이 연일 화제입니다. 작품성에 대한 이야기부터, 반일감정유발, 주인공은 왜 총과 괴물의 촉수에 맞지 않는가? 등등의 여러 논란과 관계없이 작년 연말을 장식한 국내외 화제작임은 틀림없습니다. ↑↑ 경성크리처 통합본 이곳에서 확인 ↑↑ 목 차 로튼 토마토 ',
