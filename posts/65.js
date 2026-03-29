@@ -98,16 +98,6 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: inherit; font-size: 16px; line-height: 1.8;&quot;>화려한 비주얼과 스펙터클, 그리고 새로운 시대의 액션 서사로 기대감을 모으는 작품입니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

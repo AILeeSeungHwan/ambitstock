@@ -26,16 +26,6 @@ const post = {
       type: 'body',
       html: '<p>홍콩 영화의 명성은 이제(혹은 이미..) 정말 끝인 것인가, 함께 확인해 보시죠.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post115_img2.jpg', alt: '해관전선', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',

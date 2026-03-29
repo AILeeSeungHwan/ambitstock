@@ -112,16 +112,6 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: inherit; font-size: 16px; line-height: 1.8;&quot;>해외 평론가들이 이 영화를 “올해 가장 무서운 영화”라고 평가한 이유를, 직접 확인해보시길 추천합니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section6',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

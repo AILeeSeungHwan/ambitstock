@@ -120,16 +120,6 @@ const post = {
       type: 'body',
       html: '<p>제한된 공간에서 벌어지는 사건들에 비해 더 강렬한 연기가 필요했을 것이다. 그럼에도 불구하고 《La cara oculta》는 1시간 30분 이하의 상영 시간 동안 꽤 괜찮은 스릴러로, 평균 이상의 작품이라 할 수 있다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post204_img11.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post204_img10.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post204_img9.jpg', alt: '히든 페이스', caption: 'ⓒ R의 필름공장' },

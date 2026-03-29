@@ -132,16 +132,6 @@ const post = {
       type: 'body',
       html: '<div><center><button class=&quot;btn-hover color-8&quot;><a href=&quot;https://ambitstock.com/420&quot; title=&quot;어쩔수가없다 해외후기 보러가기&quot;>어쩔수가없다 해외 평론가 후기 더 보러 가기👉</a></button></center></div>'
     },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

@@ -30,16 +30,6 @@ const post = {
       type: 'body',
       html: '<p>더 퍼스트 슬램덩크 포스팅 시작합니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post113_img2.jpg', alt: '더 퍼스트 슬램덩크', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',

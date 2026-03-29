@@ -22,16 +22,6 @@ const post = {
       type: 'body',
       html: '<p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 제목인 사일런트 러브의 뜻 해석, 그리고 해외 시청자들의 반응 후기</b></span>를 함께 알아보도록 하겠습니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post114_img2.jpg', alt: '사일런트 러브', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',

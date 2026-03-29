@@ -144,16 +144,6 @@ const post = {
       type: 'body',
       html: '<p>과장된 폭력, 만화적 톤, 보이의 내적 독백(유머)이 맞는다면 만족도가 높고, <br/>탄탄한 서사와 감정선을 기대하면 아쉬울 수 있어요. 스토리보다 <b>안무·연출·타격감</b>에 집중해 보세요.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

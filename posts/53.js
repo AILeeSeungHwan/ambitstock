@@ -104,16 +104,6 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: inherit; line-height: 1.8;&quot;>브라이드는 화려한 볼거리 중심의 블록버스터와는 결이 다릅니다. 대신 긴장과 감정의 파동을 체감하는 영화에 가깝습니다. 조용한 환경에서 집중해 관람한다면 작품이 의도한 분위기를 온전히 느낄 수 있을 것입니다. 3월 극장가에서 색다른 경험을 찾는 관객이라면 충분히 주목할 만한 작품입니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section8',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

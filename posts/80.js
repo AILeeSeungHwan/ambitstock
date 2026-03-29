@@ -109,8 +109,6 @@ const post = {
     { type: 'body', html: "<p>역사적 사실·아카이브의 무게감. 시사 성격의 GV 여부 체크.</p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><a href=&quot;https://search.naver.com/search.naver?query=피로+지켜낸+대한민국+영화&quot; title=&quot;예매/정보&quot;><button class=&quot;btn-hover color-8&quot;>예매/정보 보기</button></a></p>" },
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><b>10.16 이후 개봉 영화들의 정보는 다음 포스팅에서 이어집니다!</b></p>" },
-    { type: 'h2', id: "section11", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

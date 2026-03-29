@@ -13,16 +13,6 @@ const post = {
       text: '공유 주연 넷플릭스 드라마 트렁크 ( 영어제목 : The Trunk ) 해외 반응',
       gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
     },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post154_img1.jpg', alt: '넷플릭스 드라마 트렁크', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',

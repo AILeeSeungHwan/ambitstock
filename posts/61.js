@@ -24,8 +24,6 @@ const post = {
     { type: 'image', src: "/images/post61_img2.jpg", alt: "넷플릭스 요금제 할인", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>2025년 기준 가장 확실한 할인법은 <b>통신사 결합 + 카드 캐시백</b> 조합이에요. 여기에 가족 계정 공유까지 활용하면, 프리미엄 요금제를 1인당 월 3천~4천 원 수준으로 즐길 수 있습니다.</p>" },
     { type: 'body', html: "<p>주변에서도 이미 이렇게 쓰는 경우가 많으니, 지금 본인 상황에 맞게 조합을 찾아보시면 좋을 것 같아요.</p>" },
-    { type: 'h2', id: "section3", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

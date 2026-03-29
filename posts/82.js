@@ -92,16 +92,6 @@ const post = {
       type: 'body',
       html: '<p>결국 이 시리즈가 꾸준히 회자되는 이유는, 무서운 장면 때문만은 아니다. 제목 그대로, 우리 마음속 어딘가에 숨어 있던 감정을 불러내고, 다시 마주하게 만들기 때문이다. 그래서 ‘컨저링’은 단순한 제목이 아니라, 이 영화가 가진 정체성을 가장 잘 보여주는 말이라고 할 수 있다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

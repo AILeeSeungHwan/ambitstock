@@ -113,16 +113,6 @@ const post = {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Grace Manger - 평점 없음</span></i><br/>훌륭하고 너무나도 드문 영화이다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post201_img10.jpg', alt: '캐롤 영화', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post201_img9.jpg', alt: '캐롤 영화', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post201_img8.jpg', alt: '캐롤 영화', caption: 'ⓒ R의 필름공장' },

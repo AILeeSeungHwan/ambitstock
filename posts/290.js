@@ -23,7 +23,6 @@ const post = {
     { type: 'image', src: "/images/post290_img4.jpg", alt: "트랜스포머 원 IMDB 평점", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>다음 포스팅에서 트랜스포머 ONE 평론가 후기를 다루도록하겠습니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드리며 포스팅 마칩니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

@@ -305,12 +305,6 @@ const post = {
       "format": "auto"
     },
     {
-      "type": "h2",
-      "id": "section4",
-      "text": "함께 보면 좋은 콘텐츠",
-      "gradientStyle": "linear-gradient(to right, #e53935, #ef5350)"
-    },
-    {
       "type": "image",
       "src": "/images/post145_img2.jpg",
       "alt": "조명가게 출연진",

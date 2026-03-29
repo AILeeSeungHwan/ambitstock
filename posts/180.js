@@ -110,16 +110,6 @@ const post = {
       type: 'body',
       html: '<p>감사합니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

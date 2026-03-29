@@ -28,8 +28,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>마지막에, 시연이 완료된 후에도 아기의 울음소리가 들려오며 기적이 일어났음을 암시한다. </b></span></p>" },
     { type: 'body', html: "<p>이러한 전개는 시즌 2에서 신의 뜻과 인간의 운명에 대해 더 깊이 다루며 이야기를 이어갈 가능성을 열어둔다.</p>" },
     { type: 'body', html: "<p>시즌 2는 바로 오늘, 2024년 10월 25일 넷플릭스에서 현재 시청할 수 있다.</p>" },
-    { type: 'h2', id: "section-함께-보면-좋은-콘텐츠", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

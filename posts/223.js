@@ -48,8 +48,6 @@ const post = {
     { type: 'body', html: "<p>공식적으로 베놈의 향후 계획이 발표되지 않았지만, 앞으로도 베놈이 MCU 세계관에서 어떤 형태로든 다시 등장할 가능성은 열려 있기에, 후속작은 베놈 4가 아닌 MCU 세계관에서 스파이더맨과의 대립을 기대해 보시면 좋을 것 같습니다.</p>" },
     { type: 'body', html: "<p>이상으로 베놈 라스트 댄스 해외 평론가 관람평 결말후기, 그리고 베놈 후속작에 대한 이야기로 포스팅 마칩니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'h2', id: "section-함께-보면-좋은-콘텐츠", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
-    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ending', html: "<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;마블 영화 2025-2027&quot;>2024.08.04 - [영화/마블] - 마블 영화 개봉 예정 총 정리 2025년 - 2027년</a></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]

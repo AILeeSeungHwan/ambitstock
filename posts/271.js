@@ -26,7 +26,6 @@ const post = {
     { type: 'body', html: "<p>다음 포스팅에서 경성크리처 시즌 2 해외 시청자 후기반응 리뷰 살펴보겠습니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
     { type: 'image', src: "/images/post271_img1.jpg", alt: "경성크리처 시즌 2", caption: "ⓒ R의 필름공장" },
-    { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

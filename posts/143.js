@@ -48,8 +48,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;font-family: AppleSDGothicNeo-Regular, 'Malgun Gothic', '맑은 고딕', dotum, 돋움, sans-serif;&quot;>따라서 &quot;Lust, Caution&quot;은 &quot;욕망과 조심&quot; 또는 &quot;정욕과 경계&quot;로 번역될 수 있습니다.</span></p>" },
     { type: 'body', html: "<p>이상으로 영화 색, 계 뜻과 해석, 로튼 토마토 해외 평론가 관람평 결말후기 포스팅 마칩니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'h2', id: "section5", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

@@ -96,8 +96,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; target=&quot;_blank&quot;>2025년 1월 한국 영화 개봉예정작 기대작 총정리 TOP 5</a></p>" },
     { type: 'body', html: "<p>이상으로 현재상영작 영화 예매 순위 포스팅을 마칩니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'h2', id: "section13", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

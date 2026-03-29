@@ -29,7 +29,6 @@ const post = {
     { type: 'image', src: "/images/post259_img1.jpg", alt: "할머니가 죽기 전 백만장자가 되는 법", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>그렇다면 도대체 어떠한 부분이 평론가들, 관람객들의 마음을 사로잡았을까요.</p>" },
     { type: 'body', html: "<p>다음 포스팅에서 할머니가 죽기 전 백만장자가 되는 법 해외 시청자 후기반응 리뷰 살펴보겠습니다.</p>" },
-    { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

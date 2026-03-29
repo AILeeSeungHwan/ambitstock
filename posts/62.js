@@ -80,16 +80,6 @@ const post = {
       type: 'body',
       html: '<p>2025년 OTT 시장은 <b>“콘텐츠 경쟁보다 요금제 경쟁”</b>으로 변화하고 있습니다. 넷플릭스는 가격 안정과 대중성, 디즈니는 프리미엄 체험과 기술력으로 승부를 보고 있죠. 둘 다 구독 중이라면, 하나는 광고형, 다른 하나는 프리미엄으로 조합해 <b>가격 절약 + 화질 확보</b>를 동시에 노리는 것도 좋은 선택이에요.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

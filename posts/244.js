@@ -68,8 +68,6 @@ const post = {
     { type: 'body', html: "<p>이상으로 2024년 공포영화 인기순위 별 추천 마칩니다.</p>" },
     { type: 'body', html: "<p>이외 다루지 않은 추천할만한 공포영화가 있다면 댓글로 남겨주시길 바랍니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'h2', id: "section-함께-보면-좋은-콘텐츠", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

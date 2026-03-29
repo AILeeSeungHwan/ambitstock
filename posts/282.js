@@ -27,7 +27,6 @@ const post = {
     { type: 'body', html: "<p>그렇다면 도대체 어떠한 부분에서 평점이 이렇게 갈리게 되었을까요.</p>" },
     { type: 'body', html: "<p>다음 포스팅에서 반지의 제왕 : 힘의 반지 해외 시청자 후기반응 리뷰 살펴보겠습니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'body', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
     { type: 'image', src: "/images/post282_img6.jpg", alt: "반지의 제왕 스틸컷 입니다.", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post282_img1.jpg", alt: "반지의 제왕 힘의 반지", caption: "ⓒ R의 필름공장" },
     { type: 'ending', html: "<p><b>반지의 제왕 시리즈뿐만 아니라 애니메이션 영화로도 곧 찾아옵니다.</b></p>" },

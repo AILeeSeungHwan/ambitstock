@@ -4,8 +4,6 @@ const post = {
     { type: 'intro', html: "<p><b>영화 히트맨 2가 (영어제목 : Hit Man) 2025년 1월 22일 개봉하였습니다.</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 히트맨 2 개봉시기에 맞춰 넷플릭스에 공개된 전작에 대해 자세히 알아보도록 하겠습니다.</b></span></p><p>영화의 제목 뜻과 해석, 그리고 해외 시청자 반응과 평점 후기를 확인해 보시죠.</p><div><center><a href=&quot;https://www.netflix.com/browse?jbv=81313503&quot; title=&quot;히트맨 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>히트맨 바로 보러 가기👉</button></a></center></div>" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
-    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'image', src: "/images/post103_img1.jpg", alt: "히트맨", caption: "ⓒ R의 필름공장" },
     { type: 'h2', id: "section2", text: "영화 히트맨 줄거리", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'body', html: "<p>욱해서 그린 웹툰 '암살요원 준'의 성공으로 잠깐 흥행 작가가 된 '준'은 시즌2 연재 시작과 동시에 '뇌절작가'로 전락하고, 망작이 된 시즌2는 되려 '준'을 노리는 글로벌한 악당들의 내한 열풍을 일으킨다.</p>" },

@@ -46,7 +46,6 @@ const post = {
     { type: 'body', html: "<p>감사합니다.</p>" },
     { type: 'image', src: "/images/post281_img6.jpg", alt: "조커 2 호아킨 피닉스 레이디 가가", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post281_img7.jpg", alt: "조커 2 뮤지컬 영화", caption: "ⓒ R의 필름공장" },
-    { type: 'ending', html: "<p><b>조커 2와 함께 보면 좋은 콘텐츠를 전달해 드립니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

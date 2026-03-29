@@ -14,12 +14,6 @@ const post = {
       "format": "auto"
     },
     {
-      "type": "h2",
-      "id": "section1",
-      "text": "함께 보면 좋은 콘텐츠",
-      "gradientStyle": "linear-gradient(to right, #e50914, #ff6b6b)"
-    },
-    {
       "type": "image",
       "src": "/images/post189_img12.jpg",
       "alt": "피아노 레슨 관람평",

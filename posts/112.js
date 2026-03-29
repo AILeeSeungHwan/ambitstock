@@ -22,16 +22,6 @@ const post = {
       type: 'body',
       html: '<p>이번 포스팅에서는 <b>영화 제목인 언데드 다루는 법의 뜻 해석 그리고 해외 로튼 토마토 평론가 반응 후기</b>를 함께 알아보도록 하겠습니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post112_img2.jpg', alt: '언데드 다루는 법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',

@@ -83,16 +83,6 @@ const post = {
       type: 'body',
       html: '<p>결국 이 영화는 <b>소렌티노의 스타일리시한 시네마틱 미학</b>을 사랑하는 이들에게는 충분히 즐길 만하지만, <b>깊이 있는 서사</b>를 원하는 관객들에게는 호불호가 갈릴 수 있는 작품으로 평가됩니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

@@ -138,16 +138,6 @@ const post = {
       "html": "<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>전시 개막일은 점점 다가오는데, <br>리지는 과연 무사히 전시회를 열 수 있을까?<br>출처 - 다음 영화</br></br></span></b></span></blockquote>"
     },
     {
-      "type": "body",
-      "html": "<p style=&quot;text-align: center;&quot;>&lt;함께 보면 좋은 콘텐츠&gt; 이후 포스팅 계속</p>"
-    },
-    {
-      "type": "h2",
-      "id": "section3",
-      "text": "함께 보면 좋은 콘텐츠",
-      "gradientStyle": "linear-gradient(to right, #6a1b9a, #ab47bc)"
-    },
-    {
       "type": "image",
       "src": "/images/post155_img7.jpg",
       "alt": "쇼잉 업 관람평",

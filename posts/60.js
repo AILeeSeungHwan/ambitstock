@@ -112,16 +112,6 @@ const post = {
       type: 'body',
       html: '<p>전체적으로 보면 <b>글로벌 플랫폼은 안정 성장</b>, <b>국내 OTT는 오리지널 콘텐츠·가격 경쟁력</b>을 무기로 점유율을 확장 중이에요. 특히 쿠팡플레이와 티빙은 스포츠·드라마를 중심으로 빠르게 영향력을 넓히고 있어 2025년 하반기엔 <b>10% 점유율 돌파</b>도 충분히 가능하다는 평가가 나옵니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section8',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

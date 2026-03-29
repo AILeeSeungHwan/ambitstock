@@ -76,16 +76,6 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: inherit; line-height: 1.8;&quot;>현재 특별관 상영도 일부 유지되고 있어 재관람 수요도 기대됩니다. 특히 음향 설계가 뛰어나다는 평가가 많아 돌비관, 아이맥스 상영관에서의 관람 만족도가 높다는 후기가 이어지고 있습니다. 역사극과 정치 드라마를 선호하는 관객이라면 극장에서 경험해볼 만한 작품입니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

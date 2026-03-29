@@ -4,8 +4,6 @@ const post = {
     { type: 'intro', html: "<p>2000년에 개봉한 리들리 스콧 감독의 <i>글래디에이터</i>는 고대 로마의 치열한 검투사 싸움과 영웅 막시무스의 복수극을 중심으로, 전 세계 관객들의 마음을 사로잡았다. <span style=&quot;background-color: #9feec3;&quot;><b>아카데미 작품상을 포함한 5관왕을 차지하며 영화사에 길이 남을 명작이 된 이 작품</b></span>은 그 후에도 많은 팬들에게 회자되며 영화를 넘어 문화적 아이콘이 되었다.</p><p>그리고 24년 만에 속편인 <i>글래디에이터 Ⅱ</i>가 개봉했다. 이 속편은 전작의 영광을 이어받아, 새로운 영웅과 더 큰 스케일의 이야기를 펼쳐나간다. 이번 포스팅에서는 글래디에이터 2의 줄거리 내용과 해외 반응을 함께 살펴보고자 한다.</p><p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;글래디에이터 2 평점 관람평 후기&quot;>2024.11.12 - [영화/영화 해외반응후기] - 글래디에이터 2 평점 관람평 후기 제목 뜻 의미 | 로튼 토마토 평론가 반응은?</a></p>" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
-    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'image', src: "/images/post208_img1.jpg", alt: "글래디에이터 2", caption: "ⓒ R의 필름공장" },
     { type: 'h2', id: "section2", text: "새로운 영웅, 루시우스의 여정", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'body', html: "<p><i>글래디에이터 Ⅱ</i>는 막시무스의 죽음 이후 약 20여 년이 흐른 고대 로마를 배경으로 한다. 로마는 두 폭군 황제, 게타와 카라칼라가 지배하며 자유의 꿈이 사라진 시대를 맞이한다.</p>" },

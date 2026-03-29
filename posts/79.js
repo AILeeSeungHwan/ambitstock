@@ -118,8 +118,6 @@ const post = {
     { type: 'h2', id: "section-관람-포인트", text: "관람 포인트", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
     { type: 'body', html: "<p>음악사의 이면, ‘매니지먼트’의 드라마. 비틀즈 팬이라면 체크.</p>" },
     { type: 'body', html: "<div><center><a href=&quot;/ title=&quot;10월 개봉예정영화 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>10월 개봉예정영화 보러 가기👉</button></a></center></div>" },
-    { type: 'h2', id: "section11", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

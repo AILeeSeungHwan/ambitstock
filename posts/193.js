@@ -14,12 +14,6 @@ const post = {
       "format": "auto"
     },
     {
-      "type": "h2",
-      "id": "section1",
-      "text": "함께 보면 좋은 콘텐츠",
-      "gradientStyle": "linear-gradient(to right, #e50914, #ff6b6b)"
-    },
-    {
       "type": "image",
       "src": "/images/post193_img13.jpg",
       "alt": "강남 비 사이드",

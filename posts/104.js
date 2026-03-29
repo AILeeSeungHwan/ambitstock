@@ -4,8 +4,6 @@ const post = {
     { type: 'intro', html: "<p><b>현재 넷플릭스에서 시청가능한 영화 도그데이즈 (영어제목 : Dog Days)</b></p><p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 도그데이즈의 뜻 의미 해석과 함께 해외 평점을 알아보고 볼만한 작품인지 확인해 보도록 하겠습니다.</b></span></p><div><center><a href=&quot;https://www.netflix.com/browse?jbv=81777530&quot; title=&quot;도그데이즈 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>도그데이즈 바로 보러 가기👉</button></a></center></div>" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
-    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'image', src: "/images/post104_img1.jpg", alt: "도그데이즈", caption: "ⓒ R의 필름공장" },
     { type: 'h2', id: "section2", text: "영화 도그데이즈 줄거리", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'body', html: "<p><b>깔끔하고 계획적인 성격의 싱글남 ‘민상’(유해진)</b>은 영혼을 쏟아 넣어 산 건물을 <b>세입자 ‘진영’(김서형) 때문에 고생</b>하고 있다. 매일 같이 티격태격하며 스트레스를 받는 민상은 오늘도 동물병원에서 성격이 강한 할머니를 만나게 되는데, 그 할머니는 <b>세계적인 건축가 ‘민서’(윤여정)</b>였다.</p>" },

@@ -25,8 +25,6 @@ const post = {
     { type: 'image', src: "/images/post58_img5.jpg", alt: "화이트아웃", caption: "ⓒ R의 필름공장" },
     { type: 'h2', id: "section6", text: "화이트 아웃 총평", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
     { type: 'body', html: "<p><b>화이트 아웃</b>은 인디 예산으로 <b>설원 서바이벌의 몰입감</b>을 꽤 똑똑하게 뽑아낸 작품이에요. <b>액션·스릴러의 기본기</b>는 탄탄하고, <b>인간 심리</b>를 밀어붙이는 구성이 매력적입니다. 다만 조명·템포 이슈로 몰입이 끊기는 구간이 있어 호불호가 생겨요. <b>설원 생존물·러프한 액션·장르 비틀기</b>를 좋아한다면 추천입니다.</p>" },
-    { type: 'h2', id: "section7", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

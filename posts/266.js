@@ -21,7 +21,6 @@ const post = {
     { type: 'image', src: "/images/post266_img5.jpg", alt: "와일드 로봇", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post266_img1.jpg", alt: "와일드 로봇", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>다음 포스팅에서 평론가 후기 리뷰와 제목의 뜻과 의미, 내용 줄거리에 대해 자세히 다루도록 하겠습니다.</p>" },
-    { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드립니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

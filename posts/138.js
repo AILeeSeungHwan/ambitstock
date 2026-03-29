@@ -55,8 +55,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>약 4,352명의 표본에서 7.9점이라는 높은 평점을 기록하며 좋은 반응</b>을 이끌었습니다.</span></p>" },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>한국에서도 시청률 상승과 더불어 좋은 평가를 받고 있지만 성균관 스캔들과 비교하며 다운그레이드 된 아류작이라는 평가도 받고 있는 작품입니다. 해외에서의 리뷰들은 대부분 긍정적인 리뷰들이 확인됩니다. 공개된지 얼마 안된 작품이기 때문에, 국내 반응들을 추후 더 살펴보아야 겠습니다.</span></p>" },
     { type: 'body', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;>다음 포스팅에서 드라마 체크인 한양의 해외 시청자 후기 반응 리뷰 살펴보도록 하겠습니다.</span></p>" },
-    { type: 'h2', id: "section6", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
-    { type: 'ending', html: "<p><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></span></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

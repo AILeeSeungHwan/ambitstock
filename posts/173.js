@@ -13,16 +13,6 @@ const post = {
       text: '엠알 나인 ( 영어제목 : MR-9: Do or Die ) 관람평 후기12월 개봉예정영화',
       gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
     },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post173_img1.jpg', alt: '엠알 나인 관람평 평점 결말 해외 반응 후기 < 예매 할지 말지 정해드림 >', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',

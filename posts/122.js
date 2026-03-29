@@ -9,8 +9,6 @@ const post = {
     { type: 'image', src: "/images/post122_img1.jpg", alt: "애니멀 킹덤", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>프랑스 영화인 이 작품은 이미 해외 평론가에게도 좋은 평가를 받으며 2025년 1월 기대작으로 뽑히고 있습니다.</p>" },
     { type: 'body', html: "<p>이번 포스팅에서는 영화 제목인 애니멀 킹덤 ( The Animal Kingdom )의 뜻 해석, 해외 로튼 토마토 평론가 반응 후기를 함께 알아보도록 하겠습니다.</p>" },
-    { type: 'h2', id: "section2", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
-    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'image', src: "/images/post122_img2.jpg", alt: "애니멀 킹덤", caption: "ⓒ R의 필름공장" },
     { type: 'h2', id: "section3", text: "애니멀 킹덤 줄거리", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
     { type: 'body', html: "<blockquote><span style=&quot;font-family: 'Noto Serif KR';&quot;><b>사랑하는 가족과 친구들, 이웃들이 </b><br><b>하나둘 동물로 변해가기 시작했다.</b> </br></span></blockquote>" },

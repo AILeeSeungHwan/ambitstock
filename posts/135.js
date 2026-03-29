@@ -52,8 +52,6 @@ const post = {
     { type: 'h2', id: "section-감독-김태준", text: "감독:김태준", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;>김태준 감독은 <i>스마트폰을 떨어뜨렸을 뿐인데</i>로 현실 스릴러 장르의 진수를 선보였으며, 이번에는 아파트 층간소음을 소재로 이웃과의 첨예한 갈등을 그린 <i>84제곱미터</i>로 돌아왔습니다. 감독은 “현실적인 소재를 다루다 보니, 아파트라는 획일화된 공간의 구조나 마감들을 굉장히 현실적으로 구현해야 된다고 생각했다. </span></p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;>공간들의 현실적인 톤을 놓치지 않으면서 최대한 다채롭게 표현하려고 노력했다”며, 현실 스릴러라는 장르적 재미를 예고했습니다. 또한, “첫 작품은 스마트폰을 소재로 했고, 이번 작품은 집을 소재로 하다 보니 넷플릭스의 시청 환경과 궁합이 잘 맞겠다는 생각을 했다”며 넷플릭스와의 호흡에 대한 기대감을 전했습니다.</span></p>" },
-    { type: 'h2', id: "section5", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

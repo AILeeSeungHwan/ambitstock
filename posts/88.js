@@ -93,8 +93,6 @@ const post = {
     { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=top_hty&amp;fbm=0&amp;ie=utf8&amp;query=승부+예매&quot; title=&quot;승부 보러가기&quot;><button class=&quot;btn-hover color-8&quot;>승부 보러 가기👉</button></a></center></div>" },
     { type: 'body', html: "<p>이상으로 2025년 4월 현재상영작 영화 예매 순위 포스팅을 마칩니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'h2', id: "section12", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

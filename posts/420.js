@@ -359,16 +359,6 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;>티빙 (TVING), 왓챠(WATCHA), 넷플릭스 (NETFLIX), 디즈니 플러스(DISNEY+)</span></p>'
     },
-    {
-      type: 'h2',
-      id: 'section11',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

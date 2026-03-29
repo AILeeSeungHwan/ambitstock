@@ -25,8 +25,6 @@ const post = {
     { type: 'body', html: "<p>이와 같이 영화 제목은 액션 영화라는 장르적인 테마를 바탕으로 주인공의 자아 탐구라는 메인 주제를 담아내고 있으며,</p>" },
     { type: 'body', html: "<p>조직을 떠나 새로운 삶을 찾으려는 그녀의 여정을 함축적으로 표현하고 있습니다.</p>" },
     { type: 'body', html: "<p>한국어 제목보다는 영어 제목이 영화의 주제와 목적성을 좀 더 명확히 표현하고 있습니다.</p>" },
-    { type: 'h2', id: "section-함께-보면-좋은-콘텐츠", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

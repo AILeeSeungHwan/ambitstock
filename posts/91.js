@@ -11,8 +11,6 @@ const post = {
     { type: 'body', html: "<p>지도 한 장만 남긴 채 감쪽같이 사라져 버린 ‘루시’ 숙모를 찾아 떠난 ‘패딩턴’과 브라운 가족은 페루의 정글을 둘러싼 비밀을 찾아 모험을 떠나게 되는데… 모험천만 아마존 정글에 뛰어든 도시곰 ‘패딩턴’과 브라운 가족! 올 겨울방학 반드시 가족도 찾고, 집으로 돌아가야만 하는 초대형 컴백곰 프로젝트가 시작된다!</p>" },
     { type: 'body', html: "<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>더 귀엽곰! 웃기곰! <br>재밌곰! 패딩턴 머스트 컴백곰!</br></span></b></span></blockquote>" },
     { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?where=nexearch&amp;sm=tab_etc&amp;mra=bkEw&amp;pkid=68&amp;os=36406051&amp;qvt=0&amp;query=패딩턴%20페루에%20가다%20상영일정&quot; title=&quot;영화 페딩턴: 페루에 가다! 보러가기&quot;><button class=&quot;btn-hover color-8&quot;> 페딩턴 영화 바로 보러 가기👉</button></a></center></div>" },
-    { type: 'h2', id: "section2", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
-    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'image', src: "/images/post91_img2.jpg", alt: "패딩턴 : 페루에 가다!", caption: "ⓒ R의 필름공장" },
     { type: 'h2', id: "section3", text: "패딩턴! 페루에 가다 영어제목 뜻 해석", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
     { type: 'h2', id: "section--quot-paddington-in-peru-quot-", text: "&quot;Paddington in Peru&quot;의 직관적 의미", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },

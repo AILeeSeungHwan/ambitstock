@@ -40,8 +40,6 @@ const post = {
     { type: 'image', src: "/images/post77_img7.jpg", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
     { type: 'image', src: "/images/post77_img6.jpg", alt: "넷플릭스 영화 추천 사마귀", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p><span style=&quot;color: inherit; text-align: start;&quot;>길복순을 재밌게 보신분들,<span> </span></span>9월 26일 넷플릭스에서 직접 확인해 보시길 권합니다.</p>" },
-    { type: 'h2', id: "section7", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

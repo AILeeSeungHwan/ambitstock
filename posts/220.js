@@ -182,12 +182,6 @@ const post = {
       "html": "<p>감사합니다.</p>"
     },
     {
-      "type": "h2",
-      "id": "section-함께-보면-좋은-콘텐츠",
-      "text": "함께 보면 좋은 콘텐츠",
-      "gradientStyle": "linear-gradient(135deg, #7c4dff, #448aff)"
-    },
-    {
       "type": "image",
       "src": "/images/post220_img9.jpg",
       "alt": "섀도우의 13 결말 후기 해외 평론가 반응 넷플릭스 액션 영화 추천",

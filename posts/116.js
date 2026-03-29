@@ -107,8 +107,6 @@ const post = {
     { type: 'body', html: "<p>이상으로 2025년 1월 모든 영화에 대한 정리 포스팅 마칩니다.</p>" },
     { type: 'body', html: "<p>해당 포스팅을 바탕으로 기대하는 작품의 정보와 보고 싶은 작품을 찾으셨길 바랍니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'h2', id: "section13", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

@@ -8,8 +8,6 @@ const post = {
     { type: 'body', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>프랑스 이탈리아 영화 카라바조의 그림자가 2025년 1월 22일 개봉합니다.</b></span></p>" },
     { type: 'image', src: "/images/post117_img1.jpg", alt: "카라바조의 그림자", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>영화 제목인 카라바조의 그림자의 뜻 해석 그리고 해외 로튼 토마토 평론가 반응 후기</b></span>를 함께 알아보도록 하겠습니다.</p>" },
-    { type: 'h2', id: "section2", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
-    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'image', src: "/images/post117_img2.jpg", alt: "카라바조의 그림자", caption: "ⓒ R의 필름공장" },
     { type: 'h2', id: "section3", text: "카라바조의 그림자 줄거리", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
     { type: 'body', html: "<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>성모의 죽음, 메두사, <br>성 마태오의 소명, <br>세례 요한의 참수…</br></br></span></b></span></blockquote>" },

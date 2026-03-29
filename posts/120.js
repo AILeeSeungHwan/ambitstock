@@ -22,16 +22,6 @@ const post = {
       type: 'body',
       html: '<p>이번 포스팅에서는 더 킬러 죽음의 여왕의 해외 로튼 토마토 평론가 평점과 반응 후기를 바탕으로 볼지말지 정해드리겠습니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post120_img2.jpg', alt: '더 킬러: 죽음의 여왕 평점 로튼 관람평, 이 영화 꼭 보셔야 겠어요?', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',

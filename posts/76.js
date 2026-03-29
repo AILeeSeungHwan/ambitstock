@@ -139,16 +139,6 @@ const post = {
       type: 'body',
       html: '<p>저 역시 개봉과 동시에 극장에서 확인할 계획입니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section8',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

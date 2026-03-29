@@ -4,8 +4,6 @@ const post = {
     { type: 'intro', html: "<p><span style=&quot;background-color: #f3c000;&quot;><b>영화 위키드에 대한 해외 평론가 시사회 후기 반응 포스팅입니다.</b></span></p><p><b>2024년 10월 30일에 진행된 영화 위키드의 첫 시사회는 미국의 비공개 프리뷰 행사</b>로 열렸습니다. 이번 시사회는 영화 제작사 유니버설 픽처스의 주도로, 평론가와 영화 업계 관계자들을 초청하여 진행되었습니다. 이 시사회에서 나온 초기 반응은 트위터와 관련 매체를 통해 공개되었으며, 각종 매체에서 소개된 평론가들의 호평과 의견들을 가져왔습니다.</p><p><span style=&quot;background-color: #f3c000;&quot;><b>영화에 대한 평론가들의 반응은 대부분 긍정적으로 평가</b></span>되었으며, 주요 반응을 긍정적, 부정적으로 나누어 정리하면 다음과 같습니다.</p><p style=&quot;text-align: center;&quot;><span style=&quot;background-color: transparent;&quot;><i>영화 위키드에 대한 뜻과 의미 해석, 그리고 줄거리 내용은 이전 포스팅을 참고하시길 바랍니다.</i></span></p><p style=&quot;text-align: center;&quot;><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;위키드 뜻 뮤지컬 소설 원작&quot;>2024.11.19 - [영화/영화 정보] - 현재상영작 영화 위키드 뜻 뮤지컬 소설 원작 줄거리 내용 &lt;아리아나 그란데 출연작&gt;</a></p>" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
-    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'image', src: "/images/post198_img1.jpg", alt: "위키드", caption: "ⓒ R의 필름공장" },
     { type: 'h2', id: "section2", text: "위키드 시사회 긍정적 반응", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'body', html: "<h4><span style=&quot;background-color: #f3c000;&quot;><b>1. 연출과 캐스팅</b></span></h4>" },

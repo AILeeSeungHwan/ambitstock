@@ -377,16 +377,6 @@ const post = {
       type: 'body',
       html: '<p>여러분의 인생영화도 댓글로 남겨 주세요. 다음 포스팅에서 해외 평단 반응과 수상 기록까지 묶어 더 탄탄하게 가져올게요.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section12',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a1a2e, #e94560)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

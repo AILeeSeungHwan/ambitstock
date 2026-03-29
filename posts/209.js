@@ -4,8 +4,6 @@ const post = {
     { type: 'intro', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>블링크 트와이스 해외 평론가 결말후기 관람평입니다.</b></span></p><p>이전 포스팅을 토앟여 블링크 트와이스(Blink Twice)의 뜻과 의미 해석, 그리고 로튼 토마토 평점과 관객평점을 확인해보실 수 있습니다.</p>" },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'h2', id: "section1", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
-    { type: 'body', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'image', src: "/images/post209_img1.jpg", alt: "블링크 트와이스", caption: "ⓒ R의 필름공장" },
     { type: 'h2', id: "section2", text: "블링크 트와이스 해외 평론가 결말후기 관람평", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
     { type: 'body', html: "<p><span style=&quot;background-color: #9feec3;&quot;><b>영화 블링크 트와이스 해외 평론가 결말후기 관람평입니다.</b></span></p>" },

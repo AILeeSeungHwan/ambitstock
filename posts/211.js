@@ -89,16 +89,6 @@ const post = {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>John McDonald - 평점 없음</span></i><br/>이 영화의 가장 큰 장점은 마이클 키튼의 놀라운 비틀쥬스 연기, 버튼의 후세계에 대한 코믹한 비전, 그리고 특수 효과의 손길에서 느껴지는 수공예적인 성격이다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post211_img8.jpg', alt: '비틀쥬스 비틀쥬스', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post211_img7.jpg', alt: '비틀쥬스 비틀쥬스', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post211_img6.jpg', alt: '비틀쥬스 2 비틀쥬스', caption: 'ⓒ R의 필름공장' },

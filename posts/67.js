@@ -77,8 +77,6 @@ const post = {
     { type: 'body', html: "<p>9/26 <b>사마귀</b> → 10/03 <b>다 이루어질지니</b> → 10/16 <b>로맨틱 어나니머스</b> → 10/17 <b>굿뉴스</b> → 10/24 <b>하우스 오브 다이너마이트</b> → 11/14 <b>인 유어 드림</b> → 12/19 <b>대홍수</b>.</p>" },
     { type: 'image', src: "/images/post67_img8.jpg", alt: "넷플릭스 공개예정작", caption: "ⓒ R의 필름공장" },
     { type: 'body', html: "<p>날짜는 공개 일정에 따라 변동될 수 있으니, ‘찜+알림’은 미리 눌러두는 게 마음 편합니다. 올해 넷플릭스, 확실히 풍성합니다.</p>" },
-    { type: 'h2', id: "section9", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #6a1b9a, #ab47bc)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

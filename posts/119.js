@@ -30,16 +30,6 @@ const post = {
       type: 'body',
       html: '<p>그렇다면 이번 포스팅에서는 <span style=&quot;background-color: #9feec3;&quot;><b>대도시의 사랑법의 해외 시청자 반응과 관람평점</b></span>을 함께 살펴보도록 하겠습니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section2',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post119_img2.jpg', alt: '대도시의 사랑법', caption: 'ⓒ R의 필름공장' },
     {
       type: 'h2',

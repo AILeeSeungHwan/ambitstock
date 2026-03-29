@@ -140,16 +140,6 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: inherit; text-align: start;&quot;>감사합니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post210_img7.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post210_img6.jpg', alt: '블링크 트와이스 평점분포', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post210_img5.jpg', alt: '블링크 트와이스', caption: 'ⓒ R의 필름공장' },

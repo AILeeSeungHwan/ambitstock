@@ -52,8 +52,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; font-size: 16px; line-height: 1.8;&quot;>넷플릭스가 선보인 <b>최고의 애니메이션 명작 <i>클라우스</i>는 크리스마스의 기원에 대한 아름다운 상상력을 담은 이야기</b>입니다. 손으로 그린 듯한 따뜻한 2D 스타일과 혁신적인 애니메이션 기법이 결합되어, 눈부신 시각적 완성도를 자랑합니다.</p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; font-size: 16px; line-height: 1.8;&quot;>우편배달부와 장난감 제작자의 우정, 그리고 아이들에게 기쁨을 주려는 마음이 전 세계 관객의 마음을 울렸습니다.</p>" },
     { type: 'body', html: "<p style=&quot;color: inherit; font-size: 16px; line-height: 1.8;&quot;>가족 영화이자 동시에 인간의 선함과 나눔의 가치를 일깨우는 감동적인 작품으로, 아카데미 애니메이션상 후보에도 오르며 작품성을 인정받았습니다.</p>" },
-    { type: 'h2', id: "section11", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #00897b, #26a69a)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

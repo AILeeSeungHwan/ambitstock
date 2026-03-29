@@ -109,8 +109,6 @@ const post = {
     { type: 'body', html: "<p>동료들과 수많은 전투를 거치며 성장한 그는, 주들과 합동 훈련 중 우부야시키 저택에서 마주친 무잔의 술수에 의해 ‘무한성’으로 떨어진다.</p>" },
     { type: 'body', html: "<p>혈귀의 본거지에서 펼쳐지는 최종 결전. 탄지로와 동료들의 사투가 시작된다.</p>" },
     { type: 'body', html: "<div><center><a href=&quot;https://search.naver.com/search.naver?query=귀멸의+칼날+예매&quot; title=&quot;귀멸의 칼날 예매하기&quot;><button class=&quot;btn-hover color-8&quot;>귀멸의 칼날 보러가기👉</button></a></center><center></center></div>" },
-    { type: 'h2', id: "section12", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

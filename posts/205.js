@@ -85,16 +85,6 @@ const post = {
       type: 'body',
       html: '<p><i><span style=&quot;background-color: #f3c000;&quot;>Mark Johnson - 평점 없음</span></i><br/>Dan Stevens의 연기가 영화에 약간의 흥미를 더했지만, 《Abigail》은 너무 웃기려 하다 보니 전반적으로 톤이 일관되지 않았다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section3',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #6a1b9a, #ab47bc)'
-    },
-    {
-      type: 'body',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화 드라마를 찾아보세요.</b></p>'
-    },
     { type: 'image', src: '/images/post205_img8.jpg', alt: '애비게일', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post205_img7.jpg', alt: '애비게일', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post205_img6.jpg', alt: '애비게일 결말후기 관람평', caption: 'ⓒ R의 필름공장' },

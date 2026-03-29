@@ -74,8 +74,6 @@ const post = {
     { type: 'body', html: "<p style=&quot;color: inherit; text-align: start;&quot;><span style=&quot;color: inherit;&quot;>김병우 감독은 <i>더 테러 라이브</i>, <i>PMC: 더 벙커</i>로 극한의 상황과 그 속의 인물들을 치밀하고 생동감 있게 담아내며 관객들의 찬사를 받았습니다. 그는 <i>대홍수</i>에 대해 “이 영화는 재난으로 끝나지 않는다. 복잡할 수도 있고 단순할 수도 있는 이야기를 재난이라는 장르를 통해 시작해 보자는 게 최초의 생각이었다. 후반 작업을 하면서도 시청자들이 어떻게 볼지 두근두근하다”라고 말하며 차별화된 매력을 선보일 것에 대한 설레는 마음을 전했습니다.</span></p>" },
     { type: 'body', html: "<p>두 번째 포스팅에서 계속됩니다.</p>" },
     { type: 'body', html: "<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;개봉예정작 2부&quot;>2024.12.29 - [영화/영화 정보] - 넷플릭스 영화 추천 시리즈 2025년 한국 개봉예정작 총정리! - 2부</a></p>" },
-    { type: 'h2', id: "section6", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a1a2e, #e94560)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

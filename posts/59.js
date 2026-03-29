@@ -85,16 +85,6 @@ const post = {
       type: 'body',
       html: '<ul style=&quot;list-style-type: disc;&quot;> <li>공포보다 <b>불안과 상징</b> 중심의 실험적 장르 영화예요.</li> <li><b>연출·분위기</b>는 호평, <b>전개·완성도</b>는 혹평이 많아요.</li> <li>관객 평점은 냉랭하지만, 주제의식에 매료된 지지층도 존재해요.</li> <li>개봉 후 국내 반응이 흥행 성패를 가를 전망입니다.</li> <li> </li> </ul>'
     },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

@@ -70,8 +70,6 @@ const post = {
     { type: 'body', html: "<p>신현준 김수미 정준호 하회정</p>" },
     { type: 'h2', id: "section-귀신-경찰-줄거리", text: "귀신 경찰 줄거리", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
     { type: 'body', html: "<p>선생님 그때부터였던 것 같아요…. 우리 애가 나가더니, 갑자기 엄마~ 엄마~ 목 터지게 부르는 거야! 그래서, 이 개#@뒈!@#^%놈이 또 무슨 사고 치고 지@#%염@$#나 내가 설거지하다 말고 방망이 들고 옥상에 뛰어나갔더니 글쎄 어머머 벼락을 맞았지 뭐예요?! 그리고 애가 얼마나 놀랬으면 지리는거야 내가 계속 지리라 했어요. 선생님 잘했죠??? 그런데 그날 이후… 하찮은 능력이 생긴 경찰과 그 가족의 웃음벨 코미디가 시작된다!</p>" },
-    { type: 'h2', id: "section8", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

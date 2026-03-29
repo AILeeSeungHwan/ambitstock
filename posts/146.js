@@ -124,16 +124,6 @@ const post = {
       type: 'body',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;조명가게 해외 반응 리뷰&quot;>2024.12.21 - [영화/영화 해외반응후기] - 조명가게 해외 리뷰 스포 포함 결말후기 &lt; 디즈니 플러스 강풀 웹툰 원작 드라마의 흥행 &gt;</a></p>'
     },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

@@ -37,7 +37,6 @@ const post = {
     { type: 'body', html: "<p>트랜스포머 ONE 평론가 후기 리뷰 모두 살펴보았습니다.</p>" },
     { type: 'body', html: "<p>이번 포스팅은 여기서 마칩니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
-    { type: 'ending', html: "<p><b>함께 보면 좋은 콘텐츠 소개해드리며 포스팅 마칩니다.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

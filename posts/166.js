@@ -9,12 +9,6 @@ const post = {
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'h2',
-      id: 'section1',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'h2',
       id: 'section2',
       text: '크레이븐 더 헌터 뜻 관람평 시사회 후기 해외 반응',
       gradientStyle: 'linear-gradient(to right, #1a73e8, #42a5f5)'

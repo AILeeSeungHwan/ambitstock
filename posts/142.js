@@ -80,16 +80,6 @@ const post = {
       type: 'body',
       html: '<p><a href=&quot;/ rel=&quot;noopener&quot; title=&quot;트렁크 해외 반응&quot;>2024.12.09 - [드라마] - 트렁크 드라마 해외 반응 평점 결말 후기 인기 순위 리뷰 &lt; 넷플릭스 공유 시리즈 추천 &gt;</a></p>'
     },
-    {
-      type: 'h2',
-      id: 'section5',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #00897b, #26a69a)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

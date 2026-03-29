@@ -121,16 +121,6 @@ const post = {
       type: 'body',
       html: '<p>엡스타인은 무명 밴드를 세계로 올린 <b>가속 장치</b>였고, 동시에 그가 사라졌을 때 시스템이 흔들렸다는 <b>현실의 역학</b> 또한 이 제목 안에 들어 있습니다. 이 양면을 함께 읽을 때, 영화의 의미는 가장 또렷해집니다.</p>'
     },
-    {
-      type: 'h2',
-      id: 'section7',
-      text: '함께 보면 좋은 콘텐츠',
-      gradientStyle: 'linear-gradient(to right, #e50914, #ff6b6b)'
-    },
-    {
-      type: 'ending',
-      html: '<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>'
-    },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }

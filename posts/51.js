@@ -35,8 +35,6 @@ const post = {
     { type: 'body', html: "<ul style=&quot;line-height: 1.8;&quot;> <li>브리저튼 시리즈를 꾸준히 본 시청자</li> <li>시대극 로맨스를 좋아하는 사람</li> <li>관계 중심 서사를 선호하는 시청자</li> </ul>" },
     { type: 'h2', id: "section7", text: "한 줄 정리", gradientStyle: "linear-gradient(to right, #e50914, #ff6b6b)" },
     { type: 'body', html: "<p style=&quot;color: inherit; line-height: 1.8;&quot;>브리저튼 시즌4는 화려함은 유지하면서도 다음 시즌을 향한 포석을 남긴 이야기다. 결말이 완전히 닫히지 않았기에, 시즌5에 대한 기대는 당분간 계속 이어질 듯하다.</p>" },
-    { type: 'h2', id: "section8", text: "함께 보면 좋은 콘텐츠", gradientStyle: "linear-gradient(to right, #1a73e8, #42a5f5)" },
-    { type: 'ending', html: "<p><b>더 많은 포스팅을 통해 볼만한 영화를 찾아보세요.</b></p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
