@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 598,
+    slug: 'netflix-movie-recommend-alltime-top10-most-watched-2026',
+    title: '넷플릭스 영화 추천 역대 1위 작품 TOP 10 — 2026 글로벌 시청수 기준 총정리',
+    description: '넷플릭스 영화 추천 역대 1위 작품 TOP 10. 2026년 3월 기준 글로벌 시청수 순위, 케이팝 데몬 헌터스·레드 노티스·캐리온 등 RT 점수·IMDB 비교, 취향별 추천 가이드.',
+    category: '영화추천',
+    date: '2026-03-29',
+    tags: ['넷플릭스', '영화추천', '넷플릭스영화추천', '역대1위', 'TOP10', '시청수', '케이팝데몬헌터스', '레드노티스', '캐리온'],
+    thumbnail: '/images/post598_thumb.svg',
+    relatedSlugs: [
+      'recommend-movie-netflix-top-2025',
+      'netflix-korean-drama-top10-alltime',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'netflix-global-top10-march-4th-week-2026-kcontent'
+    ],
+    contentType: '추천',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 597,
     slug: 'stranger-things-series-complete-guide-watch-order-2026',
     title: '기묘한 이야기 시리즈 완벽 가이드 — 시즌1~5 시청순서, 시즌별 평가, 테일즈 프롬 85 스핀오프 입문까지',
