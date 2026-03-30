@@ -57,6 +57,7 @@ const post = {
       type: 'body',
       html: '<p><figure><figcaption>더 엑소시즘 평론가 결말후기 관람평</figcaption> </figure> </p>'
     },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
       html: '<p><b>David Nusair - 평점 1.5/4 (Original Score: 1.5/4)</b><br>더 엑소시즘은 지나치게 의도적인 중반부와 후반부로 이어지며, 의심스러운 특성으로 가득 차 있다.</br></p>'
@@ -138,7 +139,6 @@ const post = {
       html: '<p>감사합니다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

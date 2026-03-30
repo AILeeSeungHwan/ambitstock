@@ -70,6 +70,7 @@ const post = {
       type: 'body',
       html: '<p><b>Don Shanahan - 평점 없음</b><br>영화의 모든 노력에서 오는 즐거움을 느낄 수 있을 정도로, 시리즈의 마지막 장을 구성한 두 영화는 영화 역사에서 그만한 자리를 차지할 만한 서사적 오락을 전달하였다.</br></p>'
     },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
       html: '<p><b>Martin Carr - 평점(8/10)</b><br/>탁월한 연기와 결점 없는 구조 속에서, 해리 포터와 죽음의 성물 1은 인간관계에 대한 집착을 탐구한다.</p>'
@@ -143,7 +144,6 @@ const post = {
       html: '<p>감사합니다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

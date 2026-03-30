@@ -65,6 +65,7 @@ const post = {
       type: 'body',
       html: '<p><b>Alison Foreman (IndieWire)</b><br/>“무섭다기보다 유머러스하다. 웃음을 기대한다면 즐길 수 있을 것.” (C+)</p>'
     },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
       html: '<p><b>Eddie Harrison (film-authority.com)</b><br/>“늘 그래왔듯, ‘컨저링’은 윌슨과 파미가의 존재감, 그리고 몇몇 볼거리 덕분에 여전히 힘이 있다. 이번 편에서는 거울로 가득한 웨딩 부티크 장면이 인상적이다.” (3/5)</p>'
@@ -128,7 +129,6 @@ const post = {
     { type: 'image', src: '/images/post83_img4.jpg', alt: '컨저링: 마지막 의식 관람평', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post83_img3.jpg', alt: '컨저링: 마지막 의식 관람평', caption: 'ⓒ R의 필름공장' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

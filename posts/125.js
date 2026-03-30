@@ -37,6 +37,7 @@ const post = {
     { type: 'body', html: "<p><b>애나벨 뉴전트 - 평점 4/5</b><br/>《오징어게임 2》는 첫 번째 시즌의 한계를 넘어서며 성공적이었다.</p>" },
     { type: 'body', html: "<p>여전히 이전 시즌의 장점인 우리 인간의 최악의 특성을 묘사하는 능력과 중요한 순간에 날카롭게 찌르는 요소에서 뛰어났다.</p>" },
     { type: 'body', html: "<p><b>톰 글리아토 - 평점 없음</b><br/>시즌 2는 첫 시즌의 충격적인 새로움을 뛰어넘지 않지만, 논리적이고 잘 짜인 교량 역할을 하며, 완벽한 시즌은 아니지만 충분히 견고하고 잘 구성된 시즌이다.</p>" },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'body', html: "<p><figure><figcaption>오징어 게임 시즌2 결말후기 관람평</figcaption> </figure> </p>" },
     { type: 'h2', id: "section-후속작은-늘새롭고-신선하지-못하다는-불행한-진실그다지-", text: "후속작은 늘새롭고 신선하지 못하다는 불행한 진실그다지 강력하지 않은 포맷", gradientStyle: "linear-gradient(135deg, #7c4dff, #448aff)" },
     { type: 'body', html: "<p><b>프레드 토펠 - 평점 없음</b><br/>두 번째 죽음의 게임을 새롭고 신선하게 만드는 것은, 이렇게 큰 그룹이 전략에 합의하는 것이 불가능하다는 불행한 진실이다.</p>" },
@@ -70,7 +71,6 @@ const post = {
     { type: 'body', html: "<p>이상으로 오징어 게임 시즌2 로튼 토마토 해외 평론가 관람평 결말후기 포스팅 마칩니다.</p>" },
     { type: 'body', html: "<p>감사합니다.</p>" },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

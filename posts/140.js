@@ -67,6 +67,7 @@ const post = {
       type: 'body',
       html: '<p><b>Maxance Vincent - 평점(4.5/5)</b><br>라이브 액션 캐릭터들이 애니메이션 캐릭터들보다 이야기 속에 잘 통합되지 않았지만, <b>수퍼 소닉 3은</b> 첫 번째 영화보다 확실히 개선된 작품으로, 가장 훌륭한 비디오 게임 영화로 손꼽힐 수 있다.</br></p>'
     },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
       html: '<p><b>Carla Hay - 평점 없음</b><br/><b>수퍼 소닉 3</b>는 등장인물과 메인 줄거리에 벗어나는 이야기들이 지나치게 많은 위기에 처할 뻔했다.</p>'
@@ -140,7 +141,6 @@ const post = {
       html: '<p>감사합니다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

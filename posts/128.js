@@ -71,6 +71,7 @@ const post = {
       type: 'body',
       html: '<p><b>Christina Newland - 평점(오리지널 스코어: 4/5)</b><br>Michael Mann의 자아도취적인 레이싱 카 선구자에 대한 초상화는 복잡한 삶의 이야기를 매혹적으로 풀어낸 접근 방식을 취하고 있다.</br></p>'
     },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
       html: '<p><b>Connor Lightbody - 평점(오리지널 스코어: 2.5/5)</b><br/>Mann의 영화는 결코 차 사고가 아니지만, 예상했던 만큼 박진감 넘치는 작품은 아닌, 페라리 (Ferrari)의 역사 속에서 사소한 \'인치던트\'로 끝나게 되었다.</p>'
@@ -136,7 +137,6 @@ const post = {
       html: '<p>감사합니다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

@@ -71,6 +71,7 @@ const post = {
       type: 'body',
       html: '<p><span style=&quot;background-color: #f3c000;&quot;><b>해리 포터와 죽음의 성물 2 평론가 결말후기 관람평입니다.</b></span></p>'
     },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
     { type: 'image', src: '/images/post129_img9.jpg', alt: '해리 포터와 죽음의 성물 2', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post129_img8.jpg', alt: '해리 포터와 죽음의 성물 2', caption: 'ⓒ R의 필름공장' },
     { type: 'image', src: '/images/post129_img7.jpg', alt: '해리 포터와 죽음의 성물 2', caption: 'ⓒ R의 필름공장' },
@@ -143,7 +144,6 @@ const post = {
       html: '<p>감사합니다.</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 

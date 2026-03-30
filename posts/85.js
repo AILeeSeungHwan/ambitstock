@@ -73,6 +73,7 @@ const post = {
       type: 'body',
       html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Travis Hopson (Punch Drunk Critics)</b><br>“박찬욱은 충격적인 폭력과 블랙 유머를 effortlessly 섞어내며, 일자리를 잃은 남성에게 남성성이란 무엇인가를 탐구한다.” (평점: 4/5 | 2025-09-05)</br></p>'
     },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
     {
       type: 'body',
       html: '<p style=&quot;color: inherit; text-align: start;&quot;><b>Rachel Ho (Exclaim!)</b><br/>“박 감독의 영화는 언제나 어둠 속에서도 유머를 찾았지만, <i>어쩔 수 없다</i>만큼 유머러스했던 적은 없었다.” (평점: 9/10 | 2025-09-05)</p>'
@@ -166,7 +167,6 @@ const post = {
       html: '<p style=&quot;color: inherit; text-align: start;&quot;>이병헌의 가장 놀라운 연기를 담았다.” (2025-08-29)</p>'
     },
     { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'ad', slot: '6297515693', format: 'auto' }
   ]
 }
 
