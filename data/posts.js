@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 601,
+    slug: 'adolescence-netflix-qa-interpretation-jamie-katie-ending-2026',
+    title: '소년의 시간 Q&A 해석 가이드 — 제이미는 왜 케이티를 죽였나, 원테이크의 의미, 시즌2가 없는 이유까지 7문 7답',
+    description: '넷플릭스 소년의 시간(Adolescence) Q&A 해석 가이드. 제이미 범행 동기, 인셀 문화의 영향, 원테이크 촬영의 서사적 의미, 부모의 책임, 4화 유죄 인정 장면까지 시청 후 궁금한 7가지 질문과 답.',
+    category: '해외반응후기',
+    date: '2026-03-30',
+    tags: ['소년의시간', 'Adolescence', '넷플릭스', 'Q&A해석', '결말해석', '인셀', '원테이크', '에미상'],
+    thumbnail: '/images/post601_thumb.svg',
+    relatedSlugs: [
+      'adolescence-netflix-overseas-reaction-rt100-emmy-2026',
+      'something-very-bad-ending-explained-curse-witness-rachel-2026',
+      'netflix-movie-recommend-2026-march'
+    ],
+    contentType: '해석',
+    platform: '넷플릭스',
+    spoilerLevel: 'heavy'
+  },
+  {
     id: 600,
     slug: 'last-song-you-left-me-japan-romance-movie-april-2026',
     title: '네가 마지막으로 남긴 노래 사전 정보 — 프리미어 매진, 원작 9.9점, 4월 1일 봄 극장 로맨스',

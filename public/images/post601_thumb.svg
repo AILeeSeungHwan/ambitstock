@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e50914"/>
+      <stop offset="100%" style="stop-color:#b71c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="62" font-weight="bold">소년의 시간 Q&amp;A 해석</text>
+  <text x="600" y="310" text-anchor="middle" fill="#ffcdd2" font-family="sans-serif" font-size="38">제이미는 왜 그랬을까</text>
+  <text x="600" y="380" text-anchor="middle" fill="#ffcdd2" font-family="sans-serif" font-size="38">7가지 질문의 답</text>
+  <text x="600" y="470" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="sans-serif" font-size="28">RT 100% · 에미상 9관왕 · 넷플릭스</text>
+  <text x="600" y="560" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="sans-serif" font-size="22">ambitstock.com</text>
+</svg>
