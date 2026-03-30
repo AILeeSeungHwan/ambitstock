@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 602,
+    slug: 'salmokji-horror-movie-april-2026-kimhyeyun-release-info',
+    title: '살목지 사전 정보 총정리 — 김혜윤 첫 호러, 장다아 스크린 데뷔, 4월 8일 개봉 관람 포인트',
+    description: '살목지 사전 정보 총정리. 김혜윤 13년 만의 첫 공포영화, 장원영 언니 장다아 스크린 데뷔, 이종원 합류. 로드뷰 촬영팀 × 저수지 호러, SCREENX·4DX 포맷, 추천 대상과 비슷한 작품 비교.',
+    category: '영화추천',
+    date: '2026-03-30',
+    tags: ['트렌드', '살목지', '김혜윤', '장다아', '이종원', '호러', '공포영화', '4월개봉'],
+    thumbnail: '/images/post602_thumb.svg',
+    relatedSlugs: [
+      'horror-movies-recommend-2026-top10',
+      'scream-series-complete-watch-order-guide-2026',
+      'undertone-a24-ending-explained-abyzou-horror-2026'
+    ],
+    contentType: '사전정보',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
     id: 601,
     slug: 'adolescence-netflix-qa-interpretation-jamie-katie-ending-2026',
     title: '소년의 시간 Q&A 해석 가이드 — 제이미는 왜 케이티를 죽였나, 원테이크의 의미, 시즌2가 없는 이유까지 7문 7답',
