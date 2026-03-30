@@ -1,5 +1,41 @@
 const posts = [
   {
+    id: 604,
+    slug: 'sold-out-today-sbs-drama-ahn-hyoseop-chae-wonbin-april-2026',
+    title: '오늘도 매진했습니다 사전 정보 — 안효섭 로코 복귀, 채원빈 첫 여주, 4월 22일 SBS+넷플릭스',
+    description: '오늘도 매진했습니다 사전 정보 총정리. 안효섭·채원빈·김범·고두심 출연, 농부×쇼호스트 봄 로맨틱 코미디. SBS 4월 22일 첫방, 넷플릭스 동시 공개. 추천 대상과 비슷한 드라마 비교.',
+    category: '드라마',
+    date: '2026-03-31',
+    tags: ['트렌드', '오늘도매진했습니다', '안효섭', '채원빈', '김범', 'SBS드라마', '로맨틱코미디', '넷플릭스'],
+    thumbnail: '/images/post604_thumb.svg',
+    relatedSlugs: [
+      'netflix-spring-kromance-monthly-boyfriend-shining-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'xo-kitty-season3-netflix-april-2026-guide'
+    ],
+    contentType: '사전정보',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 603,
+    slug: 'xo-kitty-season3-netflix-april-2026-guide',
+    title: 'XO 키티 시즌3 시청 가이드 — 4월 2일 넷플릭스 공개, 민호 엔딩·졸업·한국 가족 3대 관전 포인트',
+    description: '엑스오 키티 시즌3 시청 가이드. 4월 2일 넷플릭스 전 8화 공개, 민호와의 관계 정리·KISS 졸업·한국 가족 연결. 시즌1~2 요약, 추천 대상, 비슷한 작품 비교.',
+    category: '드라마',
+    date: '2026-03-31',
+    tags: ['트렌드', '엑스오키티', 'XOKitty', '넷플릭스', '시즌3', '최민영', '학원로맨스', '4월신작'],
+    thumbnail: '/images/post603_thumb.svg',
+    relatedSlugs: [
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'netflix-spring-kromance-monthly-boyfriend-shining-2026',
+      'sold-out-today-sbs-drama-ahn-hyoseop-chae-wonbin-april-2026'
+    ],
+    contentType: '가이드',
+    platform: '넷플릭스',
+    spoilerLevel: 'partial'
+  },
+  {
     id: 602,
     slug: 'salmokji-horror-movie-april-2026-kimhyeyun-release-info',
     title: '살목지 사전 정보 총정리 — 김혜윤 첫 호러, 장다아 스크린 데뷔, 4월 8일 개봉 관람 포인트',

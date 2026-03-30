@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a1b9a"/>
+      <stop offset="100%" style="stop-color:#4a148c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" fill="#ffffff" font-family="'Noto Sans KR', sans-serif" font-size="64" font-weight="900">오늘도 매진했습니다</text>
+  <text x="600" y="290" text-anchor="middle" fill="#CE93D8" font-family="'Noto Sans KR', sans-serif" font-size="44" font-weight="700">안효섭 x 채원빈 x 김범 x 고두심</text>
+  <text x="600" y="370" text-anchor="middle" fill="rgba(255,255,255,0.85)" font-family="'Noto Sans KR', sans-serif" font-size="36" font-weight="400">SBS 4월 22일 | 넷플릭스 동시 공개</text>
+  <text x="600" y="440" text-anchor="middle" fill="#FFD700" font-family="'Noto Sans KR', sans-serif" font-size="32" font-weight="400">농부 x 쇼호스트 봄 로맨틱 코미디</text>
+  <text x="600" y="540" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="'Noto Sans KR', sans-serif" font-size="24">ambitstock.com</text>
+</svg>
