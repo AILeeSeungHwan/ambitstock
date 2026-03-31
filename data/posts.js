@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 607,
+    slug: 'anaconda-2025-netflix-overseas-reaction-rt48-audience79-jackblack',
+    title: '아나콘다(2025) 해외반응 — RT 48% vs 관객 79%, 넷플릭스 1위 역주행의 비밀',
+    description: '아나콘다 2025 해외반응 총정리. 로튼토마토 48%인데 관객 점수 79%, 전 세계 1.35억 달러 흥행. 잭 블랙·폴 러드 메타 리부트가 넷플릭스 영화 차트 1위를 찍은 이유와 비평가·관객 반응 분석.',
+    category: '해외반응후기',
+    date: '2026-03-31',
+    tags: ['트렌드', '아나콘다', 'Anaconda', '잭블랙', '폴러드', '넷플릭스', '해외반응', '메타리부트'],
+    thumbnail: '/images/post607_thumb.svg',
+    relatedSlugs: [
+      'netflix-movie-recommend-alltime-top10-most-watched-2026',
+      'recommend-movie-netflix-top-2025',
+      'netflix-movie-recommend-2026-march'
+    ],
+    contentType: '해외반응',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 606,
     slug: 'the-people-upstairs-netflix-korea-no1-hajungwoo-gonghyojin-2026',
     title: '윗집 사람들 넷플릭스 한국 1위 — 극장 54만에서 OTT 역주행, 하정우·공효진 19금 부부 코미디의 저력',

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#b71c1c"/>
+      <stop offset="100%" style="stop-color:#4a148c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" font-family="sans-serif" font-size="58" font-weight="bold" fill="#ffffff">아나콘다 해외반응</text>
+  <text x="600" y="310" text-anchor="middle" font-family="sans-serif" font-size="42" fill="#ffeb3b">RT 48% vs 관객 79%</text>
+  <text x="600" y="390" text-anchor="middle" font-family="sans-serif" font-size="36" fill="rgba(255,255,255,0.85)">넷플릭스 1위 역주행의 비밀</text>
+  <text x="600" y="560" text-anchor="middle" font-family="sans-serif" font-size="22" fill="rgba(255,255,255,0.5)">ambitstock.com</text>
+</svg>
