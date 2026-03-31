@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="20" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.1)" stroke-width="2"/>
+  <text x="600" y="200" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#e94560" font-weight="bold" letter-spacing="6">NETFLIX KOREA 1위</text>
+  <text x="600" y="290" text-anchor="middle" font-family="sans-serif" font-size="72" fill="#ffffff" font-weight="bold">윗집 사람들</text>
+  <text x="600" y="370" text-anchor="middle" font-family="sans-serif" font-size="32" fill="#ffd93d" font-weight="600">하정우 · 공효진 · 이하늬 · 김동욱</text>
+  <text x="600" y="430" text-anchor="middle" font-family="sans-serif" font-size="24" fill="rgba(255,255,255,0.7)">극장 54만 → 넷플릭스 공개 5일 만에 1위</text>
+  <text x="600" y="480" text-anchor="middle" font-family="sans-serif" font-size="22" fill="rgba(255,255,255,0.5)">19금 부부 코미디 | 센티멘탈 리메이크 | 107분</text>
+  <text x="600" y="540" text-anchor="middle" font-family="sans-serif" font-size="18" fill="rgba(255,255,255,0.3)">ambitstock.com | 2026</text>
+</svg>

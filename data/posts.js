@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 606,
+    slug: 'the-people-upstairs-netflix-korea-no1-hajungwoo-gonghyojin-2026',
+    title: '윗집 사람들 넷플릭스 한국 1위 — 극장 54만에서 OTT 역주행, 하정우·공효진 19금 부부 코미디의 저력',
+    description: '넷플릭스 윗집 사람들 리뷰. 하정우 감독·출연, 공효진·이하늬·김동욱 주연 19금 부부 코미디. 극장 54만 관객에서 넷플릭스 공개 5일 만에 한국 영화 1위. 센티멘탈 리메이크.',
+    category: '영화추천',
+    date: '2026-03-31',
+    tags: ['트렌드', '윗집사람들', '하정우', '공효진', '이하늬', '김동욱', '넷플릭스', '부부코미디', '19금영화'],
+    thumbnail: '/images/post606_thumb.svg',
+    relatedSlugs: [
+      'netflix-spring-kromance-monthly-boyfriend-shining-2026',
+      'the-red-line-netflix-ending-explained-revenge-justice-2026',
+      'detective-hole-netflix-jo-nesbo-rt100-overseas-reaction-2026'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'light'
+  },
+  {
     id: 605,
     slug: 'the-red-line-netflix-ending-explained-revenge-justice-2026',
     title: '레드 라인 결말 해석 — 세 여자는 왜 돌아올 수 없었나, 복수와 정의 사이 넘어선 선',
