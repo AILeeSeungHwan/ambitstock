@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 605,
+    slug: 'the-red-line-netflix-ending-explained-revenge-justice-2026',
+    title: '레드 라인 결말 해석 — 세 여자는 왜 돌아올 수 없었나, 복수와 정의 사이 넘어선 선',
+    description: '넷플릭스 레드 라인(The Red Line) 결말 해석. 보이스피싱 피해자 세 여성의 복수극, 아우드의 죽음이 바꾼 것, 포이팟 결말의 세 가지 의미. 태국 실화 기반 범죄 스릴러.',
+    category: '해외반응후기',
+    date: '2026-03-31',
+    tags: ['결말해석', '레드라인', 'TheRedLine', '넷플릭스', '태국영화', '보이스피싱', '범죄스릴러', '열린결말'],
+    thumbnail: '/images/post605_thumb.svg',
+    relatedSlugs: [
+      'adolescence-netflix-qa-interpretation-jamie-katie-ending-2026',
+      'something-very-bad-ending-explained-curse-witness-rachel-2026',
+      'horror-movies-recommend-2026-top10'
+    ],
+    contentType: '해석',
+    platform: '넷플릭스',
+    spoilerLevel: 'heavy'
+  },
+  {
     id: 604,
     slug: 'sold-out-today-sbs-drama-ahn-hyoseop-chae-wonbin-april-2026',
     title: '오늘도 매진했습니다 사전 정보 — 안효섭 로코 복귀, 채원빈 첫 여주, 4월 22일 SBS+넷플릭스',
