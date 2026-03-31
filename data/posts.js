@@ -1,5 +1,41 @@
 const posts = [
   {
+    id: 609,
+    slug: '21st-century-grand-princess-iu-byeonwooseok-mbc-april-2026',
+    title: '21세기 대군부인 사전 정보 총정리 — 아이유·변우석 MBC 4월 10일, 미방영 화제성 역대 최초 1위',
+    description: '21세기 대군부인 출연진 줄거리 방영일 사전 정보. 아이유 변우석 노상현 공승연 주연, MBC 금토 4월 10일 첫방. 입헌군주제 배경 신분 타파 로맨스, 미방영 화제성 1위 역대 최초 기록.',
+    category: '드라마',
+    date: '2026-04-01',
+    tags: ['트렌드', '21세기대군부인', '아이유', '변우석', '노상현', '공승연', 'MBC드라마', '사극로맨스'],
+    thumbnail: '/images/post609_thumb.svg',
+    relatedSlugs: [
+      '2026-first-half-kdrama-recommend-netflix-tvn-jtbc',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'korean-drama-popular-overseas-top5'
+    ],
+    contentType: '사전정보',
+    platform: 'MBC',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 608,
+    slug: 'bloodhounds-season2-netflix-april-2026-rain-villain-preview',
+    title: '사냥개들 시즌2 사전 정보 총정리 — 4월 3일 넷플릭스, 정지훈(비) 첫 악역의 모든 것',
+    description: '사냥개들 시즌2 넷플릭스 4월 3일 공개. 우도환 이상이 재출연, 정지훈(비) 데뷔 20년 만의 첫 악역 백정. 글로벌 불법 복싱 리그 배경, 시즌1 IMDB 8.8 후속작 사전 정보.',
+    category: '드라마',
+    date: '2026-04-01',
+    tags: ['트렌드', '사냥개들', '사냥개들시즌2', '넷플릭스', '우도환', '이상이', '정지훈', '비', '액션드라마'],
+    thumbnail: '/images/post608_thumb.svg',
+    relatedSlugs: [
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'netflix-2026-second-half-kdrama-top5-preview',
+      'daredevil-born-again-season2-review-disney-marvel-2026'
+    ],
+    contentType: '사전정보',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 607,
     slug: 'anaconda-2025-netflix-overseas-reaction-rt48-audience79-jackblack',
     title: '아나콘다(2025) 해외반응 — RT 48% vs 관객 79%, 넷플릭스 1위 역주행의 비밀',

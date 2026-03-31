@@ -1,0 +1,14 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a1b9a"/>
+      <stop offset="100%" style="stop-color:#8e24aa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="240" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="68" font-weight="900" fill="#ffffff">21세기 대군부인</text>
+  <text x="600" y="330" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#B3E5FC">MBC 4월 10일 첫 방송</text>
+  <text x="600" y="400" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="32" font-weight="500" fill="rgba(255,255,255,0.85)">아이유 · 변우석 · 노상현 · 공승연</text>
+  <text x="600" y="460" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="28" font-weight="400" fill="rgba(255,255,255,0.7)">미방영 화제성 1위 — 역대 최초 기록</text>
+  <text x="600" y="570" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="20" fill="rgba(255,255,255,0.5)">ambitstock.com | 2026</text>
+</svg>

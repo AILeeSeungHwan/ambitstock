@@ -1,0 +1,14 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e50914"/>
+      <stop offset="100%" style="stop-color:#b71c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="240" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="72" font-weight="900" fill="#ffffff">사냥개들 시즌2</text>
+  <text x="600" y="330" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#FFD54F">넷플릭스 4월 3일 공개</text>
+  <text x="600" y="400" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="32" font-weight="500" fill="rgba(255,255,255,0.85)">우도환 · 이상이 · 정지훈(비)</text>
+  <text x="600" y="460" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="28" font-weight="400" fill="rgba(255,255,255,0.7)">글로벌 불법 복싱 리그 vs 통쾌한 주먹</text>
+  <text x="600" y="570" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="20" fill="rgba(255,255,255,0.5)">ambitstock.com | 2026</text>
+</svg>
