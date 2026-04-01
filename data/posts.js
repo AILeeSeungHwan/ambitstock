@@ -9177,6 +9177,24 @@ const posts = [
     contentType: '해외반응',
     platform: null,
     spoilerLevel: 'none'
+  },
+  {
+    id: 610,
+    slug: 'everyone-fighting-worthlessness-jtbc-april-2026-park-haeyoung',
+    title: '모두가 자신의 무가치함과 싸우고 있다 사전 정보 — 구교환·고윤정 JTBC 4월 18일, 박해영 작가 복귀작',
+    description: '모두가 자신의 무가치함과 싸우고 있다 JTBC 4월 18일 첫방. 구교환 고윤정 오정세 강말금 박해준 출연. 박해영 작가(나의 아저씨·나의 해방일지) 복귀, 차영훈 감독(동백꽃 필 무렵) 연출. 영화계 배경 자기혐오·질투 드라마.',
+    category: '드라마',
+    date: '2026-04-01',
+    tags: ['트렌드', '모두가자신의무가치함과싸우고있다', 'JTBC', '구교환', '고윤정', '박해영작가', '차영훈감독', '4월드라마'],
+    thumbnail: '/images/post610_thumb.svg',
+    relatedSlugs: [
+      '21st-century-grand-princess-iu-byeonwooseok-mbc-april-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'bloodhounds-season2-netflix-april-2026-rain-villain-preview'
+    ],
+    contentType: '트렌드',
+    platform: 'JTBC',
+    spoilerLevel: 'none'
   }
 ]
 

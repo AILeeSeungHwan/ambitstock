@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#6a1b9a"/>
+      <stop offset="100%" style="stop-color:#ad1457"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="52" font-weight="bold">모두가 자신의 무가치함과</text>
+  <text x="600" y="290" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="52" font-weight="bold">싸우고 있다</text>
+  <text x="600" y="370" text-anchor="middle" fill="#81d4fa" font-family="sans-serif" font-size="36">구교환 · 고윤정 · 오정세</text>
+  <text x="600" y="430" text-anchor="middle" fill="#ffeb3b" font-family="sans-serif" font-size="30">박해영 작가 × 차영훈 감독 | JTBC 4월 18일</text>
+  <text x="600" y="560" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="sans-serif" font-size="20">ambitstock.com</text>
+</svg>
