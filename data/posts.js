@@ -1,5 +1,43 @@
 const posts = [
   {
+    id: 613,
+    slug: 'mojamusa-jtbc-drama-april-2026-goo-kyohwan-go-yunjung-park-haeyoung',
+    title: '모자무싸 사전 정보 총정리 — 나의 해방일지 박해영 작가 × 동백꽃 차영훈 감독, 구교환·고윤정 4월 18일 JTBC',
+    description: '모두가 자신의 무가치함과 싸우고 있다(모자무싸) 사전 정보. 박해영 작가(나의 해방일지) × 차영훈 감독(동백꽃 필 무렵). 구교환 고윤정 오정세 박해준 강말금 출연. JTBC 토일 4월 18일 첫방. 영화계 배경 감성 드라마.',
+    category: '드라마',
+    date: '2026-04-02',
+    tags: ['트렌드', '모자무싸', '구교환', '고윤정', '오정세', '박해준', '박해영작가', 'JTBC드라마', '나의해방일지'],
+    thumbnail: '/images/post613_thumb.svg',
+    relatedSlugs: [
+      '21st-century-grand-princess-iu-byeonwooseok-mbc-april-2026',
+      'sold-out-today-sbs-drama-ahn-hyoseop-chae-wonbin-april-2026',
+      '2026-first-half-kdrama-recommend-netflix-tvn-jtbc',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex'
+    ],
+    contentType: '사전정보',
+    platform: 'JTBC',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 612,
+    slug: 'humint-netflix-april-2026-ryuseungwan-spy-thriller-review',
+    title: '휴민트 넷플릭스 공개 — 극장 197만에서 OTT 역주행, 류승완 한국형 첩보 스릴러의 저력',
+    description: '휴민트 넷플릭스 4월 1일 공개. 류승완 감독, 조인성 박정민 박해준 신세경 출연. 극장 197만 관객에서 넷플릭스 190개국 동시 공개. CGV 에그 93%, 네이버 7.65점. 베를린 후속 세계관 첩보 스릴러.',
+    category: '영화추천',
+    date: '2026-04-02',
+    tags: ['트렌드', '휴민트', '류승완', '조인성', '박정민', '신세경', '넷플릭스', '첩보스릴러', '베를린'],
+    thumbnail: '/images/post612_thumb.svg',
+    relatedSlugs: [
+      'anaconda-2025-netflix-overseas-reaction-rt48-audience79-jackblack',
+      'the-people-upstairs-netflix-korea-no1-hajungwoo-gonghyojin-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'bloodhounds-season2-netflix-april-2026-rain-villain-preview'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 611,
     slug: 'april-2026-theater-movies-top7-mario-prada-scream',
     title: '2026년 4월 극장 개봉 영화 추천 TOP 7 — 슈퍼 마리오 갤럭시부터 악마는 프라다를 입는다 2까지',
