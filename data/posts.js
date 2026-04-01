@@ -1,5 +1,25 @@
 const posts = [
   {
+    id: 611,
+    slug: 'april-2026-theater-movies-top7-mario-prada-scream',
+    title: '2026년 4월 극장 개봉 영화 추천 TOP 7 — 슈퍼 마리오 갤럭시부터 악마는 프라다를 입는다 2까지',
+    description: '2026년 4월 극장 개봉 영화 추천 TOP 7. 슈퍼 마리오 갤럭시(RT 44%, $3.5억 오프닝 전망), 악마는 프라다를 입는다 2(20년 만의 속편), 더 드라마(A24, RT 81%), 스크림 7, 살목지, 미이라, 네가 마지막으로 남긴 노래까지 장르별·취향별 극장 가이드.',
+    category: '영화추천',
+    date: '2026-04-01',
+    tags: ['영화추천', '극장개봉', '4월영화', '슈퍼마리오갤럭시', '악마는프라다를입는다2', '더드라마', '스크림7', '살목지', '미이라'],
+    thumbnail: '/images/post611_thumb.svg',
+    relatedSlugs: [
+      'scream-7-overseas-reaction-rt31-box-office-record-2026',
+      'salmokji-horror-movie-april-2026-kimhyeyun-release-info',
+      'last-song-you-left-me-japan-romance-movie-april-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'horror-movies-recommend-2026-top10'
+    ],
+    contentType: '추천',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
     id: 609,
     slug: '21st-century-grand-princess-iu-byeonwooseok-mbc-april-2026',
     title: '21세기 대군부인 사전 정보 총정리 — 아이유·변우석 MBC 4월 10일, 미방영 화제성 역대 최초 1위',

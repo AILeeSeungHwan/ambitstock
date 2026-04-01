@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a73e8"/>
+      <stop offset="100%" style="stop-color:#0d47a1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="sans-serif" font-size="72" font-weight="bold" fill="#ffffff">2026년 4월</text>
+  <text x="600" y="300" text-anchor="middle" font-family="sans-serif" font-size="80" font-weight="bold" fill="#FFD600">극장 개봉 영화 TOP 7</text>
+  <text x="600" y="400" text-anchor="middle" font-family="sans-serif" font-size="42" fill="#B3D4FC">슈퍼 마리오 · 악프라2 · 더 드라마</text>
+  <text x="600" y="460" text-anchor="middle" font-family="sans-serif" font-size="42" fill="#B3D4FC">스크림 7 · 살목지 · 미이라</text>
+  <text x="600" y="560" text-anchor="middle" font-family="sans-serif" font-size="28" fill="rgba(255,255,255,0.6)">ambitstock.com | R의 필름공장</text>
+</svg>
