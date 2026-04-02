@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#4a148c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="180" text-anchor="middle" font-family="sans-serif" font-size="52" font-weight="bold" fill="#ffffff">데어데블 본어게인 시즌2</text>
+  <text x="600" y="260" text-anchor="middle" font-family="sans-serif" font-size="52" font-weight="bold" fill="#ffffff">해외반응 총정리</text>
+  <text x="600" y="350" text-anchor="middle" font-family="sans-serif" font-size="46" fill="#c9a227">RT 95% · 관객 92%</text>
+  <text x="600" y="430" text-anchor="middle" font-family="sans-serif" font-size="32" fill="rgba(255,255,255,0.9)">디즈니+ 전세계 1위 — MCU 4년 최고작</text>
+  <text x="600" y="560" text-anchor="middle" font-family="sans-serif" font-size="22" fill="rgba(255,255,255,0.5)">ambitstock.com</text>
+</svg>

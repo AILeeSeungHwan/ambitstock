@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 617,
+    slug: 'daredevil-born-again-season2-overseas-reaction-rt95-disney-2026',
+    title: '데어데블 본어게인 시즌2 해외반응 — RT 95%, 디즈니+ 전세계 1위, MCU 4년 최고작',
+    description: '데어데블 본어게인 시즌2 해외반응 총정리. 로튼토마토 95% 관객 92%, 공개 하루 만에 디즈니+ 전세계 1위. 찰리 콕스 평생 연기, 빈센트 도노프리오 에미상급 평가. MCU 디즈니+ 시리즈 평점 비교와 추천 대상.',
+    category: '해외반응후기',
+    date: '2026-04-02',
+    tags: ['트렌드', '해외반응', '데어데블', '데어데블본어게인', '시즌2', '마블', 'MCU', '디즈니플러스', '로튼토마토', '찰리콕스'],
+    thumbnail: '/images/post617_thumb.svg',
+    relatedSlugs: [
+      'disney-plus-april-2026-new-releases-guide-maul-daredevil',
+      'avengers-doomsday-casting-27-team-analysis-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'daredevil-born-again-season2-review-2026'
+    ],
+    contentType: '해외반응',
+    platform: '디즈니플러스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 616,
     slug: 'super-mario-galaxy-movie-overseas-reaction-rt44-audience91-box-office-2026',
     title: '슈퍼 마리오 갤럭시 해외반응 — RT 44% vs 관객 91%, $3.75억 오프닝 4월 역대 최고',
