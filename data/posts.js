@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 616,
+    slug: 'super-mario-galaxy-movie-overseas-reaction-rt44-audience91-box-office-2026',
+    title: '슈퍼 마리오 갤럭시 해외반응 — RT 44% vs 관객 91%, $3.75억 오프닝 4월 역대 최고',
+    description: '슈퍼 마리오 갤럭시 무비 해외반응 총정리. 로튼토마토 44% 메타크리틱 37점인데 관객 91%, 글로벌 오프닝 $3.75억으로 4월 역대 최고 기록. 비평가 vs 관객 괴리 원인, 잭 블랙 바우저, 4월 29일 한국 개봉 전 관람 판단 가이드.',
+    category: '해외반응후기',
+    date: '2026-04-02',
+    tags: ['해외반응', '슈퍼마리오갤럭시', '마리오갤럭시무비', '로튼토마토', '잭블랙', '닌텐도', '애니메이션', '4월개봉'],
+    thumbnail: '/images/post616_thumb.svg',
+    relatedSlugs: [
+      'april-2026-theater-movies-top7-mario-prada-scream',
+      'anaconda-2025-netflix-overseas-reaction-rt48-audience79-jackblack',
+      'scream-7-overseas-reaction-rt31-box-office-record-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex'
+    ],
+    contentType: '해외반응',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
     id: 615,
     slug: 'beef-season2-netflix-april-2026-oscar-isaac-song-kangho',
     title: '성난 사람들(BEEF) 시즌2 사전 정보 총정리 — 오스카 아이작·캐리 멀리건·송강호·윤여정, 4월 16일 넷플릭스',
