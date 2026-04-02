@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a237e"/>
+      <stop offset="50%" style="stop-color:#4527a0"/>
+      <stop offset="100%" style="stop-color:#880e4f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" fill="#ffffff" font-size="72" font-weight="bold" font-family="sans-serif">더 드라마 리뷰</text>
+  <text x="600" y="300" text-anchor="middle" fill="#ffeb3b" font-size="48" font-weight="bold" font-family="sans-serif">젠데이아 × 로버트 패틴슨</text>
+  <text x="600" y="380" text-anchor="middle" fill="#e0e0e0" font-size="36" font-family="sans-serif">A24 | RT 84% | 2026</text>
+  <text x="600" y="460" text-anchor="middle" fill="#b0bec5" font-size="28" font-family="sans-serif">결혼식 일주일 전, 비밀이 폭발한다</text>
+  <text x="600" y="580" text-anchor="middle" fill="#78909c" font-size="22" font-family="sans-serif">ambitstock.com</text>
+</svg>

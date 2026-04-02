@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 618,
+    slug: 'the-drama-a24-zendaya-pattinson-review-rt84-2026',
+    title: '더 드라마 리뷰 — RT 84%인데 왜 호불호가 갈릴까, 젠데이아×패틴슨 A24 다크 코미디의 정체',
+    description: '더 드라마(The Drama) 리뷰. A24 제작, 크리스토퍼 보르글리 감독, 젠데이아·로버트 패틴슨 주연. RT 84% vs 메타크리틱 59점, 결혼식 일주일 전 커플의 비밀이 폭발하는 다크 코미디. 추천 대상, 호불호 포인트, 비슷한 작품 비교.',
+    category: '영화추천',
+    date: '2026-04-02',
+    tags: ['영화리뷰', '더드라마', 'TheDrama', 'A24', '젠데이아', '로버트패틴슨', '다크코미디', '로튼토마토', '크리스토퍼보르글리', '4월개봉'],
+    thumbnail: '/images/post618_thumb.svg',
+    relatedSlugs: [
+      'april-2026-theater-movies-top7-mario-prada-scream',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'adolescence-netflix-qa-interpretation-jamie-katie-ending-2026'
+    ],
+    contentType: '리뷰',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
     id: 617,
     slug: 'daredevil-born-again-season2-overseas-reaction-rt95-disney-2026',
     title: '데어데블 본어게인 시즌2 해외반응 — RT 95%, 디즈니+ 전세계 1위, MCU 4년 최고작',
