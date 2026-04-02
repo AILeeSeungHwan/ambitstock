@@ -1,5 +1,42 @@
 const posts = [
   {
+    id: 620,
+    slug: 'king-and-man-1578-million-extreme-job-overtake-alltime-2nd-2026',
+    title: '왕과 사는 남자 1,578만 극한직업 추월 초읽기 — 역대 2위 도전, 매출은 이미 1위',
+    description: '왕과 사는 남자 1,578만 관객 돌파, 극한직업(1,626만)까지 48만 명. 매출 1,507억 역대 1위 기록. 8주 연속 주말 1위 독주 이유, 극한직업 추월 타이밍 전망, 명량 추격 가능성까지 분석.',
+    category: '영화추천',
+    date: '2026-04-03',
+    tags: ['트렌드', '왕과사는남자', '극한직업', '명량', '역대흥행', '박스오피스', '1578만', '한국영화', '유해진', '매출1위'],
+    thumbnail: '/images/post620_thumb.svg',
+    relatedSlugs: [
+      'king-man-1500-million-alltime-revenue-no1-2026',
+      'king-and-man-ending-meaning-danjong-eomheungdo-2026',
+      'king-and-man-vs-humint-box-office-comparison-2026',
+      'april-2026-theater-movies-top7-mario-prada-scream'
+    ],
+    contentType: '트렌드',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 619,
+    slug: 'star-wars-maul-shadow-lord-disneyplus-april-2026-guide',
+    title: '스타워즈 몰: 섀도우 로드 시청 가이드 — 디즈니+ 4월 6일, 선행 지식부터 추천 대상까지',
+    description: '스타워즈 몰 섀도우 로드 디즈니+ 4월 6일 공개. 데이브 필로니 기획, 샘 위트워 다스 몰 복귀. 10화 완결, 클론전쟁 직후 범죄 제국 재건. 선행 지식, 성우진, 공개 일정, 추천 대상 총정리.',
+    category: '영화추천',
+    date: '2026-04-03',
+    tags: ['트렌드', '스타워즈', '몰섀도우로드', '다스몰', '디즈니플러스', '데이브필로니', '클론전쟁', '애니메이션', '4월신작'],
+    thumbnail: '/images/post619_thumb.svg',
+    relatedSlugs: [
+      'disney-plus-april-2026-new-releases-guide-maul-daredevil',
+      'daredevil-born-again-season2-overseas-reaction-rt95-disney-2026',
+      'avengers-doomsday-casting-27-team-analysis-2026'
+    ],
+    contentType: '트렌드',
+    platform: '디즈니플러스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 618,
     slug: 'the-drama-a24-zendaya-pattinson-review-rt84-2026',
     title: '더 드라마 리뷰 — RT 84%인데 왜 호불호가 갈릴까, 젠데이아×패틴슨 A24 다크 코미디의 정체',
