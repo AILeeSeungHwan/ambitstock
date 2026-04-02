@@ -9,10 +9,10 @@ module.exports = {
     ]
   },
   async redirects() {
-    // 숫자 ID → slug 301 리다이렉트 (전체 포스트 자동 생성)
+    // 숫자 ID → 올바른 URL 301 리다이렉트 (tistory 포스트는 /entry/, 신규는 /slug/)
     const idRedirects = posts.map(p => ({
       source: '/' + p.id,
-      destination: '/' + p.slug + '/',
+      destination: p.tistorySlug ? '/entry/' + p.tistorySlug + '/' : '/' + p.slug + '/',
       permanent: true,
     }))
 

@@ -15,11 +15,12 @@ import { getInternalLinks } from '../lib/internal-links'
 import { getSimilarWorks } from '../lib/similar-works'
 
 export async function getStaticPaths() {
-  // 모든 포스트를 slug 경로로 생성 (tistorySlug 포스트도 slug URL로 접근 가능)
-  // 중복 slug 제거 (동일 slug가 여러 포스트에 있을 수 있음)
+  // tistorySlug가 없는 포스트만 /{slug}/ 경로 생성
+  // tistorySlug 포스트는 /entry/{tistorySlug}/ 에서 직접 서빙
   const slugSet = new Set()
   const paths = []
   for (const p of posts) {
+    if (p.tistorySlug) continue
     const s = String(p.slug)
     if (!slugSet.has(s)) {
       slugSet.add(s)
@@ -30,91 +31,13 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const meta = posts.find(p => String(p.slug) === params.slug)
+  const meta = posts.find(p => !p.tistorySlug && String(p.slug) === params.slug)
   if (!meta) return { notFound: true }
 
-  let postData = null
-  try {
-    const mod = require('../posts/' + meta.id + '.js')
-    postData = mod.default || mod
-    postData.sections = Array.from(postData.sections).filter(Boolean)
-  } catch (e) {
-    return { notFound: true }
-  }
-
-  const ogImage = getOgImage(meta, postData)
-  const firstImage = postData.sections.find(s => s.type === 'image')
-  const thumbnail = meta.thumbnail || (firstImage ? firstImage.src : null)
-
-  // 관련글: relatedSlugs 우선, 없으면 같은 카테고리+contentType
-  const relatedBySlug = (meta.relatedSlugs || [])
-    .map(slug => posts.find(p => p.slug === slug))
-    .filter(Boolean)
-    .slice(0, 4)
-  const relatedByCat = relatedBySlug.length >= 4 ? [] : posts
-    .filter(p => p.id !== meta.id && p.category === meta.category && !relatedBySlug.find(r => r.id === p.id))
-    .sort((a, b) => {
-      // 같은 contentType 우선
-      const aScore = a.contentType === meta.contentType ? 1 : 0
-      const bScore = b.contentType === meta.contentType ? 1 : 0
-      if (aScore !== bScore) return bScore - aScore
-      return new Date(b.date) - new Date(a.date)
-    })
-    .slice(0, 4 - relatedBySlug.length)
-  const related = [...relatedBySlug, ...relatedByCat]
-    .map(p => {
-      let relThumb = p.thumbnail
-      if (!relThumb) {
-        try {
-          const rm = require('../posts/' + p.id + '.js')
-          const rd = rm.default || rm
-          const ri = rd.sections.find(s => s.type === 'image')
-          relThumb = ri ? ri.src : null
-        } catch (e) {}
-      }
-      return { id: p.id, slug: p.slug, tistorySlug: p.tistorySlug || null, title: p.title, date: p.date, category: p.category, contentType: p.contentType || null, thumbnail: relThumb }
-    })
-
-  // Internal links
-  const internalLinks = getInternalLinks(meta, posts, works)
-  // Serialize link post objects to safe props
-  const serializePost = (p) => {
-    let relThumb = p.thumbnail
-    if (!relThumb) {
-      try {
-        const rm = require('../posts/' + p.id + '.js')
-        const rd = rm.default || rm
-        const ri = rd.sections.find(s => s.type === 'image')
-        relThumb = ri ? ri.src : null
-      } catch (e) {}
-    }
-    return { id: p.id, slug: p.slug, tistorySlug: p.tistorySlug || null, title: p.title, date: p.date, category: p.category, contentType: p.contentType || null, thumbnail: relThumb }
-  }
-  const serializedLinks = {
-    sameWork: internalLinks.sameWork.map(serializePost),
-    sameTopic: internalLinks.sameTopic.map(serializePost),
-    parentHub: internalLinks.parentHub,
-    ottHub: internalLinks.ottHub,
-    nextRead: internalLinks.nextRead ? serializePost(internalLinks.nextRead) : null,
-  }
-
-  // 비슷한 작품 (태그 기반)
-  const similarRaw = getSimilarWorks(meta, posts, 3)
-  const similarPosts = similarRaw.map(p => {
-    let thumb = p.thumbnail
-    if (!thumb) {
-      try {
-        const rm = require('../posts/' + p.id + '.js')
-        const rd = rm.default || rm
-        const ri = rd.sections.find(s => s.type === 'image')
-        thumb = ri ? ri.src : null
-      } catch (e) {}
-    }
-    return { ...p, thumbnail: thumb }
-  })
-
-  const safeMeta = Object.fromEntries(Object.entries({ ...meta, thumbnail, ogImage }).filter(([, v]) => v !== undefined))
-  return { props: { meta: safeMeta, postData, related, internalLinks: serializedLinks, similarPosts } }
+  const getPostProps = require('../lib/getPostProps')
+  const result = getPostProps(meta)
+  if (!result) return { notFound: true }
+  return { props: result }
 }
 
 /* ─── TOC ─── */
@@ -270,7 +193,9 @@ function RelatedCard({ post }) {
 export default function PostPage({ meta, postData, related, internalLinks, similarPosts }) {
   if (!meta || !postData) return null
 
-  const canonicalUrl = 'https://ambitstock.com/' + meta.slug + '/'
+  const canonicalUrl = meta.tistorySlug
+    ? 'https://ambitstock.com/entry/' + meta.tistorySlug + '/'
+    : 'https://ambitstock.com/' + meta.slug + '/'
   const allImages = postData.sections.filter(s => s.type === 'image' && s.src).map(s => 'https://ambitstock.com' + s.src)
   const bodyText = postData.sections.filter(s => s.type === 'body' || s.type === 'intro').map(s => (s.html || '').replace(/<[^>]*>/g, '')).join(' ')
   const wordCount = bodyText.length
