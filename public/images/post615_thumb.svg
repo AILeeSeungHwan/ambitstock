@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a"/>
+      <stop offset="100%" style="stop-color:#2d0a0a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e50914"/>
+      <stop offset="100%" style="stop-color:#ff6f00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="url(#accent)" opacity="0.9"/>
+  <rect x="60" y="80" width="8" height="120" fill="#e50914" rx="4"/>
+  <text x="90" y="130" font-family="'Noto Sans KR', sans-serif" font-size="32" fill="#e50914" font-weight="700">NETFLIX ORIGINAL</text>
+  <text x="90" y="175" font-family="'Noto Sans KR', sans-serif" font-size="24" fill="#888888">2026.04.16 공개</text>
+  <text x="600" y="310" font-family="'Noto Sans KR', sans-serif" font-size="72" fill="#FFFFFF" font-weight="900" text-anchor="middle">성난 사람들</text>
+  <text x="600" y="380" font-family="'Noto Sans KR', sans-serif" font-size="56" fill="#e50914" font-weight="800" text-anchor="middle">BEEF 시즌2</text>
+  <text x="600" y="440" font-family="'Noto Sans KR', sans-serif" font-size="28" fill="#cccccc" text-anchor="middle">오스카 아이작 · 캐리 멀리건 · 송강호 · 윤여정</text>
+  <text x="600" y="485" font-family="'Noto Sans KR', sans-serif" font-size="22" fill="#ff6f00" text-anchor="middle">에미상 8관왕 시리즈의 귀환 — 사전 정보 총정리</text>
+  <text x="600" y="612" font-family="'Noto Sans KR', sans-serif" font-size="18" fill="#ffffff" text-anchor="middle" font-weight="600">R의 필름공장 · ambitstock.com</text>
+</svg>

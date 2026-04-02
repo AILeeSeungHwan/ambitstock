@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 615,
+    slug: 'beef-season2-netflix-april-2026-oscar-isaac-song-kangho',
+    title: '성난 사람들(BEEF) 시즌2 사전 정보 총정리 — 오스카 아이작·캐리 멀리건·송강호·윤여정, 4월 16일 넷플릭스',
+    description: '성난 사람들(BEEF) 시즌2 넷플릭스 4월 16일 공개. 오스카 아이작 캐리 멀리건 주연, 송강호 윤여정 합류. 에미상 8관왕 시즌1 후속 앤솔로지. 컨트리클럽 배경 세대·계급 갈등 다크 코미디. 8화 30분 포맷.',
+    category: '드라마',
+    date: '2026-04-02',
+    tags: ['트렌드', '성난사람들', 'BEEF', 'BEEF시즌2', '오스카아이작', '캐리멀리건', '송강호', '윤여정', '넷플릭스', '다크코미디'],
+    thumbnail: '/images/post615_thumb.svg',
+    relatedSlugs: [
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'bloodhounds-season2-netflix-april-2026-rain-villain-preview',
+      'humint-netflix-april-2026-ryuseungwan-spy-thriller-review',
+      'mojamusa-jtbc-drama-april-2026-goo-kyohwan-go-yunjung-park-haeyoung'
+    ],
+    contentType: '사전정보',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 614,
     slug: 'disney-plus-april-2026-new-releases-guide-maul-daredevil',
     title: '디즈니플러스 2026년 4월 신작 가이드 — 스타워즈 몰, 데어데블 시즌2, 21세기 대군부인, 골드랜드까지',
