@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a"/>
+      <stop offset="100%" style="stop-color:#0063b1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#4fc3f7"/>
+  <text x="600" y="160" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#4fc3f7">DISNEY+ 2026년 4월</text>
+  <text x="600" y="240" text-anchor="middle" font-family="sans-serif" font-size="52" font-weight="bold" fill="#ffffff">디즈니플러스 4월 신작</text>
+  <text x="600" y="310" text-anchor="middle" font-family="sans-serif" font-size="48" font-weight="bold" fill="#ffffff">완전 가이드</text>
+  <text x="600" y="390" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#90caf9">스타워즈 몰 · 데어데블 시즌2</text>
+  <text x="600" y="440" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#90caf9">21세기 대군부인 · 골드랜드</text>
+  <text x="600" y="560" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4fc3f7">ambitstock.com | R의 필름공장</text>
+</svg>

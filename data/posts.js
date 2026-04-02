@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 614,
+    slug: 'disney-plus-april-2026-new-releases-guide-maul-daredevil',
+    title: '디즈니플러스 2026년 4월 신작 가이드 — 스타워즈 몰, 데어데블 시즌2, 21세기 대군부인, 골드랜드까지',
+    description: '디즈니플러스 2026년 4월 신작 총정리. 스타워즈 몰 섀도우 로드(4/6), 데어데블 본 어게인 시즌2 중반부, 21세기 대군부인(4/10), 골드랜드(4/29), 더 테스터먼트, 디즈니네이처 오랑우탄까지 취향별 시청 가이드.',
+    category: '영화추천',
+    date: '2026-04-02',
+    tags: ['디즈니플러스', '4월신작', '스타워즈몰', '데어데블', '21세기대군부인', '골드랜드', 'OTT가이드', '디즈니플러스라인업'],
+    thumbnail: '/images/post614_thumb.svg',
+    relatedSlugs: [
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      '21st-century-grand-princess-iu-byeonwooseok-mbc-april-2026',
+      'ott-price-compare-netflix-disney-coupang-tving-2026',
+      'daredevil-born-again-season2-review-disney-marvel-2026'
+    ],
+    contentType: '가이드',
+    platform: '디즈니플러스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 613,
     slug: 'mojamusa-jtbc-drama-april-2026-goo-kyohwan-go-yunjung-park-haeyoung',
     title: '모자무싸 사전 정보 총정리 — 나의 해방일지 박해영 작가 × 동백꽃 차영훈 감독, 구교환·고윤정 4월 18일 JTBC',

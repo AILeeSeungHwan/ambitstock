@@ -1,0 +1,26 @@
+const post = {
+  id: 614,
+  sections: [
+    { type: 'intro', html: '<p>4월 OTT 시장에서 넷플릭스만 보고 있었다면, 디즈니플러스 라인업을 확인한 뒤 생각이 달라질 수 있다. 스타워즈 신작 애니메이션, 마블 데어데블 시즌2 중반부, 아이유·변우석 주연 한국 드라마, 박보영 주연 범죄 코미디까지 — 장르 폭이 상당하다.</p><p>넷플릭스가 사냥개들 시즌2와 XO 키티 시즌3으로 4월을 여는 동안, 디즈니플러스는 글로벌 IP(스타워즈·마블)와 한국 오리지널을 동시에 내세웠다. 구독자 입장에서 어떤 작품을 먼저 챙겨야 할지, 취향별로 정리했다.</p><div style="background:rgba(0,99,177,0.06);border-left:3px solid #0063b1;padding:14px 18px;border-radius:8px;margin:16px 0"><strong>이런 사람에게 추천</strong><ul style="margin:8px 0 0;padding-left:20px"><li>디즈니플러스 구독 중인데 4월에 뭐가 나오는지 모르는 사람</li><li>스타워즈나 마블 팬인데 최신작을 놓치고 싶지 않은 사람</li><li>넷플릭스 외 OTT도 비교해서 볼 작품을 고르고 싶은 사람</li></ul></div><p style="font-size:13px;color:#888;margin-top:12px">※ 이 글은 스포일러 없이 작성되었습니다. 공개일 기준: 2026년 4월, 한국 디즈니+ 기준.</p>' },
+    { type: 'image', src: '/images/post614_poster.jpg', alt: '스타워즈 몰 섀도우 로드 공식 포스터 - 디즈니플러스 2026년 4월 대표 신작', caption: '출처: 네이버 영화' },
+    { type: 'toc' },
+    { type: 'h2', id: 'maul-shadow-lord', text: '스타워즈: 몰 — 섀도우 로드, 4월 6일 공개 (전 10화)', gradientStyle: 'linear-gradient(to right, #0063b1, #1a1a2e)' },
+    { type: 'body', html: '<p>4월 디즈니플러스의 간판은 단연 <strong>스타워즈: 몰 — 섀도우 로드</strong>다. 4월 6일 첫 2화 공개, 이후 매주 2화씩 방영되어 5월 4일(스타워즈 데이)에 피날레를 맞는다. 총 10화 구성.</p><p>클론전쟁 이후를 배경으로, 다스 몰이 제국의 손길이 닿지 않은 행성에서 범죄 신디케이트를 재건하는 이야기다. 여기에 환멸을 느낀 젊은 제다이 파다완이 등장하면서, 몰의 새로운 제자가 될 수 있을지가 핵심 갈등이 된다.</p><p>공개 전 반응은 기대 이상이다. 리액터의 바네사 암스트롱은 &quot;어둡고 드라마틱하면서도 시선을 사로잡는다&quot;고 평했고, 폴리곤은 &quot;몰의 승리적 귀환&quot;이라는 표현을 썼다. 스타워즈 팬이라면 4월 6일이 가장 중요한 날이다.</p><p><strong>추천 대상:</strong> 클론전쟁·반란군 시리즈를 본 스타워즈 팬, 다크사이드 캐릭터에 관심 있는 사람.<br/><strong>참고:</strong> 스타워즈 입문자라면 클론전쟁 시즌5~7의 몰 에피소드를 먼저 보는 게 좋다.</p>' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'h2', id: 'daredevil-born-again-s2', text: '데어데블: 본 어게인 시즌2 — 4월은 중반 클라이맥스', gradientStyle: 'linear-gradient(to right, #8b0000, #1a1a2e)' },
+    { type: 'body', html: '<p>3월 25일 시즌2 첫 화가 공개된 <strong>데어데블: 본 어게인</strong>은 4월에 에피소드 4~7을 쏟아낸다. 시즌2의 핵심 구간이 4월에 집중돼 있는 셈이다.</p><p>시즌2는 &quot;누가 더 잘 싸우는가&quot;가 아니라 &quot;누가 더 좋은 전략을 갖고 있는가&quot;의 싸움이다. 시장이 된 윌슨 피스크(킹핀)가 뉴욕 전체를 장악한 상황에서, 맷 머독과 카렌 페이지가 법과 정의 사이에서 선택을 강요받는다. 에피소드 3에서 앤절라 델 토로가 화이트 타이거 슈트를 입는 장면은 시즌2 최고의 액션 시퀀스로 꼽히고 있다.</p><p>마블 드라마 중 가장 성인 취향이라는 평가답게, 법정 드라마와 느와르 액션이 번갈아 나온다. 시즌1을 봤다면 4월이 가장 긴장되는 달이 될 것이다.</p>' },
+    { type: 'image', src: '/images/post614_still1.jpg', alt: '데어데블 본 어게인 시즌2 스틸컷 - 맷 머독과 킹핀의 대결', caption: '출처: 네이버 영화' },
+    { type: 'h2', id: 'korean-originals', text: '한국 오리지널 2편 — 21세기 대군부인(4/10)과 골드랜드(4/29)', gradientStyle: 'linear-gradient(to right, #6a1b9a, #0063b1)' },
+    { type: 'body', html: '<p><strong>21세기 대군부인</strong>은 4월 10일 공개. 아이유와 변우석이 주연을 맡은 입헌군주제 로맨스 드라마다. MBC 금토 방영과 동시에 디즈니플러스에서도 공개된다. 미방영 화제성 역대 최초 1위를 기록할 만큼 기대치가 높은 작품이다. &quot;21세기에 왕실이 남아있는 대한민국&quot;이라는 세계관 설정이 독특하고, 신분 격차 로맨스를 좋아하는 시청자라면 반드시 챙겨야 할 드라마다.</p><p><strong>골드랜드</strong>는 4월 29일 공개. 박보영, 김성철, 이광수 출연. 밀수 조직의 금괴를 우연히 넘겨받은 희주(박보영)가 탐욕과 배신이 엮인 아수라장에서 금괴를 독차지하려는 사투를 벌이는 범죄 코미디다. 박보영의 장르 변신이 관전 포인트.</p>' },
+    { type: 'image', src: '/images/post614_still2.jpg', alt: '21세기 대군부인 아이유 변우석 공식 포스터', caption: '출처: 네이버 영화' },
+    { type: 'ad', slot: '6297515693', format: 'auto' },
+    { type: 'h2', id: 'hidden-gems', text: '더 테스터먼트 + 디즈니네이처 오랑우탄 — 놓치기 쉬운 기대작', gradientStyle: 'linear-gradient(to right, #00695c, #1a1a2e)' },
+    { type: 'body', html: '<p><strong>더 테스터먼트(The Testaments)</strong>는 마거릿 앳우드의 동명 소설 원작. 시녀 이야기(The Handmaid\'s Tale)의 후속 세계관인 길리어드를 배경으로, 두 십대 소녀 아그네스와 데이지가 앤트 리디아의 엘리트 예비 신부 학교에서 성장하는 이야기다. 시녀 이야기 팬이라면 반드시 봐야 하고, 디스토피아 드라마를 좋아하는 사람에게도 추천한다.</p><p><strong>디즈니네이처: 오랑우탄</strong>은 4월 22일 지구의 날에 맞춰 공개. 조쉬 개드가 내레이션을 맡았고, 청소년기 오랑우탄 인다가 처음으로 가족 곁을 떠나 독립하는 여정을 담았다. 가족과 함께 보기에 가장 좋은 콘텐츠다. 러닝타임이 길지 않아 부담 없다.</p>' },
+    { type: 'image', src: '/images/post614_still3.jpg', alt: '디즈니네이처 오랑우탄 스틸컷 - 열대우림 속 오랑우탄', caption: '출처: Disney+' },
+    { type: 'h2', id: 'pick-guide', text: '취향별 시청 순서 — 4월 디즈니플러스 뭐부터 볼까', gradientStyle: 'linear-gradient(to right, #0063b1, #6a1b9a)' },
+    { type: 'body', html: '<p><strong>SF·판타지 팬:</strong> 스타워즈 몰 → 데어데블 시즌2 → 더 테스터먼트. 세 작품 모두 세계관 기반 드라마라 연달아 보기 좋다.</p><p><strong>한국 드라마 위주 시청자:</strong> 21세기 대군부인(4/10) → 골드랜드(4/29). 로맨스부터 범죄 코미디까지, 4월 한 달 동안 두 편을 순서대로 챙기면 된다.</p><p><strong>가족 시청:</strong> 오랑우탄(4/22)이 가장 무난하다. 아이와 함께 볼 수 있는 유일한 4월 신작.</p><p><strong>마블 팬:</strong> 데어데블 시즌2 에피소드 4~7이 4월 핵심. 시즌1 미시청자라면 지금부터 몰아보기 시작해도 4월 방영분을 따라잡을 수 있다.</p><p><strong>디즈니+ 가입 고민 중이라면:</strong> 스타워즈 몰 + 데어데블 시즌2만으로도 4월 한 달 구독 가치는 충분하다. 여기에 한국 드라마까지 더해지면 콘텐츠 밀도는 넷플릭스 4월과 대등한 수준이다.</p>' },
+    { type: 'ending', html: '<p>넷플릭스 4월 라인업이 한국 오리지널(사냥개들 시즌2, 휴민트)에 집중했다면, 디즈니플러스 4월은 글로벌 IP와 한국 드라마를 균형 있게 배치했다. 어느 쪽이 더 나은지는 취향에 달렸지만, 두 플랫폼 모두 4월에 주력 콘텐츠를 몰아넣은 건 확실하다. 구독 중인 OTT에 따라, 위의 취향별 가이드로 시청 순서를 잡아보자.</p><p><strong>관련 포스팅:</strong></p><ul><li><a href="/netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex/">4월 넷플릭스 기대작 TOP 7 — 사냥개들·쇠고기·아펙스</a></li><li><a href="/21st-century-grand-princess-iu-byeonwooseok-mbc-april-2026/">21세기 대군부인 사전 정보 — 아이유·변우석 MBC 4월 10일</a></li><li><a href="/ott-price-compare-netflix-disney-coupang-tving-2026/">2026 OTT 요금제 총비교 — 넷플릭스 vs 디즈니+ vs 쿠팡플레이 vs 티빙</a></li><li><a href="/daredevil-born-again-season2-review-disney-marvel-2026/">데어데블 본 어게인 시즌2 리뷰</a></li></ul>' },
+    { type: 'ad', slot: '6297515693', format: 'auto' }
+  ]
+}
+module.exports = post
