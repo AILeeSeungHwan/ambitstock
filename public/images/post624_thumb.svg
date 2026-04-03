@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a"/>
+      <stop offset="50%" style="stop-color:#b71c1c"/>
+      <stop offset="100%" style="stop-color:#1a1a1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="630" fill="rgba(0,0,0,0.3)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="72" font-weight="900" fill="#ffffff">사냥개들 시즌2</text>
+  <text x="600" y="290" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="42" font-weight="700" fill="#ff6659">넷플릭스 리뷰</text>
+  <text x="600" y="370" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="34" font-weight="400" fill="#ffffff">공개 당일 1위 · 우도환 · 이상이 · 정지훈(비)</text>
+  <text x="600" y="440" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="28" font-weight="400" fill="rgba(255,255,255,0.7)">글로벌 불법 복싱 리그편의 승부</text>
+  <rect x="420" y="500" width="360" height="50" rx="25" fill="#e50914"/>
+  <text x="600" y="533" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="22" font-weight="700" fill="#ffffff">2026년 4월 · 넷플릭스</text>
+</svg>

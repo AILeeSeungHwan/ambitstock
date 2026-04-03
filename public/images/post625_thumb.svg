@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a"/>
+      <stop offset="50%" style="stop-color:#1b3a5c"/>
+      <stop offset="100%" style="stop-color:#0d1b2a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="630" fill="rgba(0,0,0,0.2)"/>
+  <text x="600" y="180" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="72" font-weight="900" fill="#ffffff">휴민트 해외반응</text>
+  <text x="600" y="265" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="42" font-weight="700" fill="#ffd54f">넷플릭스 글로벌 1위</text>
+  <text x="600" y="345" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="34" font-weight="400" fill="#ffffff">극장 198만 → 17개국 1위 · 82개국 TOP10</text>
+  <text x="600" y="415" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="28" font-weight="400" fill="rgba(255,255,255,0.7)">류승완 감독 · 조인성 · 박정민 · 한국형 첩보 스릴러</text>
+  <rect x="420" y="490" width="360" height="50" rx="25" fill="#e53935"/>
+  <text x="600" y="523" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="22" font-weight="700" fill="#ffffff">2026년 4월 · 역주행 화제작</text>
+</svg>

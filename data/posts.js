@@ -1,5 +1,41 @@
 const posts = [
   {
+    id: 625,
+    slug: 'humint-overseas-reaction-netflix-global-1st-17countries-2026',
+    title: '휴민트 해외반응 — 극장 198만 실패에서 넷플릭스 글로벌 1위 역주행, 17개국 정상의 비결',
+    description: '휴민트 넷플릭스 해외반응 총정리. 극장 198만 관객에서 넷플릭스 공개 이틀 만에 글로벌 1위, 17개국 1위, 82개국 TOP10 진입. 한국형 첩보 스릴러의 OTT 역주행 분석.',
+    category: '해외반응후기',
+    date: '2026-04-04',
+    tags: ['트렌드', '휴민트', 'HUMINT', '해외반응', '넷플릭스', '글로벌1위', '류승완', '조인성', '박정민', '역주행'],
+    thumbnail: '/images/post625_thumb.svg',
+    relatedSlugs: [
+      'humint-ending-explained-parkgun-sacrifice-berlin-connection-2026',
+      'humint-netflix-april-2026-ryuseungwan-spy-thriller-review',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex'
+    ],
+    contentType: '해외반응',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 624,
+    slug: 'bloodhounds-season2-review-netflix-1st-action-upgrade-2026',
+    title: '사냥개들 시즌2 넷플릭스 리뷰 — 공개 당일 1위, 정지훈(비) 첫 악역과 업그레이드된 액션',
+    description: '사냥개들 시즌2 넷플릭스 리뷰. 공개 당일 한국 시리즈 1위, 시청의향률 21% 압도적 격차. 우도환·이상이 케미 건재, 정지훈(비) 첫 악역 호평, 베어너클 액션 업그레이드. 장단점과 추천 대상 정리.',
+    category: '해외반응후기',
+    date: '2026-04-04',
+    tags: ['트렌드', '사냥개들', '사냥개들시즌2', '넷플릭스', '우도환', '이상이', '정지훈', '비', '액션드라마', '리뷰'],
+    thumbnail: '/images/post624_thumb.svg',
+    relatedSlugs: [
+      'bloodhounds-season2-netflix-april-2026-guide',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'humint-netflix-april-2026-ryuseungwan-spy-thriller-review'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 623,
     slug: 'yumis-cells-season3-kimgoeun-kimjaewon-tving-tvn-april-2026',
     title: '유미의 세포들 시즌3 사전 가이드 — 김고은·김재원 4년 만의 복귀, 4월 13일 티빙+tvN 총정리',
