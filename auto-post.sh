@@ -147,17 +147,19 @@ echo "$LOG_PREFIX 트렌드 키워드 수집 완료"
 # ═══════════════════════════════════════════
 echo "$LOG_PREFIX [2/6] CPC 매핑 + 기존 포스팅 중복 제거..."
 
+# 요약 파일 갱신 (최신 상태 반영)
+node scripts/update-posts-summary.js
+
 FILTERED_KEYWORDS_FILE=$(mktemp)
 
 node << STEP2 > "$FILTERED_KEYWORDS_FILE"
 const fs = require('fs');
 const trendData = JSON.parse(fs.readFileSync('$TREND_KEYWORDS_FILE', 'utf-8'));
-const posts = require('./data/posts.js').default;
+// posts-summary.json 사용 (posts.js 전체 로드 대신 경량 요약)
+const summary = JSON.parse(fs.readFileSync('./data/posts-summary.json', 'utf-8'));
 
-// 기존 포스팅 키워드 수집 (title + tags + description)
-const existingTexts = posts.map(p =>
-  (p.title + ' ' + (p.tags || []).join(' ') + ' ' + (p.description || '')).toLowerCase()
-);
+// 기존 포스팅 제목으로 중복 확인
+const existingTexts = summary.allTitles.map(t => t.toLowerCase());
 
 // 중복 필터: 기존 포스팅과 80% 이상 겹치는 키워드 제거
 const filtered = (trendData.keywords || []).filter(kw => {
@@ -186,8 +188,8 @@ echo "$LOG_PREFIX 중복 제거 완료"
 echo "$LOG_PREFIX [3/6] 프로젝트 상태 확인..."
 
 CURRENT_MAX_ID=$(node -e "
-  const posts = require('./data/posts.js').default;
-  console.log(Math.max(...posts.map(p => p.id)));
+  const summary = JSON.parse(require('fs').readFileSync('./data/posts-summary.json', 'utf-8'));
+  console.log(summary.lastId);
 ")
 START_ID=$((CURRENT_MAX_ID + 1))
 
@@ -218,74 +220,23 @@ echo "$LOG_PREFIX [4/6] Claude Code로 ${KEYWORD_COUNT}개 포스팅 생성..."
 
 KEYWORDS_JSON=$(cat "$FILTERED_KEYWORDS_FILE")
 
-claude -p "
-당신은 ambitstock.com 영화/드라마/OTT 블로그 'R의 필름공장'의 포스팅 생성기입니다.
+SUMMARY_JSON=$(cat data/posts-summary.json)
 
-## 트렌드 키워드 데이터
+claude --model sonnet -p "
+CLAUDE-AUTO.md를 읽고 규칙을 따르세요. data/posts-summary.json은 아래에 포함되어 있으니 파일을 다시 읽지 마세요.
+
+## 요약 데이터
+$SUMMARY_JSON
+
+## 트렌드 키워드
 $KEYWORDS_JSON
 
 ## 작업
-위 키워드 데이터를 바탕으로 ID ${START_ID}부터 최대 ${KEYWORD_COUNT}개의 포스팅을 생성하세요.
-각 키워드에 대해 하나의 포스팅을 만들되, cpcTier가 'high'인 키워드를 우선 처리하세요.
-
-## 포스팅 구조 규칙
-
-### slug 규칙 (SEO 최적화)
-- 영문 소문자 + 하이픈, 3~6단어
-- 핵심 키워드 반영 (예: netflix-movie-recommend-2026-march)
-- 연도 포함
-
-### 파일 구조 (posts/[id].js)
-\`\`\`
-const post = {
-  id: [번호],
-  sections: [
-    { type: 'intro', html: '<p>2~3문단 인트로</p>' },
-    { type: 'image', src: '/images/placeholder.svg', alt: '[SEO alt]', caption: '[설명]' },
-    { type: 'toc' },
-    { type: 'h2', id: '[section-id]', text: '[소제목]', gradientStyle: 'linear-gradient(to right, [색1], [색2])' },
-    { type: 'body', html: '<p>[최소 150자 본문]</p>' },
-    // h2 + body 반복 (4~6개)
-    { type: 'ad', slot: '6297515693', format: 'auto' },
-    { type: 'cta', href: '[관련 URL]', text: '[CTA 텍스트]' },
-    { type: 'ending', html: '<p>[마무리 1~2문단]</p>' },
-    { type: 'ad', slot: '6297515693', format: 'auto' },
-  ]
-}
-export default post
-\`\`\`
-
-### 필수 체크
-- h2 다음에 반드시 body (빈 body 절대 금지, 최소 150자)
-- intro 2~3문단, ending 필수
-- ad 슬롯: 중간 1개 + 끝 1개 (slot: '6297515693')
-- 이미지 src: '/images/placeholder.svg'
-- alt/caption 반드시 작성 (SEO 키워드 포함)
-- html 안 따옴표는 &quot; 사용
-- JS 문자열 안 실제 줄바꿈 금지
-- 기존 포스팅 16번을 구조 참고
-
-### data/posts.js 업데이트
-기존 포스팅 배열 앞에 새 포스팅 메타데이터를 추가하세요:
-{
-  id: [번호],
-  slug: '[seo-keyword-slug]',
-  title: '[60자 이내, 키워드 포함 SEO 타이틀]',
-  description: '[120자 이내 메타 설명]',
-  category: '[영화추천|드라마|해외반응후기|마블|애니메이션]',
-  date: '${TODAY}',
-  tags: ['키워드1', '키워드2', ...],
-  thumbnail: null,
-}
-
-### sitemap.xml
-public/sitemap.xml에 새 포스팅 URL 추가:
-<url><loc>https://ambitstock.com/[slug]/</loc><lastmod>${TODAY}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-
-## 최종 확인
-1. node --check로 모든 JS 파일 검증
-2. 완료 후 'AUTO_POST_DONE' 출력
-" --allowedTools "Edit,Write,Bash" --max-turns 80
+ID ${START_ID}부터 최대 ${KEYWORD_COUNT}개 포스팅 생성. cpcTier high 우선.
+각 포스트: posts/{id}.js 생성 + data/posts.js 메타 추가 + node --check 검증.
+마무리: node scripts/update-posts-summary.js 실행.
+완료 시 AUTO_POST_DONE 출력.
+" --allowedTools "Edit,Write,Bash" --max-turns 40
 
 # ═══════════════════════════════════════════
 # STEP 5: 검증
@@ -311,9 +262,8 @@ if [ $ERRORS -gt 0 ]; then
 fi
 
 NEW_COUNT=$(node -e "
-  const posts = require('./data/posts.js').default;
-  const n = posts.filter(p => p.id >= ${START_ID}).length;
-  console.log(n);
+  const summary = JSON.parse(require('fs').readFileSync('./data/posts-summary.json', 'utf-8'));
+  console.log(summary.lastId >= ${START_ID} ? summary.lastId - ${START_ID} + 1 : 0);
 ")
 
 echo "$LOG_PREFIX ✅ 검증 통과. 새 포스팅: ${NEW_COUNT}개"
@@ -336,8 +286,8 @@ let log = { runs: [], keywords: {} };
 try { log = JSON.parse(fs.readFileSync(logPath, 'utf-8')); } catch(e) {}
 
 const kwData = JSON.parse(fs.readFileSync('$FILTERED_KEYWORDS_FILE', 'utf-8'));
-const posts = require('./data/posts.js').default;
-const newPosts = posts.filter(p => p.id >= ${START_ID});
+const summary = JSON.parse(fs.readFileSync('./data/posts-summary.json', 'utf-8'));
+const newPosts = summary.recentPosts.filter(p => p.id >= ${START_ID});
 
 log.runs.unshift({
   date: new Date().toISOString(),
@@ -362,6 +312,9 @@ for (const kw of (kwData.keywords || [])) {
 fs.writeFileSync(logPath, JSON.stringify(log, null, 2), 'utf-8');
 console.log('Log saved: ' + newPosts.length + ' posts recorded');
 LOGSCRIPT
+
+# 요약 파일 갱신 (새 포스트 반영)
+node scripts/update-posts-summary.js
 
 # Git
 git add posts/ data/ public/sitemap.xml
