@@ -1,25 +1,23 @@
 import AdUnit from './AdUnit'
 
-/* ─── 상단 2열 광고 ─── */
-export function TopAdPair() {
-  return (
-    <div style={{
-      display: 'grid',
-      gridTemplateColumns: '1fr 1fr',
-      gap: 12,
-      margin: '20px 0 28px',
-    }}>
-      <AdUnit slot="6297515693" format="rectangle" />
-      <AdUnit slot="6297515693" format="rectangle" />
-    </div>
-  )
-}
-
-/* ─── 섹션 렌더러 (h2 뒤 자동 광고 포함) ─── */
+/* ─── 섹션 렌더러 (h2 뒤에만 광고) ─── */
 export function renderSections(sections, TOC) {
   const filtered = sections.filter(Boolean)
   const elements = []
+  const h2s = filtered.filter(s => s.type === 'h2')
+  const totalH2 = h2s.length
   let h2Count = 0
+
+  // h2 개수에 따라 광고 간격 결정: 최대 3개 광고
+  // h2가 3개 이하: 첫 h2 뒤에만 1개
+  // h2가 4~6개: 첫 h2, 마지막 h2 뒤 = 2개
+  // h2가 7개 이상: 첫 h2, 중간, 마지막 = 3개
+  function shouldInsertAd(count) {
+    if (totalH2 <= 3) return count === 1
+    if (totalH2 <= 6) return count === 1 || count === totalH2
+    const mid = Math.ceil(totalH2 / 2)
+    return count === 1 || count === mid || count === totalH2
+  }
 
   for (let i = 0; i < filtered.length; i++) {
     const section = filtered[i]
@@ -34,7 +32,6 @@ export function renderSections(sections, TOC) {
 
     if (section.type === 'h2') {
       h2Count++
-      // h2 렌더링
       elements.push(
         <h2 key={'h2-' + i} id={section.id} style={{
           fontSize: 22, fontWeight: 800, margin: '48px 0 16px', lineHeight: 1.4,
@@ -47,14 +44,12 @@ export function renderSections(sections, TOC) {
           {section.text}
         </h2>
       )
-      // 첫 번째 h2 뒤 + 이후 3개마다 광고 삽입
-      if (h2Count === 1 || h2Count % 3 === 1) {
+      if (shouldInsertAd(h2Count)) {
         elements.push(<AdUnit key={'ad-after-h2-' + i} slot="6297515693" format="auto" />)
       }
       continue
     }
 
-    // 나머지 섹션 타입
     elements.push(renderSection(section, i))
   }
 

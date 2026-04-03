@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="ko">
       <Head>
-        {/* Google AdSense — 앵커/오버레이 자동 광고 비활성화 */}
+        {/* Google AdSense — 수동 광고만 사용 (자동광고 완전 비활성) */}
         <meta name="google-adsense-platform-account" content="ca-pub-8640254349508671" />
         <script
           async
@@ -13,12 +13,12 @@ export default function Document() {
           data-overlays="bottom"
         />
         <style dangerouslySetInnerHTML={{ __html: `
-          /* AdSense 앵커(상단 내려오는) 광고 완전 제거 + 빈 공간 방지 */
+          /* AdSense 자동광고 완전 차단 (수동 배치만 허용) */
           ins.adsbygoogle[data-anchor-status],
           ins.adsbygoogle[data-ad-format="auto"][data-anchor-shown],
+          div.google-auto-placed,
           div[id^="google_ads_iframe"][style*="position: fixed"],
           div[id^="aswift_"][style*="position: fixed"],
-          div.google-auto-placed[style*="position: fixed"],
           div[style*="position: fixed"][style*="z-index: 2147483647"] {
             display: none !important;
             height: 0 !important;
@@ -28,33 +28,25 @@ export default function Document() {
             padding: 0 !important;
             margin: 0 !important;
           }
-          /* body가 밀리지 않도록 */
           html, body {
             margin-top: 0 !important;
             padding-top: 0 !important;
           }
         ` }} />
 
-        {/* Google Tag Manager */}
+        {/* Google Tag Manager (GA4는 GTM 내부에서 처리) */}
         <script dangerouslySetInnerHTML={{ __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5ZWNDJC2');` }} />
 
-        {/* GA4 */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-TDNR06LXCE" />
-        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-TDNR06LXCE');` }} />
-
-        {/* Microsoft Clarity */}
-        <script dangerouslySetInnerHTML={{ __html: `(function(c,l,a,r,i,t,y){
+        {/* Microsoft Clarity — 지연 로드 */}
+        <script dangerouslySetInnerHTML={{ __html: `setTimeout(function(){(function(c,l,a,r,i,t,y){
 c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
 t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
 y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-})(window, document, "clarity", "script", "kejsxfywt0");` }} />
+})(window, document, "clarity", "script", "kejsxfywt0")}, 3000);` }} />
 
         {/* Naver Webmaster */}
         <meta name="naver-site-verification" content="ef5c3c3738f136552a02e2a7c27ec6ac1e83339f" />
