@@ -1,5 +1,22 @@
 const posts = [
   {
+    id: 623,
+    slug: 'yumis-cells-season3-kimgoeun-kimjaewon-tving-tvn-april-2026',
+    title: '유미의 세포들 시즌3 사전 가이드 — 김고은·김재원 4년 만의 복귀, 4월 13일 티빙+tvN 총정리',
+    description: '유미의 세포들 시즌3 사전 정보 총정리. 김고은 복귀, 새 남주 김재원(신순록), 총 8부작. 4월 13일 티빙 선공개 + tvN 월화. 시즌1~2 핵심 복습, 원작 웹툰과의 차이, 출연진, 시청 가이드.',
+    category: '드라마',
+    date: '2026-04-03',
+    tags: ['트렌드', '유미의세포들', '유미의세포들시즌3', '김고은', '김재원', '티빙', 'tvN', '로맨스드라마', '웹툰원작', '4월신작'],
+    thumbnail: '/images/post623_thumb.svg',
+    relatedSlugs: [
+      'march-2026-kdrama-lineup-netflix-tving-coupang-guide',
+      'ott-price-compare-netflix-disney-coupang-tving-2026'
+    ],
+    contentType: '트렌드',
+    platform: '티빙',
+    spoilerLevel: 'none'
+  },
+  {
     id: 622,
     slug: 'people-upstairs-netflix-hajungwoo-gonghyojin-couple-comedy-2026',
     title: '윗집 사람들 넷플릭스 리뷰 — 하정우 감독의 19금 밀실극, 네이버 8.4 넷플릭스 한국 영화 2위',
