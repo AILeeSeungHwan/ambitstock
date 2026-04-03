@@ -8,6 +8,7 @@ import ContentTypeBadge from '../../components/ContentTypeBadge'
 import SummaryBox from '../../components/SummaryBox'
 import posts from '../../data/posts'
 import getPostUrl from '../../lib/getPostUrl'
+import { TopAdPair, renderSections } from '../../components/PostRenderer'
 
 export async function getStaticPaths() {
   const paths = posts
@@ -260,12 +261,10 @@ export default function EntryPostPage({ meta, postData, related, internalLinks, 
 
         <SummaryBox sections={postData.sections} />
 
-        {postData.sections.filter(Boolean).map((section, i) => {
-          if (section.type === 'toc') {
-            return <TOC key={i} sections={postData.sections.filter(Boolean)} />
-          }
-          return <SectionRenderer key={i} section={section} />
-        })}
+        {/* 상단 2열 광고 */}
+        <TopAdPair />
+
+        {renderSections(postData.sections, TOC)}
       </article>
 
       {related && related.length > 0 && (

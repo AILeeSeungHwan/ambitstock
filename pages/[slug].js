@@ -13,6 +13,7 @@ import getPostUrl from '../lib/getPostUrl'
 import getOgImage from '../lib/getOgImage'
 import { getInternalLinks } from '../lib/internal-links'
 import { getSimilarWorks } from '../lib/similar-works'
+import { TopAdPair, renderSections } from '../components/PostRenderer'
 
 export async function getStaticPaths() {
   // tistorySlug가 없는 포스트만 /{slug}/ 경로 생성
@@ -332,12 +333,10 @@ export default function PostPage({ meta, postData, related, internalLinks, simil
 
         <SummaryBox sections={postData.sections} />
 
-        {postData.sections.filter(Boolean).map((section, i) => {
-          if (section.type === 'toc') {
-            return <TOC key={i} sections={postData.sections.filter(Boolean)} />
-          }
-          return <SectionRenderer key={i} section={section} />
-        })}
+        {/* 상단 2열 광고 */}
+        <TopAdPair />
+
+        {renderSections(postData.sections, TOC)}
       </article>
 
       {related && related.length > 0 && (
