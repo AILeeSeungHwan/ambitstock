@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 622,
+    slug: 'people-upstairs-netflix-hajungwoo-gonghyojin-couple-comedy-2026',
+    title: '윗집 사람들 넷플릭스 리뷰 — 하정우 감독의 19금 밀실극, 네이버 8.4 넷플릭스 한국 영화 2위',
+    description: '윗집 사람들 넷플릭스 리뷰. 하정우 감독·주연, 공효진 김동욱 이하늬 4인 밀실 대화극. 네이버 8.4 CGV 골든에그 88% IMDB 6.4. 극장 54만 관객 뒤 넷플릭스 한국 영화 2위 역주행. 81분 러닝타임, 추천 대상과 호불호 포인트 정리.',
+    category: '영화추천',
+    date: '2026-04-03',
+    tags: ['트렌드', '윗집사람들', '하정우', '공효진', '김동욱', '이하늬', '넷플릭스', '한국영화', '코미디', '19금'],
+    thumbnail: '/images/post622_thumb.svg',
+    relatedSlugs: [
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'humint-netflix-april-2026-ryuseungwan-spy-thriller-review',
+      'korean-movie-comedy-recommend-2026'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'light'
+  },
+  {
     id: 621,
     slug: 'humint-ending-explained-parkgun-sacrifice-berlin-connection-2026',
     title: '휴민트 결말 해석 — 박건은 왜 그 선택을 했나, 류승완이 말한 "미성숙한 희생"의 의미',
