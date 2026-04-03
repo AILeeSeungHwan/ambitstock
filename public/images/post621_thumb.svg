@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a237e"/>
+      <stop offset="50%" style="stop-color:#0d47a1"/>
+      <stop offset="100%" style="stop-color:#01579b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="72" font-weight="900" fill="#ffffff">휴민트 결말 해석</text>
+  <text x="600" y="320" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="40" font-weight="500" fill="#ffeb3b">박건의 "미성숙한 희생"이 뜻하는 것</text>
+  <text x="600" y="400" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="32" font-weight="400" fill="rgba(255,255,255,0.7)">류승완 감독 인터뷰 + 베를린 세계관 연결</text>
+  <text x="600" y="530" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="24" font-weight="400" fill="rgba(255,255,255,0.4)">ambitstock.com</text>
+</svg>

@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 621,
+    slug: 'humint-ending-explained-parkgun-sacrifice-berlin-connection-2026',
+    title: '휴민트 결말 해석 — 박건은 왜 그 선택을 했나, 류승완이 말한 "미성숙한 희생"의 의미',
+    description: '휴민트 결말 해석. 박건(박정민)의 마지막 선택을 류승완 감독이 "미성숙한 희생"이라 부른 이유, 선화(신세경)의 이별 방식이 베를린 표종성과 다른 점, 넷플릭스 재감상 시 달라지는 장면 3가지.',
+    category: '영화추천',
+    date: '2026-04-03',
+    tags: ['결말해석', '휴민트', 'HUMINT', '류승완', '조인성', '박정민', '신세경', '베를린', '넷플릭스', '첩보스릴러'],
+    thumbnail: '/images/post621_thumb.svg',
+    relatedSlugs: [
+      'humint-netflix-april-2026-ryuseungwan-spy-thriller-review',
+      'the-red-line-netflix-ending-explained-revenge-justice-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'king-and-man-ending-meaning-danjong-eomheungdo-2026'
+    ],
+    contentType: '해석',
+    platform: '넷플릭스',
+    spoilerLevel: 'heavy'
+  },
+  {
     id: 620,
     slug: 'king-and-man-1578-million-extreme-job-overtake-alltime-2nd-2026',
     title: '왕과 사는 남자 1,578만 극한직업 추월 초읽기 — 역대 2위 도전, 매출은 이미 1위',
