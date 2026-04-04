@@ -492,6 +492,9 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
         </div>
       </section>
 
+      {/* ─── 상단 광고 ─── */}
+      <AdUnit slot="6297515693" format="auto" style={{ marginBottom: 32 }} />
+
       {/* ─── 지금 뜨는 작품 ─── */}
       <section id="trending-section" style={{ marginBottom: 48 }}>
         <SectionHeader icon="🔥" title="지금 뜨는 작품" />

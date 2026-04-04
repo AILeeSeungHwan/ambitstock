@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import Head from 'next/head'
 import { useRouter } from 'next/router'
+import Interstitial from './Interstitial'
 
 /* ───────────────────────── 폰트 ───────────────────────── */
 const FONTS = [
@@ -830,6 +831,8 @@ export default function Layout({ children, title, description, onCategoryChange 
       <ThemePanel show={showPanel} onClose={() => setShowPanel(false)}
         themes={THEMES} currentIdx={themeIdx} onSelect={selectTheme}
         fonts={FONTS} fontIdx={fontIdx} onFontSelect={selectFont} />
+
+      <Interstitial />
 
       <style jsx global>{`
         :root {
