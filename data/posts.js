@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 627,
+    slug: 'tving-april-2026-new-drama-guide-yumis-cells-scarecrow',
+    title: '티빙 4월 신작 드라마 가이드 — 유미의 세포들3·허수아비·은밀한 감사, 취향별 시청 전략',
+    description: '티빙 2026년 4월 신작 드라마 총정리. 유미의 세포들 시즌3(4/13) 김고은 복귀, 허수아비(4/20) 박해수 이희준 수사극, 은밀한 감사(4/25) 신혜선 공명 오피스 로맨스. 로맨스파·스릴러파 취향별 시청 전략까지.',
+    category: '드라마',
+    date: '2026-04-04',
+    tags: ['티빙', '4월신작', '유미의세포들3', '허수아비', '은밀한감사', 'OTT가이드', 'tvN', '신혜선', '박해수', '김고은'],
+    thumbnail: '/images/post627_thumb.svg',
+    relatedSlugs: [
+      'yumis-cells-season3-kimgoeun-kimjaewon-tving-tvn-april-2026',
+      'bloodhounds-season2-review-netflix-1st-action-upgrade-2026',
+      'beef-season2-netflix-april-2026-oscar-isaac-song-kangho',
+      'ott-price-compare-netflix-disney-coupang-tving-2026'
+    ],
+    contentType: '가이드',
+    platform: '티빙',
+    spoilerLevel: 'none'
+  },
+  {
     id: 626,
     slug: 'daredevil-complete-watch-order-guide-born-again-2026',
     title: '데어데블 시청순서 완전 가이드 — 넷플릭스 시즌1~3부터 본어게인 시즌2까지, 필수·선택 구분',
