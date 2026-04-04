@@ -67,10 +67,14 @@ export function renderSections(sections, TOC) {
     elements.push(renderSection(section, i))
   }
 
-  // h2가 없고 toc도 없는 경우 — 중간에 광고 1개 보장
+  // h2가 없고 toc도 없는 경우 — 1/3, 2/3 지점에 광고 2개 보장
   if (!topAdInserted && autoAdsEnabled) {
-    const midIdx = Math.floor(elements.length / 2)
-    elements.splice(midIdx, 0, <AdUnit key={'ad-mid-fallback'} slot="6297515693" format="auto" />)
+    const total = elements.length
+    const idx1 = Math.floor(total / 3)
+    const idx2 = Math.floor((total * 2) / 3)
+    // 뒤쪽 인덱스부터 삽입해야 앞 인덱스가 밀리지 않음
+    elements.splice(idx2, 0, <AdUnit key={'ad-fallback-2'} slot="6297515693" format="auto" />)
+    elements.splice(idx1, 0, <AdUnit key={'ad-fallback-1'} slot="6297515693" format="auto" />)
   }
 
   return elements

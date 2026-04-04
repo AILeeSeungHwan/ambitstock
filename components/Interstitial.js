@@ -3,6 +3,7 @@ import { useRouter } from 'next/router'
 
 const SESSION_KEY = 'interstitial_count'
 const PAGE_KEY = 'interstitial_page_count'
+const FIRST_SHOWN_KEY = 'interstitialFirstShown'
 const MAX_PER_SESSION = 3
 const EVERY_N_PAGES = 3
 
@@ -11,6 +12,7 @@ export default function Interstitial() {
   const [visible, setVisible] = useState(false)
   const [countdown, setCountdown] = useState(5)
   const timerRef = useRef(null)
+  const firstTimerRef = useRef(null)
   const adPushed = useRef(false)
   const isMobile = useRef(false)
 
@@ -22,6 +24,30 @@ export default function Interstitial() {
     check()
     window.addEventListener('resize', check)
     return () => window.removeEventListener('resize', check)
+  }, [])
+
+  // 최초 1분 후 자동 노출 (모바일, 세션 내 최초 1회)
+  useEffect(() => {
+    if (!isMobile.current) return
+    if (sessionStorage.getItem(FIRST_SHOWN_KEY)) return
+
+    firstTimerRef.current = setTimeout(() => {
+      // 다시 한번 모바일 체크 (창 크기 변경 대비)
+      if (!isMobile.current) return
+      if (sessionStorage.getItem(FIRST_SHOWN_KEY)) return
+
+      const sessionCount = parseInt(sessionStorage.getItem(SESSION_KEY) || '0', 10)
+      if (sessionCount >= MAX_PER_SESSION) return
+
+      sessionStorage.setItem(FIRST_SHOWN_KEY, '1')
+      adPushed.current = false
+      setVisible(true)
+      sessionStorage.setItem(SESSION_KEY, String(sessionCount + 1))
+    }, 60000)
+
+    return () => {
+      if (firstTimerRef.current) clearTimeout(firstTimerRef.current)
+    }
   }, [])
 
   // 광고 AdSense push
@@ -92,24 +118,32 @@ export default function Interstitial() {
   if (!visible) return null
 
   return (
-    <div style={{
-      position: 'fixed',
-      inset: 0,
-      zIndex: 9999,
-      display: 'flex',
-      alignItems: 'center',
-      justifyContent: 'center',
-      background: 'rgba(0,0,0,0.85)',
-    }}>
-      <div style={{
-        position: 'relative',
-        background: '#111',
-        borderRadius: 16,
-        padding: '24px 20px 20px',
-        width: 'min(360px, 92vw)',
-        boxShadow: '0 8px 40px rgba(0,0,0,0.6)',
-        textAlign: 'center',
-      }}>
+    <div
+      onClick={handleClose}
+      style={{
+        position: 'fixed',
+        inset: 0,
+        zIndex: 9999,
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        background: 'rgba(0,0,0,0.85)',
+        cursor: 'pointer',
+      }}
+    >
+      <div
+        onClick={e => e.stopPropagation()}
+        style={{
+          position: 'relative',
+          background: '#111',
+          borderRadius: 16,
+          padding: '24px 20px 20px',
+          width: 'min(360px, 92vw)',
+          boxShadow: '0 8px 40px rgba(0,0,0,0.6)',
+          textAlign: 'center',
+          cursor: 'default',
+        }}
+      >
         {/* 닫기 버튼 */}
         <button
           onClick={handleClose}
