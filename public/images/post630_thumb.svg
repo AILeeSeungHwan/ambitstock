@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg630" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#b71c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg630)"/>
+  <text x="600" y="220" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="72" font-weight="900" fill="#ffffff">추락의 해부</text>
+  <text x="600" y="310" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="36" font-weight="400" fill="#ffcdd2">Anatomy of a Fall</text>
+  <text x="600" y="400" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="32" font-weight="700" fill="#ffd54f">칸 황금종려상 · RT 96% · 아카데미 각본상</text>
+  <text x="600" y="470" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="28" font-weight="400" fill="rgba(255,255,255,0.7)">넷플릭스 4/4 공개 · 산드라 휠러 주연</text>
+  <text x="600" y="560" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="22" fill="rgba(255,255,255,0.5)">R의 필름공장 · ambitstock.com</text>
+</svg>

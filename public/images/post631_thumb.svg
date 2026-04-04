@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg631" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00897b"/>
+      <stop offset="100%" style="stop-color:#004d40"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg631)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="60" font-weight="900" fill="#ffffff">명탐정 코난</text>
+  <text x="600" y="290" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="56" font-weight="900" fill="#ffd54f">하이웨이의 타천사</text>
+  <text x="600" y="380" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="32" font-weight="700" fill="rgba(255,255,255,0.9)">29번째 극장판 · 4월 10일 한일 동시 개봉</text>
+  <text x="600" y="450" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="28" font-weight="400" fill="rgba(255,255,255,0.7)">경찰학교 조 하기와라 치하야 중심 · 요코하마 고속도로 액션</text>
+  <text x="600" y="560" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="22" fill="rgba(255,255,255,0.5)">R의 필름공장 · ambitstock.com</text>
+</svg>
