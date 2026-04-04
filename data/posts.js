@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 629,
+    slug: 'agent-from-above-netflix-taiwan-fantasy-review-2026',
+    title: '접신: 신이 내린 자 넷플릭스 리뷰 — 대만 영매 퇴마극, 커거우의 재기와 CGI의 한계 사이',
+    description: '접신: 신이 내린 자(Agent from Above) 넷플릭스 리뷰. 대만 민간 신앙 영매 문화 기반 판타지 액션 8회 완결. 커거우(柯震東) 주연, MyDramaList 7.9점. 삼태자를 모시는 영매 한제의 퇴마 액션과 속죄 서사. 추천 대상과 호불호 포인트 정리.',
+    category: '드라마',
+    date: '2026-04-04',
+    tags: ['리뷰', '접신', 'AgentFromAbove', '넷플릭스', '대만드라마', '커거우', '판타지', '퇴마', '삼태자', '4월신작'],
+    thumbnail: '/images/post629_thumb.svg',
+    relatedSlugs: [
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'girigo-netflix-ya-horror-april-2026-if-wishes-could-kill',
+      'bloodhounds-season2-review-netflix-1st-action-upgrade-2026',
+      'tving-april-2026-new-drama-guide-yumis-cells-scarecrow'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'light'
+  },
+  {
     id: 628,
     slug: 'girigo-netflix-ya-horror-april-2026-if-wishes-could-kill',
     title: '기리고 사전 정보 총정리 — 넷플릭스 최초 한국 YA 호러, 4월 24일 공개, 킹덤 감독의 새 실험',

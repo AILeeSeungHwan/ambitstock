@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#004d40"/>
+      <stop offset="50%" style="stop-color:#00695c"/>
+      <stop offset="100%" style="stop-color:#00897b"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="40" width="1080" height="550" rx="16" fill="rgba(0,0,0,0.2)"/>
+  <text x="600" y="180" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="28" fill="#80cbc4" font-weight="500" filter="url(#shadow)">NETFLIX 대만 판타지 액션</text>
+  <text x="600" y="280" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="72" fill="#ffffff" font-weight="900" filter="url(#shadow)">접신: 신이 내린 자</text>
+  <text x="600" y="360" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="36" fill="#ffeb3b" font-weight="700" filter="url(#shadow)">Agent from Above 리뷰</text>
+  <text x="600" y="430" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="24" fill="#b2dfdb">커거우 주연 · 8회 완결 · 대만 영매 퇴마극</text>
+  <text x="600" y="540" text-anchor="middle" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif" font-size="20" fill="rgba(255,255,255,0.5)">ambitstock.com</text>
+</svg>
