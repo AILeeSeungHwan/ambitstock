@@ -5,10 +5,11 @@ const KEY_AUTO = 'interstitial_auto_last'
 const COOLDOWN_LINK = 2 * 60 * 1000   // 2분
 const COOLDOWN_AUTO  = 5 * 60 * 1000  // 5분
 const AUTO_DELAY     = 60 * 1000      // 1분
+const COUNTDOWN_SEC  = 3
 
 export default function Interstitial() {
   const [visible, setVisible] = useState(false)
-  const [countdown, setCountdown] = useState(5)
+  const [countdown, setCountdown] = useState(COUNTDOWN_SEC)
   const pendingHref = useRef(null)
   const adPushed = useRef(false)
   const timerRef = useRef(null)
@@ -18,7 +19,7 @@ export default function Interstitial() {
   const openAd = (href = null) => {
     pendingHref.current = href
     adPushed.current = false
-    setCountdown(5)
+    setCountdown(COUNTDOWN_SEC)
     setVisible(true)
   }
 
@@ -105,20 +106,19 @@ export default function Interstitial() {
     }
   }, [visible])
 
-  /* ── 5초 카운트다운 자동 닫기 ── */
+  /* ── 3초 카운트다운 자동 닫기 ── */
   useEffect(() => {
     if (!visible) {
-      setCountdown(5)
+      setCountdown(COUNTDOWN_SEC)
       if (timerRef.current) clearInterval(timerRef.current)
       return
     }
 
-    setCountdown(5)
+    setCountdown(COUNTDOWN_SEC)
     timerRef.current = setInterval(() => {
       setCountdown(prev => {
         if (prev <= 1) {
           clearInterval(timerRef.current)
-          // pendingHref는 closeAd 내부에서 처리
           closeAd()
           return 0
         }
@@ -132,103 +132,97 @@ export default function Interstitial() {
   if (!visible) return null
 
   return (
-    <div
-      onClick={closeAd}
-      style={{
-        position: 'fixed',
-        inset: 0,
-        zIndex: 9999,
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        background: 'rgba(0,0,0,0.85)',
-        cursor: 'pointer',
-      }}
-    >
+    <>
+      <style>{`
+        .interstitial-box {
+          position: relative;
+          background: #111;
+          border-radius: 16px;
+          width: 70vw;
+          height: 70vh;
+          box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          overflow: hidden;
+        }
+        @media (max-width: 768px) {
+          .interstitial-box {
+            width: 90vw;
+            height: 90vh;
+          }
+        }
+      `}</style>
       <div
-        onClick={e => e.stopPropagation()}
         style={{
-          position: 'relative',
-          background: '#111',
-          borderRadius: 16,
-          padding: '24px 20px 20px',
-          width: 'min(380px, 92vw)',
-          boxShadow: '0 8px 40px rgba(0,0,0,0.6)',
-          textAlign: 'center',
-          cursor: 'default',
+          position: 'fixed',
+          inset: 0,
+          zIndex: 9999,
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          background: 'rgba(0,0,0,0.85)',
         }}
       >
-        {/* 닫기 X 버튼 */}
-        <button
-          onClick={closeAd}
-          aria-label="광고 닫기"
-          style={{
-            position: 'absolute',
-            top: 10,
-            right: 12,
-            background: 'none',
-            border: 'none',
-            color: '#fff',
-            fontSize: 22,
-            cursor: 'pointer',
-            lineHeight: 1,
-            opacity: 0.8,
-            padding: '0 4px',
-          }}
-        >
-          ✕
-        </button>
+        <div className="interstitial-box">
+          {/* 닫기 버튼 — 우상단, 소형 원형 */}
+          <button
+            onClick={closeAd}
+            aria-label="광고 닫기"
+            style={{
+              position: 'absolute',
+              top: 10,
+              right: 10,
+              width: 24,
+              height: 24,
+              borderRadius: '50%',
+              background: 'rgba(0,0,0,0.3)',
+              border: 'none',
+              color: '#fff',
+              fontSize: 14,
+              cursor: 'pointer',
+              lineHeight: '24px',
+              textAlign: 'center',
+              padding: 0,
+              zIndex: 1,
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+            }}
+          >
+            {countdown > 0 ? countdown : '✕'}
+          </button>
 
-        {/* 카운트다운 */}
-        <p style={{
-          fontSize: 11,
-          color: '#aaa',
-          margin: '0 0 14px',
-          letterSpacing: '0.05em',
-        }}>
-          {countdown > 0 ? `${countdown}초 후 자동 닫힘` : '닫는 중...'}
-        </p>
-
-        {/* 광고 영역 */}
-        {process.env.NODE_ENV === 'production' ? (
-          <ins
-            className="adsbygoogle"
-            style={{ display: 'block', minHeight: 250 }}
-            data-ad-client="ca-pub-8640254349508671"
-            data-ad-slot="6297515693"
-            data-ad-format="auto"
-            data-full-width-responsive="true"
-          />
-        ) : (
-          <div style={{
-            background: '#222',
-            border: '2px dashed #555',
-            borderRadius: 8,
-            padding: '40px 20px',
-            color: '#888',
-            fontSize: 13,
-          }}>
-            [전면 광고 영역]<br />
-            <span style={{ fontSize: 11, opacity: 0.6 }}>slot: 6297515693</span>
-          </div>
-        )}
-
-        {/* 건너뛰기 */}
-        <button
-          onClick={closeAd}
-          style={{
-            marginTop: 14,
-            background: 'none',
-            border: 'none',
-            color: '#888',
-            fontSize: 12,
-            cursor: 'pointer',
-            textDecoration: 'underline',
-          }}
-        >
-          건너뛰기
-        </button>
+          {/* 광고 영역 — 100% × 100% */}
+          {process.env.NODE_ENV === 'production' ? (
+            <ins
+              className="adsbygoogle"
+              style={{ display: 'block', width: '100%', height: '100%' }}
+              data-ad-client="ca-pub-8640254349508671"
+              data-ad-slot="6297515693"
+              data-ad-format="auto"
+              data-full-width-responsive="true"
+            />
+          ) : (
+            <div style={{
+              width: '100%',
+              height: '100%',
+              background: '#222',
+              border: '2px dashed #555',
+              borderRadius: 8,
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              color: '#888',
+              fontSize: 13,
+            }}>
+              [전면 광고 영역]<br />
+              <span style={{ fontSize: 11, opacity: 0.6 }}>slot: 6297515693</span>
+            </div>
+          )}
+        </div>
       </div>
-    </div>
+    </>
   )
 }
