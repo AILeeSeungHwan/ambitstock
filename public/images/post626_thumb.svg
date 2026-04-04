@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="80" width="6" height="470" rx="3" fill="#e50914"/>
+  <text x="100" y="180" font-family="sans-serif" font-size="28" font-weight="400" fill="#e50914" letter-spacing="6">MARVEL SERIES GUIDE</text>
+  <text x="100" y="260" font-family="sans-serif" font-size="62" font-weight="800" fill="#ffffff">데어데블 시청순서</text>
+  <text x="100" y="340" font-family="sans-serif" font-size="62" font-weight="800" fill="#ffffff">완전 가이드</text>
+  <text x="100" y="410" font-family="sans-serif" font-size="30" font-weight="400" fill="#94a3b8">넷플릭스 시즌1~3 → 디펜더스 → 본어게인</text>
+  <text x="100" y="460" font-family="sans-serif" font-size="30" font-weight="400" fill="#94a3b8">입문자를 위한 필수·선택 작품 구분</text>
+  <rect x="100" y="500" width="180" height="40" rx="20" fill="#e50914"/>
+  <text x="190" y="527" font-family="sans-serif" font-size="18" font-weight="600" fill="#ffffff" text-anchor="middle">2026 최신판</text>
+  <text x="320" y="527" font-family="sans-serif" font-size="16" fill="#64748b">ambitstock.com</text>
+</svg>

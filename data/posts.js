@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 626,
+    slug: 'daredevil-complete-watch-order-guide-born-again-2026',
+    title: '데어데블 시청순서 완전 가이드 — 넷플릭스 시즌1~3부터 본어게인 시즌2까지, 필수·선택 구분',
+    description: '데어데블 시청순서 총정리. 넷플릭스 시즌1~3, 디펜더스, 퍼니셔, 에코, 본어게인 시즌1~2까지 필수·선택 구분과 3가지 시청 루트. RT 95% 본어게인 시즌2 입문 가이드.',
+    category: '마블',
+    date: '2026-04-04',
+    tags: ['데어데블', '데어데블시청순서', '본어게인', '본어게인시즌2', '마블', 'MCU', '디즈니플러스', '시청가이드', '찰리콕스', '킹핀'],
+    thumbnail: '/images/post626_thumb.svg',
+    relatedSlugs: [
+      'daredevil-born-again-season2-overseas-reaction-rt95-disney-2026',
+      'disney-plus-april-2026-new-releases-guide-maul-daredevil',
+      'avengers-doomsday-casting-27-team-analysis-2026'
+    ],
+    contentType: '시리즈가이드',
+    platform: '디즈니플러스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 625,
     slug: 'humint-overseas-reaction-netflix-global-1st-17countries-2026',
     title: '휴민트 해외반응 — 극장 198만 실패에서 넷플릭스 글로벌 1위 역주행, 17개국 정상의 비결',
