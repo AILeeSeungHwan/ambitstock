@@ -4,4 +4,4 @@ Disallow: /api/
 Disallow: /adminLee/
 
 Sitemap: https://ambitstock.com/sitemap.xml
-#DaumWebMasterTool:68965d6c91226c38d78d6451b58d979da7029567668911559a937b87d81c4463:syme3AzC5uKNew5UMrd/kA==
+#DaumWebMasterTool:34b5d40383c79b3e17a6226a888704c998a82c972059f8163c3be6638ab805d9:syme3AzC5uKNew5UMrd/kA==
