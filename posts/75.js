@@ -5,6 +5,7 @@ const post = {
       type: 'intro',
       html: '<p>“무슨 영화 볼까?” 고민될 때, 믿고 보는 기준이 하나 있죠. 저는 <b>이동진 평론가가 만점을 준 작품</b>들에서 먼저 고릅니다. 영화적 성취가 뚜렷하고, 다시 보면 더 깊어지는 영화들이 많거든요.</p><p>아래 리스트는 <span style=&quot;background-color: #01ff51;&quot;><b>지금 넷플릭스에서 시청 가능한 작품</b></span>들로만 추려 담았습니다. 각 영화는 간단 소개에 그치지 않고, 제가 보며 느꼈던 포인트와 <b>감상 팁</b>, <b>같이 보면 좋은 영화</b>도 덧붙였습니다. 주말 한 편, 혹은 몰아보기에 딱 좋은 라인업이에요.</p><p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>여러분의 ‘인생영화’도 댓글로 남겨주세요.</b></span></p><p style=&quot;text-align: center;&quot;><span style=&quot;background-color: #f3c000;&quot;><b>남겨주신 작품의 해외 평단 반응/평점을 정리해 추가로 올릴게요.</b></span></p>'
     },
+    { type: 'image', src: '/images/post75_img1.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     { type: 'toc' },
     { type: 'ad', slot: '6297515693', format: 'auto' },
     {
@@ -17,7 +18,7 @@ const post = {
       type: 'body',
       html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
-    { type: 'image', src: '/images/post75_img1.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post75_img2.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote style=&quot;color: inherit; text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\'; color: #781b33;&quot;>미칠 것 같은, 미치고 싶은,<span> </span><br>미쳐지지 않는,  미칠 수 없는.</br></span></b></blockquote>'
@@ -56,7 +57,7 @@ const post = {
       type: 'body',
       html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
-    { type: 'image', src: '/images/post75_img2.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post75_img3.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>현대문명의 허상을 조롱하는<br>통렬한 블랙코미디.</br></span></b></span></blockquote>'
@@ -95,7 +96,7 @@ const post = {
       type: 'body',
       html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
-    { type: 'image', src: '/images/post75_img3.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post75_img4.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #781b33;&quot;><b>서로를 응시하는 시선으로</b></span><br/><span style=&quot;color: #781b33;&quot;><b>선연하게 타오르는,</b></span><br/><span style=&quot;color: #781b33;&quot;><b>영화 자체가 아름다운 불꽃같다.</b></span></span></blockquote>'
@@ -135,7 +136,7 @@ const post = {
       type: 'body',
       html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
-    { type: 'image', src: '/images/post75_img4.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post75_img5.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><span style=&quot;color: #781b33;&quot;><b>J.K.시몬즈의 명연조차<span> </span></b></span><br/><span style=&quot;color: #781b33;&quot;><b>이 영화의 탁월한 성취 중 일부분일 뿐.</b></span></span></blockquote>'
@@ -174,7 +175,7 @@ const post = {
       type: 'body',
       html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
-    { type: 'image', src: '/images/post75_img5.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post75_img6.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote style=&quot;color: inherit; text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>한국영화계가<span> </span><br/>2003년을 자꾸 되돌아보는<span> </span><br/>가장 큰 이유.</span></b></blockquote>'
@@ -209,7 +210,7 @@ const post = {
       type: 'body',
       html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
-    { type: 'image', src: '/images/post75_img6.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post75_img7.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote style=&quot;color: inherit; text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>천의무봉.<span> </span><br/>보이지 않는 실의 역학.</span></b></blockquote>'
@@ -240,7 +241,7 @@ const post = {
       type: 'body',
       html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
-    { type: 'image', src: '/images/post75_img7.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post75_img8.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote style=&quot;color: inherit; text-align: center;&quot;><span style=&quot;font-family: \'Noto Serif KR\';&quot;><b>인간의 굴레에 대한<span> </span></b><br/><b>요르고스 란티모스의<span> </span></b><br/><b>경이롭고도 몸서리쳐지는 신화.</b><br/></span></blockquote>'
@@ -271,7 +272,7 @@ const post = {
       type: 'body',
       html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
-    { type: 'image', src: '/images/post75_img8.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post75_img9.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote style=&quot;color: inherit; text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>마틴 스콜세지의 21세기 최고작.<span> </span><br/>위대한 영화인들이 모여<span> </span><br/>기대를 제대로 충족시킨다.</span></b></blockquote>'
@@ -302,7 +303,7 @@ const post = {
       type: 'body',
       html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
-    { type: 'image', src: '/images/post75_img9.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post75_img10.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote style=&quot;color: inherit; text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>파란색으로도 보이고<span> </span><br/>녹색으로도 보이는 그 옷처럼,<span> </span><br/>미결과 영원 사이에서 사무치도록.</span></b></blockquote>'
@@ -337,7 +338,7 @@ const post = {
       type: 'body',
       html: '<p><figure><figcaption>볼만한 넷플릭스 인생영화 추천</figcaption> </figure> </p>'
     },
-    { type: 'image', src: '/images/post75_img10.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
+    { type: 'image', src: '/images/post75_img11.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<blockquote style=&quot;color: inherit; text-align: center;&quot;><b><span style=&quot;font-family: \'Noto Serif KR\';&quot;>특정한 시공간 속의 개인적 추억에<span> </span><br/>감동 넘치는 보편성의 날개를 달아준<span> </span><br/>기술, 예술, 마술.</span></b></blockquote>'
@@ -372,7 +373,6 @@ const post = {
       type: 'body',
       html: '<p>이 리스트는 ‘압도적인 합의’보다 <b>시간이 지나도 계속 이야기되는 작품</b>들로 채웠습니다. 넷플릭스 즐겨찾기에 하나씩 꽂아두고, 컨디션 따라 골라 보세요. 보다가 마음에 맞는 결을 발견하면, 같은 감독/배우의 다른 작품으로 자연스럽게 이어지는 것도 추천합니다.</p>'
     },
-    { type: 'image', src: '/images/post75_img11.jpg', alt: '넷플릭스 영화 추천 리스트', caption: 'ⓒ R의 필름공장' },
     {
       type: 'body',
       html: '<p>여러분의 인생영화도 댓글로 남겨 주세요. 다음 포스팅에서 해외 평단 반응과 수상 기록까지 묶어 더 탄탄하게 가져올게요.</p>'
