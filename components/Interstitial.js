@@ -1,56 +1,99 @@
 import { useEffect, useRef, useState } from 'react'
-import { useRouter } from 'next/router'
 
-const SESSION_KEY = 'interstitial_count'
-const PAGE_KEY = 'interstitial_page_count'
-const FIRST_SHOWN_KEY = 'interstitialFirstShown'
-const MAX_PER_SESSION = 3
-const EVERY_N_PAGES = 3
+const KEY_LINK = 'interstitial_link_last'
+const KEY_AUTO = 'interstitial_auto_last'
+const COOLDOWN_LINK = 2 * 60 * 1000   // 2분
+const COOLDOWN_AUTO  = 5 * 60 * 1000  // 5분
+const AUTO_DELAY     = 60 * 1000      // 1분
 
 export default function Interstitial() {
-  const router = useRouter()
   const [visible, setVisible] = useState(false)
   const [countdown, setCountdown] = useState(5)
-  const timerRef = useRef(null)
-  const firstTimerRef = useRef(null)
+  const pendingHref = useRef(null)
   const adPushed = useRef(false)
-  const isMobile = useRef(false)
+  const timerRef = useRef(null)
+  const autoTimerRef = useRef(null)
 
-  // 모바일 감지 (768px 이하)
-  useEffect(() => {
-    const check = () => {
-      isMobile.current = window.innerWidth <= 768
+  /* ── 광고 열기 ── */
+  const openAd = (href = null) => {
+    pendingHref.current = href
+    adPushed.current = false
+    setCountdown(5)
+    setVisible(true)
+  }
+
+  /* ── 광고 닫기 (href 이동 처리) ── */
+  const closeAd = () => {
+    if (timerRef.current) clearInterval(timerRef.current)
+    setVisible(false)
+    adPushed.current = false
+
+    const href = pendingHref.current
+    pendingHref.current = null
+    if (href) {
+      setTimeout(() => { window.location.href = href }, 0)
     }
-    check()
-    window.addEventListener('resize', check)
-    return () => window.removeEventListener('resize', check)
+  }
+
+  /* ── a 태그 클릭 가로채기 (capture phase) ── */
+  useEffect(() => {
+    const handleClick = (e) => {
+      const anchor = e.target.closest('a[href]')
+      if (!anchor) return
+
+      const href = anchor.getAttribute('href') || ''
+      // #, javascript:, 빈 href 제외
+      if (!href || href.startsWith('#') || href.startsWith('javascript:')) return
+
+      const now = Date.now()
+      const last = parseInt(sessionStorage.getItem(KEY_LINK) || '0', 10)
+      if (now - last < COOLDOWN_LINK) return  // 2분 쿨다운 중
+
+      // 링크 이동 막고 광고 표시
+      e.preventDefault()
+      e.stopPropagation()
+      sessionStorage.setItem(KEY_LINK, String(now))
+
+      // 절대 URL 정규화
+      let target = href
+      if (href.startsWith('/') || !href.includes('://')) {
+        try {
+          target = new URL(href, window.location.origin).href
+        } catch (_) {
+          target = href
+        }
+      }
+
+      openAd(target)
+    }
+
+    document.addEventListener('click', handleClick, true)
+    return () => document.removeEventListener('click', handleClick, true)
   }, [])
 
-  // 최초 1분 후 자동 노출 (모바일, 세션 내 최초 1회)
+  /* ── 1분 자동 노출 ── */
   useEffect(() => {
-    if (!isMobile.current) return
-    if (sessionStorage.getItem(FIRST_SHOWN_KEY)) return
+    const now = Date.now()
+    const lastAuto = parseInt(sessionStorage.getItem(KEY_AUTO) || '0', 10)
 
-    firstTimerRef.current = setTimeout(() => {
-      // 다시 한번 모바일 체크 (창 크기 변경 대비)
-      if (!isMobile.current) return
-      if (sessionStorage.getItem(FIRST_SHOWN_KEY)) return
+    // 이미 자동 노출됐으면 스킵
+    if (lastAuto > 0) return
 
-      const sessionCount = parseInt(sessionStorage.getItem(SESSION_KEY) || '0', 10)
-      if (sessionCount >= MAX_PER_SESSION) return
+    autoTimerRef.current = setTimeout(() => {
+      // 이미 자동 노출 기록 있으면 스킵 (다른 탭 등)
+      const check = parseInt(sessionStorage.getItem(KEY_AUTO) || '0', 10)
+      if (check > 0) return
 
-      sessionStorage.setItem(FIRST_SHOWN_KEY, '1')
-      adPushed.current = false
-      setVisible(true)
-      sessionStorage.setItem(SESSION_KEY, String(sessionCount + 1))
-    }, 60000)
+      sessionStorage.setItem(KEY_AUTO, String(Date.now()))
+      openAd(null)
+    }, AUTO_DELAY)
 
     return () => {
-      if (firstTimerRef.current) clearTimeout(firstTimerRef.current)
+      if (autoTimerRef.current) clearTimeout(autoTimerRef.current)
     }
   }, [])
 
-  // 광고 AdSense push
+  /* ── AdSense push ── */
   useEffect(() => {
     if (visible && !adPushed.current && process.env.NODE_ENV === 'production') {
       try {
@@ -62,64 +105,35 @@ export default function Interstitial() {
     }
   }, [visible])
 
-  // 카운트다운 자동닫힘
+  /* ── 5초 카운트다운 자동 닫기 ── */
   useEffect(() => {
     if (!visible) {
       setCountdown(5)
       if (timerRef.current) clearInterval(timerRef.current)
       return
     }
+
     setCountdown(5)
     timerRef.current = setInterval(() => {
       setCountdown(prev => {
         if (prev <= 1) {
           clearInterval(timerRef.current)
-          setVisible(false)
-          adPushed.current = false
+          // pendingHref는 closeAd 내부에서 처리
+          closeAd()
           return 0
         }
         return prev - 1
       })
     }, 1000)
+
     return () => clearInterval(timerRef.current)
   }, [visible])
-
-  // 라우트 변경 감지
-  useEffect(() => {
-    const handleRouteChange = () => {
-      if (!isMobile.current) return
-
-      // 세션 카운트 확인
-      const sessionCount = parseInt(sessionStorage.getItem(SESSION_KEY) || '0', 10)
-      if (sessionCount >= MAX_PER_SESSION) return
-
-      // 페이지 카운트 확인 (3페이지마다 1번)
-      const pageCount = parseInt(sessionStorage.getItem(PAGE_KEY) || '0', 10) + 1
-      sessionStorage.setItem(PAGE_KEY, String(pageCount))
-
-      if (pageCount % EVERY_N_PAGES !== 0) return
-
-      // 광고 표시
-      adPushed.current = false
-      setVisible(true)
-      sessionStorage.setItem(SESSION_KEY, String(sessionCount + 1))
-    }
-
-    router.events.on('routeChangeComplete', handleRouteChange)
-    return () => router.events.off('routeChangeComplete', handleRouteChange)
-  }, [router])
-
-  const handleClose = () => {
-    setVisible(false)
-    adPushed.current = false
-    if (timerRef.current) clearInterval(timerRef.current)
-  }
 
   if (!visible) return null
 
   return (
     <div
-      onClick={handleClose}
+      onClick={closeAd}
       style={{
         position: 'fixed',
         inset: 0,
@@ -138,15 +152,15 @@ export default function Interstitial() {
           background: '#111',
           borderRadius: 16,
           padding: '24px 20px 20px',
-          width: 'min(360px, 92vw)',
+          width: 'min(380px, 92vw)',
           boxShadow: '0 8px 40px rgba(0,0,0,0.6)',
           textAlign: 'center',
           cursor: 'default',
         }}
       >
-        {/* 닫기 버튼 */}
+        {/* 닫기 X 버튼 */}
         <button
-          onClick={handleClose}
+          onClick={closeAd}
           aria-label="광고 닫기"
           style={{
             position: 'absolute',
@@ -199,9 +213,9 @@ export default function Interstitial() {
           </div>
         )}
 
-        {/* 하단 닫기 텍스트 버튼 */}
+        {/* 건너뛰기 */}
         <button
-          onClick={handleClose}
+          onClick={closeAd}
           style={{
             marginTop: 14,
             background: 'none',
