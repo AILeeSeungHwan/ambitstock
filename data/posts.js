@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 628,
+    slug: 'girigo-netflix-ya-horror-april-2026-if-wishes-could-kill',
+    title: '기리고 사전 정보 총정리 — 넷플릭스 최초 한국 YA 호러, 4월 24일 공개, 킹덤 감독의 새 실험',
+    description: '기리고(If Wishes Could Kill) 넷플릭스 4월 24일 공개. 소원 앱 저주에 맞선 고등학생 5인의 사투. 전소영 강미나 백선호 주연, 박윤서 감독(킹덤 시즌2·무빙). 넷플릭스 최초 한국 YA 호러 시리즈.',
+    category: '드라마',
+    date: '2026-04-04',
+    tags: ['트렌드', '기리고', 'IfWishesCouldKill', '넷플릭스', 'YA호러', '전소영', '강미나', '백선호', '박윤서감독', '4월신작'],
+    thumbnail: '/images/post628_thumb.svg',
+    relatedSlugs: [
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'salmokji-horror-movie-april-2026-kimhyeyun-release-info',
+      'something-very-bad-ending-explained-curse-witness-rachel-2026',
+      'bloodhounds-season2-netflix-april-2026-rain-villain-preview'
+    ],
+    contentType: '가이드',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 627,
     slug: 'tving-april-2026-new-drama-guide-yumis-cells-scarecrow',
     title: '티빙 4월 신작 드라마 가이드 — 유미의 세포들3·허수아비·은밀한 감사, 취향별 시청 전략',

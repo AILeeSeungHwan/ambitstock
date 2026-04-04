@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0a0a"/>
+      <stop offset="50%" style="stop-color:#2d0000"/>
+      <stop offset="100%" style="stop-color:#0a0a1a"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Cracked phone screen effect -->
+  <line x1="600" y1="0" x2="650" y2="200" stroke="#e5091440" stroke-width="1"/>
+  <line x1="600" y1="0" x2="550" y2="180" stroke="#e5091430" stroke-width="1"/>
+  <line x1="650" y1="200" x2="700" y2="400" stroke="#e5091420" stroke-width="1"/>
+  <line x1="550" y1="180" x2="500" y2="350" stroke="#e5091420" stroke-width="1"/>
+  <!-- Netflix badge -->
+  <rect x="40" y="40" width="120" height="36" rx="4" fill="#e50914"/>
+  <text x="100" y="64" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">NETFLIX</text>
+  <!-- Genre badge -->
+  <rect x="170" y="40" width="200" height="36" rx="4" fill="none" stroke="#e50914" stroke-width="1.5"/>
+  <text x="270" y="64" font-family="Arial,sans-serif" font-size="14" fill="#e50914" text-anchor="middle">YA 호러 시리즈</text>
+  <!-- Main title -->
+  <text x="600" y="250" font-family="Arial,sans-serif" font-size="80" font-weight="bold" fill="#ffffff" text-anchor="middle" filter="url(#glow)">기리고</text>
+  <text x="600" y="310" font-family="Arial,sans-serif" font-size="28" fill="#e50914" text-anchor="middle">If Wishes Could Kill</text>
+  <!-- Subtitle -->
+  <text x="600" y="380" font-family="Arial,sans-serif" font-size="26" fill="#cccccc" text-anchor="middle">소원을 이뤄주는 앱, 대가는 죽음</text>
+  <!-- Cast -->
+  <text x="600" y="440" font-family="Arial,sans-serif" font-size="20" fill="#888888" text-anchor="middle">전소영 · 강미나 · 백선호 · 현우석 · 이효제</text>
+  <!-- Director -->
+  <text x="600" y="480" font-family="Arial,sans-serif" font-size="18" fill="#666666" text-anchor="middle">박윤서 감독 (킹덤 시즌2 · 무빙)</text>
+  <!-- Date -->
+  <rect x="475" y="520" width="250" height="44" rx="22" fill="#e50914"/>
+  <text x="600" y="548" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">4월 24일 공개</text>
+  <!-- Source -->
+  <text x="1160" y="610" font-family="Arial,sans-serif" font-size="12" fill="#444" text-anchor="end">ambitstock.com</text>
+</svg>
