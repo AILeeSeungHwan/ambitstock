@@ -698,8 +698,6 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
       {/* ─── 인기 콘텐츠 (탭 전환형) ─── */}
       <PopularTabSection categories={categories} byCategory={byCategory} handleCat={handleCat} />
 
-      <AdUnit slot="6297515693" format="auto" style={{ marginBottom: 48 }} />
-
       {/* ─── 하단 CTA ─── */}
       <section style={{
         textAlign: 'center', padding: '40px 20px',
