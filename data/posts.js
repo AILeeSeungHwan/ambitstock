@@ -1,5 +1,42 @@
 const posts = [
   {
+    id: 636,
+    slug: 'netflix-april-2026-week1-global-ranking-kcontent-dominance',
+    title: '넷플릭스 4월 첫째주 글로벌 순위 — XO키티 TV 1위, 사냥개들 2위, 휴민트 영화 1위, K콘텐츠 장악',
+    description: '넷플릭스 4월 첫째주 글로벌 순위 분석. FlixPatrol 기준 TV XO키티 시즌3 849p 1위, 사냥개들 시즌2 711p 2위, 영화 휴민트 403p 1위. K콘텐츠 TV·영화 동시 장악 구조와 추천 가이드.',
+    category: '드라마',
+    date: '2026-04-06',
+    tags: ['트렌드', '넷플릭스', '글로벌순위', 'TOP10', '엑스오키티', '사냥개들시즌2', '휴민트', 'K콘텐츠', '4월첫째주'],
+    thumbnail: '/images/post636_thumb.svg',
+    relatedSlugs: [
+      'humint-overseas-reaction-netflix-global-1st-17countries-2026',
+      'bloodhounds-season2-review-netflix-1st-action-upgrade-2026',
+      'xo-kitty-season3-netflix-april-2026-guide',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex'
+    ],
+    contentType: '트렌드',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 635,
+    slug: 'liar-game-anime-2026-april-madhouse-guide',
+    title: '라이어 게임 애니메이션 시청 가이드 — 매드하우스 제작, 원작 10년 만의 첫 애니화, 4월 7일 방영',
+    description: '라이어 게임 TV 애니메이션 시청 가이드. 매드하우스 제작, 크런치롤 4월 6일 전세계 스트리밍, TV 도쿄 4월 7일 첫방. 2쿨 연속 방영, 원작·실사 비교, 사전 지식·추천 대상 총정리.',
+    category: '애니메이션',
+    date: '2026-04-06',
+    tags: ['트렌드', '라이어게임', 'LIARGAME', '매드하우스', '크런치롤', '애니메이션', '심리전', '4월신작', '2026봄애니'],
+    thumbnail: '/images/post635_thumb.svg',
+    relatedSlugs: [
+      'spring-2026-anime-top7-must-watch-guide',
+      'one-piece-series-beginners-guide-watch-order-2026',
+      'star-wars-maul-shadow-lord-disneyplus-april-2026-guide'
+    ],
+    contentType: '가이드',
+    platform: '크런치롤',
+    spoilerLevel: 'none'
+  },
+  {
     id: 634,
     slug: 'bloodhounds-vs-beef-season2-netflix-april-2026-comparison',
     title: '사냥개들 시즌2 vs BEEF 시즌2 — 넷플릭스 4월 양대 시퀄, 취향별 선택 가이드',
