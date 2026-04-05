@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 634,
+    slug: 'bloodhounds-vs-beef-season2-netflix-april-2026-comparison',
+    title: '사냥개들 시즌2 vs BEEF 시즌2 — 넷플릭스 4월 양대 시퀄, 취향별 선택 가이드',
+    description: '사냥개들 시즌2와 BEEF(성난 사람들) 시즌2 비교. 넷플릭스 4월 3일·16일 공개 양대 시퀄의 장르, 캐스트, 시즌1 선행 여부, 취향별 추천 대상까지 직접 비교 정리.',
+    category: '드라마',
+    date: '2026-04-05',
+    tags: ['비교', '사냥개들시즌2', 'BEEF시즌2', '넷플릭스', '우도환', '오스카아이작', '캐리멀리건', '송강호', '4월신작', 'OTT추천'],
+    thumbnail: '/images/post634_thumb.svg',
+    relatedSlugs: [
+      'bloodhounds-season2-review-netflix-1st-action-upgrade-2026',
+      'beef-season2-netflix-april-2026-oscar-isaac-song-kangho',
+      'bloodhounds-season2-ending-explained-baekjeong-nis-season3-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex'
+    ],
+    contentType: '비교',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 633,
     slug: 'kkeutjang-susa-review-2026-baeseongwoo-buddy-crime-comedy',
     title: '끝장수사 리뷰 — 7년 묵힌 버디 수사물, 배성우가 먹여 살리는 97분',
