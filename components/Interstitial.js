@@ -5,12 +5,13 @@ const KEY_AUTO = 'interstitial_auto_last'
 const COOLDOWN_LINK = 2 * 60 * 1000   // 2분
 const COOLDOWN_AUTO  = 5 * 60 * 1000  // 5분
 const AUTO_DELAY     = 60 * 1000      // 1분
-const COUNTDOWN_SEC  = 3
+const COUNTDOWN_SEC  = 5
 
 export default function Interstitial() {
   const [visible, setVisible] = useState(false)
   const [countdown, setCountdown] = useState(COUNTDOWN_SEC)
   const pendingHref = useRef(null)
+  const pendingActionRef = useRef(null)  // summary 클릭 후 실행할 액션
   const adPushed = useRef(false)
   const timerRef = useRef(null)
   const autoTimerRef = useRef(null)
@@ -23,7 +24,7 @@ export default function Interstitial() {
     setVisible(true)
   }
 
-  /* ── 광고 닫기 (href 이동 처리) ── */
+  /* ── 광고 닫기 (href 이동 또는 pendingAction 처리) ── */
   const closeAd = () => {
     if (timerRef.current) clearInterval(timerRef.current)
     setVisible(false)
@@ -31,8 +32,14 @@ export default function Interstitial() {
 
     const href = pendingHref.current
     pendingHref.current = null
+
+    const action = pendingActionRef.current
+    pendingActionRef.current = null
+
     if (href) {
       setTimeout(() => { window.location.href = href }, 0)
+    } else if (action) {
+      setTimeout(action, 0)
     }
   }
 
@@ -70,6 +77,32 @@ export default function Interstitial() {
 
     document.addEventListener('click', handleClick, true)
     return () => document.removeEventListener('click', handleClick, true)
+  }, [])
+
+  /* ── summary(QnA) 클릭 가로채기 ── */
+  useEffect(() => {
+    const handleSummaryClick = (e) => {
+      const summary = e.target.closest('summary')
+      if (!summary) return
+
+      const now = Date.now()
+      const last = parseInt(sessionStorage.getItem(KEY_LINK) || '0', 10)
+      if (now - last < COOLDOWN_LINK) return  // 2분 쿨다운 중
+
+      // details 열기/닫기 동작을 막고 광고 표시 후 실행
+      e.preventDefault()
+      e.stopPropagation()
+      sessionStorage.setItem(KEY_LINK, String(now))
+
+      const details = summary.closest('details')
+      pendingActionRef.current = () => {
+        if (details) details.open = !details.open
+      }
+      openAd(null)
+    }
+
+    document.addEventListener('click', handleSummaryClick, true)
+    return () => document.removeEventListener('click', handleSummaryClick, true)
   }, [])
 
   /* ── 1분 자동 노출 ── */
@@ -165,7 +198,7 @@ export default function Interstitial() {
         }}
       >
         <div className="interstitial-box">
-          {/* 닫기 버튼 — 우상단, 소형 원형 */}
+          {/* 닫기 버튼 — 우상단, 소형 원형 (항상 클릭 가능) */}
           <button
             onClick={closeAd}
             aria-label="광고 닫기"
@@ -173,21 +206,22 @@ export default function Interstitial() {
               position: 'absolute',
               top: 10,
               right: 10,
-              width: 24,
-              height: 24,
+              width: 28,
+              height: 28,
               borderRadius: '50%',
-              background: 'rgba(0,0,0,0.3)',
-              border: 'none',
+              background: 'rgba(0,0,0,0.5)',
+              border: '1px solid rgba(255,255,255,0.3)',
               color: '#fff',
-              fontSize: 14,
+              fontSize: 13,
               cursor: 'pointer',
-              lineHeight: '24px',
+              lineHeight: '28px',
               textAlign: 'center',
               padding: 0,
-              zIndex: 1,
+              zIndex: 10,
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
+              pointerEvents: 'auto',
             }}
           >
             {countdown > 0 ? countdown : '✕'}
