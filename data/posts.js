@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 633,
+    slug: 'kkeutjang-susa-review-2026-baeseongwoo-buddy-crime-comedy',
+    title: '끝장수사 리뷰 — 7년 묵힌 버디 수사물, 배성우가 먹여 살리는 97분',
+    description: '끝장수사(구 출장수사) 2026년 4월 2일 개봉 리뷰. 배성우 정가람 윤경호 이솜 조한철 출연, 박철환 감독 첫 장편. 실화 모티브 버디 수사 코미디, 97분 러닝타임. 추천 대상과 호불호 포인트 정리.',
+    category: '영화추천',
+    date: '2026-04-05',
+    tags: ['트렌드', '끝장수사', '배성우', '정가람', '윤경호', '이솜', '한국영화', '수사물', '4월개봉', '극장'],
+    thumbnail: '/images/post633_thumb.svg',
+    relatedSlugs: [
+      'april-2026-theater-movies-top7-mario-prada-scream',
+      'king-and-the-man-1578-record-chase-2026',
+      'project-hail-mary-box-office-opening-trend-2026'
+    ],
+    contentType: '리뷰',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
     id: 632,
     slug: 'bloodhounds-season2-ending-explained-baekjeong-nis-season3-2026',
     title: '사냥개들 시즌2 결말 해석 — 백정은 죽지 않았다, 국정원 쿠키영상과 시즌3 떡밥 총정리',
