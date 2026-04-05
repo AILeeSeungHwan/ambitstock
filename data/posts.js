@@ -1,5 +1,56 @@
 const posts = [
   {
+    id: 632,
+    slug: 'bloodhounds-season2-ending-explained-baekjeong-nis-season3-2026',
+    title: '사냥개들 시즌2 결말 해석 — 백정은 죽지 않았다, 국정원 쿠키영상과 시즌3 떡밥 총정리',
+    description: '사냥개들 시즌2 결말 해석. 건우 vs 백정 최종 대결 분석, 백정의 위장 사망과 국정원 블랙 요원 최신형의 거래, 파이칫 차이차나 태국 마약 커넥션, 쿠키 영상 속 특전사 상사의 정체와 시즌3 떡밥 총정리.',
+    category: '드라마',
+    date: '2026-04-05',
+    tags: ['결말해석', '사냥개들', '사냥개들시즌2', '넷플릭스', '우도환', '이상이', '정지훈', '백정', '국정원', '시즌3'],
+    thumbnail: '/images/post632_thumb.svg',
+    relatedSlugs: [
+      'bloodhounds-season2-review-netflix-1st-action-upgrade-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'humint-ending-explained-parkgun-sacrifice-berlin-connection-2026'
+    ],
+    contentType: '해석',
+    platform: '넷플릭스',
+    spoilerLevel: 'heavy'
+  },
+  {
+    id: 631,
+    slug: 'detective-conan-highway-angels-april-2026-theater-guide',
+    title: '명탐정 코난: 하이웨이의 타천사 사전 정보 — 4월 10일 개봉, 경찰학교 조 하기와라 치하야 중심',
+    description: '명탐정 코난 극장판 29탄 하이웨이의 타천사 4월 10일 한일 동시 개봉. 경찰학교 조 하기와라 치하야 중심, 요코하마 고속도로 배경 액션 스릴러.',
+    category: '애니메이션',
+    date: '2026-04-05',
+    tags: ['트렌드', '명탐정코난', '하이웨이의타천사', '코난극장판', '애니메이션', '4월개봉', '하기와라치하야'],
+    thumbnail: '/images/post631_thumb.svg',
+    relatedSlugs: [
+      'april-2026-theater-movies-top7-mario-prada-scream'
+    ],
+    contentType: '트렌드',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 630,
+    slug: 'anatomy-of-a-fall-netflix-cannes-review-ending-2026',
+    title: '추락의 해부 넷플릭스 리뷰 — 칸 황금종려상 법정 스릴러, 산드라 휠러의 치밀한 연기',
+    description: '추락의 해부(Anatomy of a Fall) 넷플릭스 공개. 2023년 칸 영화제 황금종려상, 2024년 아카데미 각본상 수상작. 산드라 휠러 주연 법정 심리 스릴러.',
+    category: '영화추천',
+    date: '2026-04-05',
+    tags: ['리뷰', '추락의해부', 'AnatomyOfAFall', '넷플릭스', '칸영화제', '황금종려상', '산드라휠러', '법정스릴러'],
+    thumbnail: '/images/post630_thumb.svg',
+    relatedSlugs: [
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'humint-ending-explained-parkgun-sacrifice-berlin-connection-2026'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'light'
+  },
+  {
     id: 629,
     slug: 'agent-from-above-netflix-taiwan-fantasy-review-2026',
     title: '접신: 신이 내린 자 넷플릭스 리뷰 — 대만 영매 퇴마극, 커거우의 재기와 CGI의 한계 사이',

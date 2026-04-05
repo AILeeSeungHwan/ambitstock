@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="540" width="1200" height="90" fill="rgba(229,9,20,0.85)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="72" font-weight="900" fill="#ffffff" letter-spacing="-2">사냥개들 시즌2</text>
+  <text x="600" y="290" text-anchor="middle" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="56" font-weight="700" fill="#ffd54f" letter-spacing="-1">결말 해석</text>
+  <text x="600" y="380" text-anchor="middle" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="34" font-weight="400" fill="rgba(255,255,255,0.8)">백정은 죽지 않았다 — 국정원 쿠키영상과 시즌3 떡밥</text>
+  <text x="600" y="430" text-anchor="middle" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="28" font-weight="400" fill="rgba(255,255,255,0.5)">우도환 · 이상이 · 정지훈 | 넷플릭스 2026</text>
+  <text x="600" y="598" text-anchor="middle" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="26" font-weight="700" fill="#ffffff">R의 필름공장 — ambitstock.com</text>
+</svg>
