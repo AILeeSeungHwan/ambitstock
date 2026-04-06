@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 641,
+    slug: 'netflix-korean-thriller-movies-top7-hidden-gems-overseas-hit-2026',
+    title: '넷플릭스 한국 스릴러 영화 TOP 7 — 해외에서 먼저 반응 터진 숨은 명작, 주말 몰아보기 추천',
+    description: '넷플릭스에서 바로 볼 수 있는 한국 스릴러 영화 TOP 7. 파묘 RT 92%, 콘크리트 유토피아 RT 95%, 킬복순, 악인전, 발레리나, 콜, 잊혀진. 해외 평점 검증 숨은 명작 취향별 추천 가이드.',
+    category: '영화추천',
+    date: '2026-04-06',
+    tags: ['넷플릭스', '한국스릴러', '영화추천', 'TOP7', '파묘', '콘크리트유토피아', '킬복순', '악인전', '발레리나', '숨은명작'],
+    thumbnail: '/images/post641_thumb.svg',
+    relatedSlugs: [
+      'netflix-movie-recommend-alltime-top10-most-watched-2026',
+      'humint-netflix-april-2026-ryuseungwan-spy-thriller-review',
+      'korean-movies-overseas-reaction-history',
+      'netflix-horror-movie-recommend-alone-night'
+    ],
+    contentType: 'TOP추천',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 640,
     slug: 'devil-wears-prada-2-sequel-2026-meryl-streep-anne-hathaway-korea',
     title: '악마는 프라다를 입는다 2 — 20년만의 속편, 4/8 메릴 스트립·앤 해서웨이 한국 방문, 예고편 1.8억 뷰 화제 총정리',

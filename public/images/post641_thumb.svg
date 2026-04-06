@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="50%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e50914"/>
+      <stop offset="100%" style="stop-color:#ff6b6b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="280" width="120" height="4" fill="url(#accent)" rx="2"/>
+  <text x="60" y="240" font-family="'Noto Sans KR', sans-serif" font-size="72" font-weight="900" fill="#ffffff" letter-spacing="-2">넷플릭스 한국 스릴러</text>
+  <text x="60" y="340" font-family="'Noto Sans KR', sans-serif" font-size="86" font-weight="900" fill="url(#accent)" letter-spacing="-3">영화 TOP 7</text>
+  <text x="60" y="420" font-family="'Noto Sans KR', sans-serif" font-size="36" font-weight="400" fill="#aaaaaa">해외에서 먼저 반응 터진 숨은 명작</text>
+  <text x="60" y="470" font-family="'Noto Sans KR', sans-serif" font-size="28" font-weight="400" fill="#666666">RT 92%~95% | 파묘·콘크리트 유토피아·킬복순·악인전·발레리나·콜·잊혀진</text>
+  <text x="60" y="560" font-family="'Noto Sans KR', sans-serif" font-size="22" font-weight="400" fill="#444444">ambitstock.com | 2026.04</text>
+  <rect x="0" y="0" width="1200" height="6" fill="url(#accent)"/>
+</svg>
