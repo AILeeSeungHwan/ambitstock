@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 638,
+    slug: 'april-2026-week2-theater-ott-viewing-guide-wangsanam-salmokji-daegunbuin',
+    title: '4월 둘째주 극장+OTT 시청 가이드 — 왕사남 1600만 돌파, 살목지 개봉, 대군부인 D-4, 사냥개들·XO키티 글로벌 장악',
+    description: '4월 둘째주(4/7~13) 극장+OTT 시청 가이드. 왕사남 1600만 극한직업 추월 초읽기, 살목지 4/8 개봉, 21세기 대군부인 4/10 첫방, 사냥개들 시즌2 글로벌 2위, XO키티 시즌3 1위. 상황별 추천.',
+    category: '영화추천',
+    date: '2026-04-06',
+    tags: ['트렌드', '왕과사는남자', '살목지', '21세기대군부인', '사냥개들시즌2', 'XO키티', '스타워즈몰', '극장추천', 'OTT추천', '4월둘째주'],
+    thumbnail: '/images/post638_thumb.svg',
+    relatedSlugs: [
+      'king-and-man-1578-million-extreme-job-overtake-alltime-2nd-2026',
+      '21st-century-grand-princess-iu-byeonwooseok-mbc-april-2026',
+      'netflix-april-2026-week1-global-ranking-kcontent-dominance',
+      'bloodhounds-vs-beef-season2-netflix-april-2026-comparison'
+    ],
+    contentType: '트렌드',
+    platform: '멀티플랫폼',
+    spoilerLevel: 'none'
+  },
+  {
     id: 637,
     slug: 'kingdom-series-complete-watch-order-guide-season3-2026',
     title: '킹덤 시리즈 시청순서 완벽 가이드 — 시즌1~3 + 아신전, RT 98% 넷플릭스 K-좀비 사극 입문 정리',

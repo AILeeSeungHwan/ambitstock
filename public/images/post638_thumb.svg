@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#e50914"/>
+  <text x="600" y="180" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#e50914" font-weight="bold" letter-spacing="6">4월 둘째주 시청 가이드</text>
+  <text x="600" y="260" text-anchor="middle" font-family="sans-serif" font-size="52" fill="#ffffff" font-weight="bold">극장 + OTT 이번 주 뭐 볼까</text>
+  <text x="600" y="340" text-anchor="middle" font-family="sans-serif" font-size="34" fill="#ffd54f" font-weight="bold">왕사남 1600만 | 살목지 개봉 | 대군부인 D-4</text>
+  <text x="600" y="410" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#90caf9">사냥개들 시즌2 | XO키티 | 스타워즈 몰</text>
+  <line x1="400" y1="460" x2="800" y2="460" stroke="#e50914" stroke-width="2"/>
+  <text x="600" y="510" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#78909c">2026.04.07 ~ 04.13 | ambitstock.com</text>
+</svg>
