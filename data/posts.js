@@ -1,5 +1,43 @@
 const posts = [
   {
+    id: 643,
+    slug: 'salmokji-opening-day-guide-screenx-horror-review-2026',
+    title: '살목지 개봉 D-1 최종 관람 가이드 — 예매율 1위 왕사남 독주 깨트린 호러, 스크린X·4DX 추천, 시사 리뷰 총정리',
+    description: '살목지 4월 8일 개봉. 예매율 24.9% 전체 1위, 왕사남 48일 독주 종결. 시사 리뷰 호평, 스크린X vs 4DX vs 일반 포맷별 추천, 김혜윤·장다아·이종원 캐스팅 관전 포인트, 비슷한 작품 비교.',
+    category: '영화추천',
+    date: '2026-04-07',
+    tags: ['트렌드', '살목지', '김혜윤', '장다아', '이종원', '호러', '스크린X', '4DX', '4월개봉', '극장추천'],
+    thumbnail: '/images/post643_thumb.svg',
+    relatedSlugs: [
+      'salmokji-horror-movie-april-2026-kimhyeyun-release-info',
+      'april-2026-week2-theater-ott-viewing-guide-wangsanam-salmokji-daegunbuin',
+      'april-2026-theater-movies-top7-guide',
+      'netflix-korean-thriller-movies-top7-hidden-gems-overseas-hit-2026'
+    ],
+    contentType: '트렌드',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 642,
+    slug: 'bloodhounds-season2-overseas-reaction-global-85-countries-2026',
+    title: '사냥개들 시즌2 해외반응 총정리 — 공개 4일 만에 85개국 TOP 10, 12개국 1위, K-액션 글로벌 입증',
+    description: '사냥개들 시즌2 해외반응 총정리. FlixPatrol 기준 글로벌 2위, 85개국 TOP 10, 12개국 1위. 정지훈 악역 호평, 맨손 액션 해외 평가, 권역별 반응 온도차, 시즌1 vs 시즌2 성적 비교, 시즌3 전망.',
+    category: '해외반응후기',
+    date: '2026-04-07',
+    tags: ['트렌드', '사냥개들시즌2', '해외반응', '넷플릭스', '우도환', '이상이', '정지훈', '글로벌순위', 'K액션', 'FlixPatrol'],
+    thumbnail: '/images/post642_thumb.svg',
+    relatedSlugs: [
+      'bloodhounds-season2-review-netflix-1st-action-upgrade-2026',
+      'bloodhounds-season2-ending-explained-baekjeong-nis-season3-2026',
+      'bloodhounds-vs-beef-season2-netflix-april-2026-comparison',
+      'netflix-april-2026-week1-global-ranking-kcontent-dominance'
+    ],
+    contentType: '해외반응',
+    platform: '넷플릭스',
+    spoilerLevel: 'minor'
+  },
+  {
     id: 641,
     slug: 'netflix-korean-thriller-movies-top7-hidden-gems-overseas-hit-2026',
     title: '넷플릭스 한국 스릴러 영화 TOP 7 — 해외에서 먼저 반응 터진 숨은 명작, 주말 몰아보기 추천',
