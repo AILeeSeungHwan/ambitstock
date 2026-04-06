@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 637,
+    slug: 'kingdom-series-complete-watch-order-guide-season3-2026',
+    title: '킹덤 시리즈 시청순서 완벽 가이드 — 시즌1~3 + 아신전, RT 98% 넷플릭스 K-좀비 사극 입문 정리',
+    description: '킹덤 시리즈 시청순서 가이드. 시즌1(2019) 시즌2(2020) 아신전(2021) 공개순 추천, 시즌별 RT 평점과 핵심 정리, 2026 상반기 시즌3 사전 정보, 추천 대상과 호불호까지.',
+    category: '드라마',
+    date: '2026-04-06',
+    tags: ['킹덤', '킹덤시청순서', '넷플릭스', '시리즈가이드', '주지훈', '배두나', '전지현', '아신전', '킹덤시즌3', 'K좀비'],
+    thumbnail: '/images/post637_thumb.svg',
+    relatedSlugs: [
+      'girigo-netflix-ya-horror-april-2026-if-wishes-could-kill',
+      'korean-zombie-movies-dramas-top10',
+      'stranger-things-series-complete-guide-watch-order-2026'
+    ],
+    contentType: '시리즈가이드',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 636,
     slug: 'netflix-april-2026-week1-global-ranking-kcontent-dominance',
     title: '넷플릭스 4월 첫째주 글로벌 순위 — XO키티 TV 1위, 사냥개들 2위, 휴민트 영화 1위, K콘텐츠 장악',
