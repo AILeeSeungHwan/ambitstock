@@ -1,5 +1,22 @@
 const posts = [
   {
+    id: 640,
+    slug: 'devil-wears-prada-2-sequel-2026-meryl-streep-anne-hathaway-korea',
+    title: '악마는 프라다를 입는다 2 — 20년만의 속편, 4/8 메릴 스트립·앤 해서웨이 한국 방문, 예고편 1.8억 뷰 화제 총정리',
+    description: '악마는 프라다를 입는다 2(2026) 총정리. 메릴 스트립·앤 해서웨이·에밀리 블런트 전원 복귀, 예고편 24시간 1.8억 뷰, 4월 8일 한국 방문, 패션 트렌드 5가지, 관람 전 체크 포인트.',
+    category: '영화추천',
+    date: '2026-04-06',
+    tags: ['트렌드', '악마는프라다를입는다2', '메릴스트립', '앤해서웨이', '에밀리블런트', '속편', '패션영화', '4월개봉', '한국방문', '예고편'],
+    thumbnail: '/images/post640_thumb.svg',
+    relatedSlugs: [
+      'april-2026-week2-theater-ott-viewing-guide-wangsanam-salmokji-daegunbuin',
+      'netflix-april-2026-week1-global-ranking-kcontent-dominance'
+    ],
+    contentType: '트렌드',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
     id: 639,
     slug: 'grand-princess-vs-yumis-cells-season3-romance-comparison-april-2026',
     title: '21세기 대군부인 vs 유미의 세포들 시즌3 — 4월 둘째주 로맨스 양대산맥, 디즈니+ vs 티빙 취향별 선택 가이드',
