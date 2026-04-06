@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a1b9a"/>
+      <stop offset="100%" style="stop-color:#ad1457"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="sans-serif" font-size="58" font-weight="bold" fill="#ffffff">21세기 대군부인 vs 유미의 세포들3</text>
+  <text x="600" y="290" text-anchor="middle" font-family="sans-serif" font-size="38" fill="#f8bbd0">4월 둘째주 로맨스 양대산맥</text>
+  <text x="600" y="370" text-anchor="middle" font-family="sans-serif" font-size="32" fill="#ce93d8">디즈니+ vs 티빙 — 취향별 선택 가이드</text>
+  <text x="600" y="460" text-anchor="middle" font-family="sans-serif" font-size="26" fill="rgba(255,255,255,0.7)">아이유×변우석 vs 김고은×김재원</text>
+  <text x="600" y="560" text-anchor="middle" font-family="sans-serif" font-size="20" fill="rgba(255,255,255,0.5)">ambitstock.com · 2026.04</text>
+</svg>

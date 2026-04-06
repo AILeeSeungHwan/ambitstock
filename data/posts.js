@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 639,
+    slug: 'grand-princess-vs-yumis-cells-season3-romance-comparison-april-2026',
+    title: '21세기 대군부인 vs 유미의 세포들 시즌3 — 4월 둘째주 로맨스 양대산맥, 디즈니+ vs 티빙 취향별 선택 가이드',
+    description: '21세기 대군부인(4/10 디즈니+)과 유미의 세포들 시즌3(4/13 티빙) 직접 비교. 아이유×변우석 입헌군주제 로맨스 vs 김고은×김재원 세포 로맨스. 캐스트, 편수, 플랫폼, 톤, 취향별 선택 가이드.',
+    category: '드라마',
+    date: '2026-04-06',
+    tags: ['비교', '21세기대군부인', '유미의세포들시즌3', '아이유', '변우석', '김고은', '김재원', '디즈니플러스', '티빙', '4월로맨스'],
+    thumbnail: '/images/post639_thumb.svg',
+    relatedSlugs: [
+      '21st-century-grand-princess-iu-byeonwooseok-mbc-april-2026',
+      'yumis-cells-season3-kimgoeun-kimjaewon-tving-tvn-april-2026',
+      'tving-april-2026-new-drama-guide-yumis-cells-scarecrow',
+      'april-2026-week2-theater-ott-viewing-guide-wangsanam-salmokji-daegunbuin'
+    ],
+    contentType: '비교',
+    platform: '멀티플랫폼',
+    spoilerLevel: 'none'
+  },
+  {
     id: 638,
     slug: 'april-2026-week2-theater-ott-viewing-guide-wangsanam-salmokji-daegunbuin',
     title: '4월 둘째주 극장+OTT 시청 가이드 — 왕사남 1600만 돌파, 살목지 개봉, 대군부인 D-4, 사냥개들·XO키티 글로벌 장악',
