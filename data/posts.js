@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 647,
+    slug: 'goldland-disney-plus-park-boyoung-lee-kwangsoo-preview-guide-2026',
+    title: '골드랜드 사전 가이드 — 박보영×이광수 파격 변신, 공조 김성훈 감독 첫 시리즈, 디즈니+ 4/29',
+    description: '골드랜드 디즈니플러스 4월 29일 공개 사전 가이드. 박보영 세관원→욕망의 중심, 이광수 사이코패스 조폭 변신, 김성훈 감독(공조) 첫 시리즈, 황조윤 작가(광해). 1500억 금괴 욕망 스릴러, 10부작 캐릭터별 관전 포인트.',
+    category: '드라마',
+    date: '2026-04-07',
+    tags: ['트렌드', '골드랜드', '박보영', '이광수', '김성철', '이현욱', '디즈니플러스', '김성훈감독', '욕망스릴러', '4월신작'],
+    thumbnail: '/images/post647_thumb.svg',
+    relatedSlugs: [
+      'disney-plus-april-2026-new-releases-guide-maul-daredevil',
+      'humint-netflix-april-2026-ryuseungwan-spy-thriller-review',
+      'netflix-april-2026-week1-global-ranking-kcontent-dominance'
+    ],
+    contentType: '사전가이드',
+    platform: '디즈니플러스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 646,
     slug: 'star-wars-maul-shadow-lord-overseas-reaction-rt100-highest-rated-2026',
     title: '몰: 섀도우 로드 해외반응 — RT 100%, 스타워즈 역대 최고 평점 애니메이션의 칭찬과 우려',
