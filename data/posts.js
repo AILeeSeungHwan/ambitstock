@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 645,
+    slug: 'king-and-man-1600-million-n-time-viewing-record-chase-2026',
+    title: '왕과 사는 남자 1,600만 돌파 — N차 관람 8.2%가 만든 기적, 극한직업 추월까지 26만',
+    description: '왕과 사는 남자 1,600만 관객 돌파, 역대 3위 등극. CGV N차 관람 데이터 8.2%(3회 이상 3.0% 역대 공동 1위). 극한직업 추월 시나리오별 타이밍 전망, 명량 추격 가능성까지.',
+    category: '영화추천',
+    date: '2026-04-07',
+    tags: ['트렌드', '왕과사는남자', '1600만', 'N차관람', '극한직업', '명량', '역대흥행', '박스오피스', '유해진', '주지훈'],
+    thumbnail: '/images/post645_thumb.svg',
+    relatedSlugs: [
+      'king-and-man-1578-million-extreme-job-overtake-alltime-2nd-2026',
+      'king-and-man-ending-meaning-danjong-eomheungdo-2026',
+      'king-and-man-alltime-3rd-revenue-record-myeongryang-chase-2026',
+      'king-and-man-vs-humint-box-office-comparison-2026'
+    ],
+    contentType: '트렌드',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
     id: 644,
     slug: 'xo-kitty-season3-ending-qa-guide-minho-couples-2026',
     title: 'XO 키티 시즌3 결말 Q&A 해석 가이드 — 민호와 사귄 거야? 유니스 임신 진실, 라라 진 복귀, 시즌4까지 7문 7답',
