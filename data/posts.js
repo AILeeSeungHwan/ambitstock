@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 646,
+    slug: 'star-wars-maul-shadow-lord-overseas-reaction-rt100-highest-rated-2026',
+    title: '몰: 섀도우 로드 해외반응 — RT 100%, 스타워즈 역대 최고 평점 애니메이션의 칭찬과 우려',
+    description: '스타워즈 몰 섀도우 로드 해외반응 정리. 로튼토마토 100%(역대 스타워즈 최고), 관객 96%. 애니메이션 퀄리티 극찬, 버라이어티 "불균형하지만 유망", 시즌2 조기 확정, 클론전쟁 입문 러시까지.',
+    category: '애니메이션',
+    date: '2026-04-07',
+    tags: ['해외반응', '스타워즈', '몰섀도우로드', '다스몰', '디즈니플러스', '로튼토마토', '샘위트워', '데이브필로니', '애니메이션', 'RT100'],
+    thumbnail: '/images/post646_thumb.svg',
+    relatedSlugs: [
+      'star-wars-maul-shadow-lord-disneyplus-april-2026-guide',
+      'spring-2026-anime-top7-must-watch-guide',
+      'netflix-april-2026-week1-global-ranking-kcontent-dominance',
+      'liar-game-anime-2026-april-madhouse-guide'
+    ],
+    contentType: '해외반응',
+    platform: '디즈니플러스',
+    spoilerLevel: 'minor'
+  },
+  {
     id: 645,
     slug: 'king-and-man-1600-million-n-time-viewing-record-chase-2026',
     title: '왕과 사는 남자 1,600만 돌파 — N차 관람 8.2%가 만든 기적, 극한직업 추월까지 26만',
