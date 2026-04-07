@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 648,
+    slug: 'salmokji-ending-explained-suin-identity-water-ghost-loop-2026',
+    title: '살목지 결말 해석 — 수인은 살목지를 벗어났을까? 물귀신의 시간 고리와 놓치기 쉬운 복선 4가지',
+    description: '살목지 결말 해석. 수인(김혜윤)의 정체 의문, 기태(이종원)의 역할, 돌탑과 내비게이션의 뫼비우스 구조, 5년 전 방문과 현재의 모순까지. 시사회 리뷰 기반 복선 4가지 분석.',
+    category: '영화추천',
+    date: '2026-04-07',
+    tags: ['결말해석', '살목지', '김혜윤', '이종원', '장다아', '물귀신', '호러', '열린결말', '이상민감독', '스포일러'],
+    thumbnail: '/images/post648_thumb.svg',
+    relatedSlugs: [
+      'salmokji-opening-day-guide-screenx-horror-review-2026',
+      'salmokji-horror-movie-april-2026-kimhyeyun-release-info',
+      'horror-movies-recommend-2026-top10',
+      'undertone-a24-ending-explained-abyzou-horror-2026'
+    ],
+    contentType: '결말해석',
+    platform: '극장',
+    spoilerLevel: 'heavy'
+  },
+  {
     id: 647,
     slug: 'goldland-disney-plus-park-boyoung-lee-kwangsoo-preview-guide-2026',
     title: '골드랜드 사전 가이드 — 박보영×이광수 파격 변신, 공조 김성훈 감독 첫 시리즈, 디즈니+ 4/29',
