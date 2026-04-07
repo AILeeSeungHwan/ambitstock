@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 644,
+    slug: 'xo-kitty-season3-ending-qa-guide-minho-couples-2026',
+    title: 'XO 키티 시즌3 결말 Q&A 해석 가이드 — 민호와 사귄 거야? 유니스 임신 진실, 라라 진 복귀, 시즌4까지 7문 7답',
+    description: '엑스오 키티 시즌3 결말 해석 Q&A. 민호-키티 공식 커플 확정, 유니스 임신 오해의 진실(지원 것), 라나 콘도르 라라 진 복귀 이유, 커플별 엔딩, NYU 합격, 시즌4 전망까지 스포일러 7문 7답.',
+    category: '드라마',
+    date: '2026-04-07',
+    tags: ['Q&A해석', '엑스오키티', 'XOKitty', '시즌3', '넷플릭스', '민호', '유니스임신', '라라진', '결말해석', '시즌4'],
+    thumbnail: '/images/post644_thumb.svg',
+    relatedSlugs: [
+      'xo-kitty-season3-netflix-april-2026-guide',
+      'netflix-april-2026-week1-global-ranking-kcontent-dominance',
+      'bloodhounds-season2-ending-explained-baekjeong-nis-season3-2026',
+      'grand-princess-vs-yumis-cells-season3-romance-comparison-april-2026'
+    ],
+    contentType: 'Q&A해석',
+    platform: '넷플릭스',
+    spoilerLevel: 'heavy'
+  },
+  {
     id: 643,
     slug: 'salmokji-opening-day-guide-screenx-horror-review-2026',
     title: '살목지 개봉 D-1 최종 관람 가이드 — 예매율 1위 왕사남 독주 깨트린 호러, 스크린X·4DX 추천, 시사 리뷰 총정리',
