@@ -1,5 +1,41 @@
 const posts = [
   {
+    id: 650,
+    slug: 'super-mario-galaxy-movie-2026-review-box-office-rt42-audience89',
+    title: '슈퍼 마리오 갤럭시 영화 — 북미 1.3억 달러 오프닝, 평단 42% vs 관객 89%의 진실',
+    description: '슈퍼 마리오 갤럭시 영화 리뷰. 북미 첫 주말 1.3억 달러 2026년 최대 오프닝. 로튼토마토 비평 42% 관객 89% 온도차 분석. 요시 등장, 쿠파주니어, 한국 4/29 개봉 사전 가이드.',
+    category: '애니메이션',
+    date: '2026-04-08',
+    tags: ['트렌드', '슈퍼마리오', '갤럭시', '닌텐도', '애니메이션', '크리스프랫', '잭블랙', '브리라슨', '요시'],
+    thumbnail: '/images/post650_thumb.svg',
+    relatedSlugs: [
+      'spring-2026-theater-top5-sf-thriller-drama',
+      '2026-first-half-movies-theater-guide',
+      'spring-2026-anime-top7-must-watch-guide'
+    ],
+    contentType: '트렌드',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 649,
+    slug: 'ready-or-not-2-here-i-come-review-rt75-audience90-samara-weaving-2026',
+    title: '레디 오어 낫 2 리뷰 — RT 75% 관객 90%, 사마라 위빙의 피 묻은 속편은 볼 만한가',
+    description: '레디 오어 낫 2 히어 아이 컴 리뷰. 로튼토마토 75% 관객 90%. 사마라 위빙·캐서린 뉴턴·사라 미셸 겔러 출연. 전작과 달라진 점, 북미 오프닝 910만 달러, 호불호 포인트 정리.',
+    category: '영화추천',
+    date: '2026-04-08',
+    tags: ['트렌드', '레디오어낫2', '사마라위빙', '캐서린뉴턴', '사라미셸겔러', '호러코미디', '서바이벌', '로튼토마토'],
+    thumbnail: '/images/post649_thumb.svg',
+    relatedSlugs: [
+      'horror-movies-recommend-2026-top10',
+      'salmokji-ending-explained-suin-identity-water-ghost-loop-2026',
+      'undertone-a24-ending-explained-abyzou-horror-2026'
+    ],
+    contentType: '트렌드',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
     id: 648,
     slug: 'salmokji-ending-explained-suin-identity-water-ghost-loop-2026',
     title: '살목지 결말 해석 — 수인은 살목지를 벗어났을까? 물귀신의 시간 고리와 놓치기 쉬운 복선 4가지',

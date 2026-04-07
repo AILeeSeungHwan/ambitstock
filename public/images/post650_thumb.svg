@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a237e"/>
+      <stop offset="100%" style="stop-color:#000033"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" fill="#FFD700" font-family="sans-serif" font-size="68" font-weight="bold">슈퍼 마리오 갤럭시</text>
+  <text x="600" y="290" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="46" font-weight="bold">북미 1.3억 달러 오프닝</text>
+  <text x="600" y="370" text-anchor="middle" fill="#FF6B6B" font-family="sans-serif" font-size="38">평단 42% vs 관객 89%</text>
+  <text x="600" y="440" text-anchor="middle" fill="#cccccc" font-family="sans-serif" font-size="32">한국 4/29 개봉 — 가족 관객 필수 체크</text>
+  <text x="600" y="570" text-anchor="middle" fill="#888888" font-family="sans-serif" font-size="22">ambitstock.com · R의 필름공장</text>
+</svg>
