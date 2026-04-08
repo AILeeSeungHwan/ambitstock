@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 653,
+    slug: 'bugonia-overseas-reaction-save-green-planet-remake-rt87-oscar-netflix-2026',
+    title: '뷰고니아 해외반응 — 장준환 \'지구를 지켜라\' 리메이크, RT 87%인데 흥행 $33M? 오스카 4부문 노미네이트의 진실',
+    description: '뷰고니아(Bugonia) 해외반응 총정리. 장준환 감독 \'지구를 지켜라\' 할리우드 리메이크. 로튼토마토 87%, IMDB 7.4, 오스카 4부문 노미네이트(작품상·여우주연상). 엠마 스톤·제시 플레먼스 주연, 란티모스 감독. 극장 흥행 실패 vs 스트리밍 재평가, 4/26 넷플릭스 공개.',
+    category: '해외반응후기',
+    date: '2026-04-08',
+    tags: ['해외반응', '뷰고니아', 'Bugonia', '엠마스톤', '란티모스', '지구를지켜라', '장준환', '오스카', '로튼토마토', '넷플릭스'],
+    thumbnail: '/images/post653_thumb.svg',
+    relatedSlugs: [
+      'the-drama-a24-zendaya-pattinson-review-rt84-2026',
+      'korean-movies-overseas-reaction-history',
+      'netflix-movie-recommend-alltime-top10-most-watched-2026',
+      'spring-2026-theater-top5-sf-thriller-drama'
+    ],
+    contentType: '해외반응',
+    platform: '넷플릭스',
+    spoilerLevel: 'minor'
+  },
+  {
     id: 652,
     slug: 'xo-kitty-season3-overseas-reaction-review-bomb-rt35-netflix-2026',
     title: 'XO 키티 시즌3 해외반응 — 넷플릭스 글로벌 1위인데 RT 관객 35%? 리뷰 폭격 논란과 시즌4 전망',
