@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a"/>
+      <stop offset="50%" style="stop-color:#1b2838"/>
+      <stop offset="100%" style="stop-color:#1a237e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" font-family="'Noto Sans KR','Pretendard',sans-serif" font-size="72" font-weight="900" fill="#ffffff" letter-spacing="-2">휴민트 Q&amp;A 해석 가이드</text>
+  <text x="600" y="310" text-anchor="middle" font-family="'Noto Sans KR','Pretendard',sans-serif" font-size="38" font-weight="500" fill="#ffd54f">박정민 귓속말 · 표종성 행방 · 베를린 연결</text>
+  <text x="600" y="380" text-anchor="middle" font-family="'Noto Sans KR','Pretendard',sans-serif" font-size="30" font-weight="400" fill="rgba(255,255,255,0.7)">넷플릭스 글로벌 1위 · 스포일러 7문 7답</text>
+  <rect x="460" y="440" width="280" height="44" rx="22" fill="#e50914"/>
+  <text x="600" y="470" text-anchor="middle" font-family="'Noto Sans KR',sans-serif" font-size="20" font-weight="700" fill="#ffffff">R의 필름공장</text>
+</svg>

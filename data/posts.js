@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 651,
+    slug: 'humint-qa-guide-last-whisper-pyojongsung-berlin-netflix-2026',
+    title: '휴민트 Q&A 해석 가이드 — 박정민 귓속말의 정체, 표종성은 어디에, 넷플릭스 재감상 전 7문 7답',
+    description: '휴민트 Q&A 해석 가이드. 박건(박정민) 마지막 귓속말 내용 추측, 표종성(하정우) 미등장 이유, 감독이 말한 미성숙한 희생의 의미, 조 과장이 채선화에게 다가가지 않은 이유, 베를린 연결고리, 3편 가능성까지 스포일러 7문 7답.',
+    category: '영화추천',
+    date: '2026-04-08',
+    tags: ['Q&A해석', '휴민트', 'HUMINT', '류승완', '조인성', '박정민', '신세경', '베를린', '넷플릭스', '표종성'],
+    thumbnail: '/images/post651_thumb.svg',
+    relatedSlugs: [
+      'humint-ending-explained-parkgun-sacrifice-berlin-connection-2026',
+      'humint-overseas-reaction-netflix-global-1st-17countries-2026',
+      'humint-netflix-april-2026-ryuseungwan-spy-thriller-review',
+      'netflix-april-2026-week1-global-ranking-kcontent-dominance'
+    ],
+    contentType: 'Q&A해석',
+    platform: '넷플릭스',
+    spoilerLevel: 'heavy'
+  },
+  {
     id: 650,
     slug: 'super-mario-galaxy-movie-2026-review-box-office-rt42-audience89',
     title: '슈퍼 마리오 갤럭시 영화 — 북미 1.3억 달러 오프닝, 평단 42% vs 관객 89%의 진실',
