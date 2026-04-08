@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 652,
+    slug: 'xo-kitty-season3-overseas-reaction-review-bomb-rt35-netflix-2026',
+    title: 'XO 키티 시즌3 해외반응 — 넷플릭스 글로벌 1위인데 RT 관객 35%? 리뷰 폭격 논란과 시즌4 전망',
+    description: 'XO 키티 시즌3 해외반응 총정리. 넷플릭스 글로벌 1위 1290만 뷰, 로튼토마토 비평 75% vs 관객 35→59% 리뷰 폭격 논란. 민호 커플 찬반, MDL 8.6 vs RT 괴리, 시즌4 갱신 전망까지.',
+    category: '해외반응후기',
+    date: '2026-04-08',
+    tags: ['트렌드', '엑스오키티', 'XOKitty', '시즌3', '해외반응', '넷플릭스', '로튼토마토', '리뷰폭격', '시즌4', '글로벌1위'],
+    thumbnail: '/images/post652_thumb.svg',
+    relatedSlugs: [
+      'xo-kitty-season3-ending-qa-guide-minho-couples-2026',
+      'xo-kitty-season3-netflix-april-2026-guide',
+      'netflix-april-2026-week1-global-ranking-kcontent-dominance',
+      'bloodhounds-vs-beef-season2-netflix-april-2026-comparison'
+    ],
+    contentType: '해외반응',
+    platform: '넷플릭스',
+    spoilerLevel: 'light'
+  },
+  {
     id: 651,
     slug: 'humint-qa-guide-last-whisper-pyojongsung-berlin-netflix-2026',
     title: '휴민트 Q&A 해석 가이드 — 박정민 귓속말의 정체, 표종성은 어디에, 넷플릭스 재감상 전 7문 7답',
