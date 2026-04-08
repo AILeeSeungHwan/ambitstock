@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a"/>
+      <stop offset="50%" style="stop-color:#1b2838"/>
+      <stop offset="100%" style="stop-color:#e50914"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="58" font-weight="900" fill="#ffffff" letter-spacing="-1">4월 중·하순 OTT 신작</text>
+  <text x="600" y="280" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="52" font-weight="800" fill="#ffd54f" letter-spacing="-1">날짜별 시청 캘린더</text>
+  <text x="600" y="370" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="32" font-weight="500" fill="rgba(255,255,255,0.85)">BEEF 시즌2 · Apex · 기리고 · 골드랜드</text>
+  <text x="600" y="420" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="28" font-weight="400" fill="rgba(255,255,255,0.6)">넷플릭스 · 티빙 · 디즈니+</text>
+  <text x="600" y="530" text-anchor="middle" font-family="'Noto Sans KR', sans-serif" font-size="22" fill="rgba(255,255,255,0.4)">ambitstock.com · 2026.04</text>
+</svg>

@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 654,
+    slug: 'april-2026-mid-late-ott-calendar-beef2-apex-girigo-goldland',
+    title: '4월 중·하순 OTT 신작 캘린더 — BEEF 시즌2·Apex·기리고·골드랜드, 날짜별 시청 전략',
+    description: '2026년 4월 중순~하순 OTT 신작 날짜별 캘린더. 넷플릭스 BEEF 시즌2(4/16) 오스카 아이작·송강호, Apex(4/24) 샤를리즈 테론, 기리고(4/24) YA 호러, 기묘한 이야기 스핀오프(4/23). 티빙 유미의 세포들3·허수아비·은밀한 감사. 디즈니+ 골드랜드. 취향별 시청 전략.',
+    category: '영화추천',
+    date: '2026-04-08',
+    tags: ['OTT가이드', 'BEEF시즌2', 'Apex', '기리고', '골드랜드', '유미의세포들3', '넷플릭스', '티빙', '디즈니플러스', '4월신작'],
+    thumbnail: '/images/post654_thumb.svg',
+    relatedSlugs: [
+      'beef-season2-netflix-april-2026-oscar-isaac-song-kangho',
+      'girigo-netflix-ya-horror-april-2026-if-wishes-could-kill',
+      'tving-april-2026-new-drama-guide-yumis-cells-scarecrow',
+      'goldland-disney-plus-park-boyoung-lee-kwangsoo-preview-guide-2026'
+    ],
+    contentType: 'OTT가이드',
+    platform: '멀티플랫폼',
+    spoilerLevel: 'none'
+  },
+  {
     id: 653,
     slug: 'bugonia-overseas-reaction-save-green-planet-remake-rt87-oscar-netflix-2026',
     title: '뷰고니아 해외반응 — 장준환 \'지구를 지켜라\' 리메이크, RT 87%인데 흥행 $33M? 오스카 4부문 노미네이트의 진실',
