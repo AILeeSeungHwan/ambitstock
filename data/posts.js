@@ -10013,6 +10013,42 @@ const posts = [
     spoilerLevel: 'none'
   },
   {
+    id: 656,
+    slug: 'beef-season2-guide-netflix-april-2026',
+    title: '성난사람들2(BEEF) 완전 가이드 — 윤여정·송강호·오스카 아이작, 4월 16일 공개',
+    description: '성난사람들2 BEEF 시즌2 완전 가이드. 4월 16일 넷플릭스 공개. 윤여정·송강호 캐스팅 비화, 앤솔로지 형식 설명, 시즌1 안 봐도 되는 이유. 오스카 아이작·캐리 멀리건·찰스 멜튼·케일리 스페이니 출연.',
+    category: '드라마',
+    date: '2026-04-14',
+    tags: ['트렌드', '성난사람들2', 'BEEF', '넷플릭스', '윤여정', '송강호', '오스카아이작', '드라마'],
+    thumbnail: '/images/post656_thumb.svg',
+    relatedSlugs: [
+      'everyone-fighting-worthlessness-jtbc-april-2026-park-haeyoung',
+      'xo-kitty-season3-overseas-reaction-netflix-global-1st-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex'
+    ],
+    contentType: '트렌드',
+    platform: 'Netflix',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 657,
+    slug: 'king-with-me-2nd-place-1628-all-time-box-office-2026',
+    title: '왕과 사는 남자, 역대 흥행 2위 — 극한직업 추월 1,628만, 명량까지 133만',
+    description: '왕과사는남자 1628만 돌파, 극한직업(1626만) 추월 역대 2위 등극(4월 11일). 명량(1761만)과 133만 차이. 흥행 성공 5가지 요인 분석: 사극 권력 탈피·유해진 박지훈·설 연휴 전략·Z세대 SNS 바이럴·북미 흥행.',
+    category: '영화추천',
+    date: '2026-04-14',
+    tags: ['트렌드', '왕과사는남자', '한국영화', '박스오피스', '흥행', '유해진', '박지훈', '천만영화'],
+    thumbnail: '/images/post657_thumb.svg',
+    relatedSlugs: [
+      'king-and-man-1600-million-n-time-viewing-record-chase-2026',
+      'netflix-korean-thriller-movie-top7-2026',
+      'netflix-movie-recommend-2026-march'
+    ],
+    contentType: '트렌드',
+    platform: null,
+    spoilerLevel: 'none'
+  },
+  {
     id: 610,
     slug: 'everyone-fighting-worthlessness-jtbc-april-2026-park-haeyoung',
     title: '모두가 자신의 무가치함과 싸우고 있다 사전 정보 — 구교환·고윤정 JTBC 4월 18일, 박해영 작가 복귀작',

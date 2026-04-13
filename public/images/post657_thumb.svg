@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#1a73e8;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="6" height="630" fill="#f9d71c"/>
+  <text x="80" y="150" font-family="'Noto Sans KR', sans-serif" font-size="28" fill="#f9d71c" font-weight="600">한국 박스오피스 역대 2위 달성 — 2026. 4. 11</text>
+  <text x="80" y="265" font-family="'Noto Sans KR', sans-serif" font-size="74" fill="#ffffff" font-weight="800">왕과 사는 남자</text>
+  <text x="80" y="355" font-family="'Noto Sans KR', sans-serif" font-size="56" fill="#f9d71c" font-weight="700">1,628만 — 극한직업 추월</text>
+  <text x="80" y="440" font-family="'Noto Sans KR', sans-serif" font-size="36" fill="#bbdefb" font-weight="400">명량(1,761만)까지 133만 남았다</text>
+  <text x="80" y="505" font-family="'Noto Sans KR', sans-serif" font-size="30" fill="#90caf9" font-weight="400">유해진 · 박지훈 · 장항준 감독</text>
+  <text x="1120" y="600" font-family="'Noto Sans KR', sans-serif" font-size="22" fill="#9e9e9e" text-anchor="end">ambitstock.com</text>
+</svg>
