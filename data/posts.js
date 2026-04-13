@@ -9994,6 +9994,25 @@ const posts = [
     spoilerLevel: 'none'
   },
   {
+    id: 655,
+    slug: 'sinners-2025-overseas-reaction-oscar-4wins-rt97',
+    title: '시너스(Sinners) 해외반응 총정리 — RT 97%·오스카 4관왕, 아마존에서 지금 바로 볼 수 있다',
+    description: '시너스(Sinners, 2025) 해외반응 총정리. 로튼토마토 97%, 오스카 16개 후보 4관왕(남우주연·각본·촬영·음악상). 마이클 B. 조던 1인 2역, 레딧 관객 반응, 북미 $215M vs 해외 $69M 흥행 분석, Amazon Prime Video 스트리밍 정보.',
+    category: '해외반응후기',
+    date: '2026-04-13',
+    tags: ['해외 반응', '시너스', 'Sinners', '마이클B조던', '라이언쿠글러', '로튼 토마토', '오스카', '아마존프라임'],
+    thumbnail: '/images/post655_thumb.svg',
+    relatedSlugs: [
+      'scream-7-overseas-reaction-rt31-box-office-record-2026',
+      '98th-academy-awards-winners-ott-streaming-guide-2026',
+      'horror-movies-recommend-2026-top10',
+      'adolescence-netflix-overseas-reaction-rt100-emmy-2026'
+    ],
+    contentType: '해외반응',
+    platform: null,
+    spoilerLevel: 'none'
+  },
+  {
     id: 610,
     slug: 'everyone-fighting-worthlessness-jtbc-april-2026-park-haeyoung',
     title: '모두가 자신의 무가치함과 싸우고 있다 사전 정보 — 구교환·고윤정 JTBC 4월 18일, 박해영 작가 복귀작',
