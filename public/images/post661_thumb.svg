@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0a0a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#2d0a0a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a0e0e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e50914;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff5252;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="0" y="0" width="8" height="630" fill="url(#accent)" />
+  <rect x="0" y="540" width="1200" height="2" fill="#e50914" opacity="0.4" />
+  <text x="60" y="90" font-family="'Noto Sans KR', sans-serif" font-size="22" fill="#ff5252" font-weight="600" letter-spacing="3">Netflix · 2026년 4월 30일 전편 공개</text>
+  <text x="60" y="210" font-family="'Noto Sans KR', sans-serif" font-size="82" fill="#ffffff" font-weight="900">Man on Fire</text>
+  <text x="60" y="300" font-family="'Noto Sans KR', sans-serif" font-size="36" fill="#ff5252" font-weight="700">덴젤 워싱턴 영화와 뭐가 다른가?</text>
+  <text x="60" y="375" font-family="'Noto Sans KR', sans-serif" font-size="30" fill="#ef9a9a">야히아 압둘마틴 2세 주연 · 7부작 시리즈</text>
+  <rect x="60" y="420" width="520" height="4" fill="url(#accent)" rx="2" />
+  <text x="60" y="475" font-family="'Noto Sans KR', sans-serif" font-size="24" fill="#b71c1c">A.J. 퀴넬 원작 · 멕시코시티 현장 촬영 · 복수 액션 스릴러</text>
+  <text x="60" y="580" font-family="'Noto Sans KR', sans-serif" font-size="20" fill="#c62828">ambitstock.com</text>
+</svg>

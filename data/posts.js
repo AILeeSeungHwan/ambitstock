@@ -10101,6 +10101,42 @@ const posts = [
     contentType: '트렌드',
     platform: 'Netflix',
     spoilerLevel: 'none'
+  },
+  {
+    id: 660,
+    slug: 'heosooabi-ena-true-crime-park-haesoo-lee-chungjae-april-2026',
+    title: '허수아비 사전 정보 — 이춘재 33년 후, 박해수×이희준이 쫓는 진실 (ENA 4월 20일)',
+    description: '허수아비 ENA 4월 20일 첫방. 이춘재 연쇄살인 사건 소재. 살인의 추억 이후, 2019년 진범 자백 후의 이야기. 박해수(형사 강태주)·이희준(검사 차시영)·곽선영(기자 서지원). 1988년~2019년 교차 구성. 12부작.',
+    category: '드라마',
+    date: '2026-04-15',
+    tags: ['트렌드', '허수아비', 'ENA', '박해수', '이희준', '이춘재', '화성연쇄살인', '한국범죄스릴러', '4월드라마', '실화소재'],
+    thumbnail: '/images/post660_thumb.svg',
+    relatedSlugs: [
+      'everyone-fighting-worthlessness-jtbc-april-2026-park-haeyoung',
+      'tving-april-2026-new-drama-guide-yumis-cells-scarecrow',
+      '21st-century-grand-princess-iu-byeonwooseok-mbc-april-2026'
+    ],
+    contentType: '트렌드',
+    platform: 'ENA',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 661,
+    slug: 'man-on-fire-netflix-series-2026-yahya-preview-vs-denzel-washington',
+    title: 'Man on Fire 넷플릭스 시리즈 — 덴젤 워싱턴 영화와 뭐가 다른가? 야히아 압둘마틴 2세, 4월 30일',
+    description: 'Man on Fire 넷플릭스 4월 30일 전편 공개. 야히아 압둘마틴 2세 주연. 7부작. A.J. 퀴넬 원작. 2004년 덴젤 워싱턴 영화와의 차이 정리. 멕시코시티 배경, PTSD 특수부대원 복수극. 바비 카나베일·앨리스 브라가 출연.',
+    category: '영화추천',
+    date: '2026-04-15',
+    tags: ['트렌드', 'ManOnFire', '맨온파이어', '넷플릭스', '야히아압둘마틴', '바비카나베일', '액션스릴러', '복수극', '4월신작', '2026넷플릭스'],
+    thumbnail: '/images/post661_thumb.svg',
+    relatedSlugs: [
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'april-2026-mid-late-ott-calendar-beef2-apex-girigo-goldland',
+      'sinners-2025-overseas-reaction-oscar-4wins-rt97'
+    ],
+    contentType: '트렌드',
+    platform: 'Netflix',
+    spoilerLevel: 'none'
   }
 ]
 
