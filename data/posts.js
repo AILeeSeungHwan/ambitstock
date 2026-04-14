@@ -10083,6 +10083,24 @@ const posts = [
     contentType: '트렌드',
     platform: 'JTBC',
     spoilerLevel: 'none'
+  },
+  {
+    id: 659,
+    slug: 'apex-netflix-charlize-theron-survival-thriller-2026',
+    title: 'Apex 샤를리즈 테론 넷플릭스 생존 스릴러 — 4월 24일 공개 전 기대 포인트 총정리 (2026)',
+    description: 'Apex 2026 넷플릭스 4월 24일 공개. 샤를리즈 테론·태런 에저튼·에릭 바나. 발타자르 코르마쿠르 감독(에베레스트). 호주 야외 실제 촬영, 테론 직접 스턴트. 트레일러 분석, 비슷한 작품 비교, 볼 사람 안 맞을 사람 정리.',
+    category: '영화추천',
+    date: '2026-04-14',
+    tags: ['트렌드', 'Apex', '샤를리즈테론', '태런에저튼', '넷플릭스', '생존스릴러', '2026영화', '에릭바나'],
+    thumbnail: '/images/post659_thumb.svg',
+    relatedSlugs: [
+      'april-2026-mid-late-ott-calendar-beef2-apex-girigo-goldland',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'sinners-2025-overseas-reaction-oscar-4wins-rt97'
+    ],
+    contentType: '트렌드',
+    platform: 'Netflix',
+    spoilerLevel: 'none'
   }
 ]
 
