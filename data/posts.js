@@ -10049,6 +10049,24 @@ const posts = [
     spoilerLevel: 'none'
   },
   {
+    id: 658,
+    slug: '21st-century-grand-princess-rating-11-overseas-reaction-2026',
+    title: '21세기 대군부인 시청률 11% 돌파 & 해외반응 — 아이유×변우석 궁 2.0, 볼만한가?',
+    description: '21세기 대군부인 2회 시청률 11.1% 돌파(전국 9.5%). 아이유 변우석 MBC 금토 드라마. 동시간대 1위, 디즈니+ 글로벌 반응, 입헌군주제 세계관 논란, 궁(2006)과의 차이점 분석.',
+    category: '드라마',
+    date: '2026-04-14',
+    tags: ['트렌드', '21세기대군부인', '아이유', '변우석', 'MBC', '드라마시청률', '해외반응', '로맨스드라마'],
+    thumbnail: '/images/post658_thumb.svg',
+    relatedSlugs: [
+      '21st-century-grand-princess-iu-byeonwooseok-mbc-april-2026',
+      'grand-princess-vs-yumis-cells-season3-romance-comparison-april-2026',
+      'everyone-fighting-worthlessness-jtbc-april-2026-park-haeyoung'
+    ],
+    contentType: '트렌드',
+    platform: 'MBC',
+    spoilerLevel: 'none'
+  },
+  {
     id: 610,
     slug: 'everyone-fighting-worthlessness-jtbc-april-2026-park-haeyoung',
     title: '모두가 자신의 무가치함과 싸우고 있다 사전 정보 — 구교환·고윤정 JTBC 4월 18일, 박해영 작가 복귀작',

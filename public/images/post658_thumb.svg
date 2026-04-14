@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a0080;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6a1b9a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffcc02;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff9800;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="6" height="630" fill="url(#accent)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="12" fill="rgba(255,255,255,0.05)"/>
+  <!-- 왕관 아이콘 -->
+  <text x="600" y="160" font-family="serif" font-size="72" fill="#ffcc02" text-anchor="middle">👑</text>
+  <!-- 메인 제목 -->
+  <text x="600" y="260" font-family="'Noto Sans KR', sans-serif" font-size="72" font-weight="900" fill="#ffffff" text-anchor="middle">21세기 대군부인</text>
+  <!-- 배지 -->
+  <rect x="380" y="285" width="440" height="52" rx="26" fill="url(#accent)"/>
+  <text x="600" y="319" font-family="'Noto Sans KR', sans-serif" font-size="26" font-weight="700" fill="#1a0030" text-anchor="middle">시청률 11.1% 돌파 · 해외반응 분석</text>
+  <!-- 부제목 -->
+  <text x="600" y="400" font-family="'Noto Sans KR', sans-serif" font-size="38" fill="#e1b4f7" text-anchor="middle">아이유 × 변우석 · MBC · 2026</text>
+  <!-- 태그들 -->
+  <text x="600" y="460" font-family="'Noto Sans KR', sans-serif" font-size="26" fill="rgba(255,255,255,0.7)" text-anchor="middle">2회 만에 동시간대 1위 · 디즈니+ 글로벌 반응</text>
+  <!-- 사이트명 -->
+  <text x="600" y="530" font-family="'Noto Sans KR', sans-serif" font-size="22" fill="rgba(255,255,255,0.45)" text-anchor="middle">ambitstock.com — R의 필름공장</text>
+</svg>
