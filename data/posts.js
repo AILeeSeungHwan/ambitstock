@@ -10137,6 +10137,24 @@ const posts = [
     contentType: '트렌드',
     platform: 'Netflix',
     spoilerLevel: 'none'
+  },
+  {
+    id: 662,
+    slug: 'devil-wears-prada-2-career-movies-top7-ott-2026',
+    title: '악마는 프라다를 입는다 2 개봉 기념 — 직장·야망 영화 TOP 7 (OTT 포함)',
+    description: '악마는 프라다를 입는다 2 2026년 4월 29일 한국 전세계 최초 개봉. 메릴 스트립·앤 해서웨이 20년 만의 복귀 기념, 직장·야망을 다룬 영화 TOP 7 — 인턴, 삼진그룹 영어토익반, 소셜 네트워크, 에린 브로코비치, 줄리&줄리아, 더 포스트. OTT 시청 정보 포함.',
+    category: '영화추천',
+    date: '2026-04-15',
+    tags: ['악마는프라다를입는다2', '메릴스트립', '앤해서웨이', '직장영화추천', '야망영화', '넷플릭스추천', '삼진그룹영어토익반', '소셜네트워크', '에린브로코비치', 'OTT추천'],
+    thumbnail: '/images/post662_thumb.svg',
+    relatedSlugs: [
+      'netflix-korean-thriller-movies-top7-hidden-gems-overseas-hit-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      '21st-century-grand-princess-rating-11-overseas-reaction-2026'
+    ],
+    contentType: '추천',
+    platform: '극장/OTT',
+    spoilerLevel: 'none'
   }
 ]
 

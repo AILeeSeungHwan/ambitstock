@@ -1,0 +1,14 @@
+[
+  {
+    "post_id": 662,
+    "movies": [
+      {"query": "악마는 프라다를 입는다 영화", "max_images": 1},
+      {"query": "인턴 The Intern 2015 영화", "max_images": 1},
+      {"query": "삼진그룹 영어토익반 영화", "max_images": 1},
+      {"query": "위플래쉬 Whiplash 영화", "max_images": 1},
+      {"query": "에린 브로코비치 영화", "max_images": 1},
+      {"query": "줄리 앤 줄리아 Julie Julia 영화", "max_images": 1},
+      {"query": "더 포스트 The Post 2017 영화", "max_images": 1}
+    ]
+  }
+]
