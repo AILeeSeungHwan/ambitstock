@@ -10173,6 +10173,42 @@ const posts = [
     contentType: '트렌드',
     platform: 'Crunchyroll/Netflix',
     spoilerLevel: 'none'
+  },
+  {
+    id: 664,
+    slug: 'soldout-today-an-hyoseop-chae-wonbin-sbs-2026-preview',
+    title: '오늘도 매진했습니다 방영 D-6 — 안효섭×채원빈 SBS 로코, 4월 22일 전 체크 사항',
+    description: '오늘도 매진했습니다 4월 22일 SBS 수목 첫방. 안효섭(완벽주의 농부 매튜 리)×채원빈(완판주의 쇼호스트 담예진) 치유 로코. 채원빈 첫 로코 도전, 안종연 감독 연출, 12부작. 캐릭터 분석·기대 포인트·시청 가이드.',
+    category: '드라마',
+    date: '2026-04-16',
+    tags: ['트렌드', '오늘도매진했습니다', '안효섭', '채원빈', 'SBS드라마', '로코', '힐링드라마', '수목드라마', '2026봄드라마', '안종연감독'],
+    thumbnail: '/images/post664_thumb.svg',
+    relatedSlugs: [
+      'grand-princess-vs-yumis-cells-season3-romance-comparison-april-2026',
+      'april-2026-mid-late-ott-calendar-beef2-apex-girigo-goldland',
+      '21st-century-grand-princess-rating-11-overseas-reaction-2026'
+    ],
+    contentType: '트렌드',
+    platform: 'SBS/Netflix',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 665,
+    slug: '21st-century-grand-princess-iu-byeonwooseok-chemistry-2026',
+    title: '21세기 대군부인 아이유×변우석 케미 분석 — 달의연인 10년 후, 두 캐릭터가 왜 잘 맞는가',
+    description: '21세기 대군부인 아이유×변우석 케미 분석. 달의연인 2016년 이후 10년 만의 재결합. 성희주(아이유) 재벌·평민 캐릭터 매력, 이안대군(변우석) 왕자·빈자 캐릭터 해석, 입헌군주제 세계관 포인트, 궁(2006)과의 차이, 이런 사람에게 추천 가이드.',
+    category: '드라마',
+    date: '2026-04-16',
+    tags: ['트렌드', '21세기대군부인', '아이유', '변우석', '케미', '디즈니플러스', 'MBC', '달의연인', '입헌군주제', '로맨스드라마'],
+    thumbnail: '/images/post665_thumb.svg',
+    relatedSlugs: [
+      '21st-century-grand-princess-rating-11-overseas-reaction-2026',
+      'grand-princess-vs-yumis-cells-season3-romance-comparison-april-2026',
+      'soldout-today-an-hyoseop-chae-wonbin-sbs-2026-preview'
+    ],
+    contentType: '트렌드',
+    platform: 'Disney+/MBC',
+    spoilerLevel: 'none'
   }
 ]
 
