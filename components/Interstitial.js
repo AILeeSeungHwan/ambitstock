@@ -11,7 +11,7 @@ export default function Interstitial() {
   const [visible, setVisible] = useState(false)
   const [countdown, setCountdown] = useState(COUNTDOWN_SEC)
   const pendingHref = useRef(null)
-  const pendingActionRef = useRef(null)  // summary 클릭 후 실행할 액션
+  const pendingActionRef = useRef(null)
   const adPushed = useRef(false)
   const timerRef = useRef(null)
   const autoTimerRef = useRef(null)
@@ -24,7 +24,7 @@ export default function Interstitial() {
     setVisible(true)
   }
 
-  /* ── 광고 닫기 (href 이동 또는 pendingAction 처리) ── */
+  /* ── 광고 닫기 (X 클릭 시에만 호출) ── */
   const closeAd = () => {
     if (timerRef.current) clearInterval(timerRef.current)
     setVisible(false)
@@ -50,19 +50,16 @@ export default function Interstitial() {
       if (!anchor) return
 
       const href = anchor.getAttribute('href') || ''
-      // #, javascript:, 빈 href 제외
       if (!href || href.startsWith('#') || href.startsWith('javascript:')) return
 
       const now = Date.now()
       const last = parseInt(sessionStorage.getItem(KEY_LINK) || '0', 10)
-      if (now - last < COOLDOWN_LINK) return  // 2분 쿨다운 중
+      if (now - last < COOLDOWN_LINK) return
 
-      // 링크 이동 막고 광고 표시
       e.preventDefault()
       e.stopPropagation()
       sessionStorage.setItem(KEY_LINK, String(now))
 
-      // 절대 URL 정규화
       let target = href
       if (href.startsWith('/') || !href.includes('://')) {
         try {
@@ -87,9 +84,8 @@ export default function Interstitial() {
 
       const now = Date.now()
       const last = parseInt(sessionStorage.getItem(KEY_LINK) || '0', 10)
-      if (now - last < COOLDOWN_LINK) return  // 2분 쿨다운 중
+      if (now - last < COOLDOWN_LINK) return
 
-      // details 열기/닫기 동작을 막고 광고 표시 후 실행
       e.preventDefault()
       e.stopPropagation()
       sessionStorage.setItem(KEY_LINK, String(now))
@@ -109,12 +105,9 @@ export default function Interstitial() {
   useEffect(() => {
     const now = Date.now()
     const lastAuto = parseInt(sessionStorage.getItem(KEY_AUTO) || '0', 10)
-
-    // 이미 자동 노출됐으면 스킵
     if (lastAuto > 0) return
 
     autoTimerRef.current = setTimeout(() => {
-      // 이미 자동 노출 기록 있으면 스킵 (다른 탭 등)
       const check = parseInt(sessionStorage.getItem(KEY_AUTO) || '0', 10)
       if (check > 0) return
 
@@ -139,7 +132,7 @@ export default function Interstitial() {
     }
   }, [visible])
 
-  /* ── 3초 카운트다운 자동 닫기 ── */
+  /* ── 5초 카운트다운 — 0이 되면 X 버튼 활성화, 자동 닫기 없음 ── */
   useEffect(() => {
     if (!visible) {
       setCountdown(COUNTDOWN_SEC)
@@ -152,8 +145,7 @@ export default function Interstitial() {
       setCountdown(prev => {
         if (prev <= 1) {
           clearInterval(timerRef.current)
-          closeAd()
-          return 0
+          return 0  // X 버튼 활성화, 자동 닫기 없음
         }
         return prev - 1
       })
@@ -163,6 +155,8 @@ export default function Interstitial() {
   }, [visible])
 
   if (!visible) return null
+
+  const canClose = countdown <= 0
 
   return (
     <>
@@ -185,6 +179,40 @@ export default function Interstitial() {
             height: 90vh;
           }
         }
+        .interstitial-close-btn {
+          position: absolute;
+          top: 10px;
+          right: 10px;
+          width: 32px;
+          height: 32px;
+          border-radius: 50%;
+          border: 1.5px solid rgba(255,255,255,0.4);
+          color: #fff;
+          font-size: 14px;
+          line-height: 1;
+          text-align: center;
+          padding: 0;
+          z-index: 10;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          pointer-events: auto;
+          transition: background 0.2s, opacity 0.2s;
+        }
+        .interstitial-close-btn.waiting {
+          background: rgba(0,0,0,0.5);
+          cursor: default;
+          opacity: 0.7;
+        }
+        .interstitial-close-btn.ready {
+          background: rgba(229,9,20,0.85);
+          cursor: pointer;
+          opacity: 1;
+        }
+        .interstitial-close-btn.ready:hover {
+          background: rgba(229,9,20,1);
+          transform: scale(1.1);
+        }
       `}</style>
       <div
         style={{
@@ -198,36 +226,16 @@ export default function Interstitial() {
         }}
       >
         <div className="interstitial-box">
-          {/* 닫기 버튼 — 우상단, 소형 원형 (항상 클릭 가능) */}
+          {/* 닫기 버튼 — 5초 카운트다운 중에는 비활성, 이후 X 표시 */}
           <button
-            onClick={closeAd}
-            aria-label="광고 닫기"
-            style={{
-              position: 'absolute',
-              top: 10,
-              right: 10,
-              width: 28,
-              height: 28,
-              borderRadius: '50%',
-              background: 'rgba(0,0,0,0.5)',
-              border: '1px solid rgba(255,255,255,0.3)',
-              color: '#fff',
-              fontSize: 13,
-              cursor: 'pointer',
-              lineHeight: '28px',
-              textAlign: 'center',
-              padding: 0,
-              zIndex: 10,
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              pointerEvents: 'auto',
-            }}
+            onClick={canClose ? closeAd : undefined}
+            aria-label={canClose ? '광고 닫기' : `${countdown}초 후 닫기 가능`}
+            className={'interstitial-close-btn ' + (canClose ? 'ready' : 'waiting')}
           >
-            {countdown > 0 ? countdown : '✕'}
+            {canClose ? '✕' : countdown}
           </button>
 
-          {/* 광고 영역 — 100% × 100% */}
+          {/* 광고 영역 */}
           {process.env.NODE_ENV === 'production' ? (
             <ins
               className="adsbygoogle"
@@ -252,7 +260,10 @@ export default function Interstitial() {
               fontSize: 13,
             }}>
               [전면 광고 영역]<br />
-              <span style={{ fontSize: 11, opacity: 0.6 }}>slot: 6297515693</span>
+              <span style={{ fontSize: 11, opacity: 0.6 }}>slot: 6297515693</span><br />
+              <span style={{ fontSize: 11, marginTop: 8, color: canClose ? '#4caf50' : '#ff9800' }}>
+                {canClose ? '✕ 버튼 활성화됨' : `${countdown}초 후 닫기 가능`}
+              </span>
             </div>
           )}
         </div>
