@@ -10155,6 +10155,24 @@ const posts = [
     contentType: '추천',
     platform: '극장/OTT',
     spoilerLevel: 'none'
+  },
+  {
+    id: 663,
+    slug: 'crunchyroll-anime-awards-2026-nominees-dandadan-apothecary-vote',
+    title: '2026 크런치롤 애니메이션 어워즈 투표 오늘 마감 — 올해의 애니 단다단·약사의독백·귀멸 무한성 후보 총정리',
+    description: '2026 크런치롤 애니메이션 어워즈 투표 4월 15일 마감. 10회 시상식. 올해의 애니 후보 — 단다단 시즌2(20노미네이션)·약사의독백 시즌2(17)·가치아쿠타(16)·나의히어로아카데미아·히카루가죽은여름·타코피의원죄. 영화 후보 귀멸 무한성편·체인소맨 레제 아크. 시상식 5월 23일 도쿄.',
+    category: '애니메이션',
+    date: '2026-04-15',
+    tags: ['트렌드', '크런치롤어워즈', '단다단', '약사의독백', '귀멸의칼날', '가치아쿠타', '나의히어로아카데미아', '애니메이션어워즈', '2026봄애니', '솔로레벨링'],
+    thumbnail: '/images/post663_thumb.svg',
+    relatedSlugs: [
+      'spring-2026-anime-top7-must-watch-guide',
+      'liar-game-anime-2026-april-madhouse-guide',
+      'star-wars-maul-shadow-lord-overseas-reaction-rt100-highest-rated-2026'
+    ],
+    contentType: '트렌드',
+    platform: 'Crunchyroll/Netflix',
+    spoilerLevel: 'none'
   }
 ]
 
