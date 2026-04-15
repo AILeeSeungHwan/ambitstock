@@ -335,7 +335,9 @@ export default function PostPage({ meta, postData, related, internalLinks, simil
 
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: 8, margin: '0 0 8px' }}>
           <AdUnit slot="6297515693" format="auto" style={{ minWidth: 0 }} />
-          <AdUnit slot="6297515693" format="auto" style={{ minWidth: 0 }} />
+          <div className="top-ad-second-wrapper" style={{ minWidth: 0 }}>
+            <AdUnit slot="6297515693" format="auto" style={{ minWidth: 0 }} />
+          </div>
         </div>
 
         {renderSections(postData.sections, TOC)}
@@ -472,6 +474,9 @@ export default function PostPage({ meta, postData, related, internalLinks, simil
         @media (max-width: 768px) {
           article h1 { font-size: 24px !important; }
           article h2 { font-size: 18px !important; }
+        }
+        @media (max-width: 600px) {
+          .top-ad-second-wrapper { display: none !important; }
         }
       `}</style>
     </Layout>

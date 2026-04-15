@@ -450,12 +450,12 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
         }}>
           영화 · 드라마 · 애니 가이드
         </p>
-        <h1 style={{
+        <h1 className="hero-title" style={{
           fontSize: 34, fontWeight: 900, margin: '0 0 10px', lineHeight: 1.25,
           background: 'linear-gradient(135deg, var(--text-color, #1a1a2e), var(--primary-color, #e50914))',
           WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent',
         }}>
-          지금 볼 영화, 해석이 필요한 영화,{'\n'}반응이 궁금한 영화까지
+          지금 볼 영화, 해석이 필요한 영화,<br />반응이 궁금한 영화까지
         </h1>
         <p style={{ fontSize: 15, opacity: 0.5, margin: '0 0 24px', lineHeight: 1.6 }}>
           영화 추천 · 결말 해석 · 해외반응 · OTT 가이드를 한곳에서
@@ -733,41 +733,55 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
       </section>
 
       <style jsx global>{`
-        @media (max-width: 900px) {
-          .mood-grid { grid-template-columns: repeat(2, 1fr) !important; }
-          .filter-grid { grid-template-columns: repeat(2, 1fr) !important; }
-          .trending-grid { grid-template-columns: repeat(3, 1fr) !important; }
-          .ott-card-grid { grid-template-columns: repeat(2, 1fr) !important; }
-          .popular-grid { grid-template-columns: repeat(2, 1fr) !important; }
-          .top-works-grid { grid-template-columns: repeat(2, 1fr) !important; }
-        }
+        body { overflow-x: hidden; }
+
+        /* ─── Hero ─── */
         @media (max-width: 600px) {
-          .trending-grid { grid-template-columns: repeat(2, 1fr) !important; }
-          .filter-grid { grid-template-columns: 1fr !important; }
-          .ott-card-grid { grid-template-columns: 1fr !important; }
-          .popular-grid { grid-template-columns: 1fr !important; }
-          .top-works-grid { grid-template-columns: 1fr !important; }
+          .hero-title {
+            font-size: 24px !important;
+            -webkit-text-fill-color: var(--text-color, #1a1a2e) !important;
+            background: none !important;
+          }
         }
-        @media (max-width: 500px) {
-          .mood-grid { grid-template-columns: 1fr !important; }
+
+        /* ─── 900px ─── */
+        @media (max-width: 900px) {
+          .mood-grid       { grid-template-columns: repeat(2, 1fr) !important; }
+          .filter-grid     { grid-template-columns: repeat(2, 1fr) !important; }
+          .trending-grid   { grid-template-columns: repeat(3, 1fr) !important; }
+          .ott-card-grid   { grid-template-columns: repeat(2, 1fr) !important; }
+          .popular-grid    { grid-template-columns: repeat(2, 1fr) !important; }
+          .top-works-grid  { grid-template-columns: repeat(2, 1fr) !important; }
         }
+
+        /* ─── 600px ─── */
+        @media (max-width: 600px) {
+          .trending-grid   { grid-template-columns: repeat(2, 1fr) !important; }
+          .filter-grid     { grid-template-columns: 1fr !important; }
+          .ott-card-grid   { grid-template-columns: 1fr !important; }
+          .popular-grid    { grid-template-columns: repeat(2, 1fr) !important; }
+          .top-works-grid  { grid-template-columns: repeat(2, 1fr) !important; }
+          .mood-grid       { grid-template-columns: repeat(2, 1fr) !important; }
+          .trend-card      { width: 220px !important; }
+        }
+
+        /* ─── 480px ─── */
+        @media (max-width: 480px) {
+          .trending-grid   { grid-template-columns: 1fr !important; }
+          .popular-grid    { grid-template-columns: 1fr !important; }
+          .top-works-grid  { grid-template-columns: repeat(2, 1fr) !important; }
+          .mood-grid       { grid-template-columns: 1fr !important; }
+          .trend-card      { width: 200px !important; }
+        }
+
         /* ─── 트렌드 스크롤 ─── */
         .trend-scroll, .ott-scroll {
           scrollbar-width: none;
           -ms-overflow-style: none;
         }
-        .ott-scroll::-webkit-scrollbar { display: none; }
-        .trend-scroll::-webkit-scrollbar {
-          display: none;
-        }
-        .trend-card:hover {
-          transform: translateY(-4px);
-        }
-        @media (max-width: 600px) {
-          .trend-card {
-            width: 240px !important;
-          }
-        }
+        .ott-scroll::-webkit-scrollbar,
+        .trend-scroll::-webkit-scrollbar { display: none; }
+        .trend-card:hover { transform: translateY(-4px); }
       `}</style>
     </Layout>
   )
@@ -987,7 +1001,7 @@ function TrendBanner({ trendPosts, getPostUrl }) {
   }, [trendPosts.length, scrollToIdx])
 
   return (
-    <section style={{ marginBottom: 48, padding: '32px 0', background: 'linear-gradient(135deg, #1a1a2e, #16213e)', borderRadius: 16, overflow: 'hidden' }}>
+    <section style={{ marginBottom: 48, padding: '32px 0', background: 'linear-gradient(135deg, #1a1a2e, #16213e)', borderRadius: 16 }}>
       <div style={{ padding: '0 24px', marginBottom: 16, display: 'flex', alignItems: 'center', gap: 8 }}>
         <span style={{ fontSize: 22 }}>🔥</span>
         <h2 style={{ fontSize: 20, fontWeight: 800, color: '#fff', margin: 0 }}>오늘의 트렌드</h2>
