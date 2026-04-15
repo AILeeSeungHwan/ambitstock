@@ -58,7 +58,6 @@ export async function getStaticProps() {
   const allPosts = require('../data/posts').default || require('../data/posts')
   const works = require('../data/works').default || require('../data/works')
 
-  // Resolve thumbnails from post files when missing
   const postsWithThumbnail = allPosts.map(post => {
     if (post.thumbnail) return post
     try {
@@ -71,20 +70,17 @@ export async function getStaticProps() {
     }
   })
 
-  // Category counts from ALL posts (accurate totals)
   const catCount = {}
   postsWithThumbnail.forEach(p => {
     catCount[p.category] = (catCount[p.category] || 0) + 1
   })
 
-  // Trend posts (already limited to 10)
   const trendPosts = postsWithThumbnail
     .filter(p => p.tags && p.tags.some(t => t === 'trend' || t === '트렌드' || t === '오늘의트렌드'))
     .sort((a, b) => new Date(b.date) - new Date(a.date))
     .slice(0, 10)
     .map(toLightPost)
 
-  // 작품 허브: 포스트 수 내림차순 상위 4개
   const topWorks = [...works]
     .sort((a, b) => b.posts.length - a.posts.length)
     .slice(0, 4)
@@ -103,8 +99,6 @@ export async function getStaticProps() {
       }
     })
 
-  // Lightweight: only fields needed for home page rendering
-  // Sort by date descending — all posts
   const sorted = [...postsWithThumbnail]
     .sort((a, b) => new Date(b.date) - new Date(a.date))
     .map(toLightPost)
@@ -138,7 +132,6 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
   const [selectedGenres, setSelectedGenres] = useState([])
   const [selectedOtts, setSelectedOtts] = useState([])
 
-  // URL query param으로 카테고리 선택 지원
   useEffect(() => {
     if (router.query.cat) {
       setSelectedCat(router.query.cat)
@@ -150,7 +143,6 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
     return [...posts].sort((a, b) => new Date(b.date) - new Date(a.date))
   }, [posts])
 
-  // 카테고리 + OTT 필터 (전체보기 모드용)
   const filtered = useMemo(() => {
     let result = sorted
     if (selectedCat) {
@@ -166,7 +158,6 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
     return result
   }, [sorted, selectedCat, selectedOtts])
 
-  // 무드 필터 (태그 기반)
   const moodFiltered = useMemo(() => {
     if (selectedMood === null) return []
     const mood = MOODS[selectedMood]
@@ -176,7 +167,6 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
     ).slice(0, 8)
   }, [sorted, selectedMood])
 
-  // 장르 + OTT 필터 (union)
   const genreOttFiltered = useMemo(() => {
     if (selectedGenres.length === 0 && selectedOtts.length === 0) return []
     return sorted.filter(p => {
@@ -192,7 +182,6 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
     }).slice(0, 16)
   }, [sorted, selectedGenres, selectedOtts])
 
-  // 카테고리별 최신 포스트
   const byCategory = useMemo(() => {
     const result = {}
     Object.keys(catCount).forEach(cat => {
@@ -201,13 +190,11 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
     return result
   }, [sorted, catCount])
 
-  // 트렌딩 (고정 포스트 + 최신)
   const PINNED_IDS = [564]
   const pinned = PINNED_IDS.map(id => sorted.find(p => p.id === id)).filter(Boolean)
   const rest = sorted.filter(p => !PINNED_IDS.includes(p.id)).slice(0, 6 - pinned.length)
   const trending = [...pinned, ...rest]
 
-  // 페이지네이션용
   const listPosts = filtered
   const totalPages = Math.ceil(listPosts.length / POSTS_PER_PAGE)
   const paged = listPosts.slice((currentPage - 1) * POSTS_PER_PAGE, currentPage * POSTS_PER_PAGE)
@@ -252,7 +239,7 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
 
   const categories = Object.entries(catCount).sort((a, b) => b[1] - a[1])
 
-  // 카테고리 또는 전체 목록 모드
+  /* ─── 전체 목록 / 카테고리 뷰 ─── */
   if (showAllPosts || selectedCat) {
     return (
       <Layout onCategoryChange={(cat) => {
@@ -262,37 +249,26 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
         <PageTracker slug="main" />
 
         {/* 뒤로가기 */}
-        <button onClick={() => { setShowAllPosts(false); setSelectedCat(null); setSelectedOtts([]); setSelectedGenres([]); setCurrentPage(1) }} style={{
-          background: 'none', border: 'none', cursor: 'pointer', color: 'inherit',
-          fontSize: 14, opacity: 0.6, marginBottom: 20, padding: 0,
-          display: 'flex', alignItems: 'center', gap: 6,
-        }}>
+        <button onClick={() => { setShowAllPosts(false); setSelectedCat(null); setSelectedOtts([]); setSelectedGenres([]); setCurrentPage(1) }} className="lv-back">
           ← 추천 허브로 돌아가기
         </button>
 
-        <div className="main-grid" style={{
-          display: 'grid', gridTemplateColumns: '1fr 280px', gap: 40, alignItems: 'flex-start',
-        }}>
-          <div>
-            {/* 모바일 카테고리 */}
-            <div className="mobile-cats" style={{
-              display: 'none', gap: 8, marginBottom: 24,
-              overflowX: 'auto', paddingBottom: 8, WebkitOverflowScrolling: 'touch',
-            }}>
-              <button onClick={() => handleCat(null)} style={mobileCatBtn(!selectedCat)}>전체</button>
-              {categories.map(([cat]) => (
-                <button key={cat} onClick={() => handleCat(cat)} style={mobileCatBtn(selectedCat === cat)}>{cat}</button>
-              ))}
-            </div>
+        {/* 카테고리 스크롤 (모바일) */}
+        <div className="lv-cat-scroll">
+          <button onClick={() => { setSelectedCat(null); setCurrentPage(1) }} className={'lv-cat-pill' + (!selectedCat ? ' active' : '')}>전체</button>
+          {categories.map(([cat]) => (
+            <button key={cat} onClick={() => handleCat(cat)} className={'lv-cat-pill' + (selectedCat === cat ? ' active' : '')}>{cat}</button>
+          ))}
+        </div>
 
-            <div style={{
-              display: 'flex', justifyContent: 'space-between', alignItems: 'center',
-              marginBottom: 8, paddingBottom: 16, borderBottom: '2px solid var(--text-color, #1a1a2e)',
-            }}>
-              <h2 style={{ fontSize: 18, fontWeight: 800, margin: 0 }}>
+        <div className="lv-layout">
+          {/* 메인 콘텐츠 */}
+          <div className="lv-main">
+            <div className="lv-header">
+              <h2 className="lv-title">
                 {selectedCat || (selectedOtts.length > 0 ? OTT_SECTIONS[selectedOtts[0]]?.label + ' 포스팅' : '전체 포스팅')}
               </h2>
-              <span style={{ fontSize: 13, opacity: 0.4 }}>{filtered.length}개의 글</span>
+              <span className="lv-count">{filtered.length}개의 글</span>
             </div>
 
             {paged.map(post => (
@@ -308,10 +284,7 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
             <AdUnit slot="6297515693" format="auto" style={{ marginTop: 24 }} />
 
             {totalPages > 1 && (
-              <nav style={{
-                display: 'flex', justifyContent: 'center', alignItems: 'center',
-                gap: 4, marginTop: 32, flexWrap: 'wrap',
-              }}>
+              <nav className="lv-pagination">
                 <button onClick={() => setCurrentPage(p => Math.max(1, p - 1))} disabled={currentPage === 1} style={pageBtn(false, currentPage === 1)}>
                   &larr;
                 </button>
@@ -331,12 +304,10 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
             )}
           </div>
 
-          <aside className="sidebar" style={{ position: 'sticky', top: 72 }}>
-            <div style={{
-              background: 'var(--card-bg, #fff)', borderRadius: 12, padding: 20,
-              border: '1px solid var(--border-color, #eee)', marginBottom: 20,
-            }}>
-              <h3 style={{ fontSize: 13, fontWeight: 700, margin: '0 0 14px', opacity: 0.5 }}>카테고리</h3>
+          {/* 사이드바 (데스크탑 전용) */}
+          <aside className="lv-sidebar">
+            <div className="lv-sidebar-box">
+              <h3 className="lv-sidebar-title">카테고리</h3>
               <button onClick={() => { setSelectedCat(null); setCurrentPage(1) }} style={sidebarCatBtn(!selectedCat)}>
                 <span>전체</span><span style={{ opacity: 0.4 }}>{totalCount || posts.length}</span>
               </button>
@@ -346,24 +317,12 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
                 </button>
               ))}
             </div>
-            <div style={{
-              background: 'var(--card-bg, #fff)', borderRadius: 12, padding: 20,
-              border: '1px solid var(--border-color, #eee)',
-            }}>
-              <h3 style={{ fontSize: 13, fontWeight: 700, margin: '0 0 14px', opacity: 0.5 }}>추천 포스팅</h3>
+            <div className="lv-sidebar-box">
+              <h3 className="lv-sidebar-title">추천 포스팅</h3>
               {sorted.slice(0, 5).map((post, i) => (
-                <a key={post.id} href={getPostUrl(post)} style={{
-                  display: 'flex', gap: 10, alignItems: 'flex-start',
-                  padding: '10px 0', textDecoration: 'none', color: 'inherit',
-                  borderBottom: i < 4 ? '1px solid var(--border-color, #f0f0f0)' : 'none',
-                }}>
-                  <span style={{ fontSize: 14, fontWeight: 800, opacity: 0.15, minWidth: 20, lineHeight: '20px' }}>
-                    {String(i + 1).padStart(2, '0')}
-                  </span>
-                  <span style={{
-                    fontSize: 13, fontWeight: 500, lineHeight: 1.4,
-                    display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden',
-                  }}>{post.title}</span>
+                <a key={post.id} href={getPostUrl(post)} className="lv-sidebar-link" style={{ borderBottom: i < 4 ? '1px solid var(--border-color, #f0f0f0)' : 'none' }}>
+                  <span className="lv-sidebar-num">{String(i + 1).padStart(2, '0')}</span>
+                  <span className="lv-sidebar-text">{post.title}</span>
                 </a>
               ))}
             </div>
@@ -371,17 +330,70 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
         </div>
 
         <style jsx global>{`
-          @media (max-width: 900px) {
-            .main-grid { grid-template-columns: 1fr !important; gap: 0 !important; }
-            .sidebar { display: none !important; }
-            .mobile-cats { display: flex !important; }
+          .lv-back {
+            background: none; border: none; cursor: pointer; color: inherit;
+            font-size: 14px; opacity: 0.6; margin-bottom: 16px; padding: 0;
+            display: flex; align-items: center; gap: 6px;
+          }
+          .lv-cat-scroll {
+            display: flex; gap: 8px; overflow-x: auto; padding-bottom: 8px;
+            margin-bottom: 20px; -webkit-overflow-scrolling: touch;
+            scrollbar-width: none; -ms-overflow-style: none;
+          }
+          .lv-cat-scroll::-webkit-scrollbar { display: none; }
+          .lv-cat-pill {
+            padding: 6px 14px; border-radius: 20px; white-space: nowrap; flex-shrink: 0;
+            border: 1px solid var(--border-color, #ddd);
+            background: transparent; color: inherit;
+            font-size: 12px; font-weight: 400; cursor: pointer;
+          }
+          .lv-cat-pill.active {
+            border: 2px solid var(--primary-color, #e50914);
+            background: var(--primary-color, #e50914);
+            color: #fff; font-weight: 700;
+          }
+          .lv-layout {
+            display: grid; grid-template-columns: 1fr; gap: 0;
+          }
+          .lv-main {}
+          .lv-header {
+            display: flex; justify-content: space-between; align-items: center;
+            margin-bottom: 8px; padding-bottom: 16px;
+            border-bottom: 2px solid var(--text-color, #1a1a2e);
+          }
+          .lv-title { font-size: 18px; font-weight: 800; margin: 0; }
+          .lv-count { font-size: 13px; opacity: 0.4; }
+          .lv-pagination {
+            display: flex; justify-content: center; align-items: center;
+            gap: 4px; margin-top: 32px; flex-wrap: wrap;
+          }
+          .lv-sidebar { display: none; }
+          .lv-sidebar-box {
+            background: var(--card-bg, #fff); border-radius: 12px; padding: 20px;
+            border: 1px solid var(--border-color, #eee); margin-bottom: 20px;
+          }
+          .lv-sidebar-title { font-size: 13px; font-weight: 700; margin: 0 0 14px; opacity: 0.5; }
+          .lv-sidebar-link {
+            display: flex; gap: 10px; align-items: flex-start;
+            padding: 10px 0; text-decoration: none; color: inherit;
+          }
+          .lv-sidebar-num { font-size: 14px; font-weight: 800; opacity: 0.15; min-width: 20px; line-height: 20px; }
+          .lv-sidebar-text {
+            font-size: 13px; font-weight: 500; line-height: 1.4;
+            display: -webkit-box; -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical; overflow: hidden;
+          }
+          @media (min-width: 900px) {
+            .lv-layout { grid-template-columns: 1fr 280px; gap: 40px; align-items: flex-start; }
+            .lv-sidebar { display: block; position: sticky; top: 72px; }
+            .lv-cat-scroll { display: none; }
           }
         `}</style>
       </Layout>
     )
   }
 
-  // ─── 추천 허브 메인 ───
+  /* ─── 추천 허브 메인 ─── */
   return (
     <Layout onCategoryChange={(cat) => {
       const labelMap = { 'movie-recommend': '영화추천', 'overseas-reaction': '해외반응후기', 'marvel': '마블', 'drama': '드라마', 'animation': '애니메이션' }
@@ -437,54 +449,23 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
       </Head>
       <PageTracker slug="main" />
 
-      {/* ─── Hero 영역 ─── */}
-      <section style={{
-        textAlign: 'center', padding: '40px 20px 32px',
-        marginBottom: 40,
-        background: 'linear-gradient(180deg, rgba(229,9,20,0.04) 0%, transparent 100%)',
-        borderRadius: 20,
-      }}>
-        <p style={{
-          fontSize: 13, fontWeight: 600, letterSpacing: '0.1em',
-          color: '#e50914', margin: '0 0 12px', textTransform: 'uppercase',
-        }}>
-          영화 · 드라마 · 애니 가이드
-        </p>
-        <h1 className="hero-title" style={{
-          fontSize: 34, fontWeight: 900, margin: '0 0 10px', lineHeight: 1.25,
-          background: 'linear-gradient(135deg, var(--text-color, #1a1a2e), var(--primary-color, #e50914))',
-          WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent',
-        }}>
-          지금 볼 영화, 해석이 필요한 영화,<br />반응이 궁금한 영화까지
+      {/* ─── Hero ─── */}
+      <section className="hub-hero">
+        <p className="hub-eyebrow">영화 · 드라마 · 애니 가이드</p>
+        <h1 className="hub-title">
+          지금 볼 영화, 해석이 필요한 영화,<br className="hub-br" />반응이 궁금한 영화까지
         </h1>
-        <p style={{ fontSize: 15, opacity: 0.5, margin: '0 0 24px', lineHeight: 1.6 }}>
-          영화 추천 · 결말 해석 · 해외반응 · OTT 가이드를 한곳에서
-        </p>
-
-        {/* 검색 */}
-        <div style={{ maxWidth: 520, margin: '0 auto 20px' }}>
+        <p className="hub-desc">영화 추천 · 결말 해석 · 해외반응 · OTT 가이드를 한곳에서</p>
+        <div className="hub-search">
           <SearchBar posts={posts} />
         </div>
-
-        {/* 퀵링크 */}
-        <div style={{ display: 'flex', justifyContent: 'center', gap: 10, flexWrap: 'wrap' }}>
+        <div className="hub-quicklinks">
           {[
-            { label: '지금 인기', icon: '🔥', cat: null, action: () => {} },
-            { label: '결말 해석', icon: '🧠', cat: '해석' },
-            { label: '해외반응', icon: '🌍', cat: '해외반응후기' },
+            { label: '지금 인기', icon: '🔥', action: () => { const el = document.getElementById('trending-section'); if (el) el.scrollIntoView({ behavior: 'smooth' }) } },
+            { label: '결말 해석', icon: '🧠', action: () => handleCat('해석') },
+            { label: '해외반응', icon: '🌍', action: () => handleCat('해외반응후기') },
           ].map(link => (
-            <button key={link.label} onClick={() => {
-              if (link.cat) handleCat(link.cat)
-              else { const el = document.getElementById('trending-section'); if (el) el.scrollIntoView({ behavior: 'smooth' }) }
-            }} style={{
-              display: 'inline-flex', alignItems: 'center', gap: 5,
-              padding: '8px 16px', borderRadius: 20,
-              border: '1px solid var(--border-color, #ddd)',
-              background: 'var(--card-bg, #fff)',
-              color: 'inherit', fontSize: 13, fontWeight: 600,
-              cursor: 'pointer', transition: 'all 0.2s',
-              boxShadow: '0 1px 4px rgba(0,0,0,0.05)',
-            }}>
+            <button key={link.label} onClick={link.action} className="hub-ql-btn">
               <span>{link.icon}</span>
               <span>{link.label}</span>
             </button>
@@ -498,33 +479,45 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
       {/* ─── 지금 뜨는 작품 ─── */}
       <section id="trending-section" style={{ marginBottom: 48 }}>
         <SectionHeader icon="🔥" title="지금 뜨는 작품" />
-        <div style={{ marginBottom: 16 }}>
-          <FeaturedCard post={trending[0]} />
-        </div>
-        <div className="trending-grid" style={{
-          display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: 14,
-        }}>
-          {trending.slice(1, 6).map(post => (
-            <PostCard key={post.id} post={post} />
+
+        {/* 모바일: 가로 스크롤 카드 */}
+        <div className="mob-trend-scroll">
+          {trending.map(post => (
+            <a key={post.id} href={getPostUrl(post)} className="mob-trend-card">
+              <div className="mob-trend-img">
+                {post.thumbnail ? (
+                  <img src={post.thumbnail} alt={post.title} loading="lazy" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
+                ) : (
+                  <div style={{ width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'linear-gradient(135deg, #e50914, #ff6b6b)', fontSize: 28 }}>🎬</div>
+                )}
+              </div>
+              <div style={{ padding: '8px 10px' }}>
+                <p style={{ margin: 0, fontSize: 12, fontWeight: 600, lineHeight: 1.4, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{post.title}</p>
+                {post.category && <p style={{ margin: '4px 0 0', fontSize: 10, opacity: 0.45 }}>{post.category}</p>}
+              </div>
+            </a>
           ))}
+        </div>
+
+        {/* 데스크탑: FeaturedCard + 5열 그리드 */}
+        <div className="dt-trending">
+          <div style={{ marginBottom: 16 }}>
+            <FeaturedCard post={trending[0]} />
+          </div>
+          <div className="dt-trending-grid">
+            {trending.slice(1, 6).map(post => (
+              <PostCard key={post.id} post={post} />
+            ))}
+          </div>
         </div>
       </section>
 
       {/* ─── 무드별 추천 ─── */}
       <section style={{ marginBottom: 32 }}>
         <SectionHeader icon="✨" title="무드별 추천" />
-        <div style={{
-          display: 'flex', flexWrap: 'wrap', gap: 10,
-        }}>
+        <div className="mood-btns">
           {MOODS.map((mood, idx) => (
-            <button key={mood.label} onClick={() => handleMood(idx)} style={{
-              padding: '10px 18px', borderRadius: 24, cursor: 'pointer',
-              border: selectedMood === idx ? '2px solid #e50914' : '1px solid var(--border-color, #ddd)',
-              background: selectedMood === idx ? '#e5091411' : 'var(--card-bg, #fff)',
-              color: 'inherit', fontSize: 13, fontWeight: selectedMood === idx ? 700 : 500,
-              transition: 'all 0.2s', display: 'flex', alignItems: 'center', gap: 6,
-              boxShadow: selectedMood === idx ? '0 2px 12px rgba(229,9,20,0.15)' : '0 1px 4px rgba(0,0,0,0.05)',
-            }}>
+            <button key={mood.label} onClick={() => handleMood(idx)} className={'mood-btn' + (selectedMood === idx ? ' active' : '')}>
               <span style={{ fontSize: 16 }}>{mood.icon}</span>
               <span>{mood.label}</span>
             </button>
@@ -532,20 +525,13 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
         </div>
       </section>
 
-      {/* ─── 장르 + OTT 필터 ─── */}
-      <section style={{ marginBottom: 32 }}>
+      {/* ─── 장르 + OTT 필터 (데스크탑 전용) ─── */}
+      <section className="desktop-filter" style={{ marginBottom: 32 }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 12 }}>
           <span style={{ fontSize: 13, fontWeight: 700, opacity: 0.5, whiteSpace: 'nowrap' }}>장르</span>
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
             {GENRE_CHIPS.map((chip, idx) => (
-              <button key={chip.label} onClick={() => toggleGenre(idx)} style={{
-                padding: '7px 14px', borderRadius: 20, cursor: 'pointer',
-                border: selectedGenres.includes(idx) ? '2px solid #e50914' : '1px solid var(--border-color, #ddd)',
-                background: selectedGenres.includes(idx) ? '#e5091411' : 'var(--card-bg, #fff)',
-                color: 'inherit', fontSize: 12, fontWeight: selectedGenres.includes(idx) ? 700 : 500,
-                transition: 'all 0.2s',
-                boxShadow: selectedGenres.includes(idx) ? '0 2px 12px rgba(229,9,20,0.15)' : '0 1px 4px rgba(0,0,0,0.05)',
-              }}>
+              <button key={chip.label} onClick={() => toggleGenre(idx)} className={'filter-chip' + (selectedGenres.includes(idx) ? ' active' : '')}>
                 {chip.label}
               </button>
             ))}
@@ -555,14 +541,7 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
           <span style={{ fontSize: 13, fontWeight: 700, opacity: 0.5, whiteSpace: 'nowrap' }}>OTT</span>
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
             {OTT_CHIPS.map((chip, idx) => (
-              <button key={chip.label} onClick={() => toggleOtt(idx)} style={{
-                padding: '7px 14px', borderRadius: 20, cursor: 'pointer',
-                border: selectedOtts.includes(idx) ? '2px solid #e50914' : '1px solid var(--border-color, #ddd)',
-                background: selectedOtts.includes(idx) ? '#e5091411' : 'var(--card-bg, #fff)',
-                color: 'inherit', fontSize: 12, fontWeight: selectedOtts.includes(idx) ? 700 : 500,
-                transition: 'all 0.2s',
-                boxShadow: selectedOtts.includes(idx) ? '0 2px 12px rgba(229,9,20,0.15)' : '0 1px 4px rgba(0,0,0,0.05)',
-              }}>
+              <button key={chip.label} onClick={() => toggleOtt(idx)} className={'filter-chip' + (selectedOtts.includes(idx) ? ' active' : '')}>
                 {chip.label}
               </button>
             ))}
@@ -572,8 +551,7 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
               padding: '6px 12px', borderRadius: 16, cursor: 'pointer',
               border: '1px solid var(--border-color, #ddd)',
               background: 'transparent', color: '#e50914',
-              fontSize: 11, fontWeight: 600, transition: 'all 0.2s',
-              whiteSpace: 'nowrap', marginLeft: 4,
+              fontSize: 11, fontWeight: 600, whiteSpace: 'nowrap', marginLeft: 4,
             }}>
               필터 초기화
             </button>
@@ -585,9 +563,7 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
       {hasActiveFilters && genreOttFiltered.length > 0 && (
         <section style={{ marginBottom: 48 }}>
           <SectionHeader icon="🎯" title={'필터 결과 (' + genreOttFiltered.length + '개)'} />
-          <div className="filter-grid" style={{
-            display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 16,
-          }}>
+          <div className="card-grid">
             {genreOttFiltered.map(post => (
               <PostCard key={post.id} post={post} />
             ))}
@@ -604,9 +580,7 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
       {selectedMood !== null && moodFiltered.length > 0 && (
         <section style={{ marginBottom: 48 }}>
           <SectionHeader icon={MOODS[selectedMood].icon} title={MOODS[selectedMood].label + ' 추천'} />
-          <div className="mood-grid" style={{
-            display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 16,
-          }}>
+          <div className="card-grid">
             {moodFiltered.map(post => (
               <PostCard key={post.id} post={post} />
             ))}
@@ -622,12 +596,11 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
       {/* ─── 오늘의 트렌드 배너 ─── */}
       {trendPosts && trendPosts.length > 0 && (
         <TrendBanner trendPosts={trendPosts} getPostUrl={getPostUrl} />
-
       )}
 
       <AdUnit slot="6297515693" format="auto" style={{ marginBottom: 48 }} />
 
-      {/* ─── OTT별 탐색 (카드형) ─── */}
+      {/* ─── OTT별 탐색 ─── */}
       <OTTSection sorted={sorted} getPostUrl={getPostUrl} onViewAll={(ottIndex) => {
         setSelectedOtts([ottIndex])
         setSelectedGenres([])
@@ -641,53 +614,21 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
       {topWorks && topWorks.length > 0 && (
         <section style={{ marginBottom: 48 }}>
           <SectionHeader icon="🎯" title="지금 반응 오는 작품" />
-          <div className="top-works-grid" style={{
-            display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 16,
-          }}>
+          <div className="works-grid">
             {topWorks.map(w => (
-              <a key={w.slug} href={'/work/' + w.slug + '/'} style={{
-                display: 'block', textDecoration: 'none', color: 'inherit',
-                borderRadius: 12, overflow: 'hidden',
-                border: '1px solid var(--border-color, #eee)',
-                background: 'var(--card-bg, #fff)',
-                transition: 'transform 0.2s, box-shadow 0.2s',
-              }}>
-                <div style={{
-                  height: 140, overflow: 'hidden',
-                  background: 'linear-gradient(135deg, #1a1a2e, #16213e)',
-                  position: 'relative',
-                }}>
+              <a key={w.slug} href={'/work/' + w.slug + '/'} className="work-card">
+                <div className="work-card-img">
                   {w.thumbnail ? (
-                    <img src={w.thumbnail} alt={w.title} loading="lazy" style={{
-                      width: '100%', height: '100%', objectFit: 'cover', display: 'block',
-                      opacity: 0.85,
-                    }} />
+                    <img src={w.thumbnail} alt={w.title} loading="lazy" style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block', opacity: 0.85 }} />
                   ) : (
-                    <div style={{
-                      width: '100%', height: '100%',
-                      display: 'flex', alignItems: 'center', justifyContent: 'center',
-                      fontSize: 40,
-                    }}>🎬</div>
+                    <div style={{ width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 40 }}>🎬</div>
                   )}
-                  <div style={{
-                    position: 'absolute', bottom: 0, left: 0, right: 0, height: '60%',
-                    background: 'linear-gradient(to top, rgba(0,0,0,0.7), transparent)',
-                  }} />
-                  <span style={{
-                    position: 'absolute', top: 10, right: 10,
-                    background: '#e50914', color: '#fff',
-                    fontSize: 11, fontWeight: 800, padding: '3px 8px',
-                    borderRadius: 10,
-                  }}>{w.postCount}편</span>
+                  <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0, height: '60%', background: 'linear-gradient(to top, rgba(0,0,0,0.7), transparent)' }} />
+                  <span style={{ position: 'absolute', top: 10, right: 10, background: '#e50914', color: '#fff', fontSize: 11, fontWeight: 800, padding: '3px 8px', borderRadius: 10 }}>{w.postCount}편</span>
                 </div>
                 <div style={{ padding: '12px 14px' }}>
-                  <p style={{
-                    margin: 0, fontSize: 14, fontWeight: 700, lineHeight: 1.4,
-                    display: '-webkit-box', WebkitLineClamp: 1, WebkitBoxOrient: 'vertical', overflow: 'hidden',
-                  }}>{w.title}</p>
-                  <p style={{
-                    margin: '4px 0 0', fontSize: 11, opacity: 0.45,
-                  }}>{w.category}</p>
+                  <p style={{ margin: 0, fontSize: 14, fontWeight: 700, lineHeight: 1.4, display: '-webkit-box', WebkitLineClamp: 1, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{w.title}</p>
+                  <p style={{ margin: '4px 0 0', fontSize: 11, opacity: 0.45 }}>{w.category}</p>
                 </div>
               </a>
             ))}
@@ -695,37 +636,24 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
         </section>
       )}
 
-      {/* ─── 인기 콘텐츠 (탭 전환형) ─── */}
+      {/* ─── 인기 콘텐츠 ─── */}
       <PopularTabSection categories={categories} byCategory={byCategory} handleCat={handleCat} />
 
       {/* ─── 하단 CTA ─── */}
-      <section style={{
-        textAlign: 'center', padding: '40px 20px',
-        background: 'linear-gradient(135deg, rgba(229,9,20,0.03), rgba(229,9,20,0.08))',
-        borderRadius: 20, marginTop: 20,
-      }}>
+      <section className="hub-cta">
         <p style={{ fontSize: 14, opacity: 0.5, margin: '0 0 16px' }}>
           {totalCount || posts.length}편의 작품 가이드가 준비되어 있습니다
         </p>
-        <button onClick={() => setShowAllPosts(true)} style={{
-          padding: '14px 40px', borderRadius: 28, cursor: 'pointer',
-          background: 'linear-gradient(135deg, #e50914, #ff4d4d)', color: '#fff', border: 'none',
-          fontSize: 15, fontWeight: 700, transition: 'all 0.2s',
-          boxShadow: '0 4px 16px rgba(229,9,20,0.3)',
-        }}>
+        <button onClick={() => setShowAllPosts(true)} className="hub-cta-btn">
           전체 작품 가이드 보기
         </button>
-        <div style={{ marginTop: 16, display: 'flex', justifyContent: 'center', gap: 16, flexWrap: 'wrap' }}>
+        <div className="hub-cta-links">
           {[
             { label: '🧠 결말 해석', cat: '영화추천' },
             { label: '🌍 해외반응', cat: '해외반응후기' },
             { label: '📺 드라마', cat: '드라마' },
           ].map(link => (
-            <button key={link.label} onClick={() => handleCat(link.cat)} style={{
-              background: 'none', border: 'none', cursor: 'pointer',
-              color: 'var(--primary-color, #e50914)', fontSize: 13, fontWeight: 600,
-              opacity: 0.7, transition: 'opacity 0.15s',
-            }}>
+            <button key={link.label} onClick={() => handleCat(link.cat)} className="hub-cta-link">
               {link.label}
             </button>
           ))}
@@ -736,58 +664,214 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
         body { overflow-x: hidden; }
 
         /* ─── Hero ─── */
-        @media (max-width: 600px) {
-          .hero-title {
-            font-size: 24px !important;
-            -webkit-text-fill-color: var(--text-color, #1a1a2e) !important;
-            background: none !important;
-          }
+        .hub-hero {
+          text-align: center;
+          padding: 24px 16px 20px;
+          margin-bottom: 32px;
+          background: linear-gradient(180deg, rgba(229,9,20,0.04) 0%, transparent 100%);
+          border-radius: 16px;
+        }
+        .hub-eyebrow {
+          font-size: 11px; font-weight: 600; letter-spacing: 0.1em;
+          color: #e50914; margin: 0 0 10px; text-transform: uppercase;
+        }
+        .hub-title {
+          font-size: 22px; font-weight: 900; margin: 0 0 8px; line-height: 1.3;
+          color: var(--text-color, #1a1a2e);
+        }
+        .hub-br { display: none; }
+        .hub-desc {
+          font-size: 13px; opacity: 0.5; margin: 0 0 18px; line-height: 1.6;
+        }
+        .hub-search { max-width: 520px; margin: 0 auto 16px; }
+        .hub-quicklinks {
+          display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;
+        }
+        .hub-ql-btn {
+          display: inline-flex; align-items: center; gap: 5px;
+          padding: 7px 14px; border-radius: 20px;
+          border: 1px solid var(--border-color, #ddd);
+          background: var(--card-bg, #fff);
+          color: inherit; font-size: 12px; font-weight: 600;
+          cursor: pointer; box-shadow: 0 1px 4px rgba(0,0,0,0.05);
         }
 
-        /* ─── 900px ─── */
-        @media (max-width: 900px) {
-          .mood-grid       { grid-template-columns: repeat(2, 1fr) !important; }
-          .filter-grid     { grid-template-columns: repeat(2, 1fr) !important; }
-          .trending-grid   { grid-template-columns: repeat(3, 1fr) !important; }
-          .ott-card-grid   { grid-template-columns: repeat(2, 1fr) !important; }
-          .popular-grid    { grid-template-columns: repeat(2, 1fr) !important; }
-          .top-works-grid  { grid-template-columns: repeat(2, 1fr) !important; }
+        /* ─── 모바일 트렌드 스크롤 ─── */
+        .mob-trend-scroll {
+          display: flex; gap: 12px; overflow-x: auto;
+          padding-bottom: 8px; -webkit-overflow-scrolling: touch;
+          scrollbar-width: none; -ms-overflow-style: none;
+        }
+        .mob-trend-scroll::-webkit-scrollbar { display: none; }
+        .mob-trend-card {
+          flex-shrink: 0; width: 140px; border-radius: 10px; overflow: hidden;
+          text-decoration: none; color: inherit;
+          border: 1px solid var(--border-color, #eee);
+          background: var(--card-bg, #fff); display: block;
+        }
+        .mob-trend-img {
+          height: 100px; overflow: hidden;
+          background: linear-gradient(135deg, #1a1a2e, #16213e);
+        }
+        .dt-trending { display: none; }
+
+        /* ─── 무드 버튼 ─── */
+        .mood-btns {
+          display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px;
+        }
+        .mood-btn {
+          padding: 10px 12px; border-radius: 24px; cursor: pointer;
+          border: 1px solid var(--border-color, #ddd);
+          background: var(--card-bg, #fff);
+          color: inherit; font-size: 13px; font-weight: 500;
+          display: flex; align-items: center; gap: 6px;
+          box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+        }
+        .mood-btn.active {
+          border: 2px solid #e50914;
+          background: rgba(229,9,20,0.07);
+          font-weight: 700;
+          box-shadow: 0 2px 12px rgba(229,9,20,0.15);
         }
 
-        /* ─── 600px ─── */
-        @media (max-width: 600px) {
-          .trending-grid   { grid-template-columns: repeat(2, 1fr) !important; }
-          .filter-grid     { grid-template-columns: 1fr !important; }
-          .ott-card-grid   { grid-template-columns: 1fr !important; }
-          .popular-grid    { grid-template-columns: repeat(2, 1fr) !important; }
-          .top-works-grid  { grid-template-columns: repeat(2, 1fr) !important; }
-          .mood-grid       { grid-template-columns: repeat(2, 1fr) !important; }
-          .trend-card      { width: 220px !important; }
+        /* ─── 장르/OTT 필터 (데스크탑 전용) ─── */
+        .desktop-filter { display: none; }
+        .filter-chip {
+          padding: 7px 14px; border-radius: 20px; cursor: pointer;
+          border: 1px solid var(--border-color, #ddd);
+          background: var(--card-bg, #fff);
+          color: inherit; font-size: 12px; font-weight: 500;
+          transition: all 0.2s;
+          box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+        }
+        .filter-chip.active {
+          border: 2px solid #e50914;
+          background: rgba(229,9,20,0.07);
+          font-weight: 700;
+          box-shadow: 0 2px 12px rgba(229,9,20,0.15);
         }
 
-        /* ─── 480px ─── */
-        @media (max-width: 480px) {
-          .trending-grid   { grid-template-columns: 1fr !important; }
-          .popular-grid    { grid-template-columns: 1fr !important; }
-          .top-works-grid  { grid-template-columns: repeat(2, 1fr) !important; }
-          .mood-grid       { grid-template-columns: 1fr !important; }
-          .trend-card      { width: 200px !important; }
+        /* ─── 범용 카드 그리드 ─── */
+        .card-grid {
+          display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px;
         }
 
-        /* ─── 트렌드 스크롤 ─── */
+        /* ─── 작품 허브 그리드 ─── */
+        .works-grid {
+          display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;
+        }
+        .work-card {
+          display: block; text-decoration: none; color: inherit;
+          border-radius: 12px; overflow: hidden;
+          border: 1px solid var(--border-color, #eee);
+          background: var(--card-bg, #fff);
+        }
+        .work-card-img {
+          height: 110px; overflow: hidden;
+          background: linear-gradient(135deg, #1a1a2e, #16213e);
+          position: relative;
+        }
+
+        /* ─── 하단 CTA ─── */
+        .hub-cta {
+          text-align: center; padding: 32px 16px;
+          background: linear-gradient(135deg, rgba(229,9,20,0.03), rgba(229,9,20,0.08));
+          border-radius: 16px; margin-top: 20px;
+        }
+        .hub-cta-btn {
+          padding: 13px 32px; border-radius: 28px; cursor: pointer;
+          background: linear-gradient(135deg, #e50914, #ff4d4d);
+          color: #fff; border: none; font-size: 14px; font-weight: 700;
+          box-shadow: 0 4px 16px rgba(229,9,20,0.3);
+        }
+        .hub-cta-links {
+          margin-top: 14px; display: flex; justify-content: center;
+          gap: 12px; flex-wrap: wrap;
+        }
+        .hub-cta-link {
+          background: none; border: none; cursor: pointer;
+          color: var(--primary-color, #e50914); font-size: 13px; font-weight: 600;
+          opacity: 0.7;
+        }
+
+        /* ─── 트렌드 스크롤 공통 ─── */
         .trend-scroll, .ott-scroll {
-          scrollbar-width: none;
-          -ms-overflow-style: none;
+          scrollbar-width: none; -ms-overflow-style: none;
         }
         .ott-scroll::-webkit-scrollbar,
         .trend-scroll::-webkit-scrollbar { display: none; }
         .trend-card:hover { transform: translateY(-4px); }
+
+        /* ────────────────────────────
+           768px+ (태블릿/데스크탑)
+        ──────────────────────────── */
+        @media (min-width: 768px) {
+          .hub-hero {
+            padding: 40px 20px 32px;
+            margin-bottom: 40px;
+            border-radius: 20px;
+          }
+          .hub-eyebrow { font-size: 13px; }
+          .hub-title {
+            font-size: 34px;
+            background: linear-gradient(135deg, var(--text-color, #1a1a2e), var(--primary-color, #e50914));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+          }
+          .hub-br { display: inline; }
+          .hub-desc { font-size: 15px; }
+          .hub-ql-btn { font-size: 13px; padding: 8px 16px; }
+
+          /* 트렌드: 모바일 숨김, 데스크탑 표시 */
+          .mob-trend-scroll { display: none; }
+          .dt-trending { display: block; }
+          .dt-trending-grid {
+            display: grid; grid-template-columns: repeat(5, 1fr); gap: 14px;
+          }
+
+          /* 무드 버튼 */
+          .mood-btns {
+            display: flex; flex-wrap: wrap; gap: 10px;
+          }
+          .mood-btn { padding: 10px 18px; }
+
+          /* 장르/OTT 필터 표시 */
+          .desktop-filter { display: block; }
+
+          /* 카드 그리드 */
+          .card-grid { grid-template-columns: repeat(4, 1fr); }
+          .works-grid { grid-template-columns: repeat(4, 1fr); gap: 16px; }
+          .work-card-img { height: 140px; }
+
+          /* OTT 카드 */
+          .ott-card-grid { grid-template-columns: repeat(3, 1fr) !important; }
+
+          /* 인기 */
+          .popular-grid { grid-template-columns: repeat(4, 1fr) !important; }
+        }
+
+        /* ────────────────────────────
+           480px–767px (중간)
+        ──────────────────────────── */
+        @media (min-width: 480px) and (max-width: 767px) {
+          .mob-trend-card { width: 160px; }
+          .mob-trend-img { height: 110px; }
+          .card-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+
+        /* ─── OTT / 인기 모바일 기본 ─── */
+        .ott-card-grid { grid-template-columns: 1fr !important; }
+        @media (min-width: 480px) {
+          .ott-card-grid { grid-template-columns: repeat(2, 1fr) !important; }
+        }
+        .popular-grid { grid-template-columns: repeat(2, 1fr) !important; }
       `}</style>
     </Layout>
   )
 }
 
-/* ─── OTT별 탐색 (탭 + 카드형) ─── */
+/* ─── OTT별 탐색 ─── */
 function OTTSection({ sorted, getPostUrl, onViewAll }) {
   const [activeOtt, setActiveOtt] = useState(0)
   const ott = OTT_SECTIONS[activeOtt]
@@ -801,8 +885,7 @@ function OTTSection({ sorted, getPostUrl, onViewAll }) {
   return (
     <section style={{ marginBottom: 48 }}>
       <SectionHeader icon="📺" title="OTT별 탐색" />
-      {/* OTT 탭 */}
-      <div style={{ display: 'flex', gap: 8, marginBottom: 20, overflowX: 'auto', paddingBottom: 4 }}>
+      <div style={{ display: 'flex', gap: 8, marginBottom: 20, overflowX: 'auto', paddingBottom: 4, scrollbarWidth: 'none' }}>
         {OTT_SECTIONS.map((o, idx) => (
           <button key={o.label} onClick={() => setActiveOtt(idx)} style={{
             display: 'flex', alignItems: 'center', gap: 6,
@@ -818,17 +901,13 @@ function OTTSection({ sorted, getPostUrl, onViewAll }) {
           </button>
         ))}
       </div>
-      {/* 카드 그리드 */}
-      <div className="ott-card-grid" style={{
-        display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 14,
-      }}>
+      <div className="ott-card-grid" style={{ display: 'grid', gap: 14 }}>
         {ottPosts.map(post => (
           <a key={post.id} href={getPostUrl(post)} style={{
             textDecoration: 'none', color: 'inherit',
             borderRadius: 12, overflow: 'hidden',
             border: '1px solid var(--border-color, #eee)',
             background: 'var(--card-bg, #fff)',
-            transition: 'transform 0.2s, box-shadow 0.2s',
             display: 'block',
           }}>
             <div style={{ height: 120, overflow: 'hidden', background: ott.color + '10' }}>
@@ -884,7 +963,6 @@ function PopularTabSection({ categories, byCategory, handleCat }) {
     return all
   }, [byCategory])
 
-  // Deduplicated full list for contentType tabs
   const allSorted = useMemo(() => {
     const seen = new Set()
     return allPosts.filter(p => { if (seen.has(p.id)) return false; seen.add(p.id); return true })
@@ -901,8 +979,7 @@ function PopularTabSection({ categories, byCategory, handleCat }) {
   return (
     <section style={{ marginBottom: 48 }}>
       <SectionHeader icon="📌" title="인기 콘텐츠" />
-      {/* 탭 */}
-      <div style={{ display: 'flex', gap: 6, marginBottom: 20, overflowX: 'auto', paddingBottom: 4 }}>
+      <div style={{ display: 'flex', gap: 6, marginBottom: 20, overflowX: 'auto', paddingBottom: 4, scrollbarWidth: 'none' }}>
         {TABS.map((t, idx) => (
           <button key={t.label} onClick={() => setActiveTab(idx)} style={{
             padding: '7px 14px', borderRadius: 20, cursor: 'pointer',
@@ -916,10 +993,7 @@ function PopularTabSection({ categories, byCategory, handleCat }) {
           </button>
         ))}
       </div>
-      {/* 카드 그리드 */}
-      <div className="popular-grid" style={{
-        display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 14,
-      }}>
+      <div className="popular-grid" style={{ display: 'grid', gap: 14 }}>
         {tabPosts.map(post => (
           <PostCard key={post.id} post={post} />
         ))}
@@ -938,7 +1012,7 @@ function PopularTabSection({ categories, byCategory, handleCat }) {
   )
 }
 
-/* ─── 트렌드 배너 (스와이프 + 자동 스크롤) ─── */
+/* ─── 트렌드 배너 ─── */
 function TrendBanner({ trendPosts, getPostUrl }) {
   const scrollRef = useRef(null)
   const autoTimerRef = useRef(null)
@@ -952,7 +1026,6 @@ function TrendBanner({ trendPosts, getPostUrl }) {
     el.scrollTo({ left: card.offsetLeft - 24, behavior: 'smooth' })
   }, [])
 
-  // 스크롤 위치에 따른 activeIdx 업데이트
   useEffect(() => {
     const el = scrollRef.current
     if (!el) return
@@ -970,7 +1043,6 @@ function TrendBanner({ trendPosts, getPostUrl }) {
     return () => el.removeEventListener('scroll', onScroll)
   }, [])
 
-  // 자동 스와이프 (4초 간격)
   useEffect(() => {
     const start = () => {
       autoTimerRef.current = setInterval(() => {
@@ -985,10 +1057,7 @@ function TrendBanner({ trendPosts, getPostUrl }) {
     return () => clearInterval(autoTimerRef.current)
   }, [trendPosts.length, scrollToIdx])
 
-  // 사용자 터치 시 자동 스와이프 일시 정지 후 재시작
-  const pauseAuto = useCallback(() => {
-    clearInterval(autoTimerRef.current)
-  }, [])
+  const pauseAuto = useCallback(() => { clearInterval(autoTimerRef.current) }, [])
   const resumeAuto = useCallback(() => {
     clearInterval(autoTimerRef.current)
     autoTimerRef.current = setInterval(() => {
@@ -1022,80 +1091,39 @@ function TrendBanner({ trendPosts, getPostUrl }) {
             href={getPostUrl(post)}
             className="trend-card"
             style={{
-              flexShrink: 0,
-              width: 280,
-              borderRadius: 12,
-              overflow: 'hidden',
-              scrollSnapAlign: 'start',
-              textDecoration: 'none',
-              display: 'block',
-              position: 'relative',
-              boxShadow: '0 4px 20px rgba(0,0,0,0.4)',
-              background: '#0d1117',
-              transition: 'transform 0.2s',
+              flexShrink: 0, width: 240, borderRadius: 12, overflow: 'hidden',
+              scrollSnapAlign: 'start', textDecoration: 'none', display: 'block',
+              position: 'relative', boxShadow: '0 4px 20px rgba(0,0,0,0.4)',
+              background: '#0d1117', transition: 'transform 0.2s',
             }}
           >
-            <div style={{ position: 'relative', width: '100%', height: 160, background: '#1e2330', overflow: 'hidden' }}>
+            <div style={{ position: 'relative', width: '100%', height: 150, background: '#1e2330', overflow: 'hidden' }}>
               {post.thumbnail ? (
-                <img
-                  src={post.thumbnail}
-                  alt={post.title}
-                  style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
-                />
+                <img src={post.thumbnail} alt={post.title} style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }} />
               ) : (
-                <div style={{
-                  width: '100%', height: '100%',
-                  display: 'flex', alignItems: 'center', justifyContent: 'center',
-                  background: 'linear-gradient(135deg, #e50914, #ff6b6b)',
-                  fontSize: 40,
-                }}>🎬</div>
+                <div style={{ width: '100%', height: '100%', display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'linear-gradient(135deg, #e50914, #ff6b6b)', fontSize: 40 }}>🎬</div>
               )}
-              <div style={{
-                position: 'absolute', bottom: 0, left: 0, right: 0, height: '50%',
-                background: 'linear-gradient(to top, rgba(0,0,0,0.7), transparent)',
-              }} />
-              <div style={{
-                position: 'absolute', top: 10, left: 10,
-                background: '#e50914', color: '#fff',
-                fontSize: 10, fontWeight: 800, padding: '3px 8px',
-                borderRadius: 4, letterSpacing: '0.05em',
-              }}>TODAY</div>
+              <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0, height: '50%', background: 'linear-gradient(to top, rgba(0,0,0,0.7), transparent)' }} />
+              <div style={{ position: 'absolute', top: 10, left: 10, background: '#e50914', color: '#fff', fontSize: 10, fontWeight: 800, padding: '3px 8px', borderRadius: 4, letterSpacing: '0.05em' }}>TODAY</div>
             </div>
             <div style={{ padding: '12px 14px 14px' }}>
-              <p style={{
-                margin: 0,
-                fontSize: 13,
-                fontWeight: 700,
-                color: '#fff',
-                lineHeight: 1.45,
-                display: '-webkit-box',
-                WebkitLineClamp: 2,
-                WebkitBoxOrient: 'vertical',
-                overflow: 'hidden',
-              }}>{post.title}</p>
+              <p style={{ margin: 0, fontSize: 13, fontWeight: 700, color: '#fff', lineHeight: 1.45, display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{post.title}</p>
               {post.date && (
-                <p style={{ margin: '8px 0 0', fontSize: 11, color: 'rgba(255,255,255,0.35)' }}>
-                  {post.date}
-                </p>
+                <p style={{ margin: '8px 0 0', fontSize: 11, color: 'rgba(255,255,255,0.35)' }}>{post.date}</p>
               )}
             </div>
           </a>
         ))}
       </div>
-      {/* 인디케이터 점 */}
       {trendPosts.length > 1 && (
         <div style={{ display: 'flex', justifyContent: 'center', gap: 6, marginTop: 4 }}>
           {trendPosts.map((_, i) => (
             <button
               key={i}
-              onClick={() => { scrollToIdx(i); setActiveIdx(i); pauseAuto(); setTimeout(resumeAuto, 3000); }}
+              onClick={() => { scrollToIdx(i); setActiveIdx(i); pauseAuto(); setTimeout(resumeAuto, 3000) }}
               style={{
-                width: activeIdx === i ? 20 : 8,
-                height: 8,
-                borderRadius: 4,
-                border: 'none',
-                padding: 0,
-                cursor: 'pointer',
+                width: activeIdx === i ? 20 : 8, height: 8, borderRadius: 4,
+                border: 'none', padding: 0, cursor: 'pointer',
                 background: activeIdx === i ? '#e50914' : 'rgba(255,255,255,0.25)',
                 transition: 'all 0.3s',
               }}
@@ -1122,7 +1150,7 @@ function SectionHeader({ icon, title }) {
   )
 }
 
-/* ─── 페이지네이션 번호 생성 ─── */
+/* ─── 페이지네이션 ─── */
 function pageNumbers(current, total) {
   if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1)
   const pages = [1]
