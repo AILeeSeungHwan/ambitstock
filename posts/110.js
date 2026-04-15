@@ -206,7 +206,7 @@ const post = {
     },
     {
       type: "body",
-      html: "<blockquote><span style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>부럽다! 브라질영화의 인간탐구와 시대정신</span></b></span></blockquote>",
+      html: "<blockquote><span  style=&quot;color: #781b33;&quot;><b><span style=&quot;font-family: 'Noto Serif KR';&quot;>부럽다! 브라질영화의 인간탐구와 시대정신</span></b></span></blockquote>",
     },
     {
       type: "image",
