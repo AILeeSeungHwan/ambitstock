@@ -10263,6 +10263,24 @@ const posts = [
     contentType: 'Q&A해석형',
     platform: 'Netflix',
     spoilerLevel: 'low'
+  },
+  {
+    id: 669,
+    slug: 'girigo-netflix-ya-horror-2026',
+    title: '기리고 넷플릭스 4월 24일 공개 — 한국 최초 YA 호러, 소원 빌면 죽는 앱의 공포',
+    description: '기리고 넷플릭스 4월 24일 공개. 한국 최초 YA 호러 시리즈 — 소원 이루어주는 앱이 24시간 사망 타이머를 건다. 킹덤·무빙 박윤서 감독, 신인 배우 전소영·강미나, 8화 구성. 바디캠 연출·입체 음향으로 체험형 공포 설계. 추천 대상과 기대 포인트 정리.',
+    category: '드라마',
+    date: '2026-04-16',
+    tags: ['기리고', '넷플릭스', '한국드라마', 'YA호러', '공포드라마', '2026신작', '트렌드', '넷플릭스신작'],
+    thumbnail: '/images/post669_poster.jpg',
+    relatedSlugs: [
+      'beef-season2-qa-guide-2026-netflix',
+      'beef-black-comedy-drama-recommend-top7-2026',
+      'park-haeyoung-drama-world-guide-2026-moja-musa'
+    ],
+    contentType: '트렌드형',
+    platform: 'Netflix',
+    spoilerLevel: 'none'
   }
 ]
 
