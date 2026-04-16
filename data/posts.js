@@ -10245,6 +10245,24 @@ const posts = [
     contentType: '트렌드',
     platform: 'JTBC/넷플릭스/웨이브',
     spoilerLevel: 'none'
+  },
+  {
+    id: 668,
+    slug: 'beef-season2-qa-guide-2026-netflix',
+    title: '성난사람들2 Q&A 가이드 — 시즌1 연결? 세대 갈등? 서울까지 가는 이유? 9가지 질문 총정리',
+    description: '성난사람들2(BEEF Season 2) 4월 16일 넷플릭스 전편 공개. Q&A 해석 가이드 — 시즌1 안 봐도 되나요? 컨트리 클럽 배경 이유, Gen Z vs 밀레니얼 세대 갈등, 오스카 아이작·케어리 멀리건 캐릭터, 왜 서울까지 가나, 윤여정·송강호 역할, 시즌3 가능성 9가지 정리.',
+    category: '드라마',
+    date: '2026-04-16',
+    tags: ['성난사람들', 'BEEF', '성난사람들2', '넷플릭스', '오스카아이작', '케어리멀리건', '찰스멜튼', '이창진', '해외드라마', 'Q&A해석'],
+    thumbnail: '/images/post668_thumb.svg',
+    relatedSlugs: [
+      'beef-black-comedy-drama-recommend-top7-2026',
+      'april-2026-mid-late-ott-calendar-beef2-apex-girigo-goldland',
+      'park-haeyoung-drama-world-guide-2026-moja-musa'
+    ],
+    contentType: 'Q&A해석형',
+    platform: 'Netflix',
+    spoilerLevel: 'low'
   }
 ]
 
