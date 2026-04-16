@@ -10227,6 +10227,24 @@ const posts = [
     contentType: 'TOP추천형',
     platform: 'Netflix/쿠팡플레이/Apple TV+/티빙',
     spoilerLevel: 'none'
+  },
+  {
+    id: 667,
+    slug: 'park-haeyoung-drama-world-guide-2026-moja-musa',
+    title: '박해영 작가 드라마 완전 정복 — 또오해영·나의아저씨·나의해방일지에서 모자무싸까지',
+    description: '박해영 작가 드라마 세계관 분석. 또! 오해영(IMDb 7.7)·나의 아저씨(파울로 코엘료 극찬)·나의 해방일지(IMDb 8.2)를 관통하는 5가지 문법. 모자무싸(4월 18일 JTBC) 첫방 전 필독 가이드, 시청 순서 추천.',
+    category: '드라마',
+    date: '2026-04-16',
+    tags: ['트렌드', '박해영', '나의아저씨', '나의해방일지', '모자무싸', '또오해영', 'JTBC드라마', '드라마추천', 'K드라마', '구교환', '고윤정'],
+    thumbnail: '/images/post667_thumb.svg',
+    relatedSlugs: [
+      'everyone-fighting-worthlessness-jtbc-april-2026-park-haeyoung',
+      '21st-century-grand-princess-iu-byeonwooseok-chemistry-2026',
+      'soldout-today-an-hyoseop-chae-wonbin-sbs-2026-preview'
+    ],
+    contentType: '트렌드',
+    platform: 'JTBC/넷플릭스/웨이브',
+    spoilerLevel: 'none'
   }
 ]
 
