@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a1b9a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a148c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="630" fill="rgba(0,0,0,0.25)"/>
+  <text x="600" y="200" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="52" font-weight="bold" fill="#E1BEE7" text-anchor="middle">tvN · 티빙</text>
+  <text x="600" y="300" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="72" font-weight="bold" fill="white" text-anchor="middle">유미의 세포들 3</text>
+  <text x="600" y="390" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="46" fill="#CE93D8" text-anchor="middle">4년 만의 귀환 — 김고은 × 김재원</text>
+  <text x="600" y="480" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="36" fill="#BA68C8" text-anchor="middle">티빙 1위 vs tvN 1%대 시청률 — 볼만한가?</text>
+  <text x="600" y="580" font-family="'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="28" fill="rgba(255,255,255,0.6)" text-anchor="middle">ambitstock.com · 2026</text>
+</svg>

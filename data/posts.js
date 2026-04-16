@@ -10299,6 +10299,42 @@ const posts = [
     contentType: '리뷰형',
     platform: 'Netflix',
     spoilerLevel: 'low'
+  },
+  {
+    id: 671,
+    slug: 'yumi-cells-season3-kimgoeun-kimjaewon-2026-review',
+    title: '유미의 세포들 3 리뷰 — 4년 만의 귀환, 김고은×김재원 케미·티빙 1위 vs tvN 1%대 갭 분석',
+    description: '유미의 세포들 3 tvN·티빙 2026년 4월 13일 공개. 4년 만의 시즌3 — 성공한 작가 유미가 다시 설레는 이야기. 김고은·김재원 신순록 케미, 시즌1·2와의 차이, 티빙 1위 vs TV 시청률 1%대 갭 분석, 추천 대상 솔직 정리.',
+    category: '드라마',
+    date: '2026-04-17',
+    tags: ['트렌드', '유미의세포들', '유미의세포들3', 'tvN', '티빙', '김고은', '김재원', 'K드라마', '로맨스드라마', '드라마추천'],
+    thumbnail: '/images/post671_thumb.svg',
+    relatedSlugs: [
+      'soldout-today-an-hyoseop-chae-wonbin-sbs-2026-preview',
+      '21st-century-grand-princess-iu-byeonwooseok-chemistry-2026',
+      'park-haeyoung-drama-world-guide-2026-moja-musa'
+    ],
+    contentType: '리뷰형',
+    platform: 'tvN/티빙',
+    spoilerLevel: 'low'
+  },
+  {
+    id: 672,
+    slug: 'euphoria-season3-overseas-reaction-zendaya-2026',
+    title: '유포리아 시즌3 해외반응 — RT 42%·850만 뷰어·젠데이아 복귀, 볼 만한가 솔직 분석',
+    description: '유포리아(Euphoria) 시즌3 HBO 2026년 4월 12일 공개. 3일 만에 850만 뷰어, 로튼토마토 42%. 젠데이아 Rue 5년 후 이야기, 시드니 스위니 Cassie 논란, 65mm 촬영 비주얼, 시즌1 vs 시즌3 비교, 추천 대상 총정리.',
+    category: '해외반응후기',
+    date: '2026-04-17',
+    tags: ['트렌드', '유포리아', '유포리아시즌3', 'Euphoria', 'HBO', 'HBO맥스', '젠데이아', '시드니스위니', '해외드라마', '해외반응'],
+    thumbnail: '/images/post672_thumb.svg',
+    relatedSlugs: [
+      'sinners-2025-overseas-reaction-oscar-4wins-rt97',
+      'siren-tvn-overseas-reaction-ratings-2026',
+      'beef-season2-qa-guide-2026-netflix'
+    ],
+    contentType: '해외반응형',
+    platform: 'HBO/웨이브',
+    spoilerLevel: 'low'
   }
 ]
 
