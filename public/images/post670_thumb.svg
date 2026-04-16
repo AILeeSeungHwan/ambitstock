@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a3a5c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d47a1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e53935;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6f00;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="0" y="0" width="6" height="630" fill="url(#accent)" />
+  <rect x="80" y="260" width="120" height="6" fill="url(#accent)" rx="3" />
+  <text x="80" y="160" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="28" font-weight="700" fill="#90caf9" letter-spacing="3">넷플릭스 드라마 리뷰</text>
+  <text x="80" y="250" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="72" font-weight="900" fill="#ffffff">사냥개들 시즌2</text>
+  <text x="80" y="330" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="36" font-weight="700" fill="#ffcc02">정지훈 첫 악역 · 맨주먹 액션</text>
+  <text x="80" y="395" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="30" font-weight="400" fill="#b0bec5">시즌1보다 낫나? 솔직 리뷰</text>
+  <text x="80" y="510" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="24" font-weight="400" fill="#64b5f6">IMDb 8.8 · 글로벌 비영어 1위 · 7부작</text>
+  <rect x="80" y="545" width="200" height="44" rx="22" fill="url(#accent)" />
+  <text x="180" y="573" font-family="'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">ambitstock.com</text>
+</svg>

@@ -10281,6 +10281,24 @@ const posts = [
     contentType: '트렌드형',
     platform: 'Netflix',
     spoilerLevel: 'none'
+  },
+  {
+    id: 670,
+    slug: 'bloodhounds-season2-review-wdo-rain-action-2026',
+    title: '사냥개들 시즌2 리뷰 — 정지훈 첫 악역·맨주먹 액션, 시즌1보다 나은가 솔직 평가',
+    description: '사냥개들 시즌2 넷플릭스 2026년 4월 3일 공개. IMDb 8.8, 글로벌 비영어 1위(740만 시청). 우도환·이상이 케미, 정지훈 빌런 백정 첫 악역, 베어너클 액션 진화, 시즌1 vs 시즌2 솔직 비교, 추천 대상 총정리.',
+    category: '드라마',
+    date: '2026-04-16',
+    tags: ['사냥개들', '사냥개들시즌2', '넷플릭스', '우도환', '이상이', '정지훈', 'Rain', '넷플릭스드라마', 'K액션드라마', '드라마리뷰'],
+    thumbnail: '/images/post670_thumb.svg',
+    relatedSlugs: [
+      'bloodhounds-season2-overseas-reaction-global-85-countries-2026',
+      'bloodhounds-vs-beef-season2-netflix-april-2026-comparison',
+      'netflix-korean-thriller-movies-top7-hidden-gems-overseas-hit-2026'
+    ],
+    contentType: '리뷰형',
+    platform: 'Netflix',
+    spoilerLevel: 'low'
   }
 ]
 
