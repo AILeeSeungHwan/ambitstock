@@ -1,0 +1,14 @@
+[
+  {
+    "post_id": 666,
+    "movies": [
+      {"query": "플리백 Fleabag 드라마", "max_images": 1},
+      {"query": "배리 Barry HBO 드라마", "max_images": 1},
+      {"query": "이 세상의 끝에서 The End of the Fing World 드라마", "max_images": 1},
+      {"query": "배드 시스터즈 Bad Sisters 드라마", "max_images": 1},
+      {"query": "데드 투 미 Dead to Me 드라마", "max_images": 1},
+      {"query": "나쁜 엄마 드라마 라미란 이도현", "max_images": 1},
+      {"query": "서세션 Succession HBO 드라마", "max_images": 1}
+    ]
+  }
+]
