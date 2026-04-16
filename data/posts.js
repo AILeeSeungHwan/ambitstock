@@ -10209,6 +10209,24 @@ const posts = [
     contentType: '트렌드',
     platform: 'Disney+/MBC',
     spoilerLevel: 'none'
+  },
+  {
+    id: 666,
+    slug: 'beef-black-comedy-drama-recommend-top7-2026',
+    title: '성난사람들2 공개 기념 — 분노·블랙코미디 드라마 추천 TOP 7 (2026)',
+    description: '성난사람들2(BEEF Season 2) 4월 16일 공개 기념. 비슷한 분노·블랙코미디 드라마 7편 추천 — Fleabag, Barry, 이 세상의 끝에서, Bad Sisters, Dead to Me, 나쁜 엄마, Succession. OTT 시청처·추천 대상·호불호 포함.',
+    category: '드라마',
+    date: '2026-04-16',
+    tags: ['성난사람들', 'BEEF', '블랙코미디', '드라마추천', 'Fleabag', 'Barry', 'Succession', '넷플릭스', '쿠팡플레이', '해외드라마추천'],
+    thumbnail: '/images/post666_thumb.svg',
+    relatedSlugs: [
+      'devil-wears-prada-2-career-movies-top7-ott-2026',
+      'soldout-today-an-hyoseop-chae-wonbin-sbs-2026-preview',
+      'april-2026-mid-late-ott-calendar-beef2-apex-girigo-goldland'
+    ],
+    contentType: 'TOP추천형',
+    platform: 'Netflix/쿠팡플레이/Apple TV+/티빙',
+    spoilerLevel: 'none'
   }
 ]
 

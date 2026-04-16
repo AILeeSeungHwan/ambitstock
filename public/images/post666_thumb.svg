@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#16213e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f3460;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e50914;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6b35;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="0" y="0" width="8" height="630" fill="url(#accent)" />
+  <rect x="60" y="260" width="500" height="6" fill="url(#accent)" rx="3" />
+  <text x="60" y="160" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="42" font-weight="700" fill="#ff6b35" letter-spacing="2">분노 &amp; 블랙코미디 드라마</text>
+  <text x="60" y="240" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="88" font-weight="900" fill="#ffffff" letter-spacing="-2">지금 꼭 봐야 할</text>
+  <text x="60" y="340" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="88" font-weight="900" fill="#e50914">TOP 7</text>
+  <text x="60" y="430" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="34" font-weight="400" fill="#aaaacc">성난사람들2(BEEF) 공개 기념 추천</text>
+  <text x="1140" y="600" font-family="'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif" font-size="24" font-weight="400" fill="#555577" text-anchor="end">ambitstock.com</text>
+</svg>
