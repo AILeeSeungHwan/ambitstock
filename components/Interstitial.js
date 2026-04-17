@@ -122,13 +122,24 @@ export default function Interstitial() {
 
   /* ── AdSense push ── */
   useEffect(() => {
-    if (visible && !adPushed.current && process.env.NODE_ENV === 'production') {
-      try {
-        ;(window.adsbygoogle = window.adsbygoogle || []).push({})
-        adPushed.current = true
-      } catch (e) {
-        console.error('Interstitial AdSense error:', e)
-      }
+    if (!visible || adPushed.current || process.env.NODE_ENV !== 'production') return
+
+    // 두 번의 rAF로 브라우저 레이아웃이 완료된 뒤 push
+    // visible=true 직후에 push하면 ins 요소의 계산 너비가 0 → availableWidth=0 에러
+    let raf1, raf2
+    raf1 = requestAnimationFrame(() => {
+      raf2 = requestAnimationFrame(() => {
+        try {
+          ;(window.adsbygoogle = window.adsbygoogle || []).push({})
+          adPushed.current = true
+        } catch (e) {
+          console.error('Interstitial AdSense error:', e)
+        }
+      })
+    })
+    return () => {
+      cancelAnimationFrame(raf1)
+      cancelAnimationFrame(raf2)
     }
   }, [visible])
 
