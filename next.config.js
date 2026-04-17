@@ -3,6 +3,21 @@ const posts = require('./data/posts')
 module.exports = {
   trailingSlash: true,
   reactStrictMode: true,
+  async headers() {
+    return [
+      {
+        // 정적 포스트 페이지: 엣지 CDN에서 24시간 캐시, stale-while-revalidate 7일
+        // → 매 요청마다 데이터 스토어를 읽지 않아 ISR Read Unit 대폭 감소
+        source: '/:path((?!api/).*)',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, s-maxage=86400, stale-while-revalidate=604800',
+          },
+        ],
+      },
+    ]
+  },
   async rewrites() {
     return [
       { source: '/sitemap.xml', destination: '/api/sitemap' },
