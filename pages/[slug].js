@@ -334,7 +334,7 @@ export default function PostPage({ meta, postData, related, internalLinks, simil
         <SummaryBox sections={postData.sections} />
 
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: 8, margin: '0 0 8px' }}>
-          <AdUnit slot="6297515693" format="auto" style={{ minWidth: 0 }} />
+          <AdUnit slot="6297515693" format="auto" style={{ minWidth: 0 }} eager />
           <div className="top-ad-second-wrapper" style={{ minWidth: 0 }}>
             <AdUnit slot="6297515693" format="auto" style={{ minWidth: 0 }} />
           </div>
