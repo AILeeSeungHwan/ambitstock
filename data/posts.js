@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 675,
+    slug: 'apple-tv-plus-april-2026-guide-margo-criminalrecord-yourfriends',
+    title: '애플TV+ 4월 2026 완전 가이드 — Margo RT 97%·크리미널 레코드 S2·Your Friends, 지금 봐야 할 4편',
+    description: '애플TV+ 2026년 4월 신작 완전 가이드. Margo\'s Got Money Troubles(엘 패닝, RT 97%) · Your Friends & Neighbors S2(존 햄, RT 88%) · Criminal Record S2(4/22) · Widow\'s Bay(4/29). 각 작품 추천 대상·시청 전략 정리.',
+    category: '영화추천',
+    date: '2026-04-17',
+    tags: ['OTT가이드', '애플TV플러스', '마고', 'Margo', '크리미널레코드', 'YourFriends', '엘리패닝', '존햄', '4월신작', '미셸파이퍼'],
+    thumbnail: '/images/post675_thumb.svg',
+    relatedSlugs: [
+      '2026-foreign-drama-recommend-top10',
+      'april-2026-mid-late-ott-calendar-beef2-apex-girigo-goldland',
+      'daredevil-series-watch-guide-born-again-season2-2026'
+    ],
+    contentType: 'OTT가이드',
+    platform: '애플TV플러스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 674,
     slug: 'romance-absolute-value-coupangplay-kimhyanggi-bl-haitin-2026',
     title: '로맨스의 절댓값 리뷰 — 오늘 공개 쿠팡플레이 하이틴, BL 작가 이중생활 볼 만한가',

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e94560"/>
+      <stop offset="100%" style="stop-color:#f5a623"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="6" height="630" fill="url(#accent)"/>
+  <rect x="80" y="60" width="160" height="40" rx="6" fill="#e94560"/>
+  <text x="160" y="88" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">OTT 가이드</text>
+  <text x="80" y="200" font-family="Arial, sans-serif" font-size="72" font-weight="900" fill="white">애플TV+</text>
+  <text x="80" y="285" font-family="Arial, sans-serif" font-size="68" font-weight="900" fill="url(#accent)">4월 2026 완전 가이드</text>
+  <text x="80" y="370" font-family="Arial, sans-serif" font-size="34" fill="#b0bec5">Margo · 크리미널 레코드 S2 · Your Friends</text>
+  <text x="80" y="420" font-family="Arial, sans-serif" font-size="34" fill="#b0bec5">지금 놓치면 아까운 4편 완전 정리</text>
+  <text x="80" y="540" font-family="Arial, sans-serif" font-size="26" fill="#78909c">RT 97% · RT 88% · Apple TV+ 4월 신작</text>
+  <text x="1120" y="590" font-family="Arial, sans-serif" font-size="22" fill="#546e7a" text-anchor="end">ambitstock.com</text>
+</svg>
