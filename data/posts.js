@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 674,
+    slug: 'romance-absolute-value-coupangplay-kimhyanggi-bl-haitin-2026',
+    title: '로맨스의 절댓값 리뷰 — 오늘 공개 쿠팡플레이 하이틴, BL 작가 이중생활 볼 만한가',
+    description: '로맨스의 절댓값 4월 17일 오늘 쿠팡플레이 공개. BL 소설 쓰는 여고생 김향기 주연 하이틴 드라마, 볼 만한가? 출연진·줄거리·장르·추천 대상 완전 정리.',
+    category: '드라마',
+    date: '2026-04-17',
+    tags: ['트렌드', '로맨스의절댓값', '쿠팡플레이', '김향기', '차학연', '하이틴', 'BL', '드라마추천'],
+    thumbnail: '/images/post674_thumb.svg',
+    relatedSlugs: [
+      'yumis-cells-season3-kimgoeun-kimjaewon-tving-tvn-april-2026',
+      'grand-princess-vs-yumis-cells-season3-romance-comparison-april-2026',
+      'coupang-play-2026-spring-lineup-hbo-originals'
+    ],
+    contentType: '트렌드형',
+    platform: '쿠팡플레이',
+    spoilerLevel: 'none'
+  },
+  {
     id: 673,
     slug: 'daredevil-series-watch-guide-born-again-season2-2026',
     title: '데어데블 시리즈 완전 시청 가이드 — 넷플릭스 원작 봐야 해? 본어게인 시즌2까지 순서 정리',
