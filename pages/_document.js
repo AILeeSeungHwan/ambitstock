@@ -4,6 +4,7 @@ export default function Document() {
   return (
     <Html lang="ko">
       <Head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         {/* Google AdSense — 수동 광고만 사용 (자동광고 완전 비활성) */}
         <meta name="google-adsense-platform-account" content="ca-pub-8640254349508671" />
         <script

@@ -339,6 +339,7 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
             display: flex; gap: 8px; overflow-x: auto; padding-bottom: 8px;
             margin-bottom: 20px; -webkit-overflow-scrolling: touch;
             scrollbar-width: none; -ms-overflow-style: none;
+            width: 100%; min-width: 0; box-sizing: border-box;
           }
           .lv-cat-scroll::-webkit-scrollbar { display: none; }
           .lv-cat-pill {
@@ -699,6 +700,7 @@ export default function Home({ posts, catCount, trendPosts, topWorks, totalCount
         /* ─── 모바일 트렌드 스크롤 ─── */
         .mob-trend-scroll {
           display: flex; gap: 12px; overflow-x: auto;
+          width: 100%; min-width: 0;
           padding-bottom: 8px; -webkit-overflow-scrolling: touch;
           scrollbar-width: none; -ms-overflow-style: none;
         }
@@ -885,7 +887,7 @@ function OTTSection({ sorted, getPostUrl, onViewAll }) {
   return (
     <section style={{ marginBottom: 48 }}>
       <SectionHeader icon="📺" title="OTT별 탐색" />
-      <div style={{ display: 'flex', gap: 8, marginBottom: 20, overflowX: 'auto', paddingBottom: 4, scrollbarWidth: 'none' }}>
+      <div style={{ display: 'flex', gap: 8, marginBottom: 20, overflowX: 'auto', paddingBottom: 4, scrollbarWidth: 'none', width: '100%', minWidth: 0, boxSizing: 'border-box' }}>
         {OTT_SECTIONS.map((o, idx) => (
           <button key={o.label} onClick={() => setActiveOtt(idx)} style={{
             display: 'flex', alignItems: 'center', gap: 6,
@@ -979,7 +981,7 @@ function PopularTabSection({ categories, byCategory, handleCat }) {
   return (
     <section style={{ marginBottom: 48 }}>
       <SectionHeader icon="📌" title="인기 콘텐츠" />
-      <div style={{ display: 'flex', gap: 6, marginBottom: 20, overflowX: 'auto', paddingBottom: 4, scrollbarWidth: 'none' }}>
+      <div style={{ display: 'flex', gap: 6, marginBottom: 20, overflowX: 'auto', paddingBottom: 4, scrollbarWidth: 'none', width: '100%', minWidth: 0, boxSizing: 'border-box' }}>
         {TABS.map((t, idx) => (
           <button key={t.label} onClick={() => setActiveTab(idx)} style={{
             padding: '7px 14px', borderRadius: 20, cursor: 'pointer',
@@ -1079,7 +1081,7 @@ function TrendBanner({ trendPosts, getPostUrl }) {
       <div
         ref={scrollRef}
         className="trend-scroll"
-        style={{ display: 'flex', gap: 16, overflowX: 'auto', padding: '0 24px 16px', scrollSnapType: 'x mandatory' }}
+        style={{ display: 'flex', gap: 16, overflowX: 'auto', padding: '0 24px 16px', scrollSnapType: 'x mandatory', width: '100%', minWidth: 0, boxSizing: 'border-box' }}
         onTouchStart={pauseAuto}
         onTouchEnd={() => setTimeout(resumeAuto, 3000)}
         onMouseDown={pauseAuto}

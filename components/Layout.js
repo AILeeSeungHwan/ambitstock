@@ -845,8 +845,8 @@ export default function Layout({ children, title, description, onCategoryChange 
           --accent-color: ${t.accent};
         }
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
-        body { color: ${t.text}; background: ${t.bg}; overflow-x: hidden; }
+        html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; overflow-x: hidden; max-width: 100%; }
+        body { color: ${t.text}; background: ${t.bg}; overflow-x: hidden; max-width: 100%; }
         a { color: inherit; }
         img { max-width: 100%; }
         ::selection { background: ${t.primary}33; }
