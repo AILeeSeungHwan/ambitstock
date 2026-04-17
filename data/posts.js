@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 673,
+    slug: 'daredevil-series-watch-guide-born-again-season2-2026',
+    title: '데어데블 시리즈 완전 시청 가이드 — 넷플릭스 원작 봐야 해? 본어게인 시즌2까지 순서 정리',
+    description: '데어데블 시리즈 시청 순서 완전 가이드. 넷플릭스 원작 3시즌 꼭 봐야 하는지, 호크아이·에코 연결, 본어게인 시즌2(2026, RT 93%, 에피4 IMDb 9.6) 필수 시청 전략. 처음 보는 사람·원작 팬 모두를 위한 로드맵.',
+    category: '마블',
+    date: '2026-04-17',
+    tags: ['데어데블', '본어게인', 'DaredevilBornAgain', '마블', 'MCU', '디즈니플러스', '시청순서', '시즌2', '시리즈가이드', '챨리콕스'],
+    thumbnail: '/images/post673_thumb.svg',
+    relatedSlugs: [
+      'beef-black-comedy-drama-recommend-top7-2026',
+      'beef-season2-qa-guide-2026-netflix',
+      'park-haeyoung-drama-world-guide-2026-moja-musa'
+    ],
+    contentType: '시리즈가이드',
+    platform: '디즈니플러스',
+    spoilerLevel: 'minor'
+  },
+  {
     id: 654,
     slug: 'april-2026-mid-late-ott-calendar-beef2-apex-girigo-goldland',
     title: '4월 중·하순 OTT 신작 캘린더 — BEEF 시즌2·Apex·기리고·골드랜드, 날짜별 시청 전략',
