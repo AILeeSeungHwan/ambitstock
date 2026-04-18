@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 676,
+    slug: 'perfect-crown-iu-byeon-wooseok-disney-2026-review',
+    title: '21세기 대군부인 리뷰 — 아이유·변우석 디즈니+ 44개국 1위, 볼 만한가',
+    description: '21세기 대군부인 아이유·변우석 리뷰. 디즈니+ 역대 K-드라마 최고 시청 기록, 44개국 Top10, 시청률 12.7%. 해외반응·호불호·추천 대상 솔직 정리.',
+    category: '드라마',
+    date: '2026-04-18',
+    tags: ['드라마', '디즈니플러스', '아이유', '변우석', '로맨스', '2026', '트렌드', '해외반응', 'K드라마'],
+    thumbnail: '/images/post676_thumb.svg',
+    relatedSlugs: [
+      'yumi-cells-season3-kimgoeun-kimjaewon-2026-review',
+      'euphoria-season3-overseas-reaction-zendaya-2026',
+      'romance-absolute-value-coupangplay-kimhyanggi-bl-haitin-2026'
+    ],
+    contentType: '트렌드형',
+    platform: '디즈니플러스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 675,
     slug: 'apple-tv-plus-april-2026-guide-margo-criminalrecord-yourfriends',
     title: '애플TV+ 4월 2026 완전 가이드 — Margo RT 97%·크리미널 레코드 S2·Your Friends, 지금 봐야 할 4편',
