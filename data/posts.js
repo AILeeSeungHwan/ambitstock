@@ -10425,8 +10425,44 @@ const posts = [
     contentType: '해외반응형',
     platform: 'HBO/웨이브',
     spoilerLevel: 'low'
+  },
+  {
+    id: 678,
+    slug: 'mojamussa-first-episode-review-jtbc-koo-kyohwan-2026',
+    title: '모자무싸 첫방 리뷰 — 구교환·고윤정 박해영 작가 복귀작, 1~2화 솔직 평가',
+    description: '모자무싸(모두가 자신의 무가치함과 싸우고 있다) 1~2화 리뷰. 박해영 작가(나의 해방일지)×차영훈 감독(동백꽃 필 무렵). 구교환·고윤정 연기, 박해영 문법, 차영훈 연출, 추천 대상·비추천 대상 솔직 정리.',
+    category: '드라마',
+    date: '2026-04-19',
+    tags: ['트렌드', '모자무싸', '구교환', '고윤정', 'JTBC드라마', '박해영작가', '차영훈감독', '2026드라마', '4월드라마', '나의해방일지'],
+    thumbnail: '/images/post678_thumb.svg',
+    relatedSlugs: [
+      'mojamusa-jtbc-drama-april-2026-goo-kyohwan-go-yunjung-park-haeyoung',
+      'park-haeyoung-drama-world-guide-2026-moja-musa',
+      'recommend-drama-netflix-jtbc-top10-ott'
+    ],
+    contentType: '리뷰형',
+    platform: 'JTBC/티빙',
+    spoilerLevel: 'low'
+  },
+  {
+    id: 679,
+    slug: 'dr-stone-science-future-netflix-april-2026-season4-review',
+    title: '닥터스톤 SCIENCE FUTURE 완전 정리 — 시즌4 최종편, 달 프로젝트와 완결까지',
+    description: '닥터스톤 SCIENCE FUTURE(시즌4 파트3) 2026년 4월 2일 넷플릭스 공개. 스톤월드 달 착륙 프로젝트, 츠카사 복귀, 와이맨 정체 등 최종 아크 핵심 정리. 처음 보는 신규 시청자 시청 순서 가이드 포함.',
+    category: '애니메이션',
+    date: '2026-04-19',
+    tags: ['트렌드', '닥터스톤', 'SCIENCE FUTURE', '넷플릭스애니', '2026봄애니', '센쿠', '일본애니', '애니추천', '닥터스톤시즌4', '넷플릭스'],
+    thumbnail: '/images/post679_thumb.svg',
+    relatedSlugs: [
+      'spring-2026-anime-top7-must-watch-guide',
+      'liar-game-anime-2026-april-madhouse-guide'
+    ],
+    contentType: '리뷰형',
+    platform: '넷플릭스/대원방송',
+    spoilerLevel: 'low'
   }
 ]
 
 module.exports = posts
+module.exports.default = posts
 module.exports.default = posts
