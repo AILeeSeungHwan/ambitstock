@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 677,
+    slug: 'beef-season2-ending-explained-samsara-epilogue-2026',
+    title: '성난사람들2 결말 해석 — 삼사라의 바퀴, Josh 체포와 8년 후 에필로그의 진짜 의미',
+    description: '성난사람들(BEEF) 시즌2 결말 해석. 에피소드 8 서울 결전, Josh 자백과 체포 이유, 불교 삼사라 바퀴 상징 분석, 8년 후 에필로그에서 Ashley가 새 GM이 된 의미, 시즌3 가능성까지 스포일러 완전 정리.',
+    category: '드라마',
+    date: '2026-04-18',
+    tags: ['결말해석', '성난사람들', 'BEEF', '성난사람들2', '넷플릭스', '오스카아이작', '케어리멀리건', '삼사라', '이성진', '해외드라마'],
+    thumbnail: '/images/post677_thumb.svg',
+    relatedSlugs: [
+      'beef-season2-qa-guide-2026-netflix',
+      'beef-black-comedy-drama-recommend-top7-2026',
+      'bloodhounds-vs-beef-season2-netflix-april-2026-comparison'
+    ],
+    contentType: '결말해석형',
+    platform: '넷플릭스',
+    spoilerLevel: 'heavy'
+  },
+  {
     id: 676,
     slug: 'perfect-crown-iu-byeon-wooseok-disney-2026-review',
     title: '21세기 대군부인 리뷰 — 아이유·변우석 디즈니+ 44개국 1위, 볼 만한가',
