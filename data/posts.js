@@ -10460,6 +10460,24 @@ const posts = [
     contentType: '리뷰형',
     platform: '넷플릭스/대원방송',
     spoilerLevel: 'low'
+  },
+  {
+    id: 680,
+    slug: 'netflix-korean-drama-recommend-top7-genre-binge-2026',
+    title: '넷플릭스 한국 드라마 정주행 추천 TOP7 — 장르별 완결작, 지금 바로 시작 가능',
+    description: '넷플릭스 한국 드라마 정주행 추천 TOP7. 폭싹 속았수다(IMDb 9.4)·중증외상센터(3100만뷰)·사냥개들 시즌2(글로벌1위)·눈물의 여왕·더 에이트 쇼·정년이·지옥 시즌2 장르별 완결작 총정리.',
+    category: '드라마',
+    date: '2026-04-19',
+    tags: ['넷플릭스', '한국드라마추천', '정주행추천', 'K드라마', '드라마추천', '완결드라마', 'OTT추천', '넷플릭스드라마'],
+    thumbnail: '/images/post680_thumb.svg',
+    relatedSlugs: [
+      'bloodhounds-season2-review-wdo-rain-action-2026',
+      'netflix-korean-thriller-movies-top7-hidden-gems-overseas-hit-2026',
+      'netflix-2026-second-half-kdrama-top5-preview'
+    ],
+    contentType: 'TOP추천형',
+    platform: '넷플릭스/tvN/KBS2/웨이브',
+    spoilerLevel: 'none'
   }
 ]
 
