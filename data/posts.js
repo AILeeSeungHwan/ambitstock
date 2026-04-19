@@ -10496,6 +10496,24 @@ const posts = [
     contentType: '리뷰형',
     platform: 'MBC/디즈니+',
     spoilerLevel: 'low'
+  },
+  {
+    id: 682,
+    slug: 'big-mistakes-netflix-review-2026-dan-levy',
+    title: '빅 미스테이크 리뷰 — 댄 레비 넷플릭스 4월 신작, 쉿 크릭과 다른 이유 (호불호 정리)',
+    description: '빅 미스테이크(Big Mistakes) 넷플릭스 4월 신작 리뷰. 댄 레비 범죄 코미디 시리즈, 로튼토마토 79%·IMDb 6.9. 쉿 크릭과 완전히 다른 블랙 코미디, 호불호 완전 정리.',
+    category: '드라마',
+    date: '2026-04-19',
+    tags: ['빅미스테이크', '넷플릭스', '댄레비', '블랙코미디', '넷플릭스신작', '넷플릭스4월신작', '드라마추천'],
+    thumbnail: '/images/post682_thumb.svg',
+    relatedSlugs: [
+      'beef-season2-guide-netflix-april-2026',
+      'beef-black-comedy-drama-recommend-top7-2026',
+      'netflix-korean-drama-recommend-top7-genre-binge-2026'
+    ],
+    contentType: '리뷰형',
+    platform: '넷플릭스',
+    spoilerLevel: 'low'
   }
 ]
 
