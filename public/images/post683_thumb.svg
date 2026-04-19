@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#004d40"/>
+      <stop offset="100%" style="stop-color:#00897b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="18" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="2"/>
+  <text x="600" y="175" font-family="'Noto Sans KR', sans-serif" font-size="68" font-weight="bold" fill="white" text-anchor="middle">고깔모자의 아틀리에</text>
+  <text x="600" y="270" font-family="'Noto Sans KR', sans-serif" font-size="42" fill="#ffeb3b" text-anchor="middle">2026 봄 최고 판타지 애니</text>
+  <text x="600" y="355" font-family="'Noto Sans KR', sans-serif" font-size="36" fill="white" text-anchor="middle">프리렌 이후 이 작품이 온다</text>
+  <line x1="300" y1="400" x2="900" y2="400" stroke="rgba(255,255,255,0.3)" stroke-width="1.5"/>
+  <text x="600" y="450" font-family="'Noto Sans KR', sans-serif" font-size="30" fill="#b2dfdb" text-anchor="middle">IMDb 8.6 · 넷플릭스/크런치롤 · 애니메이션</text>
+  <text x="600" y="520" font-family="'Noto Sans KR', sans-serif" font-size="26" fill="rgba(255,255,255,0.6)" text-anchor="middle">ambitstock.com</text>
+</svg>

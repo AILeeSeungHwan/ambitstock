@@ -10498,6 +10498,24 @@ const posts = [
     spoilerLevel: 'low'
   },
   {
+    id: 683,
+    slug: 'witch-hat-atelier-anime-review-spring-2026',
+    title: '고깔모자의 아틀리에 리뷰 — 프리렌 이후 최고 판타지 애니, 넷플릭스에서 지금 봐야 하는 이유',
+    description: '고깔모자의 아틀리에 2026년 봄 애니 리뷰. IMDb 8.6, Screen Rant 10/10. 마법 설정이 탄탄한 넷플릭스/크런치롤 판타지 애니. 프리렌과 비교, 추천 대상, 호불호 완전 정리.',
+    category: '애니메이션',
+    date: '2026-04-19',
+    tags: ['트렌드', '고깔모자의아틀리에', '넷플릭스애니', '2026봄애니', '판타지애니', '애니추천', '넷플릭스', '크런치롤'],
+    thumbnail: '/images/post683_thumb.svg',
+    relatedSlugs: [
+      'spring-2026-anime-top7-must-watch-guide',
+      'dr-stone-science-future-netflix-april-2026-season4-review',
+      'liar-game-anime-2026-april-madhouse-guide'
+    ],
+    contentType: '리뷰형',
+    platform: '넷플릭스/크런치롤',
+    spoilerLevel: 'low'
+  },
+  {
     id: 682,
     slug: 'big-mistakes-netflix-review-2026-dan-levy',
     title: '빅 미스테이크 리뷰 — 댄 레비 넷플릭스 4월 신작, 쉿 크릭과 다른 이유 (호불호 정리)',
