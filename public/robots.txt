@@ -3,5 +3,7 @@ Allow: /
 Disallow: /api/
 Disallow: /adminLee/
 
+Sitemap: https://www.ambitstock.com/sitemap.xml
 Sitemap: https://ambitstock.com/sitemap.xml
+
 #DaumWebMasterTool:80924cd7ab3e58fce8074b5780cef714c3bc770be168db690649fdf7c09e4e24:lnJIfW6J3SEu/tDeE4/ZJg==
