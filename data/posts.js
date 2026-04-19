@@ -10532,6 +10532,24 @@ const posts = [
     contentType: '리뷰형',
     platform: '넷플릭스',
     spoilerLevel: 'low'
+  },
+  {
+    id: 684,
+    slug: 'sinners-qa-guide-smoke-stack-vampire-blues-ending-2026',
+    title: '씨너스: 죄인들 Q&A 해석 가이드 — 스모크·스택·새미의 선택, 뱀파이어가 블루스에 끌린 이유, 결말까지 9문 9답',
+    description: '씨너스: 죄인들(Sinners 2025) Q&A 해석. 마이클 B. 조던 쌍둥이 연기 비밀, 뱀파이어·블루스 연결 설정, 스모크 최후의 선택, 1992년 미드크레딧 의미, 아카데미 4관왕·RT 97% 완전 정리.',
+    category: '해외반응후기',
+    date: '2026-04-19',
+    tags: ['씨너스', 'Sinners', '라이언쿠글러', '마이클B조던', '아카데미4관왕', '뱀파이어영화', '결말해석', '해외영화'],
+    thumbnail: '/images/post684_thumb.svg',
+    relatedSlugs: [
+      'sinners-2025-overseas-reaction-oscar-4wins-rt97',
+      'king-and-man-ending-meaning-danjong-eomheungdo-2026',
+      'project-hail-mary-qa-interpretation-guide-2026'
+    ],
+    contentType: 'Q&A해석형',
+    platform: '아마존프라임/극장',
+    spoilerLevel: 'high'
   }
 ]
 
