@@ -10516,6 +10516,42 @@ const posts = [
     spoilerLevel: 'low'
   },
   {
+    id: 685,
+    slug: 'project-y-netflix-review-han-sohee-jun-jongseo-2026',
+    title: '프로젝트 Y 넷플릭스 리뷰 — 극장 14만 → OTT 역주행 1위, 한소희·전종서 호불호 완전 정리',
+    description: '프로젝트Y 넷플릭스 리뷰. 극장 관객 14만 명 → 넷플릭스 공개 3일 만에 한국 영화 1위 역주행. 한소희·전종서·김성철 주연 범죄 누아르, 네이버 6.08·IMDb 5.9의 실체와 취향별 추천.',
+    category: '해외반응후기',
+    date: '2026-04-20',
+    tags: ['트렌드', '프로젝트Y', '한소희', '전종서', '넷플릭스', '범죄누아르', '역주행', '한국영화', '넷플릭스영화'],
+    thumbnail: '/images/post685_thumb.svg',
+    relatedSlugs: [
+      'sinners-qa-guide-smoke-stack-vampire-blues-ending-2026',
+      'netflix-april-2026-top7-best-lineup-beef-bloodhounds-apex',
+      'project-hail-mary-global-reaction-rotten-tomatoes-2026'
+    ],
+    contentType: '리뷰형',
+    platform: '넷플릭스',
+    spoilerLevel: 'low'
+  },
+  {
+    id: 686,
+    slug: 'april-3rd-week-ott-guide-project-y-omaejin-girigo-2026',
+    title: '4월 셋째주 극장+OTT 시청 가이드 — 프로젝트Y 역주행·오매진 D-2·기리고·Apex D-4 취향별 정리',
+    description: '2026년 4월 셋째주(4/20~27) OTT 시청 가이드. 프로젝트Y 넷플릭스 역주행 1위, 허수아비 첫방(4/20), 오늘도 매진했습니다 첫방(4/22), 기리고·Apex 동시 공개(4/24). 취향별 추천.',
+    category: '드라마',
+    date: '2026-04-20',
+    tags: ['트렌드', '4월셋째주', 'OTT추천', '프로젝트Y', '오늘도매진했습니다', '기리고', 'Apex', '모자무싸', '허수아비', '넷플릭스'],
+    thumbnail: '/images/post686_thumb.svg',
+    relatedSlugs: [
+      'april-2026-mid-late-ott-calendar-beef2-apex-girigo-goldland',
+      'girigo-netflix-ya-horror-april-2026-if-wishes-could-kill',
+      'sold-out-today-sbs-drama-ahn-hyoseop-chae-wonbin-april-2026'
+    ],
+    contentType: 'OTT정리형',
+    platform: '넷플릭스/SBS/티빙/ENA',
+    spoilerLevel: 'none'
+  },
+  {
     id: 682,
     slug: 'big-mistakes-netflix-review-2026-dan-levy',
     title: '빅 미스테이크 리뷰 — 댄 레비 넷플릭스 4월 신작, 쉿 크릭과 다른 이유 (호불호 정리)',

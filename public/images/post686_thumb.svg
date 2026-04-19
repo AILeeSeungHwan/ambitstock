@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a"/>
+      <stop offset="50%" style="stop-color:#1b263b"/>
+      <stop offset="100%" style="stop-color:#415a77"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="60" y="60" width="1080" height="510" fill="none" stroke="#f4d03f" stroke-width="1" opacity="0.4"/>
+  <text x="100" y="155" font-family="Arial Black, sans-serif" font-size="22" fill="#f4d03f" font-weight="bold">2026년 4월 셋째주</text>
+  <text x="100" y="260" font-family="Arial Black, sans-serif" font-size="68" fill="#ffffff" font-weight="bold">이번 주 뭐 볼까</text>
+  <text x="100" y="345" font-family="Arial, sans-serif" font-size="30" fill="#cccccc">프로젝트Y · 오매진 D-2 · 기리고 D-4</text>
+  <text x="100" y="420" font-family="Arial, sans-serif" font-size="28" fill="#aaaaaa">모자무싸 · 허수아비 · Apex</text>
+  <text x="100" y="500" font-family="Arial, sans-serif" font-size="24" fill="#888888">4월 20일~27일 극장+OTT 시청 가이드</text>
+</svg>

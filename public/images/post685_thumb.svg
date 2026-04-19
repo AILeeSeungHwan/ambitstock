@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="6" height="630" fill="#e50914"/>
+  <rect x="60" y="60" width="1080" height="510" fill="none" stroke="#e50914" stroke-width="1" opacity="0.3"/>
+  <text x="100" y="160" font-family="Arial Black, sans-serif" font-size="22" fill="#e50914" font-weight="bold">넷플릭스 한국 영화 1위</text>
+  <text x="100" y="260" font-family="Arial Black, sans-serif" font-size="80" fill="#ffffff" font-weight="bold">프로젝트 Y</text>
+  <text x="100" y="350" font-family="Arial, sans-serif" font-size="36" fill="#cccccc">극장 14만 → OTT 역주행 1위</text>
+  <text x="100" y="430" font-family="Arial, sans-serif" font-size="30" fill="#aaaaaa">한소희 × 전종서 × 김성철</text>
+  <text x="100" y="510" font-family="Arial, sans-serif" font-size="24" fill="#888888">호불호 완전 정리 | 2026</text>
+</svg>
