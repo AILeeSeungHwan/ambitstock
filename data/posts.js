@@ -10478,6 +10478,24 @@ const posts = [
     contentType: 'TOP추천형',
     platform: '넷플릭스/tvN/KBS2/웨이브',
     spoilerLevel: 'none'
+  },
+  {
+    id: 681,
+    slug: 'perfect-crown-iu-byeon-woo-seok-review-disney-2026',
+    title: '21세기 대군부인(퍼펙트 크라운) 리뷰 — 아이유·변우석 케미, 호불호 완전 정리',
+    description: '21세기 대군부인(Perfect Crown) 리뷰. 아이유·변우석 입헌군주제 계약결혼 로맨스. 시청률 9.5%·디즈니+ K드라마 역대 최고 데뷔·44개국 TOP 10. 호불호 포인트와 추천 대상 정리.',
+    category: '드라마',
+    date: '2026-04-19',
+    tags: ['트렌드', '21세기대군부인', '퍼펙트크라운', '아이유드라마', '변우석', 'MBC드라마', '드라마추천', '디즈니플러스'],
+    thumbnail: '/images/post681_thumb.svg',
+    relatedSlugs: [
+      'netflix-korean-drama-recommend-top7-genre-binge-2026',
+      'bloodhounds-season2-review-netflix-1st-action-upgrade-2026',
+      'mojamussa-first-episode-review-jtbc-koo-kyohwan-2026'
+    ],
+    contentType: '리뷰형',
+    platform: 'MBC/디즈니+',
+    spoilerLevel: 'low'
   }
 ]
 
