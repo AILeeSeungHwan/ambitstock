@@ -10606,6 +10606,24 @@ const posts = [
     spoilerLevel: 'low'
   },
   {
+    id: 689,
+    slug: 'wavve-april-2026-drama-guide-reverse-secret-audit',
+    title: '웨이브 4월 신작 가이드 — 리버스·은밀한감사·베팅온팩트 취향별 완전 정리',
+    description: '2026년 4월 웨이브 신작 드라마 가이드. 고수·서지혜 미스터리 스릴러 리버스(8부작 전편 공개), 신혜선·공명 오피스 로맨스 은밀한감사(4/25 첫방), 베팅온팩트 팩트체크 예능. 취향별 선택 기준 정리.',
+    category: '드라마',
+    date: '2026-04-20',
+    tags: ['웨이브', '웨이브신작', '리버스드라마', '은밀한감사', '고수', '서지혜', '신혜선', '공명', '4월신작드라마', 'OTT가이드'],
+    thumbnail: '/images/post689_thumb.svg',
+    relatedSlugs: [
+      'april-3rd-week-ott-guide-project-y-omaejin-girigo-2026',
+      'netflix-tving-coupang-play-ott-comparison-2026',
+      'disney-tving-wavve-bundle-vs-netflix-ott-comparison-2026'
+    ],
+    contentType: 'OTT정리형',
+    platform: '웨이브/tvN',
+    spoilerLevel: 'none'
+  },
+  {
     id: 688,
     slug: '21segi-daegwunbuin-iu-byunwooseok-disney-plus-2026',
     title: '21세기 대군부인 리뷰 — 아이유·변우석, 디즈니+ 전 세계 최다 시청 한국 드라마의 실체',
