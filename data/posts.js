@@ -10639,6 +10639,42 @@ const posts = [
     contentType: '리뷰형',
     platform: 'MBC/디즈니+/웨이브',
     spoilerLevel: 'low'
+  },
+  {
+    id: 690,
+    slug: 'april-4th-week-ott-guide-girigo-apex-soldout-2026',
+    title: '4월 넷째주 OTT 시청 가이드 — 기리고·Apex D-3, 오늘도매진했습니다 첫방, 이번주 무엇을 볼까',
+    description: '2026년 4월 넷째주 OTT·드라마 시청 가이드. 4월 22일 SBS 오늘도매진했습니다(안효섭·채원빈) 첫방, 4월 24일 넷플릭스 기리고(YA 호러 8부작)·Apex(샤를리즈 테론 생존 스릴러) 동시 공개. 취향별 픽 정리.',
+    category: '드라마',
+    date: '2026-04-21',
+    tags: ['트렌드', 'OTT가이드', '넷플릭스', '기리고', 'Apex', '오늘도매진했습니다', '4월드라마', '이번주OTT'],
+    thumbnail: '/images/post690_thumb.svg',
+    relatedSlugs: [
+      'april-3rd-week-ott-guide-project-y-omaejin-girigo-2026',
+      'girigo-vs-apex-netflix-april-24-2026-comparison',
+      'girigo-netflix-ya-horror-2026'
+    ],
+    contentType: 'OTT정리형',
+    platform: '넷플릭스/SBS',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 691,
+    slug: 'girigo-vs-apex-netflix-april-24-2026-comparison',
+    title: '기리고 vs Apex — 넷플릭스 4월 24일 동시 공개, 취향별 어떤 것부터 볼까',
+    description: '기리고 vs Apex 넷플릭스 4월 24일 동시 공개 비교 가이드. 한국 첫 YA 호러 기리고(8부작)와 샤를리즈 테론 생존 스릴러 Apex(영화). 어떤 사람에게 뭐가 맞는지, 둘 다 볼 때 어떤 순서가 나은지 완전 정리.',
+    category: '영화추천',
+    date: '2026-04-21',
+    tags: ['트렌드', '기리고', 'Apex', '넷플릭스', '비교추천', '샤를리즈테론', 'YA호러', '생존스릴러'],
+    thumbnail: '/images/post691_thumb.svg',
+    relatedSlugs: [
+      'girigo-netflix-ya-horror-2026',
+      'april-4th-week-ott-guide-girigo-apex-soldout-2026',
+      'apex-netflix-charlize-theron-survival-thriller-2026'
+    ],
+    contentType: '비교형',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
   }
 ]
 
