@@ -10586,9 +10586,26 @@ const posts = [
     contentType: 'Q&A해석형',
     platform: '아마존프라임/극장',
     spoilerLevel: 'high'
+  },
+  {
+    id: 687,
+    slug: 'dorohedoro-season2-netflix-guide-mappa-2026',
+    title: '도로헤도로 시즌2 완전 시리즈 가이드 — 6년 만의 귀환, 시즌1 핵심 정리부터 MAPPA 연출까지',
+    description: '도로헤도로 시즌2 넷플릭스 시리즈 가이드. 2026년 4월 1일 공개, 하야시 유이치로 감독 귀환. 시즌1 5가지 핵심 복습, 니카이도·악마 아수 계약 포인트, 호불호 분석, 주말 정주행 소요 시간까지 완전 정리.',
+    category: '애니메이션',
+    date: '2026-04-20',
+    tags: ['도로헤도로', '넷플릭스애니', 'MAPPA', '2026봄애니', '도로헤도로시즌2', '애니추천', '넷플릭스', '시리즈가이드'],
+    thumbnail: '/images/post687_thumb.svg',
+    relatedSlugs: [
+      'spring-2026-anime-top7-must-watch-guide',
+      'witch-hat-atelier-anime-review-spring-2026',
+      'liar-game-anime-2026-april-madhouse-guide'
+    ],
+    contentType: '시리즈가이드형',
+    platform: '넷플릭스/크런치롤',
+    spoilerLevel: 'low'
   }
 ]
 
 module.exports = posts
-module.exports.default = posts
 module.exports.default = posts
