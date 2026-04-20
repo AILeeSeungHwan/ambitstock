@@ -10604,6 +10604,23 @@ const posts = [
     contentType: '시리즈가이드형',
     platform: '넷플릭스/크런치롤',
     spoilerLevel: 'low'
+  },
+  {
+    id: 688,
+    slug: '21segi-daegwunbuin-iu-byunwooseok-disney-plus-2026',
+    title: '21세기 대군부인 리뷰 — 아이유·변우석, 디즈니+ 전 세계 최다 시청 한국 드라마의 실체',
+    description: '21세기 대군부인 MBC 드라마 리뷰. 아이유 10년 만의 지상파 복귀, 변우석과의 케미, 입헌군주제 대한민국 설정, 디즈니+ 공개 5일 만에 글로벌 최다 시청 기록. 어떤 사람에게 맞는지 호불호까지 정리.',
+    category: '드라마',
+    date: '2026-04-20',
+    tags: ['21세기대군부인', '아이유', '변우석', '디즈니플러스', '로맨스드라마', 'K드라마', '트렌드', 'MBC드라마'],
+    thumbnail: '/images/post688_thumb.svg',
+    relatedSlugs: [
+      'april-3rd-week-ott-guide-project-y-omaejin-girigo-2026',
+      'project-y-netflix-review-han-sohee-jun-jongseo-2026'
+    ],
+    contentType: '리뷰형',
+    platform: 'MBC/디즈니+/웨이브',
+    spoilerLevel: 'low'
   }
 ]
 
