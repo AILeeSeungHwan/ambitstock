@@ -64,11 +64,12 @@ export default function AdUnit({ slot, format, layout, style, eager }) {
   const adSlot = slot || '6297515693'
   const adFormat = format || 'auto'
   const isInArticle = layout === 'in-article'
+  const isMultiplex = adFormat === 'autorelaxed'
 
   if (process.env.NODE_ENV !== 'production') {
     return (
       <div style={{
-        background: isInArticle ? '#e8f4e8' : '#f0f0f0',
+        background: isMultiplex ? '#fff3e0' : isInArticle ? '#e8f4e8' : '#f0f0f0',
         border: '2px dashed #ccc',
         borderRadius: 8,
         padding: '16px',
@@ -78,7 +79,7 @@ export default function AdUnit({ slot, format, layout, style, eager }) {
         color: '#999',
         ...style,
       }}>
-        {isInArticle ? '[In-Article]' : '[Display]'} {eager ? 'eager' : 'lazy'} · slot: {adSlot}
+        {isMultiplex ? '[Multiplex]' : isInArticle ? '[In-Article]' : '[Display]'} {eager ? 'eager' : 'lazy'} · slot: {adSlot}
       </div>
     )
   }

@@ -7,17 +7,21 @@ import AdUnit from './AdUnit'
    3. h2마다: 광고 1개
    4. h2 없는 페이지: 1/3, 2/3 지점에 광고 2개 보장
 ─── */
-/* ─── 광고 배치 전략 (Coverage 최적화)
-   h2마다 광고 → Coverage 45% (너무 많아 절반이 빈칸)
-   홀수 h2마다 광고 → 광고 수 절반으로 줄여 Coverage 80%+ 목표
-   상단 1개 (eager, [slug].js) + 본문 2개 + sticky 배너 = 총 4개
+/* ─── 광고 배치 전략
+   1번째 h2 뒤 → 인아티클 (slot: 4449961645)
+   2번째 h2 뒤 → 멀티플렉스 (slot: 6297515693, format: autorelaxed)
+   3번째 h2 뒤 → 인아티클
+   4번째 h2 뒤 → 스킵
+   5번째 h2 뒤 → 인아티클
+   … (홀수 h2만 인아티클, 2번째만 멀티플렉스)
+   상단 1개 (eager) + 본문 최대 4개 = 총 5개 한도
 ─── */
 export function renderSections(sections, TOC) {
   const filtered = sections.filter(Boolean)
   const elements = []
   let h2Count = 0
   let adCount = 0
-  const MAX_INLINE_ADS = 2  // 본문 내 광고 최대 2개 (상단1 + sticky1 포함 총 4개)
+  const MAX_INLINE_ADS = 4
 
   for (let i = 0; i < filtered.length; i++) {
     const section = filtered[i]
@@ -43,11 +47,17 @@ export function renderSections(sections, TOC) {
           {section.text}
         </h2>
       )
-      // 홀수 번째 h2마다만 광고 (2개 중 1개), 최대 MAX_INLINE_ADS개
-      if (h2Count % 2 === 1 && adCount < MAX_INLINE_ADS) {
-        // 인아티클 포맷 — 본문 흐름에 자연스럽게 삽입
-        elements.push(<AdUnit key={'ad-h2-' + i} slot="4449961645" format="fluid" layout="in-article" />)
-        adCount++
+
+      if (adCount < MAX_INLINE_ADS) {
+        if (h2Count === 2) {
+          // 두 번째 h2 → 멀티플렉스 (네이티브 추천 광고)
+          elements.push(<AdUnit key={'ad-multiplex-' + i} slot="6297515693" format="autorelaxed" />)
+          adCount++
+        } else if (h2Count % 2 === 1) {
+          // 홀수 h2 (1, 3, 5…) → 인아티클
+          elements.push(<AdUnit key={'ad-h2-' + i} slot="4449961645" format="fluid" layout="in-article" />)
+          adCount++
+        }
       }
       continue
     }
@@ -55,7 +65,7 @@ export function renderSections(sections, TOC) {
     elements.push(renderSection(section, i))
   }
 
-  // h2 없는 페이지 → 인아티클 1개
+  // h2 없는 페이지 → 인아티클 1개 (중간)
   if (h2Count === 0) {
     const total = elements.length
     const idx = Math.floor(total / 2)

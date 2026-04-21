@@ -456,9 +456,6 @@ export default function PostPage({ meta, postData, related, internalLinks, simil
         )
       })()}
 
-      <div style={{ maxWidth: 720, margin: '32px auto 0' }}>
-        <AdUnit slot="9493345276" format="auto" />
-      </div>
 
       <style jsx global>{`
         .post-body ul { padding-left: 24px; margin: 12px 0 20px; }
