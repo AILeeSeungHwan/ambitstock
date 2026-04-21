@@ -7,24 +7,28 @@ import AdUnit from './AdUnit'
    3. h2마다: 광고 1개
    4. h2 없는 페이지: 1/3, 2/3 지점에 광고 2개 보장
 ─── */
+/* ─── 광고 배치 전략 (Coverage 최적화)
+   h2마다 광고 → Coverage 45% (너무 많아 절반이 빈칸)
+   홀수 h2마다 광고 → 광고 수 절반으로 줄여 Coverage 80%+ 목표
+   상단 1개 (eager, [slug].js) + 본문 2개 + sticky 배너 = 총 4개
+─── */
 export function renderSections(sections, TOC) {
   const filtered = sections.filter(Boolean)
   const elements = []
   let h2Count = 0
+  let adCount = 0
+  const MAX_INLINE_ADS = 2  // 본문 내 광고 최대 2개 (상단1 + sticky1 포함 총 4개)
 
   for (let i = 0; i < filtered.length; i++) {
     const section = filtered[i]
 
-    // 포스트 파일 내부 ad 섹션 → 무시 (자동 배치로 대체)
     if (section.type === 'ad') continue
 
-    // TOC 렌더링
     if (section.type === 'toc') {
       elements.push(<TOC key={'toc-' + i} sections={filtered} />)
       continue
     }
 
-    // h2마다 광고 1개
     if (section.type === 'h2') {
       h2Count++
       elements.push(
@@ -39,20 +43,22 @@ export function renderSections(sections, TOC) {
           {section.text}
         </h2>
       )
-      elements.push(<AdUnit key={'ad-h2-' + i} slot="6297515693" format="auto" />)
+      // 홀수 번째 h2마다만 광고 (2개 중 1개), 최대 MAX_INLINE_ADS개
+      if (h2Count % 2 === 1 && adCount < MAX_INLINE_ADS) {
+        elements.push(<AdUnit key={'ad-h2-' + i} slot="6297515693" format="auto" />)
+        adCount++
+      }
       continue
     }
 
     elements.push(renderSection(section, i))
   }
 
-  // h2 없는 페이지 → 1/3, 2/3 지점에 중간 광고 2개 보장
+  // h2 없는 페이지 → 중간 1개만
   if (h2Count === 0) {
     const total = elements.length
-    const idx1 = Math.floor(total / 3)
-    const idx2 = Math.floor((total * 2) / 3)
-    elements.splice(idx2, 0, <AdUnit key="ad-fallback-2" slot="6297515693" format="auto" />)
-    elements.splice(idx1, 0, <AdUnit key="ad-fallback-1" slot="6297515693" format="auto" />)
+    const idx = Math.floor(total / 2)
+    elements.splice(idx, 0, <AdUnit key="ad-fallback-mid" slot="6297515693" format="auto" />)
   }
 
   return elements
