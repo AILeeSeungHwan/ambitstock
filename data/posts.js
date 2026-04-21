@@ -10711,6 +10711,24 @@ const posts = [
     contentType: '트렌드형',
     platform: 'tvN/티빙',
     spoilerLevel: 'none'
+  },
+  {
+    id: 694,
+    slug: 'pokssak-sokassuda-qa-ending-guksik-death-netflix-2025',
+    title: '폭싹 속았수다 Q&A 해석 가이드 — 제목 뜻·관식 혈액암·결말 헌정사·IMDb 9.4 이유 9문 9답',
+    description: '폭싹 속았수다 Q&A 해석 가이드. 제목 제주어 뜻, 아이유 1인2역 구조, 관식(박보검) 다발성 골수종 진단 복선, 금명-충섭 극장 재회 의미, 결말 헌정사 해석, IMDb K드라마 역대 최고 9.4 달성 이유. 스포일러 포함 9문 9답.',
+    category: '드라마',
+    date: '2026-04-21',
+    tags: ['폭싹속았수다', '아이유', '박보검', '넷플릭스', '결말해석', 'K드라마', 'IMDb최고', '제주도', '문소리', '박해준'],
+    thumbnail: '/images/post694_thumb.svg',
+    relatedSlugs: [
+      'netflix-korean-drama-recommend-top7-genre-binge-2026',
+      'bloodhounds-season2-review-wdo-rain-action-2026',
+      'beef-season2-qa-guide-2026-netflix'
+    ],
+    contentType: 'Q&A해석형',
+    platform: '넷플릭스',
+    spoilerLevel: 'heavy'
   }
 ]
 
