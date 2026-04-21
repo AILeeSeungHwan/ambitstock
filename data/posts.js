@@ -10729,6 +10729,24 @@ const posts = [
     contentType: 'Q&A해석형',
     platform: '넷플릭스',
     spoilerLevel: 'heavy'
+  },
+  {
+    id: 695,
+    slug: 'may-2026-ott-guide-netflix-wonderfuls-tving',
+    title: '5월 OTT 신작 완전 가이드 — 원더풀스·멋진신세계·취사병, 이번 달 뭐부터 봐야 하나',
+    description: '2026년 5월 OTT 신작 가이드. 넷플릭스 원더풀스(5/15 박은빈·차은우·유인식 감독), SBS 멋진신세계(5/8 임지연·빙의 로코), 티빙 취사병 전설이 되다(5/11 박지훈). 취향별 시청 전략과 플랫폼별 정리.',
+    category: '드라마',
+    date: '2026-04-21',
+    tags: ['넷플릭스 5월 신작', '원더풀스', '멋진신세계', 'OTT 가이드', '5월 드라마', '박은빈', '차은우', 'OTT 추천', '넷플릭스 추천'],
+    thumbnail: '/images/post695_thumb.svg',
+    relatedSlugs: [
+      'chwisabyung-jeonseol-drama-guide-parkjihun-tving-tvn-may-2026',
+      'netflix-korea-drama-binge-top7-complete-2026',
+      'april-4th-week-ott-guide-girigo-apex-soldout-2026'
+    ],
+    contentType: 'OTT가이드형',
+    platform: '넷플릭스/티빙/SBS',
+    spoilerLevel: 'none'
   }
 ]
 
