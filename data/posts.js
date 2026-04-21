@@ -10675,6 +10675,24 @@ const posts = [
     contentType: '비교형',
     platform: '넷플릭스',
     spoilerLevel: 'none'
+  },
+  {
+    id: 692,
+    slug: 'korea-2026-must-watch-top5-gunche-hope-drama-guide',
+    title: '2026 하반기 기대작 TOP 5 — 군체·호프·맨끝줄소년·원더풀스·동궁 취향별 완전 정리',
+    description: '2026년 5월부터 하반기까지 반드시 챙겨야 할 한국 기대작 5편. 칸 초청 군체(5월21일)·호프(7월)부터 최민식·박은빈·남주혁 넷플릭스 신작까지, 극장과 OTT 취향별 관람 순서 가이드.',
+    category: '영화추천',
+    date: '2026-04-21',
+    tags: ['영화추천', '2026기대작', '한국영화', '군체', '호프', '넷플릭스', '칸영화제', '동궁', '드라마추천'],
+    thumbnail: '/images/post692_thumb.svg',
+    relatedSlugs: [
+      'netflix-korean-drama-recommend-top7-genre-binge-2026',
+      'girigo-vs-apex-netflix-april-24-2026-comparison',
+      'april-4th-week-ott-guide-girigo-apex-soldout-2026'
+    ],
+    contentType: 'TOP추천형',
+    platform: '극장/넷플릭스',
+    spoilerLevel: 'none'
   }
 ]
 
