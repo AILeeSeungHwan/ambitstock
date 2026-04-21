@@ -1,5 +1,41 @@
 const posts = [
   {
+    id: 697,
+    slug: 'netflix-korea-top10-april-4th-week-mojamussa-girigo-2026',
+    title: '넷플릭스 4월 넷째주 TOP10 완전 분석 — 모자무싸 TV 1위, 프로젝트Y 영화 1위, 기리고 D-2',
+    description: '넷플릭스 한국 4월 넷째주 TOP10 분석. TV 1위 모두가 자신의 무가치함과 싸우고 있다, 영화 1위 프로젝트Y 역주행, 사냥개들2 3주 유지. 기리고·Apex 4/24 공개 직전 이번주 최선의 픽 완전 가이드.',
+    category: '드라마',
+    date: '2026-04-22',
+    tags: ['트렌드', '넷플릭스', '넷플릭스순위', '모자무싸', '사냥개들시즌2', '기리고', '프로젝트Y', '4월신작', 'TOP10', 'OTT추천'],
+    thumbnail: '/images/post697_thumb.svg',
+    relatedSlugs: [
+      'netflix-april-2026-week1-global-ranking-kcontent-dominance',
+      'mojamussa-first-episode-review-jtbc-koo-kyohwan-2026',
+      'girigo-vs-apex-netflix-april-24-2026-comparison'
+    ],
+    contentType: '트렌드형',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 696,
+    slug: 'soldout-today-sbs-review-an-hyoseop-chae-wonbin-watchguide-2026',
+    title: '오늘도매진했습니다 볼만한가 — 안효섭·채원빈 첫방 시청 가이드 + 호불호 분석',
+    description: '오늘도매진했습니다 첫방 시청 가이드. 안효섭(완벽주의 농부 매튜 리)·채원빈(완판주의 쇼호스트) 로코, 안종연 감독 테라피 드라마. 이런 사람에게 맞고 이런 사람에겐 안 맞는 이유, 모자무싸·신이랑과의 차이.',
+    category: '드라마',
+    date: '2026-04-22',
+    tags: ['트렌드', '오늘도매진했습니다', '안효섭', '채원빈', 'SBS수목드라마', '로코', '힐링드라마', '안종연감독', '2026봄드라마', 'OTT추천'],
+    thumbnail: '/images/post696_thumb.svg',
+    relatedSlugs: [
+      'soldout-today-an-hyoseop-chae-wonbin-sbs-2026-preview',
+      'mojamussa-first-episode-review-jtbc-koo-kyohwan-2026',
+      'phantom-lawyer-shin-irang-overseas-reaction-imdb-mydl-2026'
+    ],
+    contentType: '트렌드형',
+    platform: 'SBS/넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 677,
     slug: 'beef-season2-ending-explained-samsara-epilogue-2026',
     title: '성난사람들2 결말 해석 — 삼사라의 바퀴, Josh 체포와 8년 후 에필로그의 진짜 의미',
