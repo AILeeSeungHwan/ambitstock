@@ -10693,6 +10693,24 @@ const posts = [
     contentType: 'TOP추천형',
     platform: '극장/넷플릭스',
     spoilerLevel: 'none'
+  },
+  {
+    id: 693,
+    slug: 'chwisabyung-jeonseol-drama-guide-parkjihun-tving-tvn-may-2026',
+    title: '취사병 전설이 되다 완전 가이드 — 박지훈 군대 요리 퀘스트, 5월 11일 티빙+tvN 볼 만한가',
+    description: '취사병 전설이 되다 완전 가이드. 박지훈 주연 밀리터리 쿡방 판타지, 웹소설 원작. 2026년 5월 11일 tvN 월화+티빙 동시 공개. 줄거리·출연진·추천 대상·비슷한 드라마 비교.',
+    category: '드라마',
+    date: '2026-04-21',
+    tags: ['트렌드', '취사병전설이되다', '박지훈', '티빙', 'tvN', '밀리터리', '판타지', '웹소설원작', '5월신작', '윤경호'],
+    thumbnail: '/images/post693_thumb.svg',
+    relatedSlugs: [
+      'netflix-wonderfools-park-eunbin-cha-eunwoo-guide-2026',
+      'korea-2026-must-watch-top5-gunche-hope-drama-guide',
+      'tving-april-2026-new-drama-guide-yumis-cells-scarecrow'
+    ],
+    contentType: '트렌드형',
+    platform: 'tvN/티빙',
+    spoilerLevel: 'none'
   }
 ]
 
