@@ -53,6 +53,8 @@ export default function Interstitial() {
   /* ── a 태그 클릭 가로채기 ── */
   useEffect(() => {
     const handleClick = (e) => {
+      // 모바일(≤768px)은 AdSense 자동 전면광고가 처리
+      if (typeof window !== 'undefined' && window.innerWidth <= 768) return
       const anchor = e.target.closest('a[href]')
       if (!anchor) return
       const href = anchor.getAttribute('href') || ''
@@ -76,6 +78,7 @@ export default function Interstitial() {
   /* ── summary(QnA) 클릭 가로채기 ── */
   useEffect(() => {
     const handleSummaryClick = (e) => {
+      if (typeof window !== 'undefined' && window.innerWidth <= 768) return
       const summary = e.target.closest('summary')
       if (!summary) return
       const now = Date.now()
@@ -92,8 +95,10 @@ export default function Interstitial() {
     return () => document.removeEventListener('click', handleSummaryClick, true)
   }, [])
 
-  /* ── 1분 자동 노출 ── */
+  /* ── 1분 자동 노출 (데스크탑 전용) ── */
   useEffect(() => {
+    // 모바일(≤768px)은 AdSense 자동 전면광고가 처리
+    if (typeof window !== 'undefined' && window.innerWidth <= 768) return
     const lastAuto = parseInt(sessionStorage.getItem(KEY_AUTO) || '0', 10)
     if (lastAuto > 0) return
     autoTimerRef.current = setTimeout(() => {

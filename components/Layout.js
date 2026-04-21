@@ -639,18 +639,6 @@ export default function Layout({ children, title, description, onCategoryChange 
   const [selectedCat, setSelectedCat] = useState(null)
 
   useEffect(() => {
-    if (typeof window === 'undefined' || process.env.NODE_ENV !== 'production') return
-    try {
-      const sideAds = document.querySelectorAll('.side-ad .adsbygoogle')
-      sideAds.forEach(ad => {
-        if (!ad.dataset.adsbygoogleStatus) {
-          (window.adsbygoogle = window.adsbygoogle || []).push({})
-        }
-      })
-    } catch (e) {}
-  }, [router.asPath])
-
-  useEffect(() => {
     const saved = localStorage.getItem('film-theme')
     if (saved !== null) setThemeIdx(parseInt(saved, 10))
     const savedFont = localStorage.getItem('film-font')
@@ -793,29 +781,13 @@ export default function Layout({ children, title, description, onCategoryChange 
           </>
         )}
 
-        {/* ─── 본문 + 사이드 광고 ─── */}
-        <div className="layout-with-side-ads" style={{ maxWidth: 1400, margin: '0 auto', display: 'flex', justifyContent: 'center', gap: 0 }}>
-          <aside className="side-ad side-ad-left" style={{ width: 160, flexShrink: 0, position: 'relative' }}>
-            <div style={{ position: 'sticky', top: 80, paddingTop: 24 }}>
-              <ins className="adsbygoogle" style={{ display: 'block', width: 160, height: 600 }}
-                data-ad-client="ca-pub-8640254349508671" data-ad-slot="6297515693" data-ad-format="vertical" />
-            </div>
-          </aside>
-
-          <main style={{
-            maxWidth: 1100, flex: 1, margin: '0 auto', padding: '32px 24px',
-            minHeight: 'calc(100vh - 140px)',
-          }}>
-            {children}
-          </main>
-
-          <aside className="side-ad side-ad-right" style={{ width: 160, flexShrink: 0, position: 'relative' }}>
-            <div style={{ position: 'sticky', top: 80, paddingTop: 24 }}>
-              <ins className="adsbygoogle" style={{ display: 'block', width: 160, height: 600 }}
-                data-ad-client="ca-pub-8640254349508671" data-ad-slot="6297515693" data-ad-format="vertical" />
-            </div>
-          </aside>
-        </div>
+        {/* ─── 본문 ─── */}
+        <main style={{
+          maxWidth: 1100, margin: '0 auto', padding: '32px 24px',
+          minHeight: 'calc(100vh - 140px)',
+        }}>
+          {children}
+        </main>
 
         {/* ─── 푸터 ─── */}
         <footer style={{
@@ -834,8 +806,6 @@ export default function Layout({ children, title, description, onCategoryChange 
 
       <Interstitial />
 
-      <StickyBannerAd />
-
       <style jsx global>{`
         :root {
           --primary-color: ${t.primary};
@@ -852,95 +822,8 @@ export default function Layout({ children, title, description, onCategoryChange 
         a { color: inherit; }
         img { max-width: 100%; }
         ::selection { background: ${t.primary}33; }
-        .side-ad { display: none; }
-        @media (min-width: 1300px) { .side-ad { display: block; } }
-        /* sticky 배너 공간 확보 */
-        body { padding-bottom: 72px; }
-        @media (min-width: 1300px) { body { padding-bottom: 0; } }
       `}</style>
     </>
   )
 }
 
-/* ─── Sticky 하단 배너 광고 ─────────────────────────────────
-   - 항상 뷰포트 하단에 고정 → viewability 최고 수준
-   - X 버튼으로 닫기 가능 (AdSense 정책 준수)
-   - 1300px+ 데스크탑에서는 사이드 광고로 대체하여 숨김
-   - 페이지 접속 후 5초 뒤 등장 (UX 보호)
-─────────────────────────────────────────────────────────── */
-function StickyBannerAd() {
-  const [show, setShow] = useState(false)
-  const [dismissed, setDismissed] = useState(false)
-  const pushed = useRef(false)
-
-  useEffect(() => {
-    if (typeof window === 'undefined') return
-    if (sessionStorage.getItem('sticky_banner_dismissed')) {
-      setDismissed(true)
-      return
-    }
-    const timer = setTimeout(() => setShow(true), 5000)
-    return () => clearTimeout(timer)
-  }, [])
-
-  useEffect(() => {
-    if (!show || pushed.current || process.env.NODE_ENV !== 'production') return
-    let raf1, raf2
-    raf1 = requestAnimationFrame(() => {
-      raf2 = requestAnimationFrame(() => {
-        try {
-          ;(window.adsbygoogle = window.adsbygoogle || []).push({})
-          pushed.current = true
-        } catch (e) {}
-      })
-    })
-    return () => { cancelAnimationFrame(raf1); cancelAnimationFrame(raf2) }
-  }, [show])
-
-  const dismiss = () => {
-    setDismissed(true)
-    setShow(false)
-    sessionStorage.setItem('sticky_banner_dismissed', '1')
-  }
-
-  if (dismissed || !show) return null
-
-  return (
-    <div style={{
-      position: 'fixed', bottom: 0, left: 0, right: 0, zIndex: 9000,
-      display: 'flex', alignItems: 'center', justifyContent: 'center',
-      background: 'rgba(0,0,0,0.85)', padding: '6px 8px',
-      boxShadow: '0 -2px 12px rgba(0,0,0,0.3)',
-    }}
-      className="sticky-banner-ad"
-    >
-      {process.env.NODE_ENV === 'production' ? (
-        <ins
-          className="adsbygoogle"
-          style={{ display: 'inline-block', width: 320, height: 50 }}
-          data-ad-client="ca-pub-8640254349508671"
-          data-ad-slot="6297515693"
-          data-ad-format="auto"
-          data-full-width-responsive="true"
-        />
-      ) : (
-        <div style={{ width: 320, height: 50, background: '#333', border: '2px dashed #666', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#aaa', fontSize: 12 }}>
-          [Sticky Banner Ad]
-        </div>
-      )}
-      <button onClick={dismiss} aria-label="광고 닫기" style={{
-        position: 'absolute', top: 4, right: 8,
-        background: 'rgba(255,255,255,0.15)', border: 'none', color: '#fff',
-        width: 20, height: 20, borderRadius: '50%', fontSize: 11,
-        cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'center',
-        lineHeight: 1,
-      }}>✕</button>
-
-      <style jsx>{`
-        @media (min-width: 1300px) {
-          .sticky-banner-ad { display: none !important; }
-        }
-      `}</style>
-    </div>
-  )
-}

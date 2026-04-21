@@ -45,7 +45,8 @@ export function renderSections(sections, TOC) {
       )
       // 홀수 번째 h2마다만 광고 (2개 중 1개), 최대 MAX_INLINE_ADS개
       if (h2Count % 2 === 1 && adCount < MAX_INLINE_ADS) {
-        elements.push(<AdUnit key={'ad-h2-' + i} slot="6297515693" format="auto" />)
+        // 인아티클 포맷 — 본문 흐름에 자연스럽게 삽입
+        elements.push(<AdUnit key={'ad-h2-' + i} slot="4449961645" format="fluid" layout="in-article" />)
         adCount++
       }
       continue
@@ -54,11 +55,11 @@ export function renderSections(sections, TOC) {
     elements.push(renderSection(section, i))
   }
 
-  // h2 없는 페이지 → 중간 1개만
+  // h2 없는 페이지 → 인아티클 1개
   if (h2Count === 0) {
     const total = elements.length
     const idx = Math.floor(total / 2)
-    elements.splice(idx, 0, <AdUnit key="ad-fallback-mid" slot="6297515693" format="auto" />)
+    elements.splice(idx, 0, <AdUnit key="ad-fallback-mid" slot="4449961645" format="fluid" layout="in-article" />)
   }
 
   return elements
