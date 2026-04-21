@@ -24,7 +24,7 @@ set -e
 
 # ─── 설정 ───
 PROJECT_DIR="$(cd "$(dirname "$0")" && pwd)"
-POSTS_PER_RUN=20
+POSTS_PER_RUN=2          # 1순위: OTT 구독/비교/요금제 고단가 포스팅 2개씩
 LOG_PREFIX="[auto-post $(date '+%Y-%m-%d %H:%M')]"
 TODAY=$(date '+%Y-%m-%d')
 LOG_FILE="$PROJECT_DIR/data/auto-post-log.json"
@@ -51,13 +51,13 @@ const CLIENT_ID = process.env.NAVER_CLIENT_ID || 'YOUR_CLIENT_ID';
 const CLIENT_SECRET = process.env.NAVER_CLIENT_SECRET || 'YOUR_CLIENT_SECRET';
 
 // 네이버 DataLab 검색어 트렌드 API
-// 우리 영역의 핵심 키워드 그룹
+// 1순위: OTT 구독/비교/요금제 — RPM $1~3 고단가 키워드 우선
 const keywordGroups = [
-  { groupName: 'OTT플랫폼', keywords: ['넷플릭스', '디즈니플러스', '티빙', '쿠팡플레이', '웨이브'] },
-  { groupName: '추천일반', keywords: ['영화추천', '드라마추천', '애니추천', '볼만한영화'] },
-  { groupName: '장르', keywords: ['스릴러영화', '로맨스드라마', '가족영화', '액션영화', '공포영화'] },
-  { groupName: '작품성', keywords: ['이동진추천', '로튼토마토', 'IMDB평점', '해외반응'] },
-  { groupName: 'OTT운영', keywords: ['넷플릭스요금제', '넷플릭스할인', 'OTT비교'] },
+  { groupName: 'OTT구독비교', keywords: ['넷플릭스요금제', '넷플릭스구독', 'OTT비교', 'OTT구독', '디즈니플러스요금제'] },
+  { groupName: 'OTT할인정보', keywords: ['넷플릭스할인', '티빙요금제', '쿠팡플레이요금제', '웨이브요금제', 'OTT할인'] },
+  { groupName: 'OTT신작정리', keywords: ['넷플릭스신작', '이번주넷플릭스', '이번달넷플릭스', 'OTT신작', '넷플릭스추천'] },
+  { groupName: 'OTT가이드', keywords: ['넷플릭스해지방법', '넷플릭스계정공유', '티빙해지', 'OTT추천', '어떤OTT'] },
+  { groupName: '트렌드추천', keywords: ['영화추천', '드라마추천', '볼만한영화', '넷플릭스드라마'] },
 ];
 
 const endDate = new Date().toISOString().slice(0, 10);
@@ -69,25 +69,18 @@ const body = JSON.stringify({
 });
 
 if (CLIENT_ID === 'YOUR_CLIENT_ID') {
-  // API 키 없으면 기본 키워드 목록 사용
+  // API 키 없으면 1순위 OTT 고단가 키워드 fallback (2개 선택)
   console.log(JSON.stringify({
     source: 'fallback',
     keywords: [
-      { keyword: 'OTT구독비교2026', trend: 95, cpcTier: 'high' },
-      { keyword: '넷플릭스요금제비교', trend: 90, cpcTier: 'high' },
-      { keyword: '디즈니플러스요금제', trend: 85, cpcTier: 'high' },
-      { keyword: 'OTT비교추천', trend: 80, cpcTier: 'high' },
-      { keyword: '넷플릭스할인방법', trend: 75, cpcTier: 'high' },
-      { keyword: '영화추천2026', trend: 70, cpcTier: 'medium' },
-      { keyword: '넷플릭스추천드라마', trend: 68, cpcTier: 'medium' },
-      { keyword: '드라마추천2026', trend: 65, cpcTier: 'medium' },
-      { keyword: '애니추천넷플릭스', trend: 60, cpcTier: 'medium' },
-      { keyword: '볼만한영화추천', trend: 55, cpcTier: 'medium' },
-      { keyword: '해외반응화제작', trend: 50, cpcTier: 'low' },
-      { keyword: 'IMDB평점높은영화', trend: 48, cpcTier: 'low' },
-      { keyword: '로튼토마토추천', trend: 45, cpcTier: 'low' },
-      { keyword: '결말해석스릴러', trend: 42, cpcTier: 'low' },
-      { keyword: '이동진추천영화', trend: 40, cpcTier: 'low' },
+      { keyword: '넷플릭스 요금제 비교 2026 — 광고있는 베이식부터 프리미엄까지 어떤 게 맞나', trend: 95, cpcTier: 'high' },
+      { keyword: 'OTT 구독 비교 2026 — 넷플릭스·티빙·디즈니+·쿠팡플레이 요금제·콘텐츠 완전 정리', trend: 92, cpcTier: 'high' },
+      { keyword: '디즈니플러스 요금제 2026 — 광고형·스탠다드·프리미엄 가격·혜택 비교', trend: 88, cpcTier: 'high' },
+      { keyword: '넷플릭스 계정 공유 2026 — 추가 회원 요금제 정책 완전 정리', trend: 85, cpcTier: 'high' },
+      { keyword: '티빙 요금제 비교 2026 — 베이식·스탠다드·프리미엄 차이', trend: 82, cpcTier: 'high' },
+      { keyword: '쿠팡플레이 vs 웨이브 2026 — 어떤 OTT가 더 낫나 취향별 비교', trend: 78, cpcTier: 'high' },
+      { keyword: '넷플릭스 해지 방법 2026 — 언제 끊고 언제 다시 구독해야 하나', trend: 74, cpcTier: 'high' },
+      { keyword: 'OTT 최저 구독 비용 2026 — 세 플랫폼 같이 구독하는 법', trend: 70, cpcTier: 'high' },
     ]
   }));
   process.exit(0);
@@ -232,7 +225,19 @@ $SUMMARY_JSON
 $KEYWORDS_JSON
 
 ## 작업
-ID ${START_ID}부터 최대 ${KEYWORD_COUNT}개 포스팅 생성. cpcTier high 우선.
+ID ${START_ID}부터 정확히 ${KEYWORD_COUNT}개(최대 2개) 포스팅 생성.
+
+### 1순위 — OTT 구독/비교/요금제 고단가 포스팅 (cpcTier: high 우선)
+키워드가 OTT 구독·비교·요금제·할인·해지 관련이면:
+- contentType: 'OTT정리형'
+- 반드시 실제 요금 수치·플랜명·혜택을 포함
+- 각 플랫폼별 취향 기준(드라마 중심 vs 영화 중심 등) 비교 포함
+- RPM 최적화: 구독 서비스 광고가 붙도록 구체적인 CTA 포함
+
+### 2순위 — OTT 신작/트렌드 포스팅 (cpcTier: medium)
+최신 화제작·주간 OTT 가이드 등
+
+### 공통 규칙
 각 포스트: posts/{id}.js 생성 + data/posts.js 메타 추가 + node --check 검증.
 마무리: node scripts/update-posts-summary.js 실행.
 완료 시 AUTO_POST_DONE 출력.
