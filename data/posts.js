@@ -1,5 +1,23 @@
 const posts = [
   {
+    id: 699,
+    slug: 'stranger-things-tales-from-85-netflix-april-23-d1-guide-2026',
+    title: '기묘한 이야기 테일즈 프롬 85 D-1 가이드 — 4월 23일 넷플릭스 공개, 10부작 애니 스핀오프·원작 캐스트 불참·IMDb 4.7 쟁점 총정리',
+    description: '기묘한 이야기 테일즈 프롬 85 D-1 사전 가이드. 2026년 4월 23일 넷플릭스 공개, 10부작 25~30분 애니 스핀오프. 시즌2~3 사이 1985년 겨울, 윌 바이어스 중심. 원작 캐스트 전원 불참, Flying Bark(X-Men 97) 제작, IMDb 4.7 조기 평점 분석.',
+    category: '애니메이션',
+    date: '2026-04-22',
+    tags: ['트렌드', '기묘한이야기', '테일즈프롬85', 'StrangerThings', '넷플릭스애니', '더퍼형제', '윌바이어스', 'FlyingBark', '2026넷플릭스'],
+    thumbnail: '/images/post699_thumb.svg',
+    relatedSlugs: [
+      'stranger-things-series-complete-guide-watch-order-2026',
+      'netflix-korea-top10-april-4th-week-mojamussa-girigo-2026',
+      'april-4th-week-ott-guide-girigo-apex-soldout-2026'
+    ],
+    contentType: '트렌드형',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 697,
     slug: 'netflix-korea-top10-april-4th-week-mojamussa-girigo-2026',
     title: '넷플릭스 4월 넷째주 TOP10 완전 분석 — 모자무싸 TV 1위, 프로젝트Y 영화 1위, 기리고 D-2',
