@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d1f"/>
+      <stop offset="50%" style="stop-color:#6a1b9a"/>
+      <stop offset="100%" style="stop-color:#b71c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="594" y="60" width="12" height="480" fill="rgba(255,255,255,0.4)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="rgba(0,0,0,0.4)"/>
+  <text x="60" y="100" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffeb3b">넷플릭스 D-1 | 2026-04-24 동시공개</text>
+  <text x="60" y="200" font-family="Arial, sans-serif" font-size="96" font-weight="900" fill="#ffffff">기리고</text>
+  <text x="60" y="280" font-family="Arial, sans-serif" font-size="32" fill="#ff8a80">YA 호러 · 8부작</text>
+  <text x="60" y="340" font-family="Arial, sans-serif" font-size="28" fill="#e3f2fd">박윤서 · 전소영</text>
+  <text x="60" y="400" font-family="Arial, sans-serif" font-size="28" fill="#e3f2fd">저주 앱 · 학원 스릴러</text>
+  <text x="640" y="200" font-family="Arial, sans-serif" font-size="96" font-weight="900" fill="#ffffff">Apex</text>
+  <text x="640" y="280" font-family="Arial, sans-serif" font-size="32" fill="#80d8ff">생존 스릴러 · 110분</text>
+  <text x="640" y="340" font-family="Arial, sans-serif" font-size="28" fill="#e3f2fd">테론 · 에저튼</text>
+  <text x="640" y="400" font-family="Arial, sans-serif" font-size="28" fill="#e3f2fd">호주 오지 · 1:1 사냥</text>
+  <text x="60" y="500" font-family="Arial, sans-serif" font-size="44" font-weight="900" fill="#ffeb3b">취향별 선택 + 시청 순서 가이드</text>
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.7)">ambitstock.com</text>
+</svg>

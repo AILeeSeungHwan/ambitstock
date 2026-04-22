@@ -1,5 +1,43 @@
 const posts = [
   {
+    id: 702,
+    slug: 'girigo-vs-apex-netflix-april-24-2026-comparison',
+    title: '기리고 vs Apex 비교 가이드 — 2026년 4월 24일 넷플릭스 동시 공개, YA 호러 vs 생존 스릴러 취향별 선택',
+    description: '기리고 vs Apex 넷플릭스 4월 24일 동시공개 D-1 비교. 기리고(박윤서·전소영·YA 호러 8부작) vs Apex(코르마쿠르·테론·에저튼·생존 스릴러 110분). 공포 강도·몰입 방식·시청 순서·취향별 매칭 완전 정리.',
+    category: '영화추천',
+    date: '2026-04-23',
+    tags: ['트렌드', '기리고', 'Apex', '넷플릭스', '4월24일공개', '샤를리즈테론', '태런에저튼', '박윤서감독', 'YA호러', '생존스릴러'],
+    thumbnail: '/images/post702_thumb.svg',
+    relatedSlugs: [
+      'girigo-netflix-ya-horror-april-2026-if-wishes-could-kill',
+      'apex-netflix-charlize-theron-survival-thriller-2026',
+      'stranger-things-tales-from-85-review-bomb-imdb-reactions-2026',
+      'april-4th-week-ott-guide-girigo-apex-soldout-2026'
+    ],
+    contentType: '비교형',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 701,
+    slug: 'stranger-things-tales-from-85-review-bomb-imdb-reactions-2026',
+    title: '기묘한 이야기 테일즈 프롬 85 공개 당일 분석 — IMDb 4.7 리뷰 폭격, Rotten Tomatoes 30%대, 해외반응 U자형 분포 해부',
+    description: '기묘한 이야기 테일즈 프롬 85 공개 당일 해외반응 분석. IMDb 4.7·Rotten Tomatoes 30%대 리뷰 폭격의 배경, 시즌5 결말 앙금·원작 성우 불참 쟁점. 호평 지점(Flying Bark 작화·고스트버스터즈 오마주)까지 균형 정리.',
+    category: '해외반응후기',
+    date: '2026-04-23',
+    tags: ['트렌드', '기묘한이야기', '테일즈프롬85', 'StrangerThings', '리뷰폭격', 'IMDb', '넷플릭스애니', '해외반응', 'FlyingBark'],
+    thumbnail: '/images/post701_thumb.svg',
+    relatedSlugs: [
+      'stranger-things-tales-from-85-netflix-april-23-d1-guide-2026',
+      'stranger-things-series-complete-guide-watch-order-2026',
+      'netflix-korea-top10-april-4th-week-mojamussa-girigo-2026',
+      'girigo-vs-apex-netflix-april-24-2026-comparison'
+    ],
+    contentType: '트렌드형',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 700,
     slug: 'mojamussa-vs-grand-princess-2026-kdrama-compare',
     title: '모자무싸 vs 21세기 대군부인 비교 — 2026 4월 한국 드라마 양대 화제작, 취향별 선택 가이드',
