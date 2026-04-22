@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 700,
+    slug: 'mojamussa-vs-grand-princess-2026-kdrama-compare',
+    title: '모자무싸 vs 21세기 대군부인 비교 — 2026 4월 한국 드라마 양대 화제작, 취향별 선택 가이드',
+    description: '모자무싸(JTBC 박해영 작가·구교환·고윤정) vs 21세기 대군부인(MBC·디즈니+ 아이유·변우석) 비교. 시청률 2.2% vs 11.1%, 디즈니+ 글로벌 4위 성과, 장르·배우·화제성까지 취향별 선택 가이드.',
+    category: '드라마',
+    date: '2026-04-22',
+    tags: ['모자무싸', '21세기 대군부인', '한국 드라마 비교', '박해영 작가', '아이유 변우석', 'JTBC 드라마', '디즈니플러스', '2026 드라마'],
+    thumbnail: '/images/post700_thumb.svg',
+    relatedSlugs: [
+      'mojamussa-first-episode-review-jtbc-koo-kyohwan-2026',
+      'perfect-crown-iu-byeon-wooseok-disney-2026-review',
+      'park-haeyoung-drama-world-guide-2026-moja-musa',
+      'grand-princess-vs-yumis-cells-season3-romance-comparison-april-2026'
+    ],
+    contentType: '비교형',
+    platform: 'JTBC/디즈니+/MBC',
+    spoilerLevel: 'none'
+  },
+  {
     id: 699,
     slug: 'stranger-things-tales-from-85-netflix-april-23-d1-guide-2026',
     title: '기묘한 이야기 테일즈 프롬 85 D-1 가이드 — 4월 23일 넷플릭스 공개, 10부작 애니 스핀오프·원작 캐스트 불참·IMDb 4.7 쟁점 총정리',
