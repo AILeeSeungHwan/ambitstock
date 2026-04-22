@@ -10783,6 +10783,24 @@ const posts = [
     contentType: 'OTT가이드형',
     platform: '넷플릭스/티빙/SBS',
     spoilerLevel: 'none'
+  },
+  {
+    id: 698,
+    slug: 'coupang-play-april-4th-week-guide-euphoria-romance-2026',
+    title: '쿠팡플레이 4월 넷째주 가이드 — 유포리아 시즌3·로맨스의 절댓값·세븐킹덤, 취향별 완전 정리',
+    description: '쿠팡플레이 4월 넷째주 OTT 시청 가이드. 유포리아 시즌3(젠데이아·한스 짐머·로튼토마토 42%), 로맨스의 절댓값(김향기·차학연·하이틴 오리지널), 세븐킹덤의 기사(GoT 프리퀄). 취향별 어떤 것부터 봐야 하나.',
+    category: '드라마',
+    date: '2026-04-22',
+    tags: ['쿠팡플레이', '유포리아 시즌3', '로맨스의 절댓값', 'OTT 가이드', '쿠팡플레이 추천', '세븐킹덤의 기사', 'HBO', '4월 드라마'],
+    thumbnail: '/images/post698_thumb.svg',
+    relatedSlugs: [
+      'wavve-april-2026-drama-guide-reverse-secret-audit',
+      'netflix-korea-top10-april-4th-week-mojamussa-girigo-2026',
+      'may-2026-ott-guide-netflix-wonderfuls-tving'
+    ],
+    contentType: 'OTT가이드형',
+    platform: '쿠팡플레이',
+    spoilerLevel: 'none'
   }
 ]
 
