@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 704,
+    slug: 'apple-tv-plus-may-2026-guide-unconditional-maximum-pleasure-star-city',
+    title: '애플TV+ 5월 2026 가이드 — Unconditional·Maximum Pleasure Guaranteed·Star City, 신작 3편 시청 순서와 취향별 매칭',
+    description: '애플TV+ 2026년 5월 신작 완전 가이드. Unconditional(5/8 모스크바 모녀 범죄 스릴러), Maximum Pleasure Guaranteed(5/20 타티아나 매슬라니 블랙코미디 10부작), Star City(5/29 For All Mankind 소련 스핀오프). 4월 Margo·Criminal Record S2 이후 5월 무엇을 먼저 볼지 취향별 시청 전략과 순서 제안.',
+    category: '영화추천',
+    date: '2026-04-23',
+    tags: ['OTT가이드', '애플TV플러스', 'Unconditional', 'MaximumPleasureGuaranteed', 'StarCity', '타티아나매슬라니', 'ForAllMankind', '5월신작', 'AppleTV플러스라인업'],
+    thumbnail: '/images/post704_thumb.svg',
+    relatedSlugs: [
+      'apple-tv-plus-april-2026-guide-margo-criminalrecord-yourfriends',
+      'may-2026-ott-guide-netflix-wonderfuls-tving',
+      '2026-foreign-drama-recommend-top10',
+      'april-4th-week-ott-guide-girigo-apex-soldout-2026'
+    ],
+    contentType: 'OTT가이드',
+    platform: '애플TV플러스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 703,
     slug: 'soldout-today-episode1-ratings-33-review-rebound-2026',
     title: '오늘도 매진했습니다 1회 첫방 리뷰 — 시청률 3.3% 출발·안효섭 활용 논란·2회 반등 포인트 완전 정리',

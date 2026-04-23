@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg704s" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0b1020"/>
+      <stop offset="100%" style="stop-color:#1a237e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg704s)"/>
+  <text x="60" y="80" font-family="Arial, sans-serif" font-size="42" font-weight="900" fill="#ffffff">Apple TV+ — 2026년 5월 공개 캘린더</text>
+  <text x="60" y="120" font-family="Arial, sans-serif" font-size="22" fill="#80d8ff">주 1회 공개 · 3주 간격 순차 투입 · 완결은 7월 초</text>
+
+  <rect x="60" y="170" width="1080" height="110" rx="14" fill="rgba(183,28,28,0.18)" stroke="#ff8a80" stroke-width="2"/>
+  <text x="90" y="208" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#ffeb3b">5월 8일 (금)</text>
+  <text x="90" y="248" font-family="Arial, sans-serif" font-size="34" font-weight="900" fill="#ffffff">Unconditional</text>
+  <text x="420" y="248" font-family="Arial, sans-serif" font-size="24" fill="#ffcdd2">8부작 · 범죄 스릴러 · 이스라엘 제작</text>
+  <text x="90" y="270" font-family="Arial, sans-serif" font-size="20" fill="#e3f2fd">Liraz Chamami · Talia Lynne Ronn · 모스크바 모녀 스릴러</text>
+
+  <rect x="60" y="310" width="1080" height="110" rx="14" fill="rgba(74,20,140,0.28)" stroke="#ce93d8" stroke-width="2"/>
+  <text x="90" y="348" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#ffeb3b">5월 20일 (수)</text>
+  <text x="90" y="388" font-family="Arial, sans-serif" font-size="34" font-weight="900" fill="#ffffff">Maximum Pleasure Guaranteed</text>
+  <text x="620" y="388" font-family="Arial, sans-serif" font-size="24" fill="#ce93d8">10부작 · 30분 · 블랙코미디</text>
+  <text x="90" y="410" font-family="Arial, sans-serif" font-size="20" fill="#e3f2fd">Tatiana Maslany · Jake Johnson · Murray Bartlett</text>
+
+  <rect x="60" y="450" width="1080" height="110" rx="14" fill="rgba(27,94,32,0.28)" stroke="#a5d6a7" stroke-width="2"/>
+  <text x="90" y="488" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#ffeb3b">5월 29일 (금)</text>
+  <text x="90" y="528" font-family="Arial, sans-serif" font-size="34" font-weight="900" fill="#ffffff">Star City</text>
+  <text x="310" y="528" font-family="Arial, sans-serif" font-size="24" fill="#c8e6c9">8부작 · 대체역사 우주 스릴러</text>
+  <text x="90" y="550" font-family="Arial, sans-serif" font-size="20" fill="#e3f2fd">Rhys Ifans · Anna Maxwell Martin · For All Mankind 스핀오프</text>
+
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="22" fill="rgba(255,255,255,0.6)">ambitstock.com · Apple TV+ 2026 May Line-up</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg704u" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0f0f"/>
+      <stop offset="60%" style="stop-color:#5d1a1a"/>
+      <stop offset="100%" style="stop-color:#b71c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg704u)"/>
+  <rect x="0" y="0" width="1200" height="60" fill="rgba(0,0,0,0.5)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="rgba(0,0,0,0.5)"/>
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#ffcdd2">Apple TV+ | 2026-05-08 공개 · 8부작</text>
+  <text x="60" y="170" font-family="Arial, sans-serif" font-size="90" font-weight="900" fill="#ffffff">Unconditional</text>
+  <text x="60" y="235" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#ffeb3b">모스크바에서 체포된 딸, 무너지는 엄마</text>
+  <text x="60" y="310" font-family="Arial, sans-serif" font-size="28" fill="#ffecb3">Liraz Chamami · Talia Lynne Ronn 주연</text>
+  <text x="60" y="355" font-family="Arial, sans-serif" font-size="28" fill="#ffecb3">Keshet International 제작 · 이스라엘 원작</text>
+  <text x="60" y="445" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffffff">23세 딸 Gali, 마약 밀수 혐의</text>
+  <text x="60" y="490" font-family="Arial, sans-serif" font-size="30" fill="#ffcdd2">엄마 Orna, 러시아 범죄 네트워크로 끌려가다</text>
+  <text x="60" y="540" font-family="Arial, sans-serif" font-size="26" fill="#ffcdd2">매주 금요일 1화씩 · 6월 19일 완결</text>
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.65)">ambitstock.com · Apple TV+ 2026 May</text>
+</svg>

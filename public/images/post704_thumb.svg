@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg704" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0b1020"/>
+      <stop offset="55%" style="stop-color:#1a237e"/>
+      <stop offset="100%" style="stop-color:#283593"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg704)"/>
+  <rect x="0" y="0" width="1200" height="60" fill="rgba(0,0,0,0.4)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="rgba(0,0,0,0.45)"/>
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#80d8ff">Apple TV+ | 2026 May Guide</text>
+  <text x="60" y="170" font-family="Arial, sans-serif" font-size="88" font-weight="900" fill="#ffffff">애플TV+ 5월 2026</text>
+  <text x="60" y="258" font-family="Arial, sans-serif" font-size="46" font-weight="bold" fill="#ffeb3b">3주 간격 신작 3편 완전 가이드</text>
+  <text x="60" y="330" font-family="Arial, sans-serif" font-size="30" fill="#b3e5fc">Unconditional (5/8) · Maximum Pleasure Guaranteed (5/20)</text>
+  <text x="60" y="375" font-family="Arial, sans-serif" font-size="30" fill="#b3e5fc">Star City (5/29) — For All Mankind 소련 스핀오프</text>
+  <text x="60" y="460" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#ff8a80">심리 스릴러 · 블랙코미디 · 대체역사 우주</text>
+  <text x="60" y="510" font-family="Arial, sans-serif" font-size="28" fill="#e3f2fd">취향별 시청 순서 · 매슬라니 · 라이스 이판스</text>
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.7)">ambitstock.com</text>
+</svg>
