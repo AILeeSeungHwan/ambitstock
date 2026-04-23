@@ -1,5 +1,43 @@
 const posts = [
   {
+    id: 706,
+    slug: 'salmokji-boxoffice-phenomenon-genz-15days-rank1-2026',
+    title: '살목지 흥행 현상 분해 — 15일 연속 박스오피스 1위·160만 돌파, 젠지 관객이 만든 2026 봄 K-공포 신드롬',
+    description: '살목지 박스오피스 분석. 2026년 4월 8일 개봉 · 15일 연속 1위 · 누적 160만 돌파 · 손익분기점 2배. 김혜윤 주연 · 이상민 감독 장편 데뷔작. 10대 관객 10.7%(노이즈 6.9% 상회) 젠지 신드롬, 스마트워치 경고 밈, N차 관람 포인트, 호불호 가이드 정리.',
+    category: '영화추천',
+    date: '2026-04-24',
+    tags: ['트렌드', '살목지', '김혜윤', '이상민감독', '한국공포영화', '2026박스오피스', '젠지관객', 'N차관람', '로드뷰괴담'],
+    thumbnail: '/images/post706_thumb.svg',
+    relatedSlugs: [
+      'girigo-vs-apex-netflix-april-24-2026-comparison',
+      'soldout-today-episode1-ratings-33-review-rebound-2026',
+      'mojamussa-vs-grand-princess-2026-kdrama-compare',
+      'deathgame-season2-last-winner-netflix-2026-review'
+    ],
+    contentType: '리뷰',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
+    id: 705,
+    slug: 'deathgame-season2-last-winner-netflix-2026-review',
+    title: '데스게임 시즌2 최후의 승자 리뷰 — 2026년 4월 22일 공개 · 11인 토너먼트 전환 · 뉴페이스 3인 합류 완전 정리',
+    description: '넷플릭스 데스게임 시즌2: 최후의 승자 리뷰. 2026년 4월 22일 공개, 11인 토너먼트 단판제로 전면 개편. 홍진호·딘딘·가을·펭수·박성웅·서출구·유리사·허성범 복귀 + 곽튜브·지유(KiiiKiii)·박희선 합류. 시즌1과 구조 비교, 관전 포인트 5가지, 호불호 판단 가이드.',
+    category: '드라마',
+    date: '2026-04-24',
+    tags: ['트렌드', '데스게임시즌2', '최후의승자', '넷플릭스예능', '홍진호', '곽튜브', '뇌지컬서바이벌', '토너먼트', '권대현PD'],
+    thumbnail: '/images/post705_thumb.svg',
+    relatedSlugs: [
+      'girigo-vs-apex-netflix-april-24-2026-comparison',
+      'stranger-things-tales-from-85-review-bomb-imdb-reactions-2026',
+      'soldout-today-episode1-ratings-33-review-rebound-2026',
+      'salmokji-boxoffice-phenomenon-genz-15days-rank1-2026'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 704,
     slug: 'apple-tv-plus-may-2026-guide-unconditional-maximum-pleasure-star-city',
     title: '애플TV+ 5월 2026 가이드 — Unconditional·Maximum Pleasure Guaranteed·Star City, 신작 3편 시청 순서와 취향별 매칭',

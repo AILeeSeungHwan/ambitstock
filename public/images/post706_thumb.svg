@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0b1d2d"/>
+      <stop offset="50%" style="stop-color:#263238"/>
+      <stop offset="100%" style="stop-color:#004d40"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="60" fill="rgba(0,0,0,0.5)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="rgba(0,0,0,0.55)"/>
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#ffeb3b">한국 공포 영화 | 2026-04-08 개봉 · 박스오피스 1위</text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="112" font-weight="900" fill="#ffffff">살목지</text>
+  <text x="60" y="230" font-family="Arial, sans-serif" font-size="46" font-weight="bold" fill="#ff8a80">15일 연속 1위 · 누적 160만 돌파</text>
+  <text x="60" y="295" font-family="Arial, sans-serif" font-size="32" fill="#b2dfdb">김혜윤 주연 · 이상민 감독 장편 데뷔작</text>
+  <text x="60" y="345" font-family="Arial, sans-serif" font-size="32" fill="#b2dfdb">10대 관객 비중 10.7% · 노이즈(6.9%) 크게 상회</text>
+  <text x="60" y="440" font-family="Arial, sans-serif" font-size="40" font-weight="900" fill="#ffeb3b">젠지 신드롬의 이유 · N차 관람 포인트 · 호불호 가이드</text>
+  <text x="60" y="500" font-family="Arial, sans-serif" font-size="28" fill="#b2dfdb">로드뷰 괴담 · 저수지 · 수중 촬영 · 호러퀸 김혜윤</text>
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.75)">ambitstock.com</text>
+</svg>

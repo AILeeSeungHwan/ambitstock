@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="50%" style="stop-color:#b71c1c"/>
+      <stop offset="100%" style="stop-color:#e50914"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="60" fill="rgba(0,0,0,0.45)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="rgba(0,0,0,0.5)"/>
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#ffeb3b">넷플릭스 예능 | 2026-04-22 공개 D+2 리뷰</text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="86" font-weight="900" fill="#ffffff">데스게임 시즌2</text>
+  <text x="60" y="235" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffeb3b">최후의 승자 — 토너먼트로 바뀌었다</text>
+  <text x="60" y="305" font-family="Arial, sans-serif" font-size="32" fill="#ffcdd2">홍진호·딘딘·가을·펭수·박성웅 + 곽튜브·키키 지유·박희선</text>
+  <text x="60" y="360" font-family="Arial, sans-serif" font-size="32" fill="#ffcdd2">11인 토너먼트 · 최후 1인 · 매주 수요일 공개</text>
+  <text x="60" y="450" font-family="Arial, sans-serif" font-size="40" font-weight="900" fill="#ffeb3b">시즌1과 뭐가 달라졌나 · 볼지 말지 판단 가이드</text>
+  <text x="60" y="510" font-family="Arial, sans-serif" font-size="28" fill="#ffcdd2">뇌지컬 서바이벌 · 1:1 매치 · 권대현 PD 기획</text>
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.75)">ambitstock.com</text>
+</svg>
