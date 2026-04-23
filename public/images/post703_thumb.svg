@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a237e"/>
+      <stop offset="50%" style="stop-color:#4527a0"/>
+      <stop offset="100%" style="stop-color:#6a1b9a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="60" fill="rgba(0,0,0,0.35)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="rgba(0,0,0,0.4)"/>
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#ffeb3b">SBS 수목 | 2026-04-22 1회 첫방 D+1 리뷰</text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="82" font-weight="900" fill="#ffffff">오늘도 매진했습니다</text>
+  <text x="60" y="240" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#ff8a80">1회 시청률 3.3% 출발</text>
+  <text x="60" y="310" font-family="Arial, sans-serif" font-size="32" fill="#e3f2fd">안효섭 활용도 논란 · 채원빈 우울 서사</text>
+  <text x="60" y="360" font-family="Arial, sans-serif" font-size="32" fill="#e3f2fd">전작 최종 6.9% 대비 절반 수준</text>
+  <text x="60" y="450" font-family="Arial, sans-serif" font-size="44" font-weight="900" fill="#ffeb3b">2회 반등 포인트 3가지 + 취향별 시청 판단</text>
+  <text x="60" y="510" font-family="Arial, sans-serif" font-size="28" fill="#b3e5fc">SBS × 넷플릭스 동시 · 12부작 · 5/28 종영</text>
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.7)">ambitstock.com</text>
+</svg>

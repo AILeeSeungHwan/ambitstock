@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 703,
+    slug: 'soldout-today-episode1-ratings-33-review-rebound-2026',
+    title: '오늘도 매진했습니다 1회 첫방 리뷰 — 시청률 3.3% 출발·안효섭 활용 논란·2회 반등 포인트 완전 정리',
+    description: '오늘도 매진했습니다 1회 첫방 리뷰. 2026년 4월 22일 SBS+넷플릭스 동시 공개, 닐슨 전국 3.3%·수도권 3.7%·최고 4.5% 출발. 안효섭 활용도 논란, 채원빈 우울 서사 지적, 2회 반등 포인트 3가지와 취향별 시청 판단 가이드.',
+    category: '드라마',
+    date: '2026-04-23',
+    tags: ['트렌드', '오늘도매진했습니다', '안효섭', '채원빈', 'SBS수목드라마', '1회시청률', '첫방리뷰', '우울서사', '2026봄드라마'],
+    thumbnail: '/images/post703_thumb.svg',
+    relatedSlugs: [
+      'soldout-today-sbs-review-an-hyoseop-chae-wonbin-watchguide-2026',
+      'mojamussa-vs-grand-princess-2026-kdrama-compare',
+      'april-4th-week-ott-guide-girigo-apex-soldout-2026',
+      'may-2026-ott-guide-netflix-wonderfuls-tving'
+    ],
+    contentType: '리뷰형',
+    platform: 'SBS/넷플릭스',
+    spoilerLevel: 'light'
+  },
+  {
     id: 702,
     slug: 'girigo-vs-apex-netflix-april-24-2026-comparison',
     title: '기리고 vs Apex 비교 가이드 — 2026년 4월 24일 넷플릭스 동시 공개, YA 호러 vs 생존 스릴러 취향별 선택',
