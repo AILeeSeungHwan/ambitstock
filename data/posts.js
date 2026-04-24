@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 707,
+    slug: 'apex-netflix-charlize-theron-review-2026',
+    title: '에이펙스(Apex) 리뷰 — 샤를리즈 테론·테론 에저튼 넷플릭스 서바이벌 스릴러, 호주 아웃백 96분 호불호 완전 정리',
+    description: '넷플릭스 에이펙스(Apex) 2026 리뷰. 2026년 4월 24일 공개 · 96분 · Rotten Tomatoes 68%(19개 리뷰 기준). 발타사르 코르마쿠르 감독, 샤를리즈 테론(암벽등반가 사샤)·테론 에저튼(사냥꾼 벤)·에릭 바나 주연. 호주 뉴사우스웨일스 아웃백 캣앤마우스 서바이벌의 강점·약점·호불호 포인트·비슷한 작품 완전 정리.',
+    category: '영화추천',
+    date: '2026-04-24',
+    tags: ['트렌드', '에이펙스', 'Apex', '샤를리즈테론', '테론에저튼', '발타사르코르마쿠르', '넷플릭스영화', '2026생존스릴러'],
+    thumbnail: '/images/post707_thumb.svg',
+    relatedSlugs: [
+      'girigo-vs-apex-netflix-april-24-2026-comparison',
+      'deathgame-season2-last-winner-netflix-2026-review',
+      'salmokji-boxoffice-phenomenon-genz-15days-rank1-2026',
+      'stranger-things-tales-from-85-review-bomb-imdb-reactions-2026'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'minor'
+  },
+  {
     id: 706,
     slug: 'salmokji-boxoffice-phenomenon-genz-15days-rank1-2026',
     title: '살목지 흥행 현상 분해 — 15일 연속 박스오피스 1위·160만 돌파, 젠지 관객이 만든 2026 봄 K-공포 신드롬',
