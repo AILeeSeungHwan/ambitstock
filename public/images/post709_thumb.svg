@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a12"/>
+      <stop offset="50%" style="stop-color:#1a237e"/>
+      <stop offset="100%" style="stop-color:#e50914"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="60" fill="rgba(0,0,0,0.55)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="rgba(0,0,0,0.6)"/>
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#ffd166">넷플릭스 영화 1위 | 2026-04-25 트렌드 분석</text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="104" font-weight="900" fill="#ffffff">프로젝트 Y</text>
+  <text x="60" y="240" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#ffd166">극장 14만 참패 → 넷플릭스 하루 만에 1위</text>
+  <text x="60" y="310" font-family="Arial, sans-serif" font-size="32" fill="#f5e6c8">한소희 · 전종서 · 김신록 · 이환 감독 범죄 누아르</text>
+  <text x="60" y="360" font-family="Arial, sans-serif" font-size="32" fill="#f5e6c8">1/21 개봉 → 4/17 넷플릭스 공개 → 4/18 1위 등극</text>
+  <text x="60" y="450" font-family="Arial, sans-serif" font-size="40" font-weight="900" fill="#ffd166">역주행 이유 · 재평가 포인트 · 시청 판단 가이드</text>
+  <text x="60" y="510" font-family="Arial, sans-serif" font-size="28" fill="#f5e6c8">여성 범죄 누아르 · 델마와 루이스 연상 콤비</text>
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.78)">ambitstock.com</text>
+</svg>

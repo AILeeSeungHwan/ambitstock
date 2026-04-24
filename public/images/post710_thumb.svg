@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="55%" style="stop-color:#263238"/>
+      <stop offset="100%" style="stop-color:#5d1049"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="60" fill="rgba(0,0,0,0.55)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="rgba(0,0,0,0.6)"/>
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#b39ddb">넷플릭스 화제작 | 2026-04-25 공개 일정 분석</text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="100" font-weight="900" fill="#ffffff">웬즈데이 시즌3</text>
+  <text x="60" y="240" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#b39ddb">2027년까지 기다려야 한다 — 공개 연기 완전 정리</text>
+  <text x="60" y="310" font-family="Arial, sans-serif" font-size="32" fill="#e1bee7">에바 그린 오필리아 프럼프 이모 역 확정</text>
+  <text x="60" y="360" font-family="Arial, sans-serif" font-size="32" fill="#e1bee7">2026년 2월 촬영 시작 · 2027년 여름 공개 유력</text>
+  <text x="60" y="450" font-family="Arial, sans-serif" font-size="40" font-weight="900" fill="#b39ddb">지연 이유 · 신규 캐스트 · 시즌2 복기 가이드</text>
+  <text x="60" y="510" font-family="Arial, sans-serif" font-size="28" fill="#e1bee7">17억 시간 시청 역대 1위 · 팀 버튼 · 제나 오르테가</text>
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.78)">ambitstock.com</text>
+</svg>

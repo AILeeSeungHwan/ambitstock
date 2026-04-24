@@ -1,5 +1,43 @@
 const posts = [
   {
+    id: 710,
+    slug: 'wednesday-season3-2027-release-eva-green-ophelia-2026',
+    title: '웬즈데이 시즌3 2027년 공개 — 에바 그린 오필리아 합류·1년 지연 이유·시즌2 떡밥 복기 가이드',
+    description: '넷플릭스 웬즈데이 시즌3 공개 일정 분석. 2026년 신작 라인업 제외 확정, 2027년 공개 유력. 에바 그린 오필리아 프럼프 이모 役 캐스팅, 2026년 2월 16일 촬영 시작. 1년 지연된 4가지 이유, 시즌2가 깔아둔 떡밥 4가지, 2027년까지 시청 가이드 4단계 정리.',
+    category: '드라마',
+    date: '2026-04-25',
+    tags: ['트렌드', '웬즈데이시즌3', '에바그린', '오필리아프럼프', '제나오르테가', '팀버튼', '넷플릭스드라마', '2027공개', '다크아카데미'],
+    thumbnail: '/images/post710_thumb.svg',
+    relatedSlugs: [
+      'project-y-netflix-rank1-reversal-hansohee-jeonjongseo-2026',
+      'girigo-netflix-opening-day-review-ya-horror-2026',
+      'stranger-things-tales-from-85-review-bomb-imdb-reactions-2026',
+      'netflix-korea-top10-april-4th-week-mojamussa-girigo-2026'
+    ],
+    contentType: '트렌드형',
+    platform: '넷플릭스',
+    spoilerLevel: 'minor'
+  },
+  {
+    id: 709,
+    slug: 'project-y-netflix-rank1-reversal-hansohee-jeonjongseo-2026',
+    title: '프로젝트 Y 넷플릭스 1위 역주행 분석 — 극장 14만 참패 후 OTT 하루 만에 1위, 한소희·전종서 케미가 뒤집은 사례',
+    description: '프로젝트 Y 넷플릭스 역주행 분석. 2026년 1월 21일 개봉 14만 관객 참패, 4월 17일 넷플릭스 공개 후 하루 만에 1위. 한소희·전종서·김신록 주연, 이환 감독(박화영) 여성 범죄 누아르. 극장 참패 이유 3가지, OTT 역주행 이유 4가지, 비슷한 사례 비교, 시청 판단 가이드 정리.',
+    category: '영화추천',
+    date: '2026-04-25',
+    tags: ['트렌드', '프로젝트Y', '한소희', '전종서', '김신록', '이환감독', '넷플릭스영화1위', '여성누아르', 'OTT역주행', '2026한국영화'],
+    thumbnail: '/images/post709_thumb.svg',
+    relatedSlugs: [
+      'wednesday-season3-2027-release-eva-green-ophelia-2026',
+      'salmokji-boxoffice-phenomenon-genz-15days-rank1-2026',
+      'netflix-korea-top10-april-4th-week-mojamussa-girigo-2026',
+      'girigo-netflix-opening-day-review-ya-horror-2026'
+    ],
+    contentType: '트렌드형',
+    platform: '넷플릭스',
+    spoilerLevel: 'minor'
+  },
+  {
     id: 708,
     slug: 'girigo-netflix-opening-day-review-ya-horror-2026',
     title: '기리고 넷플릭스 공개 당일 리뷰 — YA 호러 8부작 소원앱 저주 빈지 가이드, 전소영·백선호·강미나·현우석·이효제',
