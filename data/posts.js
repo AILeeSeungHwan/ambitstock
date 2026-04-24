@@ -1,5 +1,25 @@
 const posts = [
   {
+    id: 708,
+    slug: 'girigo-netflix-opening-day-review-ya-horror-2026',
+    title: '기리고 넷플릭스 공개 당일 리뷰 — YA 호러 8부작 소원앱 저주 빈지 가이드, 전소영·백선호·강미나·현우석·이효제',
+    description: '넷플릭스 기리고 2026 공개 당일 리뷰. 2026년 4월 24일 오후 5시 공개 · 8부작 전회차 동시 · 한국 첫 YA 호러. 박윤서 연출 · 박충섭 각본 · 소원 앱의 저주에 얽힌 고등학생 5인(전소영·강미나·백선호·현우석·이효제)의 공포 수위, 빈지왓칭 순서, 추천·비추천 대상, 비슷한 작품 5선까지 완전 정리.',
+    category: '드라마',
+    date: '2026-04-24',
+    tags: ['트렌드', '기리고', '넷플릭스드라마', 'YA호러', '소원앱저주', '전소영', '백선호', '강미나', '박윤서감독', '2026넷플릭스한국'],
+    thumbnail: '/images/post708_thumb.svg',
+    relatedSlugs: [
+      'apex-netflix-charlize-theron-review-2026',
+      'girigo-vs-apex-netflix-april-24-2026-comparison',
+      'salmokji-boxoffice-phenomenon-genz-15days-rank1-2026',
+      'deathgame-season2-last-winner-netflix-2026-review',
+      'stranger-things-tales-from-85-review-bomb-imdb-reactions-2026'
+    ],
+    contentType: '리뷰',
+    platform: '넷플릭스',
+    spoilerLevel: 'minor'
+  },
+  {
     id: 707,
     slug: 'apex-netflix-charlize-theron-review-2026',
     title: '에이펙스(Apex) 리뷰 — 샤를리즈 테론·테론 에저튼 넷플릭스 서바이벌 스릴러, 호주 아웃백 96분 호불호 완전 정리',

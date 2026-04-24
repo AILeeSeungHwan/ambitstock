@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0b0518"/>
+      <stop offset="55%" style="stop-color:#4b0d6b"/>
+      <stop offset="100%" style="stop-color:#e50914"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="60" fill="rgba(0,0,0,0.55)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="rgba(0,0,0,0.6)"/>
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#ff9bb3">넷플릭스 드라마 | 2026-04-24 공개 당일 리뷰</text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="104" font-weight="900" fill="#ffffff">기리고</text>
+  <text x="60" y="240" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#ff9bb3">소원을 빌면 죽는다 — 한국 첫 YA 호러</text>
+  <text x="60" y="310" font-family="Arial, sans-serif" font-size="32" fill="#f5c6d1">전소영 · 강미나 · 백선호 · 현우석 · 이효제</text>
+  <text x="60" y="360" font-family="Arial, sans-serif" font-size="32" fill="#f5c6d1">박윤서 연출 · 박충섭 각본 · 8부작 전회차 동시공개</text>
+  <text x="60" y="450" font-family="Arial, sans-serif" font-size="40" font-weight="900" fill="#ff9bb3">공포 수위 · 빈지왓칭 순서 · 추천 대상 정리</text>
+  <text x="60" y="510" font-family="Arial, sans-serif" font-size="28" fill="#f5c6d1">YA 호러 · 소원 저주 앱 · 고등학생 5인 생존</text>
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.78)">ambitstock.com</text>
+</svg>
