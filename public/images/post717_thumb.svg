@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3a004d"/>
+      <stop offset="55%" style="stop-color:#6a1b9a"/>
+      <stop offset="100%" style="stop-color:#9c4dcc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="60" fill="rgba(0,0,0,0.55)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="rgba(0,0,0,0.6)"/>
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#ffe082">KBS 2TV 주말드라마 | 2026-04-26</text>
+  <text x="60" y="170" font-family="Arial, sans-serif" font-size="84" font-weight="900" fill="#ffffff">사랑을 처방해 드립니다</text>
+  <text x="60" y="245" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#ffe082">진세연·박기웅 14년 만의 재회 — 시청률 21.9% 후반부 가이드</text>
+  <text x="60" y="310" font-family="Arial, sans-serif" font-size="30" fill="#bbdefb">최고 시청률 21.9% · 분당 19.7% · 50부작 후반부</text>
+  <text x="60" y="353" font-family="Arial, sans-serif" font-size="30" fill="#bbdefb">박지숙 작가 · 한준서 연출 · 각시탈 14년 후 재회</text>
+  <text x="60" y="445" font-family="Arial, sans-serif" font-size="38" font-weight="900" fill="#ffe082">19회 토요일 저녁 8시 KBS 2TV</text>
+  <text x="60" y="500" font-family="Arial, sans-serif" font-size="28" fill="#bbdefb">시청률 추이 · 인물 관계도 · 호불호 가이드</text>
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.78)">ambitstock.com</text>
+</svg>

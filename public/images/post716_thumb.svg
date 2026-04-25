@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1c0d0d"/>
+      <stop offset="55%" style="stop-color:#5d1a1a"/>
+      <stop offset="100%" style="stop-color:#b71c1c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="60" fill="rgba(0,0,0,0.6)"/>
+  <rect x="0" y="580" width="1200" height="50" fill="rgba(0,0,0,0.65)"/>
+  <text x="60" y="42" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#ffe082">한국 영화 트렌드 | 2026-04-22 개봉</text>
+  <text x="60" y="180" font-family="Arial, sans-serif" font-size="120" font-weight="900" fill="#ffffff">란 12.3</text>
+  <text x="60" y="260" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#ffe082">이명세 감독 다큐멘터리 — 박스오피스 2위 출발 흥행 가이드</text>
+  <text x="60" y="325" font-family="Arial, sans-serif" font-size="30" fill="#ffcdd2">관람객 평점 9.94 · 개봉 첫 주말 박스오피스 2위</text>
+  <text x="60" y="368" font-family="Arial, sans-serif" font-size="30" fill="#ffcdd2">280여 시민 영상 + AI/애니메이션 시네마틱 다큐</text>
+  <text x="60" y="455" font-family="Arial, sans-serif" font-size="38" font-weight="900" fill="#ffe082">12·3 비상계엄 그날의 96분</text>
+  <text x="60" y="510" font-family="Arial, sans-serif" font-size="28" fill="#ffcdd2">호불호 가이드 · 추천 대상 · 비슷한 다큐 비교</text>
+  <text x="60" y="608" font-family="Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.78)">ambitstock.com</text>
+</svg>

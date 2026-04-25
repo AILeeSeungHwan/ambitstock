@@ -1,5 +1,45 @@
 const posts = [
   {
+    id: 717,
+    slug: 'kbs-recipe-for-love-sacheobang-saturday-drama-jin-seyeon-park-kiwoong-2026',
+    title: '사랑을 처방해 드립니다 19회 가이드 — 진세연·박기웅 14년 만 재회 KBS 토일 50부작, 후반부 시청률 19.7% 다시 1위',
+    description: '사랑을 처방해 드립니다(사처방) 후반부 가이드. 2026년 1월 31일 첫방 KBS 2TV 토일 8시 50부작, 4월 25일 19회 직전 분당 19.7% 재상승. 진세연(공주아)·박기웅(양현빈) 각시탈(2012) 14년 만 재회, 박지숙 작가·한준서 연출, 두 집안 30년 악연 가족극 정공법, 호불호와 추천 대상 정리.',
+    category: '드라마',
+    date: '2026-04-26',
+    tags: ['트렌드', '사랑을처방해드립니다', '사처방', '진세연', '박기웅', 'KBS주말드라마', '각시탈재회', '50부작가족극', '2026드라마', '주말드라마추천'],
+    thumbnail: '/images/post717_thumb.svg',
+    relatedSlugs: [
+      'tvn-filing-for-love-eunmilhan-gamsa-premiere-guide-shin-hyesun-gongmyung-2026',
+      'jjanggu-movie-jung-woo-debut-baram-spinoff-boxoffice-2026',
+      'girigo-qa-ending-explained-wish-app-curse-siwon-netflix-2026',
+      'childrens-day-family-movies-top5-ott-2026-may-disney-netflix',
+      'ran-12-3-documentary-lee-myungse-boxoffice-guide-2026'
+    ],
+    contentType: '트렌드형',
+    platform: 'KBS 2TV / Apple TV',
+    spoilerLevel: 'low'
+  },
+  {
+    id: 716,
+    slug: 'ran-12-3-documentary-lee-myungse-boxoffice-guide-2026',
+    title: '란 12.3 박스오피스 가이드 — 이명세 감독 13년 만 다큐, 4월 22일 개봉 평점 9.94 시네마틱 다큐멘터리 흥행 분석',
+    description: '란 12.3 박스오피스 분석. 2026년 4월 22일 개봉 96분, 첫날 박스오피스 2위·예매율 13.1%·일일 4만5천. 이명세 감독 13년 만 신작이자 첫 다큐, 280여 시민 영상 + AI/애니메이션 시네마틱 다큐. 인터뷰·내레이션 없는 보여주기 구성, 실관람객 평점 9.94, 호불호와 추천 대상·비슷한 다큐 비교 정리.',
+    category: '영화추천',
+    date: '2026-04-26',
+    tags: ['트렌드', '란12.3', '이명세감독', '비상계엄다큐', '시네마틱다큐멘터리', '한국다큐영화', '4월개봉영화', '2026박스오피스', '한국영화추천'],
+    thumbnail: '/images/post716_thumb.svg',
+    relatedSlugs: [
+      'jjanggu-movie-jung-woo-debut-baram-spinoff-boxoffice-2026',
+      'salmokji-boxoffice-phenomenon-genz-15days-rank1-2026',
+      'april-2026-theater-movies-top7-mario-prada-scream',
+      'childrens-day-family-movies-top5-ott-2026-may-disney-netflix',
+      'kbs-recipe-for-love-sacheobang-saturday-drama-jin-seyeon-park-kiwoong-2026'
+    ],
+    contentType: '트렌드형',
+    platform: '극장',
+    spoilerLevel: 'none'
+  },
+  {
     id: 715,
     slug: 'girigo-qa-ending-explained-wish-app-curse-siwon-netflix-2026',
     title: '기리고 Q&A 결말 해석 가이드 — 소원앱 정체·시원의 피의 저주·세아 vs 나리·시즌2 떡밥 9문 9답',
