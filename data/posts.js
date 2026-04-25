@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 711,
+    slug: 'marty-supreme-overseas-reactions-rotten-tomatoes-imdb-letterboxd-2026',
+    title: '마티 슈프림 해외반응 정리 — 로튼토마토 93%·IMDb 7.8·A24 역대 최고 흥행 1.91억 달러, 티모시 샬라메 호불호 분기점',
+    description: '마티 슈프림(Marty Supreme) 해외반응 정리. 2026년 4월 24일 HBO Max 공개, 로튼토마토 비평 93%(353리뷰), IMDb 7.8, 글로벌 1.91억 달러로 A24 역대 최고 흥행. 골든글로브·크리틱스 초이스 남우주연상, Oscar 9개 노미네이트. 비평 93% vs 관객 70%대 격차 원인, Letterboxd·Reddit 인용, 한국 시청자 호불호 매칭표.',
+    category: '해외반응후기',
+    date: '2026-04-25',
+    tags: ['트렌드', '마티슈프림', 'MartySupreme', '티모시샬라메', '조쉬사프디', 'A24영화', '로튼토마토93', 'HBOMax', 'Oscar2026해외반응'],
+    thumbnail: '/images/post711_thumb.svg',
+    relatedSlugs: [
+      'stranger-things-tales-from-85-review-bomb-imdb-reactions-2026',
+      'apex-netflix-charlize-theron-review-2026',
+      'girigo-netflix-opening-day-review-ya-horror-2026',
+      'wednesday-season3-2027-release-eva-green-ophelia-2026'
+    ],
+    contentType: '해외반응정리형',
+    platform: 'HBO Max',
+    spoilerLevel: 'none'
+  },
+  {
     id: 710,
     slug: 'wednesday-season3-2027-release-eva-green-ophelia-2026',
     title: '웬즈데이 시즌3 2027년 공개 — 에바 그린 오필리아 합류·1년 지연 이유·시즌2 떡밥 복기 가이드',
