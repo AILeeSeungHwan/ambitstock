@@ -54,6 +54,9 @@ y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
         {/* Google Search Console */}
         <meta name="google-site-verification" content="2DAD_BGWxdRXKWrw6lYKe6e0p3BLAiAXbMHVYXrU48k" />
 
+        {/* RSS 피드 자동 발견 */}
+        <link rel="alternate" type="application/rss+xml" title="R의 필름공장 RSS" href="https://ambitstock.com/rss.xml" />
+
         {/* SEO Meta */}
         <meta name="keywords" content="영화 추천, 넷플릭스 추천, 드라마 추천, 해외반응, 마블, 애니메이션, OTT 추천, 영화 리뷰, 결말 해석, R의 필름공장" />
         <meta name="author" content="R의 필름공장" />

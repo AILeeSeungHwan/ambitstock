@@ -321,11 +321,16 @@ LOGSCRIPT
 # 요약 파일 갱신 (새 포스트 반영)
 node scripts/update-posts-summary.js
 
+# ─── sitemap.xml + rss.xml 자동 갱신 ───
+echo "$LOG_PREFIX sitemap.xml + rss.xml 업데이트..."
+node scripts/generate-sitemap.js
+node scripts/generate-rss.js
+
 # Git
-git add posts/ data/ public/sitemap.xml
-git commit -m "[auto]: ${NEW_COUNT}개 포스팅 자동 생성 (ID ${START_ID}~)
+git add posts/ data/ public/sitemap.xml public/rss.xml
+git commit -m "[auto-trend]: ${NEW_COUNT}편 자동 생성 — ${TODAY}
 // 트렌드 키워드: ${KEYWORD_LIST}
-// auto-post.sh ${TODAY}"
+// sitemap + rss 자동 갱신"
 
 git push origin main
 
