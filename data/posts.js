@@ -1,5 +1,25 @@
 const posts = [
   {
+    id: 715,
+    slug: 'girigo-qa-ending-explained-wish-app-curse-siwon-netflix-2026',
+    title: '기리고 Q&A 결말 해석 가이드 — 소원앱 정체·시원의 피의 저주·세아 vs 나리·시즌2 떡밥 9문 9답',
+    description: '기리고 넷플릭스 Q&A 결말 해석. 박윤서 감독 한국 첫 YA 호러 8부작, 소원앱 작동 메커니즘, 김시원·혜룽의 피의 소원, 임나리 배신 이유, 형욱 자해 의미, 영계에서 부서진 폰, 미드 크레딧 기리고 2.0 시즌2 떡밥까지 9문 9답으로 완전 해석.',
+    category: '드라마',
+    date: '2026-04-25',
+    tags: ['트렌드', '기리고', '넷플릭스', 'YA호러', '결말해석', 'Q&A해석', '소원앱', '박윤서감독', '전소영', 'K호러'],
+    thumbnail: '/images/post715_thumb.svg',
+    relatedSlugs: [
+      'girigo-netflix-opening-day-review-ya-horror-2026',
+      'girigo-vs-apex-netflix-april-24-2026-comparison',
+      'april-4th-week-ott-guide-girigo-apex-soldout-2026',
+      'pokssak-sokassuda-qa-ending-guksik-death-netflix-2025',
+      'sinners-qa-guide-smoke-stack-vampire-blues-ending-2026'
+    ],
+    contentType: 'Q&A해석형',
+    platform: '넷플릭스',
+    spoilerLevel: 'heavy'
+  },
+  {
     id: 714,
     slug: 'jjanggu-movie-jung-woo-debut-baram-spinoff-boxoffice-2026',
     title: '짱구 영화 정우 감독 데뷔작 — 17년 만의 바람 스핀오프, 박스오피스 2위·좌석판매율 1위 흥행 분석 가이드',

@@ -5,13 +5,31 @@
     <link>https://ambitstock.com/</link>
     <description>영화 추천, 결말 해석, 해외반응, 드라마·애니·마블 정보를 한곳에서. OTT 구독 가이드 포함.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 25 Apr 2026 09:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 11:38:30 GMT</lastBuildDate>
     <atom:link href="https://ambitstock.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ambitstock.com/favicon.svg</url>
       <title>R의 필름공장 — 영화 추천·결말 해석·해외반응 허브</title>
       <link>https://ambitstock.com/</link>
     </image>
+    <item>
+      <title>기리고 Q&amp;A 결말 해석 가이드 — 소원앱 정체·시원의 피의 저주·세아 vs 나리·시즌2 떡밥 9문 9답</title>
+      <link>https://ambitstock.com/girigo-qa-ending-explained-wish-app-curse-siwon-netflix-2026/</link>
+      <guid isPermaLink="true">https://ambitstock.com/girigo-qa-ending-explained-wish-app-curse-siwon-netflix-2026/</guid>
+      <description>기리고 넷플릭스 Q&amp;A 결말 해석. 박윤서 감독 한국 첫 YA 호러 8부작, 소원앱 작동 메커니즘, 김시원·혜룽의 피의 소원, 임나리 배신 이유, 형욱 자해 의미, 영계에서 부서진 폰, 미드 크레딧 기리고 2.0 시즌2 떡밥까지 9문 9답으로 완전 해석.</description>
+      <pubDate>Fri, 24 Apr 2026 15:00:00 GMT</pubDate>
+      <category>드라마</category>
+      <category>트렌드</category>
+      <category>기리고</category>
+      <category>넷플릭스</category>
+      <category>YA호러</category>
+      <category>결말해석</category>
+      <category>Q&amp;A해석</category>
+      <category>소원앱</category>
+      <category>박윤서감독</category>
+      <category>전소영</category>
+      <category>K호러</category>
+    </item>
     <item>
       <title>짱구 영화 정우 감독 데뷔작 — 17년 만의 바람 스핀오프, 박스오피스 2위·좌석판매율 1위 흥행 분석 가이드</title>
       <link>https://ambitstock.com/jjanggu-movie-jung-woo-debut-baram-spinoff-boxoffice-2026/</link>
@@ -855,22 +873,6 @@
       <category>이창진</category>
       <category>해외드라마</category>
       <category>Q&amp;A해석</category>
-    </item>
-    <item>
-      <title>기리고 넷플릭스 4월 24일 공개 — 한국 최초 YA 호러, 소원 빌면 죽는 앱의 공포</title>
-      <link>https://ambitstock.com/girigo-netflix-ya-horror-2026/</link>
-      <guid isPermaLink="true">https://ambitstock.com/girigo-netflix-ya-horror-2026/</guid>
-      <description>기리고 넷플릭스 4월 24일 공개. 한국 최초 YA 호러 시리즈 — 소원 이루어주는 앱이 24시간 사망 타이머를 건다. 킹덤·무빙 박윤서 감독, 신인 배우 전소영·강미나, 8화 구성. 바디캠 연출·입체 음향으로 체험형 공포 설계. 추천 대상과 기대 포인트 정리.</description>
-      <pubDate>Wed, 15 Apr 2026 15:00:00 GMT</pubDate>
-      <category>드라마</category>
-      <category>기리고</category>
-      <category>넷플릭스</category>
-      <category>한국드라마</category>
-      <category>YA호러</category>
-      <category>공포드라마</category>
-      <category>2026신작</category>
-      <category>트렌드</category>
-      <category>넷플릭스신작</category>
     </item>
   </channel>
 </rss>
