@@ -5,13 +5,31 @@
     <link>https://ambitstock.com/</link>
     <description>영화 추천, 결말 해석, 해외반응, 드라마·애니·마블 정보를 한곳에서. OTT 구독 가이드 포함.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 25 Apr 2026 04:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 05:37:46 GMT</lastBuildDate>
     <atom:link href="https://ambitstock.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ambitstock.com/favicon.svg</url>
       <title>R의 필름공장 — 영화 추천·결말 해석·해외반응 허브</title>
       <link>https://ambitstock.com/</link>
     </image>
+    <item>
+      <title>어린이날 가족 영화 TOP 5 — 2026 5월 황금연휴 OTT 추천, 인사이드 아웃 2부터 너의 이름은까지 디즈니플러스·넷플릭스 닷새 라인업</title>
+      <link>https://ambitstock.com/childrens-day-family-movies-top5-ott-2026-may-disney-netflix/</link>
+      <guid isPermaLink="true">https://ambitstock.com/childrens-day-family-movies-top5-ott-2026-may-disney-netflix/</guid>
+      <description>2026 어린이날 황금연휴 5월 1~5일 가족 영화 OTT 추천 TOP 5. 디즈니플러스 인사이드 아웃 2(픽사 사춘기 가족 드라마)·모아나 2(2025년 3월 12일 디즈니+ 공개)·위시(디즈니 100주년), 넷플릭스 슈퍼 마리오 브라더스(4/29 갤럭시 극장 개봉 전 복습)·너의 이름은(380만 한국 흥행). 4~13세 자녀 연령별 시청 순서, 추천 비추천 가이드, 닷새 닷새 라인업 완전 정리.</description>
+      <pubDate>Fri, 24 Apr 2026 15:00:00 GMT</pubDate>
+      <category>영화추천</category>
+      <category>어린이날영화</category>
+      <category>가정의달가족영화</category>
+      <category>황금연휴OTT</category>
+      <category>인사이드아웃2</category>
+      <category>모아나2</category>
+      <category>슈퍼마리오브라더스</category>
+      <category>위시디즈니</category>
+      <category>너의이름은</category>
+      <category>디즈니플러스가족</category>
+      <category>넷플릭스가족영화</category>
+    </item>
     <item>
       <title>은밀한 감사 첫방 가이드 — 신혜선·공명 tvN 4월 25일 12부작, 일타스캔들 작가·그놈은 흑염룡 감독, 감사실 밀착감사 로코 완전 정리</title>
       <link>https://ambitstock.com/tvn-filing-for-love-eunmilhan-gamsa-premiere-guide-shin-hyesun-gongmyung-2026/</link>
@@ -853,24 +871,6 @@
       <category>넷플릭스드라마</category>
       <category>K액션드라마</category>
       <category>드라마리뷰</category>
-    </item>
-    <item>
-      <title>허수아비 사전 정보 — 이춘재 33년 후, 박해수×이희준이 쫓는 진실 (ENA 4월 20일)</title>
-      <link>https://ambitstock.com/heosooabi-ena-true-crime-park-haesoo-lee-chungjae-april-2026/</link>
-      <guid isPermaLink="true">https://ambitstock.com/heosooabi-ena-true-crime-park-haesoo-lee-chungjae-april-2026/</guid>
-      <description>허수아비 ENA 4월 20일 첫방. 이춘재 연쇄살인 사건 소재. 살인의 추억 이후, 2019년 진범 자백 후의 이야기. 박해수(형사 강태주)·이희준(검사 차시영)·곽선영(기자 서지원). 1988년~2019년 교차 구성. 12부작.</description>
-      <pubDate>Tue, 14 Apr 2026 15:00:00 GMT</pubDate>
-      <category>드라마</category>
-      <category>트렌드</category>
-      <category>허수아비</category>
-      <category>ENA</category>
-      <category>박해수</category>
-      <category>이희준</category>
-      <category>이춘재</category>
-      <category>화성연쇄살인</category>
-      <category>한국범죄스릴러</category>
-      <category>4월드라마</category>
-      <category>실화소재</category>
     </item>
   </channel>
 </rss>

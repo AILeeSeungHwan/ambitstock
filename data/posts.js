@@ -1,5 +1,25 @@
 const posts = [
   {
+    id: 713,
+    slug: 'childrens-day-family-movies-top5-ott-2026-may-disney-netflix',
+    title: '어린이날 가족 영화 TOP 5 — 2026 5월 황금연휴 OTT 추천, 인사이드 아웃 2부터 너의 이름은까지 디즈니플러스·넷플릭스 닷새 라인업',
+    description: '2026 어린이날 황금연휴 5월 1~5일 가족 영화 OTT 추천 TOP 5. 디즈니플러스 인사이드 아웃 2(픽사 사춘기 가족 드라마)·모아나 2(2025년 3월 12일 디즈니+ 공개)·위시(디즈니 100주년), 넷플릭스 슈퍼 마리오 브라더스(4/29 갤럭시 극장 개봉 전 복습)·너의 이름은(380만 한국 흥행). 4~13세 자녀 연령별 시청 순서, 추천 비추천 가이드, 닷새 닷새 라인업 완전 정리.',
+    category: '영화추천',
+    date: '2026-04-25',
+    tags: ['어린이날영화', '가정의달가족영화', '황금연휴OTT', '인사이드아웃2', '모아나2', '슈퍼마리오브라더스', '위시디즈니', '너의이름은', '디즈니플러스가족', '넷플릭스가족영화'],
+    thumbnail: '/images/post713_thumb.svg',
+    relatedSlugs: [
+      'tvn-filing-for-love-eunmilhan-gamsa-premiere-guide-shin-hyesun-gongmyung-2026',
+      'apple-tv-plus-may-2026-guide-unconditional-maximum-pleasure-star-city',
+      'april-2026-theater-movies-top7-mario-prada-scream',
+      'may-2026-ott-guide-netflix-wonderfuls-tving',
+      '2026-foreign-drama-recommend-top10'
+    ],
+    contentType: 'TOP추천형',
+    platform: '디즈니플러스 / 넷플릭스',
+    spoilerLevel: 'none'
+  },
+  {
     id: 712,
     slug: 'tvn-filing-for-love-eunmilhan-gamsa-premiere-guide-shin-hyesun-gongmyung-2026',
     title: '은밀한 감사 첫방 가이드 — 신혜선·공명 tvN 4월 25일 12부작, 일타스캔들 작가·그놈은 흑염룡 감독, 감사실 밀착감사 로코 완전 정리',
