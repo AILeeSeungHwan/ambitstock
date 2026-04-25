@@ -1,5 +1,25 @@
 const posts = [
   {
+    id: 714,
+    slug: 'jjanggu-movie-jung-woo-debut-baram-spinoff-boxoffice-2026',
+    title: '짱구 영화 정우 감독 데뷔작 — 17년 만의 바람 스핀오프, 박스오피스 2위·좌석판매율 1위 흥행 분석 가이드',
+    description: '짱구 영화 정우 감독·각본·주연 데뷔작 가이드. 2026년 4월 22일 개봉, 박스오피스 2위·좌석판매율 1위, 누적 약 5만2천명. 2009년 바람 17년 만의 후속/스핀오프, 99회 오디션 낙방 배우 지망생 자전적 도전기. 정수정·신승호·현봉식·장항준 카메오, CGV 30대 28%·40대 24% 분포, 호불호·취향 매칭 완전 정리.',
+    category: '영화추천',
+    date: '2026-04-25',
+    tags: ['트렌드', '짱구영화', '정우', '바람후속작', '한국영화추천', '4월개봉영화', '장항준카메오', '정수정', '2026박스오피스', '청춘드라마'],
+    thumbnail: '/images/post714_thumb.svg',
+    relatedSlugs: [
+      'salmokji-boxoffice-phenomenon-genz-15days-rank1-2026',
+      'childrens-day-family-movies-top5-ott-2026-may-disney-netflix',
+      'tvn-filing-for-love-eunmilhan-gamsa-premiere-guide-shin-hyesun-gongmyung-2026',
+      'marty-supreme-overseas-reactions-rotten-tomatoes-imdb-letterboxd-2026',
+      'project-y-netflix-rank1-reversal-hansohee-jeonjongseo-2026'
+    ],
+    contentType: '트렌드형',
+    platform: '극장',
+    spoilerLevel: 'low'
+  },
+  {
     id: 713,
     slug: 'childrens-day-family-movies-top5-ott-2026-may-disney-netflix',
     title: '어린이날 가족 영화 TOP 5 — 2026 5월 황금연휴 OTT 추천, 인사이드 아웃 2부터 너의 이름은까지 디즈니플러스·넷플릭스 닷새 라인업',

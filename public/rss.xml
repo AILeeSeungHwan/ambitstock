@@ -5,13 +5,31 @@
     <link>https://ambitstock.com/</link>
     <description>영화 추천, 결말 해석, 해외반응, 드라마·애니·마블 정보를 한곳에서. OTT 구독 가이드 포함.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 25 Apr 2026 05:37:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 09:21:39 GMT</lastBuildDate>
     <atom:link href="https://ambitstock.com/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ambitstock.com/favicon.svg</url>
       <title>R의 필름공장 — 영화 추천·결말 해석·해외반응 허브</title>
       <link>https://ambitstock.com/</link>
     </image>
+    <item>
+      <title>짱구 영화 정우 감독 데뷔작 — 17년 만의 바람 스핀오프, 박스오피스 2위·좌석판매율 1위 흥행 분석 가이드</title>
+      <link>https://ambitstock.com/jjanggu-movie-jung-woo-debut-baram-spinoff-boxoffice-2026/</link>
+      <guid isPermaLink="true">https://ambitstock.com/jjanggu-movie-jung-woo-debut-baram-spinoff-boxoffice-2026/</guid>
+      <description>짱구 영화 정우 감독·각본·주연 데뷔작 가이드. 2026년 4월 22일 개봉, 박스오피스 2위·좌석판매율 1위, 누적 약 5만2천명. 2009년 바람 17년 만의 후속/스핀오프, 99회 오디션 낙방 배우 지망생 자전적 도전기. 정수정·신승호·현봉식·장항준 카메오, CGV 30대 28%·40대 24% 분포, 호불호·취향 매칭 완전 정리.</description>
+      <pubDate>Fri, 24 Apr 2026 15:00:00 GMT</pubDate>
+      <category>영화추천</category>
+      <category>트렌드</category>
+      <category>짱구영화</category>
+      <category>정우</category>
+      <category>바람후속작</category>
+      <category>한국영화추천</category>
+      <category>4월개봉영화</category>
+      <category>장항준카메오</category>
+      <category>정수정</category>
+      <category>2026박스오피스</category>
+      <category>청춘드라마</category>
+    </item>
     <item>
       <title>어린이날 가족 영화 TOP 5 — 2026 5월 황금연휴 OTT 추천, 인사이드 아웃 2부터 너의 이름은까지 디즈니플러스·넷플릭스 닷새 라인업</title>
       <link>https://ambitstock.com/childrens-day-family-movies-top5-ott-2026-may-disney-netflix/</link>
@@ -853,24 +871,6 @@
       <category>2026신작</category>
       <category>트렌드</category>
       <category>넷플릭스신작</category>
-    </item>
-    <item>
-      <title>사냥개들 시즌2 리뷰 — 정지훈 첫 악역·맨주먹 액션, 시즌1보다 나은가 솔직 평가</title>
-      <link>https://ambitstock.com/bloodhounds-season2-review-wdo-rain-action-2026/</link>
-      <guid isPermaLink="true">https://ambitstock.com/bloodhounds-season2-review-wdo-rain-action-2026/</guid>
-      <description>사냥개들 시즌2 넷플릭스 2026년 4월 3일 공개. IMDb 8.8, 글로벌 비영어 1위(740만 시청). 우도환·이상이 케미, 정지훈 빌런 백정 첫 악역, 베어너클 액션 진화, 시즌1 vs 시즌2 솔직 비교, 추천 대상 총정리.</description>
-      <pubDate>Wed, 15 Apr 2026 15:00:00 GMT</pubDate>
-      <category>드라마</category>
-      <category>사냥개들</category>
-      <category>사냥개들시즌2</category>
-      <category>넷플릭스</category>
-      <category>우도환</category>
-      <category>이상이</category>
-      <category>정지훈</category>
-      <category>Rain</category>
-      <category>넷플릭스드라마</category>
-      <category>K액션드라마</category>
-      <category>드라마리뷰</category>
     </item>
   </channel>
 </rss>
