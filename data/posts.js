@@ -1,5 +1,24 @@
 const posts = [
   {
+    id: 712,
+    slug: 'tvn-filing-for-love-eunmilhan-gamsa-premiere-guide-shin-hyesun-gongmyung-2026',
+    title: '은밀한 감사 첫방 가이드 — 신혜선·공명 tvN 4월 25일 12부작, 일타스캔들 작가·그놈은 흑염룡 감독, 감사실 밀착감사 로코 완전 정리',
+    description: '은밀한 감사(Filing for Love) 첫방 가이드. 2026년 4월 25일 tvN 토일 밤 9시 10분 첫방, 12부작, TVING·웨이브 동시 공개. 신혜선(감사실장 주인아)·공명(풍기문란 적발 노기준) 투톱, 여은호 작가(일타스캔들)·이수현 감독(그놈은 흑염룡). 김재욱·홍화연·이정은·박하선 라인업, 건물주 슬롯 복구 부담, 취향별 추천 대상 완전 정리.',
+    category: '드라마',
+    date: '2026-04-25',
+    tags: ['트렌드', '은밀한감사', '신혜선', '공명', 'tvN토일드라마', '일타스캔들작가', '여은호작가', 'Filing for Love', '2026봄드라마', '오피스로코'],
+    thumbnail: '/images/post712_thumb.svg',
+    relatedSlugs: [
+      'soldout-today-episode1-ratings-33-review-rebound-2026',
+      'soldout-today-sbs-review-an-hyoseop-chae-wonbin-watchguide-2026',
+      'wavve-april-2026-drama-guide-reverse-secret-audit',
+      'tving-april-2026-new-drama-guide-yumis-cells-scarecrow'
+    ],
+    contentType: '트렌드형',
+    platform: 'tvN / TVING / 웨이브',
+    spoilerLevel: 'none'
+  },
+  {
     id: 711,
     slug: 'marty-supreme-overseas-reactions-rotten-tomatoes-imdb-letterboxd-2026',
     title: '마티 슈프림 해외반응 정리 — 로튼토마토 93%·IMDb 7.8·A24 역대 최고 흥행 1.91억 달러, 티모시 샬라메 호불호 분기점',
