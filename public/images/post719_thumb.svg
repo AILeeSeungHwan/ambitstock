@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1b2a;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#1b263b;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#415a77;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e63946;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#f77f00;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1080" cy="120" r="240" fill="#e63946" opacity="0.14"/>
+  <circle cx="120" cy="540" r="200" fill="#fcbf49" opacity="0.12"/>
+  <rect x="0" y="0" width="8" height="630" fill="url(#accent)"/>
+  <rect x="60" y="60" width="280" height="44" rx="22" fill="url(#accent)" opacity="0.95"/>
+  <text x="200" y="90" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">5월 OTT 신작 TOP 7</text>
+  <text x="600" y="200" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="68" font-weight="900" fill="white" text-anchor="middle">2026 황금연휴</text>
+  <text x="600" y="278" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="56" font-weight="900" fill="#fcbf49" text-anchor="middle">OTT 정주행 라인업</text>
+  <rect x="200" y="320" width="800" height="2" fill="white" opacity="0.3"/>
+  <text x="600" y="376" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="30" font-weight="700" fill="#ffd166" text-anchor="middle">한국 4편 + 해외 3편 추천 큐레이션</text>
+  <text x="600" y="430" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="24" fill="#a8dadc" text-anchor="middle">멋진 신세계 · 취사병 전설이 되다 · 원더풀스</text>
+  <text x="600" y="470" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="24" fill="#a8dadc" text-anchor="middle">신입사원 강회장 · 체스트넛맨 시즌2</text>
+  <text x="600" y="510" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="24" fill="#a8dadc" text-anchor="middle">데빌 메이 크라이 시즌2 · 포 시즌즈 시즌2</text>
+  <text x="600" y="580" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="22" fill="#bdc7c9" text-anchor="middle">ambitstock.com · R의 필름공장</text>
+</svg>

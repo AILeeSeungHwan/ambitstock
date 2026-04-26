@@ -1,5 +1,25 @@
 const posts = [
   {
+    id: 719,
+    slug: 'may-2026-ott-new-releases-top7-binge-watching-recommend',
+    title: '5월 OTT 신작 정주행 TOP 7 — 2026년 황금연휴 + 한 달 라인업, 멋진 신세계·취사병·원더풀스·신입사원 강회장 + 체스트넛맨 시즌2·데빌 메이 크라이 시즌2·포 시즌즈 시즌2',
+    description: '2026년 5월 OTT 신작 TOP 7 정주행 큐레이션. 멋진 신세계(임지연·허남준 5/8 SBS 로코), 취사병 전설이 되다(박지훈·윤경호 5/11 tvN), 원더풀스(박은빈·차은우 5/15 넷플릭스 한국 초능력 어드벤처), 신입사원 강회장(손현주·이준영 5/30 JTBC) 한국 4편 + 체스트넛맨 시즌2(5/7), 데빌 메이 크라이 시즌2(5/12), 포 시즌즈 시즌2(5/28) 해외 3편 황금연휴 + 한 달 정주행 추천.',
+    category: '영화추천',
+    date: '2026-04-26',
+    tags: ['트렌드', '5월OTT신작', '황금연휴OTT', '멋진신세계', '취사병전설이되다', '원더풀스', '신입사원강회장', '체스트넛맨시즌2', '데빌메이크라이시즌2', '2026OTT추천'],
+    thumbnail: '/images/post719_thumb.svg',
+    relatedSlugs: [
+      'childrens-day-family-movies-top5-ott-2026-may-disney-netflix',
+      'apple-tv-plus-may-2026-guide-unconditional-maximum-pleasure-star-city',
+      'wednesday-season3-2027-release-eva-green-ophelia-2026',
+      'kbs-recipe-for-love-sacheobang-saturday-drama-jin-seyeon-park-kiwoong-2026',
+      'tvn-filing-for-love-eunmilhan-gamsa-premiere-guide-shin-hyesun-gongmyung-2026'
+    ],
+    contentType: 'TOP추천형',
+    platform: '넷플릭스 / SBS / tvN / JTBC / 티빙',
+    spoilerLevel: 'low'
+  },
+  {
     id: 718,
     slug: 'stranger-things-tales-from-85-ending-explained-qa-guide-2026',
     title: '기묘한 이야기 테일즈 프롬 85 Q&A 결말 해석 가이드 — 호닥의 정체·일레븐의 마지막 일격·블루 플라워 쿠키 영상·시즌3 데모도그 떡밥 9문 9답',
