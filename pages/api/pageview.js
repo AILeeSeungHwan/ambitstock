@@ -1,66 +1,72 @@
-import fs from 'fs'
+import crypto from 'crypto'
+import { createServerClient } from '../../lib/supabase'
 
-const DATA_FILE = '/tmp/pageviews-movie.json'
+const SITE = 'movie'
 
-function readData() {
+function extractKeyword(ref) {
+  if (!ref) return null
   try {
-    if (fs.existsSync(DATA_FILE)) {
-      return JSON.parse(fs.readFileSync(DATA_FILE, 'utf-8'))
-    }
-  } catch (e) {}
-  return {}
+    const url = new URL(ref)
+    const host = url.hostname.toLowerCase()
+    if (host.includes('search.naver.com'))  return url.searchParams.get('query')
+    if (host.includes('bing.com'))          return url.searchParams.get('q')
+    if (host.includes('search.daum.net') || host.includes('search.kakao.com')) return url.searchParams.get('q')
+    if (host.includes('search.zum.com'))    return url.searchParams.get('query') || url.searchParams.get('q')
+    if (host.includes('yahoo.'))            return url.searchParams.get('p') || url.searchParams.get('q')
+    if (host.includes('google.'))           return url.searchParams.get('q')
+    return null
+  } catch { return null }
 }
 
-function writeData(data) {
-  fs.writeFileSync(DATA_FILE, JSON.stringify(data), 'utf-8')
+function detectDevice(ua) {
+  if (!ua) return 'unknown'
+  ua = ua.toLowerCase()
+  if (/ipad|tablet|kindle|playbook/.test(ua)) return 'tablet'
+  if (/mobile|iphone|ipod|android.*mobile|windows phone/.test(ua)) return 'mobile'
+  if (/bot|crawl|spider|slurp|googlebot/.test(ua)) return 'bot'
+  return 'desktop'
 }
 
-export default function handler(req, res) {
-  res.setHeader('Access-Control-Allow-Origin', '*')
-  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type')
-  if (req.method === 'OPTIONS') return res.status(200).end()
+function makeSessionHash(ip, ua) {
+  const daySalt = new Date(Date.now() + 9 * 3600000).toISOString().slice(0, 10)
+  return crypto.createHash('sha256').update(`${ip}|${ua}|${daySalt}`).digest('hex').slice(0, 16)
+}
 
-  if (req.method === 'POST') {
-    const { slug, source, referrer } = req.body || {}
-    if (!slug) return res.status(400).json({ error: 'slug required' })
+export default async function handler(req, res) {
+  if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' })
 
-    const today = new Date().toISOString().slice(0, 10)
-    const data = readData()
+  const { slug, source, referrer, title } = req.body || {}
+  if (!slug) return res.status(400).json({ error: 'slug required' })
 
-    if (!data[slug]) data[slug] = {}
-    if (!data[slug][today]) data[slug][today] = 0
-    data[slug][today] += 1
+  const supabase = createServerClient()
+  if (!supabase) return res.status(200).json({ ok: false, reason: 'not configured' })
 
-    if (!data['_total']) data['_total'] = {}
-    if (!data['_total'][today]) data['_total'][today] = 0
-    data['_total'][today] += 1
+  const ua = req.headers['user-agent'] || ''
+  const ip = (req.headers['x-forwarded-for'] || '').split(',')[0].trim() || req.socket?.remoteAddress || 'unknown'
+  const keyword = extractKeyword(referrer)
+  const device = detectDevice(ua)
+  const sessionHash = makeSessionHash(ip, ua)
+  const kstDate = new Date(Date.now() + 9 * 3600000).toISOString().slice(0, 10)
 
-    const src = source || 'unknown'
-    if (!data['_sources']) data['_sources'] = {}
-    if (!data['_sources'][today]) data['_sources'][today] = {}
-    if (!data['_sources'][today][src]) data['_sources'][today][src] = 0
-    data['_sources'][today][src] += 1
-
-    const pageSourceKey = '_src_' + slug
-    if (!data[pageSourceKey]) data[pageSourceKey] = {}
-    if (!data[pageSourceKey][today]) data[pageSourceKey][today] = {}
-    if (!data[pageSourceKey][today][src]) data[pageSourceKey][today][src] = 0
-    data[pageSourceKey][today][src] += 1
-
-    writeData(data)
-
-    return res.status(200).json({
-      slug, date: today, source: src,
-      count: data[slug][today],
-      totalToday: data['_total'][today],
+  try {
+    const { error } = await supabase.from('pageview_events').insert({
+      date: kstDate,
+      slug: String(slug).slice(0, 300),
+      title: title ? String(title).slice(0, 300) : null,
+      source: source || 'unknown',
+      keyword: keyword ? decodeURIComponent(keyword).trim().slice(0, 200) : null,
+      referrer: referrer ? String(referrer).slice(0, 500) : null,
+      session_hash: sessionHash,
+      device,
+      site: SITE,
     })
+    if (error) {
+      console.error('[pageview] insert error:', error.message)
+      return res.status(200).json({ ok: false, error: error.message })
+    }
+    return res.status(200).json({ ok: true })
+  } catch (e) {
+    console.error('[pageview] exception:', e.message)
+    return res.status(200).json({ ok: false, error: e.message })
   }
-
-  if (req.method === 'GET') {
-    const data = readData()
-    return res.status(200).json(data)
-  }
-
-  res.status(405).json({ error: 'Method not allowed' })
 }
