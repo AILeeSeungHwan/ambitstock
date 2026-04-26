@@ -1,5 +1,25 @@
 const posts = [
   {
+    id: 718,
+    slug: 'stranger-things-tales-from-85-ending-explained-qa-guide-2026',
+    title: '기묘한 이야기 테일즈 프롬 85 Q&A 결말 해석 가이드 — 호닥의 정체·일레븐의 마지막 일격·블루 플라워 쿠키 영상·시즌3 데모도그 떡밥 9문 9답',
+    description: '기묘한 이야기 테일즈 프롬 85 결말 9문 9답 해석. 1985년 겨울 시즌2~3 사이 시간대, 호닥(Queen)과 베크나의 차이, 댄 피셔 그린하우스 실험, 신캐릭터 니키 백스터 본편 부재, 일레븐의 마지막 일격, 푸른 꽃 쿠키 영상의 데모고곤 떡밥, 본편 캐스트 불참 이유, 시즌5 결말 연결고리까지 스포일러 포함 정리.',
+    category: '애니메이션',
+    date: '2026-04-26',
+    tags: ['기묘한이야기', '테일즈프롬85', '결말해석', 'Q&A해석', '넷플릭스애니메이션', '스트레인저씽즈스핀오프', '호닥정체', '데모고곤떡밥', '2026넷플릭스'],
+    thumbnail: '/images/post718_thumb.svg',
+    relatedSlugs: [
+      'stranger-things-tales-from-85-review-bomb-imdb-reactions-2026',
+      'stranger-things-tales-from-85-netflix-april-23-d1-guide-2026',
+      'stranger-things-series-complete-guide-watch-order-2026',
+      'girigo-qa-ending-explained-wish-app-curse-siwon-netflix-2026',
+      'kbs-recipe-for-love-sacheobang-saturday-drama-jin-seyeon-park-kiwoong-2026'
+    ],
+    contentType: 'Q&A해석형',
+    platform: '넷플릭스',
+    spoilerLevel: 'high'
+  },
+  {
     id: 717,
     slug: 'kbs-recipe-for-love-sacheobang-saturday-drama-jin-seyeon-park-kiwoong-2026',
     title: '사랑을 처방해 드립니다 19회 가이드 — 진세연·박기웅 14년 만 재회 KBS 토일 50부작, 후반부 시청률 19.7% 다시 1위',

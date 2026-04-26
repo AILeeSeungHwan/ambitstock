@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0014;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#1a0033;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#3d0066;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0a47;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#6f00ff;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ff00aa;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1080" cy="120" r="240" fill="#ff0a47" opacity="0.12"/>
+  <circle cx="120" cy="540" r="200" fill="#00d4ff" opacity="0.1"/>
+  <rect x="0" y="0" width="8" height="630" fill="url(#accent)"/>
+  <rect x="60" y="60" width="240" height="44" rx="22" fill="url(#accent)" opacity="0.95"/>
+  <text x="180" y="90" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">Q&amp;A 결말 해석</text>
+  <text x="600" y="200" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="68" font-weight="900" fill="white" text-anchor="middle">기묘한 이야기</text>
+  <text x="600" y="278" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="56" font-weight="900" fill="#00d4ff" text-anchor="middle">테일즈 프롬 &#39;85</text>
+  <rect x="200" y="320" width="800" height="2" fill="white" opacity="0.3"/>
+  <text x="600" y="376" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="30" font-weight="700" fill="#ffd54f" text-anchor="middle">9문 9답 결말 해석 가이드</text>
+  <text x="600" y="430" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="24" fill="#ffccbc" text-anchor="middle">호닥의 정체 · 일레븐의 마지막 일격</text>
+  <text x="600" y="470" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="24" fill="#ffccbc" text-anchor="middle">댄 피셔 그린하우스 · 푸른 꽃 쿠키 영상</text>
+  <text x="600" y="510" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="24" fill="#ffccbc" text-anchor="middle">시즌3 데모도그 떡밥 · 본편 캐스트 불참</text>
+  <text x="600" y="580" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="22" fill="#ce93d8" text-anchor="middle">ambitstock.com · R의 필름공장</text>
+</svg>
